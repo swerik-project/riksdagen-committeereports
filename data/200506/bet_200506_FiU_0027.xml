@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200506_FiU_0027">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Regeringen har lämnat sin årliga utvärdering av statens upplåning och förvaltning av statsskulden. Utvärderingen gäller för perioden 2001-2005. Regeringens riktlinjer för statsskuldsförvaltningen har inneburit en mindre risk i statsskulden och att besparingar kunnat göras, anser riksdagen. Regeringen tänker låta en extern utredare se över hela statsskuldspolitiken, vilket riksdagen välkomnar. Riksdagen konstaterar att resultaten av Riksgäldskontoret förvaltning av statsskulden är positiva och avslutar ärendet utan att göra några tillägg.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Statens upplåning och skuldförvaltning (FiU27)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Skrivelsen läggs till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GT09141</idno>
+              <title>2006-06-14</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">141</biblScope>
+              <note type="display-reference">2006-06-14</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GT09141</idno>
+              <title>2006-06-14</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">141</biblScope>
+              <note type="display-reference">2006-06-14</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GT0K376</idno>
+              <title>2005/06:376</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">376</biblScope>
+              <note type="display-reference">2005/06:376</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="skr">
+              <idno type="riksdagen">GT03104</idno>
+              <title>Utvärdering av statens upplåning och skuldförvaltning 2001-2005</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">104</biblScope>
+              <note type="display-reference">regeringsskrivelse 2005/06:104 Utvärdering av statens upplåning och skuldförvaltning 2001-2005</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2006-06-12">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2006-06-12">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2006-06-07">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2006-06-07">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2006-06-05">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-06-01">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-06-01">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-05-18">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-05-18">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2006-06-14">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2006-06-14">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2006-06-14">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-06-14">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-06-14">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-06-13">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-06-13">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-06-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-06-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2005/06:FiU27
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Statens upplåning och skuldförvaltning (skr. 2005/06:104)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDABJKZB" rend="AvsnittsRubrik">
+            Sammanfattning
+          </p>
+          <p>
+            Regeringen lämnar varje vår en skrivelse till riksdagen om hur
+            statsskulden har förvaltats den senaste femårsperioden. Tyngdpunkten
+            i redovisningen ligger av naturliga skäl på det senaste året.
+          </p>
+          <p>
+            Statsskulden förvaltas av Riksgäldskontoret (RGK) efter riktlinjer
+            som regeringen fastställer på hösten i november inför varje budgetår.
+            Riktlinjerna bygger i sin tur på ett förslag från Riksgäldskontoret
+            som lämnas under oktober. Målet för statsskuldsförvaltningen är
+            att de långsiktiga kostnaderna för statsskulden ska minimeras
+            samtidigt som riskerna beaktas. Förvaltningen ska ske inom ramen
+            för de krav som penningpolitiken ställer. Målet är långsiktigt
+            och regeringen har därför funnit det lämpligt att tillämpa femåriga
+            rullande utvärderingsperioder. Årets utvärdering omfattar perioden
+            2001-2005. Ingen motion har väckts med anledning av skrivelsen.
+          </p>
+          <p>
+            Regeringen gör i skrivelsen en uppdelning av utvärderingen i
+            tre nivåer efter hur ansvaret för utformningen av statsskuldspolitiken
+            är fördelat: regeringens riktlinjer, Riksgäldskontorets strategiska
+            beslut om delmål och Riksgäldskontorets operativa förvaltning
+            av statsskulden.
+          </p>
+          <p>
+            Utskottets utvärdering är uppdelad på två nivåer: regeringens
+            beslut om riktlinjer och Riksgäldskontorets strategiska beslut
+            och operativa förvaltning av statsskulden.
+          </p>
+          <p>
+            Sammantaget har regeringens riktlinjer för statsskuldsförvaltningen
+            enligt utskottets bedömning inneburit en minskad risk i statsskulden
+            samtidigt som vissa besparingar har kunnat göras. Enligt utskottets
+            mening har således regeringens beslut om riktlinjer för åren 2001-2005
+            fattats i enlighet med det uppställda målet att långsiktigt minimera
+            kostnaderna för statsskulden med beaktande av risken i förvaltningen.
+          </p>
+          <p>
+            Den utvärderingsprocess som tillämpas för statsskuldspolitiken
+            skiljer sig, som utskottet påpekat vid flera tillfällen, i väsentliga
+            delar från vad som är normalt i andra sammanhang. Utskottet har
+            konstaterat att regeringen utvärderar sina egna riktlinjer för
+            statsskuldspolitiken och att någon utomstående utvärdering inte
+            görs. Regeringen aviserar i årets skrivelse att denna fråga kommer
+            att prioriteras inför nästa års utvärdering och man avser att
+            låta en extern utvärderare få i uppdrag att se över hela statsskuldspolitiken.
+            Utskottet välkomnar detta initiativ från regeringens sida och
+            anser att det finns skäl för utskottet att avvakta och se resultatet
+            av den aviserade utredningen.
+          </p>
+          <p>
+            Utskottet ansåg i det senaste betänkandet om statsskuldspolitiken
+            att regeringen borde överväga om det övergripande målet att långsiktigt
+            minimera kostnaderna behöver kvalificeras så att för den inhemska
+            upplåningen och skuldförvaltningen bör gälla att Riksgäldskontoret
+            inom ramen för det övergripande kostnadsminimeringsmålet bör verka
+            för en likvid och effektiv statspappersmarknad.
+          </p>
+          <p>
+            Regeringen anser att det är viktigt med en väl fungerande svensk
+            obligationsmarknad. Riksgäldskontoret har därför i uppgift att
+            genom skuld- och marknadsvård förbättra marknadens funktion och
+            skapa en likvid avkastningskurva på den svenska räntemarknaden.
+            Utskottet ser därför med tillfredsställelse att regeringen har
+            beslutat att målet om marknads- och skuldvården fr.o.m. 2006 ska
+            ingå och tydliggöras i regeringens riktlinjer för statsskuldspolitiken.
+            Riksgäldskontoret ska genom skuld- och marknadsvårdande åtgärder
+            bidra till att förbättra marknadens funktion. Sådana åtgärder
+            får inte medföra att målet om långsiktig kostnadsminimering åsidosätts.
+          </p>
+          <p>
+            Utskottets helhetsintryck av Riksgäldskontorets verksamhet ger
+            ingen anledning till kritik mot kontoret och de resultat som uppnåtts.
+            För de delar av förvaltningen där kvantitativa mått har kunnat
+            anges visar förvaltningen i huvudsak positiva resultat för 2005,
+            och resultaten är genomgående positiva sett över hela utvärderingsperioden.
+          </p>
+          <p>
+            Utskottet anser att den avvägning mellan marknadsvård och löptidsstyrning
+            som Riksgäldskontoret gjort under 2005 har varit rimlig. Det är
+            Riksgäldskontorets uppgift att utifrån regeringens riktlinjer
+            göra en avvägning mellan de marknadsvårdande insatserna och målet
+            att långsiktigt minimera kostnaderna. Utskottet anser att Riksgäldskontoret
+            inom ramen för det övergripande målet verkar för en likvid och
+            effektiv statspappersmarknad.
+          </p>
+          <p xml:id="IDADKKZB" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Utvärdering av regeringens beslut om riktlinjer för statsskuldsförvaltningen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen godkänner vad utskottet anför om regeringens beslut
+                  om riktlinjer för statens upplåning och skuldförvaltning. Därmed
+                  lägger riksdagen skrivelse 2005/06:104 i denna del till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Utvärdering av Riksgäldskontorets beslut om upplåning och skuldförvaltning
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen godkänner vad utskottet anför om Riksgäldskontorets
+                  strategiska och operativa beslut om upplåning och skuldförvaltning.
+                  Därmed lägger riksdagen skrivelse 2005/06:104 i denna del till
+                  handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 1 juni 2006
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Arne Kjörnsberg
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Arne Kjörnsberg (s),
+            Mikael Odenberg (m), Carin Lundberg (s), Karin Pilsäter (fp),
+            Sonia Karlsson (s), Kjell Nordström (s), Mats Odell (kd), Lars
+            Bäckström (v), Agneta Ringman (s), Gunnar Axén (m), Bo Bernhardsson
+            (s), Roger Tiefensee (c), Hans Hoff (s), Agneta Gille (s), Tomas
+            Högström (m), Gunnar Nordmark (fp) och Mikael Johansson (mp).
+          </p>
+          <p xml:id="IDAXPKZB" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDA0PKZB" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Regeringen lämnar varje vår en skrivelse till riksdagen om hur
+            statsskulden har förvaltats den senaste femårsperioden. Tyngdpunkten
+            i redovisningen ligger av naturliga skäl på det senaste året.
+          </p>
+          <p>
+            Statsskulden förvaltas av Riksgäldskontoret (RGK) efter riktlinjer
+            som regeringen fastställer på hösten i november inför varje budgetår.
+            Riktlinjerna bygger i sin tur på ett förslag från Riksgäldskontoret
+            som lämnas under oktober. Målet för statsskuldsförvaltningen är
+            att de långsiktiga kostnaderna för statsskulden ska minimeras
+            samtidigt som riskerna beaktas. Förvaltningen ska ske inom ramen
+            för de krav som penningpolitiken ställer. Målet är långsiktigt
+            och regeringen har därför funnit det lämpligt att tillämpa femåriga
+            rullande utvärderingsperioder. Årets utvärdering omfattar perioden
+            2001-2005.
+          </p>
+          <p>
+            Ingen motion har väckts med anledning av skrivelsen.
+          </p>
+          <p xml:id="IDAJYKZB" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Riksgäldskontoret följer de av regeringen fastställda riktlinjerna
+            i sin förvaltning av statsskulden och för den statliga upplåningen
+            för att finansiera budgetunderskottet. Av riktlinjerna framgår
+            Riksgäldskontorets handlingsutrymme för hanteringen av statsskuldsfrågorna.
+            Senast i februari lämnar Riksgäldskontoret sin berättelse om hur
+            förvaltningen genomförts under det senaste verksamhetsåret. Berättelsen
+            utgör underlaget för regeringens skrivelse till riksdagen som
+            ska lämnas senast den 25 april. Tanken är att de uttalanden som
+            riksdagen eventuellt gör i samband med behandlingen av skrivelsen
+            på våren ska kunna beaktas vid utformningen av riktlinjerna för
+            nästa år. Regeringen avser att utfärda sina riktlinjer för statsskuldsförvaltningen
+            för 2007 den 15 november 2006.
+          </p>
+          <p>
+            Regeringen gör i skrivelsen en uppdelning av utvärderingen i
+            tre nivåer efter hur ansvaret för utformningen av statsskuldspolitiken
+            är fördelat:
+          </p>
+          <p rend="uppraknadlista">
+            1. Regeringen anger riktlinjer för statsskuldens sammansättning,
+            dvs. hur valutaskulden, nominella kronskulden och den reala skulden
+            ska hanteras.
+          </p>
+          <p rend="uppraknadlista">
+            2. Riksgäldskontorets styrelse ansvarar för att det övergripande
+            målet och riktlinjerna omsätts i riktmärken och delmål. Det är
+            Riksgäldskontorets strategiska beslut.
+          </p>
+          <p rend="uppraknadlista">
+            3. Riksgäldskontoret ansvarar sedan för den operativa förvaltningen.
+          </p>
+          <p>
+            Utskottets utvärdering är uppdelad på två nivåer: regeringens
+            beslut om riktlinjer och Riksgäldskontorets strategiska beslut
+            och operativa förvaltning av statsskulden.
+          </p>
+          <p>
+            I årets skrivelse redovisas även regeringens syn på frågor som
+            rests i finansutskottets betänkande 2005/06:FiU12 om statens upplåning
+            och skuldförvaltning. Det gäller dels ansvarsfördelningen mellan
+            riksdagen, regeringen och Riksgäldskontoret, dels målet för statsskuldspolitiken.
+          </p>
+          <p xml:id="IDANZKZB" rend="rubrik2">
+            Utvecklingen av lånebehovet och statsskulden 2001-2005
+          </p>
+          <p>
+            Under 2005 förbättrades statens budgetsaldo med 65 miljarder
+            kronor från ett underskott 2004 till ett överskott på 14 miljarder
+            kronor 2005, dvs. lånebehovet var negativt.
+          </p>
+          <p>
+            Statsskulden uppgick vid utgången av 2005 till 1 309 miljarder
+            kronor, en ökning med 51 miljarder jämfört med 2004. Som andel
+            av BNP var statsskulden 49 % vid utgången av 2005, vilket är 1
+            procentenhet lägre än föregående år.
+          </p>
+          <p>
+            Trots att statens budget uppvisade ett överskott 2005 ökade således
+            statsskuldens värde under året. Förändringar i statsskuldens storlek
+            kan inte helt förklaras av förändringar i lånebehovet för ett
+            givet år. Eftersom valutaskulden tas upp till aktuellt värde innebär
+            förändringar i den svenska kronkursen att värdet på valutaskulden
+            ökar eller minskar, utan att lånebehovet påverkas. Under 2005
+            medförde den svenska kronans försvagning att valutaskulden ökade
+            med 29 miljarder kronor, vilket till stor del förklarar skillnaden
+            i utveckling mellan lånebehovet och statsskulden 2005.
+          </p>
+          <p type="html-diagramrubrik" rend="grad1">
+            Statsskulden 1996-2005 (miljarder kronor och % av BNP)
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{D7FBAD2F-4061-49A3-B5E7-E8E8C2104EBF}.tif"/>
+          </p>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Riksgäldskontoret.
+            </p>
+            <p rend="tabellfot">
+              Anm. Från och med 2003 redovisas statsskulden enligt nya principer.
+              I diagrammet har statsskulden justerats och redovisas för 1999-2004
+              enligt de nya principerna.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Upplåningen och förvaltningen av statsskulden sker i tre skuldslag:
+            </p>
+            <p rend="punktlistapunkter">
+              ·. nominella lån i svenska kronor
+            </p>
+            <p rend="punktlistapunkter">
+              ·. reala lån i svenska kronor
+            </p>
+            <p rend="punktlistapunkter">
+              ·. nominella lån i utländsk valuta.
+            </p>
+            <p>
+              Andelen skuld i utländsk valuta växte snabbt under första halvan
+              av 1990-talet, från under 10 % till knappt 29 % av statsskulden.
+              Under andra halvan av 1990-talet låg andelen valutaskuld stabilt
+              runt 30 % av statsskulden för att åter öka något i början av 2000-talet,
+              delvis till följd av att kronans värde föll. Från 2002 till 2004
+              minskade utlandsskulden kraftigt till följd av amorteringar och
+              en gynnsam utveckling för kronan. Vid utgången av 2005 uppgick
+              skulden i utländsk valuta till 304 miljarder kronor, vilket motsvarar
+              23 % av statsskuldens totala värde.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Statsskuldens sammansättning 2001-2005 (miljarder kronor och
+              i % av statsskuld)
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    2001
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    2002
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    2003
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    2004
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    2005
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Nom. lån i svenska kronor
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    686
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    671
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    726
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    766
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    798
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext grad2">
+                    Nom. lån i svenska kronor, andel
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    57 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    56 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    59 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    61 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    61 %
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Reala lån i svenska kronor
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    117
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    158
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    173
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    190
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    208
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext grad2">
+                    Reala lån i svenska kronor, andel
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    10 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    13 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    14 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    15 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    16 %
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Lån i utländsk valuta, inkl. skuldskötsel
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    407
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    375
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    330
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    301
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    304
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext grad2">
+                    Lån i utländsk valuta, andel
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    34 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    31 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    27 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    24 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad2">
+                    23 %
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext grad1">
+                    Statsskulden
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad1">
+                    1 210
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad1">
+                    1 204
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad1">
+                    1 229
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad1">
+                    1 257
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad1">
+                    1 309
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Riksgäldskontoret.
+            </p>
+            <p rend="tabellfot">
+              Anm. Från och med 2003 redovisas statsskulden enligt nya principer.
+              Skuldinstrumenten redovisas till nominellt slutvärde. Dessutom
+              inkluderas derivatinstrument, som skuldbytesavtal och valutaterminer.
+              Statsskulden som Riksgäldskontoret redovisar är okonsoliderad,
+              dvs. statliga myndigheters innehav av statspapper ingår. Jämförelseuppgifterna
+              har justerats och redovisas enligt de nya principerna.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Den viktigaste finansieringskällan för statsskulden är den nominella
+              upplåningen i svenska kronor. Den utgör 61 % av skuldstocken.
+              Den nominella skulden i svenska kronor uppgick till 798 miljarder
+              kronor 2005. Merparten av den nominella upplåningen i svenska
+              kronor sker på den inhemska värdepappersmarknaden genom statsobligationer
+              och statsskuldväxlar.
+            </p>
+            <p>
+              Till den nominella delen av skulden hör även merparten av privatmarknadsupplåningen.
+              Den uppgick till 63 miljarder kronor 2005, nästan 5 % av den totala
+              statsskulden. Den största delen av privatmarknadsupplåningen består
+              av premieobligationer som vid utgången av 2005 uppgick till 42
+              miljarder kronor. Resterande del utgörs av Riksgäldsspar.
+            </p>
+            <p xml:id="IDAKOLZB" rend="AvsnittsRubrik">
+              Utskottets överväganden
+            </p>
+            <p xml:id="IDAOOLZB" rend="rubrik2">
+              Utvärdering av regeringens beslut om riktlinjer för statsskuldsförvaltningen
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAVOLZB" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <p rend="textiruta_">
+              Regeringen aviserar i årets skrivelse att man avser att låta
+              en extern utvärderare få i uppdrag att se över hela statsskuldspolitiken.
+              Utskottet välkomnar detta och anser att det finns skäl för utskottet
+              att avvakta och se resultatet av den aviserade utredningen.
+            </p>
+            <p rend="textiruta_">
+              Sammantaget har regeringens riktlinjer för statsskuldsförvaltningen
+              enligt utskottets bedömning inneburit en minskad risk i statsskulden
+              samtidigt som vissa besparingar har kunnat göras. Enligt utskottets
+              mening har således regeringens beslut om riktlinjer för åren 2001-2005
+              fattats i enlighet med det i lag uppställda målet att långsiktigt
+              minimera kostnaderna för statsskulden med beaktande av risken
+              i förvaltningen.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA4OLZB" rend="rubrik3">
+              Skrivelsen
+            </p>
+            <p xml:id="IDABPLZB" rend="r4">
+              Ansvarsfördelningen mellan riksdagen, regeringen och Riksgäldskontoret
+            </p>
+            <p>
+              I föregående års utvärdering av statens upplåning och skuldförvaltning
+              för åren 2000-2004 (bet. 2005/06:FiU12) pekade finansutskottet
+              bl.a. på att den utvärderingsprocess som tillämpas för statsskuldspolitiken
+              i väsentliga delar skiljer sig från vad som är normalt i andra
+              sammanhang. Regeringen fastställer riktlinjer för skuldpolitiken
+              som man sedan själv utvärderar efter verksamhetsårets slut. Utvärderingen
+              genomförs utan att någon utomstående part deltar. Finansutskottet
+              pekade på att en naturligare ordning, som skulle kunna övervägas,
+              vore att regeringen liksom hittills anger riktlinjer. Därefter
+              redovisar Riksgäldskontoret och eventuellt regeringen hur utfallet
+              blivit för att sedan överlåta åt riksdagen eller en utomstående
+              utvärderare att dra slutsatserna om i vilken utsträckning upplåningen
+              och förvaltningen av statsskulden varit framgångsrik.
+            </p>
+            <p>
+              Även andra ordningar är tänkbara. Utskottet hänvisade till den
+              ansvarsfördelning mellan regeringen och riksdagen som tillämpas
+              för t.ex. den ekonomiska politiken och för budgetpolitiken. Enligt
+              utskottets mening fanns det anledning att inför kommande år överväga
+              en tydligare ansvarsfördelning mellan riksdagen, regeringen och
+              Riksgäldskontoret.
+            </p>
+            <p>
+              Regeringens slutsats är att möjligheterna till förbättringar
+              inom ramen för nuvarande process först bör prövas innan andra
+              förändringar genomförs. Regeringen väljer därför att i utvärderingen
+              begränsa eller tona ned bedömningar som görs av regeringens egna
+              delar till förmån för en mer utförlig redovisning av grunderna
+              för och resultaten av regeringens riktlinjebeslut. Därigenom skulle
+              riksdagens roll som slutlig utvärderare av statsskuldspolitiken
+              kunna bli än tydligare än i dag.
+            </p>
+            <p>
+              I propositionen Förvaltningen av statsskulden (prop. 1997/98:154)
+              angav regeringen bl.a. att externa referenser bör utgöra en väsentlig
+              ingrediens i utvärderingsprocessen. Regeringen anser att frågan
+              bör prioriteras inför nästa års utvärdering och avser att låta
+              en extern utvärderare få i uppdrag att se över hela statsskuldspolitiken,
+              dvs. såväl regeringens riktlinjer som Riksgäldskontorets verksamhet.
+            </p>
+            <p>
+              Regeringen vill också betona att om finansutskottet önskar en
+              oberoende uppföljning och utvärdering av riksdagens beslut om
+              målet för statsskuldspolitiken, har utskottet möjlighet att beställa
+              en extern oberoende utvärdering. Regeringen skulle välkomna en
+              sådan utvärdering.
+            </p>
+            <p xml:id="IDATPLZB" rend="r4">
+              Valutaskuldens andel av statsskulden
+            </p>
+            <p>
+              Den långsiktiga inriktningen är att valutaskulden ska minska
+              som andel av statsskulden till omkring 15 %. Valutaskulden skulle
+              enligt de riktlinjer regeringen beslutade 2004 amorteras med 25
+              miljarder kronor 2005.
+            </p>
+            <p>
+              Riskerna med en stor valutaskuld har blivit tydligare på senare
+              år. De kostnadsmässiga skälen för en stor valutaskuld har minskat
+              eftersom differensen mellan svenska och utländska räntor har minska
+              kraftigt.
+            </p>
+            <p>
+              Valutaskuldens andel i statsskulden har under utvärderingsperioden
+              fallit från 34 % år 2001 till 23 % år 2005 eller från 407 till
+              303 miljarder kronor. Under 2005 ökade dock valutaskulden med
+              3 miljarder kronor till följd av att kronan försvagades.
+            </p>
+            <p>
+              Regeringen bedömer att beslutet att minska valutaskuldens andel
+              av statsskulden var väl motiverat av både kostnads- och riskmässiga
+              skäl.
+            </p>
+            <p xml:id="IDAFQLZB" rend="r4">
+              Reallån
+            </p>
+            <p>
+              Andelen reallån i statsskulden ska långsiktigt öka till 20-25
+              %. En sådan andel bedöms ge en tillräckligt likvid realobligationsmarknad.
+              Den del av finansieringsbehovet som inte täcks av real upplåning
+              och lån i utländsk valuta ska täckas av nominella lån i kronor.
+            </p>
+            <p>
+              En större andel reallån bedöms minska riskerna i statsskulden.
+              Reallån bidrar till att diversifiera upplåningen (utöver den nominella
+              kron- och valutaupplåningen).
+            </p>
+            <p>
+              Andelen real skuld har ökat från 10 % år 2001 till 16 % år 2005.
+              Den reala upplåningen har inneburit stora kostnadsbesparingar,
+              upp till 16,6 miljarder kronor jämfört med nominella obligationer
+              sedan 1996.
+            </p>
+            <p>
+              Enligt regeringens bedömning innebär den ökade andelen realskuld
+              att risken i statsskulden minskar.
+            </p>
+            <p xml:id="IDAUQLZB" rend="r4">
+              Genomsnittlig löptid i den nominella skulden
+            </p>
+            <p>
+              Regeringen beslutade i november 2004 att den genomsnittliga löptiden
+              i skulden ska förkortas från 2,7 år 2004 till 2,5 år 2005.
+            </p>
+            <p>
+              Skuldens sammantagna löptid, genom den reala upplåningens relativt
+              långa löptid och ökande skuldandel har ökat från drygt 3 år till
+              drygt 4 år sedan 2000; samtidigt har valutaandelen minskat. Detta
+              anses ge utrymme för att tillåta en något högre risk i den nominella
+              skulden genom en förkortning av löptiden till 2,5 år.
+            </p>
+            <p>
+              För 2005 beräknas löptidsförkortningen ha lett till en besparing
+              på 240 miljoner kronor. Förkortningen anses ha gjorts i ett gynnsamt
+              läge, och den har inneburit lägre lånekostnader för staten.
+            </p>
+            <p>
+              Regeringen framhåller att de förväntade lägre räntekostnaderna
+              av en kortare upplåning alltid ska vägas mot en ökad refinansieringsrisk
+              till följd av att en större andel av statsskulden omsätts varje
+              år. En tillbakablick på ränteutvecklingen under 2000-talet visar
+              enligt regeringen att denna risk inte har materialiserats.
+            </p>
+            <p xml:id="IDADRLZB" rend="rubrik3">
+              Utskottets ställningstagande
+            </p>
+            <p xml:id="IDAGRLZB" rend="r4">
+              Utvärderingsmodellen
+            </p>
+            <p>
+              Den utvärderingsprocess som tillämpas för statsskuldspolitiken
+              skiljer sig, som utskottet påpekat vid flera tillfällen, i väsentliga
+              delar från vad som är normalt i andra sammanhang. Utskottet har
+              konstaterat att regeringen utvärderar sina egna riktlinjer för
+              statsskuldspolitiken och att någon utomstående utvärdering inte
+              görs. Regeringen aviserar i årets skrivelse att denna fråga kommer
+              att prioriteras inför nästa års utvärdering och man avser att
+              låta en extern utvärderare få i uppdrag att se över hela statsskuldspolitiken.
+              Utskottet välkomnar detta initiativ från regeringens sida och
+              anser att det finns skäl för utskottet att avvakta och se resultatet
+              av den aviserade utredningen.
+            </p>
+            <p xml:id="IDAMRLZB" rend="r4">
+              Valutaskulden
+            </p>
+            <p>
+              Regeringen anser att valutaskuldens andel av statsskulden långsiktigt
+              ska minska till omkring 15 % och att andelen inhemsk upplåning
+              ska öka. Detta anses välmotiverat både av riskmässiga och kostnadsmässiga
+              skäl.
+            </p>
+            <p>
+              Utskottet delar regeringens uppfattning att valutaskuldens andel
+              långsiktigt bör minska. De kostnadsmässiga skälen för en valutaupplåning
+              är inte lika starka som tidigare eftersom skillnaden mellan svenska
+              och utländska räntenivåer har minskat påtagligt. Samtidigt är
+              riskerna med en stor valutaskuld uppenbara.
+            </p>
+            <p xml:id="IDAVRLZB" rend="r4">
+              Reallån
+            </p>
+            <p>
+              Regeringen anser att en ökad andel realskuld minskar risken i
+              statsskulden genom att den reala upplåningen bidrar till att sprida
+              upplåningen till ytterligare en typ av finansiering utöver nominell
+              kron- och valutaupplåning. Andelen reallån har ökat från 10 %
+              2000 till 15 % 2004. Utskottet kan således konstatera att målet
+              att öka den reala skuldens andel av statsskulden därmed har uppnåtts.
+            </p>
+            <p xml:id="IDA1RLZB" rend="r4">
+              Genomsnittlig löptid i den nominella skulden
+            </p>
+            <p>
+              Minskningen av valutaskulden och ökningen av den reala skuldens
+              andel motiveras främst med att risken i skuldförvaltningen minskar.
+              Förkortningen i löptid innebar dock en viss ökning av risken i
+              statsskulden. Förkortningen av den genomsnittliga löptiden motiverades
+              främst av kostnadsskäl eftersom den gjordes i ett läge då räntorna
+              i genomsnitt var lägre för kortare upplåning än för längre upplåning.
+              Reallånen har därutöver gett en betydande besparing främst till
+              följd av att inflationen varit lägre än förväntat. Sammantaget
+              har regeringens riktlinjer för statsskuldsförvaltningen enligt
+              utskottets bedömning inneburit en minskad risk i statsskulden
+              samtidigt som vissa besparingar har kunnat göras. Enligt utskottets
+              mening har således regeringens beslut om riktlinjer för åren 2001-2005
+              fattats i enlighet med det i lag uppställda målet att långsiktigt
+              minimera kostnaderna för statsskulden med beaktande av risken
+              i förvaltningen.
+            </p>
+            <p xml:id="IDACSLZB" rend="rubrik2">
+              Utvärdering av Riksgäldskontorets beslut om upplåning och skuldförvaltning
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAJSLZB" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <p rend="textiruta_">
+              Utskottet ser med tillfredsställelse att regeringen har beslutat
+              att målet om marknads- och skuldvården fr.o.m. 2006 ska ingå och
+              tydliggöras i regeringens riktlinjer för statsskuldspolitiken.
+              Riksgäldskontoret ska genom skuld- och marknadsvårdande åtgärder
+              bidra till att förbättra marknadens funktion. Sådana åtgärder
+              får inte medföra att målet om långsiktig kostnadsminimering åsidosätts.
+            </p>
+            <p rend="textiruta_">
+              Utskottets helhetsintryck av Riksgäldskontorets verksamhet ger
+              ingen anledning till kritik mot kontoret och de resultat som uppnåtts.
+              För de delar av förvaltningen där kvantitativa mått har kunnat
+              anges visar förvaltningen i huvudsak positiva resultat för 2005,
+              och resultaten är genomgående positiva sett över hela utvärderingsperioden.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDASSLZB" rend="rubrik3">
+              Skrivelsen
+            </p>
+            <p xml:id="IDAVSLZB" rend="r4">
+              Målet för statsskuldspolitiken
+            </p>
+            <p>
+              I betänkande 2005/06:FiU12 pekade finansutskottet på att det
+              i Riksgäldskontorets uppgifter ingår att göra en avvägning av
+              de marknadsvårdande insatserna mot målet att långsiktigt minimera
+              kostnaderna. Mot denna bakgrund borde regeringen överväga om det
+              övergripande målet behöver kvalificeras i fråga om den inhemska
+              upplåningen och skuldförvaltningen. Detta skulle, enligt utskottet,
+              kunna ske genom att Riksgäldskontoret inom ramen för det övergripande
+              målet om långsiktig kostnadsminimering bör verka för en likvid
+              och effektiv statspappersmarknad.
+            </p>
+            <p>
+              Regeringen redovisar i skrivelsen att man sedan 1998 fastställer
+              ett mål för marknads- och skuldvården; Riksgäldskontoret skall
+              genom marknads- och skuldvård bidra till att förbättra marknadens
+              funktion utan att målet om långsiktig kostnadsminimering åsidosätts.
+              Målet fanns t.o.m. 2005 intaget i regleringsbrevet för Riksgäldskontoret,
+              men regeringen har beslutat att fr.o.m. 2006 ska målet om marknads-
+              och skuldvården ingå som en del i regeringens riktlinjer för skuldförvaltningen.
+              Skälen för målformuleringen av marknads- och skuldvården redovisades
+              i regeringens proposition 1997/98:154 Förvaltningen av statsskulden.
+              Här betonades att väl fungerande marknader bidrar till att reducera
+              likviditets- och riskpremier i statens upplåning. Marknads- och
+              skuldvård blir därmed ett naturligt inslag i strävan att långsiktigt
+              minimera kostnaderna för statsskulden. Marknads- och skuldvård
+              ses som ett medel att nå det övergripande målet - inte som ett
+              mål i sig.
+            </p>
+            <p>
+              Att introducera ett marknadsvårdsmål vid sidan av kostnadsminimeringsmålet
+              bedömdes inte som lämpligt. Ett skäl är att den praktiska implementeringen
+              av ett separat marknadsvårdsmål är svår att genomföra. Kalkyler
+              som är tänkta att skatta värdet av åtgärder som syftar till att
+              åstadkomma bättre fungerande marknader blir med nödvändighet komplexa
+              och osäkra. Därtill är resultaten av marknadsvårdande insatser
+              svåra att beräkna, vilket inte minst de senaste åren utvärderingar
+              har visat. Ett annat skäl är att styrningen och utvärderingen
+              av skuldförvaltningen riskerar att kompliceras om två likställda
+              mål samtidigt skulle beaktas.
+            </p>
+            <p>
+              Sammantaget bedömer regeringen att marknads- och skuldvårdsmålet,
+              liksom i dag, formuleras bäst inom ramen för det övergripande
+              målet för statsskuldspolitiken. Riksgäldskontoret har därutöver,
+              såsom anfördes i den sistnämnda propositionen, möjlighet att begära
+              särskilda medel om en marknadsvårdande operation bedöms som nödvändig,
+              trots att den beräknas öka kostnaderna för statsskulden. Denna
+              prövning sker då inom ramen för den sedvanliga statliga budgetprövningen.
+            </p>
+            <p xml:id="IDAETLZB" rend="r4">
+              Amortering av valutaskulden
+            </p>
+            <p>
+              Av regeringens beslut om riktlinjerna framgår att Riksgäldskontoret
+              tillåts avvika med +/-15 miljarder kronor från regeringens riktvärde
+              för amortering av valutaskulden på 25 miljarder kronor. I sådana
+              strategiska beslut ska kostnader och risk vägas in.
+            </p>
+            <p>
+              Besluten om avvikelse görs beroende på bedömningar av den svenska
+              kronans utveckling. Om den svenska krona bedöms som svag relativt
+              långsiktigt motiverade växelkurser har Riksgäldskontoret möjlighet
+              att skjuta på valutaamorteringarna.
+            </p>
+            <p>
+              Riksgäldskontoret valde att avvika från regeringens riktvärden
+              2001 och 2002 med ca 10 miljarder kronor på grund av den svenska
+              kronans utveckling. Åren 2003 och 2004 har Riksgäldskontoret amorterat
+              25 miljarder kronor per år i linje med riktvärdena. För år 2005
+              avvek Riksgäldskontoret med 5 miljarder kronor från målet och
+              amorterade därmed 20 miljarder kronor. År 2006 planerar Riksgäldskontoret
+              att utnyttja hela avvikelsemandatet på 15 miljarder kronor.
+            </p>
+            <p>
+              I årets skrivelse utvärderas avvikelsebeslutet 2000-2002. Regeringen
+              anser att Riksgäldskontorets amorteringsbeslut 2000-2002 var välgrundade
+              både från kostnads- och risksynpunkt. Riksgäldskontorets beslut
+              att begränsa amorteringen 2005 är alltför tidigt att utvärdera.
+              Grunderna för beslutet framstår dock enligt regeringen som rimliga.
+            </p>
+            <p xml:id="IDATTLZB" rend="r4">
+              Valutasammansättningen
+            </p>
+            <p>
+              Riksgäldskontoret får besluta om fördelning av skulden i utländsk
+              valuta på euro (65 %), dollar (14 %), pund (8 %), yen (4 %) och
+              schweizerfranc (9 %). Riksgäldskontoret har fastställt riktmärken
+              för fördelningen. Syftet med en fördelning är att minimera risken
+              för fluktuationer.
+            </p>
+            <p>
+              Riksgäldskontoret beslutade 2000 att öka andelen schweizerfranc
+              (CHF) med 5 procentenheter mot euron. Motivet var att schweizerfrancen
+              anses vara en lågräntevaluta. I övrigt har inte några strategiska
+              valutapositioner genomförts sedan dess.
+            </p>
+            <p>
+              Omviktningen av valutaskulden har inneburit en räntebesparing
+              på 1,7 miljarder kronor. Samtidigt har valutakursförlusten på
+              schweizerfranc uppgått till drygt 0,8 miljarder kronor. Således
+              blev nettovinsten 0,9 miljarder kronor. För 2005 var nettovinsten
+              0,3 miljarder kronor. Under 2000 till 2003 tog Riksgäldskontoret
+              en valutaposition i dollar på bekostnad av euron. Det gav en vinst
+              på 4,5 miljarder kronor.
+            </p>
+            <p>
+              Ökningen av andelen schweizerfranc som gjordes 2000 har varit
+              lyckosam som regeringen ser det. Det gav en kostnadsbesparing
+              på 0,9 miljarder kronor.
+            </p>
+            <p>
+              Inför 2006 beslutade Riksgäldskontoret att utöka andelen schweizerfranc
+              från 9 % till 16 %.
+            </p>
+            <p xml:id="IDAFULZB" rend="r4">
+              Skuldens löptid
+            </p>
+            <p>
+              Riksgäldskontoret får vid fastställande av riktmärken för nominella
+              lån avvika med +/-0,3 år från riktvärdet.
+            </p>
+            <p>
+              Intervallet ger Riksgäldskontoret vissa möjligheter till strategiska
+              positioner baserade på bedömningar av ränteutvecklingen. Riksgäldskontoret
+              bör motivera sina positioner. Regeringen anser att möjligheterna
+              att ta positioner i förhållande till riktlinjernas löptidsriktvärde
+              bör utnyttjas restriktivt.
+            </p>
+            <p>
+              Riksgäldskontoret valde liksom tidigare år att inte ta positioner
+              i förhållande till riktvärdet på 2,5 år. På grund av sjunkande
+              räntor och minskat lånebehov pressades genomsnittliga löptiden
+              upp. Riksgäldskontoret anser att justeringar endast bör ske via
+              låneplaneringen. Skilda löptider tillämpades på den nominella
+              kronskulden (2,8 år) respektive valutaskulden (1,8 år). Målet
+              på 2,8 år för kronskulden uppnåddes först i slutet av 2005.
+            </p>
+            <p>
+              Regeringen anser att möjligheterna att ta positioner i förhållande
+              till riktvärdet bör utnyttjas restriktivt. Riksgäldskontorets
+              skäl för att inte spekulera anses godtagbara. Strategin med skilda
+              löptider i kron- respektive valutaskulden kan anses motiverad
+              för åren 2000-2004. En längre löptid i kronskulden behövs för
+              att upprätthålla likviditeten i marknaden längs hela avkastningskurvan.
+              Att främja likviditeten i obligationsmarknaden kan bidra till
+              lägre upplåningskostnader på sikt.
+            </p>
+            <p>
+              Regeringen anser att Riksgäldskontorets avvägning mellan marknadsvård
+              och regeringens löptidsriktmärke i stort sett var rimlig under
+              2005.
+            </p>
+            <p xml:id="IDAXULZB" rend="r4">
+              Upplåning och skuldförvaltning i utländsk valuta
+            </p>
+            <p>
+              Riksgäldskontoret har möjlighet att inom väl definierade ramar
+              bedriva en aktiv förvaltning i utländsk valuta.
+            </p>
+            <p>
+              Till skillnad från den nominella kronskulden kan Riksgäldskontoret
+              ta aktiva positioner både beträffande förväntad ränteutveckling
+              och beträffande förväntad valutakursutveckling.
+            </p>
+            <p>
+              Nettoeffekterna av Riksgäldskontorets valuta- och räntepositioner
+              gav dock en förlust på -426 miljoner kronor 2005, dvs. -613 miljoner
+              kronor respektive 187 miljoner kronor. Totalt för femårsperioden
+              har förvaltningen utvisat ett positivt resultat om 1 035 miljoner
+              kronor. Externa förvaltare av valutaskulden lyckades både bättre
+              (+0,37 %) och sämre (-0,35 %) än Riksgäldskontoret (-0,25 %) i
+              sin förvaltning.
+            </p>
+            <p>
+              Regeringen anser att Riksgäldskontoret har bedrivit en kostnadseffektiv
+              valutaupplåning genom de val bland alternativa upplåningsformer
+              som kontoret har gjort. Regeringen konstaterar att Riksgäldskontoret
+              har agerat riktigt genom att i huvudsak använda sig av den kostnadseffektiva
+              direktupplåningen i utländsk valuta. Den aktiva förvaltningen
+              är riskfylld och under 2005 uppstod en förlust. Riksgäldskontoret
+              har dock uppfyllt det uppställda kvantitativa målet sett över
+              utvärderingsperioden 2001-2005. Regeringen bedömer att Riksgäldskontorets
+              växlingar av utländsk valuta fungerat väl under 2005.
+            </p>
+            <p xml:id="IDAGVLZB" rend="r4">
+              Reala lån i svensk valuta
+            </p>
+            <p>
+              Ökningstakten i realobligationer, som regeringen delegerat till
+              Riksgäldskontoret att besluta om, ska vägas mot utvecklingen av
+              efterfrågan och kostnaderna och risken för upplåning i andra skuldslag.
+            </p>
+            <p>
+              Realobligationer ger möjlighet till diversifiering av statsskulden
+              och därmed minskad samlad risk.
+            </p>
+            <p>
+              Under 2005 dämpades intresset för realobligationer. Riksgäldskontoret
+              sålde realobligationer för 13 miljarder kronor under 2005, vilket
+              var mindre än under 2004. Andelen reallån utgjorde 2005 16 % av
+              statsskulden. Det kvantitativa resultatet är beroende av den framtida
+              inflationsutvecklingen. Realobligationerna emitterades på en
+              <seg rend="grad2">
+                break even
+              </seg>
+              -nivå (skillnaden mellan nominell och real ränta vid emissionstidpunkten)
+              på i genomsnitt 1,84 %, dvs. något under Riksbankens inflationsmål.
+              Preliminärt visar det kalkylmässiga resultatet på 4,1 miljarder
+              kronor 2005 och på 8,1 miljarder kronor för utvärderingsperioden.
+              På de reallån som förfallit under utvärderingsperioden har Riksgäldskontoret
+              gjort en vinst på 1,7 miljarder kronor.
+            </p>
+            <p>
+              Regeringen anser att den reala upplåningen fyller en viktig funktion
+              i skuldportföljen eftersom den ger möjlighet till ytterligare
+              diversifiering och därmed minskad risk. I riktlinjerna för 2006
+              sattes målet till 20 % av skulden, men det blev 16 %. Regeringen
+              bedömer att Riksgäldskontorets emissionsverksamhet i stort sett
+              varit rimlig under 2005. Den reala upplåningen var billigare än
+              motsvarande nominella upplåning i svenska kronor både för 2005
+              och för hela utvärderingsperioden enligt de preliminära kalkyler
+              som gjorts. Riksgäldskontoret har således uppnått det kvantitativa
+              målet för realupplåningen.
+            </p>
+            <p xml:id="IDAZVLZB" rend="r4">
+              Nominella lån i svensk valuta inklusive privatmarknadsupplåning
+            </p>
+            <p>
+              Den del av finansieringsbehovet som inte täcks av real upplåning
+              och lån i utländsk valuta ska täckas med nominella lån i kronor.
+              Nominell upplåning utgör den viktigaste finansieringskällan för
+              statsskulden och utgör ca 60 % av totala skulden. Målet för privatmarknadsupplåningen
+              är att uppnå största möjliga besparing i förhållande till alternativa
+              upplåningsformer på penning- och obligationsmarknaden.
+            </p>
+            <p>
+              En väl genomtänkt marknads- och skuldvård innebär med stor sannolikhet
+              besparingar i form av lägre upplåningskostnader. Hög likviditet
+              innebär lägre likviditetsriskpremie och därmed lägre upplåningskostnader
+              för staten. Utvärderingen av förvaltningen av den nominella skulden
+              görs framför allt i kvalitativa termer utifrån den marknadsvård
+              som bedrivs.
+            </p>
+            <p>
+              Privatmarknadsupplåningen gav en besparing för utvärderingsperioden,
+              såväl totalt som för de olika låneinstrumenten. Premieobligationerna
+              svarade för största bidraget.
+            </p>
+            <p>
+              Riksgäldskontorets emissioner av statsobligationer och statsskuldväxlar
+              förefaller ha varit framgångsrika. Det kan, främst på kvalitativa
+              grunder, anses att Riksgäldskontorets marknads- och skuldvård
+              på operativ nivå har bidragit till en mer likvid och effektiv
+              statspappersmarknad. Åtgärderna kan därmed sägas ha bidragit till
+              långsiktigt lägre kostnader för statsskulden.
+            </p>
+            <p>
+              Det samlade resultatet i privatmarknadsupplåningen är i hög grad
+              beroende av resultatutvecklingen för premieobligationerna. Det
+              är därför tillfredsställande att emissionsverksamheten varit framgångsrik
+              och att premieobligationsstocken åter har börjat öka. Satsningen
+              på Riksgäldsspar bör i möjligaste mån fortsätta.
+            </p>
+            <p xml:id="IDALWLZB" rend="rubrik3">
+              Utskottets ställningstagande
+            </p>
+            <p xml:id="IDAOWLZB" rend="r4">
+              Bakgrund
+            </p>
+            <p>
+              Riksgäldskontorets verksamhet redovisas i skrivelsen uppdelad
+              och utvärderad på två nivåer, dels de strategiska beslut som fattas
+              av kontorets styrelse, dels den operativa förvaltning som kontoret
+              bedriver. Utskottet har i detta avsnitt valt att ge en samlad
+              bedömning av Riksgäldskontorets upplåning och förvaltning av statsskulden.
+            </p>
+            <p xml:id="IDAUWLZB" rend="r4">
+              Avvägningen mellan målet att minimera kostnaderna för skulden
+              och ambitionen att vårda skulden
+            </p>
+            <p>
+              Utskottet ansåg i det senaste betänkandet om statsskuldspolitiken
+              att regeringen borde överväga om det övergripande målet att långsiktigt
+              minimera kostnaderna behöver kvalificeras så att för den inhemska
+              upplåningen och skuldförvaltningen bör gälla att Riksgäldskontoret
+              inom ramen för det övergripande målet bör verka för en likvid
+              och effektiv statspappersmarknad.
+            </p>
+            <p>
+              Regeringen anser att det är viktigt med en väl fungerande svensk
+              obligationsmarknad. Riksgäldskontoret har därför i uppgift att
+              genom skuld- och marknadsvård förbättra marknadens funktion och
+              skapa en likvid avkastningskurva på den svenska räntemarknaden.
+              Utskottet ser därför med tillfredsställelse att regeringen har
+              beslutat att målet om marknads- och skuldvården fr.o.m. 2006 ska
+              ingå och tydliggöras i regeringens riktlinjer för statsskuldspolitiken.
+              Riksgäldskontoret ska genom skuld- och marknadsvårdande åtgärder
+              bidra till att förbättra marknadens funktion. Sådana åtgärder
+              får inte medföra att målet om långsiktig kostnadsminimering åsidosätts.
+            </p>
+            <p xml:id="IDA3WLZB" rend="r4">
+              Upplåning och skuldförvaltning i utländsk valuta
+            </p>
+            <p>
+              Till skillnad från i förvaltningen av den nominella kronskulden
+              kan Riksgäldskontoret i förvaltningen av skulden i utländsk valuta
+              ta aktiva positioner både beträffande förväntad ränteutveckling
+              och beträffande förväntad valutakursutveckling.
+            </p>
+            <p>
+              Valutapositionerna gav en förlust på 613 miljoner kronor 2005.
+              Riksgäldskontoret tog positioner för att dollarn skulle försvagas
+              mot euron och yenen, vilket emellertid inte blev fallet. Räntepositionerna
+              gav dock ett positivt bidrag på 187 miljoner kronor, varför nettoeffekten
+              av förvaltningen i utländsk valuta blev ett underskott på 426
+              miljoner kronor 2005. Utskottet noterar att den aktiva förvaltningen
+              i utländsk valuta är en riskfylld verksamhet. Sett över hela utvärderingsperioden
+              uppvisade den dock ett överskott på 1 035 miljoner kronor. Utskottet
+              kan således konstatera att det uppställda kvantitativa målet därmed
+              är uppfyllt.
+            </p>
+            <p>
+              Nettoeffekten av den ökning av andelen schweizerfranc som Riksgäldskontoret
+              gjorde 2000 har varit positiv och inneburit en viss kostnadsbesparing.
+              Den ränterelaterade kostnadsbesparingen har varit stabil över
+              alla år medan de valutarelaterade flödena har varierat. Som regeringen
+              framhåller innebär det en risk att de vinster som kan uppnås i
+              upplåning i lågräntevalutor lätt kan utraderas vid snabba och
+              permanenta skift i valutakurser. Hittills har dock Riksgäldskontorets
+              bedömning att ränteeffekten skulle dominera visat sig vara riktig.
+            </p>
+            <p xml:id="IDAJXLZB" rend="r4">
+              Reallån
+            </p>
+            <p>
+              Det framgår av skrivelsen att andelen realskuld i enlighet med
+              regeringens riktlinjer har ökat under utvärderingsperioden. Det
+              preliminära resultatet för den reala upplåningen både för 2005
+              och för utvärderingsperioden var positivt, dvs. den reala upplåningen
+              var billigare än motsvarande nominella upplåning i svenska kronor
+              genom att den genomsnittliga inflationen var lägre än det av Riksbanken
+              uppställda inflationsmålet på 2 %. Utskottet konstaterar att kontorets
+              reala upplåning därmed har uppnått det kvantitativa målet att
+              vara billigare än motsvarande upplåning i nominella statsobligationer.
+            </p>
+            <p xml:id="IDAPXLZB" rend="r4">
+              Skuldens genomsnittliga löptid
+            </p>
+            <p>
+              Regeringen bedömer att Riksgäldskontorets val att inte avvika
+              från regeringens riktvärde för genomsnittlig löptid i den nominella
+              skulden var väl motiverat. Strategin med olika löptid i kron-
+              och valutaskulden är motiverad jämfört med om den i riktlinjerna
+              angivna löptiden på 2,5 år använts i båda skuldslagen. Under 2005
+              har dock statsskuldens genomsnittliga löptid legat något över
+              det riktvärde som regeringen angivit i sina riktlinjer. Riksgäldskontoret
+              har som policy att inte vidta kortsiktiga åtgärder för att justera
+              löptiden. I stället sker justeringar via låneplaneringen som offentliggörs
+              tre gånger per år. Därmed återförs löptiden mot målet med viss
+              fördröjning för att undvika drastiska förändringar i obligationsupplåningen.
+              En viss andel obligationer måste emitteras med långa löptider
+              för att marknaden ska vara likvid längs hela avkastningskurvan.
+              Detta gör att det krävs en längre löptid i den nominella kronskulden
+              än 2,5 år för att upprätthålla likviditeten i marknaden. Eventuella
+              krav på förkortning av den genomsnittliga löptiden får därmed
+              pareras via valutaupplåningen som kan göras mer kortfristig. En
+              konsekvens av detta agerande är enligt utskottet att ambitionen
+              att ha god marknadsvård och att hålla marknaden likvid längs hela
+              avkastningskurvan blir överordnat kravet att förkorta löptiden
+              och på så sätt minska kostnaderna för statsskuldsförvaltningen.
+            </p>
+            <p>
+              Utskottet anser att den avvägning mellan marknadsvård och löptidsstyrning
+              som Riksgäldskontoret gjort under 2005 har varit rimlig. En väl
+              genomtänkt marknads- och skuldvård innebär med stor sannolikhet
+              besparingar i form av lägre upplåningskostnader. Hög likviditet
+              innebär lägre likviditetsriskpremie och därmed lägre upplåningskostnader
+              för staten.
+            </p>
+            <p>
+              Riksgäldskontorets agerande kan ses som en rimlig avvägning som
+              måste göras i verksamheten mot målet att långsiktigt minimera
+              kostnaderna.
+            </p>
+            <p>
+              Som utskottet framhållit tidigare är det emellertid svårt att
+              bedöma och värdera de insatser kontoret gör för att upprätthålla
+              en väl fungerande marknad. De marknadsundersökningar som kontoret
+              låtit göra kan vara ett underlag för kvalitativa bedömningar.
+            </p>
+            <p xml:id="IDA4XLZB" rend="r4">
+              Privatmarknadsupplåning
+            </p>
+            <p>
+              Privatmarknadsupplåningen gav en besparing för utvärderingsperioden,
+              såväl totalt som för de olika låneinstrumenten. Det samlade resultatet
+              i privatmarknadsupplåningen är i hög grad beroende av resultatutvecklingen
+              för premieobligationerna. Utskottet ser därför med tillfredsställelse
+              på att emissionsverksamheten varit framgångsrik och att premieobligationsstocken
+              åter har börjat öka.
+            </p>
+            <p xml:id="IDAHYLZB" rend="r4">
+              Sammanfattning
+            </p>
+            <p>
+              Utskottets helhetsintryck av Riksgäldskontorets verksamhet ger
+              ingen anledning till kritik mot kontoret och de resultat som uppnåtts.
+              För de delar av förvaltningen där kvantitativa mått har kunnat
+              anges visar förvaltningen i huvudsak positiva resultat för 2005,
+              och resultaten är genomgående positiva sett över hela utvärderingsperioden.
+            </p>
+            <p>
+              Utskottet anser att den avvägning mellan marknadsvård och löptidsstyrning
+              som Riksgäldskontoret gjort under 2005 har varit rimlig. Det är
+              Riksgäldskontorets uppgift att göra en avvägning mellan de marknadsvårdande
+              insatserna och målet att långsiktigt minimera kostnaderna. Utskottet
+              anser att Riksgäldskontoret inom ramen för det övergripande målet
+              verkar för en likvid och effektiv statspappersmarknad.
+            </p>
+            <p>
+              Som utskottet också framhållit tidigare är det emellertid svårt
+              att kvantitativt bedöma och värdera de insatser kontoret gör för
+              att upprätthålla en väl fungerande marknad.
+            </p>
+            <p rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAWYLZB" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAZYLZB" rend="rubrik2">
+              Skrivelsen
+            </p>
+            <p type="html-endastettyrkande">
+              Regeringens skrivelse 2005/06:104 Utvärdering av statens upplåning
+              och skuldförvaltning 2001-2005.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

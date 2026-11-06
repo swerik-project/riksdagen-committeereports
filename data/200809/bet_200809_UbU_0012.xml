@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_UbU_0012">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Behandlingen av personuppgifter i Centrala studiestödsnämndens (CSN) studiestödsverksamhet ska regleras i en ny lag, studiestödsdatalagen. Lagen ska gälla utöver personuppgiftslagens bestämmelser om skydd för den personliga integriteten vid behandling av personuppgifter. Förslaget innebär att personuppgiftsbehandlingen inom studiestödsområdet får lagregler som är anpassade till den tekniska utvecklingen.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Ny lag för CSN:s behandling av personuppgifter (UbU12)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0991</idno>
+              <title>2009-03-25</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">91</biblScope>
+              <note type="display-reference">2009-03-25</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0991</idno>
+              <title>2009-03-25</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">91</biblScope>
+              <note type="display-reference">2009-03-25</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GW0K204</idno>
+              <title>2008/09:204</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">204</biblScope>
+              <note type="display-reference">2008/09:204</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2009:287</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GW0396</idno>
+              <title>Behandling av personuppgifter inom studiestödsområdet</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">96</biblScope>
+              <note type="display-reference">proposition 2008/09:96 Behandling av personuppgifter inom studiestödsområdet</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2009-03-23">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2009-03-23">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-03-16">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-03-16">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-03-16">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-03-16">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-03-12">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-03-12">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-02-12">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-02-12">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2009-03-25">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-03-25">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-03-25">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-03-25">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-03-25">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-03-24">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-03-24">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-03-23">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-03-23">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Utbildningsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:UbU12
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Behandling av personuppgifter inom studiestödsområdet
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBYVF" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet proposition 2008/09:96 Behandling
+            av personuppgifter inom studiestödsområdet. Propositionen har
+            inte föranlett några motioner.
+          </p>
+          <p>
+            Utskottet ställer sig bakom propositionens
+          </p>
+          <p>
+            Lagen ska gälla utöver personuppgiftslagens (1998:204) bestämmelser
+            om skydd för den personliga integriteten vid behandling av personuppgifter.
+            Förslaget innebär att personuppgiftsbehandlingen inom studiestödsområdet
+            får en lagreglering som är anpassad till den tekniska utvecklingen.
+          </p>
+          <p>
+            Den föreslagna studiestödsdatalagen innehåller bestämmelser om
+            lagens tillämpningsområde, tillåtna ändamål för behandling av
+            personuppgifter och de begränsningar som ska gälla för användningen
+            av uppgifterna.
+          </p>
+          <p>
+            Studiestödsdatalagen föreslås bara gälla om behandlingen är helt
+            eller delvis automatiserad eller om personuppgifterna ingår i
+            eller är avsedda att ingå i en strukturerad samling av uppgifter
+            som är tillgängliga för sökning eller sammanställning enligt särskilda
+            kriterier.
+          </p>
+          <p>
+            I propositionen föreslås att regeringen eller den myndighet som
+            regeringen bestämmer meddelar föreskrifter om villkoren för elektronisk
+            tillgång till personuppgifterna för den som arbetar i myndighetens
+            studiestödsverksamhet.
+          </p>
+          <p>
+            Studiestödsdatalagen föreslås också innehålla särskilda bestämmelser
+            om direktåtkomst och annat elektroniskt utlämnande av personuppgifter,
+            rättelse, skadestånd och gallring.
+          </p>
+          <p>
+            Regeringen föreslår att studiestödsdatalagen ska träda i kraft
+            den 1 januari 2010. Bestämmelserna om intern elektronisk tillgång
+            till personuppgifter och gallring ska dock inte börja tillämpas
+            förrän den 1 januari 2011.
+          </p>
+          <p xml:id="IDACCYVF" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  En ny lag om behandling av personuppgifter inom Centrala studiestödsnämndens
+                  studiestödsverksamhet
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till en ny lag om behandling
+                  av personuppgifter i Centrala studiestödsnämndens studiestödsverksamhet,
+                  studiestödsdatalagen. Därmed bifaller riksdagen proposition 2008/09:96.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 12 mars 2009
+          </p>
+          <p>
+            På utbildningsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Sofia Larsen
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Sofia Larsen (c),
+            Marie Granlund (s), Margareta Pålsson (m), Mats Gerdau (m), Mikael
+            Damberg (s), Betty Malmberg (m), Agneta Lundberg (s), Christer
+            Nylander (fp), Lars Hjälmered (m), Peter Hultqvist (s), Gunilla
+            Tjernberg (kd), Patrik Forslund (m), Rossana Dinamarca (v), Thomas
+            Strand (s), Mats Pertoft (mp), Caroline Helmersson-Olsson (s)
+            och Per Lodenius (c).
+          </p>
+          <p xml:id="IDAEFYVF" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAHFYVF" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Regeringen lägger i proposition 2008/09:96
+            <seg rend="grad2">
+              Behandling av personuppgifter inom studiestödsområdet
+            </seg>
+            fram förslag till en ny lag om behandling av personuppgifter
+            i Centrala studiestödsnämndens (CSN) studiestödsverksamhet, studiestödsdatalagen.
+          </p>
+          <p>
+            Lagen ska gälla utöver personuppgiftslagens (1998:204) bestämmelser
+            om skydd för den personliga integriteten vid behandling av personuppgifter.
+            Förslaget innebär att personuppgiftsbehandlingen inom studiestödsområdet
+            får en lagreglering som är anpassad till den tekniska utvecklingen.
+            Regeringens lagförslag finns i
+            <seg rend="grad2">
+              bilaga 2
+            </seg>
+            .
+          </p>
+          <p>
+            Regeringen har inhämtat Lagrådets yttrande. De synpunkter Lagrådet
+            framförde har beaktats i den föreslagna lagen.
+          </p>
+          <p>
+            Inga motioner har väckts med anledning av propositionen.
+          </p>
+          <p xml:id="IDA4FYVF" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Riksdagen har i skilda sammanhang påpekat att myndighetsregister
+            som innehåller ett stort antal registrerade personer och som har
+            ett särskilt känsligt innehåll ska regleras i lag (se bl.a. bet.
+            1990/91:KU11 s. 11; jfr prop. 1997/98:44 s. 41). Det har även
+            från andra håll, bl.a. från Riksdagens ombudsmän, framhållits
+            att det bör övervägas om inte behandlingen av personuppgifter
+            i CSN:s verksamhet bör regleras i lag.
+          </p>
+          <p>
+            Mot denna bakgrund beslutade regeringen den 31 augusti 2006 att
+            tillkalla en särskild utredare för att granska regleringen och
+            användningen av personregister och annan behandling av personuppgifter
+            vid CSN och andra myndigheter inom studiestödsområdet. Utredningen,
+            som antog namnet Studiestödsdatautredningen, överlämnade den 28
+            september 2007 betänkandet
+            <seg rend="grad2">
+              Studiestödsdatalag
+            </seg>
+            (SOU 2007:64). Betänkandet har remissbehandlats.
+          </p>
+          <p xml:id="IDAMGYVF" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAQGYVF" rend="orubrik2">
+            En ny lag om behandling av personuppgifter inom Centrala studiestödsnämndens
+            studiestödsverksamhet
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAUGYVF" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen antar regeringens förslag om att behandlingen av personuppgifter
+                i CSN:s studiestödsverksamhet ska regleras i en särskild lag.
+                Lagen ska benämnas studiestödsdatalag. Lagen ska innehålla de
+                grundläggande bestämmelserna om behandling av personuppgifter
+                vid myndigheten.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA1GYVF" rend="r3">
+              Gällande rätt
+            </p>
+            <p>
+              Den grundläggande ramen för behandling av personuppgifter regleras
+              i personuppgiftslagen (1998:204), som vid ikraftträdandet den
+              24 oktober 1998 ersatte datalagen (1973:289). Personuppgiftslagen
+              har sin utgångspunkt i Europaparlamentets och rådets direktiv
+              95/46/EG av den 24 oktober 1995 om skydd för enskilda personer
+              med avseende på behandling av personuppgifter och om det fria
+              flödet av sådana uppgifter (dataskyddsdirektivet).
+            </p>
+            <p xml:id="IDABHYVF" rend="r3">
+              Propositionen
+            </p>
+            <p>
+              Personuppgiftslagen innehåller allmänna bestämmelser om integritetsskydd
+              vid behandling av personuppgifter. Det går dock inte att generellt
+              lösa alla problem och fullt ut beakta alla frågeställningar med
+              utgångspunkt i personuppgiftslagens bestämmelser. Det behövs ofta
+              en särskild författningsreglering för att anpassa och förstärka
+              integritetsskyddet på särskilda områden.
+            </p>
+            <p>
+              Riksdagen och regeringen har vid flera tillfällen gett uttryck
+              för att myndighetsregister med ett stort antal registrerade personer
+              och med ett särskilt känsligt innehåll ska regleras särskilt i
+              lag (se bl.a. prop. 1990/91:60 Om offentlighet, integritet och
+              ADB s. 56 f. och bet. 1990/91:KU11 s. 11), vilket också framhölls
+              i förarbetena till personuppgiftslagen (prop. 1997/98:44 s. 41).
+            </p>
+            <p>
+              CSN:s verksamhet på studiestödsområdet avser ett mycket stort
+              antal personer. Många låntagare är också registrerade hos CSN
+              under mycket lång tid. I CSN:s register finns även uppgifter som
+              de registrerade kan uppleva som känsliga, bl.a. uppgifter om ekonomiska
+              förhållanden, sjukdomsperioder och skolk. Redan dessa omständigheter
+              talar för att CSN:s behandling av personuppgifter bör regleras
+              i en särskild lag. En särskild reglering för CSN möjliggör vidare
+              att regelverket utformas så att största möjliga hänsyn tas till
+              de särskilda integritetsrisker som myndighetens verksamhet innebär
+              och till dess behov av ett tydligt författningsstöd med ändamålsenliga
+              bestämmelser, samtidigt som regleringen kan utformas så att den
+              inte i onödan hindrar myndighetens effektivitet.
+            </p>
+            <p>
+              Mot bakgrund av detta föreslår regeringen att behandlingen av
+              personuppgifter i CSN:s studiestödsverksamhet ska regleras i en
+              särskild lag. Lagen ska benämnas studiestödsdatalag. Lagen ska
+              innehålla de grundläggande bestämmelserna om behandling av personuppgifter
+              vid myndigheten.
+            </p>
+            <p>
+              Studiestödsdatalagen ska främst innehålla de centrala bestämmelser
+              som anger för vilka ändamål personuppgifter får behandlas, vilka
+              uppgiftskategorier som får behandlas, i vilken omfattning uppgifter
+              får lämnas ut i elektronisk form, när uppgifter ska gallras och
+              vilka rättigheter enskilda har (vilket redovisas närmare nedan).
+            </p>
+            <p>
+              Lagens bestämmelser ska i vissa fall vara ovillkorliga, t.ex.
+              när det gäller för vilka ändamål personuppgifter får behandlas.
+              Eftersom förhållanden som rör datoriserad behandling av personuppgifter
+              ofta förändras, t.ex. när det gäller uppgifter för elektroniskt
+              informationsutbyte, är det inte lämpligt att ha alltför detaljerade
+              bestämmelser om detta i lagen. I stället bör det i det här avseendet
+              vara möjligt för regeringen att i förordning meddela närmare föreskrifter
+              som kompletterar lagen. Detta ska t.ex. gälla frågan om vilka
+              personuppgifter som CSN får lämna ut i elektronisk form. Även
+              i andra fall bör det vara möjligt för regeringen att meddela kompletterande
+              bestämmelser i förordning.
+            </p>
+            <p xml:id="IDAWHYVF" rend="r4">
+              Förhållandet till personuppgiftslagen och annan lagstiftning
+            </p>
+            <p>
+              I den utsträckning personuppgiftslagen (1998:204) innehåller
+              bestämmelser om behandling av personuppgifter som saknar motsvarighet
+              i studiestödsdatalagen ska personuppgiftslagen tillämpas vid behandling
+              av personuppgifter i CSN:s studiestödsverksamhet.
+            </p>
+            <p>
+              När CSN behandlar personuppgifter för att framställa statistik
+              ska lagen (2001:99) om den officiella statistiken och anslutande
+              författningar tillämpas i stället för studiestödsdatalagen.
+            </p>
+            <p xml:id="IDACQYVF" rend="r4">
+              Lagens tillämpningsområde
+            </p>
+            <p>
+              Studiestödsdatalagen ska tillämpas vid behandling av personuppgifter
+              i CSN:s studiestödsverksamhet. Lagen ska bara tillämpas om behandlingen
+              är helt eller delvis automatiserad eller om uppgifterna ingår
+              i eller är avsedda att ingå i en strukturerad samling av personuppgifter
+              som är tillgängliga för sökning eller sammanställning enligt särskilda
+              kriterier.
+            </p>
+            <p>
+              Behandlingen av personuppgifter, som ska vara tillåten enligt
+              studiestödsdatalagen utan den registrerades samtycke, får utföras
+              även om den registrerade motsätter sig behandlingen.
+            </p>
+            <p>
+              I de fall då behandling av personuppgifter i CSN:s studiestödsverksamhet
+              bara är tillåten när den registrerade har lämnat sitt samtycke
+              ska den registrerade ha rätt att när som helst återkalla ett lämnat
+              samtycke. Ytterligare personuppgifter om den registrerade ska
+              därefter inte få behandlas.
+            </p>
+            <p xml:id="IDAOQYVF" rend="r4">
+              Personuppgiftsansvar
+            </p>
+            <p>
+              CSN ska vara personuppgiftsansvarigt för den behandling av personuppgifter
+              som myndigheten utför.
+            </p>
+            <p xml:id="IDAUQYVF" rend="r4">
+              Ändamål som personuppgifter får behandlas för
+            </p>
+            <p>
+              Personuppgifter får behandlas i CSN:s studiestödsverksamhet bara
+              om det behövs för att
+            </p>
+            <p>
+              1. handlägga ärenden i den verksamheten,
+            </p>
+            <p>
+              2. administrera handläggningen,
+            </p>
+            <p>
+              3. förbereda handläggningen,
+            </p>
+            <p>
+              4. informera studiestödsberättigade om studiestödsförmåner och
+              studie-sociala förmåner,
+            </p>
+            <p>
+              5. ta fram och distribuera bevis om studiestöd för studier till
+              studerande eller
+            </p>
+            <p>
+              6. anmäla oegentligheter inom studiestödsverksamheten till ett
+              offentligt organ som har att bevisa eller beivra oegentligheten.
+            </p>
+            <p>
+              Personuppgifter som behandlas enligt ovan ska även få behandlas
+              genom att de lämnas ut till den registrerade själv, riksdagen
+              och regeringen samt, i den utsträckning som skyldighet att lämna
+              uppgifter följer av lag eller förordning, till andra. Personuppgifter
+              som inte direkt pekar ut den registrerade ska också få behandlas
+              för att man ska få tillgång till vägledande avgöranden.
+            </p>
+            <p>
+              Regeringen får meddela föreskrifter om begränsningar av ändamålen
+              och om i vilka fall behandling får göras för att förbereda handläggningen
+              av ärenden i studiestödsverksamheten. Regeringen meddelar föreskrifter
+              om begränsningar av vilka personuppgifter som får behandlas för
+              ett visst ändamål.
+            </p>
+            <p>
+              Personuppgifter får utöver vad som sägs ovan behandlas i CSN:s
+              studiestödsverksamhet med den registrerades samtycke.
+            </p>
+            <p xml:id="IDAVRYVF" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet föreslår att riksdagen antar regeringens förslag om
+              att behandling av personuppgifter i CSN:s studiestödsverksamhet
+              ska regleras i en särskild lag, studiestödsdatalagen.
+            </p>
+            <p>
+              Utskottet instämmer i regeringens bedömning att det behövs en
+              särskild författningsreglering av behandlingen av personuppgifter
+              i CSN:s studiestödsverksamhet. Utskottets uppfattning är att den
+              nya studiestödsdatalagen ger ett förstärkt integritetsskydd för
+              det stora antal personer som berörs redan nu och som kommer att
+              beröras i framtiden.
+            </p>
+            <p xml:id="IDA5RYVF" rend="orubrik2">
+              Begränsningar i rätten att behandla personuppgifter m.m.
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDADSYVF" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen antar regeringens förslag om att särskilda begränsningar
+                ska gälla för känsliga personuppgifter och personuppgifter om
+                lagöverträdelser m.m.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Personuppgifter som omfattas av särskilda begränsningar får behandlas
+                för andra ändamål än de ovan angivna bara med den registrerades
+                uttryckliga samtycke.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAOSYVF" rend="r3">
+              Propositionen
+            </p>
+            <p xml:id="IDARSYVF" rend="r4">
+              Särskilda begränsningar
+            </p>
+            <p>
+              Särskilda begränsningar ska gälla för personuppgifter som
+            </p>
+            <p>
+              1. avslöjar ras, etniskt ursprung, politiska åsikter, religiös
+              eller filosofisk övertygelse eller medlemskap i fackförening,
+            </p>
+            <p>
+              2. avser lagöverträdelser som innefattar brott, domar i brottmål,
+              straffprocessuella tvångsmedel eller administrativa frihetsberövanden
+              eller
+            </p>
+            <p>
+              3. rör hälsa eller sexualliv.
+            </p>
+            <p>
+              Sådana personuppgifter får behandlas bara för att
+            </p>
+            <p rend="punktlistaLista">
+              handlägga ärenden i studiestödsverksamheten, om uppgifterna har
+              lämnats i ett ärende i studiestödsverksamheten eller behövs för
+              handläggningen av ett sådant ärende,
+            </p>
+            <p rend="punktlistaLista">
+              anmäla oegentligheter inom studiestödsverksamheten till ett offentligt
+              organ som har att utreda eller beivra oegentligheten,
+            </p>
+            <p rend="punktlistaLista">
+              lämnas ut till den registrerade själv, riksdagen och regeringen,
+              samt i den utsträckning skyldighet att lämna uppgifter följer
+              av lag eller förordning, till andra och
+            </p>
+            <p rend="punktlistaLista">
+              ge tillgång till vägledande avgöranden, om uppgifterna inte direkt
+              pekar ut den registrerade.
+            </p>
+            <p>
+              Personuppgifter som omfattas av särskilda begränsningar får behandlas
+              för andra ändamål än de ovan angivna bara med den registrerades
+              uttryckliga samtycke.
+            </p>
+            <p xml:id="IDACUYVF" rend="r4">
+              Sökbegrepp
+            </p>
+            <p>
+              Som sökbegrepp ska inte få användas
+            </p>
+            <p>
+              1. uppgifter som avslöjar ras, etniskt ursprung, politiska åsikter,
+              religiös eller filosofisk övertygelse eller medlemskap i fackförening,
+            </p>
+            <p>
+              2. uppgifter som avser lagöverträdelser som innefattar brott,
+              domar i brottmål, straffprocessuella tvångsmedel eller administrativa
+              frihetsberövanden,
+            </p>
+            <p>
+              3. uppgifter som rör hälsa, sexualliv, inkomst, förmögenhet eller
+              anledning till studieavbrott eller
+            </p>
+            <p>
+              4. uppgift om att det allmänna helt eller till en väsentlig del
+              bekostat en persons uppehälle.
+            </p>
+            <p>
+              Vid sökning i ett visst ärende om studiestöd, i en viss handling
+              eller i en avskild samling av personuppgifter som inte direkt
+              pekar ut den registrerade ska dock sådana sökbegrepp få användas.
+              Som sökbegrepp får också användas uppgifter som rör
+            </p>
+            <p>
+              1. hälsa, för att ge behörig personal elektronisk tillgång till
+              pågående ärenden där sjukdom har betydelse och
+            </p>
+            <p>
+              2. inkomst och förmögenhet, för att ge behörig personal elektronisk
+              tillgång till ärenden i syfte att kunna genomföra kontroller av
+              uppgifter som har legat till grund för ett beslut i ett ärende.
+            </p>
+            <p xml:id="IDA3UYVF" rend="r4">
+              Intern elektronisk tillgång till personuppgifter
+            </p>
+            <p>
+              Regeringen eller den myndighet som regeringen bestämmer meddelar
+              föreskrifter om villkoren för elektronisk tillgång till personuppgifterna
+              för den som arbetar i CSN:s studiestödsverksamhet.
+            </p>
+            <p>
+              Sådan tillgång ska begränsas till vad som behövs för att han
+              eller hon ska kunna fullgöra sina arbetsuppgifter inom studiestödsverksamheten.
+            </p>
+            <p>
+              CSN ska se till att elektronisk tillgång till personuppgifter
+              dokumenteras och ska systematiskt och återkommande kontrollera
+              om någon obehörig åtkomst till uppgifterna har förekommit.
+            </p>
+            <p>
+              Regeringen eller den myndighet som regeringen bestämmer meddelar
+              ytterligare föreskrifter om elektronisk tillgång och om dokumentation
+              och kontroll.
+            </p>
+            <p xml:id="IDAMVYVF" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet föreslår att riksdagen antar regeringens förslag om
+              särskilda begränsningar i rätten att behandla personuppgifter,
+              sökbegrepp och intern elektronisk tillgång till personuppgifter.
+              Utskottet anser liksom regeringen att dessa frågor är viktiga
+              från integritetssynpunkt och att det därför finns goda skäl att
+              av integritetsskyddshänsyn införa sådana begränsningar i lagen.
+            </p>
+            <p xml:id="IDATVYVF" rend="orubrik2">
+              Direktåtkomst till och annat elektroniskt utlämnande av personuppgifter
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAXVYVF" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen antar regeringens förslag om att direktåtkomst till
+                och annat elektroniskt utlämnande utan den enskildes samtycke
+                av personuppgifter som behandlas i CSN:s studiestödsverksamhet
+                ska vara tillåtet bara i den utsträckning som anges i lag eller
+                förordning och under förutsättning att bestämmelserna om tillåtna
+                ändamål, begränsningar av behandlingen m.m. och sökbegrepp följs.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                När personuppgifter får lämnas ut till någon genom direktåtkomst
+                får personuppgifterna också på något annat sätt lämnas ut elektroniskt
+                till mottagaren.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDACWYVF" rend="r3">
+              Propositionen
+            </p>
+            <p>
+              Direktåtkomst till och annat elektroniskt utlämnande utan den
+              enskildes samtycke av personuppgifter som behandlas i CSN:s studiestödsverksamhet
+              ska vara tillåtet bara i den utsträckning som anges i lag eller
+              förordning och under förutsättning att bestämmelserna om tillåtna
+              ändamål, begränsningar av behandlingen m.m. och sökbegrepp följs.
+            </p>
+            <p>
+              När personuppgifter får lämnas ut till någon genom direktåtkomst
+              får personuppgifterna också på något annat sätt lämnas ut elektroniskt
+              till mottagaren.
+            </p>
+            <p xml:id="IDALWYVF" rend="r4">
+              Direktåtkomst för Försäkringskassan och arbetslöshetskassorna
+            </p>
+            <p>
+              Försäkringskassan och arbetslöshetskassorna ska, i den utsträckning
+              CSN har uppgiftsskyldighet enligt lag eller förordning, få ha
+              direktåtkomst till personuppgifter som behandlas i CSN:s studiestödsverksamhet.
+              Regeringen meddelar föreskrifter om vilka personuppgifter som
+              får omfattas av sådan direktåtkomst.
+            </p>
+            <p xml:id="IDARWYVF" rend="r4">
+              Direktåtkomst för den registrerade
+            </p>
+            <p>
+              Den registrerade får ha direktåtkomst till personuppgifter som
+              behandlas i CSN:s studiestödsverksamhet, om uppgifterna
+            </p>
+            <p>
+              1. avser honom eller henne själv,
+            </p>
+            <p>
+              2. finns i ett ärende om studiestöd där den registrerade är part
+              eller där den registrerade har rätt att få utbetalning av studiestöd
+              för någon annan eller
+            </p>
+            <p>
+              3. avser dokumentation av den elektroniska tillgång som har förekommit
+              till hans eller hennes personuppgifter, dock inte sådan information
+              som avslöjar vilken enskild handläggare som haft tillgång till
+              uppgifterna.
+            </p>
+            <p xml:id="IDAAXYVF" rend="r4">
+              Elektroniskt utlämnande av enstaka personuppgifter
+            </p>
+            <p>
+              Enstaka personuppgifter ska i enskilda fall alltid få lämnas
+              ut på medium för automatiserad behandling eller via elektronisk
+              kommunikation.
+            </p>
+            <p xml:id="IDAGXYVF" rend="r4">
+              Elektroniskt utlämnande till Riksrevisionen
+            </p>
+            <p>
+              På begäran enligt 6 § lagen (2002:1022) om revision av statlig
+              verksamhet m.m. får personuppgifter lämnas ut till Riksrevisionen
+              på medium för automatiserad behandling.
+            </p>
+            <p xml:id="IDAMXYVF" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet föreslår att riksdagen antar regeringens förslag om
+              direktåtkomst till och annat elektroniskt utlämnande av personuppgifter.
+              Utskottet delar regeringens bedömningar vad gäller utformningen
+              av bestämmelser om elektroniskt informationsutbyte.
+            </p>
+            <p xml:id="IDATXYVF" rend="orubrik2">
+              Rättelse, skadestånd och gallring
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAXXYVF" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen antar regeringens förslag om att bestämmelserna om
+                rättelse och skadestånd i 28 och 48 §§ personuppgiftslagen (1998:204)
+                ska gälla vid behandling av personuppgifter enligt studiestödsdatalagen
+                eller föreskrifter som har meddelats i anslutning till lagen.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Om återbetalning eller återkrav av studiestöd inte är aktuellt
+                i ett ärende om studiestöd, ska personuppgifterna i ärendet gallras
+                senast tre år efter utgången av det kalenderår då studiestöd senast
+                beviljades i ärendet eller ansökan om studiestöd avslogs. I annat
+                fall ska personuppgifterna i ärendet gallras senast två år efter
+                utgången av det kalenderår då full betalning skedde eller betalningsskyldigheten
+                annars upphörde.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAFYYVF" rend="r3">
+              Propositionen
+            </p>
+            <p xml:id="IDAIYYVF" rend="r4">
+              Rättelse och skadestånd
+            </p>
+            <p>
+              Bestämmelserna om rättelse och skadestånd i 28 och 48 §§ personuppgiftslagen
+              (1998:204) ska gälla vid behandling av personuppgifter enligt
+              studiestödsdatalagen eller föreskrifter som har meddelats i anslutning
+              till lagen.
+            </p>
+            <p xml:id="IDAOYYVF" rend="r4">
+              Gallring
+            </p>
+            <p>
+              Om återbetalning eller återkrav av studiestöd inte är aktuellt
+              i ett ärende om studiestöd, ska personuppgifterna i ärendet gallras
+              senast tre år efter utgången av det kalenderår då studiestöd senast
+              beviljades i ärendet eller ansökan om studiestöd avslogs. I annat
+              fall ska personuppgifterna i ärendet gallras senast två år efter
+              utgången av det kalenderår då full betalning skedde eller betalningsskyldigheten
+              annars upphörde. Sådana personuppgifter i ärendet som kan ha betydelse
+              i ett nytt ärende om studiestöd eller som kan ha betydelse för
+              återkrav av studiestöd i form av bidrag ska dock inte behöva gallras
+              förrän de inte längre kan ha sådan betydelse.
+            </p>
+            <p>
+              Personuppgifter som behandlas för att förbereda handläggningen
+              av ärenden ska, i den utsträckning de inte har tillförts ett ärende
+              om studiestöd, gallras senast ett år efter det att uppgifterna
+              registrerades.
+            </p>
+            <p>
+              Regeringen eller den myndighet som regeringen bestämmer får meddela
+              föreskrifter om att uppgifter får bevaras för historiska, statistiska
+              eller vetenskapliga ändamål eller för redovisningsändamål, även
+              om föreskrifterna kommer att avvika från studiestödsdatalagens
+              gallringsbestämmelser. CSN får också i enstaka fall besluta att
+              personuppgifterna i ett ärende om studiestöd ska bevaras på papper
+              eller annat medium som inte är elektroniskt.
+            </p>
+            <p xml:id="IDA0YYVF" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet föreslår att riksdagen antar regeringens förslag om
+              rättelse, skadestånd och gallring. Utskottet anser i likhet med
+              regeringen att de föreslagna bestämmelserna är väl avvägda och
+              följer de principer som kommit till uttryck i personuppgiftslagen
+              och i andra särskilda registerförfattningar.
+            </p>
+            <p xml:id="IDABZYVF" rend="orubrik2">
+              Ikraftträdande m.m.
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAFZYVF" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen antar regeringens förslag om att studiestödsdatalagen
+                ska träda i kraft den 1 januari 2010. Bestämmelserna om intern
+                elektronisk tillgång till personuppgifter och gallring ska dock
+                inte börja tillämpas förrän den 1 januari 2011.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAMZYVF" rend="r3">
+              Propositionen
+            </p>
+            <p>
+              Det finns i dag inte någon fullständig författningsreglering
+              av behandling av personuppgifter inom studiestödsområdet. Det
+              är därför enligt regeringen angeläget att den föreslagna studiestödsdatalagen
+              träder i kraft så snart det är möjligt. Lagen föreslås träda i
+              kraft den 1 januari 2010.
+            </p>
+            <p>
+              Det kommer emellertid att krävas visst internt utrednings- och
+              systemutvecklingsarbete hos CSN för att genomföra de föreslagna
+              bestämmelserna om gallring och begränsning av den interna direkta
+              elektroniska tillgången till personuppgifter. För att medge tid
+              för sådant arbete föreslår regeringen att bestämmelserna om intern
+              elektronisk tillgång till personuppgifter och gallring inte ska
+              börja tillämpas förrän ett år efter att lagen trätt i kraft, dvs.
+              den 1 januari 2011. Enligt regeringens bedömning ger detta CSN
+              rimlig tid att införa de nya rutinerna och genomföra de informations-
+              och utbildningsinsatser som krävs.
+            </p>
+            <p>
+              Regeringen bedömer att kostnaderna för genomförandet av studiestödsdatalagen
+              bör täckas inom ramen för CSN:s ordinarie resurser.
+            </p>
+            <p xml:id="IDAYZYVF" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet föreslår att riksdagen antar regeringens förslag om
+              datum för ikraftträdande.
+            </p>
+            <p xml:id="IDA4ZYVF" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAB0YVF" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAE0YVF" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2008/09:96 Behandling av personuppgifter inom studiestödsområdet:
+            </p>
+            <p>
+              Riksdagen antar förslaget till studiestödsdatalag.
+            </p>
+            <p xml:id="IDAR0YVF" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDAU0YVF" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{5DEC082B-6B18-482A-B60D-638242FF1D5B}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{A6A4E4B0-4E84-456D-B0B3-12F790E6D633}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{193A38EE-87E0-4EB0-996F-7E9F4E76110E}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{35D83519-EC54-4316-9694-1EEFED0D9530}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{0CAEB887-E0BD-4943-92B0-81D5F228A35C}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

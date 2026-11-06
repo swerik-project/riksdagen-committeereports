@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200203_FIU_0006">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen lade till handlingarna regeringens redovisning av AP-fondernas utveckling under 2001.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">AP-fondernas verksamhet 2001 (FiU6)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Skrivelsen läggs till handlingarna. Avslag på samtliga motioner.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0936</idno>
+              <title>2002-12-13</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">36</biblScope>
+              <note type="display-reference">2002-12-13</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0936</idno>
+              <title>2002-12-13</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">36</biblScope>
+              <note type="display-reference">2002-12-13</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GQ0K64</idno>
+              <title>2002/03:64</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">64</biblScope>
+              <note type="display-reference">2002/03:64</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="skr">
+              <idno type="riksdagen">GP03180</idno>
+              <title>Redovisning av AP-fondernas verksamhet år 2001</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">180</biblScope>
+              <note type="display-reference">regeringsskrivelse 2001/02:180 Redovisning av AP-fondernas verksamhet år 2001</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Fi49</idno>
+              <title>med anledning av skr. 2001/02:180 Redovisning av AP-fondernas verksamhet år 2001</title>
+              <title type="sub">av Gunnar Hökmark m.fl. (M)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Fi49</biblScope>
+              <note type="display-reference">motion 2001/02:Fi49 med anledning av skr. 2001/02:180 Redovisning av AP-fondernas verksamhet år 2001</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02Fi257</idno>
+              <title>Nya aktiva ägare</title>
+              <title type="sub">av Gudrun Schyman m.fl. (V)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">Fi257</biblScope>
+              <note type="display-reference">motion 2002/03:Fi257 Nya aktiva ägare</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02Fi288</idno>
+              <title>Buffertfonden, bromsen och återställandet i pensionssystemet</title>
+              <title type="sub">av Gudrun Schyman m.fl. (V)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">Fi288</biblScope>
+              <note type="display-reference">motion 2002/03:Fi288 Buffertfonden, bromsen och återställandet i pensionssystemet</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2002-12-09">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-12-06">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-12-06">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-12-05">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-12-05">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-12-05">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-11-05">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-11-05">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2002-12-13">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-12-13">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-12-13">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-12-13">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-12-13">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-12-11">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-12-11">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Finansutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2002/03:FIU6
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            AP-fondernas verksamhet 2001
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning Finansutskottet behandlar i betänkandet skrivelse
+            2001/02:180 Redovisning av AP-fondernas verksamhet 2001. I skrivelsen
+            lämnar regeringen en redovisning av AP-fondernas utveckling under
+            förra året, en utvärdering av fondernas mål och FörstaFjärde AP-
+            fondernas anpassning till målen samt vilka effekter förra årets
+            stora portföljförändringar i AP-fonderna hade på den svenska kronan.
+            Vidare redovisas en utvärdering av Sjätte AP-fondens förvaltningsresultat
+            perioden 19972001. AP-fondernas marknadsvärderade resultat uppgick
+            under 2001 till 26 miljarder kronor. Skillnaden mellan pensionsavgifterna
+            och pensionsutbetalningarna gav under året ett överskott på 13,2
+            miljarder kronor. Kostnaden för administrationen uppgick till
+            1 miljard kronor och som en följd av det reformerade ålderspensionssystemet
+            förde AP-fonderna över 155 miljarder kronor till staten. Sammantaget
+            innebar detta att AP-fondernas samlade kapital under förra året
+            minskade med 168,7 miljarder kronor, från 733,9 miljarder kronor
+            i slutet av 2000 till 565,2 miljarder kronor i slutet av 2001.
+            Utskottet föreslår av skrivelsen läggs till handlingarna. Utskottet
+            behandlar också tre motioner med anknytning till fondernas placeringsinriktning
+            och Sjätte AP-fonden. En motion väcktes med anledning av skrivelsen
+            medan de resterande två motionerna väcktes under allmänna motionstiden.
+            Utskottet föreslår att motionerna avslås. I betänkandet finns
+            3 reservationer.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. AP-fondernas verksamhet
+            2001 Riksdagen lägger regeringens skrivelse 2001/02:180 till handlingarna.
+            2. Avveckling av Sjätte AP-fonden Riksdagen avslår motion 2001/02:Fi49
+            av Gunnar Hökmark m.fl. (m). Reservation 1 (m) Reservation 2 (fp)
+            3. Nya riktlinjer för AP-fonderna Riksdagen avslår motionerna
+            2002/03:Fi257 av Gudrun Schyman m.fl. (v) yrkande 3 samt 2002/03:Fi288
+            av Gudrun Schyman m.fl. (v) yrkande 3. Reservation 3 (v) Stockholm
+            den 5 december 2002 På finansutskottets vägnar Sven-Erik Österberg
+            Följande ledamöter har deltagit i beslutet: Sven- Erik Österberg
+            (s), Fredrik Reinfeldt (m), Carin Lundberg (s), Sonia Karlsson
+            (s), Kjell Nordström (s), Agneta Ringman (s), Gunnar Axén (m),
+            Christer Nylander (fp), Hans Hoff (s), Tomas Högström (m), Agneta
+            Gille (s), Bo Bernhardsson (s), Gunnar Nordmark (fp), Olle Sandahl
+            (kd), Siv Holma (v) och Jörgen Johansson (c).
+          </p>
+          <p>
+            2002/03 FiU6 (skr. 2001/02:180) Redogörelse för ärendet I skrivelse
+            2001/02:180 Redovisning av AP- fondernas verksamhet 2001 lämnar
+            regeringen en redovisning av AP-fondernas utveckling under förra
+            året, en utvärdering av fondernas mål och FörstaFjärde AP-fondernas
+            anpassning till målen samt vilka effekter förra årets stora portföljförändringar
+            i AP-fonderna hade på den svenska kronan. Vidare redovisas en
+            utvärdering av Sjätte AP-fondens förvaltningsresultat perioden
+            19972001. Med anledning av skrivelsen har en motion väckts. Under
+            allmänna motionstiden väcktes ytterligare två motioner som behandlas
+            i betänkandet. Förslagen i motionerna återges i bilaga.
+          </p>
+          <p>
+            Utskottets överväganden AP-fondernas verksamhet 2001 Utskottets
+            förslag i korthet Riksdagen beslutar lägga regeringens skrivelse
+            2001/02:180 Redovisning av AP- fondernas verksamhet år 2001 till
+            handlingarna. Skrivelsen I skrivelsen lämnas en redovisning av
+            Allmänna pensionsfondernas (AP-fondernas) verksamhet under 2001.
+            Redovisningen innehåller bl.a. en sammanställning av fondernas
+            årsredovisningar, en utvärdering av fondernas mål och FörstaFjärde
+            AP- fondernas anpassning till målen samt vilka effekter förra
+            årets stora portföljomflyttningar hade på den svenska kronan.
+            Vidare redovisas en utvärdering av Sjätte AP-fondens förvaltningsresultat
+            perioden 19972001. Till hjälp med utvärderingarna har regeringen
+            bl.a. använt sig av Wassum Investment Consulting och Bacon &amp;
+            Woodrow. I och med reformeringen av pensionssystemet fick AP-fondsystemet
+            en ny organisation under 2000 och nya placeringsregler fr.o.m.
+            årsskiftet 2001 (prop. 1999/2000:46, bet. 1999/2000:FiU19, rskr.
+            1999/2000:1818). Fyra nya s.k. buffertfonder Första, Andra, Tredje
+            och Fjärde AP-fonderna bildades och de nya placeringsreglerna
+            innebar bl.a. att fonderna i större utsträckning än tidigare fick
+            möjlighet att placera i börsnoterade aktier och i utländska tillgångar.
+            I samband med skrivelserna om AP-fondernas verksamhet brukar regeringen
+            normalt presentera en utvärdering av fondernas förvaltning under
+            de senaste fem åren. I årets skrivelse presenteras en sådan för
+            enbart Sjätte AP-fonden, eftersom de övriga fonderna (inklusive
+            Sjunde AP- fonden) till följd av den nya organisationen och de
+            nya placeringsreglerna varit verksamma för kort tid för att en
+            långsiktig utvärdering ska vara meningsfull. AP-fondernas (exklusive
+            Sjunde AP-fonden) sammanlagda s.k. marknadsvärderade resultat
+            uppgick under 2001 till 26 miljarder kronor, visar sammanställningen
+            av fondernas årsredovisningar. Skillnaden mellan pensionsavgifterna
+            och pensionsutbetalningarna gav under året ett överskott på 13,2
+            miljarder kronor. Kostnaden för administrationen uppgick till
+            1 miljard kronor (något lägre än under förra året då administrationskostnaderna
+            ökade kraftigt till följd av omorganisationen och förberedelserna
+            inför de nya placeringsreglerna) och som en följd av det reformerade
+            ålderspensionssystemet förde AP-fonderna över 155 miljarder kronor
+            till staten. Sammantaget innebär detta att AP-fondernas samlade
+            kapital under förra året minskade med 168,7 miljarder kronor,
+            från 733,9 miljarder kronor i slutet av 2000 till 565,2 miljarder
+            kronor i slutet av 2001. Fondernas resultat motsvarar en nominell
+            avkastning på 4,4 %, vilket kan jämföras med en avkastning under
+            2000 på 4 %. Räknas inflationen bort blev den reala avkastningen
+            under 2001 7,1 %. Under 2000 var den reala avkastningen 2,6 %.
+            Under de senaste fem åren har buffertfondernas avkastning (FörstaFjärde
+            AP-fonderna plus Sjätte AP-fonden) legat på i genomsnitt 5,7 %
+            per år. Den reala avkastningen var under samma tidsperiod 4,3
+            %. Det svaga resultatet under 2001 beror till stor del på de kraftiga
+            prisrasen på världens olika aktiebörser i kombination med att
+            fonderna, till följd av de ändrade placeringsreglerna, under året
+            kraftigt ökade andelen aktier i portföljerna. Som framgår av tabell
+            1 bestod fondernas portföljer i början av 2001, efter överföringen
+            av 155 miljarder kronor i olika typer av obligationer till staten,
+            av svenska och utländska aktier till ett värde av 165,9 miljarder
+            kronor. Värdet av räntebärande värdepapper och fastigheter uppgick
+            vid samma tidpunkt till 392,6 miljarder kronor respektive 20,5
+            miljarder kronor. I slutet av 2001 hade värdet av aktierna ökat
+            till 326,1 miljarder kronor medan värdet av de räntebärande värdepapperen
+            hade minskat till 220,9 miljarder kronor. Tabell 1. Buffertfondernas
+            tillgångar i början och slutet av 2001 --------------------------------------------------------------
+            |Tillgångar |1 januari 2001 |31 december 2001 | --------------------------------------------------------------
+            |Svenska och utländska | 165,9 | 326,1 | |aktier | | | --------------------------------------------------------------
+            |Svenska och utländska | 392,6 | 220,9 | |räntebärande värdepapper
+            | | | --------------------------------------------------------------
+            |Fastigheter | 20,5 | 18,3 | --------------------------------------------------------------
+            |Totalt | 578,9 | 565,3 | --------------------------------------------------------------
+            |varav utomlands | 72,1 | 287,8 | --------------------------------------------------------------
+            Det innebär att andelen aktier i portföljerna under året ökat
+            från 28,7 % till 57,7 % av den totala portföljen, uteslutande
+            på grund av omfattande köp av utländska aktier. Första AP-fonden
+            Det marknadsvärderade resultatet för Första AP-fonden blev under
+            2001 7,7 miljarder kronor, vilket motsvarar en avkastning på 5,6
+            % (inklusive valutasäkring). Fonden redovisar inte något jämförelseindex
+            för helåret 2001, men väl för andra halvåret 2001 (anledningen
+            är att det dröjde en bra bit in på året innan anpassningen till
+            en ny normalportfölj var genomförd). Jämförelsen visar att fonden
+            under andra halvåret lyckades slå jämförelseindex med 0,7 procentenheter.
+            Fondens kostnader var under året 176 miljoner kronor, ca 0,13
+            % av ett schablonberäknat genomsnittligt fondkapital. Andra AP-fonden
+            Andra AP-fondens resultat uppgick till 5 miljarder kronor. Det
+            motsvarar en avkastning på 3,7 %, vilket är 1,7 procentenheter
+            bättre än jämförelseindex, enligt fondens beräkningar. Fondens
+            kostnader för verksamheten var under perioden 187 miljoner kronor,
+            vilket ungefär motsvarar 0,14 % av fondkapitalet. Tredje AP-fonden
+            Tredje AP-fonden visade under 2001 ett marknadsvärderat resultat
+            på 5,8 miljarder kronor. Det ger en avkastning på totalt 4,4 %,
+            vilket enligt fonden är 0,2 procentenheter bättre än jämförelseindex.
+            Kostnaderna för verksamheten uppgick till 110 miljoner kronor,
+            motsvarande 0,08 % av fondkapitalet. Fjärde AP-fonden Fjärde AP-fondens
+            resultat blev 6,9 miljarder kronor. Det motsvarar en avkastning
+            på ungefär 5 %, vilket för helåret är 0,5 procentenheter lägre
+            än jämförelseindex. Jämförelsen är dock orättvis, eftersom fonden
+            först under andra halvåret var klar med anpassningen av portföljen.
+            Tittar man enbart på andra halvåret var fondens avkastning 0,2
+            procentenheter högre än jämförelseindex. Fondens kostnader för
+            verksamheten uppgick till 175 miljoner kronor, ca 0,13 % av fondkapitalet.
+            Sjätte AP-fonden Sjätte AP-fondens totala resultat uppgick till
+            1,7 miljarder kronor, vilket motsvarar en avkastning på omkring
+            8 %. Det är drygt 6 procentenheter bättre än jämförelseindex som
+            sjönk med 14,2 %. Fondens kostnader för verksamheten uppgick till
+            272 miljoner kronor, vilket motsvarar ca 1,5 % av fondkapitalet.
+            I skrivelsen analyserar regeringen även Sjätte AP-fondens förvaltningsresultat
+            under de senaste fem åren, den första sammanhängande femårsperioden
+            i fondens korta historia. Fonden gav under perioden en avkastning
+            på i genomsnitt 10,6 % per år, vilket per år är 1,3 procentenheter
+            bättre än jämförelseindex. Ser man till enbart de senaste tre
+            åren blir avkastningen utöver jämförelseindex än större. Regeringen
+            konstaterar därför att fonden uppnått styrelsens mål under perioden.
+            Det är framför allt förvaltningen av portföljen av onoterade aktier
+            som bidragit till resultatet. Under femårsperioden gav den onoterade
+            portföljen en avkastning på i genomsnitt 19,6 % per år, 3,6 procentenheter
+            mer än styrelsens mål per år. Sjunde AP-fonden Sjunde AP-fonden
+            är det statliga fondalternativet inom premiereservsystemet. Den
+            s.k. premiesparfonden, vilken är den fond som de s.k. icke-väljarna
+            i premiereservsystemet placeras i, gav under 2001 en avkastning
+            på 10,6 %, vilket är samma avkastning som i jämförelseindex. Den
+            s.k. premievalsfonden, som är den valbara statliga fonden, gav
+            under samma period en avkastning på 12,5 %, vilket är 0,4 procentenheter
+            sämre än jämförelseindex. Utvärdering av målen FörstaFjärde AP-fonderna
+            samt Sjunde AP-fonden ska enligt lag utarbeta mål för verksamheten
+            på grundval av pensionssystemets långsiktiga åtaganden. I tabell
+            2 nedan sammanfattas ytterst kortfattat regeringens synpunkter
+            på fondstyrelsernas mål för den strategiska inriktningen av placeringarna,
+            de s.k. normalportföljerna. Tabell 2. Sammanfattning av regeringens
+            bedömning av fondernas mål ---------------------------------------------------------------
+            | |Regeringens bedömning | ---------------------------------------------------------------
+            |Första AP-fonden |Den strategiska inriktningen | | |av placeringarna
+            verkar vara| | |rimligt väl avvägd. Regeringen | | |ifrågasätter
+            dock om inslaget| | |av likviditet i portföljen| | |överensstämmer
+            med fondens| | |uppdrag. | ---------------------------------------------------------------
+            |Andra AP-fonden |Trots att Andra AP-fonden | | |under stor tidspress
+            byggt upp | | |en helt ny| | |förvaltningsorganisation har| |
+            |fonden formulerat ett mål som| | |är rimligt avvägt. Enligt|
+            | |regeringen är det dock svårt| | |att motivera att portföljen,|
+            | |utifrån de långsiktiga| | |åtagandena i pensionssystemet, |
+            | |innehåller statsskuldväxlar. | ---------------------------------------------------------------
+            |Tredje AP-fonden |Fonden har på ett ambitiöst | | |sätt relaterat
+            fondens| | |placeringsinriktning till| | |pensionssystemets åtagande.|
+            | |Fondens mål står därmed friare | | |till rådande konsensus
+            på| | |marknaderna i form av| | |genomsnittliga | | |marknadsuppfattningar.
+            Målet| | |är väl avvägt. | ---------------------------------------------------------------
+            |Fjärde AP-fonden |Fondens mål baseras på | | |vedertagen analys
+            och| | |förefaller väl avvägd. | ---------------------------------------------------------------
+            |Sjätte AP-fonden |Avkastningsmålet för onoterade | | |aktier
+            väl avvägt medan| | |avkastningsmålen för de| | |noterade aktierna
+            och för| | |fonden som helhet alltjämt är| | |relativt lågt satta.
+            | ---------------------------------------------------------------
+            |Sjunde AP-fonden |Den strategiska | | |placeringsinriktningen
+            väl| | |avvägd. Regeringen| | |ifrågasätter dock lämpligheten
+            | | |i att utnyttja en| | |genomsnittligt utvald fond i| | |premiepensionssystemet
+            som| | |utgångspunkt för att bygga en| | |långsiktig portfölj.
+            | ---------------------------------------------------------------
+            Som en övergripande synpunkt på fondernas målutformning utifrån
+            pensionssystemets långsiktiga åtaganden skriver regeringen att
+            det underlag som finns tillgängligt för att göra denna typ av
+            analyser, som t.ex. långfristiga demografiska prognoser och medelfristiga
+            ekonomiska bedömningar, är bristfälligt. Regeringen avser därför
+            att hålla frågan om fondernas beslutsunderlag och riskerna med
+            ett bristfälligt underlag under uppsikt. Anpassningen till de
+            nya målen FörstaFjärde AP-fondernas anpassning under 2001 till
+            nya mål och nya placeringsregler är sannolikt den största förändringen
+            av en samlad tillgångsmassa som någonsin ägt rum i Sverige. Regeringen
+            gör därför i skrivelsen en analys av hur fonderna internt klarat
+            den kraftiga förändringen samt hur portföljanpassningen påverkat
+            marknaderna. I tabell 1 ovan framgår vilka stora skiften mellan
+            olika typer av tillgångar som fonderna genomförde under förra
+            året. Intern hantering av anpassningen Regeringen gör i skrivelsen
+            en genomgång av hur och hur snabbt de olika fonderna hanterat
+            övergången till de nya portföljerna. Vidare görs en genomgång
+            av hur fonderna löst problemet med jämförelseindex under den tid
+            portföljen förändrats mot den nya beslutade normalportföljen.
+            Regeringen konstaterar att fonderna valt olika metoder för att
+            mäta förvaltningsresultaten under anpassningsperioden, varav en
+            del metoder skapat oklarhet om fondernas verkliga förvaltningsresultat
+            under perioden samt gett otydliga mål för organisationerna under
+            anpassningen. Samtliga fonder använder från halvårsskiftet den
+            nya normalportföljen som jämförelseindex för att kunna avläsa
+            resultaten i förvaltning. Under första halvåret används dock olika
+            metoder. Regeringen drar kortfattat slutsatsen att det är viktigt
+            att på lång sikt undvika oklarheter om vilka förvaltningsresultat
+            som uppnåtts. Regeringen uppmanar därför de AP-fonder som inte
+            gjort det att i efterhand presentera ett jämförelseindex för även
+            första halvåret 2001, baserat på styrelsernas beslut rörande fondens
+            portföljsammansättning. Marknadseffekter av fondernas portföljanpassning
+            I bilaga 8 i skrivelsen presenteras en analys av effekterna på
+            marknaderna av anpassningen till AP-fondernas nya placeringsregler,
+            vilken till stor del handlade om ett skifte från svenska räntebärande
+            värdepapper till utländska aktier. Analysen grundas på uppgifter
+            om AP- fondernas dagliga köp och försäljning av svenska kronor
+            samt på uppgifter om aktiemarknadernas och valutamarknadernas
+            utveckling under den aktuella perioden. Kortfattat konstaterar
+            regeringen att FörstaFjärde AP-fondernas transaktioner under 2001
+            visserligen påverkade den svenska kronans kurs på den internationella
+            valutamarknaden, men att effekten var begränsad. Kronan styrdes
+            i större utsträckning av aktiekursernas utveckling på både Stockholmsbörsen
+            och de stora internationella börserna samt av kursutvecklingen
+            mellan den amerikanska dollarn och euron. Vidare spelade också
+            graden av riskaversion hos marknadens olika aktörer, vilket kan
+            ses som ett mått på oron och turbulensen på marknaderna, en större
+            roll för kronans utveckling än AP-fondernas nya mål. Effekten
+            på valutakursen av AP-fondernas transaktioner berodde också enligt
+            regeringen i större utsträckning på att AP-fonderna anpassade
+            graden av valutasäkring till sjunkande internationella aktiekurser
+            än på effekter av AP-fondernas omstrukturering av portföljerna.
+            Utskottets ställningstagande Utskottet har granskat regeringens
+            skrivelse 2001/02:180 Redovisning av AP-fondernas verksamhet år
+            2001 och föreslår att skrivelsen läggs till handlingarna. Utskottet
+            vill dock kort kommentera utvecklingen under 2001. Utskottet kan
+            konstatera att omfördelningen i AP-fondernas tillgångar under
+            2001 sannolikt är den största portföljförändring som inträffat
+            i svensk finansiell historia. Som en följd av buffertfondernas
+            nya mål och nya och utvidgade placeringsregler beslutade styrelserna
+            i de fyra buffertfonderna, oberoende av varandra, att kraftigt
+            öka andelen aktier i portföljerna, framför allt utländska aktier,
+            på bekostnad av räntebärande värdepapper. Styrelserna beslutade
+            samtidigt att förändringen skulle genomföras under en relativt
+            kort tidrymd. I början av 2001 uppgick andelen svenska aktier
+            i buffertfonderna till 26 %, andelen utländska aktier till 2,4
+            %, andelen svenska räntebärande värdepapper till 49,3 % och andelen
+            utländska räntebärande värdepapper till 10,1 %. Andelen utländska
+            tillgångar var sammanlagt 12,5 %. I slutet av december 2001 hade
+            andelen utländska aktier och utländska räntebärande värdepapper
+            ökat till 37,2 % respektive 13,7 % samtidigt som andelen svenska
+            aktier och svenska räntebärande värdepapper sjunkit till 20,5
+            % respektive 18,3 %. Andelen utländska tillgångar i buffertfondernas
+            portföljer uppgick i slutet av december 2001 till nästan 51 %.
+            Så här i efterhand kan utskottet konstatera att 2001 var en ogynnsam
+            tidpunkt för en omfattande och snabb omväxling från räntebärande
+            värdepapper till aktier i AP-fondernas portföljer. Utvecklingen
+            visar att de internationella aktiemarknaderna, trots nedgången
+            under andra halvan av 2000, var övervärderade i början av 2001.
+            Börskurserna både i Sverige och internationellt fortsatte att
+            falla under både 2001 och 2002. Avveckling av Sjätte AP-fonden
+            Utskottets förslag i korthet Utskottet avstyrker motion Fi49 (m)
+            om en avveckling av Sjätte AP-fonden med motiveringen att fonden
+            fyller sin roll i AP- fondsystemet. Jämför reservationerna 1 (m)
+            och 2 (fp). Motionen I motion Fi49 av Gunnar Hökmark m.fl. (m)
+            anförs att Sjätte AP-fonden tillkom 1996 och att syftet var att
+            öka tillgången på riskkapital för mindre, nystartade och onoterade
+            företag. Någon skyldighet att inleverera medel till pensionssystemet
+            föreskrevs inte vid tillkomsten. Motionärerna konstaterar att
+            endast en tredjedel av fondens kapital placerats i onoterade bolag.
+            Detta visar enligt motionärerna att fondens uppdrag var feltänkt
+            från början. Erfarenheterna av statligt företagande och inte minst
+            statlig riskkapitalverksamhet är inte goda. Sjätte AP- fondens
+            tillgångar bör därför föras över till staten. För att undvika
+            marknadsstörningar kan innehaven av börsnoterade aktier dessförinnan
+            bytas mot obligationer. De onoterade aktierna förs till ett riskkapitalbolag
+            under Finansdepartementet och privatiseras sedan snarast möjligt
+            på samma sätt som en gång skedde med Atle och Bure. Likviden för
+            utförsäljningen av riskkapitalbolaget överförs till kvarvarande
+            fonder i buffertsystemet. Utskottets ställningstagande Utskottet
+            har vid flera tillfällen behandlat motioner om en avveckling av
+            Sjätte AP-fonden, senast i samband med behandlingen av förra årets
+            skrivelse om AP-fondernas verksamhet (bet. 2001/02:FiU7). Motionerna
+            har tidigare avstyrkts med bl.a. motiveringen att Sjätte AP-fonden
+            fyller sin roll i AP-fondsystemet och att det därför inte finns
+            någon anledning att genomgripande förändra, avveckla eller sälja
+            ut verksamheten. Utskottet ser ingen anledning att nu omvärdera
+            tidigare ställningstaganden. Motion Fi49 (m) avstyrks därför.
+            Nya riktlinjer för AP-fonderna Utskottets förslag i korthet Utskottet
+            avstyrker motionerna Fi257 (v) och Fi288 (v) om nya riktlinjer
+            för AP-fondernas placeringar och om att fonderna bör användas
+            i näringspolitiskt syfte. Jämför reservation 3 (v). Motionerna
+            I motion Fi257 av Gudrun Schyman m.fl. (v) anförs att Tredje AP-fonden
+            har tagit steg mot att bli en mer aktiv ägare i de företag som
+            de placerar pensionstillgångarna i. Ett sådant agerande från samtliga
+            AP- fonder skulle, enligt motionärerna, bli en välbehövlig motvikt
+            till kortsiktig aktiespekulation och påtryckningar från den s.k.
+            marknaden mot folkvalda politiker, i syfte att pressa fram ekonomisk-politiska
+            beslut. Enligt motionärerna bör därför AP-fonden få nya riktlinjer
+            för sina placeringar så att den kan uppträda mer långsiktigt och
+            därmed bli en motkraft till det mer kortsiktigt spekulativa ägandet
+            (yrkande 3). I motion Fi288 av Gudrun Schyman m.fl. (v) anförs
+            att enligt placeringsreglerna får inte AP-fondens medel användas
+            för att tillgodose närings- eller sysselsättningspolitiska mål.
+            Motionärerna delar inte den ideologiska och principiella uppfattning
+            som ligger bakom utformningen av dagens placeringsregler. För
+            att bl.a. klara framtidens pensionskostnader måste en hög sysselsättning
+            och en låg arbetslöshet upprätthållas. För att nå detta mål krävs
+            bl.a. en aktiv och målmedveten näringspolitik. Medlen i AP-fonderna
+            bör därför i större utsträckning än i dag kunna utnyttjas för
+            näringspolitik (yrkande 3). Finansutskottets ställningstagande
+            Utskottet har vid ett flertal tillfällen behandlat frågor och
+            yrkanden om att medlen i AP-fonderna i större utsträckning bör
+            användas för näringspolitiska åtgärder, senast i betänkandet om
+            AP-fondernas verksamhet 2000 (bet. 2001/02:FiU7). Nu, liksom tidigare,
+            anser utskottet att det är viktigt att målen och placeringsreglerna
+            för AP- fonderna är så formulerade att tillgångarna förvaltas
+            till största möjliga nytta för ålderspensionssystemet samt att
+            avkastningen långsiktigt maximeras i förhållande till risken i
+            placeringarna. Givet detta är det, enligt utskottets mening, naturligt
+            att fonderna inte ska ha några närings- eller ekonomisk-politiska
+            mål i sin verksamhet. När det gäller ägandet vill utskottet erinra
+            om att det i samband med omorganisationen av AP-fondsystemet (prop.
+            1999/2000:46, bet. 1999/2000: FiU19, rskr. 1999/2000:181) beslutades
+            att styrelsen i varje fond årligen ska formulera en verksamhetsplan.
+            Verksamhetsplanen ska, vid sidan av placeringspolicy och riskhanteringsplaner,
+            även innehålla en ägarpolicy. Utskottet kan konstatera att samtliga
+            buffertfonder formulerat en officiell ägarpolicy. En grov genomgång
+            av de olika policydokumenten visar att fonderna har ungefär samma
+            inriktning vad gäller ägarutövandet och att placeringsreglerna,
+            dvs. reglerna om att fonderna maximalt får äga 2 % av aktierna
+            på Stockholmsbörsen och maximalt 10 % av aktierna i ett enskilt
+            bolag, utgör ramarna för ägandet. Dessutom styrs ägarrollen av
+            att makten ska utövas med syftet att ge högre avkastning på förvaltade
+            medel. Samtliga fonder anger att ägarinflytandet t.ex. ska utövas
+            genom att fondens rösträtt på bolagstämmor utnyttjas, att fonden
+            deltar i och verkar för inrättandet av olika nomineringskommittéer,
+            att löpande kontakter ska hållas med bolagens företrädare samt
+            att fonden ska samverka med andra aktieägare. Fonderna är emellertid
+            i varierande grad konkreta när det gäller riktlinjer i speciella
+            ägarfrågor. Till exempel behandlar tre av fyra fonder explicit
+            frågan om kompensationssystem till styrelser, ledningar och övriga
+            anställda. I denna fråga är Tredje AP- fonden mest långtgående.
+            Fonden anger ett antal olika krav som bör ställas på kompensations-
+            och incitamentssystemen i företagen. Fonderna anger också hur
+            etik och miljöfrågor ska hanteras i ett ägarsammanhang. Samtliga
+            fonder redovisar dessutom villkor som bör ställas på en styrelse
+            och på sammansättningen av styrelserna. Styrelsernas sammansättning
+            bör enligt fonderna präglas av mångfald. Andra AP-fonden uppger
+            t.ex. i sin ägarpolicy att fonden ska verka för en jämn könsfördelning
+            i styrelserna. Första AP-fonden uppger att fonden ska eftersträva
+            ett ökat antal kvinnliga ledamöter i styrelserna i de företag
+            där fonden är ägare. Med det ovan anförda avstyrker utskottet
+            motionerna Fi257 (v) yrkande 3 och Fi 288 (v) yrkande 3.
+          </p>
+          <p>
+            Reservationer Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer. I rubriken anges inom parentes
+            vilken punkt i utskottets förslag till riksdagsbeslut som behandlas
+            i avsnittet. 1. Avveckling av Sjätte AP-fonden, punkt 2 (m) av
+            Fredrik Reinfeldt, Gunnar Axén och Tomas Högström (alla m). Förslag
+            till riksdagsbeslut Vi anser att utskottets förslag under punkt
+            2 borde ha följande lydelse: 2. Riksdagen tillkännager för regeringen
+            som sin mening vad som anförs i reservation 1. Därmed bifaller
+            riksdagen motion 2001/02:Fi49 av Gunnar Hökmark m.fl. (m). Ställningstagande
+            Vi anser att det är det privata sparandet som är grunden för näringslivets
+            riskkapitalförsörjning. Det är inte statens uppgift att genom
+            ett stort offentligt sparande tillhandahålla riskkapital. Ett
+            stort statligt inslag riskerar att skada riskkapitalmarknaden,
+            bl.a. genom att strikt ekonomiska överväganden ibland kan tvingas
+            ge vika för politiska syften och önskemål. När den sjätte fondstyrelsen
+            skapades 1996 angavs att syftet var att öka tillgången på riskkapital
+            för mindre, nystartade och onoterade företag. Från början fanns
+            inte någon skyldighet för Sjätte AP-fonden att leverera in medel
+            till pensionssystemet, men i dag är Sjätte AP- fonden en del i
+            buffertfondsystemet. En genomgång av fondens redovisning visar
+            att endast en begränsad del av Sjätte AP-fondens kapital är placerad
+            i onoterade bolag, vilket är fondens huvuduppgift. Huvuddelen
+            av tillgångarna är i stället placerade i större noterade bolag.
+            Detta visar att uppdraget till Sjätte AP-fonden var feltänkt från
+            början. Dessutom är placeringar i små onoterade bolag förenade
+            med stora risker. Sjätte fondens risktagande är högre än de övriga
+            buffertfondernas, visar AP-fondernas årsredovisningar. Sådana
+            risker bör inte tas med dagens och framtida pensionärers pengar.
+            Erfarenheterna av statlig riskkapitalverksamhet är inte goda.
+            Riskkapitalförsörjningen bör ske genom privata kapitalägare, privata
+            fonder och företag och inte genom en offentlig myndighet i mångmiljardklassen.
+            Därför bör Sjätte AP-fondens tillgångar föras över till staten.
+            För att undvika marknadsstörningar kan innehaven av börsnoterade
+            aktier dessförinnan bytas mot obligationer. De onoterade aktierna
+            förs till ett riskkapitalbolag under Finansdepartementet som sedan
+            snarast möjligt privatiseras på sätt som en gång skedde med Atle
+            och Bure. Vi föreslår att riksdagen tillkännager för regeringen
+            som sin mening vad vi anfört om Sjätte AP-fonden. Vi tillstyrker
+            därmed motion Fi49 (m). 2. Avveckling av Sjätte AP-fonden, punkt
+            2 (fp) av Christer Nylander och Gunnar Nordmark (båda fp). Förslag
+            till riksdagsbeslut Vi anser att utskottets förslag under punkt
+            2 borde ha följande lydelse: 2. Riksdagen tillkännager för regeringen
+            som sin mening vad som anförs i reservation 2. Därmed bifaller
+            riksdagen delvis motion 2001/02:Fi49 av Gunnar Hökmark m.fl. (m).
+            Ställningstagande Sjätte AP-fonden är inte en del av fempartiuppgörelsen
+            om pensionssystemet, men fondens kapital ingår i pensionssystemets
+            totala buffertfondering. Fonden är en främmande fågel i systemet.
+            Fondens uppgift är att agera riskkapitalfond med bl.a. inriktning
+            mot små och medelstora företag. Vi anser att staten inte ska bedriva
+            näringspolitik genom att pensionspengar förvaltas på det sätt
+            som sker i Sjätte AP-fonden. Pensionspengarna ska i stället förvaltas
+            i enlighet med de riktlinjer som fastställts för FörstaFjärde
+            AP-fonderna. Därför är det vår uppfattning att Sjätte AP-fonden
+            ska inordnas i buffertsystemet genom att dess nuvarande direktiv
+            ersätts med de direktiv och placeringsregler som gäller för FörstaFjärde
+            AP-fonderna. Möjligtvis bör denna förändring ske genom att Sjätte
+            AP-fonden inordnas i Andra AP-fonden. Vi föreslår att riksdagen
+            tillkännager för regeringen som sin mening vad vi anfört om Sjätte
+            AP-fonden. Vi tillstyrker därmed delvis motion Fi49 (m). 3. Nya
+            riktlinjer för AP-fonderna, punkt 3 (v) av Siv Holma (v). Förslag
+            till riksdagsbeslut Jag anser att utskottets förslag under punkt
+            3 borde ha följande lydelse: 3. Riksdagen tillkännager för regeringen
+            som sin mening vad som anförs i reservation 3. Därmed bifaller
+            riksdagen motionerna 2002/03:Fi257 av Gudrun Schyman m.fl. (v)
+            yrkande 3 och 2002/03:Fi288 av Gudrun Schyman m.fl. (v) yrkande
+            3. Ställningstagande Jag anser att den viktigaste metoden för
+            att klara framtidens pensionskostnader är att upprätthålla en
+            hög sysselsättning och en låg arbetslöshet i den svenska ekonomin.
+            Det förutsätter bl.a. ett starkt svenskt näringsliv. För att nå
+            det målet krävs en aktiv och målmedveten näringspolitik. Enligt
+            min mening bör medlen i buffertfonderna i större utsträckning
+            kunna utnyttjas för näringspolitik. Dagens snäva fokusering på
+            avkastning och de ideologiska blockeringarna i synen på statligt
+            ägande måste brytas. AP-fondernas placeringsregler bör därför
+            förändras för att möjliggöra och befrämja en mer aktiv näringspolitik.
+            Jag kan också konstatera att t.ex. Tredje AP-fonden under senare
+            tid börjat agera som en mer aktiv ägare i de bolag som den placerat
+            kapital i. Jag anser att det är en viktig utveckling som bör uppmuntras
+            och som på sikt kan utgöra en betydelsefull motvikt till dagens
+            kortsiktiga spekulativa ägande. Jag anser därför att regeringen
+            bör utreda nya riktlinjer för AP-fonderna så att fonderna kan
+            bli en mer aktiv och långsiktig ägare. Jag föreslår att riksdagen
+            tillkännager för regeringen som sin mening vad jag anfört om nya
+            riktlinjer och nya placeringsregler för AP- fonderna. Jag tillstyrker
+            därmed motionerna Fi257 (v) och Fi288 (v). Bilaga Förteckning
+            över behandlade förslag Skrivelsen Regeringens skrivelse 2001/02:180
+            Redovisning av AP-fondernas verksamhet år 2001.
+          </p>
+          <p>
+            Motion med anledning av skrivelsen 2001/02:Fi49 av Gunnar Hökmark
+            m.fl. (m): Riksdagen tillkännager för regeringen som sin mening
+            att tillgångarna i Sjätte AP-fonden efter utbyte av börsnoterade
+            aktier mot obligationer bör föras över till staten, varefter de
+            onoterade aktierna placeras i ett riskkapitalbolag under Finansdepartementet
+            samt att detta riskkapitalbolag sedan privatiseras, varvid likviden
+            kan överföras till kvarvarande fonder i buffertsystemet i enlighet
+            med vad som anförs i motionen. Motioner från allmänna motionstiden
+            2002/03:Fi257 av Gudrun Schyman m.fl. (v): 3. Riksdagen begär
+            att regeringen låter utreda nya riktlinjer för AP-fonderna enlig
+            vad i motionen anförs. 2002/03:Fi288 av Gudrun Schyman m.fl. (v):
+            3. Riksdagen tillkännager för regeringen som sin mening vad i
+            motionen anförs om närings- och sysselsättningspolitisk hänsyn
+            vid placering av AP-fondsmedel.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

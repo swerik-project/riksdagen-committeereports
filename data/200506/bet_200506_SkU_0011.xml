@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200506_SkU_0011">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">En fysisk person som har fullmakt och som hos Skatteverket har registrerats som ombud i huvudmannens ställe ska få lämna skattedeklaration om den skrivs under och lämnas i elektronisk form. De nya reglerna börjar gälla den 1 april 2006. Den som lämnar en förenklad skattedeklaration för ersättning eller förmån till en begränsat skattskyldig ska ange mottagarens utländska skatteregistreringsnummer och medborgarskap. Ändringen börjar gälla den 1 januari 2006 och tillämpas första gången för skatteavdrag och arbetsgivaravgifter som gäller för beskattningsåret 2006. Myndigheter får direktåtkomst till sådan information i Skatteverkets beskattningsdatabas som rör myndigheten själv. De nya reglerna börjar gälla den 1 april 2006.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Deklarationsombud och andra nya skatteregler (SkU11)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GT0947</idno>
+              <title>2005-12-08</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">47</biblScope>
+              <note type="display-reference">2005-12-08</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GT0946</idno>
+              <title>2005-12-07</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">46</biblScope>
+              <note type="display-reference">2005-12-07</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GT0K97</idno>
+              <title>2005/06:97</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">97</biblScope>
+              <note type="display-reference">2005/06:97</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2005:1115</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2001:181</idno>
+              <note type="display-reference">2005:1116</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2005:1117</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1997:483</idno>
+              <note type="display-reference">2005:1118</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GT0331</idno>
+              <title>Deklarationsombud m.m.</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">31</biblScope>
+              <note type="display-reference">proposition 2005/06:31 Deklarationsombud m.m.</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2005-12-05">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2005-12-05">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2005-12-01">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2005-11-29">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2005-11-29">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2005-11-29">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2005-11-22">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-11-22">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2005-11-22">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-11-22">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2005-12-08">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2005-12-08">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2005-12-08">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2005-12-07">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2005-12-07">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2005-12-06">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2005-12-06">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2005-12-05">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2005-12-05">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Skatteutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2005/06:SkU11
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Deklarationsombud m.m. (prop. 2005/06:31)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDABBQCC" rend="AvsnittsRubrik">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet tillstyrker utskottet regeringens förslag om en
+            ny lag om deklarationsombud. En fysisk person som har fullmakt
+            och som hos Skatteverket har registrerats som ombud i huvudmannens
+            ställe skall få lämna skattedeklaration om den skrivs under och
+            lämnas i elektronisk form. De nya reglerna träder i kraft den
+            1 april 2006 och förväntas ge en viss offentligfinansiell förstärkning
+            som tas i anspråk för utökad kontroll.
+          </p>
+          <p>
+            Utskottet tillstyrker vidare regeringens förslag om att den som
+            lämnar en förenklad skattedeklaration för ersättning eller förmån
+            till en begränsat skattskyldig skall ange mottagarens utländska
+            skatteregistreringsnummer och medborgarskap. Ändringen träder
+            i kraft den 1 januari 2006 och tillämpas första gången i fråga
+            om skatteavdrag och arbetsgivaravgifter som avser beskattningsåret
+            2006. Utgiften för de systemförändringar som behövs skall rymmas
+            inom nuvarande anslag.
+          </p>
+          <p>
+            Vidare tillstyrker utskottet att myndigheter får direktåtkomst
+            till sådan information i beskattningsdatabasen som rör myndigheten
+            själv. De nya reglerna träder i kraft den 1 april 2006 och ger
+            inte någon offentligfinansiell förstärkning eller försvagning.
+          </p>
+          <p xml:id="IDASBQCC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Deklarationsombud m.m.
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  1. lag om deklarationsombud,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2. lag om ändring i skattebetalningslagen (1997:483),
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  3. lag om ändring i lagen (2001:181) om behandling av uppgifter
+                  i Skatteverkets beskattningsverksamhet,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  4. lag om upphävande av vissa av Riksskatteverkets föreskrifter.
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen proposition 2005/06:31.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 22 november 2005
+          </p>
+          <p>
+            På skatteutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Susanne Eberstein
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Susanne Eberstein
+            (s), Gunnar Andrén (fp), Ulla Wester (s), Lennart Hedquist (m),
+            Per-Olof Svensson (s), Per Landgren (kd), Lennart Axelsson (s),
+            Mats Berglind (s), Jörgen Johansson (c), Catharina Bråkenhielm
+            (s), Stefan Hagfeldt (m), Britta Rådström (s), Fredrik Olovsson
+            (s), Anne-Marie Ekström (fp), Per Rosengren (v), Henrik Westman
+            (m) och Peter Rådberg (mp).
+          </p>
+          <p xml:id="IDAOFQCC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDARFQCC" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            I propositionen föreslås en ny lag om deklarationsombud. Enligt
+            förslaget får en fysisk person som har fullmakt och som hos Skatteverket
+            har registrerats som ombud, i huvudmannens ställe lämna skattedeklaration
+            enligt 10 kap. 9, 11, 13 a eller 32 § skattebetalningslagen (1997:483)
+            om den skrivs under och lämnas i elektronisk form.
+          </p>
+          <p>
+            Enligt förslaget skall bara personer som kan antas vara lämpliga
+            för uppdraget registreras som deklarationsombud. För denna bedömning
+            uppställs ett antal kriterier som i huvudsak rör frågor om ombudets
+            redbarhet och förmåga att fullgöra uppdraget.
+          </p>
+          <p>
+            I den särskilda lagen föreslås också regler om avregistrering
+            av ett ombud och föreläggande för den deklarationsskyldige att
+            personligen eller, i fråga om en juridisk person, genom ställföreträdare
+            bekräfta eller komplettera av deklarationsombudet lämnade uppgifter.
+          </p>
+          <p>
+            I propositionen föreslås vidare att lagen (2001:181) om behandling
+            av uppgifter i Skatteverkets beskattningsverksamhet ändras. Syftet
+            med den föreslagna ändringen är att myndigheter - i likhet med
+            vad som redan gäller för enskilda - skall få direktåtkomst till
+            uppgifter om sig själva i beskattningsdatabasen.
+          </p>
+          <p>
+            Slutligen föreslås att det genom en ändring i 10 kap. 17 a §
+            skattebetalningslagen införs ett krav för den som lämnar förenklad
+            skattedeklaration, om betalningsmottagaren är begränsat skattskyldig,
+            att ange mottagarens utländska skatteregistreringsnummer och medborgarskap
+            i deklarationen.
+          </p>
+          <p>
+            De nya reglerna rörande deklarationsombud och myndigheters direktåtkomst
+            till uppgifter om sig själva föreslås träda i kraft den 1 april
+            2006. Den i 10 kap. 17 a § skattebetalningslagen föreslagna ändringen
+            föreslås träda i kraft den 1 januari 2006 och tillämpas första
+            gången i fråga om skatteavdrag och arbetsgivaravgifter som avser
+            beskattningsåret 2006.
+          </p>
+          <p xml:id="IDAGGQCC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDANGQCC" rend="rubrik2">
+            Deklarationsombud m.m.
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAUGQCC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <p rend="textiruta_">
+              Utskottet tillstyrker regeringens förslag.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Utskottet har inte något att invända mot regeringens förslag
+              utan tillstyrker propositionen.
+            </p>
+            <p rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDACHQCC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAFHQCC" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2005/06:31 Deklarationsombud m.m.:
+            </p>
+            <p type="html-endastettyrkande">
+              Riksdagen antar regeringens förslag till
+            </p>
+            <p>
+              1. lag om deklarationsombud,
+            </p>
+            <p>
+              2. lag om ändring i skattebetalningslagen (1997:483),
+            </p>
+            <p>
+              3. lag om ändring i lagen (2001:181) om behandling av uppgifter
+              i Skatteverkets beskattningsverksamhet,
+            </p>
+            <p>
+              4. lag om upphävande av vissa av Riksskatteverkets föreskrifter.
+            </p>
+            <p rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDATYRCC" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p type="html-lagforslagrubrik">
+              Förslag till lag om deklarationsombud
+            </p>
+            <p>
+              Härigenom föreskrivs följande.
+            </p>
+            <p xml:id="IDA0YRCC" rend="r3">
+              Tillämpningsområde
+            </p>
+            <p rend="lagtext">
+              <seg rend="grad1">
+                1 §
+              </seg>
+              Denna lag gäller för skattedeklaration som lämnas enligt 10 kap.
+              9, 11, 13 a eller 32 § skattebetalningslagen (1997:483) om deklarationen
+              lämnas i form av ett elektroniskt dokument enligt 10 kap. 26 §
+              skattebetalningslagen.
+            </p>
+            <p rend="lagtextindrag_">
+              Lagen tillämpas inte i fråga om sådana representanter, huvudmän
+              och ombud som avses i 23 kap. 3, 3 a, 3 c och 4 §§ skattebetalningslagen.
+            </p>
+            <p xml:id="IDAGZRCC" rend="r3">
+              Deklarationsombud
+            </p>
+            <p rend="lagtext">
+              <seg rend="grad1">
+                2 §
+              </seg>
+              Sådan skattedeklaration som avses i 1 § första stycket får skrivas
+              under och lämnas genom en av den deklarationsskyldige utsedd fysisk
+              person som Skatteverket efter ansökan har registrerat som ombud
+              för den deklarationsskyldige (
+              <seg rend="grad2">
+                deklarationsombud
+              </seg>
+              ).
+            </p>
+            <p rend="lagtextindrag_">
+              Ett deklarationsombud får också begära anstånd med att lämna
+              skattedeklaration samt besvara frågor och lämna kompletterande
+              uppgifter till Skatteverket som rör en skattedeklaration som ombudet
+              har lämnat till Skatteverket.
+            </p>
+            <p rend="lagtext">
+              <seg rend="grad1">
+                3 §
+              </seg>
+              Skattedeklaration som har skrivits under och lämnats av ett deklarationsombud
+              skall anses underskriven och lämnad av den deklarationsskyldige.
+            </p>
+            <p rend="lagtextindrag_">
+              Den deklarationsskyldiges ansvar att lämna fullständiga och korrekta
+              uppgifter förändras inte på grund av den omständigheten att skattedeklarationen
+              skrivits under och lämnats genom ett deklarationsombud.
+            </p>
+            <p xml:id="IDAD0RCC" rend="r3">
+              Registrering och avregistrering
+            </p>
+            <p rend="lagtext">
+              <seg rend="grad1">
+                4 §
+              </seg>
+              Den som är underårig, är i konkurs eller har förvaltare enligt
+              11 kap. 7 § föräldrabalken får inte vara deklarationsombud.
+            </p>
+            <p rend="lagtext">
+              <seg rend="grad1">
+                5 §
+              </seg>
+              Skatteverket skall registrera ett deklarationsombud om ombudet
+              kan antas vara lämplig för uppdraget.
+            </p>
+            <p rend="lagtextindrag_">
+              Vid bedömningen av ett deklarationsombuds lämplighet skall särskilt
+              beaktas om ombudet
+            </p>
+            <p rend="lagtextindrag_">
+              1. kan antas ha de kunskaper och erfarenheter som ett deklarationsombud
+              behöver med hänsyn till redovisnings- och skattefrågornas art,
+            </p>
+            <p rend="lagtextindrag_">
+              2. har dömts för brott i näringsverksamhet eller annan ekonomisk
+              brottslighet,
+            </p>
+            <p rend="lagtextindrag_">
+              3. tidigare har visat sig oskicklig eller annars olämplig att
+              ha hand om redovisning av skatter eller avgifter till det allmänna,
+              eller
+            </p>
+            <p rend="lagtextindrag_">
+              4. saknar fast adress eller annars lever under sådana omständigheter
+              att ombudet kan antas vara svår att nå eller ha svårt att fullgöra
+              sitt uppdrag.
+            </p>
+            <p rend="lagtext">
+              <seg rend="grad1">
+                6 §
+              </seg>
+              Skatteverket skall avregistrera ett deklarationsombud
+            </p>
+            <p rend="lagtextindrag_">
+              1. på begäran av ombudet eller den deklarationsskyldige,
+            </p>
+            <p rend="lagtextindrag_">
+              2. om den deklarationsskyldige utsett ett nytt ombud för uppdraget
+              eller om uppdraget annars upphört att gälla, eller
+            </p>
+            <p rend="lagtextindrag_">
+              3. om det har visat sig att ombudet inte är lämplig för uppdraget.
+            </p>
+            <p rend="lagtextindrag_">
+              Skatteverket och allmän förvaltningsdomstol får bestämma att
+              ett beslut om avregistrering skall gälla omedelbart.
+            </p>
+            <p xml:id="IDAT1RCC" rend="r3">
+              Föreläggande att medverka personligen
+            </p>
+            <p rend="lagtext">
+              <seg rend="grad1">
+                7 §
+              </seg>
+              Skatteverket får förelägga den som har skrivit under och lämnat
+              skattedeklaration genom ett deklarationsombud att personligen
+              eller genom behörig ställföreträdare enligt 19 kap. 1 § lagen
+              (2001:1227) om självdeklarationer och kontrolluppgifter bekräfta
+              eller komplettera deklarationen.
+            </p>
+            <p rend="lagtext">
+              <seg rend="grad1">
+                8 §
+              </seg>
+              Ett föreläggande enligt 7 § får förenas med vite, om det finns
+              anledning att anta att det annars inte följs.
+            </p>
+            <p rend="lagtextindrag_">
+              Första stycket gäller inte, om det finns anledning att anta att
+              den deklarationsskyldige eller, om denne är en juridisk person,
+              ställföreträdare för den deklarationsskyldige har begått en gärning
+              som är straffbelagd eller kan leda till skattetillägg och föreläggandet
+              avser utredning av en fråga som har samband med gärningen.
+            </p>
+            <p xml:id="IDAF2RCC" rend="r3">
+              Överklagande m.m.
+            </p>
+            <p rend="lagtext">
+              <seg rend="grad1">
+                9 §
+              </seg>
+              Beslut enligt denna lag får överklagas enligt bestämmelserna
+              i 22 kap. 1 a-1 c och 6 §§ skattebetalningslagen (1997:483).
+            </p>
+            <p rend="lagtextindrag_">
+              Ett överklagande skall ha kommit in till Skatteverket inom tre
+              veckor från den dag då klaganden fick del av beslutet.
+            </p>
+            <p rend="lagtextindrag_">
+              Prövningstillstånd krävs vid överklagande till kammarrätten.
+            </p>
+            <p rend="lagtext">
+              <seg rend="grad1">
+                10 §
+              </seg>
+              Vid fråga om utdömande av vite enligt denna lag gäller bestämmelserna
+              i 23 kap. 2 § andra och tredje styckena skattebetalningslagen
+              (1997:483).
+            </p>
+            <p rend="lagtextindrag_">
+              Ett beslut om vitesföreläggande får inte överklagas.
+            </p>
+            <p rend="lagtextindrag_">
+              Denna lag träder i kraft den 1 april 2006.
+            </p>
+            <p type="html-lagforslagrubrik">
+              Förslag till lag om ändring i skattebetalningslagen (1997:483)
+            </p>
+            <p>
+              Härigenom föreskrivs att 10 kap. 17 a, 25 och 32 a §§ samt 22
+              kap. 2 § skattebetalningslagen (1997:483) skall ha följande lydelse.
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p rend="lagtextnuvarande grad2">
+                    Nuvarande lydelse
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextnuvarande grad2">
+                    Föreslagen lydelse
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="lagtextparagraf grad1">
+              10 kap.
+            </p>
+            <p rend="lagtextparagraf">
+              17 a §
+              <hi rend="superscript">
+                1
+              </hi>
+              [
+              <seg type="html-hanvisning">
+                Senaste lydelse 2000:1000.
+              </seg>
+              ]
+            </p>
+            <p rend="lagtextindrag_">
+              En förenklad skattedeklaration skall ta upp
+            </p>
+            <p rend="lagtextindrag_">
+              1. nödvändiga identifikationsuppgifter för både utbetalaren och
+              betalningsmottagaren,
+            </p>
+            <p rend="lagtextindrag_">
+              2. uppgift om den redovisningsperiod för vilken redovisning lämnas,
+            </p>
+            <p rend="lagtextindrag_">
+              3. uppgift om den ersättning för vilken utbetalaren är skyldig
+              att göra skatteavdrag och betala arbetsgivaravgifter,
+            </p>
+            <p rend="lagtextindrag_">
+              4. verkställt skatteavdrag,
+            </p>
+            <p rend="lagtextindrag_">
+              5. periodens arbetsgivaravgifter, och
+            </p>
+            <p rend="lagtextindrag_">
+              6. de ytterligare uppgifter som behövs för beräkning och kontroll
+              av skatteavdrag och arbetsgivaravgifter.
+            </p>
+            <table>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="lagtextindrag_ grad2">
+                    Om betalningsmottagaren är begränsat skattskyldig, skall skattedeklarationen
+                    även ta upp uppgift om mottagarens utländska skatteregistreringsnummer
+                    eller motsvarande samt mottagarens medborgarskap.
+                  </p>
+                  <p rend="lagtextindrag_ grad2">
+                    Regeringen eller den myndighet som regeringen bestämmer får meddela
+                    föreskrifter om undantag från uppgiftsskyldigheten i andra stycket
+                    om
+                  </p>
+                  <p rend="lagtextindrag_ grad2">
+                    1. undantaget inte kan antas komma att försvåra kontrollen av
+                    att deklarationsskyldigheten har fullgjorts riktigt och fullständigt,
+                  </p>
+                  <p rend="lagtextindrag_ grad2">
+                    2. uppgiften saknar betydelse för beskattningen enligt lagen
+                    (1991:586) om särskild inkomstskatt för utomlands bosatta,
+                  </p>
+                  <p rend="lagtextindrag_ grad2">
+                    3. uppgiften saknar betydelse för beräkningen av pensionsgrundande
+                    inkomst enligt lagen (1998:674) om inkomstgrundad ålderspension,
+                    och
+                  </p>
+                  <p rend="lagtextindrag_ grad2">
+                    4. undantaget inte påverkar Sveriges åtaganden inom det internationella
+                    utbytet av information.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Regeringen eller den myndighet som regeringen bestämmer får meddela
+              närmare föreskrifter om vad en förenklad skattedeklaration skall
+              ta upp.
+            </p>
+            <p rend="lagtextparagraf">
+              25 §
+              <hi rend="superscript">
+                2
+              </hi>
+              [
+              <seg type="html-hanvisning">
+                Senaste lydelse 2003:664.
+              </seg>
+              ]
+            </p>
+            <p rend="lagtextindrag_">
+              Preliminära självdeklarationer, skalbolagsdeklarationer och skattedeklarationer
+              skall lämnas till Skatteverket enligt fastställda formulär. Om
+              Skatteverket har anvisat ett särskilt mottagningsställe skall
+              deklarationen lämnas dit.
+            </p>
+            <p rend="lagtextindrag_">
+              Deklarationen skall vara egenhändigt underskriven av den som
+              är skyldig att lämna deklarationen eller av den som är behörig
+              företrädare enligt 23 kap. 3-5 §§.
+            </p>
+            <table>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="lagtextindrag_ grad2">
+                    En sådan skattedeklaration som avses i 1 § första stycket lagen
+                    (2005:000) om deklarationsombud, får även skrivas under av ett
+                    deklarationsombud.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="lagtextparagraf">
+              32 a §
+              <hi rend="superscript">
+                3
+              </hi>
+              [
+              <seg type="html-hanvisning">
+                Senaste lydelse 2004:1345.
+              </seg>
+              ]
+            </p>
+            <p rend="lagtextindrag_">
+              Den som är skattskyldig enligt lagen (1994:1563) om tobaksskatt,
+              lagen (1994:1564) om alkoholskatt eller lagen (1994:1776) om skatt
+              på energi och som inte skall registreras enligt 3 kap. 1 § första
+              stycket 7 f-h, skall redovisa skatten i en särskild skattedeklaration
+              för varje skattepliktig händelse. Deklarationen skall lämnas in
+              senast fem dagar efter den skattepliktiga händelsen. För den som
+              är skattskyldig enligt 11 kap. 5 § andra stycket lagen om skatt
+              på energi skall dock deklarationen lämnas in senast en månad efter
+              dagen för tillsynsmyndighetens beslut.
+            </p>
+            <p rend="lagtextindrag_">
+              Även den som är skattskyldig enligt 16 § första stycket lagen
+              om tobaksskatt, 15 § lagen om alkoholskatt eller 4 kap. 9 § lagen
+              om skatt på energi och som inte företräds av en representant som
+              är godkänd av Skatteverket skall redovisa skatten i en särskild
+              skattedeklaration för varje skattepliktig händelse. Deklarationen
+              skall lämnas in senast vid den skattepliktiga händelsen.
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    Om den som är skattskyldig enligt 9 § 5 eller 16 § fjärde stycket
+                    lagen om tobaksskatt, 8 § 5 lagen om alkoholskatt eller 4 kap.
+                    1 § 5 lagen om skatt på energi inte ställt säkerhet för skattens
+                    betalning, skall deklarationen i stället för vad som föreskrivs
+                    i första stycket lämnas senast vid den skattepliktiga händelsen.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    Om den som är skattskyldig enligt 9 §
+                    <seg rend="grad2">
+                      första stycket 5 eller 16 § fjärde stycket lagen om tobaksskatt,
+                      8 § första stycket
+                    </seg>
+                    5 lagen om alkoholskatt eller 4 kap. 1 § 5 lagen om skatt på
+                    energi inte ställt säkerhet för skattens betalning, skall deklarationen
+                    i stället för vad som föreskrivs i första stycket lämnas senast
+                    vid den skattepliktiga händelsen.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="lagtextparagraf grad1">
+              22 kap.
+            </p>
+            <p rend="lagtextparagraf">
+              2 §
+              <hi rend="superscript">
+                4
+              </hi>
+              [
+              <seg type="html-hanvisning">
+                Senast lydelse 2003:747.
+              </seg>
+              ]
+            </p>
+            <p rend="lagtextindrag_">
+              Beslut i fråga om
+            </p>
+            <p rend="lagtextindrag_">
+              1. befrielse enligt 5 kap. 11 § från skyldigheten att göra skatteavdrag,
+            </p>
+            <p rend="lagtextindrag_">
+              2. skatterevision enligt 14 kap. 7 §,
+            </p>
+            <p rend="lagtextindrag_">
+              3. anstånd enligt 17 kap. 6 § med inbetalning av skatt, och
+            </p>
+            <p rend="lagtextindrag_">
+              4. föreläggande vid vite enligt 23 kap. 2 § får inte överklagas.
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    Beskattningsbeslut enligt 11 kap. 1 § andra stycket
+                    <seg rend="grad2">
+                      7
+                    </seg>
+                    får inte överklagas.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    Beskattningsbeslut enligt 11 kap. 1 § andra stycket
+                    <seg rend="grad2">
+                      8
+                    </seg>
+                    får inte överklagas.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="lagtextindrag_">
+              1. Denna lag träder i kraft den 1 januari 2006.
+            </p>
+            <p rend="lagtextindrag_">
+              2. De nya föreskrifterna i 10 kap. 17 a § tillämpas första gången
+              i fråga om skatteavdrag och arbetsgivaravgifter som avser beskattningsåret
+              2006.
+            </p>
+            <p rend="lagtextindrag_">
+              3. De nya föreskrifterna i 10 kap. 25 § tillämpas från och med
+              den 1 april 2006.
+            </p>
+            <p type="html-lagforslagrubrik">
+              Förslag till lag om ändring i lagen (2001:181) om behandling
+              av uppgifter i Skatteverkets beskattningsverksamhet
+            </p>
+            <p>
+              Härigenom föreskrivs att 2 kap. 9 § lagen (2001:181) om behandling
+              av uppgifter i Skatteverkets beskattningsverksamhet
+              <hi rend="superscript">
+                1
+              </hi>
+              [
+              <seg type="html-hanvisning">
+                Senaste lydelse av lagens rubrik 2003:670.
+              </seg>
+              ] skall ha följande lydelse.
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p rend="lagtextnuvarande grad2">
+                    Nuvarande lydelse
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextnuvarande grad2">
+                    Föreslagen lydelse
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="lagtextparagraf grad1">
+              2 kap.
+            </p>
+            <p rend="lagtextparagraf">
+              9 §
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    En
+                    <seg rend="grad2">
+                      enskild får ha direktåtkomst till sådana uppgifter om sig själv
+                      i databasen som får lämnas ut till honom
+                    </seg>
+                    , om regeringen har meddelat föreskrifter om det.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    En
+                    <seg rend="grad2">
+                      registrerad får ha direktåtkomst till sådana uppgifter om sig
+                      själv i databasen som får lämnas ut till den registrerade
+                    </seg>
+                    , om regeringen har meddelat föreskrifter om det.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="lagtextindrag_">
+              Regeringen eller den myndighet som regeringen bestämmer meddelar
+              föreskrifter om vilka uppgifter som får omfattas av direktåtkomst
+              enligt första stycket.
+            </p>
+            <p>
+              Denna lag träder i kraft den 1 april 2006.
+            </p>
+            <p type="html-lagforslagrubrik">
+              Förslag till lag om upphävande av vissa av Riksskatteverkets
+              föreskrifter
+            </p>
+            <p rend="lagtextindrag_">
+              Härigenom föreskrivs att följande föreskrifter från Riksskatteverket
+              skall upphöra att gälla vid utgången av år 2005:
+            </p>
+            <p rend="lagtextindrag_">
+              1. Riksskatteverkets föreskrifter (RSFS 1993:5) rörande handläggning
+              av ärenden enligt lagen (1993:672) om skattereduktion för utgifter
+              för byggnadsarbete på bostadshus,
+            </p>
+            <p rend="lagtextindrag_">
+              2. Riksskatteverkets föreskrifter (RSFS 1996:17) om handläggningen
+              av ärenden enligt lagen (1996:725) om skattereduktion för utgifter
+              för byggnadsarbete på bostadshus,
+            </p>
+            <p rend="lagtextindrag_">
+              3. Riksskatteverkets föreskrifter (RSFS 1997:12) om det centrala
+              skatteregistrets innehåll enligt skatteregisterlagen (1980:343),
+            </p>
+            <p rend="lagtextindrag_">
+              4. Riksskatteverkets föreskrifter (RSFS 1999:31) om beskattningsmyndighet
+              för utomlands bosatta med sjöinkomst, och
+            </p>
+            <p rend="lagtextindrag_">
+              5. Riksskatteverkets föreskrifter (RSFS 2001:10) om skyldighet
+              att lämna kontrolluppgift enligt 3 kap. 63 § första stycket lagen
+              (1990:325) om självdeklaration och kontrolluppgifter.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

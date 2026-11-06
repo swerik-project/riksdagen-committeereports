@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200506_KU_0006">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Europadomstolen för mänskliga rättigheter i Strassburg ska bli effektivare. Det är tanken med de ändringar i Europakonventionen som regeringen föreslår att riksdagen ska godkänna. Domstolen ska bland annat enklare kunna sålla bland inkommande klagomål. Riksdagen sade ja till regeringens förslag om en effektivare Europadomstol.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">En effektivare Europadomstol (KU6)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GT0926</idno>
+              <title>2005-11-09</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">26</biblScope>
+              <note type="display-reference">2005-11-09</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GT0926</idno>
+              <title>2005-11-09</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">26</biblScope>
+              <note type="display-reference">2005-11-09</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GT0K16</idno>
+              <title>2005/06:16</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">16</biblScope>
+              <note type="display-reference">2005/06:16</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1994:1219</idno>
+              <note type="display-reference">2005:816</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GS03167</idno>
+              <title>Ändringsprotokoll till Europakonventionen - en effektivare Europadomstol</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">167</biblScope>
+              <note type="display-reference">proposition 2004/05:167 Ändringsprotokoll till Europakonventionen - en effektivare Europadomstol</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2005-11-07">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2005-11-07">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2005-11-02">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2005-11-01">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2005-11-01">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2005-11-01">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2005-10-27">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2005-10-27">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-10-25">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-10-25">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-10-18">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2005-11-09">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2005-11-09">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2005-11-09">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2005-11-09">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2005-11-09">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2005-11-08">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2005-11-08">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2005-11-07">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2005-11-07">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Konstitutionsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2005/06:KU6
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Ändringsprotokoll till Europakonventionen - en effektivare Europadomstol
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDABBAKC" rend="AvsnittsRubrik">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlas regeringens förslag i proposition 2004/05:167.
+            I propositionen föreslås att riksdagen dels godkänner protokoll
+            nr 14 till den europeiska konventionen den 4 november 1950 om
+            skydd för de mänskliga rättigheterna och grundläggande friheterna,
+            dels beslutar den ändring i lagen om konventionen som föranleds
+            av godkännandet. Avsikten med protokollet är att effektivisera
+            förfarandet hos den europeiska domstolen för mänskliga rättigheter
+            (Europadomstolen). Protokollet innehåller en artikel som gör det
+            möjligt för Europeiska unionen att ansluta sig till konventionen.
+          </p>
+          <p>
+            Regeringens förslag i propositionen har inte föranlett någon
+            motion. Utskottet tillstyrker förslagen.
+          </p>
+          <p xml:id="IDAVBAKC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Godkännande av ändringsprotokoll
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen godkänner protokoll nr 14 till den europeiska konventionen
+                  den 4 november 1950 om skydd för de mänskliga rättigheterna och
+                  de grundläggande friheterna. Därmed bifaller riksdagen proposition
+                  2004/05:167 punkt 1.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Antagande av lagförslag
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till lag om ändring i lagen
+                  (1994:1219) om den europeiska konventionen angående skydd för
+                  de mänskliga rättigheterna och de grundläggande friheterna. Därmed
+                  bifaller riksdagen proposition 2004/05:167 punkt 2.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 27 oktober 2005
+          </p>
+          <p>
+            På konstitutionsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Göran Lennmarker
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Göran Lennmarker
+            (m), Barbro Hietala Nordlund (s), Tobias Krantz (fp), Pär Axel
+            Sahlberg (s), Inger Jarl Beck (s), Ingvar Svensson (kd), Mats
+            Einarsson (v), Anders Bengtsson (s), Henrik S Järrel (m), Helene
+            Petersson (s), Kerstin Lundgren (c), Billy Gustafsson (s), Karin
+            Åström (s), Gustav Fridolin (mp), Carl-Erik Skårman (m), Liselott
+            Hagberg (fp) och Yoomi Renström (s).
+          </p>
+          <p xml:id="IDANHAKC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAQHAKC" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Sedan Europakonventionen antogs år 1950 och trädde i kraft år
+            1953 har den justerats ett flertal gånger. Den största förändringen
+            skedde med ändringsprotokoll nr 11, som trädde i kraft den 1 november
+            1998. Därigenom inrättades en heltidsarbetande domstol, som ersatte
+            den tidigare kommissionen och domstolen.
+          </p>
+          <p xml:id="IDAWHAKC" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            I propositionen föreslås att riksdagen godkänner protokoll nr
+            14 till den europeiska konventionen den 4 november 1950 om skydd
+            för de mänskliga rättigheterna och de grundläggande friheterna
+            (Europakonventionen).
+          </p>
+          <p>
+            Protokollet innebär en effektivisering av förfarandet hos den
+            europeiska domstolen för mänskliga rättigheter (Europadomstolen),
+            bl.a. när det gäller domstolens domförhetsregler. Kommittéer med
+            tre domare kommer att kunna döma i sak i mer rutinartade mål (hittills
+            har det krävts sju domare). En ensam domare kommer att kunna besluta
+            att mål inte skall tas upp till prövning i sak eller avskriva
+            mål (i dag beslutar tre domare om detta). Ett nytt krav som måste
+            uppfyllas för att mål skall tas upp till prövning i sak införs
+            också. Vidare ges Europarådets ministerkommitté möjlighet att
+            väcka talan inför Europadomstolen mot en stat för bristande efterlevnad
+            av en tidigare dom från domstolen.
+          </p>
+          <p>
+            Som en följd av ett svenskt godkännande av protokoll nr 14 föreslås
+            vidare en ändring i lagen (1994:1219) om den europeiska konventionen
+            angående skydd för de mänskliga rättigheterna och de grundläggande
+            friheterna. Ändringen föreslås träda i kraft den dag regeringen
+            bestämmer.
+          </p>
+          <p xml:id="IDAKYBKC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDANYBKC" rend="rubrik3">
+            Propositionen
+          </p>
+          <p>
+            Regeringen föreslår i propositionen att riksdagen skall godkänna
+            ändringsprotokoll nr 14 till Europakonventionen samt besluta om
+            den ändring i lagen (1994:1219) som föranleds av godkännandet.
+            Lagändringen föreslås träda i kraft den dag regeringen bestämmer.
+          </p>
+          <p>
+            Protokollet avser ändringar av konventionen på tre huvudområden
+            i fråga om effektiviseringen av domstolen:
+          </p>
+          <p rend="punktlistaLista">
+            - en förstärkning av domstolens möjlighet att sålla bland inkommande
+            klagomål,
+          </p>
+          <p rend="punktlistaLista">
+            - ett nytt villkor för upptagande av mål till prövning som innebär
+            att klagomål där den enskilde inte har lidit avsevärt men kan
+            avvisas,
+          </p>
+          <p rend="punktlistaLista">
+            - åtgärder för att hantera återkommande klagomål avseende samma
+            missförhållanden.
+          </p>
+          <p>
+            <seg rend="grad2">
+              Sållningen av klagomål
+            </seg>
+            effektiviseras genom att enskilda domare får befogenhet att avvisa
+            eller avskriva klagomål, om ett sådant beslut kan fattas utan
+            ytterligare prövning. Domarna biträds i dessa fall av s.k. rapportörer,
+            som ingår i domstolens kansli och fungerar under domstolens ordförande.
+          </p>
+          <p>
+            Möjligheterna att
+            <seg rend="grad2">
+              avvisa klagomål
+            </seg>
+            utökas. Detta åstadkoms genom att det i artikel 35.3 läggs till
+            en ny punkt som innebär att domstolen skall avvisa varje enskilt
+            klagomål enligt artikel 34, om den anser att den klagande inte
+            har lidit avsevärt men. Bestämmelsen innehåller dock två säkerhetsventiler.
+            För det första får inte respekten för de mänskliga rättigheterna,
+            som de definieras i konventionen och protokollen till denna, kräva
+            en prövning i sak. För det andra får avvisning inte ske om den
+            enskilde inte har fått en vederbörlig prövning av nationell domstol.
+          </p>
+          <p>
+            <seg rend="grad2">
+              Kommittéernas behörighet
+            </seg>
+            utvidgas. En kommitté får, om alla tre ledamöter är eniga om
+            det, ta upp ett klagomål till prövning och samtidigt avgöra det
+            i sak genom dom, om den underliggande frågan i målet avseende
+            tolkningen eller tillämpningen av konventionen eller protokollen
+            till denna redan är föremål för domstolens väl befästa praxis.
+          </p>
+          <p>
+            Huvudregeln blir att
+            <seg rend="grad2">
+              alla klagomål som tas upp till prövning samtidigt skall avgöras
+              i sak
+            </seg>
+            . Beslut om att ta upp ett enskilt klagomål till prövning får
+            dock fattas särskilt.
+          </p>
+          <p>
+            Domstolens utrymme att agera för att uppnå
+            <seg rend="grad2">
+              förlikning
+            </seg>
+            utvidgas. Ett beslut i vilket domstolen avskriver ett mål efter
+            förlikning skall överlämnas till ministerkommittén, som skall
+            övervaka att villkoren i förlikningen verkställs.
+          </p>
+          <p>
+            Om ministerkommittén finner att en medlemsstat vägrar att rätta
+            sig efter en slutgiltig dom i ett mål där staten är part får kommittén,
+            efter att ha formellt underrättat staten och genom ett beslut
+            fattat med två tredjedels majoritet av de företrädare som är berättigade
+            att sitta med i kommittén, till domstolen hänskjuta frågan om
+            <seg rend="grad2">
+              bristande uppfyllelse av skyldigheten att rätta sig efter domstolens
+              slutgiltiga dom
+            </seg>
+            .
+          </p>
+          <p>
+            Ministerkommittén får också möjlighet att, om den finner att
+            övervakningen av verkställandet av en slutgiltig dom hindras av
+            ett
+            <seg rend="grad2">
+              problem i fråga om tolkningen
+            </seg>
+            av avgörandet, hänskjuta ärendet till domstolen för avgörande
+            av tolkningsfrågan.
+          </p>
+          <p>
+            <seg rend="grad2">
+              Domarnas mandatperiod
+            </seg>
+            förlängs till nio år. Omval får inte ske.
+          </p>
+          <p>
+            Protokollet innebär vidare att en möjlighet införs för
+            <seg rend="grad2">
+              Europeiska unionens anslutning
+            </seg>
+            till konventionen.
+          </p>
+          <p xml:id="IDAH1BKC" rend="rubrik3">
+            Motioner
+          </p>
+          <p>
+            Inga motioner har väckts med anledning av propositionen.
+          </p>
+          <p xml:id="IDAN1BKC" rend="rubrik3">
+            Sammanställning över konventionsändringar
+          </p>
+          <p>
+            Inom utskottets kansli har som ett hjälpmedel i beredningen av
+            ärendet gjorts en sammanställning över de ändringar som görs i
+            Europakonventionen genom protokoll nr 14. Sammanställningen har
+            fogats till betänkandet som bilaga men är inte föremål för riksdagens
+            beslut.
+          </p>
+          <p xml:id="IDAT1BKC" rend="rubrik3">
+            Utskottets ställningstagande
+          </p>
+          <p>
+            Utskottet ser den effektivisering av Europadomstolens verksamhet
+            som protokollet föreskriver som välkommen. Riksdagen har tidigare,
+            bl.a. på tillstyrkande av sammansatta konstitutions- och utrikesutskott,
+            uttalat sig för att möjlighet skall ges för Europeiska unionen
+            att ansluta sig till konventionen. Utskottet noterar med tillfredsställelse
+            att det hinder som legat i att Europakonventionen inte varit öppen
+            för en sådan anslutning undanröjs genom protokollet.
+          </p>
+          <p>
+            Förslagen i propositionen om godkännande av protokollet och om
+            därav följande lagändring tillstyrks.
+          </p>
+          <p rend="Bilaga">
+            Bilaga 1
+          </p>
+          <p xml:id="IDA51BKC" rend="BilageRubrik">
+            Förteckning över behandlade förslag
+          </p>
+          <p xml:id="IDAC2BKC" rend="rubrik2">
+            Propositionen
+          </p>
+          <p rend="behandlatdokument_">
+            Proposition 2004/05:167 Ändringsprotokoll till Europakonventionen
+            - en effektivare Europadomstol:
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p>
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p>
+                  Riksdagen godkänner protokoll nr 14 till den europeiska konventionen
+                  den 4 november 1950 om skydd för de mänskliga rättigheterna och
+                  de grundläggande friheterna (avsnitt 6).
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p>
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p>
+                  Riksdagen antar regeringens förslag till lag om ändring i lagen
+                  (1994:1219) om den europeiska konventionen angående skydd för
+                  de mänskliga rättigheterna och de grundläggande friheterna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="Bilaga">
+            Bilaga 2
+          </p>
+          <p xml:id="IDAL4BKC" rend="BilageRubrik">
+            Regeringens lagförslag
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{FA6C1642-969C-48A1-87F9-CDAEAB41C5AE}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{227C3288-8BEF-459F-AC13-87DDE7062450}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{F3FED023-2039-4C33-BB5C-7AFAEBEFB3A1}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{3DA977AC-4384-48C6-A00A-7018F7EB7B48}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{3982DD83-11E7-4D4A-83A8-F737EA6C6834}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{73ED7B8F-E8EA-4339-86A9-3626C374F0AF}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{6FFA5CCE-2559-4D21-B58B-3F7292735C7A}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{99A44B55-F9EE-4A4C-926C-08381268B803}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{5159E09D-EBBA-4B5A-A306-4BCE67E8EE58}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{EA55D9C2-5AE1-492A-86FC-C325A2B9A5EE}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{B13186EC-9183-4B20-8142-E4A5280A06DF}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{1E6C686A-EA9F-4487-B496-2FAB6A45F3C6}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{497FEB4E-0D80-4B6F-9DBB-079A32704206}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{E8865006-9507-4BE9-89B7-90A82E324BBD}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{38D96886-5768-4EC6-B1CB-494D9D8892F7}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{52DE8CA8-0A78-40B2-BBEF-7B8C329D7BAA}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{BDC17A96-EB72-43C5-94E8-9234614030D8}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{E09371CB-75CF-4D63-BDB7-55557E9041BC}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{5AFA2425-D001-4C24-8510-230F79AAF2E4}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{6D6CFA60-EA53-4880-9693-056FDB2C7D17}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{987751D5-EA29-44C2-8E20-416A8B1477E8}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{7EBCFC47-667F-45AF-817B-8EA2D7F49717}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{40074CF3-80C8-4F79-B622-79A813F4A456}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{45353D05-1423-4E6F-B672-4A759BFEC2E3}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{11B497B0-01EC-4314-9E6B-6C4FADFE901D}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{91F96B37-AC3E-46F9-9606-7F1DBCAE32F8}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{5B2880D6-65AD-435C-8D58-D9E22BB460B0}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{BF642D31-0AB4-409E-ACE7-C43385C46D3F}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{B34AC0AF-D044-4347-B73D-96A7E0E6CBC5}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{DB1F13A6-C075-480E-AF99-6939A319D1C9}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{7FCDAF03-7E80-4382-9565-B9A10B53086B}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{2E74664F-ECA7-4D82-A222-8CB021900C85}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{38F5A479-C964-46DF-895C-E1F2A110C7B5}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{75F8779D-A9B5-4A3E-A3E9-A0EB396AEFEC}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{3F911DF3-B78F-4777-A8F7-25F4F7066DF0}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{E00F7CDE-EBD7-4F05-810D-7E0455B8EB8D}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{7F41EE54-28DF-4E4A-A4DA-7D4D749487B3}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{58A1A53E-09D4-4C50-B3E2-390DC6E36B4E}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{579EB57E-5815-4272-B51B-753468495896}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{6AB18982-2B1C-4C36-9749-8028483E461E}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{E8A33BDD-B0A4-4D10-8452-82078A9718B6}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{86358F00-5088-49DB-9BC8-C3D5A82EE14A}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{15EB1A0F-3517-4614-BF9B-DF534C064F16}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{6907DAFD-5562-4DB2-A4CF-D82C2B32D040}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{DFEBEAE2-FB17-429D-98A5-E7E744EF7B7C}.tif"/>
+          </p>
+          <p rend="Bilaga">
+            Bilaga 3
+          </p>
+          <p xml:id="IDA3JCKC" rend="BilageRubrik">
+            Sammanställning över ändringar i Europakonventionen genom protokoll
+            nr 14
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{486F811F-96EE-4735-84C1-A4C3F71336F5}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{67FC3FFD-5794-4215-B77A-22004448555B}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{4F55DF1F-7CCA-4711-AFE0-7CD982EFF590}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{5124C3E6-70E2-4E8D-88A8-6DEA6BD63300}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{CCD4DF11-A640-4A62-B360-754DB52B2BAD}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{635A5A0E-0B50-48F0-B9B9-65AF3C3452CC}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{EAFA9674-6906-4A9F-96C3-E28034EECC60}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{8DAE8D2E-FACF-4365-8082-B32F557D3F8D}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{C0319260-A97A-4ED7-9E6A-37555C58F3CF}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{6B376E97-0524-45FC-83F6-F6364CADA7B6}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{F1C9B5CF-8B48-493A-B8C7-3CD0AD64420F}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{1A5E8C51-8929-49FA-90CB-0DDF5ED0D2F6}.tif"/>
+          </p>
+          <p>
+            <graphic n="Bild" url="shape{130B55BC-5E7C-463F-9916-F57073927034}.tif"/>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

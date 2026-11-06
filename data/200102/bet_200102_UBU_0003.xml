@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_UBU_0003">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen gav regeringen ett utvidgat bemyndigande att meddela föreskrifter om att asylsökande barn m.fl. ska ha tillgång till skola, förskoleverksamhet och skolbarnsomsorg på i huvudsak samma villkor som gäller för barn som är bosatta i Sverige. Lagändringarna träder i kraft den 1 januari 2002.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Asylsökande barns skolgång (UbU3)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0921</idno>
+              <title>2001-10-31</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">21</biblScope>
+              <note type="display-reference">2001-10-31</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0921</idno>
+              <title>2001-10-31</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">21</biblScope>
+              <note type="display-reference">2001-10-31</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K11</idno>
+              <title>2001/02:11</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">11</biblScope>
+              <note type="display-reference">2001/02:11</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1985:1100</idno>
+              <note type="display-reference">2001:799</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GO03115</idno>
+              <title>Asylsökande barns skolgång m.m.</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">115</biblScope>
+              <note type="display-reference">proposition 2000/01:115 Asylsökande barns skolgång m.m.</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Ub48</idno>
+              <title>med anledning av prop. 2000/01:115 Asylsökande barns skolgång m.m.</title>
+              <title type="sub">av Ulf Nilsson m.fl. (FP)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Ub48</biblScope>
+              <note type="display-reference">motion 2000/01:Ub48 med anledning av prop. 2000/01:115 Asylsökande barns skolgång m.m.</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2001-10-22">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2001-10-22">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2001-10-22">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2001-10-16">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2001-10-16">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2001-09-06">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2001-09-06">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="YTT" subtype="beredning" n="2" when="2001-05-31">
+            <label>Yttranden inkomna</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2001-10-31">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2001-10-31">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2001-10-31">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2001-10-31">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2001-10-31">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2001-10-30">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2001-10-26">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2001-10-26">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Utbildningsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:UBU3
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Asylsökande barns skolgång m.m.
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning Utskottet behandlar i detta betänkande proposition
+            2000/01:115 Asylsökande barns skolgång m.m. och en folkpartimotion
+            som väckts med anledning av propositionen. I propositionen föreslår
+            regeringen en ändring i skollagen som innebär att nuvarande bemyndigande
+            för regeringen att meddela föreskrifter om mottagande i det offentliga
+            skolväsendet av barn som inte räknas som bosatta i landet utvidgas
+            till att omfatta även mottagande av dessa barn i förskoleverksamhet
+            och skolbarnsomsorg. Regeringen avser att med stöd av bemyndigandet
+            i särskilda föreskrifter ange att asylsökande barn och barn som
+            beviljats tidsbegränsat uppehållstillstånd (s.k. massflyktingar)
+            skall ha tillgång till utbildning inom det offentliga skolväsendet,
+            förskoleverksamhet och skolbarnsomsorg på i huvudsak samma villkor
+            som gäller för barn som är bosatta i Sverige. Föreskrifterna bör
+            också omfatta barn som av andra skäl ansökt om uppehållstillstånd
+            i Sverige och givits rätt att vistas här medan ansökan prövas.
+            Den statliga ersättningen till kommunerna för nämnda barns skolgång
+            m.m. bör utökas. I propositionen föreslås vidare vissa tillägg
+            i bestämmelserna i skollagen om bidrag till fristående skolor,
+            när det gäller ersättning för undervisning av asylsökande barn
+            m.fl. Ändringarna i skollagen föreslås träda i kraft den 1 januari
+            2002. Socialförsäkringsutskottet har avgivit yttrande till utbildningsutskottet
+            över propositionen och motionen. Utbildningsutskottet, liksom
+            socialförsäkringsutskottet, tillstyrker rege-ringens förslag och
+            avstyrker motionen. Folkpartiet reserverar sig till förmån för
+            sina förslag i motionen om skyldighet för kommuner att erbjuda
+            barn utbildning m.m. i avvaktan på avvisning eller utvisning samt
+            om utredning av möjligheterna till skolgång m.m. för gömda barn.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut Med hänvisning till de
+            motiveringar som framförs under Utskottets överväganden föreslår
+            utskottet att riksdagen fattar följande beslut: 1. Tillgång till
+            utbildning, förskoleverksamhet och skolbarnsomsorg för asylsökande
+            barn m.fl. Riksdagen antar regeringens förslag till lag om ändring
+            i skollagen (1985:1100), såvitt avser 1 kap. 1 § och 15 kap. 5
+            §. 2. Utbildning m.m. i avvaktan på avvisning eller utvisning
+            Riksdagen avslår motion 2000/01:Ub48 yrkande 1. Reservation (fp)
+            - delvis 3. Skolgång m.m. för gömda barn Riksdagen avslår motion
+            2000/01:Ub48 yrkande 2. Reservation (fp) - delvis 4. Statlig ersättning
+            för kostnader för utbildning, förskoleverksamhet och skolbarnsomsorg
+            för asylsökande barn m.fl. Riksdagen antar regeringens förslag
+            till lag om ändring i skollagen (1985:1100), såvitt avser 2 b
+            kap. 10 b och 10 c §§ samt 9 kap. 6, 6 a, 8 a och 8 c §§. 5. Lagförslaget
+            i övrigt Riksdagen antar regeringens förslag till lag om ändring
+            i skollagen (1985:1100) i den mån det inte omfattas av vad utskottet
+            föreslagit ovan. Stockholm den 16 oktober 2001 På utbildningsutskottets
+            vägnar Britt-Marie Danestig Följande ledamöter har deltagit i
+            beslutet: Britt- Marie Danestig (v), Beatrice Ask (m), Eva Johansson
+            (s), Inger Lundberg (s), Yvonne Andersson (kd), Lars Hjertén (m),
+            Majléne Westerlund Panke (s), Tomas Högström (m), Tomas Eneroth
+            (s), Erling Wälivaara (kd), Per Bill (m), Gunnar Goude (mp), Sofia
+            Jonsson (c), Ulf Nilsson (fp), Agneta Lundberg (s), Nils- Erik
+            Söderqvist (s) och Kalle Larsson (v).
+          </p>
+          <p>
+            2001/02 UbU3 Redogörelse för ärendet Inom Utbildningsdepartementet
+            tillsattes i november 1999 en särskild arbetsgrupp med uppdrag
+            att utreda frågor rörande barnomsorg och utbildning för asylsökande
+            barn. Arbetsgruppen redovisade i maj 2000 sina förslag i departementspromemorian
+            Förskola, skola och skolbarnsomsorg för asylsökande barn (Ds 2000:26).
+            Promemorian, som remissbehandlats, ligger till grund för den nu
+            aktuella propositionen Asylsökande barns skolgång m.m. (prop.
+            2000/01:115). I propositionen föreslår regeringen en ändring i
+            skollagen (1985:1100) som innebär att nuvarande bemyndigande för
+            regeringen att meddela föreskrifter om mottagande i det offentliga
+            skolväsendet av barn som inte räknas som bosatta i landet utvidgas
+            till att omfatta även mottagande av dessa barn i förskoleverksamhet
+            och skolbarnsomsorg. Regeringen avser att med stöd av bemyndigandet
+            i särskilda föreskrifter ange att asylsökande barn och barn som
+            beviljats tidsbegränsat uppehållstillstånd enligt 2 kap. 4 a §
+            utlänningslagen (s.k. massflyktingar) skall ha tillgång till utbildning
+            inom det offentliga skolväsendet, förskoleverksamhet och skolbarnsomsorg
+            på i huvudsak samma villkor som gäller för barn som är bosatta
+            i Sverige. Föreskrifterna bör också omfatta barn som av andra
+            skäl ansökt om uppehållstillstånd i Sverige och givits rätt att
+            vistas här medan ansökan prövas. Den statliga ersättningen till
+            kommunerna för nämnda barns skolgång m.m. bör utökas. I propositionen
+            föreslås vidare vissa tillägg i bestämmelserna i skollagen om
+            bidrag till fristående skolor, när det gäller ersättning för undervisning
+            av asylsökande barn m.fl. Med anledning av propositionen har väckts
+            en motion. Förslagen i propositionen och i motionen återges i
+            bilaga 1. Regeringens förslag till ändringar i skollagen finns
+            som bilaga 2. Utbildningsutskottet har berett socialförsäkringsutskottet
+            - som har att bereda ärenden om utlännings- och invandrarfrågor
+            - tillfälle att yttra sig över propositionen och motionen. Socialförsäkringsutskottet
+            har avgivit yttrande 2000/01:SfU8y, vilket intagits som bilaga
+            3 till detta betänkande.
+          </p>
+          <p>
+            Utskottets överväganden Tillgång till utbildning, förskoleverksamhet
+            och skolbarnsomsorg för asylsökande barn m.fl. Utskottets förslag
+            i korthet Riksdagen bör anta regeringens förslag till ändring
+            av 15 kap. 5 § skollagen (1985:1100) jämte följdändring i 1 kap.
+            1 § samma lag. Den nya lydelsen av 15 kap. 5 § innebär att regeringen
+            eller den myndighet som regeringen bestämmer bemyndigas meddela
+            föreskrifter om mottagande - förutom i det offentliga skolväsendet
+            - även i förskoleverksamhet och skolbarnsomsorg av barn som inte
+            räknas som bosatta i Sverige. Motionsyrkanden om skyldighet för
+            kommuner att erbjuda barn utbildning m.m. i avvaktan på avvisning
+            eller utvisning samt om möjlighet till skolgång m.m. för gömda
+            barn bör avslås. Jämför reservation (fp). Gällande bestämmelser
+            Enligt skollagen (1985:1100) gäller som huvudregel att ett barn
+            skall vara bosatt i Sverige för att ha rätt till förskoleverksamhet,
+            skolbarnsomsorg och utbildning inom det offentliga skolväsendet
+            för barn och ungdom. Som bosatt i landet räknas normalt den som
+            rätteligen skall vara folkbokförd här. Asylsökande barn är inte
+            folkbokförda i Sverige. De betraktas således inte som bosatta
+            i landet. Detta medför att de inte har någon generell rätt till
+            förskoleverksamhet. skolbarnsomsorg, förskoleklass, grundskola
+            respektive gymnasieskola (och motsvarande skolformer). Genom en
+            bestämmelse i 15 kap. 5 § skollagen har regeringen, eller den
+            myndighet som regeringen bestämmer, bemyndigats att meddela föreskrifter
+            om mottagande i det offentliga skolväsendet av elever som inte
+            räknas som bosatta i riket. Med stöd av bemyndigandet har regeringen
+            i 6 kap. 2 § första stycket grundskoleförordningen (1994:1194)
+            föreskrivit att barn som vistas i Sverige i avvaktan på beslut
+            i ett ärende om uppehållstillstånd eller under liknande omständigheter
+            har rätt till grundskoleundervisning. Enligt förordningen om undervisning
+            av asylsökande barn (SKOLFS 1993:21) skall de få undervisning
+            i vissa ämnen under minst 15 schemalagda veckotimmar under det
+            första läsåret. Efter det första läsåret skall en successiv ökning
+            ske av antalet veckotimmar och ämnen. Utöver dessa timmar skall
+            undervisning i skapande verksamhet och idrott anordnas under minst
+            5 schemalagda veckotimmar. Propositionen I propositionen lämnas
+            inledningsvis en redogörelse för innehållet i FN:s konvention
+            om barnets rättigheter, den s.k. barnkonventionen. Konventionens
+            bestämmelser omfattar även barn som vistas inom en konventionsstats
+            gränser i avvaktan på beslut om uppehållstillstånd. Bestämmelserna
+            innebär bl.a. att staterna skall tillhandahålla kostnadsfri grundutbildning
+            till flyktingbarn och successivt tillhandahålla utbildning utöver
+            grundutbildning. Regeringen anför att svensk lagstiftning i huvudsak
+            stämmer överens med de åtaganden Sverige gjort genom ratificeringen
+            av konventionen. Vissa förändringar behöver dock göras såvitt
+            gäller rätten till utbildning, förskoleverksamhet och skolbarnsomsorg.
+            Enligt regeringen är det en viktig uppgift att uppmärksamma de
+            barn som av olika skäl har ett särskilt behov av skydd och stöd,
+            t.ex. asylsökande barn. Ett led i regeringens reformarbete för
+            att förbättra dessa barns situation är att stärka rätten till
+            utbildning. Regeringen föreslår i propositionen en sådan ändring
+            av 15 kap. 5 § skollagen (1985:1100) att regeringen i förordning
+            kan meddela föreskrifter om mottagande - förutom i det offentliga
+            skolväsendet - även i förskoleverksamhet och skolbarnsomsorg av
+            barn som inte räknas som bosatta i Sverige. Därtill skall en hänvisning
+            till att denna bestämmelse gäller för förskoleverksamhet och skolbarnsomsorg
+            tas in i 1 kap. 1 § skollagen. Enligt regeringens bedömning bör
+            de barn som omfattas av 1 § första stycket 1-3 lagen (1994:137)
+            om mottagande av asylsökande m.fl. (LMA) ha tillgång till utbildning
+            inom det offentliga skolväsendet för barn och ungdom samt till
+            förskoleverksamhet och skolbarnsomsorg på i huvudsak samma villkor
+            som gäller för barn som är bosatta i Sverige. Därmed avses asylsökande
+            barn och barn som beviljats tidsbegränsat uppehållstillstånd med
+            stöd av 2 kap. 4 a § utlänningslagen (s.k. massflyktingar) liksom
+            barn som av andra skäl ansökt om uppehållstillstånd i Sverige
+            och givits rätt att vistas här medan ansökan prövas. Rätten till
+            utbildning inom grundskolan och motsvarande skolformer bör inte
+            medföra någon skolplikt. Barnen bör tas emot i det offentliga
+            skolväsendet så snart det är lämpligt med hänsyn till det enskilda
+            barnets personliga förhållanden. Mottagandet bör dock ske senast
+            en månad efter barnets ankomst till Sverige. Rätten till gymnasieutbildning
+            bör gälla om studierna påbörjas före 18 års ålder. Barnen kan
+            också mottas i en fristående skola för att där få motsvarande
+            utbildning. Den kommun där barnet vistas bör svara för att utbildningen
+            kommer till stånd. Undervisningen bör bedrivas med hänsyn till
+            det enskilda barnets behov och förutsättningar. Regeringen bedömer
+            att förskoleverksamhet och skolbarnsomsorg bör erbjudas asylsökande
+            barn m.fl. på samma villkor som gäller för barn bosatta i Sverige.
+            Detta innebär att om föräldrarna förvärvsarbetar, är arbetssökande
+            eller studerar eller om barnet har ett eget behov skall barn i
+            åldern 1-6 år erbjudas förskoleverksamhet (förskola eller familjedaghem)
+            och barn i åldern 6-12 år erbjudas skolbarnsomsorg (fritidshem
+            eller familjedaghem). Asylsökande barn m.fl. bör också tas emot
+            i den allmänna förskolan som införs den 1 januari 2003 för barn
+            i åldern 4-5 år. Motionen I motion 2000/01:Ub48 välkomnar Folkpartiet
+            propositionen om att asylsökande barn skall ges rätt till skolgång,
+            förskola samt skolbarnsomsorg på samma villkor som gäller för
+            barn bosatta i Sverige. Dock anser motionärerna att det av propositionen
+            tydligt borde ha framgått att också de barn som fått avslag på
+            sin asylansökan skall få en rätt till skolgång i väntan på utvisning.
+            Motionärerna påpekar att väntetiden i många fall kan bli mycket
+            lång, bl.a. i de fall då mottagarlandet inte är berett att ta
+            emot de hemvändande medborgarna. De vill ha ett tillkännagivande
+            till regeringen om att kommuner skall vara skyldiga att erbjuda
+            utbildning inom det offentliga skolväsendet samt förskoleverksamhet
+            och skolbarnsomsorg även till de barn som väntar på utvisning
+            (yrk. 1). Vidare understryker Folkpartiet i motionen att barn
+            som hålls gömda inför verkställighet av ett avvisningsbeslut befinner
+            sig i en mycket utsatt situation. På vissa håll i landet har skolor
+            redan på olika sätt erbjudit gömda barn skolgång. Det bör därför
+            utredas vilka olika möjligheter som kan finnas att erbjuda gömda
+            barn skolgång, förskoleverksamhet samt skolbarnsomsorg. Riksdagen
+            bör enligt motionärerna göra ett tillkännagivande till regeringen
+            om detta (yrk. 2). Utskottets ställningstagande Utskottet föreslår
+            att riksdagen antar regeringens förslag till ändrad lydelse av
+            15 kap. 5 § skollagen, vilket innebär att det tidigare bemyndigandet
+            för regeringen att utfärda föreskrifter om mottagande i det offentliga
+            skolväsendet av barn som inte är bosatta i riket utvidgas till
+            att omfatta mottagande av sådana barn även i förskoleverksamhet
+            och skolbarnsomsorg. Riksdagen bör också anta följdändringen i
+            1 kap. 1 § skollagen. Enligt redogörelsen i propositionen avser
+            regeringen att med stöd av det nämnda bemyndigandet i särskilda
+            föreskrifter ange att barn som ansöker om asyl eller skydd i Sverige
+            enligt 3 kap. utlänningslagen (1989:529) och barn som har beviljats
+            uppehållstillstånd enligt 2 kap. 4 a § utlänningslagen (s.k. massflyktingar)
+            skall ha tillgång till förskoleverksamhet, skolbarnsomsorg och
+            utbildning inom det offentliga skolväsendet för barn och ungdom
+            på i huvudsak samma villkor som gäller för barn som är bosatta
+            i Sverige. Föreskrifterna bör också omfatta barn som av andra
+            skäl ansökt om uppehållstillstånd i Sverige och givits rätt att
+            vistas här medan ansökan prövas. Föreskrifterna bör finnas i en
+            särskild förordning. Socialförsäkringsutskottet skriver i sitt
+            yttrande i ärendet att regeringens förslag får sägas ligga i linje
+            med vad utskottet tidigare anfört i frågan om asylsökande barns
+            och ungdomars rätt till skolundervisning (bet. 1998/99: SfU5).
+            Utbildning är en grundläggande förutsättning för att de barn och
+            ungdomar som kommer till Sverige som asylsökande och som senare
+            eventuellt erhåller uppehållstillstånd här på ett bra sätt skall
+            kunna integreras i det svenska samhället. Även om de inte får
+            uppehållstillstånd här är utbildning under tiden de vistas i Sverige
+            av stor betydelse för dem när de återvänder till hemlandet. Utskottet
+            ser därför positivt på regeringens förslag och bedömning i propositionen.
+            Utbildningsutskottet instämmer i vad socialförsäkringsutskottet
+            anför i yttrandet. Utbildningsutskottet vill betona att barnets
+            bästa skall komma i första rummet, vilket slås fast i FN:s barnkonvention.
+            Barn som kommer till Sverige från andra länder har mycket skiftande
+            kunskaper, erfarenheter och behov. Vissa barn kommer från tidigare
+            välfungerande skolor i hemlandet medan andra aldrig har haft möjlighet
+            att gå i skolan. Innehållet och uppläggningen av skolverksamheten
+            måste därför utformas utifrån en bedömning av varje enskilt barns
+            behov och förutsättningar. För vissa barn är kanske skolgången
+            ett stöd för att finna en struktur i tillvaron medan andra kanske
+            inte orkar delta i undervisning lika många timmar som andra barn.
+            Även när det gäller mottagande i förskola och skolbarnsomsorg
+            måste en individuell bedömning utifrån barnets bästa göras i varje
+            särskilt fall. Såväl förskolan som skolbarnsomsorgen kan bidra
+            till att ge de asylsökande barnen kontinuitet och trygghet. Barnen
+            får också möjlighet till social kontakt med andra barn och vuxna
+            samt stimulans till personlig utveckling. När det gäller förslaget
+            i motion 2000/01:Ub48 yrkande 1 om införande av skyldighet för
+            kommuner att erbjuda utbildning m.m. för barn som väntar på avvisning
+            eller utvisning citerar utskottet först vad socialförsäkringsutskottet
+            anför i frågan. Vad gäller barn som väntar på avvisning eller
+            utvisning har utskottet erfarit att barn som redan går i skolan
+            får fortsätta med det även i avvaktan på verkställighet. Någon
+            formell skyldighet för kommunen att låta barnet gå kvar i skolan
+            föreligger dock inte. Såvitt gäller asylsökande barn har det hittills
+            inte funnits någon skyldighet för kommunerna att ta emot dessa
+            barn i den kommunala förskolan eller skolbarnsomsorgen. I vissa
+            kommuner har dessa barn ändå tagits emot i förskolan. Utskottet
+            anser det naturligt att i dessa fall jämföra med vad som föreskrivs
+            i LMA om rätten till bistånd. Enligt 11 § LMA upphör rätten till
+            bistånd (t.ex. dagersättning och särskilt bidrag) när utlänningen
+            lämnar landet. Den som håller sig undan så att ett beslut om avvisning
+            eller utvisning inte kan verkställas har enligt 12 § däremot inte
+            rätt till bistånd. Enligt utskottets mening är det närmast självklart
+            att barnen under motsvarande förutsättningar skall få gå kvar
+            i skolan och skolbarnsomsorgen liksom i förskolan till dess att
+            de lämnar landet. Utskottet förutsätter att så kommer att bli
+            fallet. Utbildningsutskottet vill framhålla att fortsatt skolgång
+            m.m. för barn som väntar på avvisning eller utvisning kan ha stor
+            betydelse för barnens utveckling och psykiska hälsa. Det är därför
+            enligt utskottets bestämda uppfattning viktigt - och i enlighet
+            med intentionerna i FN:s barnkonvention om att barnets bästa alltid
+            skall iakttas - att barnen får fortsätta i skolan, förskolan och
+            skolbarnsomsorgen så länge de är kvar i landet. Liksom socialförsäkringsutskottet
+            förutsätter utbildningsutskottet att så kommer att bli fallet.
+            Med hänvisning till vad som här har anförts föreslår utskottet
+            avslag på motionsyrkandet. Beträffande den i motionens yrkande
+            2 väckta frågan om gömda barns möjligheter till bl.a. skolgång
+            hänvisar socialförsäkringsutskottet i sitt yttrande till sin tidigare
+            redovisade principiella hållning i fråga om personer som håller
+            sig undan verkställigheten av ett avlägsnandebeslut (bet. 1996/97:SfU5,
+            s. 96 f.). Utskottet anförde bl.a. att utlänningslagstiftningen
+            bygger på tanken att den som har fått ett beslut om att lämna
+            landet gör det självmant. Enligt utskottet var det ett allvarligt
+            problem, att många personer kunde antas hålla sig gömda i Sverige
+            kanske under långa tider. Särskilt allvarligt ansåg utskottet
+            det vara när barn finns med i bilden med hänsyn till riskerna
+            för att barnet skadas i sin hälsa och utveckling. I yttrandet
+            redogör socialförsäkringsutskottet för Migrationsverkets arbete
+            med att uppmärksamma och ge stöd till barnfamiljer som verkar
+            vara i riskzonen för att gömma sig. Det är enligt utskottet givet
+            att barn i familjer som saknar tillstånd att vistas i Sverige
+            och som håller sig undan myndigheterna regelmässigt lever under
+            svåra förhållanden. Därför är det av stor vikt att olika åtgärder
+            vidtas liksom att projekt initieras och utvecklas i syfte att
+            förhindra att barnfamiljer gömmer sig. Utskottet konstaterar att
+            möjligheten till utbildning är av stor betydelse även för barn
+            som inte har rätt att vistas i Sverige. Utskottet är dock inte
+            berett att förorda att även gruppen gömda barn skall ges en uttrycklig
+            rätt till utbildning m.m. utan föreslår att utbildningsutskottet
+            avstyrker motionsyrkandet. Utbildningsutskottet ställer sig bakom
+            vad socialförsäkringsutskottet anför i frågan. Rätten till utbildning
+            bör inte gälla barn som hålls gömda inför verkställighet av ett
+            beslut om avvisning eller utvisning. Som regeringen påpekar i
+            propositionen (s. 19) får dock en kommun ta emot en elev som inte
+            räknas som bosatt i Sverige, såväl i grundskolan som i gymnasieskolan.
+            Utskottet konstaterar också att det i en del kommuner fungerar
+            så i praktiken, varför en utredning inte torde vara nödvändig.
+            Utskottet avstyrker motion 2000/01:Ub48 yrkande 2. Statlig ersättning
+            Utskottets förslag i korthet Riksdagen bör anta regeringens förslag
+            till ändringar i skollagen (1985:1100) såvitt avser 2 b kap. 10
+            b och 10 c §§ samt 9 kap. 6, 6 a, 8 a och 8 c §§. Ändringarna
+            innebär att en kommun är skyldig att lämna bidrag till en fristående
+            skola som tar emot asylsökande barn m.fl. med samma belopp som
+            kommunen får i ersättning enligt förordningen om statlig ersättning
+            för flyktingmottagande m.m. Gällande bestämmelser Enligt förordningen
+            (1990:927) om statlig ersättning för flyktingmottagande m.m. utgår
+            ersättning till kommuner för kostnader avseende grundskoleundervisning
+            för barn till utlänningar som avses i 1 § första stycket 1 och
+            2 samt 8 § andra och tredje styckena lagen (1994:137) om mottagande
+            av asylsökande m.fl. Ersättningen beslutas och betalas av Migrationsverket.
+            Propositionen Asylsökande barn m.fl. och deras föräldrar skall
+            enligt propositionen kunna välja en fristående skola för utbildning
+            i förskoleklass, grundskola respektive gymnasieskola. I propositionen
+            föreslår regeringen tillägg i de bestämmelser i skollagen som
+            reglerar en kommuns skyldighet att för en elevs utbildning i en
+            fristående skola lämna bidrag till den fristående skolan, nämligen
+            i 2 b kap. 10 b och 10 c §§ samt 9 kap. 6, 6 a, 8 a och 8 c §§.
+            Av de föreslagna nya bestämmelserna framgår att bidragsbeloppet
+            till fristående skolor som tar emot asylsökande barn och ungdomar
+            m.fl. skall vara detsamma som det belopp som kommunen kan få i
+            statlig ersättning för en sådan elev. I anslutning till förslaget
+            till skollagsändringar lämnar regeringen en redogörelse för sin
+            bedömning om den kommande statliga ersättningen till kommunerna
+            för undervisning m.m. av asylsökande barn och ungdomar. Enligt
+            regeringen bör den statliga ersättningen till kommunerna för kostnader
+            avseende undervisning i grundskolan för asylsökande barn m.fl.
+            höjas. Samma ersättning bör lämnas för undervisning i skolformer
+            motsvarande grundskolan. Vidare bör det införas en statlig ersättning
+            till kommuner avseende allmän förskola för asylsökande barn m.fl.
+            i åldern 4-5 år, en ersättning till kommuner avseende förskoleklass
+            för dessa barn samt en ersättning till kommuner avseende gymnasieutbildning
+            för asylsökande ungdomar m.fl. Regeringen anger vilka belopp som
+            är tänkta att utgå i de olika fallen (prop. s. 24). Enligt redovisningen
+            i propositionen för förslagens ekonomiska konse-kvenser beräknas
+            reformen öka de statliga kostnaderna för mottagande av asylsökande
+            barn m.fl. med ca 40 miljoner kronor fr.o.m. 2002 och ca 50 miljoner
+            kronor fr.o.m. 2003. Medel för den föreslagna reformen beräknades
+            i 2001 års ekonomiska vårproposition under utgiftsområde 8 Invandrare
+            och flyktingar (prop. 2000/01:100, yttr. SfU5y, bet. FiU20, rskr.
+            288). I budgetpropositionen för 2002 finns ifrågavarande medel
+            anvisade under anslaget Mottagande av asylsökande (prop. 2001/02:1,
+            utg.omr. 8). Budgetförslaget i denna del behandlas av socialförsäkringsutskottet.
+            Utskottets ställningstagande Utskottet föreslår att riksdagen
+            antar föreslagna ändringar i skollagens bestämmelser om bidrag
+            till fristående skolor. Därigenom föreskrivs skyldighet för en
+            kommun att till en fristående skola som tar emot en asylsökande
+            elev, eller en elev som vistas i Sverige under liknande omständigheter,
+            lämna bidrag för eleven med samma belopp som kommunen får i ersättning
+            enligt förordningen om statlig ersättning för flyktingmottagande
+            m.m. Utskottet föreslår att riksdagen även antar förslaget i övrigt
+            till ändring i skollagen. I detta ligger att samtliga i propositionen
+            föreslagna ändringar i skollagen kan träda i kraft den 1 januari
+            2002. Reservation Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservation. I rubriken anges inom parentes
+            vilken punkt i utskottets förslag till riksdagsbeslut som behandlas
+            i avsnittet. Utbildning m.m. i avvaktan på avvisning eller utvisning,
+            m.m. (punkterna 2 och 3) - fp av Ulf Nilsson (fp). Förslag till
+            riksdagsbeslut Jag anser att utskottets förslag under punkterna
+            2 och 3 borde ha följande lydelse: 2. Utbildning m.m. i avvaktan
+            på avvisning eller utvisning Riksdagen tillkännager för regeringen
+            som sin mening vad som framförs i reservationen. Därmed bifaller
+            riksdagen motion 2000/01:Ub48 yrkan-de 1. 3. Skolgång m.m. för
+            gömda barn Riksdagen tillkännager för regeringen som sin mening
+            vad som framförs i reservationen. Därmed bifaller riksdagen motion
+            2000/01:Ub48 yrkan-de 2. Ställningstagande Enligt min uppfattning
+            bör också de barn som fått avslag på sin asylansökan ges rätt
+            till utbildning, förskoleverksamhet och skolbarnsomsorg i avvaktan
+            på att ett avvisnings- eller utvisningsbeslut verkställs. Väntan
+            på verkställighet kan i många fall bli mycket lång. Ofta handlar
+            det om flera månader, ibland t.o.m. om år. Detta kan bero på att
+            mottagarlandet inte är berett att ta emot de hemvändande medborgarna
+            eller att en familjemedlem på grund av sjukdom tvingas stanna
+            i Sverige. Oavsett vad orsaken är måste dessa barn ges en dräglig
+            tillvaro under tiden fram till verkställighet, och därför är t.ex.
+            skolgång under väntetiden en viktig rättighet. Jag anser i enlighet
+            med yrkande 1 i motion 2000/01:Ub48 att kommunerna skall åläggas
+            en skyldighet att erbjuda utbildning, förskoleverksamhet och skolbarnsomsorg
+            till barn som väntar på avvisning eller utvisning. Detta bör riksdagen
+            tillkännage för regeringen som sin mening och därmed bifalla motionsyrkandet.
+            Det är inte svårt att inse att barn som hålls gömda inför verkställighet
+            av ett avvisnings- eller utvisningsbeslut befinner sig i en mycket
+            utsatt situation. Barnen, som inte själva har valt att befinna
+            sig gömda i annat land, kan inte lastas för den situation de befinner
+            sig i. Skolan är för dessa barn betydelsefull och skulle kunna
+            bidra till att ge vardagen ett innehåll samtidigt som barnen kan
+            få den kunskap som de så väl behöver. Det omgivande samhället
+            har alltid ett ansvar för att barn som hamnat i en svår situation
+            får det stöd de behöver. Därför måste, enligt min mening, skolan
+            och förskolan på olika sätt försöka ta ansvar för barn som hålls
+            gömda. På vissa håll i Sverige har skolor redan erbjudit gömda
+            barn skolgång. Det borde därför utredas vilka olika möjligheter
+            som kan finnas att mer generellt erbjuda även de gömda barnen
+            skolgång. Skolverket bör ges i uppdrag att, i samarbete med övriga
+            berörda myndigheter, utreda denna fråga. Vad jag här har anfört
+            bör riksdagen tillkännage för regeringen som sin mening och därmed
+            bifalla motion 2000/01:Ub48 yrkande 2. BILAGA 1 Förteckning över
+            behandlade förslag
+          </p>
+          <p>
+            Propositionen Regeringen har i proposition 2000/01:115 Asylsökande
+            barns skolgång m.m. föreslagit att riksdagen antar regeringens
+            förslag till lag om ändring i skollagen (1985:1100). Lagförslaget
+            finns som bilaga 2 till detta betänkande.
+          </p>
+          <p>
+            Motionen I betänkandet behandlar utskottet nedan uppräknade motionsyrkanden
+            i vilka föreslås att riksdagen fattar följande beslut: 2000/01:Ub48
+            av Ulf Nilsson m.fl. (fp): 1. Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om att kommuner skall vara
+            skyldiga att erbjuda utbildning inom det offentliga skolväsendet,
+            förskoleverksamhet och skolbarnsomsorg även till de barn som väntar
+            på utvisning. 2. Riksdagen tillkännager för regeringen som sin
+            mening vad i motionen anförs om gömda barns möjlighet till skolgång,
+            förskoleverksamhet samt skolbarnsomsorg. BILAGA 2 Regeringens
+            lagförslag Förslag till lag om ändring i skollagen (1985:1100)
+            BILAGA 3 Socialförsäkringsutskottets yttrande 2000/01:SfU8y Asylsökande
+            barns skolgång Till utbildningsutskottet Utbildningsutskottet
+            har den 26 april 2001 berett socialförsäkringsutskottet tillfälle
+            att yttra sig över proposition 2000/01:115 Asylsökande barns skolgång
+            m.m. jämte eventuella motioner i de delar som berör socialförsäkringsutskottets
+            beredningsområde. En motion har därefter väckts med anledning
+            av propositionen, nämligen motion 2000/01:Ub48 av Ulf Nilsson
+            m.fl. (fp). Propositionen I propositionen föreslås att skollagen
+            (1985:1100) ändras så att regeringen i förordning kan meddela
+            föreskrifter om mottagande i förskoleverksamhet och skolbarnsomsorg
+            av barn som inte räknas som bosatta i Sverige. De barn som omfattas
+            av 1 § första stycket 1-3 lagen (1994:137) om mottagande av asylsökande
+            m.fl. (LMA) bör enligt regeringens bedömning ha tillgång till
+            utbildning inom det offentliga skolväsendet för barn och ungdom
+            samt till förskoleverksamhet och skolbarnsomsorg på i huvudsak
+            samma villkor som gäller för barn som är bosatta i Sverige. Förslaget
+            omfattar därmed asylsökande barn och barn som beviljats tidsbegränsat
+            uppehållstillstånd med stöd av 2 kap. 4 a § utlänningslagen (s.k.
+            massflyktingar) liksom barn som av andra skäl ansökt om uppehållstillstånd
+            i Sverige och getts rätt att vistas här medan ansökan prövas.
+            Rätten till utbildning inom grundskolan och motsvarande skolformer
+            bör inte medföra någon skolplikt och barnen bör tas emot i det
+            offentliga skolväsendet så snart det är lämpligt med hänsyn till
+            barnets personliga förhållanden. Mottagandet bör dock ske senast
+            en månad efter barnets ankomst till Sverige. Rätten till gymnasieutbildning
+            bör gälla om studierna påbörjas före 18 års ålder. I propositionen
+            görs vidare bedömningen att den statliga ersättningen till kommunerna
+            för kostnader avseende undervisning i grundskolan för asylsökande
+            barn m.fl. bör höjas och en statlig ersättning till kommuner avseende
+            allmän förskola för asylsökande barn m.fl. i åldern 4-5 år införas.
+            En ersättning till kommuner avseende förskoleklass för dessa barn
+            bör också införas, liksom ersättning till kommuner avseende gymnasieutbildning
+            för asylsökande ungdomar m.fl. Motionen Ulf Nilsson m.fl. (fp)
+            begär i motion Ub48 yrkande 1 ett tillkännagivande om att kommuner
+            skall vara skyldiga att erbjuda utbildning inom det offentliga
+            skolväsendet, förskoleverksamhet och skolbarnsomsorg även till
+            de barn som väntar på utvisning. Motionärerna anser att det av
+            propositionen tydligt borde framgå att också de barn som fått
+            avslag på sin asylansökan skall få rätt till skolgång i väntan
+            på utvisning, som i många fall kan bli mycket lång. En orsak kan
+            enligt motionärerna vara att mottagarlandet inte är berett att
+            ta emot de hemvändande medborgarna. I yrkande 2 begär motionärerna
+            ett tillkännagivande om gömda barns möjlighet till skolgång, förskoleverksamhet
+            samt skolbarnsomsorg. Barn som hålls gömda inför verkställighet
+            befinner sig enligt motionärerna i en mycket utsatt situation.
+            På vissa håll har skolor redan på olika sätt erbjudit gömda barn
+            skolgång. Det bör därför utredas vilka olika möjligheter som kan
+            finnas att erbjuda dessa barn t.ex. skolgång och förskola. Utskottets
+            bedömning I betänkande 1998/99:SfU5 (s. 43 och 44) framhöll utskottet
+            att utbildning är en grundläggande förutsättning för att de barn
+            och ungdomar som kommer till Sverige som asylsökande och som senare
+            eventuellt erhåller uppehållstillstånd här på ett bra sätt skall
+            kunna integreras i det svenska samhället. Även om de inte får
+            uppehållstillstånd här är utbildning under tiden de vistas i Sverige
+            av stor betydelse för dem när de återvänder till hemlandet. Av
+            naturliga skäl föreligger vissa speciella svårigheter med de asylsökande
+            barnens och ungdomarnas skolgång. Det tar tid att lära sig ett
+            nytt språk, och många har svåra traumatiska upplevelser bakom
+            sig som kräver särskilda insatser. Utskottet, som påpekade att
+            asylsökande barn och ungdomar har rätt till grundskoleundervisning
+            men inte till gymnasieundervisning, föreslog en kartläggning av
+            hur många asylsökande ungdomar som utnyttjar den svenska undervisningen,
+            vilka resurser som krävs för att de skall kunna tillgodogöra sig
+            en gymnasial undervisning samt kostnaderna härför. Detta gav riksdagen
+            som sin mening regeringen till känna (rskr. 1998/99:162). Regeringens
+            förslag får sägas ligga i linje med vad utskottet tidigare anfört
+            i frågan. Utskottet ser därför positivt på förslaget om att införa
+            en rätt för asylsökande barn m.fl. att få tillgång till utbildning,
+            förskola och skolbarnsomsorg på i huvudsak samma villkor som gäller
+            för barn som är bosatta i Sverige. Beträffande rätten till utbildning
+            delar utskottet regeringens bedömning att en individuell bedömning
+            utifrån barnets bästa måste göras i varje särskilt fall. Barn
+            som kommer till Sverige från andra länder har mycket skiftande
+            kunskaper, erfarenheter och behov. Vissa barn kommer från tidigare
+            välfungerande skolor i hemlandet medan andra aldrig haft möjlighet
+            att gå i skolan. Innehållet och uppläggningen av skolverksamheten
+            måste därför utformas utifrån en bedömning av varje enskilt barns
+            behov och förutsättningar. För vissa barn är kanske skolgången
+            ett stöd för att finna en struktur i tillvaron medan andra kanske
+            inte orkar delta i undervisning lika många timmar som andra barn.
+            Även om det i praktiken innebär att barnens undervisning tidsmässigt
+            måste anpassas efter barnets behov är det dock inte aktuellt med
+            någon begränsning i bestämmelserna för rätt till utbildning. Såvitt
+            gäller förskola och skolbarnsomsorg innebär förslaget att asylsökande
+            barn m.fl. i åldern 1-6 år skall erbjudas förskoleverksamhet och
+            skolbarnsomsorg om föräldrarna förvärvsarbetar eller studerar
+            eller om barnet har ett eget behov. Utskottet anser att en individuell
+            prövning utifrån barnets egna behov och möjligheter även skall
+            gälla förskolan och skolbarnsomsorgen. Som framhålls i propositionen
+            är den svenska förskolan emellertid viktig också genom att den
+            kan bidra till att ge de asylsökande barnen kontinuitet och trygghet.
+            Enligt utskottets mening gäller detta i lika hög grad skolbarnsomsorgen.
+            Barnen i fråga har skilts från släktingar och vänner och lämnat
+            det språk de delade med sin omgivning. Vissa barn har upplevt
+            våld av olika slag. Både förskolan och skolbarnsomsorgen kan vidare
+            ge barnen möjlighet till social kontakt med andra barn och vuxna
+            samt stimulans till personlig utveckling. Vad gäller barn som
+            väntar på avvisning eller utvisning har utskottet erfarit att
+            barn som redan går i skolan får fortsätta med det även i avvaktan
+            på verkställighet. Någon formell skyldighet för kommunen att låta
+            barnet gå kvar i skolan föreligger dock inte. Såvitt gäller asylsökande
+            barn har det hittills inte funnits någon skyldighet för kommunerna
+            att ta emot dessa barn i den kommunala förskolan eller skolbarnsomsorgen.
+            I vissa kommuner har dessa barn ändå tagits emot i förskolan.
+            Utskottet anser det naturligt att i dessa fall jämföra med vad
+            som föreskrivs i LMA om rätten till bistånd. Enligt 11 § LMA upphör
+            rätten till bistånd (t.ex. dagersättning och särskilt bidrag)
+            när utlänningen lämnar landet. Den som håller sig undan så att
+            ett beslut om avvisning eller utvisning inte kan verkställas har
+            enligt 12 § däremot inte rätt till bistånd. Enligt utskottets
+            mening är det närmast självklart att barnen under motsvarande
+            förutsättningar skall få gå kvar i skolan och skolbarnsomsorgen
+            liksom i förskolan till dess att de lämnar landet. Utskottet förutsätter
+            att så kommer att bli fallet. Beträffande frågan om gömda barns
+            möjligheter till bl.a. skolgång vill utskottet hänvisa till sitt
+            av riksdagen godkända betänkande 1996/97:SfU5 (s. 96 och 97),
+            vari utskottet redovisade sin principiella hållning i fråga om
+            personer som håller sig undan verkställigheten av ett avlägsnandebeslut.
+            Utskottet anförde bl.a. att utlänningslagstiftningen bygger på
+            tanken att den som har fått ett beslut om att lämna landet gör
+            det självmant. Enligt utskottet var det ett allvarligt problem,
+            att många personer kunde antas hålla sig gömda i Sverige kanske
+            långa tider. Särskilt allvarligt ansåg utskottet det vara när
+            barn finns med i bilden med hänsyn till riskerna för att barnet
+            skadas i sin hälsa och utveckling. Utskottet underströk betydelsen
+            av väl motiverade beslut för att skapa förståelse för att ansökningar
+            om uppehållstillstånd avslås, när sökandena inte har tillräckliga
+            skäl att stanna i landet. Socialstyrelsen och Migrationsverket
+            har på uppdrag av regeringen gjort en kartläggning av barn som
+            lever gömda i syfte att undgå att ett avvisnings- eller utvisningsbeslut
+            verkställs. Av rapporten När barn lever gömda (SoS-rapport 1999:5)
+            framgår bl.a. att de frågor som utretts är hur många barn det
+            är som lever gömda, varför de är gömda och hur de påverkas under
+            den tid de lever gömda på kort och lång sikt. Enligt rapporten
+            var det vid årsskiftet 1998/99 ca 300 barn med slutligt avlägsnandebeslut
+            som var efterlysta. Bland dem fanns troligen en del som lämnat
+            landet utan att polisen fått kännedom om det. Frivilligorganisationerna
+            kände till 150 barn som levde gömda. De sammanställningar som
+            gjorts och annat material som inhämtats av utredningen tydde på
+            att det innebär stora risker för ett barns hälsotillstånd att
+            leva gömt. Avgörande för hur barnen psykiskt klarar tiden som
+            gömda är i vilken utsträckning deras föräldrar sviktar i sin omsorgsförmåga
+            under denna tid. Möjligheten att få gå kvar i skolan är också
+            enligt rapporten av stor betydelse. Härefter har regeringen i
+            enlighet med en överenskommelse mellan staten och Landstingsförbundet
+            i mars 2000 beslutat att barn som hålls gömda inför verkställigheten
+            av ett avvisnings- eller utvisningsbeslut skall tillförsäkras
+            hälso- och sjukvård samt tandvård på samma grunder som asylsökande
+            barn. Landstingen får därmed en statlig ersättning för denna vård.
+            Frivilligorganisationerna har framfört att de avser att medverka
+            till att dessa barn kommer till lämplig vårdgivare. I regeringens
+            skrivelse Barn - här och nu (skr. 1999/2000:137, s. 68 och 69)
+            finns en redogörelse för Migrationsverkets s.k. barnprojekt. En
+            del av projektet syftar till att förbättra förutsättningarna för
+            att de som får ett avlägsnandebeslut förstår och accepterar beslutet.
+            I barnskrivelsen anges att detta är en viktig del i arbetet med
+            att förhindra att barnfamiljer gömmer sig. Det avslutade s.k.
+            språkvårdsprojektet har medfört att besluten nu motiveras på ett
+            för familjerna mer förståeligt sätt. Även Migrationsverkets återvändandearbete
+            skall enligt barnskrivelsen utvecklas ytterligare eftersom det
+            är väsentligt att återvändandeperspektivet hålls öppet under hela
+            asylprocessen genom att t.ex. alternativa lösningar för familjens,
+            såväl föräldrarnas som barnens, framtid diskuteras. Migrationsverket
+            utvecklar vidare ett s.k. early warning system för att uppmärksamma
+            och ge stöd till barnfamiljer som verkar vara i riskzonen för
+            att gömma sig. Ett nära samarbete mellan Migrationsverkets mottagnings-
+            och asylenheter, men också med Utlänningsnämnden, skall därför
+            enligt barnskrivelsen utvecklas. Syftet är att få ett underlag
+            för en systematisk uppföljning av vilka familjer som valt att
+            gömma sig och vilka omständigheter som förelegat i dessa fall.
+            Det är enligt utskottet givet att barn i familjer som saknar tillstånd
+            att vistas i Sverige och som håller sig undan myndigheterna regelmässigt
+            lever under svåra förhållanden. Det är därför av stor vikt att
+            olika åtgärder vidtas liksom att projekt initieras och utvecklas
+            i syfte att förhindra att barnfamiljer gömmer sig. Utskottet konstaterar
+            att möjligheten till utbildning är av stor betydelse även för
+            barn som inte har rätt att vistas i Sverige. Utskottet är dock
+            inte berett att förorda att även gruppen gömda barn skall ges
+            en uttrycklig rätt till utbildning m.m. Med det anförda föreslår
+            utskottet att utbildningsutskottet tillstyrker regeringens förslag
+            och avstyrker motion Ub48. Stockholm den 31 maj 2001 På socialförsäkringsutskottets
+            vägnar Berit Andnor Följande ledamöter har deltagit i beslutet:
+            Berit Andnor (s), Bo Könberg (fp), Margit Gennser (m), Maud Björnemalm
+            (s), Anita Jönsson (s), Ulla Hoffmann (v), Mariann Ytterberg (s),
+            Göran Lindblad (m), Lennart Klockare (s), Ronny Olander (s), Fanny
+            Rizell (kd), Cecilia Magnusson (m), Kerstin-Maria Stalin (mp),
+            Birgitta Carlsson (c), Margareta Cederfelt (m), Magda Ayoub (kd)
+            och Kalle Larsson (v). Avvikande meningar 1. Utbildning m.m. i
+            avvaktan på avvisning eller utvisning av Bo Könberg (fp), Fanny
+            Rizell (kd) och Magda Ayoub (kd). Enligt vår uppfattning bör också
+            de barn som fått avslag på sin asylansökan ges rätt till skolgång,
+            skolbarnsomsorg och förskola i avvaktan på att ett avvisnings-
+            eller utvisningsbeslut verkställs. Väntan på verkställighet kan
+            i många fall bli mycket lång. Ofta handlar det om flera månader,
+            ibland t.o.m. år. En orsak kan vara att mottagarlandet inte är
+            berett att ta emot de hemvändande medborgarna eller att en familjemedlem
+            på grund av sjukdom tvingas stanna i Sverige. Oavsett vad orsaken
+            är måste dessa barn ges en dräglig tillvaro under tiden fram till
+            verkställighet, och därför är t.ex. skolgång under väntetiden
+            en viktig rättighet. Vi anser att kommunerna skall vara skyldiga
+            att erbjuda skolgång, förskola och skolbarnsomsorg till barn som
+            väntar på avvisning eller utvisning och att detta bör ges regeringen
+            till känna. Med det anförda föreslår vi att utbildningsutskottet
+            tillstyrker motion Ub48 yrkande 1. 2. Gömda barn av Bo Könberg
+            (fp). Det är inte svårt att inse att barn som hålls gömda inför
+            verkställighet av ett avvisnings- eller utvisningsbeslut befinner
+            sig i en mycket utsatt situation. Barnen, som inte själva har
+            valt att befinna sig gömda i annat land, kan inte lastas för den
+            situation de befinner sig i. Skolan är för dessa barn betydelsefull
+            och skulle kunna bidra till att ge vardagen ett innehåll samtidigt
+            som barnen kan få den kunskap som de så väl behöver. Det omgivande
+            samhället har alltid ett ansvar för att barn som hamnat i en svår
+            situation får det stöd de behöver. Därför måste, enligt min mening,
+            skolan och förskolan på olika sätt försöka ta ansvar för barn
+            som hålls gömda. På vissa håll i Sverige har skolor redan erbjudit
+            gömda barn skolgång. Det borde därför utredas vilka olika möjligheter
+            som kan finnas att mer generellt erbjuda även de gömda barnen
+            skolgång. Skolverket bör ges i uppdrag att, i samarbete med övriga
+            berörda myndigheter, utreda denna fråga. Detta bör riksdagen som
+            sin mening ge regeringen till känna. Med det anförda anser jag
+            att utbildningsutskottet bör tillstyrka motion Ub48 yrkande 2.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

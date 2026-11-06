@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_199495_JuU_0001">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="rdbeslut" n="Riksdagens beslut">Bifall till utskottets hemställan</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GI0932</idno>
+              <title>1994-11-30</title>
+              <biblScope unit="riksdag-session">1994/95</biblScope>
+              <biblScope unit="document-number">32</biblScope>
+              <note type="display-reference">1994-11-30</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GI0932</idno>
+              <title>1994-11-30</title>
+              <biblScope unit="riksdag-session">1994/95</biblScope>
+              <biblScope unit="document-number">32</biblScope>
+              <note type="display-reference">1994-11-30</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GI0312</idno>
+              <title>Handläggning av ungdomsmål</title>
+              <biblScope unit="riksdag-session">1994/95</biblScope>
+              <biblScope unit="document-number">12</biblScope>
+              <note type="display-reference">proposition 1994/95:12 Handläggning av ungdomsmål</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GI02Ju1</idno>
+              <title>med anledning av prop. 1994/95:12 Handläggning av ungdomsmål</title>
+              <title type="sub">av Lars-Erik Lövdén m.fl. (s)</title>
+              <biblScope unit="riksdag-session">1994/95</biblScope>
+              <biblScope unit="document-number">Ju1</biblScope>
+              <note type="display-reference">motion 1994/95:Ju1 med anledning av prop. 1994/95:12 Handläggning av ungdomsmål</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GI02Ju2</idno>
+              <title>med anledning av prop. 1994/95:12 Handläggning av ungdomsmål</title>
+              <title type="sub">av Alice Åström m.fl. (v)</title>
+              <biblScope unit="riksdag-session">1994/95</biblScope>
+              <biblScope unit="document-number">Ju2</biblScope>
+              <note type="display-reference">motion 1994/95:Ju2 med anledning av prop. 1994/95:12 Handläggning av ungdomsmål</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="AVG" subtype="beredning" n="5" when="1994-11-30">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="beredning" n="3" when="1994-11-30">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="beredning" n="1" when="1994-11-25">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="1994-11-15">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="1994-10-25">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Justitieutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            1994/95:JUU01
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Handläggning av ungdomsmål
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <div type="section" subtype="h2">
+            <head>
+              Innehåll
+            </head>
+            <list type="unordered">
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bsam">
+                    Sammanfattning
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bprop">
+                    Propositionen
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bmot">
+                    Motionerna
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#btext">
+                    Utskottet
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bhemst">
+                    Hemställan
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bres">
+                    Reservationer
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#binh">
+                    Innehållsförteckning
+                  </ref>
+                </p>
+              </item>
+            </list>
+            <p>
+              1994/95 JuU1
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bsam">
+              Sammanfattning
+            </head>
+            <p>
+              I detta betänkande behandlar utskottet ett regeringsförslag om
+              lagändringar när det gäller förfarandet vid lagföring av ungdomar
+              som misstänks för brott.
+            </p>
+            <p>
+              Åtgärder föreslås bl.a. för att förbättra samarbetet mellan myndigheterna
+              vid ungdomsmål och att öka snabbheten vid förfarandet hos polis,
+              åklagare och domstol. Vid domstolarna skall mål mot ungdomar under
+              tjugoett år normalt handläggas av domare med särskild fallenhet
+              för uppgiften. Domar i ungdomsmål skall, om det inte finns synnerliga
+              hinder, avkunnas muntligen i samband med huvudförhandlingen. Vidare
+              föreslås lagändringar som bl.a. syftar till att de ungas vårdnadshavare
+              och företrädare för socialtjänsten i ökad utsträckning skall medverka
+              i samband med lagföringen. Möjligheterna att meddela åtalsunderlåtelse
+              vid återfall i brott begränsas.
+            </p>
+            <p>
+              Utskottet tillstyrker i huvudsak regeringens förslag. En mindre
+              justering föreslås när det gäller avkunnandet av domar i ungdomsmål.
+            </p>
+            <p>
+              Lagändringarna föreslås träda i kraft den 1 mars 1995.
+            </p>
+            <p>
+              Till betänkandet har fogats tre reservationer (v), (m, c, fp,
+              kds) och (v, kds).
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bprop">
+              Propositionen
+            </head>
+            <p>
+              I proposition 1994/95:12 har regeringen (Justitiedepartementet)
+              föreslagit att riksdagen antar de i propositionen framlagda förslagen
+              till
+            </p>
+            <p>
+              1. lag om ändring i lagen (1964:167) med särskilda bestämmelser
+              om unga lagöverträdare och
+            </p>
+            <p>
+              2. lag om ändring i lagen (1976:371) om behandlingen av häktade
+              och anhållna m.fl.
+            </p>
+            <p>
+              Lagförslagen, som har granskats av Lagrådet, har fogats till
+              betänkandet, se bilaga.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bmot">
+              Motionerna
+            </head>
+            <p>
+              1994/95:Ju1 av Lars-Erik Lövdén m.fl. (s) vari yrkas att riksdagen
+              som sin mening ger regeringen till känna vad i motionen anförts
+              om inriktningen av påföljdssystemet för unga lagöverträdare.
+            </p>
+            <p>
+              1994/95:Ju2 av Alice Åström m.fl. (v) vari yrkas
+            </p>
+            <p>
+              1. att riksdagen avslår regeringens proposition 1994/95:12 Handläggning
+              av ungdomsmål,
+            </p>
+            <p>
+              2. att riksdagen som sin mening ger regeringen till känna vad
+              i motionen anförts om de nya reglerna för handläggning av ungdomsmål,
+            </p>
+            <p>
+              3. att riksdagen som sin mening ger regeringen till känna vad
+              i motionen anförts om inriktningen av kriminalpolitiken avseende
+              ungdomar som begår kriminella handlingar.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="btext">
+              Utskottet
+            </head>
+            <p>
+              Inledning
+            </p>
+            <p>
+              Med stöd av regeringens bemyndigande tillkallade chefen för Justitiedepartementet
+              i juni 1990 en kommitté för att göra en översyn av det allmännas
+              insatser vid brott av unga och för att utvärdera det nuvarande
+              regelsystemet på området. Huvuduppgiften var att undersöka om
+              den nuvarande fördelningen av uppgifter mellan socialtjänsten
+              och rättsväsendet var väl avvägd när det gäller unga lagöverträdare
+              och om samordningen mellan myndigheterna kan förbättras. Utredningen
+              antog namnet Ungdomsbrottskommittén (Ju 1990:07; dir. 1990:53).
+            </p>
+            <p>
+              Kommittén lade i juni 1993 fram betänkandet (SOU 1993:35) Reaktion
+              mot ungdomsbrott. I betänkandet behandlas hur reaktionssystemet
+              mot ungdomar som begår brott bör vara utformat och hur handläggningen
+              av ungdomsmålen skall gå till. Betänkandet har remissbehandlats.
+              Betänkandets förslag om hur ungdomsmålen skall handläggas hos
+              framför allt polis, åklagare och i domstol och remissbehandlingen
+              därav ligger till grund för de i detta ärende aktuella lagförslagen.
+              Kommitténs förslag när det gäller utformningen av påföljdssystemet
+              bereds vidare inom Justitiedepartementet.
+            </p>
+            <p>
+              I propositionen tas också upp frågan om svensk lagstiftning behöver
+              ändras för att stå i överensstämmelse med FN:s barnkonvention
+              när det gäller rätten till offentlig försvarare för barn som misstänks
+              för brott. Propositionen bygger i denna del på vad som föreslagits
+              i den inom Justitiedepartementet upprättade promemorian (Ds 1993:80)
+              Ökat skydd för barn och remissbehandlingen av promemorian.
+            </p>
+            <p>
+              I ärendet har inkommit en skrivelse från landets hovrättspresidenter.
+            </p>
+            <p>
+              Gällande ordning
+            </p>
+            <p>
+              Sedan länge särbehandlas unga lagöverträdare under arton år.
+              Deras brottslighet skall i betydligt mindre utsträckning än de
+              äldres bli föremål för domstolsprövning och åtgärder inom kriminalvården.
+              Principen är i stället att de unga lagöverträdarna skall uppmärksammas
+              av de sociala myndigheterna och att dessa på olika sätt skall
+              ge råd och stöd eller ingripa med andra åtgärder. Tanken är att
+              åtal skall kunna underlåtas om lika goda eller bättre behandlingsmöjligheter
+              för en ung lagöverträdare kan åstadkommas utan att åtal väcks.
+              Den rättsliga regleringen finns i första hand i socialtjänstlagen
+              (1980:620), lagen (1990:52) med särskilda bestämmelser om vård
+              av unga (LVU) och lagen (1964:167) med särskilda bestämmelser
+              om unga lagöverträdare (LUL).
+            </p>
+            <p>
+              Särskilda bestämmelser om förfarandet i brottmål mot unga finns
+              i den ovan nämnda LUL. Lagen har karaktären av komplement till
+              rättegångsbalken och innehåller bl.a. bestämmelser om åtalsunderlåtelse,
+              yttranden från socialnämnden, strafföreläggande, underrättelse
+              om brottsmisstanke till vårdnadshavare och särskilda regler för
+              unga som gripits av polis. Vidare finns särskilda bestämmelser
+              som rör förfarandet i domstol, bl.a. om häktning, offentlig försvarare,
+              personutredning och om vårdnadshavares medverkan. Det finns också
+              en bestämmelse om en tidsfrist för hållande av huvudförhandling.
+              Flertalet bestämmelser avser dem som är under arton år, men några
+              gäller även för dem som har fyllt arton men inte tjugoett år.
+              I lagen regleras också förfarandet när utredning inleds i fråga
+              om den som misstänkts för att ha begått brott före femton års
+              ålder.
+            </p>
+            <p>
+              Propositionens huvudsakliga innehåll
+            </p>
+            <p>
+              I propositionen föreslås ett antal lagändringar som syftar till
+              att anpassa förfarandet vid lagföring av ungdomar som misstänks
+              för brott till de speciella krav som ställs just i ungdomsmål.
+            </p>
+            <p>
+              Åtgärder föreslås för att förbättra samarbetet mellan myndigheterna
+              vid handläggning av ungdomsmål och att öka snabbheten vid förfarandet
+              hos polis, åklagare och domstol. Bland annat föreslås att särskilt
+              lämpade poliser och åklagare skall leda förundersökningen i mål
+              med ungdomar under arton år och att en tidsfrist för förundersökningen
+              skall gälla i sådana mål. Vidare skall åklagare i ökad utsträckning
+              vara förundersökningsledare i ungdomsmål. Vid domstolarna skall
+              mål mot ungdomar under tjugoett år normalt handläggas av domare
+              med särskild fallenhet för uppgiften. Domar i dessa mål skall,
+              om det inte finns synnerliga hinder, avkunnas i samband med huvudförhandlingen.
+              I propositionen föreslås också lagändringar som syftar till att
+              de ungas vårdnadshavare och företrädare för socialtjänsten i ökad
+              utsträckning skall medverka i samband med lagföringen.
+            </p>
+            <p>
+              Det föreslås också att beslut om åtalsunderlåtelse normalt skall
+              meddelas den unge inom två veckor från det att beslutet fattades.
+              Detta skall ske vid ett personligt sammanträffande med den åklagare
+              som har fattat beslutet varvid den unges vårdnadshavare och företrädare
+              för socialtjänsten om möjligt skall närvara.
+            </p>
+            <p>
+              Möjligheten att meddela åtalsunderlåtelse vid återfall i brott
+              skall enligt förslaget begränsas.
+            </p>
+            <p>
+              I fråga om yttrande från socialtjänsten och frivårdsmyndigheten
+              föreslås att dessa skall inhämtas av åklagare redan under förundersökningen.
+              Målsättningen skall vara att förundersökningen och personutredningen
+              i mål mot unga lagöverträdare är klara samtidigt.
+            </p>
+            <p>
+              En ändring föreslås i den särskilda bestämmelse om offentliga
+              försvarare som gäller för unga lagöverträdare. Skälet är att regeln
+              bättre skall överensstämma med FN:s barnkonvention.
+            </p>
+            <p>
+              I propositionen redovisas också beredningsläget beträffande arbetet
+              med frågor om hur påföljdssystemet för ungdomar bör vara utformat
+              i framtiden. Utgångspunkten för detta arbete är att reaktioner
+              på brott som begås av unga skall vara en uppgift för rättsväsendet.
+              Vidare bör eftersträvas att de påföljder som används för unga
+              tillgodoser de grundläggande straffrättsliga principerna om förutsebarhet,
+              enhetlighet och proportionalitet. Några lagförslag läggs inte
+              fram i detta sammanhang.
+            </p>
+            <p>
+              Lagändringarna föreslås träda i kraft den 1 mars 1995.
+            </p>
+            <p>
+              Utskottets överväganden
+            </p>
+            <p>
+              Avslag på propositionen
+            </p>
+            <p>
+              I motion Ju2 (v) yrkas dels avslag på propositionen, dels ett
+              tillkännagivande om att lagförslagen, om de genomförs, försvårar
+              möjligheterna för unga att bli dömda till vård inom socialtjänsten.
+            </p>
+            <p>
+              Utskottet har uppfattningen att samhällets reaktion på ungdomars
+              brott skall vara snabb, enkel och tydlig. I propositionen föreslås
+              också en rad åtgärder som kommer att medverka till att en sådan
+              ordning kan uppnås. Socialtjänsten har huvudansvaret för de unga
+              lagöverträdarna, och utskottet kan inte se att att det finns någon
+              principiell motsättning mellan stöd, hjälp och vård å den ena
+              sidan och tydliga snabba reaktioner mot ett inte acceptabelt beteende
+              å den andra. Tvärtom kan sådana reaktioner ha ett pedagogiskt
+              värde genom att inpränta och befästa normer som är grundläggande
+              i samhället. Utskottet ställer sig således i princip bakom lagförslagen
+              i propositionen och avstyrker därför bifall till nu behandlade
+              motionsyrkanden. Till enskilda frågor i propositionen återkommer
+              utskottet i det följande.
+            </p>
+            <p>
+              Reform av påföljdssystemet för unga lagöverträdare
+            </p>
+            <p>
+              Bakgrund
+            </p>
+            <p>
+              Som framgått ovan särbehandlas unga lagöverträdare sedan lång
+              tid tillbaka. De yngsta lagöverträdarna blir föremål för domstolsprövning
+              i betydligt mindre omfattning än de vuxna och sådana påföljder
+              som verkställs inom kriminalvården döms ut i betydligt mindre
+              utsträckning för unga än för vuxna. Brottsbalken (BrB) innehåller
+              också en särskild påföljd för ungdomar under tjugoett år. Bestämmelsen
+              härom, som finns i 31 kap. 1 § BrB, innebär att rätten får döma
+              en ung person som begått en brottslig gärning till överlämnande
+              till vård inom socialtjänsten. En förutsättning är att den unge
+              kan bli föremål för vård eller annan åtgärd enligt socialtjänstlagen
+              eller LVU. Ett sådant överlämnande innebär att det ankommer på
+              socialnämnden att ensam besluta vilka åtgärder som skall vidtas
+              beträffande den unge. Socialtjänstlagen möjliggör olika vårdinsatser
+              under förutsättning att den unge frivilligt medverkar till dessa.
+              Aktualiseras tvångsvård enligt LVU skall socialnämnden ansöka
+              därom hos länsrätten, som beslutar i frågan. Socialnämnden bestämmer
+              hur sådan tvångsvård av den unge skall ordnas, var han skall vistas
+              under vårdtiden och hur länge vården skall pågå. Socialnämndens
+              åtgärder anpassas helt till den unges behov. Domstolen, som fastlägger
+              det straffrättsliga ansvaret, saknar i dessa fall i princip inflytande
+              över innehållet i den utdömda påföljden. Om brottets straffvärde
+              m.m. påkallar det finns dock möjlighet för domstolen att förena
+              överlämnandet till vård med dagsböter, även om böter inte ingår
+              i straffskalan för det aktuella brottet.
+            </p>
+            <p>
+              Myndigheterna inom rättsväsendet har teoretiskt sett möjlighet
+              att utnyttja alla de alternativ som står till buds för vuxna lagöverträdare
+              när det gäller att bestämma reaktionerna på ett brott som begåtts
+              av en ung person. Genom den särreglering som finns för unga lagöverträdare
+              är mellertid möjligheterna i praktiken väsentligt begränsade.
+              Andra påföljder än överlämnande till särskild vård som kan komma
+              i fråga är böter, villkorlig dom, skyddstillsyn och fängelse.
+              Vissa begränsningar föreligger när det gäller att döma ungdomar
+              till fängelse. För brott som någon begått innan han fyllt arton
+              år får rätten döma till fängelse endast om det finns synnerliga
+              skäl. Ungdomar mellan arton och tjugoett år som begått brott får
+              dömas till fängelse endast om det med hänsyn till gärningens straffvärde
+              eller det annars finns särskilda skäl för det.
+            </p>
+            <p>
+              Propositionen
+            </p>
+            <p>
+              I propositionen redovisas beredningsläget beträffandet arbetet
+              med frågor om hur påföljdssystemet för ungdomar bör vara utformat
+              i framtiden. Utgångspunkten för detta arbete är att reaktioner
+              på brott som begås av unga skall vara en uppgift för rättsväsendet.
+              Vidare bör det, enligt propositionen, eftersträvas att de påföljder
+              som används för unga tillgodoser de grundläggande straffrättsliga
+              principerna om förutsebarhet, enhetlighet och proportionalitet.
+            </p>
+            <p>
+              Utgångspunkten för ställningstagandena i propositionen i denna
+              del är sammanfattningsvis att det finns starka skäl som talar
+              för att påföljden överlämnande till vård inom socialtjänsten i
+              dess nuvarande form bör tas bort och att även unga personer skall
+              ådömas en påföljd för brottet av domstol i huvudsak inom ramen
+              för det vanliga påföljdssystemet. Socialtjänstens ansvar för den
+              unge i enlighet med socialtjänstlagen och LVU skall dock, enligt
+              propositionen, bestå.
+            </p>
+            <p>
+              Några lagförslag läggs inte fram i dessa delar. Däremot görs
+              en genomgång av de nuvarande brottspåföljderna, och det redovisas
+              också hur dessa på olika sätt kan förändras och kombineras för
+              att passa de unga bättre.
+            </p>
+            <p>
+              Motionerna
+            </p>
+            <p>
+              I motion Ju1 (s) begärs ett tillkännagivande om inriktningen
+              av påföljdssystemet för unga lagöverträdare. Enligt motionärerna
+              bör principen vara att ungdomar under arton år så långt möjligt
+              skall hållas utanför kriminalvården och att huvudansvaret för
+              unga som begått brott bör ligga hos socialtjänsten. Ett liknande
+              yrkande framställs i motion Ju2 (v).
+            </p>
+            <p>
+              Utskottets överväganden
+            </p>
+            <p>
+              Utskottet känner i likhet med motionärerna tveksamhet inför resonemanget
+              i propositionen om att de principer som ligger till grund för
+              påföljdsbestämningen för vuxna i ökad utsträckning bör vara vägledande
+              även vid bestämmandet av påföljder för de unga. Den särreglering
+              som i dag finns beträffande unga människor som begår brott bygger
+              på erfarenheten att påföljden för en ung lagöverträdare måste
+              anpassas till den unges personliga mognad och särskilda förhållanden.
+              Grundläggande för utskottets uppfattning är att fängelsestraff
+              motverkar en ung människas möjlighet att föra ett laglydigt liv.
+              Ungdomar under arton år som begår brott skall därför så långt
+              möjligt hållas utanför kriminalvården och huvudansvaret för dessa
+              bör även fortsättningsvis ligga hos socialtjänsten, även om tvångsåtgärder
+              i vissa fall är nödvändiga för att förhindra den unge att fortsätta
+              sin kriminella verksamhet. Mot bakgrund av vad utskottet nu anfört
+              ser utskottet det som angeläget att det utvecklas metoder, inom
+              ramen för såväl rättsväsendet som socialtjänsten, för att finna
+              adekvata åtgärder som kan medverka till att barn och ungdomar
+              som begått brott kan ledas in i ett laglydigt liv. Härför krävs
+              också en utökad samverkan mellan socialtjänsten och rättsväsendet,
+              som bör inriktas på att åstadkomma snabba, enkla och adekvata
+              åtgärder mot ungdomsbrottsligheten. Det får ankomma på regeringen
+              att i det fortsatta reformarbetet på påföljdsområdet när det gäller
+              ungdomar beakta vad utskottet nu anfört med anledning av motionerna
+              Ju1 och Ju2. Vad utskottet här anfört bör riksdagen som sin mening
+              ge regeringen till känna.
+            </p>
+            <p>
+              Förfarandet i domstol
+            </p>
+            <p>
+              Domstolarnas organisation och sammansättning i ungdomsmål
+            </p>
+            <p>
+              I propositionen föreslås att brottmål mot den som inte har fyllt
+              tjugoett år i tingsrätt och hovrätt skall, om inte hinder möter,
+              handläggas av lagfarna domare med särskilt intresse och fallenhet
+              för arbete med ungdomar. Enligt förslaget skall detta också gälla
+              för de nämndemän som anlitas i dessa mål -- för närvarande gäller
+              för dem i tingsrätt ett krav på insikt och erfarenhet beträffande
+              vård och fostran av ungdom. Den föreslagna ordningen föreslås
+              lagfäst genom en särskild bestämmelse härom i LUL (25 §). Från
+              bestämmelsen undantas ungdomsmål där det är fråga om brott med
+              enbart böter i straffskalan. Rent organisatoriskt bör, enligt
+              propositionen, ungdomsmålen samlas på särskilda ungdomsrotlar.
+              Den frågan skall, anförs det, regleras i förordningsform. Det
+              skall ankomma på domstolschefen att utse den eller de domare vid
+              domstolen som skall handlägga ungdomsmålen.
+            </p>
+            <p>
+              Enligt författningskommentaren till bestämmelsen (prop. s. 103)
+              är möjligheten att låta ungdomsmål handläggas av en annan domare
+              än den särskilde domaren avsedd att användas restriktivt. Det
+              skall kunna ske i fall där det inte är praktiskt möjligt för den
+              särskilde domaren att själv handlägga målet, t.ex. vid sjukdom
+              eller i semestertider.
+            </p>
+            <p>
+              Den föreslagna ordningen kritiseras i skrivelsen från hovrättspresidenterna.
+              Här anförs att förslaget i denna del redan av principiella skäl
+              kan sättas i fråga. Det hävdas att de egenskaper, som domarna
+              vilka skall handlägga ungdomsmålen förutsätts besitta, finns hos
+              de allra flesta domare. I skrivelsen uppmärksammas dock främst
+              att bestämmelsen för hovrätternas del skulle medföra betydande
+              problem av praktisk natur.
+            </p>
+            <p>
+              Utskottet vill i denna del anföra följande. Som anförs i propositionen
+              har erfarenheten visat att kontakter med barn och ungdomar som
+              har problem kan inrymma särskilda svårigheter, inte minst när
+              det gäller kommunikationen. I ungdomsmål ställs därför särskilda
+              krav i dessa hänseenden på rättens ledamöter. Av stor betydelse
+              är också att såväl ordföranden som rättens övriga ledamöter är
+              väl insatta i kriminella ungdomars särskilda problem för att finna
+              den adekvata påföljden. En fördel med ett begränsat antal domare
+              i ungdomsmål är också att det kan vara lättare att låta dessa
+              få särskild utbildning i olika frågor som har med ungdomar att
+              göra. Mot att ha särskilda domare i ungdomsmål talar å andra sidan
+              enligt utskottets mening huvudsakligen två skäl, dels att alla
+              domare i princip bör anses vara lika väl skickade att handlägga
+              alla slags mål, dels att vissa organisatoriska problem kan uppstå
+              med en sådan ordning.
+            </p>
+            <p>
+              I fråga om ungdomsmålen gör sig också enligt utskottets mening
+              särskilt behovet av god förmåga att kommunicera med ungdomar sig
+              starkt gällande, och även övriga nyss anförda skäl har bärighet.
+              Det handlar här, anser utskottet, dels om sådana färdigheter som
+              intresse och fallenhet för uppgiften som kan uppövas, dels om
+              kunskaper på det sociala området som bör inhämtas. Utskottet anser
+              mot den bakgrunden det lämpligt med en viss specialisering i ungdomsmålen.
+              Med det synsätt utskottet här anlägger uppstår inte heller någon
+              konflikt med principen om alla domares allmänna lämplighet för
+              alla typer av mål, och utskottet tillstyrker förslaget. Utskottet
+              utgår från att de organisatoriska svårigheter som kan uppstå beaktas
+              i samband med det av regeringen aviserade förordningsarbetet.
+            </p>
+            <p>
+              Avkunnande av dom
+            </p>
+            <p>
+              Regler om avkunnande av dom i brottmål finns i 30 kap. 7 § rättegångsbalken
+              (RB). Huvudregeln är att dom i målet skall avkunnas omedelbart
+              efter rättegångens avslutande. Enligt bestämmelsen gäller att
+              överläggning skall hållas samma dag som huvudförhandlingen avslutas
+              eller senast nästa arbetsdag, och om det kan ske, dom beslutas
+              och avkunnas. Om det befinns oundgängligen nödvändigt, får rätten
+              besluta anstånd för att besluta eller skriva domen. Domen skall
+              i sådant fall meddelas inom två veckor, efter att förhandlingen
+              avslutats. Om den tilltalade är häktad skall domen meddelas inom
+              en vecka från förhandlingens avslutande. Detsamma gäller om den
+              tilltalade inte fyllt arton år och är åtalad för ett brott för
+              vilket är föreskrivet fängelse i mer än ett år. Dessa tidsfrister
+              får överskridas endast om det finns synnerliga skäl. Om domen
+              inte avkunnas vid huvudförhandlingen skall den avkunnas vid annat
+              rättens sammanträde eller meddelas genom att hållas tillgänglig
+              på rättens kansli, s.k. kanslidom.
+            </p>
+            <p>
+              Det krävs således enligt ordlydelsen i den berörda bestämmelsen
+              starka skäl för att underlåta att avkunna dom i anslutning till
+              huvudförhandlingen. Enligt propositionen har emellertid praxis
+              i domstolarna utvecklats därhän att bestämmelsen tillämpas mindre
+              strikt.
+            </p>
+            <p>
+              Enligt propositionen är det för ungdomsmålen önskvärt att åstadkomma
+              en stramare ordning än den som nu tillämpas. Det föreslås därför
+              att det i LUL införs en bestämmelse (30 §) i fråga om avkunnande
+              av domar mot ungdomar. Bestämmelsen tar närmast sikte på fall
+              där den unge fälls till ansvar i målet och innebär att i mål mot
+              den som är under tjugoett år domen skall avkunnas muntligen vid
+              huvudförhandlingen eller annat rättens sammanträde, om det inte
+              möter synnerliga hinder. Bestämmelsen hänvisar i övrigt till den
+              ovan berörda regeln i 30 kap. 7 § RB.
+            </p>
+            <p>
+              Enligt författningskommentaren i propositionen till den föreslagna
+              bestämmelsen (s. 104 f) krävs det mycket starka skäl för att underlåta
+              att avkunna domen muntligen. Som exempel nämns att det är fråga
+              om ett mycket stort mål med många tilltalade och ett stort antal
+              särskilda yrkanden.
+            </p>
+            <p>
+              I skrivelsen från landets hovrättspresidenter kritiseras den
+              föreslagna bestämmelsen. Det begärs att det ytterligare skall
+              övervägas om den föreslagna bestämmelsen skall gälla för hovrätternas
+              del.
+            </p>
+            <p>
+              Utskottet delar uppfattningen i propositionen att det i mål mot
+              unga är särskilt viktigt att domen, om den innebär att den unge
+              fälls till ansvar, avkunnas efter huvudförhandlingen när denne
+              är närvarande. Domen kan, som anförs i propositionen, förväntas
+              göra ett starkare intryck på den unge om han får ta del av den
+              muntligt och medan han har rättegången i färskt minne. Rättens
+              ordförande har då också möjlighet att närmare förklara domens
+              innebörd för den unge och även att framhålla betydelsen av att
+              den unge iakttar vad som kan vara föreskrivet i domen.
+            </p>
+            <p>
+              Utskottet vill dock när det gäller möjligheterna att underlåta
+              att avkunna domen muntligen understryka att vad som anförts därom
+              i författningskommentaren inte kan anses utgöra en uttömmande
+              uppräkning på situationer när detta kan inträffa. Givetvis kan
+              även andra omständigheter än omfattningen av ett mål ha betydelse
+              vid den bedömningen. Utskottet vill särskilt framhålla att komplicerade
+              rättsfrågor aktualiseras i mål av vitt skilda omfång. Utskottet
+              har som framgått förståelse för de pedagogiska synpunkter som
+              ligger bakom förslaget i propositionen. Utskottet måste dock konstatera
+              att pedagogiken inte kan tillåtas sättas före rättssäkerheten.
+              Vad utskottet nu anfört hindrar dock inte att utgångspunkten skall
+              vara en mycket restriktiv tolkning när det gäller möjligheten
+              till undantag från huvudregeln om muntligt avkunnande av domar
+              i ungdomsmål.
+            </p>
+            <p>
+              För ytterligare överväganden vill utskottet ta upp frågan om
+              vad som skall gälla för det fall rätten vid överläggningen i ett
+              ungdomsmål finner att synnerliga hinder möter mot att avkunna
+              domen muntligen vid huvudförhandlingen och att det alltså behövs
+              anstånd med domens avkunnande. Här synes motstridigheter föreligga
+              mellan den föreslagna bestämmelsen och allmänmotiveringen i propositionen.
+            </p>
+            <p>
+              Enligt den föreslagna bestämmelsens ordalydelse skall domen i
+              sådant fall avkunnas muntligen vid annat sammanträde som rätten
+              håller om inte synnerliga hinder möter. Av allmänmotiveringen
+              (prop. s. 91) framgår emellertid att regeringen har uppfattningen
+              att det inte är praktiskt att mera regelmässigt hålla särskilda
+              sammanträden för avkunnande av dom mot unga lagöverträdare. Utskottet
+              delar denna uppfattning och anser således att rätten i en sådan
+              situation, enligt bestämmelsen i 30 kap. 7 § RB, bör kunna välja
+              mellan att avkunna domen muntligen vid ett särskilt sammanträde
+              eller meddela s.k. kanslidom. Frågan är då om den föreslagna bestämmelsen
+              kan anses ge uttryck för en sådan uppfattning. Utskottet anser
+              att så inte är fallet och förordar en ändring av ordalydelsen
+              i den föreslagna bestämmelsen (30 § LUL) i enlighet med vad som
+              framgår av utskottets hemställan nedan. Härigenom hålls möjligheten
+              öppen att avkunna dom vid särskilt sammanträde när det bedöms
+              lämpligt.
+            </p>
+            <p>
+              I övrigt har utskottet inte något att anföra i anledning av propositionen
+              eller motionerna.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bhemst">
+              Hemställan
+            </head>
+            <p>
+              Utskottet hemställer
+            </p>
+            <p>
+              1. beträffande avslag på propositionen att riksdagen avslår motion
+              1994/95:Ju2 yrkandena 1 och 2, res. 1 (v)
+            </p>
+            <p>
+              2. beträffande avsnitt 4 i propositionen att riksdagen med anledning
+              av dels propositionen i denna del, dels motionerna 1994/95:Ju1
+              och 1994/95:Ju2 yrkande 3 som sin mening ger regeringen till känna
+              vad utskottet anfört om en reform av påföljdssystemet för unga
+              lagöverträdare, res. 2 (m, c, fp, kds)
+            </p>
+            <p>
+              3. beträffande särskilda ungdomsdomare att riksdagen antar det
+              i propositionen framlagda förslaget till lag om ändring i lagen
+              (1964:167) med särskilda bestämmelser om unga lagöverträdare såvitt
+              avser 25 §, res. 3 (v, kds)
+            </p>
+            <p>
+              4. beträffande avkunnande av dom att riksdagen antar det i moment
+              3 nämnda lagförslaget såvitt avser 30 § dock med den ändringen
+              att orden "eller vid annat sammanträde som rätten håller" utgår,
+            </p>
+            <p>
+              5. beträffande lagförslagen i övrigt att riksdagen dels antar
+              det i moment 3 nämnda lagförslaget såvitt det inte omfattas av
+              utskottets hemställan ovan, dels antar regeringens förslag till
+              lag om ändring i lagen (1976:371) om behandlingen av häktade och
+              anhållna m.fl.
+            </p>
+            <p>
+              Stockholm den 15 november 1994
+            </p>
+            <p>
+              På justitieutskottets vägnar
+            </p>
+            <p>
+              Gun Hellsvik
+            </p>
+            <p>
+              I beslutet har deltagit: Gun Hellsvik (m), Göran Magnusson (s),
+              Sigrid Bolkéus (s), Märta Johansson (s), Görel Thurdin (c), Margareta
+              Sandgren (s), Anders G Högmark (m), Siw Persson (fp), Ann-Marie
+              Fagerström (s), Alice Åström (v), Pär Nuder (s), Lars Björkman
+              (m), Kia Andreasson (mp), Rolf Åbjörnsson (kds), Helena Frisk
+              (s), Jeppe Johnsson (m) och Widar Andersson (s).
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bres">
+              Reservationer
+            </head>
+            <p>
+              1. Avslag på propositionen (mom. 1)
+            </p>
+            <p>
+              Alice Åström (v) anser
+            </p>
+            <p>
+              dels att den del av utskottets yttrande på s. 4 som börjar med
+              "Utskottet har" och slutar med "det följande" bort ha följande
+              lydelse:
+            </p>
+            <p>
+              Utskottet motsätter sig i likhet med motionärerna att de föreslagna
+              lagändringarna antas av riksdagen. Utskottets inställning motiveras
+              bl.a. av de negativa konsekvenser som kan bli följden av lagförslagen.
+              Särskilt vill utskottet peka på att möjligheterna för de sociala
+              myndigheterna att förbereda åtgärder enligt den sociala vårdlagstiftningen
+              väsentligt skulle minska genom den förkortade handläggningstid
+              i ungdomsmål som förslagen syftar till. Detta kan utskottet inte
+              ställa sig bakom. Utskottet har nämligen alltjämt uppfattningen
+              att de unga lagöverträdarna i största möjliga utsträckning bör
+              hållas utanför kriminalvården. I stället bör de tas om hand av
+              de sociala myndigheterna. Utskottet kan sålunda inte tillstyrka
+              bifall till propositionen.
+            </p>
+            <p>
+              Ungdomsbrottsligheten är ett komplext problem. Här behövs inte
+              nya processuella regler, utan för att komma till rätta med detta
+              problem behövs bl.a. ökade möjligheter till individuella åtgärder
+              och forskning på området. Detta bör regeringen beakta i det fortsatta
+              beredningsarbetet. Vad utskottet nu med anledning av motion Ju2
+              anfört bör riksdagen som sin mening ge regeringen till känna.
+            </p>
+            <p>
+              dels att utskottets hemställan under moment 1 bort ha följande
+              lydelse:
+            </p>
+            <p>
+              1. beträffande avslag på propositionen att riksdagen med anledning
+              av motion 1994/95:Ju2 yrkandena 1 och 2 dels avslår proposition
+              1994/95:12, dels som sin mening ger regeringen till känna vad
+              utskottet anfört om åtgärder mot ungdomsbrottsligheten,
+            </p>
+            <p>
+              2. Avsnitt 4 i propositionen (mom. 2)
+            </p>
+            <p>
+              Gun Hellsvik (m), Görel Thurdin (c), Anders G Högmark (m), Siw
+              Persson (fp), Lars Björkman (m), Rolf Åbjörnsson (kds) och Jeppe
+              Johnsson (m) anser
+            </p>
+            <p>
+              dels att den del av utskottets yttrande på s. 6 som börjar med
+              "Utskottet känner" och slutar med "till känna" bort ha följande
+              lydelse:
+            </p>
+            <p>
+              Som anförs i propositionen bygger påföljdssystemet i brottsbalken
+              på att straffvärdet hos ett brott eller hos den samlade brottsligheten
+              skall utgöra grunden för bestämmandet av påföljd. Detta innebär
+              att en handling bestraffas därför att den är straffvärd och att
+              ju högre straffvärdet är desto allvarligare blir ingripandet enligt
+              principen om proportionalitet. Dessa grundläggande principer gäller
+              dock inte oinskränkt vid brott av ungdomar. Här finns, som utskottet
+              redovisat ovan, en särreglering som kommer till särskilt uttryck
+              genom påföljden överlämnande till vård inom socialtjänsten. I
+              detta fall är det socialnämnden som beslutar vilka åtgärder som
+              skall vidtas sedan överlämnandet väl ägt rum. Domstolen, som fastställer
+              det straffrättsliga ansvaret, saknar i dessa fall i princip inflytande
+              över innehållet i den utdömda påföljden.
+            </p>
+            <p>
+              Denna särreglering har fortfarande viss tyngd. Å andra sidan
+              är det också för ungdomar viktigt att påföljdssystemet är klart,
+              enkelt och överskådligt. Inte minst för unga personer är det av
+              största betydelse att sambandet mellan brottet och påföljden framgår.
+              Om den verkliga grunden för det straffrättsliga ingripandet inte
+              tydligt anges, kan den unge få den felaktiga uppfattningen att
+              brottet egentligen saknar betydelse för ingripandet mot honom.
+              Det finns också en påtaglig risk för att den unge berövas ansvaret
+              för sina handlingar, och det gagnar inte hans fortsatta utveckling
+              mot ett ordnat liv. I motsats till motionärerna är det således
+              utskottets uppfattning att de principer som ligger till grund
+              för påföljdsbestämningen för vuxna i ökad utsträckning bör vara
+              vägledande även vid utformandet av påföljder för unga. Straffrättskipningen
+              också mot unga personer bör präglas av förutsebarhet, enhetlighet
+              och proportionalitet. Samtidigt kan inte nog understrykas vikten
+              av att påföljdssystemet vilar på humanitär grund. Alla möjligheter
+              till hjälpande, stödjande och rehabiliterande åtgärder måste tas
+              till vara, inte bara inom ramen för socialtjänstens verksamhet
+              utan även under verkställigheten av påföljd för vilken kriminalvården
+              ansvarar.
+            </p>
+            <p>
+              I likhet med vad som framförs i propositionen anser utskottet
+              således att det fortsatta beredningsarbetet när det gäller påföljdssystemet
+              för ungdomar bör ske efter de utgångspunkter som framförs i propositionen.
+              Sammanfattningsvis går detta ut på att det finns starka skäl som
+              talar för att påföljden överlämnande till vård inom socialtjänsten
+              i sin nuvarande form bör tas bort. Detta innebär att även unga
+              personer skall ådömas en påföljd för brottet av domstol i huvudsak
+              inom ramen för det vanliga påföljdssystemet. Socialtjänstens ansvar
+              för den unge i enlighet med socialtjänstlagen och LVU skall dock
+              bestå enligt utskottets uppfattning. Förslag och tankar om hur
+              de vanliga påföljderna kan förändras och förbättras för att passa
+              de unga bättre redovisas i propositionen. Utskottet anser att
+              det fortsatta beredningsarbetet när det gäller påföljdssystemet
+              för unga bör bedrivas efter de utgångspunkter som redovisas i
+              propositionens avsnitt fyra. Vad utskottet anfört bör riksdagen
+              som sin mening ge regeringen till känna.
+            </p>
+            <p>
+              Det anförda leder till att utskottet avstyrker bifall till nu
+              berörda yrkanden i motionerna Ju1 och Ju2.
+            </p>
+            <p>
+              dels att utskottets hemställan under moment 2 bort ha följande
+              lydelse:
+            </p>
+            <p>
+              2. beträffande avsnitt 4 i propositionen att riksdagen med anledning
+              av propositionen och med avslag på motionerna 1994/95:Ju1 och
+              1994/95:Ju2 yrkande 3 som sin mening ger regeringen till känna
+              vad utskottet anfört om en reform av påföljdssystemet för unga
+              lagöverträdare,
+            </p>
+            <p>
+              3. Särskilda ungdomsdomare (mom. 3)
+            </p>
+            <p>
+              Alice Åström (v) och Rolf Åbjörnsson (kds) anser
+            </p>
+            <p>
+              dels att den del av utskottets yttrande på s. 7 som börjar med
+              "Utskottet vill" och på s. 8 slutar med "aviserade förordningsarbetet"
+              bort ha följande lydelse:
+            </p>
+            <p>
+              Enligt utskottets mening är det en grundläggande princip att
+              alla domare bör anses lika väl skickade att handlägga alla slags
+              mål. Regeringsförslaget bryter mot den principen, något som utskottet
+              inte kan godta. Härtill kommer de betydande problem av praktisk
+              natur som den föreslagna bestämmelsen kan föra med sig för domstolarna.
+              För de minsta tingsrätterna skulle bestämmelsen bli svår att tillämpa,
+              och för de minsta hovrätterna skulle det med säkerhet vålla stora
+              svårigheter att låta de för ungdomsmålen särskilt utsedda domarna
+              delta i handläggningen av alla i hovrätten förekommande mål mot
+              ungdomar. Därtill kommer andra problem av organisatoriskt slag
+              vid de större hovrätterna, t.ex. när det gäller att hålla huvudförhandlingar
+              utanför kansliorten i olika delar av domstolens upptagningsområde.
+            </p>
+            <p>
+              Det sagda leder utskottet till att avstyrka förslaget i propositionen
+              i denna del.
+            </p>
+            <p>
+              Nuvarande bestämmelse om rättens sammansättning i ungdomsmål
+              finns i 10 § LUL och uppställer en särskild kvalifikation endast
+              beträffande nämndemän i tingsrätt. Bestämmelsen innebär att i
+              mål mot den som inte har fyllt tjugoett bör företrädesvis anlitas
+              nämndemän med insikt och erfarenhet beträffande vård och fostran
+              av ungdom, om det finns anledning att döma till annan påföljd
+              än böter. Utskottets ställningstagande innebär att den bestämmelsen
+              kvarstår, dock som 25 § LUL.
+            </p>
+            <p>
+              dels att utskottets hemställan under moment 3 bort ha följande
+              lydelse:
+            </p>
+            <p>
+              3. beträffande särskilda ungdomsdomare att riksdagen dels avslår
+              det i propositionen framlagda förslaget till lag om ändring i
+              lagen (1964:167) med särskilda bestämmelser om unga lagöverträdare
+              såvitt avser 25 §, dels beslutar att nuvarande 10 § i nämnda lag
+              skall betecknas 25 §,
+            </p>
+            <p>
+              Regeringens förslag till lagtext
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <p xml:id="bbil">
+              Bilaga
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="binh">
+              Innehållsförteckning
+            </head>
+            <p>
+              Sammanfattning 1 Propositionen 1 Motionerna 2 Utskottet 2 Inledning
+              2 Gällande ordning 3 Propositionens huvudsakliga innehåll 3 Utskottets
+              överväganden 4 Avslag på propositionen 4 Reform av påföljdssystemet
+              för unga lagöverträdare 4 Bakgrund 4 Propositionen 5 Motionerna
+              6 Utskottets överväganden 6 Förfarandet i domstol 7 Domstolarnas
+              organisation och sammansättning i ungdomsmål 7 Avkunnande av dom
+              8 Hemställan 9 Reservationer 10 1. Avslag på propositionen 10
+              2. Avsnitt 4 i propositionen 11 3. Särskilda ungdomsdomare 12
+              Bilaga Regeringens förslag till lagtext 14
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

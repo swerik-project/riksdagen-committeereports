@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_199394_JuU_0028">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="rdbeslut" n="Riksdagens beslut">Bifall till utskottets hemställan</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GH09107</idno>
+              <title>1994-05-19</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">107</biblScope>
+              <note type="display-reference">1994-05-19</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GH09106</idno>
+              <title>1994-05-18</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">106</biblScope>
+              <note type="display-reference">1994-05-18</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GH03184</idno>
+              <title>Försöksverksamhet med intensivövervakning med elektronisk kontroll</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">184</biblScope>
+              <note type="display-reference">proposition 1993/94:184 Försöksverksamhet med intensivövervakning med elektronisk kontroll</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GH02Ju32</idno>
+              <title>med anledning av prop. 1993/94:184 Försöksverksamhet med intensivövervakning med elektronisk kontroll</title>
+              <title type="sub">av Lars-Erik Lövdén m.fl. (s)</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">Ju32</biblScope>
+              <note type="display-reference">motion 1993/94:Ju32 med anledning av prop. 1993/94:184 Försöksverksamhet med intensivövervakning med elektronisk kontroll</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GH02Ju33</idno>
+              <title>med anledning av prop. 1993/94:184 Försöksverksamhet med intensivövervakning med elektronisk kontroll</title>
+              <title type="sub">av Berith Eriksson (v)</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">Ju33</biblScope>
+              <note type="display-reference">motion 1993/94:Ju33 med anledning av prop. 1993/94:184 Försöksverksamhet med intensivövervakning med elektronisk kontroll</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="AVG" subtype="beredning" n="5" when="1994-05-19">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="beredning" n="3" when="1994-05-18">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="beredning" n="1" when="1994-05-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="1994-05-03">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="1994-04-19">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Justitieutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            1993/94:JUU28
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Elektronisk övervakning
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <div type="section" subtype="h2">
+            <head>
+              Innehåll
+            </head>
+            <list type="unordered">
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bsam">
+                    Sammanfattning
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bprop">
+                    Propositionen
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bmot">
+                    Motionerna
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#btext">
+                    Utskottet
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bhemst">
+                    Hemställan
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bres">
+                    Reservation
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bbil">
+                    Bilaga 1
+                  </ref>
+                </p>
+              </item>
+            </list>
+            <p>
+              1993/94 JuU28
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bsam">
+              Sammanfattning
+            </head>
+            <p>
+              I detta betänkande behandlar utskottet ett lagförslag rörande
+              försöksverksamhet med intensivövervakning med elektronisk kontroll.
+              Utskottet tillstyrker regeringens förslag med den ändringen att
+              lagen föreslås träda i kraft den 1 augusti 1994.
+            </p>
+            <p>
+              Utskottet avstyrker bifall till två motioner som väckts med anledning
+              av propositionen.
+            </p>
+            <p>
+              Till betänkandet har fogats en reservation från (s).
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bprop">
+              Propositionen
+            </head>
+            <p>
+              I proposition 1993/94:184 (Justitiedepartementet) har regeringen
+              föreslagit att riksdagen antar det i propositionen framlagda förslaget
+              till lag om försöksverksamhet med intensivövervakning med elektronisk
+              kontroll.
+            </p>
+            <p>
+              Lagförslaget, som har granskats av Lagrådet, har fogats till
+              betänkandet, se bilaga 1.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bmot">
+              Motionerna
+            </head>
+            <p>
+              1993/94:Ju32 av Lars-Erik Lövdén m.fl. (s) vari yrkas
+            </p>
+            <p>
+              1. att riksdagen som sin mening ger regeringen till känna vad
+              i motionen anförts om intensivövervakning och andra alternativa
+              påföljder,
+            </p>
+            <p>
+              2. att riksdagen som sin mening ger regeringen till känna vad
+              i motionen anförts om tilläggsdirektiv till Straffsystemkommittén,
+            </p>
+            <p>
+              3. att riksdagen beslutar avslå förslaget om en avgift på 50
+              kr per dag från de dömda som deltar i försöksverksamheten,
+            </p>
+            <p>
+              4. att riksdagen hos regeringen begär nytt förslag till avgift
+              från de dömda i enlighet med vad som anförts i motionen.
+            </p>
+            <p>
+              1993/94:Ju33 av Berith Eriksson (v) vari yrkas
+            </p>
+            <p>
+              1. att riksdagen som sin mening ger regeringen till känna vad
+              i motionen anförts om fängelsestraff och alternativa påföljder,
+            </p>
+            <p>
+              2. att riksdagen beslutar att avslå förslaget om en avgift på
+              50 kr per dag från de dömda som deltar i försöksverksamheten.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="btext">
+              Utskottet
+            </head>
+            <p>
+              Inledning
+            </p>
+            <p>
+              Brottsbalken (BrB) trädde i kraft år 1965. Dess påföljdssystem
+              präglades från början i stor utsträckning av den s.k. behandlingstanken
+              i den utformning som denna gavs av den år 1938 tillsatta Strafflagsberedningen.
+              Kort uttryckt innebär behandlingstanken att den dömdes behov av
+              vård och behandling bör vara centrala faktorer vid straffets bestämmande.
+              Allt efter omständigheterna skall behandlingen ges i anstalt eller
+              i form av kriminalvård i frihet. För varje brottsling bör den
+              påföljd väljas som säkrast leder till att den dömde inte fortsätter
+              att begå brott. I BrB kommer behandlingstanken till uttryck bl.a.
+              på det sättet att där finns olika påföljdsalternativ avsedda för
+              olika typer av brottslingar. -- Behandlingstanken har under senare
+              år minskat i betydelse.
+            </p>
+            <p>
+              Under lång tid har fängelsestraffet som kriminalpolitiskt medel
+              satts under debatt. Det råder numera en allmän enighet om att
+              det är svårt att utforma de straffrättsliga påföljderna så att
+              de inte inverkar negativt på möjligheterna att anpassa den dömde
+              i samhället. Det finns en beaktansvärd risk för skadeverkningar
+              framför allt för dem som döms till långvariga fängelsestraff.
+              Enighet torde råda att fängelsestraff om möjligt skall begränsas.
+              Denna inställning grundas bl.a. på insikten om de skadeverkningar
+              ett fängelsestraff kan ha för den dömde och den negativa inverkan
+              straffet kan få på hans möjligheter att anpassa sig i samhället.
+              En annan faktor att beakta i sammanhanget är att fängelse är en
+              mycket resurskrävande påföljd.
+            </p>
+            <p>
+              Mot denna bakgrund tilldrar sig frågan om alternativ till fängelse
+              stort intresse, och regeringen tillkallade den 15 april 1992 Straffsystemkommittén
+              (dir. 1992:47) för att se över det straffrättsliga påföljdssystemets
+              innehåll och uppbyggnad. Kommittén skall bl.a. överväga möjligheterna
+              att vidareutveckla användningen av olika alternativ till fängelsestraff.
+              I direktiven understryks att inriktningen för arbetet härvidlag
+              bör vara att öka utrymmet för alternativ till fängelse genom att
+              öppna möjligheter till andra icke frihetsberövande påföljder än
+              de som nu finns och att ytterligare utveckla redan tillgängliga
+              påföljder. Kommittén skall därvid bl.a. pröva om det är möjligt
+              att införa någon form av intensivövervakning och, om den finner
+              sådan övervakning lämplig, lägga fram förslag till lagstiftning.
+            </p>
+            <p>
+              Kommitténs arbete skall vara slutfört under hösten 1995.
+            </p>
+            <p>
+              Utskottet har vid en utfrågning med representanter för Kriminalvårdsverket,
+              Justitiedepartementet och Brottsförebyggande rådet informerat
+              sig i frågor angående försöksverksamheten med intensivövervakning
+              med elektronisk kontroll.
+            </p>
+            <p>
+              Propositionens huvudsakliga innehåll
+            </p>
+            <p>
+              Utgångspunkten för de överväganden och förslag som redovisas
+              i propositionen är att det är angeläget att finna alternativ till
+              fängelse och att den elektroniska övervakningsteknik som numera
+              finns är av stort intresse i det sammanhanget. Mot den bakgrunden
+              föreslås i propositionen en försöksverksamhet med intensivövervakning
+              med elektronisk kontroll. Försöksverksamheten syftar till att
+              bl.a. ge underlag för Straffsystemkommitténs överväganden i fråga
+              om huruvida intensivövervakning med elektronisk kontroll bör införas
+              i Sverige. Försöksverksamheten bör vidare kunna ge kunskap om
+              hur elektronisk övervakningsteknik fungerar under svenska förhållanden
+              och om hur kriminalvårdens arbetsformer i en verksamhet av detta
+              slag bör utformas.
+            </p>
+            <p>
+              Enligt lagförslaget i propositionen skall fängelsestraff på högst
+              två månader i vissa fall kunna verkställas utanför anstalt i form
+              av intensivövervakning med elektronisk kontroll. En förutsättning
+              för sådan verkställighet skall vara att den dömde är bosatt inom
+              något av verksamhetsområdena för frivårdsmyndigheterna i Karlskoga,
+              Luleå, Malmö Norra, Malmö Södra, Norrköping eller Sundsvall. Försöksverksamheten
+              kommer att bedrivas under ledning av frivårdsmyndigheterna.
+            </p>
+            <p>
+              Ett av motiven bakom försöksverksamheten är att finna en form
+              för den straffrättsliga reaktionen som är i princip lika ingripande
+              som verkställighet i anstalt men som inte är förknippad med de
+              risker för negativa effekter avseende den enskildes utveckling
+              som ett fängelsestraff kan medföra.
+            </p>
+            <p>
+              Enligt lagförslaget kommer den dömde att vara förbjuden att lämna
+              sin bostad annat än för vissa av frivårdsmyndigheten bestämda
+              ändamål och på särskilt angivna tider. Sådana ändamål kan vara
+              arbete, studier, behandling, deltagande i kriminalvårdens programverksamhet
+              eller kontakter med frivårdsmyndigheten. Efterlevnaden av förbudet
+              kommer under hela verkställighetstiden att kontrolleras med elektroniska
+              hjälpmedel. Denna kontroll får avse också att den dömde fullständigt
+              avhåller sig från alkohol. Om det är motiverat med hänsyn till
+              den dömdes möjligheter att erhålla inkomst under verkställigheten
+              utanför anstalt skall han betala en avgift på femtio kronor per
+              dag som verkställigheten skall pågå. Vid misskötsamhet tas den
+              dömde in på kriminalvårdsanstalt för att där undergå fortsatt
+              verkställighet av straffet.
+            </p>
+            <p>
+              Försöksverksamheten föreslås pågå i två år. Avsikten är att den
+              skall påbörjas sommaren 1994.
+            </p>
+            <p>
+              Överväganden
+            </p>
+            <p>
+              Alternativa påföljder
+            </p>
+            <p>
+              Utskottet, som i många olika sammanhang tidigare uttalat sig
+              om vikten av att olika former av alternativ till fängelsestraff
+              utvecklas, vill redan här slå fast att utskottet ser positivt
+              på att en försöksverksamhet med intensivövervakning med elektronisk
+              kontroll nu inleds. Utskottet konstaterar i detta sammanhang att
+              intensivövervakningen som ett centralt inslag också skall innehålla
+              täta personliga kontakter mellan den dömde och representanter
+              för kriminalvården.
+            </p>
+            <p>
+              I motionerna Ju32 (s) och Ju33 (v) yrkas att alternativa påföljder
+              utvecklas med särskild inriktning på alternativ till fängelse,
+              bl.a. olika former med en mer personlig övervakning. I motion
+              Ju32 yrkas också att Straffsystemkommittén ges tilläggsdirektiv
+              med denna inriktning.
+            </p>
+            <p>
+              Utskottet behandlade liknande frågor så sent som under mars månad
+              i år i samband med behandlingen av anslag till kriminalvården
+              (prop. 1993/94:100 bil. 3, JuU17 s. 12 f, rskr. 212). Utskottet
+              avstyrkte de då aktuella motionerna med hänvisning till att bl.a.
+              Straffsystemkommitténs arbete och beredningen av detta borde avvaktas.
+            </p>
+            <p>
+              Det som yrkas ingår i Straffsystemkommitténs uppdrag. Tilläggsdirektiv
+              till kommittén får anses obehövliga. Utskottet, som vidhåller
+              sin nyss redovisade inställning, avstyrker bifall till motionerna
+              Ju32 och Ju33 i nu behandlade delar.
+            </p>
+            <p>
+              Avgift från den dömde
+            </p>
+            <p>
+              En konsekvens av regeringsförslaget är att dömda som deltar i
+              försöksverksamheten kommer att kunna avtjäna fängelsestraff utan
+              att det i princip påverkar deras möjligheter att erhålla inkomst.
+              En anställd kan under den tid straffverkställigheten pågår fortsätta
+              att arbeta och få sin lön som vanligt till skillnad från vad som
+              gäller för den som i vanlig ordning måste avtjäna straffet i anstalt.
+            </p>
+            <p>
+              I propositionen anförs att det framstår som orättvist att den
+              som deltar i försöksverksamheten skulle kunna få stora ekonomiska
+              fördelar jämfört med den som på vanligt sätt avtjänar straffet
+              i anstalt och alltså inte kan behålla sin vanliga inkomst. Mot
+              den bakgrunden föreslår regeringen att den som deltar i försöksverksamheten
+              i princip skall betala en avgift.
+            </p>
+            <p>
+              Utgångspunkten för avgiftens storlek bör enligt propositionen
+              vara en jämförelse mellan de inkomstmöjligheter dömda har under
+              verkställigheten utanför anstalt och de inkomstmöjligheter som
+              föreligger vid verkställighet i anstalt. En del av detta ekonomiska
+              utrymme bör enligt förslaget tas i anspråk för en avgift. Avgiften
+              föreslås bli 50 kr per dag som verkställigheten skall pågå, och
+              den skall betalas i förskott.
+            </p>
+            <p>
+              Den dömde skall enligt förslaget vara skyldig att betala avgiften
+              bara om det är motiverat med hänsyn till hans möjligheter att
+              erhålla inkomst. I de fall det föreligger tveksamhet rörande den
+              dömdes ekonomiska förutsättningar att betala avgiften skall avgift
+              inte tas ut. I propositionen understryks att ingen skall tvingas
+              att avstå från att delta i försöksverksamheten av ekonomiska skäl.
+            </p>
+            <p>
+              Avsikten är att de avgifter som flyter in skall tillföras brottsofferfonden
+              (prop. 1993/94:143, JuU25).
+            </p>
+            <p>
+              I motionerna Ju32 (v) och Ju33 (s) yrkas avslag på regeringsförslaget
+              i denna del. I motion Ju32 begärs ett nytt förslag till avgift
+              där utgångspunkten skall vara att den dömde åläggs att betala
+              en låg fast månadsavgift.
+            </p>
+            <p>
+              Utskottet delar regeringens bedömningar och anser att förslaget
+              i denna del är väl ägnat att ligga till grund för försöksverksamheten.
+              Utskottet avstyrker bifall till motionerna Ju32 och Ju33 i nu
+              behandlade delar.
+            </p>
+            <p>
+              Övrigt
+            </p>
+            <p>
+              Enligt utskottets mening bör dagen för ikraftträdande av lagen
+              om försöksverksamheten vara bestämd. Utskottet föreslår att lagen
+              skall träda i kraft den 1 augusti 1994.
+            </p>
+            <p>
+              I övrigt har utskottet ingenting att anföra med anledning av
+              propositionen och motionerna.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bhemst">
+              Hemställan
+            </head>
+            <p>
+              Utskottet hemställer
+            </p>
+            <p>
+              1. beträffande alternativa påföljder m.m. att riksdagen avslår
+              motionerna 1993/94:Ju32 yrkandena 1 och 2 samt 1993/94:Ju33 yrkande
+              1,
+            </p>
+            <p>
+              2. beträffande avgift från den dömde att riksdagen med avslag
+              på motionerna 1993/94:Ju32 yrkandena 3 och 4 samt 1993/94:Ju33
+              yrkande 2 antar det i propositionen framlagda förslaget till lag
+              om försöksverksamhet med intensivövervakning med elektronisk kontroll
+              såvitt avser 5 § och 8 § första stycket femte punkten, res. (s)
+            </p>
+            <p>
+              3. beträffande förslaget till lag om försöksverksamhet med intensivövervakning
+              med elektronisk kontroll i övrigt att riksdagen antar det i moment
+              2 nämnda lagförslaget i de delar som inte omfattas av utskottets
+              hemställan i det föregående, dock med ändring dels att ikraftträdandet
+              bestäms till den 1 augusti 1994, dels att ikraftträdandebestämmelserna
+              ges i bilaga 2 som Utskottets förslag betecknade lydelse.
+            </p>
+            <p>
+              Stockholm den 3 maj 1994
+            </p>
+            <p>
+              På justitieutskottets vägnar
+            </p>
+            <p>
+              Britta Bjelle
+            </p>
+            <p>
+              I beslutet har deltagit: Britta Bjelle (fp), Lars-Erik Lövdén
+              (s), Jerry Martinger (m), Göthe Knutson (m), Bengt-Ola Ryttar
+              (s), Birthe Sörestedt (s), Ingbritt Irhammar (c), Nils Nordh (s),
+              Göran Magnusson (s), Karl Gustaf Sjödin (nyd), Sigrid Bolkéus
+              (s), Siw Persson (fp), Alf Eriksson (s), Christel Anderberg (m)
+              och Kjell Eldensjö (kds).
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bres">
+              Reservation
+            </head>
+            <p>
+              Avgift från den dömde (mom. 2)
+            </p>
+            <p>
+              Lars-Erik Lövdén, Bengt-Ola Ryttar, Birthe Sörestedt, Nils Nordh,
+              Göran Magnusson, Sigrid Bolkéus och Alf Eriksson (alla s) anser
+            </p>
+            <p>
+              dels att den del av utskottets yttrande på s. 5 som börjar med
+              "Utskottet delar" och slutar med "behandlade delar" bort ha följande
+              lydelse:
+            </p>
+            <p>
+              Utskottet delar regeringens uppfattning att den dömde skall betala
+              en avgift. Det är också rimligt att de som deltar i försöksverksamheten,
+              i likhet med vad som gäller för dem som undergår verkställighet
+              i anstalt, får bidra till finansieringen av brottsofferfonden.
+              Enligt utskottets uppfattning bör reglerna om avgift för den som
+              deltar i försöksverksamheten samordnas med vad som gäller beträffande
+              bidrag till brottsofferfonden från den som avtjänar straffet i
+              anstalt. Utskottet anser att avgiften bör bestämmas till 100--200
+              kr i månaden. Regeringen bör ges i uppdrag att snarast återkomma
+              till riksdagen med ett nytt förslag till avgift i enlighet med
+              vad utskottet nu anfört.
+            </p>
+            <p>
+              Utskottet är sålunda kritiskt mot regeringens förslag om avgiftens
+              storlek, och utskottet är i linje med vad som framförts i motion
+              Ju32 inte berett att tillstyrka regeringens förslag i denna del.
+              Det anförda innebär vidare att utskottet avstyrker bifall till
+              motion Ju33 i nu behandlad del.
+            </p>
+            <p>
+              dels att utskottets hemställan under moment 2 bort ha följande
+              lydelse:
+            </p>
+            <p>
+              2. beträffande avgift från den dömde att riksdagen med anledning
+              av motion 1993/94:Ju32 yrkandena 3 och 4 samt med avslag på motion
+              1993/94:Ju33 yrkande 2 dels avslår det i propositionen framlagda
+              förslaget till lag om försöksverksamhet med intensivövervakning
+              med elektronisk kontroll såvitt avser 5 § och 8 § första stycket
+              femte punkten dels beslutar att 6--20 §§ skall betecknas 5--19
+              §§, dels som sin mening ger regeringen till känna vad utskottet
+              anfört.
+            </p>
+            <p>
+              Propositionens lagförslag
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bbil">
+              Bilaga 1
+            </head>
+            <p>
+              Utskottets förslag Bilaga 2
+            </p>
+            <p>
+              Regeringens förslag Utskottets förslag
+            </p>
+            <p>
+              1. Denna lag träder i kraft 1. Denna lag träder i kraft den dag
+              regeringen den 1 augusti 1994 och bestämmer och upphör att upphör
+              att gälla den 31 gälla två år juli 1996. Lagen skall dock därefter.
+              Lagen skall dock även därefter även därefter tillämpas på tillämpas
+              på verkställighet utanför verkställighet utanför anstalt som pågår
+              eller anstalt som pågår eller om vilken beslut föreligger om vilken
+              beslut föreligger när lagen upphör att när lagen upphör att gälla.
+              En ansökan enligt gälla. En ansökan enligt 9 § första stycket
+              som 9 § första stycket som har gjorts innan lagen har gjorts innan
+              lagen upphört att gälla skall upphört att gälla skall prövas enligt
+              lagen. prövas enligt lagen. Beslutas det i sådant fall Beslutas
+              det i sådant fall om verkställighet om verkställighet utanför
+              anstalt skall lagen utanför anstalt skall lagen fortsätta att
+              tillämpas fortsätta att tillämpas på denna verkställighet. på
+              denna verkställighet.
+            </p>
+            <p>
+              2. Lagen tillämpas inte vid 2. Lagen tillämpas inte vid verkställighet
+              av dom på verkställighet av dom på fängelse som är meddelad fängelse
+              som är meddelad tidigare än tre månader före den 1 maj 1994. före
+              ikraftträdandet.
+            </p>
+            <p>
+              3. Träder lagen i kraft 3. Beslut av före den 1 oktober 1994
+              Kriminalvårdsstyrelsen skall överklagande av enligt 9 § som meddelats
+              Kriminalvårdsstyrelsens före den 1 oktober 1994 beslut enligt
+              9 § ske skall överklagas direkt direkt till kammarrätten, till
+              kammarrätten. I om beslutet har meddelats sådant fall krävs inte
+              före nämnda dag. I så prövningstillstånd av fall krävs inte kammarrätten.
+              prövningstillstånd av kammarrätten.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

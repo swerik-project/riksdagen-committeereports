@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200506_KU_0003">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sade nej till motionen som handlar om att göra utredningar på nationell och internationell nivå om speciella förfaranden vid avvisningar till följd av avvisningarna av två egyptiska medborgare till Egypten i december 2001.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Nej till ny Egyptenutredning (KU3)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Avslag på motionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GT0926</idno>
+              <title>2005-11-09</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">26</biblScope>
+              <note type="display-reference">2005-11-09</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GT0926</idno>
+              <title>2005-11-09</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">26</biblScope>
+              <note type="display-reference">2005-11-09</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GS02K461</idno>
+              <title>Internationell och nationell utredning angående förfaranden vid avvisningar</title>
+              <title type="sub">av Alice Åström m.fl. (V, M, FP, KD, C, MP)</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">K461</biblScope>
+              <note type="display-reference">motion 2004/05:K461 Internationell och nationell utredning angående förfaranden vid avvisningar</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2005-11-07">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2005-11-07">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2005-11-01">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2005-11-01">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2005-11-01">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2005-11-01">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2005-10-27">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2005-10-27">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-10-25">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-10-25">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-10-20">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-10-13">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-09-15">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-09-08">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-06-02">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-05-31">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2005-11-09">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2005-11-09">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2005-11-09">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2005-11-09">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2005-11-08">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2005-11-08">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2005-11-07">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2005-11-07">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Konstitutionsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2005/06:KU3
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Fråga om utredning av avvisningsförfarande
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDABBBTG" rend="AvsnittsRubrik">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlas en motion från allmänna motionstiden
+            2004 om utredning på nationell och internationell nivå av frågor
+            som hänger samman med regeringens beslut i december 2001 om avvisning
+            av egyptiska medborgare till Egypten.
+          </p>
+          <p>
+            Utskottet avstyrker motionen med hänvisning till de utredningar
+            som företagits. En reservation (v, mp) har avgivits till förmån
+            för en kompletterande utredning på nationell nivå.
+          </p>
+          <p xml:id="IDAVBBTG" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  En nationell utredning
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2004/05:K461 yrkande 2.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation (v, mp)
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  En internationell utredning
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2004/05:K461 yrkande 1.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 27 oktober 2005
+          </p>
+          <p>
+            På konstitutionsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Göran Lennmarker
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Göran Lennmarker
+            (m), Barbro Hietala Nordlund (s), Tobias Krantz (fp), Pär Axel
+            Sahlberg (s), Inger Jarl Beck (s), Ingvar Svensson (kd), Mats
+            Einarsson (v), Anders Bengtsson (s), Henrik S Järrel (m), Helene
+            Petersson (s), Kerstin Lundgren (c), Billy Gustafsson (s), Karin
+            Åström (s), Gustav Fridolin (mp), Carl-Erik Skårman (m), Liselott
+            Hagberg (fp) och Yoomi Renström (s).
+          </p>
+          <p xml:id="IDAQHBTG" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            Ärendet har väckts genom en motion från allmänna motionstiden
+            2004 med begäran om utredning på nationell och internationell
+            nivå av olika frågor som hänger samman med regeringens beslut
+            i december 2001 att avvisa två egyptiska män och den ene mannens
+            familj till Egypten. Beslutet såvitt avsåg den ene mannens familj
+            har inte verkställts.
+          </p>
+          <p>
+            Konstitutionsutskottet har granskat regeringens handläggning
+            av avvisningsärendena i granskningsbetänkandena 2001/02:KU20 (avsnitt
+            2.12) och 2005/06:KU2 (avsnitt 1).
+          </p>
+          <p>
+            Utskottet har den 15 september 2005 hållit en utfrågning med
+            kabinettssekreterare Hans Dahlgren om regeringens åtgärder för
+            att få till stånd en internationell utredning kring avvisningen
+            samt den 13 oktober 2005 med MR-juristen Anna Wigenmark och generalsekreteraren
+            Robert Hårdh från Svenska Helsingforskommittén angående behovet
+            av och förutsättningarna för de begärda utredningarna.
+          </p>
+          <p xml:id="IDAGIBTG" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAJIBTG" rend="r2">
+            Motionen
+          </p>
+          <p>
+            I motion 2004/05:K461 av Alice Åström m.fl. (v, m, fp, kd, c,
+            mp) begärs tillkännagivanden för regeringen om att den bör verka
+            dels för att en nationell utredning tillsätts om speciella förfaranden
+            vid avvisningar (yrkande 2) , dels för att en internationell utredning
+            tillsätts om detta (yrkande 1)
+            <hi rend="superscript">
+              1
+            </hi>
+            [
+            <seg type="html-hanvisning">
+              Motionsyrkandena har i riksdagstrycket och på riksdagens hemsida
+              återgivits i en felaktig lydelse. I detta betänkandes förteckning
+              över behandlade förslag anges lydelsen enligt arkivoriginalet.
+            </seg>
+            ] .
+          </p>
+          <p>
+            I motionen hänvisas till avvisningen av de två egyptiska medborgarna
+            Ahmed Agiza och Mohammed El Zary samt omständigheterna kring avvisningen
+            och till den kritik som under flera år framförts av svenska och
+            internationella MR-organisationer.
+          </p>
+          <p>
+            Motionärerna påtalar att prövningen i ärenden om avvisning av
+            asylsökande som anses utgöra en nationell säkerhetsrisk (dvs.
+            en risk i Sverige) kan göras av regeringen som enda instans och
+            att den enskilde alltså, om avvisning sker enligt bestämmelsen
+            i 7 kap. 11 § andra stycket 2 utlänningslagen inte kan överklaga
+            beslutet. De anser att en oberoende nationell utredning borde
+            få möjlighet att värdera den information som fanns i de aktuella
+            fallen för att på så sätt se om det fanns tillräckliga skäl att
+            undanta dem från rätten att överklaga ett beslut om avvisning
+            enligt artikel 13 i Europakonventionen. Enligt motionärerna kräver
+            en utredning av detta slag att sekretessen hävs och att enskilda
+            inblandade personer tvingas vittna under sanningsplikt.
+          </p>
+          <p>
+            Motionärerna anför vidare att avvisningen har stor betydelse
+            för tolkningen av Säkerhetsrådets resolutioner 1373 och 1456 som
+            rör bekämpning av terrorism och innehåller krav på att mänskliga
+            rättigheter efterlevs även i kampen mot terrorism. De anser att
+            fallen har blivit symboler för en allt vanligare företeelse: att
+            byta ut det absoluta förbudet mot att avvisa, utvisa eller utlämna
+            personer till länder där de riskerar att utsättas för tortyr eller
+            annan grym, omänsklig eller förnedrande behandling eller bestraffning,
+            mot ett slags "icke-tortyravtal" med den mottagande staten, s.k.
+            diplomatiska försäkringar eller garantier. Vidare anser de fallen
+            vara mycket intressanta eftersom de kopplas samman med vad som
+            kallas "renditions".
+          </p>
+          <p>
+            Enligt motionärerna kommer ingen av de utredningar som skall
+            genomföras i Sverige att ge någon helhetsbild av händelseförloppet.
+            Viktigast anser de vara att Sveriges, Egyptens och USA:s regeringars
+            handlingar och ansvar utreds på ett effektivt och opartiskt sätt,
+            att det fastställs var ansvaret ligger för kränkningarna av männens
+            mänskliga rättigheter i form av övergrepp under asylprocessen,
+            brott mot förbudet att avvisa vid risk för tortyr, incommunicado
+            - fängslande, tortyr och kränkande behandling, brist på "fair
+            trial" och en rad övergrepp under transporten. Sveriges regering
+            bör därför verka för att en opartisk, internationell utredning,
+            helst under ledning av FN:s högkommissarie för mänskliga rättigheter,
+            tillsätts.
+          </p>
+          <p xml:id="IDA5IBTG" rend="r2">
+            Bakgrund
+          </p>
+          <p>
+            Som nämns ovan har utskottet granskat regeringens handläggning
+            av avvisningsärendena, senast i granskningsbetänkandet 2005/06:KU2.
+            Beträffande bakgrunden hänvisas till den redovisning av händelser,
+            rättsregler och utredning som ges i det betänkandet. Där redovisas
+            också en del av de kontakter som den svenska regeringen har haft
+            med FN:s högkommissarie och med företrädare för den egyptiska
+            regeringen i fråga om möjligheterna till en internationell utredning.
+          </p>
+          <p>
+            Kabinettssekreterare Hans Dahlgren har inför utskottet redovisat
+            fortsatta försök från regeringens sida att genom kontakter med
+            den egyptiska regeringen kunna komma fram till en utredning på
+            internationell nivå samt för de bedömningar som gjorts med anledning
+            av högkommissariens svar på begäran om hennes bistånd med en sådan
+            utredning. Kompletterande uppgifter i detta avseende har inhämtats
+            från Regeringskansliet.
+          </p>
+          <p>
+            Företrädare för Helsingforskommittén har inför utskottet pekat
+            på brister i de utredningar som gjorts och i svensk lagstiftning.
+          </p>
+          <p>
+            I granskningsbetänkandet redovisas det beslut som FN:s kommitté
+            mot tortyr meddelade i maj 2005 med anledning av klagomål för
+            Ahmed Agizas del mot Sverige. I beslutet kritiserade kommittén
+            Sverige i olika avseenden. Såvitt avsåg bedömningen om kränkning
+            av artikel 3 i FN:s konvention mot tortyr beaktade kommittén att
+            det vid tidpunkten för avvisningen var känt, eller borde ha varit
+            känt, för de svenska myndigheterna att tortyr mot fångar användes
+            konsekvent och omfattande i Egypten samt att risken för sådan
+            behandling var särskilt stor i fråga om personer som var fängslade
+            av politiska skäl och säkerhetsskäl. Sverige var medvetet såväl
+            om att dess egen säkerhetstjänst betraktade klaganden som inblandad
+            i terroristaktiviteter och ett hot mot rikets säkerhet som om
+            det intresse som förelåg för klaganden hos två andra staters säkerhetstjänster.
+            Kommittén noterade att den ena av dessa stater genom sin säkerhetstjänst
+            erbjöd att transportera klaganden till den andra staten, där han
+            enligt vad som var känt för Sverige hade dömts i sin frånvaro
+            och eftersöktes för påstådd inblandning i terroristaktiviteter.
+            Enligt kommitténs bedömning bekräftades den naturliga slutsatsen
+            av dessa element sammantagna, nämligen att klaganden var i reell
+            risk att utsättas för tortyr vid avvisning till Egypten, när han
+            på svenskt territorium utsattes för behandling i strid med åtminstone
+            artikel 16 i konventionen - andra handlingar som innebär grym,
+            omänsklig eller förnedrande behandling eller bestraffning men
+            som inte kan betecknas som tortyr - av utländska agenter utan
+            ingripande av den svenska polisen. Av detta följde enligt kommittén
+            att Sveriges avvisning av klaganden stod i strid med artikel 3
+            i konventionen, och utverkandet av diplomatiska garantier, som
+            dessutom inte innehöll någon genomförandemekanism, räckte inte
+            för att skydda mot denna uppenbara risk.
+          </p>
+          <p>
+            Mohammed El Zary har i augusti 2005 anfört klagomål mot Sverige
+            med anledning av avvisningen hos FN:s kommitté för mänskliga rättigheter.
+          </p>
+          <p>
+            I utskottets nämnda granskningsbetänkande redovisas att Sverige
+            begärt att en oberoende och grundlig undersökning genomförs av
+            påståendena om tortyr och illabehandling av männen de första veckorna
+            efter deras ankomst till Egypten samt att Sverige har föreslagit
+            att utredningen genomförs i samarbete med, eller av, en oberoende
+            myndighet som samarbetar med juridisk och internationell expertis
+            med erkänd erfarenhet av att undersöka tortyrfall. Begäran har
+            framförts till den egyptiska regeringen genom ett högnivåbesök
+            i maj 2004 som följts upp av ett brev från utrikesminister Laila
+            Freivalds till den ansvarige egyptiske ministern i juni 2004.
+            Ärendet har under hösten 2004 tagits upp även med den egyptiske
+            utrikesministern.
+          </p>
+          <p>
+            Utrikesministern framhöll vid en frågestund i riksdagen i april
+            2005 att Sverige ville ha en oberoende internationell utredning
+            och att hon skulle fortsätta att driva frågan eftersom det var
+            ett svenskt krav att saken blir klarlagd.
+          </p>
+          <p>
+            Av utredningen i granskningsärendet framgår också att diskussioner
+            förekommit om en möjlig internationell utredning under FN:s högkommissarie
+            för mänskliga rättigheter. I en inlaga till FN:s kommitté mot
+            tortyr anges att utrikesminister Laila Freivalds i brev till högkommissarien
+            bett om hennes bistånd i en undersökning av hur männen behandlats
+            efter ankomsten till Egypten som grund för att fastställa hur
+            de diplomatiska försäkringarna från Egypten haft effekt och uppfyllts.
+            Högkommissarien har i ett brev den 26 maj 2005 till utrikesministern,
+            mot bakgrund av bl.a. det beslut som FN:s kommitté mot tortyr
+            fattat med anledning av Agizas klagomål, avböjt att åta sig en
+            undersökning enligt förslaget (
+            <seg rend="grad2">
+              within the terms you proposed
+            </seg>
+            ).
+          </p>
+          <p>
+            Några möjligheter till bistånd av ett annat internationellt organ
+            bedöms inom Regeringskansliet inte föreligga. Enligt vad kabinettssekreterare
+            Hans Dahlgren förklarade inför utskottet fortsätter ansträngningarna
+            att tillsammans med Egypten komma fram till en utredning med internationella
+            inslag.
+          </p>
+          <p xml:id="IDABKBTG" rend="r2">
+            Utskottets ställningstagande
+          </p>
+          <p>
+            I fråga om förfarandet i säkerhetsärenden generellt framgår av
+            redovisningen i granskningsbetänkandet att riksdagen har beslutat
+            om en ny instans- och processordning i utlänningsärenden som skall
+            träda i kraft den 31 mars 2006. Den nya ordningen innefattar bl.a.
+            en prövning i två instanser även i s.k. säkerhetsärenden. Vidare
+            har uppdragits åt en särskild utredare att utreda hur EU:s direktiv
+            om miniminormer för medlemsstaternas förfaranden för att bevilja
+            eller återkalla flyktingstatus skall genomföras i Sverige. I uppdraget
+            ingår att föreslå en särskild ordning för hantering av säkerhetsärenden
+            som uppfyller direktivets krav på ett effektivt rättsmedel och
+            som säkerställer regeringens möjlighet att fullgöra sitt ansvar
+            för rikets säkerhet. Hänsyn skall tas till svenska konventionsåtaganden
+            och internationella förpliktelser i övrigt.
+          </p>
+          <p>
+            I motionen nämns önskemål om hävande av sekretess och om sanningsplikt
+            för uppgiftslämnare. Särskilda bestämmelser av denna art föreskrevs
+            i lag (1999:988) för förhör m.m. hos den kommission för granskning
+            av de svenska säkerhetstjänsternas författningsskyddande verksamhet
+            som tillsattes i mars 1999 och som hade i uppdrag att kartlägga
+            och granska den författningsskyddande verksamhet som de svenska
+            säkerhetstjänsterna bedrivit när det gäller hot som härrör ur
+            inrikes förhållanden. Uppdraget omfattade tiden från det andra
+            världskriget fram till dess kommissionens arbete var slutfört.
+            Den uppgiftsrätt och -skyldighet som föreskrevs motsvarade den
+            som gäller för vittnen i rättegång.
+          </p>
+          <p>
+            I det lagärende (prop. 1998/99:140, bet. 1999/2000:KU4) där bestämmelserna
+            behandlades framhöll regeringen (a.prop. s. 12 f.) att kommissionen
+            inte var en domstol och att den föreslagna lagen alltså inte var
+            oförenlig med förbudet i 2 kap. 11 § första stycket regeringsformen
+            mot inrättande av domstol för redan begången gärning men att det
+            var fråga om att tillskapa ett extraordinärt granskningsorgan
+            som inte hade sin givna plats i det kontroll- och granskningssystem
+            som ytterst regeringsformen annars drog upp och att detta givetvis
+            kunde inge betänkligheter av konstitutionell natur. Det rörde
+            sig här emellertid om ett unikt behov av kartläggning och granskning,
+            och kommissionen skulle komma att bli en unik företeelse. Enligt
+            regeringens mening förelåg det därför knappast någon risk för
+            att kommissionen skulle kunna komma att tjäna som modell för framtida
+            granskningsorgan. Frågan om att inrätta ett kommissionsinstitut
+            var, som konstitutionsutskottet vid flera tillfällen uttalat,
+            av den digniteten att den borde behandlas inom ramen för en översyn
+            av författningen i mer samlad form. Även konstitutionsutskottet
+            betonade (a. bet. s. 13) att kommissionen inte var någon domstol.
+            Utskottet underströk att kommissionen skulle komma att inta en
+            unik ställning och att detta kunde accepteras endast med hänsyn
+            till det starka allmänintresse som förelåg i fråga om kartläggning
+            av säkerhetstjänsternas underrättelseverksamhet samt att kommissionen
+            inte fick bilda mönster för framtiden utan borde ses som en engångsföreteelse.
+          </p>
+          <p>
+            Behovet av insyn i Säkerhetspolisens verksamhet och möjligheten
+            att värdera uppgifter som kommer fram i verksamheten är en återkommande
+            fråga. Mot den bakgrunden tillsattes också den ovan nämnda Säkerhetstjänstkommissionen,
+            som avgav sitt betänkande Rikets säkerhet och den personliga integriteten
+            (SOU 2002:87). - Utskottet ser inte skäl att nu och i detta sammanhang
+            förorda en förnyad översyn av verksamheten.
+          </p>
+          <p>
+            Enligt 12 kap. 1 § regeringsformen är det en uppgift för konstitutionsutskottet
+            att granska statsrådens tjänsteutövning och regeringsärendenas
+            handläggning. Utskottet har för detta ändamål rätt att få ut protokollen
+            över beslut i regeringsärenden och de handlingar som hör till
+            dessa ärenden. Utskottet har vidare, liksom övriga utskott, enligt
+            4 kap. 11 § riksdagsordningen rätt att av statliga myndigheter
+            få upplysningar och yttranden som utskottet begär. I sin granskning
+            enligt regeringsformen ställer utskottet de frågor utskottet anser
+            behövas till regeringen och till statsråd.
+          </p>
+          <p>
+            JO har granskat Säkerhetspolisens verkställighet av avvisningen.
+            Allmän åklagare har med anledning av polisanmälningar prövat frågor
+            om att inleda förundersökning. Utskottet har granskat regeringens
+            handläggning av avvisningsärendena och efter granskningen funnit
+            sig ha tillräckligt underlag för en bedömning från konstitutionella
+            utgångspunkter. Såväl utskottet som andra organ har möjlighet
+            att - om omständigheterna ger anledning till det - ta upp frågor
+            till förnyad granskning.
+          </p>
+          <p>
+            FN:s högkommissarie för mänskliga rättigheter har, som redovisas
+            ovan, med hänvisning till beslut av FN:s kommitté mot tortyr svarat
+            att hon är ovillig att företa en sådan undersökning som föreslagits
+            från svensk sida. Från svensk sida fortsätter ansträngningarna
+            att med egyptisk medverkan få till stånd en utredning med internationellt
+            inslag om behandlingen av de båda männen efter avvisningen.
+          </p>
+          <p>
+            Utskottet noterar att utredningar på det internationella planet
+            har skett bl.a. med anledning av klagomål för Ahmed Agizas del
+            till FN:s kommitté mot tortyr och sker med anledning av klagomål
+            från Mohammed El Zary till FN:s kommitté för mänskliga rättigheter.
+            Kommittén mot tortyr har gjort en bedömning av den svenska regeringens
+            godtagande av de diplomatiska försäkringarna i avvisningsärendet.
+            Tortyrförbudets absoluta karaktär har understrukits även av bl.a.
+            Europarådets kommissionär för mänskliga rättigheter och av FN:s
+            specialrapportör mot tortyr. Någon ytterligare utredning i det
+            avseendet är enligt utskottets uppfattning inte påkallad.
+          </p>
+          <p>
+            En utredning på hög internationell nivå, i första hand inom FN-systemets
+            ram, som skulle ge ytterligare belysning av olika staters agerande
+            inför och i anslutning till avvisningen av de båda männen som
+            exempel på hur respekten för mänskliga rättigheter upprätthålls
+            i bekämpningen av terrorismen vore dock enligt utskottets uppfattning
+            av stort värde. Utskottet förutsätter att regeringen i möjlig
+            utsträckning verkar för en sådan och för att kampen mot terrorismen
+            skall bedrivas så att mänskliga rättigheter inte kränks.
+          </p>
+          <p>
+            Mot bakgrund av det anförda avstyrker utskottet motionen.
+          </p>
+          <p xml:id="IDAJLBTG" rend="AvsnittsRubrik">
+            Reservationer
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer.
+          </p>
+          <table>
+            <row>
+              <cell xml:id="IDAULBTG">
+                <p rend="reservation">
+                  En nationell utredning, punkt 1 (v, mp)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="reservanter">
+                  av Mats Einarsson (v) och Gustav Fridolin (mp).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p xml:id="IDAVMBTG" rend="r4">
+            Förslag till riksdagsbeslut
+          </p>
+          <p>
+            Vi anser att förslaget till riksdagsbeslut under punkt 1 borde
+            ha följande lydelse:
+          </p>
+          <p rend="stallningstagandereservation_">
+            Riksdagen tillkännager för regeringen som sin mening vad som
+            anförs i denna reservation. Därmed bifaller riksdagen delvis motion
+            2004/05:K461 yrkande 2.
+          </p>
+          <p xml:id="IDA4MBTG" rend="r4">
+            Ställningstagande
+          </p>
+          <p>
+            Avvisningen av Ahmed Agiza och Mohammed El Zary visar på att
+            de förfaranden som används i s.k. säkerhetsärenden inte är tillfredsställande.
+            Ingen av de utredningar som gjorts nationellt har inneburit, eller
+            kunnat innebära, en samlad översyn av vad som förevarit. Såväl
+            åklagare som JO och konstitutionsutskottet har särskilda begränsningar
+            för sitt granskningsområde, vilket naturligt avspeglas i respektive
+            organs slutsatser. Konstitutionsutskottet har också kunnat konstatera
+            att man i ett flertal frågor inte nått klarhet, såsom vilken information
+            som funnits inom Regeringskansliet och var denna funnits. Säkerhetspolisens
+            samarbete med andra säkerhetstjänster och det informationsutbyte
+            som finns med länder som kan tänkas tillämpa tortyr har heller
+            inte kunnat granskas. Av den anledningen anser vi att det behövs
+            en översyn av förfarandena vid avvisningar med utgångspunkt i
+            de nämnda avvisningsärendena. En sådan översyn bör göras av en
+            oberoende granskningskommission så som föreslås i motion 2004/05:K461
+            och möjligen utgå från den modell som utarbetades för att kunna
+            granska den svenska säkerhetstjänstens agerande.
+          </p>
+          <p>
+            En sådan översyn skulle dels kunna bringa mer klarhet i avvisningarna,
+            dels föreslå lämpliga åtgärder för att återställa Sveriges internationella
+            anseende i ärenden som rör mänskliga rättigheter efter det förevarande
+            och dels dra slutsatser om hur regelverket ytterligare bör förändras
+            för att förebygga att liknande situationer uppstår igen. Det bör
+            klargöras att detta naturligtvis skall ses som ett komplement
+            till tidigare granskningar och inte kan betraktas som någon form
+            av överprövning samt att detta, precis som säkerhetstjänstkommissionen,
+            inte skulle vara att betrakta som domstol i enskilt fall, vilket
+            är förbjudet enligt regeringsformen.
+          </p>
+          <p rend="Bilaga">
+            Bilaga
+          </p>
+          <p xml:id="IDAMNBTG" rend="BilageRubrik">
+            Förteckning över behandlade förslag
+          </p>
+          <p xml:id="IDAPNBTG" rend="rubrik2">
+            Motion från allmänna motionstiden hösten 2004
+          </p>
+          <p rend="behandlatdokument_">
+            2004/05:K461 av Alice Åström m.fl. (v, m, fp, kd, c, mp):
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p>
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p>
+                  Riksdagen tillkännager för regeringen som sin mening att regeringen
+                  bör verka för tillsättande av en internationell utredning enligt
+                  vad i motionen anförs om speciella förfaranden vid avvisningar.
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p>
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p>
+                  Riksdagen tillkännager för regeringen som sin mening att regeringen
+                  bör verka för tillsättande av en nationell utredning enligt vad
+                  i motionen anförs om speciella förfaranden vid avvisningar.
+                </p>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

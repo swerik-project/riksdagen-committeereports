@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_199293_FöU_0005">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="rdbeslut" n="Riksdagens beslut">Bifall till utskottets hemställan</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GG0941</idno>
+              <title>1992-12-09</title>
+              <biblScope unit="riksdag-session">1992/93</biblScope>
+              <biblScope unit="document-number">41</biblScope>
+              <note type="display-reference">1992-12-09</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GG0941</idno>
+              <title>1992-12-09</title>
+              <biblScope unit="riksdag-session">1992/93</biblScope>
+              <biblScope unit="document-number">41</biblScope>
+              <note type="display-reference">1992-12-09</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GG0377</idno>
+              <title>Väpnad styrka för tjänstgöring utomlands</title>
+              <biblScope unit="riksdag-session">1992/93</biblScope>
+              <biblScope unit="document-number">77</biblScope>
+              <note type="display-reference">proposition 1992/93:77 Väpnad styrka för tjänstgöring utomlands</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GG02Fö1</idno>
+              <title>med anledning av prop. 1992/93:77 Väpnad styrka för tjänstgöring utomlands</title>
+              <title type="sub">av Robert Jousma (nyd)</title>
+              <biblScope unit="riksdag-session">1992/93</biblScope>
+              <biblScope unit="document-number">Fö1</biblScope>
+              <note type="display-reference">motion 1992/93:Fö1 med anledning av prop. 1992/93:77 Väpnad styrka för tjänstgöring utomlands</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GG02Fö2</idno>
+              <title>med anledning av prop. 1992/93:77 Väpnad styrka för tjänstgöring utomlands</title>
+              <title type="sub">av Birgitta Hambraeus (c)</title>
+              <biblScope unit="riksdag-session">1992/93</biblScope>
+              <biblScope unit="document-number">Fö2</biblScope>
+              <note type="display-reference">motion 1992/93:Fö2 med anledning av prop. 1992/93:77 Väpnad styrka för tjänstgöring utomlands</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="AVG" subtype="beredning" n="5" when="1992-12-09">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="beredning" n="3" when="1992-12-09">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="beredning" n="1" when="1992-12-04">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="1992-11-26">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="1992-11-19">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Försvarsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            1992/93:FÖU05
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Väpnad styrka för tjänstgöring utomlands
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <div type="section" subtype="h2">
+            <head>
+              Innehåll
+            </head>
+            <list type="unordered">
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bsam">
+                    Sammanfattning
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bprop">
+                    Propositionen
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bmot">
+                    Motionerna
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#btext">
+                    Utskottet
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bhemst">
+                    Hemställan
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bres">
+                    Reservation
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bbil">
+                    Bilaga 1
+                  </ref>
+                </p>
+              </item>
+            </list>
+            <p>
+              1992/93 FöU5
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bsam">
+              Sammanfattning
+            </head>
+            <p>
+              I betänkandet behandlas förslag som regeringen -- efter föredragning
+              av försvarsministern, statsrådet Björck -- har förelagt riksdagen
+              i proposition 1992/93:77 om väpnad styrka för tjänstgöring utomlands.
+              Betänkandet behandlar också två med anledning av propositionen
+              väckta motioner.
+            </p>
+            <p>
+              Utskottet tillstyrker regeringens förslag till en ny lag som
+              skall ersätta lagen (1974:614) om beredskapsstyrka för FN-tjänst.
+              Innebörden av den nya lagen är att möjligheterna utvidgas för
+              regeringen att utan riksdagens hörande ställa en väpnad styrka
+              till förfogande för fredsbevarande verksamhet utomlands. Ifrågavarande
+              bemyndigande gällde tidigare endast beslut om medverkan i FN:s
+              fredsbevarande operationer men blir nu tillämpligt också på ett
+              motsvarande engagemang efter begäran från Konferensen om säkerhet
+              och samarbete i Europa (ESK).
+            </p>
+            <p>
+              Utrikesutskottet har yttrat sig över propositionen jämte avgivna
+              motioner. Yttrandet bifogas betänkandet som bilaga 5.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bprop">
+              Propositionen
+            </head>
+            <p>
+              I propositionen 1992/93:77 föreslår regeringen att riksdagen
+              antar regeringens förslag till
+            </p>
+            <p>
+              1. lag om väpnad styrka för tjänstgöring utomlands, 2. lag om
+              ändring i brottsbalken, 3. lag om ändring i lagen (1986:644) om
+              disciplinförseelser av krigsmän, m.m., 4. lag om ändring i lagen
+              (1939:727) om förbud mot uppsägning eller avskedande av arbetstagare
+              med anledning av värnpliktstjänstgöring m.m.
+            </p>
+            <p>
+              Regeringens lagförslag har fogats till betänkandet som bilagorna
+              1--4.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bmot">
+              Motionerna
+            </head>
+            <p>
+              1992/93:Fö1 av Robert Jousma (nyd) vari yrkas
+            </p>
+            <p>
+              1. att riksdagen som sin mening ger regeringen till känna vad
+              i motionen anförts om att närmare utreda förutsättningarna för
+              att svenska yrkesofficerare skall kunna beordras att delta i svensk
+              väpnad styrka för tjänstgöring utomlands,
+            </p>
+            <p>
+              2. att riksdagen som sin mening ger regeringen till känna vad
+              i motionen anförts om att skapa förutsättningar för inrättande
+              av s.k. snubbeltrådsstyrka inom ramen för FN,
+            </p>
+            <p>
+              3. att riksdagen som sin mening ger regeringen till känna vad
+              i motionen anförts om att skapa förutsättningar för inrättande
+              av s.k. snubbeltrådsstyrka inom ramen för ESK.
+            </p>
+            <p>
+              1992/93:Fö2 av Birgitta Hambraeus (c) vari yrkas att riksdagen
+              beslutar avslå proposition 1992/93:77 om ändring i lag om väpnad
+              styrka för tjänstgöring utomlands.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="btext">
+              Utskottet
+            </head>
+            <p>
+              Lag om väpnad styrka för tjänstgöring utomlands Enligt 10 kap.
+              9 § första stycket regeringsformen får regeringen sätta in försvarsmakten
+              eller en del därav vid väpnade angrepp mot riket. I övrigt får
+              svensk väpnad styrka sättas in i strid eller sändas till ett annat
+              land endast om riksdagen medger det (första punkten), om det är
+              medgivet i lag som ger förutsättningarna för åtgärden (andra punkten),
+              eller om skyldigheten att vidta åtgärden följer av någon internationell
+              förpliktelse som riksdagen har godkänt (tredje punkten).
+            </p>
+            <p>
+              Enligt FN-stadgan artikel 42 kan säkerhetsrådet som yttersta
+              åtgärd i en internationell konflikt inskrida med militära operationer.
+              En medlemsstat som efter ett sådant beslut av säkerhetsrådet anmodas
+              delta är skyldig att ställa väpnade styrkor till förfogande. För
+              svenskt vidkommande är 10 kap. 9 § första stycket tredje punkten
+              regeringsformen tillämplig i sådant fall.
+            </p>
+            <p>
+              Med tillämpning av 10 kap. 9 § första stycket andra punkten regeringsformen
+              antog riksdagen år 1974 (prop.1974:50, FöU 24, rskr. 267) lagen
+              (1974:614) om beredskapsstyrka för FN-tjänst. Lagen ger regeringen
+              möjlighet att efter framställning av FN:s generalsekreterare ställa
+              personal ur den beredskapsstyrka som enligt lagen skall finnas
+              organiserad inom försvarsmakten till FN:s förfogande för att delta
+              i fredsbevarande verksamhet. Regeringen får också besluta att
+              beredskapsstyrkan skall biträda i humanitär verksamhet utomlands.
+            </p>
+            <p>
+              Regeringen konstaterar att avvecklingen av den tidigare bipolära
+              situationen har gett ökade möjligheter till internationellt samarbete
+              men dessvärre också utrymme för aktivering av regionala och etniska
+              motsättningar. På flera håll har våldsamma konflikter blossat
+              upp. Det framstår som angeläget, framhåller regeringen, att alla
+              möjligheter att få till stånd konfliktdämpande åtgärder i sådana
+              situationer tas till vara.
+            </p>
+            <p>
+              Det finns, anser regeringen, ingen formell motsättning mellan
+              medlemskap i FN och deltagande i regionala säkerhetsarrangemang.
+              Sådana arrangemang är önskvärda och godtas enligt artikel 52 i
+              FN:s stadga så länge de är förenliga med FN:s ändamål och grundsatser.
+              Regeringen pekar bl.a. på att ESK förklarades som ett regionalt
+              säkerhetsarrangemang enligt nämnda artikel i FN:s stadga vid ESK:s
+              fjärde uppföljningsmöte i Helsingfors i juli i år.
+            </p>
+            <p>
+              Resultatet av detta möte innebar sålunda att ESK:s roll i fråga
+              om krishantering och konfliktförebyggande verksamhet förstärks.
+              Bl.a. uttalade de deltagande staterna sin vilja att i samarbete
+              med de internationella organisationer som verkar i Europa utveckla
+              möjligheterna att få till stånd fredsbevarande insatser.
+            </p>
+            <p>
+              Regeringen föreslår, mot bakgrund av det anförda, att riksdagen
+              med upphävande av lagen (1974:614) om beredskapsstyrka för FN-tjänst
+              antar en ny lag som ger regeringen möjlighet att utan riksdagens
+              hörande ställa en väpnad styrka till förfogande för fredsbevarande
+              verksamhet utomlands. Detta skall kunna ske, förutom på begäran
+              av FN, efter beslut som fattas av ESK.
+            </p>
+            <p>
+              I lagförslaget återfinns inte bestämmelsen i 1974 års lag om
+              vilken befattningshavare inom FN som är behörig att göra framställning
+              till regeringen. Det behövs, anser regeringen, inte någon regel
+              om behörigheten, utan den prövas av regeringen med utgångspunkt
+              från organisationens stadga eller andra regler som styr dess verksamhet.
+            </p>
+            <p>
+              I lagförslaget finns inte heller någon motsvarighet till bestämmelsen
+              i lagen 1974 som anger att beredskapsstyrkan får användas för
+              hjälpverksamhet utomlands i samband med naturkatastrof eller liknande
+              händelse. Det finns, konstaterar regeringen, nämligen ingen begränsning
+              i regeringsformen i fråga om regeringens möjlighet att använda
+              militär personal, som inte utgör väpnad trupp, för humanitär verksamhet
+              utomlands.
+            </p>
+            <p>
+              I motion Fö2 (c) framhåller motionären att hon i likhet med Tjänstemännens
+              centralorganisation och Statsanställdas förbund anser att riksdagen
+              även i fortsättningen skall avgöra om svensk väpnad styrka skall
+              sändas utomlands annat än på begäran av FN. Hon finner troligt
+              att riksdagen kommer att besluta om ändrade arbetsformer så att
+              riksmöte pågår hela året. Detta kommer att medföra att regeringen
+              också i brådskande fall hinner förankra ett sådant viktigt beslut
+              i riksdagen. Propositionen bör därför avslås av riksdagen.
+            </p>
+            <p>
+              Utrikesutskottet anför i sitt yttrande att ESK:s samarbets- och
+              förhandlingsprocess har lett till en successivt utökad roll för
+              ESK också när det gäller fredsbevarande insatser. Mot den bakgrunden
+              delar utrikesutskottet propositionens uppfattning att regeringen
+              genom en ny lag ges möjlighet att utan riksdagens hörande ställa
+              väpnad styrka till förfogande för fredsbevarande verksamhet utomlands
+              -- förutom på begäran av FN -- efter beslut som fattats av ESK.
+              Härvid sägs det vara av stor betydelse att ett sådant beslut kan
+              fattas snabbt. Utrikesutskottet anser att propositionens förslag
+              ligger i linje med det politiska stöd till ESK-processen som regering
+              och riksdag har uttalat vid ett flertal tillfällen. Motion Fö2
+              (c) bör därför avslås.
+            </p>
+            <p>
+              Försvarsutskottet delar regeringens och utrikesutskottets uppfattning
+              att Sveriges vilja att delta i samarbetet inom ramen för ESK bör
+              komma till uttryck genom att de formella förutsättningarna för
+              ett militärt deltagande i dessa fall görs lika smidiga och lättillämpade
+              som de som nu gäller för att en väpnad styrka skall kunna ställas
+              till förfogande efter framställning från FN. Riksdagen har ännu
+              inte beslutat att ändra sina arbetsformer så att riksmöte pågår
+              hela året. Så länge nuvarande arbetsformer gäller anser utskottet
+              att det, med hänsyn till de tidsförhållanden som kan råda vid
+              beslutstillfället, är angeläget att de svenska beslutsformerna
+              -- inom ramen för vad regeringsformen medger -- görs så flexibla
+              som möjligt. Riksdagen bör sålunda anta den av regeringen föreslagna
+              lagen om väpnad styrka för tjänstgöring utomlands och motion Fö2
+              (c) avslås.
+            </p>
+            <p>
+              Motion 1992/93:Fö1 (nyd) föreslår att regeringen i ett par avseenden
+              bör vidta åtgärder för att kunna göra vissa framtida ändringar
+              av vad som enligt den nya lagstiftningen kommer att gälla rörande
+              sändande av svenska väpnade styrkor utomlands. Motionären tar
+              upp dels frågan om kommendering av yrkesofficerare till sådan
+              tjänstgöring utomlands (yrkande 1), dels förutsättningarna för
+              inrättande av s.k. snubbeltrådsstyrkor inom ramen för FN och ESK
+              (yrkande 2 och 3). Utskottet övergår att behandla dessa frågor.
+            </p>
+            <p>
+              Kommendering av yrkesofficerare till tjänstgöring i väpnad styrka
+              utomlands
+            </p>
+            <p>
+              Enligt 2 § lagförslaget skall -- som också var fallet i 1974
+              års lag (4§) -- den personal som ingår i en väpnad styrka som
+              används för fredsbevarande verksamhet utomlands anställas särskilt
+              för detta ändamål i en utlandsstyrka inom försvarsmakten. Denna
+              bestämmelse är en markering av att styrkan skall vila på frivillig
+              grund. Varken försvarsmaktens fast anställda personal eller värnpliktiga
+              kan alltså beordras att ingå i styrkan.
+            </p>
+            <p>
+              Motionären konstaterar att Överbefälhavaren anser att yrkesofficerare
+              bör kunna beordras att delta i den väpnade styrkan som sänds utomlands.
+              Han befarar att om det i framtiden, i motsats till nuvarande förhållanden,
+              skulle visa sig vara förenat med betydande svårigheter att rekrytera
+              kompetenta officerare till styrkorna måste frivilligheten ifrågasättas
+              och omprövas. Han anser att regeringen bör utreda förutsättningarna
+              för att svenska yrkesofficerare skall kunna beordras att delta
+              i en svensk väpnad styrka för tjänstgöring utomlands.
+            </p>
+            <p>
+              Utrikesutskottet har inte funnit anledning ifrågasätta den uppfattning
+              som framförs i propositionen om att rekryteringen av styrkan skall
+              ske på frivillig grund. Motion Fö1 (nyd) yrkande 1 bör därför,
+              anser utrikesutskottet, inte bifallas.
+            </p>
+            <p>
+              Försvarsutskottet har erfarit att Överbefälhavaren i en skrivelse
+              till regeringen har hemställt om en ändring av bestämmelserna
+              för rekrytering av yrkesofficerare i den svenska väpnade styrkan
+              för tjänstgöring utomlands. Utskottet förutsätter att denna fråga
+              granskas vidare och att regeringen vid behov återkommer till riksdagen
+              i ärendet. Med detta konstaterande anser utskottet att syftet
+              med motion Fö1 (nyd) yrkande 1 tillgodoses och att riksdagen därför
+              inte bör bifalla motionen.
+            </p>
+            <p>
+              Styrkor i fredsskapande syfte
+            </p>
+            <p>
+              Motion Fö1 (nyd) innehåller två yrkanden om att skapa förutsättningar
+              för s.k. snubbeltrådsstyrkor i fredsskapande syfte. Motionären
+              citerar en artikel i Aftonbladet den 26 oktober där docent Gunnar
+              Jervas, FOA, väckt tanken på att inrätta sådana styrkor. I motionen
+              citeras bl.a. följande ur artikeln.
+            </p>
+            <p>
+              Det skulle vara en tragedi om vi inte gjorde annat än satt och
+              väntade på att de inblandade skulle nå fram till en utmattningspunkt
+              där FN och/eller ESK med framgång kunde sätta in fredsbevarande
+              operationer.
+            </p>
+            <p>
+              För att verkligen få ned våldsnivån måste nya metoder utvecklas,
+              särskilt av förebyggande typ. Låt mig därför få föreslå tillskapandet
+              av en liten, snabbrörlig s.k. snubbeltrådsstyrka -- kopplad till
+              en betydligt större och starkare styrka i vänteläge. Om FN placerat
+              en sådan snubbeltrådsstyrka i Kuwait så snart Saddam Hussein marscherat
+              upp mot landets gräns skulle hans invasion förmodligen inte blivit
+              av. Skälet är att den som ger sig på snubbeltrådsstyrkan vet att
+              han med all sannolikhet kommer att utlösa ett motanfall av den
+              riktigt stora styrkan.
+            </p>
+            <p>
+              Utrikesutskottet anför i sitt yttrande att hela det problemområde
+              som omfattar konfliktförebyggande åtgärder samt fredsbevarande
+              och fredsskapande insatser är föremål för fortlöpande överväganden
+              och analyser, såväl inom ramen för FN:s och ESK:s verksamhet som
+              på det nationella planet. Utrikesutskottet utgår från att olika
+              arrangemang härvid prövas inom ramen för det regelverk som staterna
+              enats om internationellt. I sammanhanget noteras att propositionen
+              i första hand behandlar deltagandet i fredsbevarande styrkor där
+              insatsen beslutas i samförstånd med berörda parter. Mot bakgrund
+              av det anförda bör motion Fö1 yrkandena 2 och 3 inte bifallas.
+            </p>
+            <p>
+              Försvarsutskottet erinrar om att regeringen enligt den föreslagna
+              lagens 1 § får ett bemyndigande att sätta in väpnad styrka för
+              tjänstgöring utomlands även efter begäran från ESK om syftet är
+              att styrkan skall vara fredsbevarande. Insättande av en av motionären
+              åsyftad s.k. snubbeltrådsstyrka utgör fredsskapande verksamhet
+              och bygger på s.k. Peace Enforcement enligt kap. VII i FN-stadgan.
+              Peace Enforcement är kopplat till särskilda beslut i säkerhetsrådet
+              och skiljer sig från besluten om fredsbevarande verksamhet, s.k.
+              Peace Keeping. Säkerhetsrådet kan besluta att sätta in en fredsskapande
+              styrka utan samtycke av de i konflikten inblandade parterna. Om
+              Sverige skulle medverka till att en sådan styrka sätts in utomlands,
+              kan detta alltså inte ske med stöd av den föreslagna lagen. I
+              stället får ett sådant beslut grundas på t.ex. FN-stadgans paragraf
+              42. En medlemsstat som efter ett sådant beslut av säkerhetsrådet
+              anmodas att delta är skyldig att ställa väpnade styrkor till förfogande.
+              För svenskt vidkommande är 10 kap. 9 § första stycket tredje punkten
+              regeringsformen tillämplig, vilket också framgår av propositionen
+              sidan 3.
+            </p>
+            <p>
+              Efter vad utskottet erfarit finns för närvarande inte någon möjlighet
+              att inom ramen för ESK bedriva fredsskapande verksamhet.
+            </p>
+            <p>
+              Utskottet anser sammanfattningsvis att upprättandet av styrkor
+              för fredsskapande insatser får övervägas i annat sammanhang. Motion
+              Fö1 yrkandena 2 och 3 bör därför avslås av riksdagen.
+            </p>
+            <p>
+              Lagändringar
+            </p>
+            <p>
+              Enligt 2 kap. 3 § brottsbalken tredje stycket döms efter svensk
+              lag och vid svensk domstol om brottet begåtts vid tjänstgöring
+              utom riket av någon som är anställd i svensk beredskapsstyrka
+              för FN-tjänst. Motsvarande gäller rätten enligt 2 kap. 5 § att
+              väcka åtal för brott som begåtts utomlands.
+            </p>
+            <p>
+              Enligt 2 § sjunde punkten lagen (1986:644) om disciplinförseelser
+              av krigsmän, m.m. är anställda i en svensk beredskapsstyrka i
+              FN-tjänst underkastade nämnda lag under tid då de tjänstgör utomlands.
+            </p>
+            <p>
+              Även lagen (1939:727) om förbud mot uppsägning eller avskedande
+              av arbetstagare med anledning av värnpliktstjänstgöring m.m. är
+              tillämplig på dem som tjänstgör i en sådan beredskapsstyrka (
+              1 §).
+            </p>
+            <p>
+              I propositionen föreslår regeringen vissa anpassningar av nämnda
+              lagar till den föreslagna utvidgade möjligheten för regeringen
+              att utan riksdagens hörande ställa en väpnad styrka till förfogande
+              för fredsbevarande verksamhet.
+            </p>
+            <p>
+              Utskottet har ingen erinran mot de föreslagna lagändringarna
+              och föreslår att riksdagen antar de av regeringen framlagda förslagen
+              till lagändringar.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bhemst">
+              Hemställan
+            </head>
+            <p>
+              Utskottet hemställer
+            </p>
+            <p>
+              1. beträffande lag om väpnad styrka för tjänstgöring utomlands
+              att riksdagen med avslag på motion 1992/93:Fö2 antar regeringens
+              förslag till lag om väpnad styrka för tjänstgöring utomlands,
+            </p>
+            <p>
+              2. beträffande övriga lagförslag att riksdagen antar regeringens
+              förslag till a) lag om ändring i brottsbalken, b) lag om ändring
+              i lagen (1986:644) om disciplinförseelser av krigsmän, m.m., c)
+              lag om ändring i lagen (1939:727) om förbud mot uppsägning eller
+              avskedande av arbetstagare med anledning av värnpliktstjänstgöring
+              m.m.,
+            </p>
+            <p>
+              3. beträffande utredning om kommendering av svenska yrkesofficerare
+              utomlands att riksdagen avslår motion 1992/93:Fö1 yrkande 1,
+            </p>
+            <p>
+              4. beträffande styrkor i fredsskapande syfte att riksdagen avslår
+              motion 1992/93:Fö1 yrkandena 2 och 3.
+            </p>
+            <p>
+              res. (nyd)
+            </p>
+            <p>
+              Stockholm den 26 november 1992
+            </p>
+            <p>
+              På försvarsutskottets vägnar
+            </p>
+            <p>
+              Arne Andersson
+            </p>
+            <p>
+              I beslutet har deltagit: Arne Andersson (m), Sture Ericson (s),
+              Wiggo Komstedt (m), Iréne Vestlund (s), Lars Sundin (fp), Ingvar
+              Björk (s), Christer Skoog (s), Robert Jousma (nyd), Sven Lundberg
+              (s), Stig Grauers (m), Karin Wegestål (s), Henrik Landerholm (m),
+              Britt Bohlin (s), Sven-Olof Petersson (c) och Åke Carnerö (kds).
+            </p>
+            <p>
+              Från Vänsterpartiet, som inte företräds av någon ordinarie ledamot
+              i utskottet, har suppleanten Jan Jennehag (v) närvarit vid den
+              slutliga behandlingen av ärendet.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bres">
+              Reservation
+            </head>
+            <p>
+              Styrkor i fredsskapande syfte (mom. 4)
+            </p>
+            <p>
+              Robert Jousma (nyd) anser
+            </p>
+            <p>
+              dels att den del av utskottets yttrande som på s. 5 börjar med
+              "Försvarsutskottet erinrar" och på s. 6 slutar med "av riksdagen"
+              bort ha följande lydelse:
+            </p>
+            <p>
+              Försvarsutskottet anser att konfliktutvecklingen de senaste åren,
+              inte minst i Europa, är så allvarlig att det inte längre är till
+              fyllest att -- utöver humanitärt bistånd -- passivt vänta på att
+              de inblandade länderna i en konflikt skall ha nått en utmattningspunkt
+              där FN eller ESK med framgång kan sätta in en fredsbevarande operation.
+              Tillskapandet av en liten, snabbrörlig s.k. snubbeltrådsstyrka,
+              kopplad till en större och starkare styrka i väntläge, skulle
+              kunna få stor avskräckningseffekt inom ramen för fredsskapande
+              operationer i FN:s regi. ESK har däremot inget mandat att bedriva
+              fredsskapande verksamhet.
+            </p>
+            <p>
+              Utskottet anser därför att det är angeläget att frågan om inrättandet
+              av en s.k. snubbeltrådsstyrka inom ramen för FN utreds. Motion
+              Fö1 (nyd) yrkande 2 bör följaktligen bifallas av riksdagen och
+              yrkande 3 i samma motion avslås.
+            </p>
+            <p>
+              dels att moment 4 i utskottets hemställan bort ha följande lydelse:
+            </p>
+            <p>
+              4. beträffande styrkor i fredsskapande syfte att riksdagen med
+              bifall till motion 1992/93:Fö1 yrkande 2 och avslag på motion
+              1992/93:Fö1 yrkande 3 som sin mening ger regeringen till känna
+              vad utskottet anfört.
+            </p>
+            <p>
+              Propositionens lagförslag
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bbil">
+              Bilaga 1
+            </head>
+            <p>
+              Bilaga 2
+            </p>
+            <p>
+              Bilaga 3
+            </p>
+            <p>
+              Bilaga 4
+            </p>
+            <p>
+              Utrikesutskottets yttrande Bilaga 5
+            </p>
+            <p>
+              1992/93:UU3y Bilaga 5
+            </p>
+            <p>
+              Väpnad styrka för tjänstgöring utomlands
+            </p>
+            <p>
+              Till försvarsutskottet
+            </p>
+            <p>
+              Försvarsutskottet har med remiss 1992-11-05 berett utrikesutskottet
+              tillfälle att avge yttrande över proposition 1992/93:77 om väpnad
+              styrka för tjänstgöring utomlands.
+            </p>
+            <p>
+              Propositionen
+            </p>
+            <p>
+              Proposition 1992/93:77 innehåller förslag till en ny lag som
+              skall ersätta lagen (1974:614) om beredskapsstyrka för FN-tjänst.
+            </p>
+            <p>
+              Enligt förslaget utvidgas möjligheterna för regeringen att utan
+              riksdagens hörande ställa en väpnad styrka till förfogande för
+              fredsbevarande verksamhet utomlands.
+            </p>
+            <p>
+              Den nya lagen föreslås träda i kraft den 1 januari 1993.
+            </p>
+            <p>
+              I propositionen anges att Sverige har ett starkt intresse av
+              att delta i det samarbete som förekommer inom ramen för Europeiska
+              säkerhetskonferensen (ESK) i syfte att hantera och dämpa kriser
+              och konflikter. Det är mot bakgrund av den tidsnöd som kan råda
+              när ställning skall tas till ett svenskt militärt deltagande angeläget
+              att de svenska beslutsformerna -- inom ramen för vad regeringsformen
+              medger -- görs så flexibla som möjligt.
+            </p>
+            <p>
+              Sveriges vilja att delta i samarbete inom ramen för ESK för hantering
+              av kriser och konflikter bör komma till uttryck genom att de formella
+              förutsättningarna för ett militärt deltagande i dessa fall blir
+              lika smidiga och lättillämpade som de som gäller för att en väpnad
+              styrka skall kunna ställas till förfogande efter en framställan
+              från FN. Det delegeringsbara utrymmet enligt 10 kap. 9 § första
+              stycket 2 regeringsformen bör därför utnyttjas på så sätt att
+              en ny lag införs som vidgar regeringens möjligheter att ställa
+              en väpnad styrka till förfogande även för uppdrag enligt beslut
+              som fattats av ESK. Det finns däremot inte nu skäl att därutöver
+              utsträcka regeringens möjlighet att ställa en väpnad styrka till
+              förfogande för tjänstgöring utomlands.
+            </p>
+            <p>
+              Några remissinstanser har ansett att yrkesofficerare bör kunna
+              beordras att delta i den väpnade styrkan. Regeringen anser dock
+              inte att det är lämpligt att i detta lagstiftningsärende -- som
+              ju endast syftar till ett vidgat bemyndigande för regeringen att
+              sätta in den väpnade styrkan utomlands -- föreslå några ändringar
+              vad avser det förhållandet att styrkan skall rekryteras på frivillig
+              grund.
+            </p>
+            <p>
+              Sammanfattning av motionerna
+            </p>
+            <p>
+              I motion 1992/93:Fö1 (nyd) yrkande 1 föreslås att riksdagen som
+              sin mening ger regeringen till känna vad i motionen anförts om
+              att närmare utreda förutsättningarna för att svenska yrkesofficerare
+              skall kunna beordras att delta i en svensk väpnad styrka för tjänstgöring
+              utomlands. Motionären framhåller att om det visar sig vara förenat
+              med betydande svårigheter att rekrytera kompetenta officerare
+              till styrkorna måste frivilligheten ifrågasättas och omprövas.
+              Med hänsyn till sakens särskilda beskaffenhet, förefaller det
+              mest ändamålsenligt att frågan utreds snarast.
+            </p>
+            <p>
+              I yrkande 2 refererar motionären till ett förslag av Gunnar Jervas,
+              FOA, om att inrätta en s.k. snubbeltrådsstyrka. Ett nytänkande
+              måste till beträffande Sveriges fredsbevarande insatser. Frågan
+              om inrättande av s.k. snubbeltrådsstyrka bör enligt motionären
+              utredas.
+            </p>
+            <p>
+              I motion 1992/93:Fö2 (c) yrkas avslag på propositionen. Motionären
+              anser att riksdagen även i fortsättningen skall avgöra om svensk
+              väpnad styrka skall sändas utomlands, annat än på begäran av FN.
+            </p>
+            <p>
+              Det anges i motionen att det nu tycks ske en glidning mot fredsskapande
+              insatser, som kan innebära att man ställer sig på den ena partens
+              sida och anfaller den andra militärt. Sverige bör i stället satsa
+              på förebyggande, förtroendeskapande åtgärder och att konflikter
+              löses utan våld. Propositionens förslag om att regeringen skall
+              få ställa väpnad styrka till förfogande eller konfliktdämpande
+              verksamhet på begäran av en internationell organisation i vilken
+              Sverige är medlem kommenteras i motionen. Motionären anser att
+              förslaget skulle kunna ses som en förberedelse för Sveriges deltagande
+              i EG:s försvar, WEU.
+            </p>
+            <p>
+              Motionären refererar också till TCO:s och ST:s remissvar med
+              innebörden att värdet i att en svensk väpnad styrka uppträder
+              utomlands med stöd av ett riksdagsbeslut uppväger den ringa fördröjning
+              som en riksdagsbehandling medför.
+            </p>
+            <p>
+              Utskottet
+            </p>
+            <p>
+              Som framgår av propositionen har ESK:s samarbets- och förhandlingsprocess
+              lett till en successivt utökad roll för ESK också när det gäller
+              fredsbevarande insatser. I Helsingforsdokumentet från uppföljningsmötet
+              i juli 1992, stärktes ESK:s roll i fråga om krishantering och
+              konfliktförebyggande verksamhet. De deltagande staterna uttalade
+              sin vilja att, i samarbete med de internationella organisationer
+              som verkar i Europa, utveckla möjligheterna att få till stånd
+              fredsbevarande insatser. ESK har också förklarats som ett regionalt
+              säkerhetsarrangemang enligt FN-stadgans artikel 52.
+            </p>
+            <p>
+              Mot denna bakgrund delar utskottet den uppfattning som framförs
+              i propositionen att regeringen genom en ny lag ges möjlighet att
+              utan riksdagens hörande ställa en väpnad styrka till förfogande
+              för fredsbevarande verksamhet utomlands -- förutom på begäran
+              av FN -- efter beslut som fattats av ESK. Det är av stor vikt
+              att Sverige med kort varsel kan fatta beslut om att ställa en
+              väpnad styrka till förfogande för tjänstgöring utomlands efter
+              förfrågan av ESK. Propositionens förslag ligger enligt utskottets
+              uppfattning i linje med det politiska stöd till ESK-processen
+              som regering och riksdag uttalat vid ett flertal tillfällen.
+            </p>
+            <p>
+              Utskottet förordar därför att motion Fö2 (c) avstyrks.
+            </p>
+            <p>
+              Utskottet finner inte anledning att nu ompröva den uppfattning
+              som framförs i propositionen, nämligen att rekryteringen av styrkan
+              skall ske på frivillig grund.
+            </p>
+            <p>
+              Utskottet förordar därför att yrkande 1 i motion Fö1 (nyd) avstyrks.
+            </p>
+            <p>
+              Med anledning av yrkande 2 i motion Fö1 (nyd) om en snubbeltrådsstyrka
+              vill utskottet anföra följande.
+            </p>
+            <p>
+              Hela det problemområde som omfattar konfliktförebyggande åtgärder
+              och fredsbevarande och fredsskapande insatser är föremål för fortlöpande
+              överväganden och analyser, såväl inom ramen för FN:s och ESK:s
+              verksamhet som på det nationella planet. Utskottet utgår från
+              att olika arrangemang härvid prövas inom ramen för det regelverk
+              som staterna enats om internationellt. Utskottet noterar i sammanhanget
+              att propositionen i första hand behandlar deltagandet i fredsbevarande
+              styrkor där insatsen beslutats i samförstånd med berörda parter.
+            </p>
+            <p>
+              Utskottet ser inte anledning att göra några ytterligare uttalanden
+              med anledning av yrkande 2 i motion Fö1 (nyd) utan förordar att
+              yrkandet avstyrks.
+            </p>
+            <p>
+              Stockholm den 19 november 1992
+            </p>
+            <p>
+              På utrikesutskottets vägnar
+            </p>
+            <p>
+              Daniel Tarschys
+            </p>
+            <p>
+              I beslutet har deltagit: Daniel Tarschys (fp), Nic Grönvall (m),
+              Alf Wennerfors (m), Mats Hellström (s), Pär Granstedt (c), Inger
+              Koch (m), Nils T Svensson (s), Margareta Viklund (kds), Viola
+              Furubjelke (s), Karl-Göran Biörsmark (fp), Kristina Svensson (s),
+              Bengt Silfverstrand (s), Richard Ulfvengren (nyd) och Alf Eriksson
+              (s).
+            </p>
+            <p>
+              Från Vänsterpartiet, som inte företräds av någon ordinarie ledamot
+              i utskottet, har suppleanten Bertil Måbrink (v) närvarit vid den
+              slutliga behandlingen av ärendet.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

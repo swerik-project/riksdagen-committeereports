@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200203_SKU_0005">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen beslutade om nya skatteregler för fåmansföretag fr.o.m. den 1 januari 2003. Syftet med de nya reglerna är att komma till rätta med de skatteeffekter som drabbat fåmansföretagare som sålt sina bolag och fått betalt i aktier som sedan sjunkit i värde, den s.k. pomperipossafrågan. De nya reglerna innebär att en person som sålt sitt fåmansföretag i utbyte mot aktier i det köpande företaget inte ska behöva skatta för dessa aktier förrän de säljs. Nuvarande regler har haft effekten att i de fall det köpande företaget gått i konkurs har säljaren varit tvungen att betala skatt i inkomstslaget tjänst på i princip hälften av det värde aktierna hade vid bytestillfället, utan möjlighet att kvitta denna skatt mot förlusten på aktierna. De nya reglerna ska kunna tillämpas retroaktivt fr.o.m. den 1 januari 1999.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Nya skatteregler för fåmansföretag (SkU5)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Delvis bifall till propositionen. Avslag på motionerna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0940</idno>
+              <title>2002-12-19</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">40</biblScope>
+              <note type="display-reference">2002-12-19</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0940</idno>
+              <title>2002-12-19</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">40</biblScope>
+              <note type="display-reference">2002-12-19</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GQ0K80</idno>
+              <title>2002/03:80</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">80</biblScope>
+              <note type="display-reference">2002/03:80</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1999:1229</idno>
+              <note type="display-reference">2002:1143</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2001:1227</idno>
+              <note type="display-reference">2002:1144</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GQ0315</idno>
+              <title>Utvidgning av reglerna om framskjuten beskattning vid vissa andelsbyten</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">15</biblScope>
+              <note type="display-reference">proposition 2002/03:15 Utvidgning av reglerna om framskjuten beskattning vid vissa andelsbyten</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02Fi2</idno>
+              <title>med anledning av prop. 2002/03:15 Utvidgning av reglerna om framskjuten beskattning vid vissa andelsbyten</title>
+              <title type="sub">av Per Rosengren (V)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">Fi2</biblScope>
+              <note type="display-reference">motion 2002/03:Fi2 med anledning av prop. 2002/03:15 Utvidgning av reglerna om framskjuten beskattning vid vissa andelsbyten</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02Fi3</idno>
+              <title>med anledning av prop. 2002/03:15 Utvidgning av reglerna om framskjuten beskattning vid vissa andelsbyten</title>
+              <title type="sub">av Fredrik Reinfeldt m.fl. (M, FP, KD, C)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">Fi3</biblScope>
+              <note type="display-reference">motion 2002/03:Fi3 med anledning av prop. 2002/03:15 Utvidgning av reglerna om framskjuten beskattning vid vissa andelsbyten</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2002-12-13">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-12-13">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-12-13">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-12-11">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-12-10">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-12-10">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-12-05">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-12-05">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-12-03">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-12-03">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2002-12-19">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-12-19">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-12-19">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-12-19">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-12-19">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-12-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-12-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Skatteutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2002/03:SKU5
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Utvidgning av reglerna om framskjuten beskattningvid vissa andelsbyten,
+            m.m.
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning Utskottet tillstyrker regeringens förslag om att
+            utvidga reglerna om framskjuten beskattning vid andelsbyten till
+            att omfatta även onoterade och kvalificerade andelar. De nya reglerna
+            skall träda i kraft den 1 januari 2003. Personer som har avyttrat
+            kvalificerade andelar före ikraftträdandet och har fått uppskov
+            eller hade rätt till uppskov enligt äldre bestämmelser kan begära
+            att de nya reglerna skall tillämpas retroaktivt. Möjligheten att
+            begära retroaktiv tillämpning undanröjer vissa negativa effekter
+            som uppkommit för fåmansföretagare som har gjort uppskovsgrundande
+            andelsbyten med kvalificerade andelar enligt de regler som har
+            gällt fr.o.m. den 1 januari 1999. I dessa regler kan ett vid bytestillfället
+            beräknat skatteuppskov som skall tas upp som intäkt i inkomstslaget
+            tjänst inte kvittas mot en slutlig förlust på bytesaffären som
+            redovisas i samma deklaration. De två motioner som har väckts
+            i ärendet avstyrks. Det krav på viss ytterligare utredning om
+            beskattningen i samband med andelsbyten som ställs i en av motionerna
+            anses av utskottet till viss del tillgodosett genom vad utskottet
+            anför om bl.a. att regeringen bör analysera tillämpningen av andelsbytesreglerna
+            och återkomma till riksdagen med en redovisning av vilka konsekvenser
+            detta bör föranleda för det skatterättsliga andelsbytessystemet.
+            I denna del har lämnats en reservation (m, fp, kd, c).
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Utökad användning av
+            metoden framskjuten beskattning vid andelsbyten Riksdagen antar
+            regeringens i bilaga 2 återgivna förslag till 1. lag om ändring
+            i inkomstskattelagen (1999:1229) med den ändringen att lagförslaget
+            tillförs en ändring i 23 kap. 19 § med den lydelse som framgår
+            av utskottets förslag i bilaga 3, 2. lag om ändring i lagen (2001:1227)
+            om självdeklarationer och kontrolluppgifter. Därmed bifaller riksdagen
+            delvis proposition 2002/03:15. 2. Utvidgning av det skatterättsliga
+            andelsbytessystemet Riksdagen avslår motionerna 2002/03:Fi2 och
+            2002/03:Fi3. Reservation (m, fp, kd, c) 3. Rättelser i lagen om
+            skatt på energi Riksdagen dels antar utskottets förslag i bilaga
+            3 till lag om ändring i lagen (2002:422) om ändring i lagen (1994:176)
+            om skatt på energi, dels beslutar om den ändringen i riksdagens
+            beslut (prop. 2002/03:1 Finansplan m.m., bet 2002/03:FiU1 förslagspunkt
+            6, rskr. 2002/03:24) om ändring i lagen (1994:176) om skatt på
+            energi att i 2 kap. 1 § första stycket 3 sifferuttrycket "1044"
+            ersätts med "1004". Utskottet föreslår att ärendet avgörs efter
+            endast en bordläggning. Stockholm den 10 december 2002 På skatteutskottets
+            vägnar Arne Kjörnsberg Följande ledamöter har deltagit i beslutet:
+            Arne Kjörnsberg (s), Anna Grönlund (fp), Lennart Hedquist (m),
+            Per Erik Granström (s), Ulla Wester (s), Per Landgren (kd), Per-Olof
+            Svensson (s), Anne-Marie Pålsson (m), Lennart Axelsson (s), Gunnar
+            Andrén (fp), Roger Karlsson (c), Inger Nordlander (s), Ulf Sjösten
+            (m), Catharina Bråkenhielm (s), Barbro Feltzing (mp), Per Rosengren
+            (v) och Britta Rådström (s).
+          </p>
+          <p>
+            2002/03 SkU5 (prop. 2002/03:15) Redogörelse för ärendet Ärendet
+            och dess beredning Regeringens förslag till riksdagsbeslut samt
+            förslagen i de två motioner som har väckts med anledning av propositionen
+            framgår av bilaga 1. De lagändringar som regeringen föreslår redovisas
+            i bilaga 2. En av utskottet föreslagen komplettering till regeringens
+            lagförslag och ett förslag till rättelse av ett tidigare lagbeslut
+            finns i bilaga 3. Bakgrund Skatteutskottet föreslog i ett betänkande
+            den 24 april 2002 med stöd av sin initiativrätt enligt 3 kap.
+            7 § riksdagsordningen att riksdagen skulle tillkännage för regeringen
+            att den skulle återkomma till riksdagen med ett förslag till en
+            retroaktivt verkande lagändring som eliminerar de effekter som
+            uppstår i förlustsituationer till följd av att ett tjänstebelopp
+            skall tas upp till beskattning av den som genom ett uppskovsgrundande
+            andelsbyte har avyttrat kvalificerade andelar i fåmansföretag.
+            Riksdagen biföll utskottets förslag den 16 maj 2002 (bet. 2001/02:SkU29,
+            rskr. 2001/02:245). En bakgrund till utskottsinitiativet var det
+            bristande samspel mellan skattereglerna vid andelsbyten och reglerna
+            för beskattning av kvalificerade andelar (de s.k. 3:12-reglerna)
+            som hade uppmärksammats till följd av de stora värde- nedgångar
+            på företag inom främst IT-sektorn som följde efter kraftiga kursuppgångar
+            på börsen under åren närmast före millennieskiftet. Den som avyttrat
+            kvalificerade andelar kunde inte på samma sätt som kapitalplacerare
+            i allmänhet utnyttja en förlust på de vid andelsbytet mottagna
+            andelarna för att kvitta mot hela det uppskovsbelopp som beräknats
+            vid bytestillfället. Fåmansföretagaren som avyttrat kvalificerade
+            andelar skulle ta upp i princip hälften av uppskovsbeloppet som
+            en tjänsteinkomst och kunde till denna del inte kvitta förluster
+            på de mottagna andelarna som skulle redovisas i inkomstlaget kapital.
+            Skatteproblemet vid utbyte av kvalificerade andelar hade vid tidpunkten
+            för utskottsinitiativet analyserats i en promemoria inom Finansdepartementet.
+            Beredningsarbetet hade varit tidskrävande och det stod under senare
+            delen av våren 2002 klart att en proposition som skulle kunna
+            lösa det uppkomna problemet inte skulle kunna lämnas till riksdagen
+            under våren 2002. Syftet med utskottets initiativ var att ge berörda
+            skattskyldiga ett besked om att reglerna skulle komma att ändras
+            med tillbakaverkande kraft. Propositionens huvudsakliga innehåll
+            I propositionen föreslås att bestämmelserna för fysiska personer
+            om framskjuten beskattning vid vissa andelsbyten utvidgas till
+            att även omfatta andelar som inte är marknadsnoterade samt byten
+            av kvalificerade andelar och andelar som blir kvalificerade hos
+            säljaren. De nya reglerna föreslås träda i kraft den 1 januari
+            2003 och skall tillämpas på andelsbyten som sker efter den 31
+            december 2002. Under vissa förutsättningar skall reglerna om framskjuten
+            beskattning, på den skattskyldiges begäran, få tillämpas retroaktivt
+            på uppskovsbelopp som fördelats enligt äldre bestämmelser. Även
+            den som före ikraftträdandet gjort ett byte av andelar men som
+            då inte begärde uppskov med beskattningen föreslås i vissa fall
+            kunna begära att reglerna om framskjuten beskattning skall tillämpas
+            retroaktivt.
+          </p>
+          <p>
+            Utskottets överväganden Utökad användning av metoden framskjuten
+            beskattning vid andelsbyten Utskottets förslag i korthet Riksdagen
+            antar regeringens förslag om att utvidga reglerna om framskjuten
+            beskattning vid andelsbyten till att omfatta även onote- rade
+            och kvalificerade andelar. Propositionen I propositionen lägger
+            regeringen fram ett förslag som syftar till att eliminera de beskattningseffekter
+            som avses i riksdagens beslut den 16 maj 2002 (bet. 2001/02:SkU29,
+            rskr. 2001/02:245). Förslaget innebär att användningen inom andelsbytessystemet
+            av metoden med framskjuten beskattning utvidgas till att omfatta
+            även onoterade och kvalificerade andelar fr.o.m. den 1 januari
+            2003. Detta innebär att något uppskovsbelopp inte skall beräknas
+            vid andelsbytet. I stället förs den vid andelsbytet avyttrade
+            andelens omkostnadsbelopp över till den mottagna andelen. Vinst
+            eller förlust beskattas först när den vid andelsbytet mottagna
+            andelen avyttras. Vid inbyte av kvalificerade andelar skall det
+            göras en beräkning av hur stor andel av vinsten som skulle ha
+            tagits upp i tjänst om det skulle ha skett en omedelbar beskattning.
+            Det belopp som beräknas utgör en högsta gräns för hur stor del
+            av en vinst på den mottagna andelen som skall tjänstebeskattas
+            om den mottagna andelen senare avyttras med vinst. Om den mottagna
+            andelen skulle avyttras med förlust, dvs. till ett värde understigande
+            omkostnadsbeloppet, uppkommer inte någon tjänstebeskattning. Utvidgningen
+            av systemet med framskjuten beskattning kommer också de fåmansföretagare
+            till del som sedan den 1 januari 1999 och fram till ikraftträdandet
+            av de nya reglerna har avyttrat kvalificerade andelar i sitt företag
+            genom ett uppskovsgrundande andelsbyte. Om ett tjänstebelopp har
+            beräknats och uppskov för det har erhållits eller hade kunnat
+            erhållas kan den skattskyldige begära att de nya reglerna skall
+            tillämpas när de mottagna aktierna säljs eller om de anses avyttrade
+            till följd av att det köpande bolaget gått i konkurs. De offentligfinansiella
+            engångseffekterna i form av utebliven skatteintäkt uppskattas
+            till 283 miljoner kronor, medan den varaktiga effekten beräknas
+            till 9 miljoner kronor per år i utebliven skatteintäkt. Utskottets
+            ställningstagande Propositionen har remitterats till finansutskottet.
+            Finansutskottet har i sitt förslag till beräkning av statsbudgetens
+            inkomster för 2003 (bet. 2002/03:FiU1) beaktat det inkomstbortfall
+            som förslaget leder till och räknat ned inkomsterna med 283 miljoner
+            kronor och lämnat över propositionen till skatteutskottet för
+            en lagteknisk beredning av förslagen. Vid granskningen av lagförslagen
+            har skatteutskottet funnit att ett tillägg bör göras i lagtexten
+            när det gäller villkoren för underprisöverlåtelser för att det
+            skall framgå att kravet på kvalificerade andelar i det förvärvande
+            företaget inte skall gälla när en andel i det överlåtande företaget
+            anses kvalificerad på grund av den nya regeln i 57 kap. 6 § andra
+            stycket inkomstskattelagen. Utskottet har i övrigt ingen erinran
+            mot lagförslagens tekniska utformning. Med den nämnda justeringen
+            tillstyrker utskottet propositionen. Utvidgning av det skatterättsliga
+            andelsbytessystemet Utskottets förslag i korthet Riksdagen avslår
+            motionsförslagen om dels utvidgningar i skattereglerna om andelsbyten,
+            dels - mot bakgrund av att utskottet förut- sätter att regeringen
+            gör en analys av hur andelsbytesreglerna tillämpas - tillkännagivanden
+            om utredning av vissa frågor som rör andelsbytessystemet. Jämför
+            reservation (m, fp, kd, c). Gällande bestämmelser De särskilda
+            skatteregler som gäller vid vissa andelsbyten har tillkommit för
+            att strukturaffärer i näringslivet inte skall hindras av den beskattning
+            som normalt skall ske när aktier och andra andelar byter ägare.
+            För att de särskilda skattereglerna skall vara tillämpliga måste
+            vissa grundläggande krav vara uppfyllda. En avgränsning som har
+            gjorts är att andelsbytesreglerna endast skall omfatta rena delägarrätter,
+            dvs. aktier och andelar, och inte andra instrument, t.ex. terminer,
+            optioner och konvertibla skuldebrev, som inte innebär en rätt
+            till en del i en juridisk person (se prop. 1998/99:15, s. 276
+            och prop. 1999/2000:2, del II, s. 573). Vidare skall andelsbytet
+            ske på marknads- mässiga villkor och skall leda till att det företag
+            som byter till sig andra företags andelar får röstmajoritet i
+            det företag vars aktier det byter till sig. Bland villkoren finns
+            också en kontantgräns, dvs. en regel om att bara en mindre del
+            av vederlaget vid andelsbytet får utgå i kontanter (10 % av den
+            mottagna andelens nominella belopp). Möjligheten att få uppskov
+            även om vederlaget till viss del utgörs av pengar motsvarande
+            högst 10 % av de nyemitterade aktiernas nominella värde infördes
+            fr.o.m. den 1 januari 1993 i de skatteregler som fanns då för
+            att underlätta vissa aktiebyten (prop. 1992/93:131, bet. 1992/93:SkU15,
+            rskr. 1992/93:149). En utgångspunkt för den ändringen var att
+            uppskov med beskattningen var motiverat eftersom aktiebytet innebär
+            att den skattskyldige inte får några kontanter att betala kapitalvinstskatten
+            med. Det argumentet förlorar enligt propositionen i betydelse
+            om en större del av vederlaget betalas ut i annan form än aktier.
+            Det borde därför vara en uttrycklig förutsättning för uppskov
+            att vederlaget endast till en begränsad del får utgå i annat än
+            aktier. I propositionen uttalades även bl.a. att frågan om utrymmet
+            för en kontantersättning blir aktuell även vid en anpassning till
+            det EG-direktiv som behandlar fusioner och andra företagsombildningar
+            (90/434/EEG) och att en med direktivet likformig lösning borde
+            eftersträvas (se prop. 1992/93:131 s. 44). Inför Sveriges medlemskap
+            i EU antog riksdagen, som en anpassning till bl.a. fusionsdirektivet,
+            en lag (1994:1854) om inkomstbeskattningen vid gränsöverskridande
+            omstruktureringar inom EG. En kontantgräns om 10 % av de mottagna
+            andelarnas nominella belopp infördes även för sådana internationella
+            andelsbyten som omfattades av den särskilda lagen (prop. 1994/95:52,
+            bet. 1994/95:SkU10, rskr. 1994/95:155). Kontantgränsen överfördes
+            till de nya enhetliga skatteregler för andelsbyten som riksdagen
+            antog hösten 1998 (prop. 1998/99:15, bet. 1998/99: SkU5, rskr.
+            1998/99:67). Vid utskottsbehandlingen avstyrktes ett motionsyrkande
+            (m) om att ta bort kravet på att kontanter skulle få utgå med
+            ett visst högsta belopp. Bakom ställningstagandet fanns tveksamhet
+            till att belasta taxeringsförfarandet med uppskov vid beskattningen
+            av andelsbyten i de fall en stor del av vederlaget utgörs av kontanter.
+            Eftersom gränssatsen om 10 % enligt Företagsskatteutredningen
+            inte har medfört några nämnvärda svårigheter borde gränsen behållas.
+            Utskottet framhöll även att denna gränssats används i EG:s fusionsdirektiv
+            (90/434/EEG). Vid tillkomsten av inkomstskattelagen överfördes
+            kontantgränsen till de regler som skall hantera andelsbyten och
+            finns numera i såväl bestämmelserna om framskjuten beskattning
+            vid andelsbyten (48 a kap. 2 §) som i bestämmelserna om uppskovsgrundande
+            andelsbyten (49 kap. 2 §). Motionerna I motion Fi2 begär Per Rosengren
+            (v) att regeringen skall utreda den skattemässiga behandlingen
+            av personer som byter bl.a. konvertibler och optioner mot andelar
+            i förhållande till dem som faller inom ramen för skattereglerna
+            om andelsbyten (yrkande 1). Motionären efterlyser också (yrkande
+            2) en utredning av konsekvenserna av en dom där Regeringsrätten
+            pekat på otydligheter i förarbetena vid tillämpning av kontantgränsen
+            (mål nr 2373-2001). I motion Fi3 av Fredrik Reinfeldt m.fl. (m,
+            fp, kd, c) föreslås att kontantbegränsningen vid andelsbyten slopas
+            retroaktivt från den 1 januari 1999 (yrkande 1) och att reglerna
+            om framskjuten beskattning skall utvidgas till att gälla även
+            för sådana andelsbytesaffärer som gjorts i andra värdepapper än
+            aktier (yrkande 2). Utskottets ställningstagande De förslag som
+            har lagts fram i motion Fi3 innehåller krav på att riksdagen skall
+            fatta ett beslut med retroaktivitet fyra år tillbaka i tiden som
+            innebär betydande utvidgningar av skattelagstiftningen vid andelsbyten
+            som riksdagen har lagt fast. Det fusionsdirektiv (90/434/EEG)
+            som gäller inom EU avser utbyte av aktier eller andelar och omfattar
+            förfaranden varigenom ett bolag förvärvar en andel i ett annat
+            bolags kapital. Det förvärvande företaget skall genom förvärvet
+            erhålla röstmajoritet i det andra bolaget. Delägarna i det uppköpta
+            bolaget skall i utbyte få värdepapper som motsvarar kapitalet
+            i det förvärvande bolaget och i vissa fall en kontant betalning
+            som inte överstiger 10 % av det nominella värdet eller, i avsaknad
+            av nominellt värde, ett värde som beräknas på det bokföringsmässiga
+            värdet av de värdepapper som utfärdats i utbyte. Flertalet EU-länder
+            har i sina nationella regler en 10 % kontantgräns beräknad på
+            nominellt värde. Som framgår av tidigare lagmotiv i samband med
+            att en kontantgräns om 10 % infördes i de gamla svenska reglerna
+            om aktiebyten den 1 januari 1993 kan det anföras goda skäl för
+            en begränsning av kontantdelens storlek vid strukturaffärer. Samtidigt
+            har ställningstagandet till kontantgränsens storlek i samband
+            med att nya andelsbytesregler antogs hösten 1998 delvis baserats
+            på antagandet att gränsen inte hade vållat några särskilda problem.
+            Den omständigheten att EU-länderna i stort sett synes ha samma
+            regler i fråga om kontantgräns vid andelsbyten innebär emellertid
+            en särskild komplikation som skulle behöva utredas mer ingående
+            innan tidigare ställningstaganden till kontantgränsens storlek
+            kan tas upp till ett förnyat övervägande. En omläggning i beskattningen
+            av andelsbyten i enlighet med förslaget i motion Fi3 skulle även
+            vid en försiktig uppskattning av antalet berörda affärer leda
+            till antagandet att det rör sig om en statsfinansiell kostnad
+            av en storleksordning som skulle rubba förutsättningarna för det
+            budgetförslag för 2003 som riksdagen har antagit den 4 december
+            i år. Det är därför även av detta skäl inte möjligt för skatteutskottet
+            att i förevarande sammanhang ta ställning till sådana ändringar
+            som föreslås i motion Fi3. Utskottet avstyrker med hänvisning
+            härtill motion Fi3 yrkandena 1 och 2. Fusionsdirektivet är f.n.
+            föremål för översyn inom EU. Det är en uppgift för regeringen
+            att kontinuerligt medverka i det arbetet. Utskottet förutsätter
+            att regeringen särskilt uppmärksammar de frågor med anknytning
+            till andelsbytessystemet som har tagits upp i motionerna, t.ex.
+            om sinsemellan likartade bytesaffärer leder till oacceptabla olikheter
+            vid beskattningen. Det finns också anledning att följa upp om
+            praxis i svenska domstolar tyder på att nuvarande regler leder
+            till icke avsedda effekter eller att det finns tillämpningsproblem
+            som bör föranleda lagändringar. Utskottet förutsätter att regeringen
+            analyserar den rättsutveckling som har skett sedan de nya reglerna
+            antogs och därefter återkommer till riksdagen med en redovisning
+            av vilka konsekvenser detta bör föranleda för det skatterättsliga
+            andelsbytessystemet. Utskottet anser att motion Fi2 bör till viss
+            del anses vara tillgodosedd genom vad utskottet här anfört och
+            bedömer att det inte finns ett behov av att riksdagen beslutar
+            till- kännagivanden i enlighet med vad som föreslås i motionen.
+            Rättelser i lagen om skatt på energi Utskottets förslag i korthet
+            Riksdagen antar de rättelser i lagen om skatt på energi som utskottet
+            föreslår. Våren 2002 antog riksdagen vissa ändringar i lagen (1994:1776)
+            om skatt på energi i samband med att skattekontosystemet utvidgades
+            till att omfatta även punktskatt (prop. 2001/02:127, bet. 2001/02:SkU27,
+            rskr. 2001/02:273). Till följd av att en föreslagen ändring i
+            4 kap. 4 § i propositionen angavs med en felaktig gällande lydelse
+            har paragrafens fjärde stycke fallit bort i den nya lydelse som
+            paragrafen fått enligt den lagändring som träder i kraft den 1
+            januari 2003 (SFS 2002:422). Utskottet föreslår att den felaktiga
+            lydelsen rättas. Utskottets lagförslag finns i bilaga 3. Utskottet
+            föreslår även en rättelse av en felskrivning i den ändring i samma
+            lag som riksdagen har beslutat om den 4 december 2002, men som
+            inte ännu har utfärdats av regeringen (prop. 2002/03:1 Förslag
+            till statsbudget, finansplan m.m., bet. 2002/03:FiU1, förslagspunkt
+            6, rskr. 2002/03:24) om ändring i lagen (1994:176) om skatt på
+            energi. Ändringen innebär att siffrorna 1044 byts ut mot 1004
+            i den föreslagna ändringen av 2 kap. 1 § första stycket 3. Reservation
+            Utvidgning av det skatterättsliga andelsbytessystemet (punkt 2)
+            - m, fp, kd, c av Anna Grönlund (fp), Lennart Hedquist (m), Per
+            Landgren (kd), Anne-Marie Pålsson (m), Gunnar Andrén (fp), Roger
+            Karlsson (c) och Ulf Sjösten (m). Förslag till riksdagsbeslut
+            Vi anser att utskottets förslag under punkt 2 borde ha följande
+            lydelse: Riksdagen begär att regeringen återkommer med förslag
+            som i enlighet med vad som anförs i motion 2002/03:Fi3 innebär
+            att framskjuten beskattning skall gälla även för sådana andelsbytesaffärer
+            som gjorts i andra värdepapper än aktier och andelar retroaktivt
+            fr.o.m. den 1 januari 1999 och att kravet på att bara en viss
+            minsta del av vederlaget vid ett andelsbyte får utgå i kontanter
+            slopas fr.o.m. samma tidpunkt. Därmed bifaller riksdagen delvis
+            motionerna 2002/03:Fi2 och 2002/03:Fi3. Ställningstagande Moderaterna,
+            Folkpartiet, Kristdemokraterna och Centerpartiet har godtagit
+            regeringens val av lösning på problematiken med de så kallade
+            pomperi- possaeffekterna av de s.k. 3:12-reglerna. Vår grundläggande
+            kritik mot hur fåmansföretag beskattas kvarstår, och regeringens
+            förslag undanröjer bara de allra värsta effekterna av 3:12-reglerna.
+            Våra partier har vid upprepade tillfällen presenterat alternativ
+            till dagens beskattning av fåmansföretag utan att hittills ha
+            fått gehör för dessa alternativ hos regeringen. Det problem som
+            avses i propositionen har sin grund i att en del av den vinst
+            som på papperet har uppkommit vid andelsbytet skall beskattas
+            som inkomst av tjänst och att reglerna inte tillåter att sådan
+            inkomst får kvittas mot kapitalförlust som uppkommer på de mottagna
+            andelarna. Denna typ av orimliga skatteeffekter har, förutom att
+            de låter de drabbade personerna fara illa, en förödande inverkan
+            på människors vilja att starta och driva företag. Vi anser mot
+            denna bakgrund det vara angeläget att en retroaktiv förändring
+            av lagstiftningen bör utvidgas till att omfatta andra typer av
+            värdepapper än aktier och andelar som utgår som vederlag vid företagsuppköp.
+            Konvertibla skuldebrev och teckningsoptioner som används som betalning
+            för andelar i företag och som beläggs med säljförbud kan ge upphov
+            till samma typ av skatteskulder för kapitalinkomster som aldrig
+            existerat för säljaren som i de fall som tidigare beskrivits med
+            vanliga andelar. Vi anser att det bör ankomma på regeringen att
+            återkomma med förslag om en sådan förändring i omstruktureringsreglerna
+            som bör kunna gälla retroaktivt fr.o.m. den 1 januari 1999. Det
+            har i samband med uppköpsaffärer under 1999 och 2000 visat sig
+            att kontantbegränsningsregeln vid andelsbyten innebär en för låg
+            tröskel. Dessutom pekar rättspraxis på att kontantbegränsningsregeln
+            numera enkelt kan kringgås. Vi har mot denna bakgrund ansett att
+            riksdagen redan i förevarande ärende bör ändra regeln. Under beredningen
+            i skatteutskottet har det emellertid visat sig att utskottet inte
+            har velat medverka till att utforma en sådan lagändring så som
+            har förutsatts i motionen. Det är därför inte möjligt att nu presentera
+            ett sådant förslag för riksdagen. I stället föreslår vi att riksdagen
+            begär att regeringen skall återkomma med ett förslag om slopad
+            kontantbegränsning. Förslaget bör utformas så att det kan tillämpas
+            retroaktivt fr.o.m. den 1 januari 1999. Med hänvisning till det
+            anförda föreslår vi att riksdagen med delvis bifall till motionerna
+            Fi2 och Fi3 begär att regeringen återkommer till riksdagen med
+            de lagändringar som krävs för att åtgärda kvarvarande brister
+            i andelsbytessystemet. Bilaga 1 Förteckning över behandlade förslag
+          </p>
+          <p>
+            Propositionen Regeringen (Finansdepartementet) föreslår i proposition
+            2002/03:15 att riksdagen antar regeringens förslag till 1. lag
+            om ändring i inkomstskattelagen (1999:1229), 2. lag om ändring
+            i lagen (2001:1227) om självdeklarationer och kontrolluppgifter.
+          </p>
+          <p>
+            Följdmotioner 2002/03:Fi2 av Per Rosengren (v) vari yrkas 1.
+            Riksdagen begär att regeringen utreder om personer inom i motionen
+            anförda områden skattemässigt kommer att behandlas olika i förhållande
+            till dem som faller inom ramen för andelsbyten för vilka det nu
+            föreslås en lagändring. 2. Riksdagen begär att regeringen utreder
+            konsekvenserna av den i motionen refererade regeringsrättsdomen.
+            2002/03:Fi3 av Fredrik Reinfeldt m.fl. (m, fp, kd, c) vari yrkas
+            1. Riksdagen beslutar att slopa gränsen för kontantbelopp vid
+            andelsbyten i inkomstskattelagen retroaktivt från den 1 januari
+            1999 i enlighet med vad som anförs i motionen. 2. Riksdagen beslutar
+            att samma regler om framskjuten beskattning skall gälla även för
+            sådana andelsbytesaffärer som gjorts i andra värdepapper än aktier
+            enligt vad som anförs i motionen.
+          </p>
+          <p>
+            Bilaga 2 Regeringens lagförslag Bilaga 3 Utskottets lagförslag
+            Förslag till lag om ändring i inkomstskattelagen (1999:1229) Härigenom
+            föreskrivs att 23 kap. 19 § inkomstskattelagen (1999:1229) skall
+            ha följande som utskottets förslag betecknade lydelse. -----------------------------------------------------
+            Nuvarande lydelse Utskottets förslag -----------------------------------------------------
+            23 kap. 19 § -----------------------------------------------------
+            Om överlåtaren är ett företag och om någon andel i företaget är
+            kvalificerad, skall förvärvaren vara en fysisk person, ett företag
+            eller ett svenskt han- delsbolag med enbart företag som delägare.
+            ----------------------------------------------------- Om förvärvaren
+            är ett Om förvärvaren är ett företag, skall minst företag, skall
+            minst samma andel av andelarna samma andel av andelarna i det
+            förvärvande i det förvärvande företaget vara kvalifice- företaget
+            vara kvalifice- rade som andelen rade som andelen kvalificerade
+            andelar i kvalificerade andelar i det överlåtande det överlåtande
+            företaget. företaget. Med kvalificerad andel avses i detta stycke
+            inte en sådan andel som anses kvalificerad enligt 57 kap. 6 §
+            andra stycket. -----------------------------------------------------
+            Om förvärvaren är ett svenskt handelsbolag, skall minst samma
+            andel av andelarna i vart och ett av de delägande företagen vara
+            kvalificerade som andelen kvalificerade andelar i det överlåtande
+            företaget. -----------------------------------------------------
+            Förslag till lag om ändring i lagen (2002:422) om ändring i lagen
+            (1994:1776) om skatt på energi Härigenom föreskrivs att 4 kap.
+            4 § lagen (1994:1776) om skatt på energi i stället för dess lydelse
+            enligt lagen (2002:422) om ändring i nämnda lag skall ha följande
+            lydelse. -----------------------------------------------------
+            Nuvarande lydelse Föreslagen lydelse -----------------------------------------------------
+            4 kap. 4 § -----------------------------------------------------
+            ----------------------------------------------------- En upplagshavare
+            i Sverige skall hos beskattningsmyndigheten ställa säkerhet för
+            betalning av den skatt som kan påföras honom i Sverige eller annat
+            EG-land vid 1. transport av obeskattat bränsle till en annan svensk
+            upplagshavare, 2. transport av obeskattat bränsle till en näringsidkare
+            i ett annat EG-land. Säkerheten skall ställas innan transporten
+            påbörjas och uppgå till ett belopp som motsvarar den skatt som
+            i medeltal belöper på de obeskattade bränslen som upplagshavaren
+            transporterar under ett dygn. Vid beräkningen av medeltalet skall
+            hänsyn endast tas till de dygn under ett år då transport av obeskattat
+            bränsle sker. Ställd säkerhet får tas i anspråk om påförd skatt
+            inte betalas i rätt tid. Har en upplagshavare påförts skatt i
+            ett annat EG-land får säkerheten tas i anspråk om skattefordran
+            är befogad och skatten inte har betalats i rätt tid. Upplagshavare
+            skall även ställa säkerhet för betalning av skatt för sådana lagerbrister
+            som avses i 5 kap. 1 § 4. Säkerheten skall uppgå till ett belopp
+            som motsvarar tio procent av skatten på de bränslen som upplagshavaren
+            i medeltal förvarar i skatteupplaget under ett år. Ställd säkerhet
+            får tas i anspråk om skatten inte betalas i rätt tid. -----------------------------------------------------
+            Vid beräkning av säkerhetsbelopp enligt tredje stycket får bortses
+            från bränslen som beredskapslagras enligt lagen (1984:1049) om
+            beredskapslagring av olja och kol. -----------------------------------------------------
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

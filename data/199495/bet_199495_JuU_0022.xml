@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_199495_JuU_0022">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="rdbeslut" n="Riksdagens beslut">Bifall till utskottets hemställan</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GI09113</idno>
+              <title>1995-06-01</title>
+              <biblScope unit="riksdag-session">1994/95</biblScope>
+              <biblScope unit="document-number">113</biblScope>
+              <note type="display-reference">1995-06-01</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GI09113</idno>
+              <title>1995-06-01</title>
+              <biblScope unit="riksdag-session">1994/95</biblScope>
+              <biblScope unit="document-number">113</biblScope>
+              <note type="display-reference">1995-06-01</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GI03188</idno>
+              <title>Effektiviseringar på delgivningsområdet</title>
+              <biblScope unit="riksdag-session">1994/95</biblScope>
+              <biblScope unit="document-number">188</biblScope>
+              <note type="display-reference">proposition 1994/95:188 Effektiviseringar på delgivningsområdet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GI02Ju16</idno>
+              <title>med anledning av prop. 1994/95:188 Effektiviseringar på delgivningsområdet</title>
+              <title type="sub">av Gun Hellsvik m.fl. (m)</title>
+              <biblScope unit="riksdag-session">1994/95</biblScope>
+              <biblScope unit="document-number">Ju16</biblScope>
+              <note type="display-reference">motion 1994/95:Ju16 med anledning av prop. 1994/95:188 Effektiviseringar på delgivningsområdet</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="AVG" subtype="beredning" n="5" when="1995-06-01">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="beredning" n="3" when="1995-06-01">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="beredning" n="1" when="1995-05-30">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="1995-05-16">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="1995-04-25">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Justitieutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            1994/95:JUU22
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Några delgivningsfrågor
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <div type="section" subtype="h2">
+            <head>
+              Innehåll
+            </head>
+            <list type="unordered">
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bsam">
+                    Sammanfattning
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bprop">
+                    Propositionen
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bmot">
+                    Motionen
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#btext">
+                    Utskottet
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bhemst">
+                    Hemställan
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bres">
+                    Reservationer
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#binh">
+                    Innehållsförteckning
+                  </ref>
+                </p>
+              </item>
+            </list>
+            <p>
+              1994/95 JuU22
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bsam">
+              Sammanfattning
+            </head>
+            <p>
+              I detta betänkande behandlar utskottet ett regeringsförslag om
+              effektiviseringar på delgivningsområdet. Bl.a. innebär förslaget
+              utvidgade möjligheter att använda förenklad delgivning och att
+              lägga delgivningsansvar på käranden i dispositiva tvistemål. I
+              ärendet behandlas också en med anledning av propositionen väckt
+              motion. Utskottet tillstyrker bifall till propositionen och avstyrker
+              motionen.
+            </p>
+            <p>
+              Två reservationer (m) har fogats till betänkandet.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bprop">
+              Propositionen
+            </head>
+            <p>
+              I proposition 1994/95:188 (Justitiedepartementet) har regeringen
+              föreslagit att riksdagen antar de i propositionen framlagda förslagen
+              till
+            </p>
+            <p>
+              1. lag om ändring i delgivningslagen (1970:428),
+            </p>
+            <p>
+              2. lag om ändring i rättegångsbalken.
+            </p>
+            <p>
+              Lagförslaget, som har granskats av Lagrådet, har fogats till
+              betänkandet, se bilaga.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bmot">
+              Motionen
+            </head>
+            <p>
+              1994/95:Ju16 av Gun Hellsvik m.fl. (m) vari yrkas
+            </p>
+            <p>
+              1. att riksdagen beslutar om utvidgat delgivningsansvar för käranden,
+              i enlighet med vad som anförts i motionen,
+            </p>
+            <p>
+              2. att riksdagen beslutar om utvidgning av stämningsmannabehörighet
+              till enskilda näringsidkare som driver delgivningsverksamhet,
+              i enlighet med vad som anförts i motionen.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="btext">
+              Utskottet
+            </head>
+            <p>
+              Bakgrund
+            </p>
+            <p>
+              Det finns i olika lagar och författningar regler om att handlingar
+              i vissa situationer skall delges en person, dvs. det skall i efterhand
+              kunna styrkas att handlingen överlämnats till den sökte. Detta
+              gäller t.ex. stämning i tvistemål och brottmål, kallelser till
+              förhandlingar i domstol m.m. Det förfarande som syftar till att
+              åstadkomma bevis om att delgivning skett regleras i delgivningslagen
+              (1970:428).
+            </p>
+            <p>
+              Det finns en rad olika former av delgivning. Reglerna innebär
+              i huvudsak följande.
+            </p>
+            <p>
+              Vid ordinär delgivning skickas den handling som skall delges
+              som lösbrev med posten med ett delgivningskvitto som mottagaren
+              skriver under och returnerar. Ordinär delgivning kan också ske
+              som förenklad delgivning (3 § första stycket).
+            </p>
+            <p>
+              Om det finns anledning att anta att ett delgivningskvitto inte
+              skulle skickas tillbaka inom utsatt tid kan delgivning ske med
+              särskild postdelgivning. I detta fall anlitas posten som ser till
+              att handlingen överlämnas till den sökte (3 § andra stycket).
+            </p>
+            <p>
+              När det är lämpligt kan kallelser och andra handlingar som inte
+              är omfattande eller annars svårtillgängliga läsas upp i telefon
+              och därefter skickas med post, telefondelgivning (3 § tredje stycket).
+            </p>
+            <p>
+              Om delgivning inte kan ske i enlighet med vad som hittills sagts
+              får delgivning ske genom stämningsman eller vissa andra i lagen
+              uppräknade personer, vars intyg om att delgivning skett utgör
+              fullt bevis om delgivning, stämningsmannadelgivning (3 § fjärde
+              stycket).
+            </p>
+            <p>
+              Förenklad delgivning innebär att myndigheten sänder den handling
+              som skall delges med posten till den sökte under hans senast kända
+              adress och minst en dag senare skickar ett meddelande om att handlingen
+              har sänts. Förfarandet kräver som regel att den sökte först delgetts
+              upplysning om att förenklad delgivning kan komma att användas
+              i målet (3 a §).
+            </p>
+            <p>
+              I vissa fall -- i första hand om den sökte är svåranträffbar
+              -- är det också möjligt att lämna den handling som skall delges
+              till någon annan än den sökte, t.ex. en vuxen familjemedlem, arbetsgivaren
+              eller en anställd varefter ett meddelande härom skickas med posten
+              till den sökte (12 §).
+            </p>
+            <p>
+              Om den sökte saknar känt hemvist och det inte går att klarlägga
+              var han uppehåller sig sker delgivning genom kungörelse, kungörelsedelgivning.
+              Sådan delgivning får också användas även om den sökte har känt
+              hemvist om det finns anledning att anta att han har avvikit eller
+              på annat sätt håller sig undan. I sistnämnda fall kan handlingen
+              också lämnas i hans bostad eller där fästas på dörren (15 §).
+            </p>
+            <p>
+              Kungörelsedelgivning sker genom att den handling som skall delges
+              hålls tillgänglig på myndighetens kansli eller på annan plats
+              som myndigheten bestämmer och meddelande härom offentliggörs,
+              t.ex. genom annonsering i dagspressen (17 §).
+            </p>
+            <p>
+              Det finns också särskilda regler för delgivning med juridiska
+              personer.
+            </p>
+            <p>
+              Möjligheten till förenklad delgivning infördes år 1991 (prop.
+              1990/91:11, JuU8, rskr. 90). Samtidigt genomfördes en rad andra
+              förenklingar i delgivningsförfarandet. Dessa har nu utvärderats,
+              och en redovisning finns i Domstolsverkets rapport (1993:6) Förenklad
+              delgivning m.m. -- en utvärdering. Sammanfattningsvis har Domstolsverket
+              funnit att de nya reglerna i stort fungerar tillfredsställande
+              men att det finns utrymme för ytterligare förbättringar av delgivningsreglerna.
+              Förslag om förbättringar har också framförts från andra håll till
+              Justitiedepartementet. Det i detta ärende aktuella lagförslaget
+              bygger på de frågor som sålunda väckts och som behandlas i departementspromemorian
+              (Ds 1994:129) Vissa effektiviseringar på delgivningsområdet och
+              remissbehandlingen av den. Lagförslaget har som nyss framgått
+              granskats av Lagrådet.
+            </p>
+            <p>
+              Propositionens huvudsakliga innehåll
+            </p>
+            <p>
+              I propositionen föreslås vissa ändringar av reglerna för förenklad
+              delgivning. För att underlätta handläggningen framför allt vid
+              tingsrätt av mål som inletts genom summarisk process vid kronofogdemyndigheten
+              föreslås att svaranden i ett mål hos kronofogdemyndigheten om
+              betalningsföreläggande eller vanlig handräckning skall kunna delges
+              information om att förenklad delgivning kan komma att användas
+              vid tingsrätten -- eller Arbetsdomstolen eller Statens va-nämnd
+              -- om målet efter bestridande överlämnas dit. Vidare föreslås
+              att informationen om förenklad delgivning inte skall behöva delges,
+              om den lämnas till en part i nära anslutning till att denne gett
+              in någon handling i det aktuella målet.
+            </p>
+            <p>
+              Övriga förslag i propositionen tar sikte på andra delgivningsformer
+              än förenklad delgivning.
+            </p>
+            <p>
+              Det föreslås utvidgade möjligheter att tillgripa husrannsakan
+              för att kunna genomföra delgivning i brottmål.
+            </p>
+            <p>
+              Vidare föreslås att utredning i ett delgivningsärende om att
+              den sökte håller sig undan skall få användas vid bedömning av
+              om han håller sig undan även i ett senare delgivningsärende.
+            </p>
+            <p>
+              Det förordas också utvidgade möjligheter att lägga delgivningsansvar
+              på käranden i dispositiva tvistemål efter mönster från den summariska
+              processen. I denna del innebär förslaget att om delgivning av
+              stämning i ett dispositivt tvistemål inte har kunnat ske, får
+              rätten erbjuda käranden att ta över delgivningen vid påföljd att
+              stämningsansökan annars avvisas.
+            </p>
+            <p>
+              Lagändringarna föreslås träda i kraft den 1 juli 1995.
+            </p>
+            <p>
+              Allmänna utgångspunkter
+            </p>
+            <p>
+              Delgivningssystemet har under senare år varit föremål för flera
+              översyner, och lagändringar har företagits vid flera tillfällen.
+              (se t.ex. prop. 1978/79:11, JuU 11, rskr. 36, prop. 1984/85:109,
+              JuU 23, rskr. 216 och prop. 1990/91:11, JuU8, rskr. 90). Också
+              riksdagens revisorer har uppmärksammat delgivningsverksamheten.
+              Revisorerna föreslog riksdagen (försl. 1987/88:16) att delgivningsförfarandet
+              vid domstolar och statliga myndigheter skulle bli föremål för
+              en allomfattande och förutsättningslös översyn. Detta förslag
+              avvisades av utskottet i sitt av riksdagen godkända betänkande
+              (1988/89:JuU9) med hänvisning till arbete som redan pågick i Justitiedepartementet
+              och som år 1990 resulterade i propositionen med förslaget om förenklad
+              delgivning m.m. I ärendet gjordes ett tillkännagivande om vikten
+              av snabba förbättringar på delgivningsområdet, varvid revisorernas
+              förslag skulle beaktas.
+            </p>
+            <p>
+              Syftet med det här översiktligt redovisade lagstiftnings- och
+              utredningsarbetet har genomgående varit att på olika sätt förenkla
+              och förbättra delgivningssystemet med bibehållande av en hög rättssäkerhetsnivå.
+            </p>
+            <p>
+              Överväganden
+            </p>
+            <p>
+              Utskottet vill för sin del börja med att understryka att utgångspunkten
+              är att staten skall tillhandahålla ett väl fungerande delgivningssystem
+              för myndigheter och parter. Det handlar då inte enbart om effektiviteten
+              i de administrativa systemen även om detta är något som inte får
+              negligeras; tvärtom handlar det främst om en grundläggande rättssäkerhetsfråga.
+              En aspekt härav är att en förutsättning för att en person skall
+              kunna tillvarata sin rätt är att han på ett tillräckligt säkert
+              sätt underrättas om vad som krävs av honom. En annan är att en
+              person som har krav på en motpart inte skall kunna hindras att
+              komma till sin rätt genom att motparten håller sig undan delgivning.
+              Ändringar av delgivningsreglerna innebär därför i allmänhet en
+              balansgång. Det finns enligt utskottets mening inte utrymme för
+              att överlag slopa de delgivningskrav som finns i dag eller att
+              radikalt sänka kraven för när delgivning skall anses ha skett.
+              Däremot kan systemet förbättras i olika hänseenden.
+            </p>
+            <p>
+              Utskottet kan redan här konstatera att utskottet från här angivna
+              utgångspunkter inte har några principiella invändningar mot de
+              förslag som läggs fram i propositionen.
+            </p>
+            <p>
+              I motion Ju16 (m) förs fram ytterligare några förslag. Det handlar
+              dels om en mer långtgående skyldighet för käranden att själv ombesörja
+              delgivning i tvistemål, dels om en utvidgning av stämningsmannabehörigheten
+              till enskilda näringsidkare efter ett auktorisationsförfarande.
+            </p>
+            <p>
+              Utskottet behandlar först frågan om kärandens ansvar för delgivning.
+            </p>
+            <p>
+              Förslaget i propositionen i denna del innebär som ovan framgått
+              att rätten kan erbjuda käranden att ta över delgivningen av stämning
+              i ett dispositivt tvistemål vid påföljd att stämningsansökan eljest
+              avvisas. En förutsättning är att rätten först gjort aktningsvärda
+              delgivningsförsök men misslyckats.
+            </p>
+            <p>
+              I motion Ju16 föreslås att käranden skall ombesörja delgivning
+              av stämning i alla dispositiva tvistemål.
+            </p>
+            <p>
+              Enligt 2 § delgivningslagen skall delgivning ombesörjas av myndigheten.
+              Om en part begär att själv få ombesörja delgivning kan myndigheten
+              medge det om det kan ske utan olägenhet. I sådana fall skall parten
+              föreläggas att inom viss tid inkomma med bevis om att delgivning
+              skett. Sker inte det skall myndigheten själv ombesörja delgivningen.
+            </p>
+            <p>
+              Här bör också nämnas att det enligt 33 kap. 1 § rättegångsbalken
+              (RB) åligger käranden att i stämningsansökan ange svarandens namn
+              och adress och andra uppgifter som krävs för delgivning. Enligt
+              33 kap. 10 § RB kan brister i nu berörda hänseenden leda till
+              att stämningsansökan avvisas om rättelse inte sker.
+            </p>
+            <p>
+              Utskottet vill för sin del ifrågasätta om det, som anförs i motionen,
+              finns några besparingar att göra när det gäller de okomplicerade
+              delgivningarna. Däremot skulle ett genomförande av motionsförslaget
+              medföra besparingar för staten och motsvarande ökning av rättegångskostnaderna
+              för käranden i de fall delgivning går att genomföra först efter
+              ett mer omfattande delgivningsförfarande än vad som gäller för
+              ordinär delgivning. De ökade kostnaderna får enligt vanliga regler
+              om rättegångskostnadernas fördelning betalas av svaranden om käranden
+              vinner processen; om käranden å andra sidan förlorar får han själv
+              stå för kostnaderna.
+            </p>
+            <p>
+              Det som talar mot att käranden övertar ansvaret för delgivning
+              av stämningen i angivna fall är främst att det för en processuellt
+              svag kärande kan bli en övermäktig uppgift att själv ombesörja
+              delgivningen.
+            </p>
+            <p>
+              Utskottets utgångspunkt i detta ärende är att det åligger staten
+              att tillhandahålla ett väl fungerande delgivningssystem. Detta
+              bör enligt utskottets mening även gälla de dispositiva tvistemålen.
+              Om en kärande emellertid själv vill ombesörja delgivningen finns,
+              som framgått, möjlighet för tingsrätten att överlåta uppgiften
+              på honom. Härutöver tillkommer den i propositionen föreslagna
+              möjligheten att i viss begränsad utsträckning lägga delgivningsansvaret
+              på käranden; talan kan annars avvisas.
+            </p>
+            <p>
+              Utskottet, som anser att huvudregeln alltjämt bör vara att tingsrätten
+              skall ombesörja delgivningen av stämning i dispositiva tvistemål,
+              finner för sin del förslaget i propositionen väl avvägt. Utskottet
+              tillstyrker bifall till regeringsförslaget och avstyrker alltså
+              bifall till motion Ju16 i denna del.
+            </p>
+            <p>
+              Utskottet går härefter över till frågan om privata stämningsmän.
+            </p>
+            <p>
+              I den promemoria som ligger till grund för propositionen redovisas
+              i skissform vad som skulle krävas för en utvidgning av stämningsmannabehörigheten
+              till enskilda näringsidkare. Övervägandena (s. 30 f) innebär bl.a.
+              att det bör kunna godtas att privat arbetande stämningsmän som
+              står under offentlig kontroll ges samma behörighet som offentligt
+              anställda stämningsmän när det gäller att överlämna handlingar
+              och intyga att så har skett. Det föreslås att det skulle ankomma
+              på den lokala polismyndigheten, Rikspolisstyrelsen eller länsstyrelsen,
+              eller en kombination av dessa myndigheter, att dels meddela lämplig
+              utbildning för stämningsmän, dels förordna stämningsmän som vill
+              arbeta i privat regi på samma sätt som den lokala polismyndigheten
+              nu utbildar och förordnar sina egna stämningsmän. Tillsyn över
+              de privata stämningsmännen skulle utövas av polisen eller länsstyrelsen.
+            </p>
+            <p>
+              Övervägandena i promemorian i denna del motsvaras väl av de förslag
+              som förs fram i motion Ju16. I propositionen (s. 11) anförs att
+              bl.a. promemorians förslag om en utvidgning av stämningsmannabehörigheten
+              kräver ytterligare överväganden. Frågan bereds nu vidare i Justitiedepartementet.
+            </p>
+            <p>
+              Enligt utskottets mening bör det pågående beredningsarbetet avvaktas
+              innan riksdagen tar ställning. Motion Ju16 i denna del avstyrks.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bhemst">
+              Hemställan
+            </head>
+            <p>
+              Utskottet hemställer
+            </p>
+            <p>
+              1. beträffande effektiviseringar på delgivningsområdet att riksdagen
+              med avslag på motion 1994/95:Ju16 yrkande 1 antar regeringens
+              i proposition 1994/95:188 framlagda förslag till lag om ändring
+              i delgivningslagen (1970:428) och lag om ändring i rättegångsbalken,
+              res. 1 (m)
+            </p>
+            <p>
+              2. beträffande privata stämningsmän att riksdagen avslår motion
+              1994/95:Ju16 yrkande 2. res. 2 (m)
+            </p>
+            <p>
+              Stockholm den 16 maj 1995
+            </p>
+            <p>
+              På justitieutskottets vägnar
+            </p>
+            <p>
+              Gun Hellsvik
+            </p>
+            <p>
+              I beslutet har deltagit: Gun Hellsvik (m), Lars-Erik Lövdén (s),
+              Birthe Sörestedt (s), Göran Magnusson (s), Sigrid Bolkéus (s),
+              Göthe Knutson (m), Märta Johansson (s), Görel Thurdin (c), Margareta
+              Sandgren (s), Siw Persson (fp), Ann-Marie Fagerström (s) (delvis),
+              Alice Åström (v), Pär Nuder (s), Lars Björkman (m), Kia Andreasson
+              (mp), Helena Frisk (s) (delvis) och Jeppe Johnsson (m).
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bres">
+              Reservationer
+            </head>
+            <p>
+              1. Effektiviseringar på delgivningsområdet (mom. 1)
+            </p>
+            <p>
+              Gun Hellsvik, Göthe Knutson, Lars Björkman och Jeppe Johnsson
+              (alla m) anser
+            </p>
+            <p>
+              dels att den del av utskottets yttrande på s. 4 som börjar med
+              "Utskottet vill" och på s. 5 slutar med "denna del" bort ha följande
+              lydelse:
+            </p>
+            <p>
+              Utskottet konstaterar först att det redan med gällande regler
+              finns vissa möjligheter för käranden att själv få ombesörja delgivningen.
+              Detta är emellertid ett frivilligt åtagande. Enligt utskottets
+              mening är det rimligt att, som anförs i motion Ju16, den part
+              i ett dispositivt mål som har intresse av att processen kommer
+              till stånd också får vara beredd att själv medverka till att domstolsförfarandet
+              inleds genom att ombesörja delgivningen. Härför talar starka skäl,
+              inte minst behovet av att skära i statens utgifter. Enligt utskottets
+              uppfattning går förslaget i propositionen i denna del inte tillräckligt
+              långt och regeringen bör få i uppdrag att under hösten återkomma
+              till riksdagen med ett kompletterande förslag som har till utgångspunkt
+              att det skall åligga käranden att ombesörja delgivning av stämning
+              i dispositiva tvistemål. Nya regler bör kunna träda i kraft den
+              1 januari 1966. Vad utskottet nu anfört med anledning av motion
+              Ju16 bör ges regeringen till känna. I avvaktan härpå godtar utskottet
+              det mindre långtgående förslaget i propositionen.
+            </p>
+            <p>
+              dels att utskottets hemställan under moment 1 bort ha följande
+              lydelse:
+            </p>
+            <p>
+              1. beträffande effektiviseringar på delgivningsområdet att riksdagen
+              med bifall till proposition 1994/95:188 och med anledning av motion
+              1994/95:Ju16 yrkande 1 dels antar i propositionen framlagda förslag
+              till lag om ändring i delgivningslagen (1970:428) och lag om ändring
+              i rättegångsbalken, dels som sin mening ger regeringen till känna
+              vad utskottet anfört.
+            </p>
+            <p>
+              2. Privata stämningsmän (mom. 2)
+            </p>
+            <p>
+              Gun Hellsvik, Göthe Knutson, Lars Björkman och Jeppe Johnsson
+              (alla m) anser
+            </p>
+            <p>
+              dels att den del av utskottets yttrande som på s. 5 börjar med
+              "Enligt utskottets" och slutar med "del avstyrks" bort ha följande
+              lydelse:
+            </p>
+            <p>
+              Utskottet kan för sin del se flera fördelar med en utvidgning
+              av stämningsmannabehörigheten på det sätt som föreslås i motion
+              Ju16, och utskottet är för sin del redo att redan nu ta ställning
+              för principen om privata stämningsmän. Det återstår dock vissa
+              överväganden, t.ex. beträffande tillsynen av den icke offentliga
+              delgivningsverksamheten. Detta arbete bör enligt utskottets mening
+              snabbas på. Regeringen bör alltså under hösten för riksdagen lägga
+              fram ett förslag om en utvidgning av stämningsmannabehörigheten
+              i linje med vad som anförs i motion Ju16. Siktet bör vara inställt
+              på att nya regler skall kunna träda i kraft den 1 januari 1996.
+              Vad utskottet nu med anledning av motion Ju16 anfört bör ges regeringen
+              till känna.
+            </p>
+            <p>
+              dels att utskottets hemställan under moment 2 bort ha följande
+              lydelse:
+            </p>
+            <p>
+              2. beträffande privata stämningsmän att riksdagen med anledning
+              av motion 1994/95:Ju16 yrkande 2 som sin mening ger regeringen
+              till känna vad utskottet anfört.
+            </p>
+            <p>
+              Regeringens lagförslag
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <p xml:id="bbil">
+              Bilaga
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="binh">
+              Innehållsförteckning
+            </head>
+            <p>
+              Sammanfattning 1 Propositionen 1 Motionen 1 Utskottet 2 Bakgrund
+              2 Propositionens huvudsakliga innehåll 3 Allmänna utgångspunkter
+              3 Överväganden 4 Hemställan 6 Reservationer 6 Effektiviseringar
+              på delgivningsområdet (mom. 1) 6 Privata stämningsmän (mom. 2)
+              7 Bilaga 8 Regeringens lagförslag 8
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

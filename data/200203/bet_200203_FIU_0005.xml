@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200203_FIU_0005">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen godkände regeringens förslag i budgetpropositionen om 23,7 miljarder kronor i anslag till avgiften till Europeiska gemenskapen.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Avgiften till Europeiska gemenskapen (FiU5)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen. Avslag på motionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0941</idno>
+              <title>2002-12-20</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">41</biblScope>
+              <note type="display-reference">2002-12-20</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0941</idno>
+              <title>2002-12-20</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">41</biblScope>
+              <note type="display-reference">2002-12-20</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GQ0K90</idno>
+              <title>2002/03:90</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">90</biblScope>
+              <note type="display-reference">2002/03:90</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GQ031</idno>
+              <title>Budgetpropositionen för 2003</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">1</biblScope>
+              <note type="display-reference">proposition 2002/03:1 Budgetpropositionen för 2003</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02U323</idno>
+              <title>Sverige i Europa</title>
+              <title type="sub">av Bo Lundgren m.fl. (M)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">U323</biblScope>
+              <note type="display-reference">motion 2002/03:U323 Sverige i Europa</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2002-12-13">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-12-12">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-12-12">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-12-11">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-12-10">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-12-10">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-12-05">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-12-05">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-12-03">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2002-12-20">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-12-20">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-12-20">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-12-20">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-12-20">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-12-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-12-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Finansutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2002/03:FIU5
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Utgiftsområde 27 Avgiften till Europeiskagemenskapen
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I betänkandet tillstyrker utskottet regeringens
+            förslag till anslag inom utgiftsområde 27 Avgiften till Europeiska
+            gemenskapen. Utskottet tillstyrker också att regeringen skall
+            bemyndigas att ikläda staten det utgiftsåtagande som följer av
+            EU-budgeten för budgetåret 2003. Två motionsyrkanden om EU:s budgettak
+            samt beivrande av fusk och bedrägerier avstyrks med hänvisning
+            till riksdagens tidigare uttalanden. I betänkandet finns en reservation
+            (m, fp).
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Anslaget inom utgiftsområde
+            27 budgetåret 2003 Riksdagen anvisar anslag under utgiftsområde
+            27 Avgiften till Europeiska gemenskapen på det sätt som framgår
+            av efterföljande specifikation. Därmed bifaller riksdagen proposition
+            2002/03:1 utgiftsområde 27 punkt 2. 2. Åtaganden som följer av
+            EU-budgeten för budgetåret 2003 Riksdagen bemyndigar regeringen
+            att ikläda staten de åtaganden som följer av EU-budgeten för budgetåret
+            2003 avseende åtagandebemyndiganden. Därmed bifaller riksdagen
+            proposition 2002/03:1 utgiftsområde 27 punkt 1. 3. EU:s budgettak
+            samt beivrande av fusk och bedrägerier Riksdagen avslår motion
+            2002/03:U323 yrkandena 12 och 13. Reservation (m, fp) Stockholm
+            den 10 december 2002 På finansutskottets vägnar Sven-Erik Österberg
+            Följande ledamöter har deltagit i beslutet: Sven- Erik Österberg
+            (s), Fredrik Reinfeldt (m), Carin Lundberg (s), Karin Pilsäter
+            (fp), Sonia Karlsson (s), Agneta Ringman (s), Gunnar Axén (m),
+            Tommy Waidelich (s), Hans Hoff (s), Tomas Högström (m), Agneta
+            Gille (s), Bo Bernhardsson (s), Gunnar Nordmark (fp), Olle Sandahl
+            (kd), Jörgen Johansson (c) och Rolf Olsson (v). Förslag till beslut
+            om anslag inom utgiftsområde 27 Avgiften till Europeiska gemenskapen
+            Utskottets förslag överensstämmer med regeringens förslag till
+            anslagsfördelning. Tusental kronor ------------------------------------------------------------
+            Politikområde Utskottets ------------------------------------------------------------
+            Anslag förslag ------------------------------------------------------------
+            ------------------------------------------------------------ 93
+            Avgiften till Europeiska gemenskapen ------------------------------------------------------------
+            1 Avgiften till Europeiska 23 695 000 gemenskapen (ram) ------------------------------------------------------------
+            ------------------------------------------------------------ Summa
+            för utgiftsområdet 23 695 000 ------------------------------------------------------------
+          </p>
+          <p>
+            2002/03 FiU5 Redogörelse för ärendet I budgetpropositionen för
+            2003 föreslår regeringen för utgiftsområde 27 Avgiften till Europeiska
+            gemenskapen att riksdagen dels godkänner den föreslagna medelsanvisningen
+            för det anslag som finns uppfört på utgiftsområdet, dels bemyndigar
+            regeringen att ikläda staten de åtaganden som följer av EU-budgeten
+            för budgetåret 2003 avseende åtagandebemyndiganden. I betänkandet
+            behandlar utskottet också två motionsyrkanden väckta under allmänna
+            motionstiden. Regeringens och motionärernas förslag återges i
+            bilaga till betänkandet. Statssekreterare Curt Malmborg, Finansdepartementet,
+            informerade utskottet om arbetet med 2003 års EU-budget vid utskottets
+            sammanträde den 21 november 2002.
+          </p>
+          <p>
+            Utskottets överväganden Anslag och åtagandebemyndigande för 2003
+            inom utgiftsområde 27 Utskottets förslag i korthet Utskottet tillstyrker
+            regeringens förslag till medelsanvisning på utgiftsområde 27.
+            Utskottet tillstyrker också regeringens förslag att regeringen
+            skall bemyndigas att ikläda staten det utgiftsåtagande som följer
+            av EU-budgeten för budgetåret 2003. Propositionen Europeiska unionen
+            disponerar en budget för finansiella åtaganden på unionsnivå.
+            Utgiftsområdet avser Sveriges avgift till EU- budgeten. Utgifterna
+            för 2003 avser Sveriges betalningar under året till Europeiska
+            kommissionen avseende EU-budgeten för 2003 inklusive eventuella
+            korrigeringar avseende tidigare år. Avgiften kan under löpande
+            budgetår förändras till följd av faktisk uppbörd av tullar och
+            importavgifter, utfallet av EU-budgeten tidigare år, EU-tilläggsbudgetar,
+            valutakursändringar samt andra korrigeringar av avgiften. Regeringen
+            föreslår att 23 695 miljoner kronor anvisas inom utgiftsområdet
+            för budgetåret 2003. Medlen föreslås bli anvisade under anslaget
+            93:1 Avgiften till Europeiska gemenskapen. Finansiering av budgeten
+            med avgifter från medlemsländerna avser utgifterna enligt s.k.
+            betalningsanslag. Åtagandebemyndiganden ger inte upphov till samma
+            direkta betalningsansvar utan uttrycker utgiftsåtagandet för kommande
+            år. Regeringen föreslår att riksdagen bemyndigar regeringen att
+            ikläda staten det utgiftsåtagande som följer av EU-budgeten för
+            budgetåret 2003. Enligt en grov fördelning av åtagandet blir Sveriges
+            andel motsvarande ca 2 670 miljoner euro (som omräknat med den
+            genomsnittliga årskursen för 2001 [9,25 kr/euro] motsvarar ca
+            24,7 miljarder kronor). Inga motioner har väckts med anledning
+            av regeringens förslag om anslag och åtagandebemyndiganden. Utskottets
+            ställningstagande På förslag av finansutskottet har riksdagen
+            den 4 december 2002 ställt sig bakom regeringens förslag till
+            utgiftsram för 2003 för det aktuella utgiftsområdet (bet. 2002/03:FiU1,
+            rskr. 2002/03:24). Under riksdagens fortsatta beredning av anslagen
+            får denna ram inte överskridas. För utgiftsområde 27 Avgiften
+            till Europeiska gemenskapen beslutade riksdagen att fastställa
+            ramen till 23 695 miljoner kronor. Utskottet tillstyrker regeringens
+            förslag till medelstilldelning (punkt 2). Vidare tillstyrks förslaget
+            om åtagandebemyndiganden (punkt 1). Motion om EU:s budgettak samt
+            beivrande av fusk och bedrägerier Utskottets förslag i korthet
+            Utskottet avstyrker med hänvisning till tidigare uttalanden en
+            motion om EU:s budgettak samt beivrande av fusk och bedrägerier.
+            Jämför reservationen (m, fp). Motionen I motion U323 av Bo Lundgren
+            m.fl. (m) anförs att EU:s budgettak - att högst 1,27 % av BNI
+            ska gå till EU - måste ligga fast. I motionen föreslås att riksdagen
+            ska göra ett tillkännagivande till regeringen i denna fråga (yrkande
+            12). Vidare anförs att EU kraftfullt måste förbättra kontrollen
+            och möjligheten att beivra fusk och bedrägerier. Ett tillkännagivande
+            till regeringen om att EU ska förbättra möjligheten att beivra
+            fusk och bedrägerier med EU:s medel föreslås (yrkande 13). Bakgrund
+            Europeiska unionens budget Vid Europeiska rådets möte i Berlin
+            1999 träffades i samband med förhandlingarna kring Agenda 2000
+            en överenskommelse om gemenskapsbudgetens utveckling och finansiering
+            under perioden 2000-2006. Överenskommelsen har därefter formaliserats
+            i ett s.k. finansiellt perspektiv och ett nytt rådsbeslut om gemenskapernas
+            egna medel. Det finansiella perspektivet reglerar det totala utgiftsutrymmet
+            för de årliga budgetarna under perioden. Det nya beslutet om systemet
+            för gemenskapernas egna medel fattades i september 2000. Beslutet
+            innebär bl.a. att taket för uttag av egna medel modifieras från
+            1,27 % av BNI enligt nationalräkenskapssystemet ENS 79 till motsvarande
+            belopp uttryckt i procent av BNI enligt det nya nationalräkenskapssystemet
+            ENS 95. Syftet med modifieringen av taket är att övergången till
+            nytt nationalräkenskapssystem inte ska leda till ökade resurser
+            för EU- budgeten. Samtliga 15 medlemsländer har godkänt beslutet,
+            i enlighet med bestämmelserna i fördraget. För Sveriges vidkommande
+            godkände riksdagen rådsbeslutet i mars 2001 (prop. 2000/01:45,
+            bet. 2000/01:FiU19, rskr. 2000/01:153). Beslutet trädde i kraft
+            den 1 mars 2002 och kommer i huvudsak att gälla retroaktivt från
+            den 1 januari 2002. I slutsatserna från Europeiska rådets möte
+            i Bryssel i oktober 2002 sägs att det kostnadstak för utvidgningen
+            som fastställdes av Europeiska rådet i Berlin för åren 2004-2006
+            måste respekteras. När det gäller EU:s utgifter måste man även
+            i fortsättningen iaktta såväl kravet på budgetdisciplin och kostnadseffektivitet
+            som behovet av att garantera att unionen efter utvidgningen har
+            tillräckliga resurser till sitt förfogande så att dess politik
+            kan utvecklas systematiskt till gagn för samtliga medborgare.
+            Den allmänna strävan efter budgetdisciplin som fastställdes av
+            Europeiska rådet i Berlin bör fortsättas under den period som
+            börjar 2007, enligt slutsatserna. Uttalanden om den svenska budgetpolitiken
+            Hösten 1994 godkände riksdagen målen för den svenska EU-budgetpolitiken
+            (prop. 1994/95:40, bet. 1994/95:FiU5). Målen innebär bl.a. att
+            Sverige ska verka för en effektiv och återhållsam budgetpolitik
+            inom EU. Vidare ska Sverige verka för en förbättrad budgetdisciplin
+            vid användningen av EU:s budgetmedel. Finansutskottet har vid
+            flera tillfällen hänvisat till dessa mål, t.ex. i betänkande 2001/02:FiU1
+            s. 301. I betänkande 2000/01:FiU5 sägs följande: Utskottet har
+            vidare vid flera tillfällen anfört att det är angeläget för Sverige
+            att gemenskapsmedel används på ett korrekt sätt. Det finns en
+            mängd skäl till att stödja strävandena inom EU för ökad effektivitet,
+            säker medelshantering, stärkt kontroll och revision. För Sverige
+            som stor nettobidragsgivare är det angeläget att verka för en
+            så ändamålsenlig och kostnadseffektiv användning av gemenskapens
+            medel som möjligt. Det är också av avgörande betydelse för den
+            gemensamma politiken att medlen går till avsedda ändamål och inte
+            slösas bort på grund av dålig administration och kontroll (t.ex.
+            yttr. 1999/2000:FiU3y s. 7-8). I den nu aktuella budgetpropositionen
+            (prop. 2002/03:1 utg.omr. 27 s. 11) anger regeringen att den svenska
+            budgetpolitikens grundläggande mål ligger fast. På lite längre
+            sikt kommer budgetpolitiken för regeringens vidkommande i stor
+            utsträckning att styras av fortsatta ambi- tioner att göra EU-budgeten
+            till ett effektivt instrument för EU-politiken genom att koncentrera
+            EU-budgetens insatser i enlighet med närhetsprincipen och skapa
+            förutsättningar för nya åtaganden genom en omprövning av befintliga
+            utgifter. I arbetsprogrammet för regeringens EU-politik år 2002
+            (2002-01-17) anförs följande: Sverige skall verka för en återhållsam
+            budgetpolitik och en effektiv resursanvändning inom unionen. Den
+            utveckling mot återhållsamma budgetnivåer, förbättrat resursutnyttjande
+            och förbättrad finansiell styrning i budgetprocessen som skett
+            under de senaste åren skall drivas vidare. Målet är att förbättra
+            budgetdisciplinen inom unionen och att göra EU-budgeten till ett
+            effektivt instrument för EU-politiken genom att koncentrera insatser
+            i enlighet med närhetsprincipen och skapa förutsättningar för
+            nya åtaganden genom en omprövning av befintliga utgifter. Arbete
+            mot fusk och bedrägerier Kommissionen har det övergripande ansvaret
+            för att medlen i EU:s budget används korrekt och effektivt. Medlemsstaterna
+            har också ett motsvarande ansvar inför kommissionen för de medel
+            som medlemsstaternas myndigheter förvaltar. De har också huvudansvaret
+            för att bekämpa bedrägerier och andra oegentligheter i medlemsstaterna
+            som riktas mot unionens finansiella intressen. Medlemsstaternas
+            myndigheter och kommissionen, genom sitt bedrägeribekämpningsorgan
+            Europeiska byrån för bedrägeribekämpning (OLAF, från franskans
+            Office Européen de Lutte Anti-Fraude), samarbetar för att upptäcka
+            och åtgärda misstänkta bedrägerier. Under 2003 kommer kommissionen
+            att presentera en treårsutvärdering av arbetet för att stärka
+            kampen mot bedrägerier. Revisionsrätten granskar både kommissionens
+            och medlemsstaternas sätt att administrera och kontrollera EU:s
+            medel. Revisionsrättens rapport om EU:s budget 2001 presenterades
+            i november 2002. Rapporten bereds nu inom Regeringskansliet och
+            berörda myndigheter för att vid Ekofinrådets möte i mars 2003
+            ligga till grund för beslut om rådets rekommendation för genomförandet
+            av budgeten. Regeringen kommer att i årsredovisningen för staten
+            våren 2003 redovisa iakttagelserna i rapporten samt det svenska
+            agerandet i ministerrådet. Utskottets ställningstagande Som framgår
+            av redovisningen har utskottet vid flera tillfällen understrukit
+            vikten av att Sverige verkar för att gemenskapsmedel används på
+            ett korrekt sätt. Utskottet förutsätter att regeringen även fortsättningsvis
+            verkar för detta och för en stram budgetpolitik inom EU. Utskottet
+            finner mot denna bakgrund inte skäl för något riksdagens tillkännagivande.
+            Motion U323 (m) yrkandena 12 och 13 avstyrks således. Reservation
+            Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservation. I rubriken anges vilken punkt
+            i utskottets förslag till riksdagsbeslut som behandlas i avsnittet.
+            EU:s budgettak samt beivrande av fusk och bedrägerier - punkt
+            3 (m, fp) av Fredrik Reinfeldt (m), Karin Pilsäter (fp), Gunnar
+            Axén (m), Tomas Högström (m) och Gunnar Nordmark (fp). Förslag
+            till riksdagsbeslut Vi anser att utskottets förslag under punkt
+            3 borde ha följande lydelse: 3. Riksdagen tillkännager som sin
+            mening för regeringen vad som anförs i reservationen. Därmed bifaller
+            riksdagen delvis motion 2002/03:U323 yrkandena 12 och 13. Ställningstagande
+            Vi vill framhålla att EU:s budgettak - att högst 1,27 % av BNI
+            skall gå till EU - måste ligga fast. Finansieringen ska som hittills
+            ske via avgifter från medlemsländerna. Kostnaderna för jordbrukssubventioner
+            och regionalstöd i de nuvarande medlemsländerna bör minskas. Det
+            har förekommit fusk och bedrägeri med pengar som kanaliseras via
+            EU:s budget. Bidragsbestämmelserna skall göras klarare och mer
+            entydiga. EU måste kraftfullt förbättra kontrollen och möjligheten
+            att beivra fusk och bedrägerier. Det är av stor vikt att regeringen
+            driver dessa frågor inom EU. Därmed tillstyrks delvis motion U323
+            (m) yrkandena 12 och 13. Bilaga Förteckning över behandlade förslag
+          </p>
+          <p>
+            Propositionen I proposition 2002/03:1 Budgetpropositionen för
+            2003, utgiftsområde 27 Avgiften till Europeiska gemenskapen föreslår
+            regeringen 1. att riksdagen bemyndigar regeringen att ikläda staten
+            de åtaganden som följer av EU-budgeten för budgetåret 2003 avseende
+            åtagandebemyndiganden (avsnitt 5), 2. att riksdagen för budgetåret
+            2003 anvisar anslag under utgiftsområde 27 Avgiften till Europeiska
+            gemenskapen enligt följande uppställning: Tusental kr -------------------------------------------------------------
+            Anslag Anslagstyp Anslagsbelopp -------------------------------------------------------------
+            -------------------------------------------------------------
+            93:1 Avgiften till Europeiska ramanslag 23 695 000 gemenskapen
+            -------------------------------------------------------------
+            -------------------------------------------------------------
+            Summa 23 695 000 -------------------------------------------------------------
+            Motionsyrkanden från allmänna motionstiden 2002/03:U323 av Bo
+            Lundgren m.fl. (m): 12. Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om att EU-budgetens tak skall
+            ligga fast. 13. Riksdagen tillkännager för regeringen som sin
+            mening vad i motionen anförs om att EU skall förbättra möjligheten
+            att beivra fusk och bedrägerier med EU:s medel.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

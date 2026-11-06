@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_KU_0012">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen godkände Justitieombudsmännens (JO) årliga rapport om verksamheten till riksdagen. Riksdagen avslutade ärendet utan att göra några tillägg.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Justitieombudsmännens verksamhet (KU12)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Redogörelsen läggs till handlingarna</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0964</idno>
+              <title>2009-01-28</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">64</biblScope>
+              <note type="display-reference">2009-01-28</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0960</idno>
+              <title>2009-01-21</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">60</biblScope>
+              <note type="display-reference">2009-01-21</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GW0K159</idno>
+              <title>2008/09:159</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">159</biblScope>
+              <note type="display-reference">2008/09:159</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="redogorelse">
+              <idno type="riksdagen">GW04JO1</idno>
+              <title>Justitieombudsmännens ämbetsberättelse</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">JO1</biblScope>
+              <note type="display-reference">redogorelse 2008/09:JO1 Justitieombudsmännens ämbetsberättelse</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2009-01-13">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2009-01-13">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-01-12">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-12-16">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-12-16">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-12-11">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-12-11">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-12-11">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-12-04">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-12-04">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2009-01-28">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-01-28">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-01-28">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-01-28">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-01-21">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-01-21">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-01-20">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-01-20">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-01-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-01-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Konstitutionsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:KU12
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Justitieombudsmännens ämbetsberättelse
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACR2ZB" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I detta betänkande behandlas redogörelse 2008/09:JO1 Justitieombudsmännens
+            ämbetsberättelse för tiden den 1 juli 200730 juni 2008.
+          </p>
+          <p>
+            Utskottet föreslår att riksdagen lägger redogörelsen till handlingarna.
+          </p>
+          <p xml:id="IDAMR2ZB" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Justitieombudsmännens ämbetsberättelse
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger redogörelse 2008/09:JO1 till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 11 december 2008
+          </p>
+          <p>
+            På konstitutionsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Berit Andnor
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Berit Andnor (s),
+            Per Bill (m), Margareta Cederfelt (m), Morgan Johansson (s), Eva
+            Bengtson Skogsberg (m), Stefan Tornberg (c), Yilmaz Kerimo (s),
+            Helene Petersson i Stockaryd (s), Björn Leivik (m), Billy Gustafsson
+            (s), Ingvar Svensson (kd), Marianne Berg (v), Annie Johansson
+            (c), Mikael Johansson (mp), Karl Sigfrid (m), Tone Tingsgård (s)
+            och Helena Bargholtz (fp).
+          </p>
+          <p xml:id="IDAOU2ZB" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            Riksdagens ombudsmän har enligt 11 § lagen (1986:765) med instruktion
+            för Riksdagens ombudsmän överlämnat sin ämbetsberättelse (redog.
+            2008/09:JO1) för tiden den 1 juli 2007 till 30 juni 2008.
+          </p>
+          <p>
+            Justitieombudsmännen har den 20 november 2008 inför utskottet
+            muntligen lämnat uppgifter om sin verksamhet.
+          </p>
+          <p>
+            I samband med utskottets beredning har utskottskansliet besökt
+            ombudsmannaexpeditionen och gått igenom ämbetets äldsta ännu inte
+            avgjorda ärenden.
+          </p>
+          <p xml:id="IDA1U2ZB" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDA5U2ZB" rend="orubrik2">
+            Redogörelsen
+          </p>
+          <p>
+            Ämbetsberättelsen, som omfattar verksamhetsåret 2007/08, inleds
+            med en skrivelse till riksdagen som innehåller uppgifter om organisationen
+            och verksamheten. Av skrivelsen framgår att justitieombudsmannen
+            Nils-Olof Berggren lämnade sitt uppdrag med pension den 31 december
+            2007. Riksdagen valde den 22 november 2007 Hans-Gunnar Axberger
+            att vara justitieombudsman fr.o.m. den 18 februari 2008 till dess
+            att nytt val genomförts under 2012. Riksdagen omvalde den 15 november
+            2007 Hans Ragnemalm att vara ställföreträdande justitieombudsman
+            under en period av två år fr.o.m. den 15 november 2007.
+          </p>
+          <p>
+            Vidare framgår att arbetsordningen för riksdagens ombudsmannaexpedition
+            har ändrats genom beslut av chefsjustitieombudsmannen den 2 januari,
+            den 22 januari samt den 30 juni 2008. Ändringarna har huvudsakligen
+            avsett 1 § samt bilagan med uppdelning av ansvarsområden för respektive
+            justitieombudsman. Ett syfte med förändringarna har varit att
+            uppnå en jämnare fördelning av antalet klagomålsärenden mellan
+            de fyra justitieombudsmännen. Förändringarna innebär bl.a. att
+            tillsynen över Skatteverket och Kronofogdemyndigheten flyttats
+            från ansvarsområde 2 till ansvarsområde 4, tillsynen över Tullverket
+            från ansvarsområde 2 till ansvarsområde 1 och tillsynen över förvaltningsdomstolar
+            (dock ej migrationsdomstolar) från ansvarsområde 4 till ansvarsområde
+            3.
+          </p>
+          <p>
+            Av de statistiska uppgifterna om verksamheten framgår att under
+            2007/08 nyregistrerades 6 550 ärenden, vilket är en ökning med
+            839 (14,7 %) i förhållande till verksamhetsåret 2006/07. Antalet
+            nya inspektions- eller andra initiativärenden var 73, vilket är
+            en minskning med 18 jämfört med 2006/07. Antalet ärenden som föranleddes
+            av remisser huvudsakligen från Regeringskansliet var 121, vilket
+            är en ökning med 31 jämfört med 2006/07. Klagomålsärenden uppgick
+            under 2007/08 till 6 356, vilket innebär en uppgång med 826 (14,9
+            %) i förhållande till 2006/07.
+          </p>
+          <p>
+            Antalet avgjorda ärenden uppgick under 2007/08 till 6 313, vilket
+            innebär en ökning med 580 i förhållande till 2006/07. De oavgjorda
+            ärendena i balans var vid verksamhetsårets slut 1 208. Detta betyder
+            att balansen ökade med 237 ärenden (24,4 %) jämfört med 2006/07.
+            Ökningen av antalet avgjorda ärenden var således inte i paritet
+            med ökningen av antalet inkomna ärenden.
+          </p>
+          <p>
+            I skrivelsen anför justitieombudsmännen att den ökade inströmningen
+            av klagomål är anmärkningsvärt stor under 2007/08. Mest markant
+            har ökningen varit under verksamhetsårets andra hälft, och den
+            har fått till följd att det totala antalet nyregistrerade ärenden
+            med bred marginal överträffar den hittills högsta siffran (6 008),
+            som noterades verksamhetsåret 2005/06. Det minskade antalet initiativärenden
+            beror enligt skrivelsen främst på att inspektionsverksamheten,
+            framför allt under våren, har måst hållas på en låg nivå då hanteringen
+            av den växande mängden klagomål tagit nästan alla JO:s handläggningsresurser
+            i anspråk.
+          </p>
+          <p>
+            Därefter redovisar justitieombudsmännen övergripande sina iakttagelser
+            inom respektive ansvarsområde.
+          </p>
+          <p>
+            <seg rend="grad2">
+              ChefsJO Mats Melin
+            </seg>
+            kommenterar den stora ärendeökningen (s. 18 f.). Han omtalar
+            bl.a. att samliga justitieombudsmän under våren 2008 tvingats
+            avstå från att genomföra vissa inspektioner för att kunna hantera
+            de inkomna klagomålen utan orimliga dröjsmål, något som han ser
+            som olyckligt eftersom inspektioner är en viktig del av JO:s arbete.
+            Den ökande inströmningen av ärenden möts annars genom effektivare
+            handläggningsrutiner i allmänhet och av de klagomål som inte ska
+            tas upp till prövning i synnerhet. Vidare har skett en försiktig
+            ökning av antalet föredragande. Melin tar även upp frågan om att
+            utse ett nationellt övervakningsorgan enligt ett fakultativt protokoll
+            till FN:s tortyrkonvention. Från svensk sida har man ansett att
+            den inspektionsverksamhet som JO och JK bedriver uppfyller protokollets
+            krav. Melin anser att det kan resas betydande principiella och
+            praktiska invändningar mot att anse JO:s inspektionsverksamhet
+            vara ett medel för att uppfylla våra internationella åtaganden
+            i detta avseende. Under våren 2008 tog JO emot företrädare för
+            den internationella kommitté som inrättats med anledning av det
+            aktuella protokollet, och det framgår att FN:s antitortyrkommitté
+            senare under våren 2008 rekommenderat Sverige att på nytt överväga
+            hur den nationella övervakningsfunktionen är anordnad.
+          </p>
+          <p>
+            <seg rend="grad2">
+              JO Kerstin André
+            </seg>
+            redovisar bl.a. att handläggningen av mål och ärenden i de allmänna
+            förvaltningsdomstolarna i många fall tar alldeles för lång tid
+            (s. 22 f.). Sedan länsrättsreformen 1979 har utvecklingen gått
+            snabbt och inneburit genomgripande förändringar. Det handlar inte
+            bara om, anför André, att antalet mål har ökat utan också om att
+            förvaltningsdomstolarna i betydande omfattning har tillförts och
+            kontinuerligt tillförs nya typer av mål, bl.a. med EG-rättslig
+            anknytning. André noterar även att det inte sällan tar lång tid
+            innan Regeringsrätten meddelar beslut i frågan om prövningstillstånd.
+            Förutom de problem detta kan medföra för de enskilda parterna
+            innebär det att den viktiga prejudikatbildningen drar ut på tiden
+            till förfång för de myndigheter som i avsaknad av domstolens uttalande
+            ställs utan vägledning i sin rättstillämpning. André framhåller
+            här vikten av att det ges bättre förutsättningar för de allmänna
+            förvaltningsdomstolarna att fullgöra sitt uppdrag. André pekar
+            vidare på de brister som finns på många håll vad gäller samverkan
+            mellan myndigheter samt på otillräckliga kunskaper om förvaltningsrättsliga
+            bestämmelser och om de regelsystem som gäller för hanteringen
+            av allmänna handlingar och om offentlighet och sekretess. Särskilt
+            underlåtenhet att iaktta det i tryckfrihetsförordningen uppställda
+            skyndsamhetskravet föranleder ett stort antal kritikbeslut. Detsamma
+            gäller underlåtenheten att fatta formella överklagbara beslut
+            i de fall framställning om att få ta del av allmän handling inte
+            kan bifallas.
+          </p>
+          <p>
+            <seg rend="grad2">
+              JO Cecilia Nordenfelt
+            </seg>
+            redovisar en fortsatt hög arbetsbelastning inom sitt ansvarsområde
+            (s. 26 f.); nästan en tredjedel av JO:s ärenden ligger inom hennes
+            område. Främsta orsaken till ärendeutvecklingen är att antalet
+            klagomål riktade mot kriminalvården har ökat kraftigt under det
+            senaste verksamhetsåret. Eftersom vissa ärendegrupper har flyttats
+            till andra justitieombudsmäns ansvarsområden för att jämna ut
+            arbetsbelastningen har detta medfört att kriminalvården antalsmässigt
+            i än högre grad dominerar arbetet vid Nordenfelts avdelning. Vad
+            gäller själva tillsynen av Kriminalvården och Försäkringskassan,
+            som även den återfinns inom Nordenfelts ansvarsområde, konstateras
+            brister som kan tillskrivas underskattning av svårigheter och
+            otillräckliga resurser vid uppstartande av ny verksamhet respektive
+            svårigheter efter omfattande omorganisation. Nordenfelt redovisar
+            slutligen att hon vid besvarande av remiss till regeringen i fråga
+            om tillsynen över socialförsäkringsområdet har framhållit behovet
+            av att aktualisera frågan om hur enskildas klagomål bör behandlas.
+            JO:s verksamhet är, anför Nordenfelt, extraordinär och inte avsedd
+            att ersätta den tillsyn och rättstillämpning som ankommer på andra
+            samhällsorgan. Nordenfelt anser det vara en brist att det saknas
+            ett ordinärt organ som prövar klagomål (som inte är domstolsfrågor)
+            inom ett område som berör praktiskt taget alla Sveriges invånare.
+          </p>
+          <p>
+            <seg rend="grad2">
+              JO Hans-Gunnar Axberger
+            </seg>
+            redovisar att klagomål rörande brott mot tryckfrihetsförordningen
+            och sekretesslagens bestämmelser om allmänna handlingar strömmar
+            in oavlåtligt till JO (s. 30 f.). Hälften av de kritiserande beslut
+            han fattat har gällt felaktigheter i hanteringen av reglerna om
+            allmänna handlingar. Vidare anför Axberger att utvecklingen mot
+            att driva allmän verksamhet i privaträttsliga former har medfört
+            att offentlighetsprincipen utsträckts till att gälla även kommunala
+            bolag, och här uppstår återkommande problem. Det finns skäl, menar
+            han, att inskärpa att ett kommunalt bolag såvitt gäller offentlighetsprincipen
+            har samma principiella skyldigheter som myndigheter. Axberger
+            nämner även kritik som riktats mot att myndigheter anlitat fristående
+            uppdragstagare för hjälp med att hantera förfrågningar om allmänna
+            handlingar. Vidare tar Axberger upp Regeringskansliet och de gränsdragningsproblem
+            som här kan finnas mellan JO och KU. Även om gränsen i teorin
+            kan te sig enkel och klar kan det i praktiken vara svårare och
+            utomordentligt grannlaga att avgöra i vad mån påstådda missförhållanden
+            i den löpande verksamheten vid Regeringskansliet från granskningssynpunkt
+            hör till JO:s eller KU:s granskningsområde. I anslutning till
+            detta tar Axberger upp de granskningar som gjorts av Katastrofkommissionen,
+            KU och JO avseende flodvågskatastrofen. Slutligen uppehåller Axberger
+            sig vid den ökande klagomålstillströmningen till JO. Axberger
+            tycker sig kunna iaktta en risk för att JO:s krafter koncentreras
+            till att hålla ärendebalansen i schack. Risken är att enklare
+            ärenden handläggs först eftersom det ger snabbast effekt på just
+            balansen, medan utrymmet för det som är betjänt av en mer grundlig
+            utredning och reflexion krymper. För att motverka detta krävs,
+            enligt Axberger, att besluts- och handläggningsformerna i de mindre
+            komplicerade ärendena tillåts vara relativt enkla utan att man
+            för den skull ger avkall på bedömningarnas kvalitet. JO:s arbete
+            måste således anpassas med hänsyn till antalet anmälningar, ärendenas
+            skiftande karaktär och befintliga resurser.
+          </p>
+          <p>
+            Den resterande delen av ämbetsberättelsen består i huvudsak av
+            redogörelser för ärenden av större allmänt intresse.
+          </p>
+          <p xml:id="IDAQW2ZB" rend="orubrik2">
+            Utskottets ställningstagande
+          </p>
+          <p>
+            Utskottet föreslår att riksdagen lägger redogörelsen till handlingarna.
+          </p>
+          <p xml:id="IDAWW2ZB" rend="Bilaga">
+            Bilaga
+          </p>
+          <p xml:id="IDAZW2ZB" rend="BilageRubrik">
+            Förteckning över behandlade förslag
+          </p>
+          <p xml:id="IDA2W2ZB" rend="rubrik2">
+            Redogörelsen
+          </p>
+          <p>
+            Redogörelse 2008/09:JO1 Justitieombudsmännens ämbetsberättelse.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

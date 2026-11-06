@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_199697_FöU_0006">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">En ny elberedskapslag ska reglera ansvaret för den planering och de åtgärder som behövs för att tillgodose elförsörjningen vid höjd beredskap. En särskild myndighet, el-bered-skaps-myndigheten, inrättas för tillsyn av elföretagens beredskapsverksamhet. Affärsverket Svenska kraftnät får denna myn-dighets-funktion.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Elberedskap (FöU6)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Bifall till utskottets hemställan</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GK09102</idno>
+              <title>1997-05-14</title>
+              <biblScope unit="riksdag-session">1996/97</biblScope>
+              <biblScope unit="document-number">102</biblScope>
+              <note type="display-reference">1997-05-14</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GK09102</idno>
+              <title>1997-05-14</title>
+              <biblScope unit="riksdag-session">1996/97</biblScope>
+              <biblScope unit="document-number">102</biblScope>
+              <note type="display-reference">1997-05-14</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GK0386</idno>
+              <title>Nya regler om elberedskap</title>
+              <biblScope unit="riksdag-session">1996/97</biblScope>
+              <biblScope unit="document-number">86</biblScope>
+              <note type="display-reference">proposition 1996/97:86 Nya regler om elberedskap</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GK02Fö61</idno>
+              <title>med anledning av prop. 1996/97:86 Nya regler om elberedskap</title>
+              <title type="sub">av Marietta de Pourbaix-Lundin (m)</title>
+              <biblScope unit="riksdag-session">1996/97</biblScope>
+              <biblScope unit="document-number">Fö61</biblScope>
+              <note type="display-reference">motion 1996/97:Fö61 med anledning av prop. 1996/97:86 Nya regler om elberedskap</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="AVG" subtype="beredning" n="5" when="1997-05-15">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="beredning" n="3" when="1997-05-14">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="beredning" n="1" when="1997-05-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="1997-04-17">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Försvarsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            1996/97:FÖU06
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Nya regler om elberedskap
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <div type="section" subtype="h2">
+            <head>
+              Innehåll
+            </head>
+            <list type="unordered">
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bsam">
+                    Sammanfattning
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bprop">
+                    Propositionen
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bmot">
+                    Utskottet
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bhemst">
+                    Hemställan
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bres">
+                    Innehållsförteckning
+                  </ref>
+                </p>
+              </item>
+            </list>
+            <p>
+              1996/97 FöU6
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bsam">
+              Sammanfattning
+            </head>
+            <p>
+              I betänkandet behandlas regeringens förslag i proposition 1996/97:86
+              Nya regler om elberedskap. En motion har avgivits med anledning
+              av propositionen. I betänkandet föreslås en elberedskapslag. Denna
+              lag syftar till att reglera ansvaret för den planering och de
+              åtgärder som behövs för att tillgodose elförsörjningen vid höjd
+              beredskap. Lagen innehåller bestämmelser om skyldighet att vidta
+              beredskapsåtgärder, om ersättning för kostnader för sådana åtgärder
+              samt om avgiftssystem för finansiering av beredskapsåtgärder inom
+              elområdet. En myndighet - elberedskapsmyndigheten - föreslås ha
+              till uppgift att besluta om föreskrifter om elberedskapen, ålägganden
+              om elberedskapsåtgärder, ersättning för sådana åtgärder samt att
+              utöva tillsyn över elberedskapslagens tillämpning. Denna myndighetsfunktion
+              bör åläggas affärsverket Svenska kraftnät. Elberedskapslagen föreslås
+              träda i kraft den 1 juli 1997. I betänkandet föreslås vidare ändringar
+              i annan lagstiftning.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bprop">
+              Propositionen
+            </head>
+            <p>
+              Regeringen föreslår i propositionen att riksdagen 1. antar regeringens
+              förslag till elberedskapslag, 2. antar regeringens förslag till
+              lag om ändring i lagen (1902:71 s. 1), innefattande vissa bestämmelser
+              om elektriska anläggningar, 3. antar regeringens förslag till
+              lag om ändring i lagen (1971:309) om behörighet för allmän förvaltningsdomstol
+              att pröva vissa mål, 4. antar regeringens förslag till lag om
+              ändring i vattenlagen (1983:291), 5. antar regeringens förslag
+              till lag om ändring i lagen (1984:1049) om beredskapslagring av
+              olja och kol, 6. antar regeringens förslag till lag om ändring
+              i lagen (1994:1720) om civilt försvar.
+            </p>
+            <p>
+              Motionen 1996/97:Fö61 av Marietta de Pourbaix-Lundin (m) vari
+              yrkas att riksdagen hos regeringen begär förslag till ändring
+              i 3 § elberedskapslagen i enlighet med vad som anförts i motionen.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bmot">
+              Utskottet
+            </head>
+            <p>
+              Bakgrund Regeringen redogör i propositionen inledningsvis för
+              ärendet och framhåller bl.a. följande. Våren 1992 uppdrog regeringen
+              åt en särskild utredare - Ellagstiftningsutredningen (ELU) - att
+              utarbeta förslag till ny lagstiftning på elområdet (dir. 1992:39).
+              Genom tilläggsdirektiv (dir. 1993:93) utökades uppgifterna att
+              också gälla förslag till riktlinjer för elberedskapen. ELU redovisade
+              sina överväganden om elberedskapen i betänkandet (SOU 1995:51)
+              Elförsörjning i ofred. Betänkandet har remissbehandlats. Med utgångspunkt
+              bl.a. i remissynpunkterna uppdrog regeringen (dir. 1996:23) våren
+              1996 åt Elberedskapsutredningen (EBU) att lämna förslag till myndighetsorganisation,
+              ansvarsfördelning och finansiering inom elberedskapens område.
+              Utredaren hade även i uppdrag att överväga behovet av lagstiftning
+              inom området. Överväganden och förslag redovisades i betänkandet
+              (SOU 1996:78) Elberedskapen - Organisation, Ansvarsfördelning
+              och Finansiering. Även detta betänkande har remissbehandlats.
+              Riksdagen beslutade i december 1996 om inriktningen för totalförsvaret
+              under perioden 1997-2001 (prop. 1996/97:4, bet. FöU1, rskr. 112).
+              Beslutet innefattade bl.a. mål och inriktning för funktionen Energiförsörjning
+              med delfunktionen Elförsörjning. I sin behandling av ärendet framhöll
+              försvarsutskottet att det var särskilt viktigt att finansieringen
+              säkerställs för de beredskapsåtgärder som behöver vidtas. Vidare
+              anförde utskottet att det förutsätter att frågan om en avgiftsfinansiering
+              på området får en så grundlig och allsidig beredning att finansieringen
+              av beredskapsåtgärderna inom funktionen Energiförsörjning säkerställs
+              fr.o.m. den 1 juli 1997. Regeringen har för riksdagen redovisat
+              sina överväganden och förslag om åtgärder för att höja beredskapen
+              mot svåra påfrestningar i samhället i fred (prop. 1996/97:11).
+              Häri ingår överväganden om bl.a. beredskapen mot allvarliga störningar
+              i elförsörjningen i fredstid. Utskottet har behandlat de båda
+              propositionerna 1996/97:11 och 1996/97:86 i ett sammanhang. Riksdagen
+              beslutade hösten 1995 om ny ellagstiftning (prop. 1994/95:222,
+              bet. NU1, rskr. 358). Det nya regelverket infördes genom förändringar
+              av och tillägg till lagen (1902:71 s. 1), innefattande vissa bestämmelser
+              om elektriska anläggningar (ellagen). Beslutet innebar vidare
+              ikraftträdande av en tidigare beslutad ny lag, lagen (1994:618)
+              om handel med el, m.m. (prop. 1993/94:358). Det nya regelverket
+              trädde i kraft den 1 januari 1996. De lagförslag som regeringen
+              har överlämnat till Lagrådet för yttrande finns i den till propositionen
+              fogade bilagan 4. Regeringen anmäler att den i propositionen följt
+              Lagrådets förslag och synpunkter.
+            </p>
+            <p>
+              Behovet av ett nytt regelverk för elberedskapen
+            </p>
+            <p>
+              Regeringen
+            </p>
+            <p>
+              Leveranssäkerhet i fred och krig Regeringen anför att den nyligen
+              har redovisat sin bedömning av leveranssäkerheten i den svenska
+              elförsörjningen i fred och krig. Regeringen bedömer sålunda det
+              svenska elsystemet vara förhållandevis robust och motståndskraftigt
+              mot de störningar som erfarenhetsmässigt och med rimlig sannolikhet
+              kan inträffa i fredstid (prop. 1996/97:11 s. 50). Fredstida elavbrott
+              beror vanligtvis på väderrelaterade fel som främst drabbar elsystemets
+              lågspänningsdelar. Elförsörjningen bedöms däremot vara mycket
+              sårbar i krig (prop. 1996/97:4 s. 274). Den kan förväntas bli
+              ett högt prioriterat militärt angreppsmål. Regeringen anser därför
+              att den bristande förmågan att upprätthålla en fungerande elförsörjning
+              som ett av de mest betydande problemen inom beredskapsområdet
+              och därmed en gränssättande faktor för hela totalförsvarets samlade
+              förmåga. Regeringen anser att det finns ekonomiska och kommersiella
+              skäl för företagen inom elförsörjningen att upprätthålla den fredstida
+              leveranssäkerheten på en för företagens kunder och samhället i
+              övrigt önskvärd och ekonomiskt rimlig nivå. Elföretagen vidtar
+              sålunda som en del i sin ordinarie verksamhet åtgärder för att
+              förebygga och åtgärda fredstida störningar. Regeringen anför vidare
+              att den krigstida skadebilden kan antas skilja sig från den fredstida,
+              bl.a. så till vida att de skador som kan uppstå blir mer omfattande
+              och komplexa. Vissa av de åtgärder som genomförs för att uppnå
+              en hög leveranssäkerhet i fred förstärker elförsörjningen också
+              i krigstid. Regeringen menar dock att de åtgärder som krävs för
+              god leveranssäkerhet i krig är betydligt mer omfattande, och av
+              en annan karaktär, än vad som krävs för den fredstida leveranssäkerheten.
+            </p>
+            <p>
+              Elberedskapen Regeringen framhåller att en betydande del av elberedskapsåtgärderna
+              har genomförts av staten genom Statens vattenfallsverk och senare
+              affärsverket Svenska kraftnät. Vissa åtgärder har elföretagen
+              varit skyldiga att finansiera, bl.a. enligt lagen (1942:335) om
+              särskilda skyddsåtgärder för vissa kraftanläggningar m.m. (krigsskyddslagen).
+              Därutöver har många elföretag frivilligt åtagit sig ett betydande
+              ansvar för att genomföra och finansiera ytterligare beredskapsförberedelser.
+              Elföretagen har kommit att stå för betydande delar av elberedskapens
+              kostnader. Enligt regeringen har de stora inslagen av frivillighet
+              bl.a. byggt på de tidigare marknadsförhållandena inom elförsörjningen.
+              Genom de legala konkurrensbegränsningarna som funnits har elföretagen
+              kunnat föra beredskaps- kostnader vidare till konsumenterna. Vidare
+              har statsmakterna kunnat överlåta åt Vattenfallsverket att i samråd
+              med berörda elföretag närmare precisera beredskapskraven.
+            </p>
+            <p>
+              Nya förutsättningar för elberedskapen Regeringen anför att ett
+              nytt regelverk för elmarknaden trädde i kraft den 1 januari 1996.
+              Det innebär att produktion och försäljning av el sker i konkurrens
+              medan nätverksamhet, som är ett naturligt monopol, även fortsättningsvis
+              regleras och övervakas. Med nätverksamhet avses den verksamhet
+              som behövs för att överföra el på det elektriska nätet. Regeringen
+              finner att det nya regelverket har förändrat förutsättningarna
+              för elberedskapen. Bl.a. har möjligheten att föra över kostnaderna
+              till konsumenterna blivit mindre, vilket sägs få elföretagen att
+              ompröva sina frivilliga beredskapsåtaganden. De nya marknadsförhållandena
+              ställer krav på konkurrensneutralitet i ålägganden om beredskapsåtgärder,
+              särskilt när det gäller finansieringen. Statsmakternas beredskapskrav
+              inom elförsörjningen bör tydliggöras, konstaterar regeringen.
+            </p>
+            <p>
+              Krigsskyddslagen och annan lagstiftning om beredskapsåtgärder
+              Den lagstiftning om beredskapsåtgärder som för närvarande är tillämplig
+              på elförsörjningen utgörs, enligt regeringen, dels av lagstiftning
+              som gäller för hela beredskapsområdet, dels av krigsskyddslagen
+              som huvudsakligen är tillämplig på elförsörjningen. Regeringen
+              sammanfattar den aktuella lagre- gleringen och anför: Lagen (1990:217)
+              om skydd för samhällsviktiga anläggningar m.m. (skyddslagen) syftar
+              till att åstadkomma skydd mot sabotage, terrorism och spioneri.
+              Den är tillämplig för anläggningar inom energiförsörjningen. Enligt
+              lagen kan ägare av sådan anläggning också föreläggas att mot ersättning
+              genomföra nödvändiga skyddsåtgärder. Bestämmelser om s.k. verkskydd
+              finns i lagen (1994:1720) om civilt försvar. Verkskydd skall organiseras
+              vid anläggningar som har stor betydelse för totalförsvaret och
+              som antas bli utsatta i samband med stridshandlingar. Säkerhetsskyddslagen
+              (1996:627) syftar till att säkerställa skydd mot bl.a. spioneri,
+              sabotage och andra brott som kan hota rikets säkerhet. Den innehåller
+              bestämmelser om bl.a. informationssäkerhet, tillträdesbegränsningar
+              och säkerhetsprövning av personal. Enligt lagen (1982:1004) om
+              skyldighet för näringsidkare, arbetsmarknadsorganisationer m.fl.
+              att delta i totalförsvarsplaneringen (närings-idkarlagen) är näringsidkare
+              m.fl. skyldiga att på begäran av totalförsvarsmyndighet delta
+              i totalförsvarsplaneringen. De skall lämna de uppgifter om produktionsförhållanden
+              m.m. i den egna verksamheten som totalförsvarsmyndigheten behöver
+              för sitt arbete. Lagen (1984:1049) om beredskapslagring av olja
+              och kol omfattar lagring av fossila bränslen för bl.a. elproduktionsändamål.
+              Enligt lagen kan innehavare av kraftvärmevärk, gasturbiner och
+              oljekondenskraftverk över viss installerad effekt åläggas att
+              beredskapslagra bränslen för anläggningens beredskapsbehov i krig.
+              Den tidigare nämnda krigsskyddslagen innehåller regler om åtgärder
+              till skydd mot skada genom krigshandling eller sabotage mot anläggningar
+              av väsentlig betydelse för energiförsörjningen i landet. Numera
+              omfattas större kraftverk och vattenregleringsmagasin, det landsomfattande
+              kraftöverföringsnätet (stamnätet) samt stora transformator- och
+              kopplingsstationer. Krigsskyddslagen tillämpas även för skyddsåtgärder
+              för rörledningar avsedda för transport av naturgas eller olja.
+              Enligt lagen skall ny- eller ombyggnad, ändring eller utvidgning
+              av de anläggningar som omfattas av lagen utföras på ett från skyddssynpunkt
+              lämpligt sätt. Krigsskyddslagen präglas av det decentraliserade
+              elsystem och den militära hotbild som gällde då den tillkom under
+              andra världskriget. Elsystemet och det militära hotet har förändrats
+              starkt sedan dess. Enligt regeringen ställer dessa förändringar
+              krav på andra slags åtgärder än de som krigsskyddslagen tar sikte
+              på.
+            </p>
+            <p>
+              Behovet av nytt regelverk Regeringen konstaterar att krigsskyddslagen
+              och skyddslagen inte reglerar alla de åtgärder som numera bör
+              komma i fråga för att trygga elförsörjningen i händelse av krig.
+              Krigsskyddslagen är delvis föråldrad. Regeringen anser att det
+              bör skapas förutsättningar för att reglera åtgärder inom ett vidare
+              tillämpningsområde för anläggningstyper, system och funktioner
+              inom elförsörjningen. För att öka effektiviteten i beredskapsåtgärderna
+              bör det även finnas förutsättningar för att genomföra beredskapsåtgärderna
+              selektivt. Regeringen anser vidare att de förändrade konkurrensförhållandena
+              på elmarknaden innebär att regelverket bör innehålla en konkurrensneutral
+              finansieringslösning. Regeringen framhåller att syftet med det
+              i propositionen föreslagna regelverket är att skapa ett tidsenligt
+              och ändamålsenligt regelverk som kan ersätta krigsskyddslagen.
+            </p>
+            <p>
+              Utskottet Elförsörjningen är av central betydelse för den ekonomiska
+              och sociala utvecklingen i Sverige. I stort sett alla delar av
+              det svenska samhället är beroende av en väl fungerande elförsörjning.
+              Elavbrott kan leda till omfattande störningar i viktiga samhällsfunktioner
+              och förorsaka betydande materiella skador och ekonomiska förluster.
+              Under svåra väderleksförhållanden kan långvariga elavbrott utgöra
+              ett hot mot människors möjligheter att överleva. I samband med
+              ett angrepp mot Sverige kan även begränsade militära insatser
+              störa elförsörjningen i betydande omfattning, vilket allvarligt
+              kan inverka på viktiga funktioner inom totalförsvaret och samhället
+              i övrigt. Sabotage kan få motsvarande konsekvenser. Utskottet
+              uppmärksammade i anslutning till försvarsbeslutets andra etapp
+              (prop. 1996/97:4, bet. FöU1, rskr. 109-112) denna sårbarhet och
+              erinrade om vad som anförts i frågan ett år tidigare. Utskottet
+              uttalade sig då - vid försvarsbeslutets första etapp (prop. 1995/96:12,
+              bet. FöU1, rskr. 45-46) - om behovet av att åstadkomma en robust
+              och flexibel infrastruktur inom bl.a. elförsörjningen. Utskottet
+              har motsvarande synsätt i betänkandet 1996/97:FöU5 Beredskap mot
+              svåra påfrestningar. Utskottet delar sålunda regeringens bedömning
+              att den bristande förmågan att upprätthålla en fungerande elförsörjning
+              är ett av de största problemen inom beredskapsområdet. Utskottet
+              delar vidare regeringens bedömning att det nya regelverket för
+              elmarknaden har förändrat förutsättningarna för elberedskapen.
+              De nya förhållandena gör det nödvändigt med konkurrensneutralitet
+              i åläggandena om beredskapsåtgärder och beträffande finansieringen.
+              Förändringarna ställer vidare krav på andra typer av åtgärder
+              än de som krigsskyddslagen (1942:335) tar sikte på. Elsystemet
+              kan inte skyddas enbart med fortifikatoriska åtgärder i anslutning
+              till olika anläggningar. Behovet av att skydda och skapa flexibilitet
+              i funktioner och system inom elförsörjningen har ökat. Utskottet
+              delar sålunda regeringens bedömning om behovet av ett tidsenligt
+              och ändamålsenligt regelverk som kan ersätta krigsskyddslagen.
+            </p>
+            <p>
+              Ny lag om elberedskap
+            </p>
+            <p>
+              Regeringen Regeringen föreslår att de grundläggande bestämmelserna
+              om elberedskapen vid produktion, överföring och handel med el
+              samlas i en särskild lag (elberedskapslagen). Denna lag föreslås
+              innehålla bestämmelser om * skyldigheter att vidta beredskapsåtgärder,
+              * elberedskapsmyndighetens befogenheter, * ersättning för de kostnader
+              som beredskapsåtgärder ger upphov till samt * det avgiftssystem
+              som skall finansiera beredskapsåtgärder inom elområdet. Regeringen
+              anser att en särskild myndighet, elberedskapsmyndigheten, skall
+              ansvara för tillämpningen av lagen. Affärsverket Svenska kraftnät
+              föreslås bli elberedskapsmyndighet. Regeringen betonar att elberedskapslagen
+              syftar till att reglera ansvaret för den planering och de åtgärder
+              som behövs för att kunna tillgodose elförsörjningen vid höjd beredskap.
+              De beslut som fattas med stöd av elberedskapslagen måste alltid
+              kunna återföras till lagens syftesbestämmelser. Regeringen anmäler
+              att EBU föreslagit en elberedskapslag för att tillgodose elförsörjningen
+              vid höjd beredskap eller annars då elförsörjningen är allvarligt
+              hotad. Regeringen anser för sin del att ansvarsfördelningen inom
+              elförsörjningen är sådan att det är en uppgift för elföretagen
+              att vidta de åtgärder som krävs för att hålla en god leveranssäkerhet
+              i fred. Myndigheternas föreskrifts- och tillsynsarbete för driftsäkerhet,
+              elsäkerhet och nätverksamhet påverkar elföretagens arbete med
+              leveranssäkerheten. Enligt regeringen täcker befintlig lagstiftning
+              in vissa av de situationer som EBU:s lagförslag tar sikte på.
+              Det finns vidare en långtgående överlappning mellan de beredskapåtgärder
+              som vidtas för situationer med höjd beredskap och åtgärdsbehovet
+              för tillfällen med svåra påfrestningar i fredstid. Enligt regeringens
+              bedömning är det för närvarande inte påkallat att som EBU föreslagit
+              införa regler om leveranssäkerhet i fredstid i elberedskapslagen.
+              Sådana särskilda regler om fredstida leveranssäkerhet får prövas
+              i särskild ordning om framtida erfarenheter visar att det är påkallat.
+              De föreslagna bestämmelserna är således inte tillämpliga vid allvarliga
+              störningar i fredstid. Elberedskapslagen, anför regeringen, bör
+              tillämpas i alla led inom elförsörjningen, dvs. inom produktion,
+              överföring och handel med el.
+            </p>
+            <p>
+              Motionen I motion Fö61 (m) anförs kritik mot en formulering i
+              3 § i den föreslagna lagen om elberedskap. Motionären håller med
+              om att det inte är lämpligt att i lagstiftningen närmare precisera
+              eller exemplifiera vilka beredskapsåtgärder som skall vidtas,
+              men anser det ändå olyckligt att man inte i nämnda 3 § har försökt
+              formulera en övergripande och mer generellt hållbar definition
+              av begreppet beredskapsåtgärd. Regeringen bör därför, enligt motionären,
+              i ett senare skede återkomma till riksdagen med förslag till komplettering
+              och förtydligande av 3 § elberedskapslagen.
+            </p>
+            <p>
+              Utskottet Utskottet delar regeringens uppfattning att en tydlig
+              och överskådlig reglering av elberedskapen bäst sker genom att
+              bestämmelserna samlas i en särskild lag. Utskottet delar vidare
+              regeringens synsätt att det är kraven på åtgärder för att möta
+              störningar i elförsörjningen vid höjd beredskap som skall vara
+              avgörande för elberedskapslagens tillämpning. Hänsyn bör dock
+              tas till de planerade årtgärdernas effekter på situationer med
+              svåra påfrestningar på elförsörjningen i fredstid. Utskottet anser,
+              liksom regeringen, att elberedskapslagen bör tillämpas i alla
+              led inom elförsörjningen, dvs. inom produktion, överföring och
+              handel med el. I motion Fö61 (m) föreslås att riksdagen uppdrar
+              åt regeringen att återkomma med en övergripande och mer generellt
+              hållbar definition av begreppet beredskapsåtgärd. Enligt utskottets
+              mening torde det inte vara någon avgörande nackdel med den relativt
+              öppna definition som framgår av den föreslagna elberedskapslagens
+              3 §, eftersom behoven kan ändras över tiden bl.a. som följd av
+              den tekniska utvecklingen och förändringar i hotet. Det bör sålunda,
+              som regeringen föreslår, ankomma på regeringen eller på den myndighet
+              som regeringen utser att närmare definiera bl.a. innebörden av
+              begreppet beredskapsåtgärd. Härav följer att riksdagen inte bör
+              bifalla motion Fö61 (m).
+            </p>
+            <p>
+              Skyldighet att vidta beredskapsåtgärder
+            </p>
+            <p>
+              Regeringen Regeringen anför att elföretagen i enlighet med den
+              s.k. ansvarsprincipen bör upprätthålla sin verksamhet vid höjd
+              beredskap och vidta de beredskapsåtgärder som behövs. Det finns
+              enligt regeringens bedömning inget behov av att i elberedskapslagen
+              föra in särskilda bestämmelser om elföretagens skyldighet att
+              upprätthålla verksamheten vid höjd beredskap och i samband med
+              andra för elförsörjningen allvarliga situationer. Behovet av reglering
+              gäller ansvaret för planering och genomförande av beredskapsåtgärder.
+              Regeringen avser med elföretag den som driver elproduktion, elhandel
+              och nätverksamhet. Elföretag skall enligt den föreslagna elberedskapslagen
+              vara skyldiga att i sin verksamhet och sina anläggningar mot ersättning
+              vidta de beredskapsåtgärder som beslutas för att tillgodose elförsörjningen
+              vid höjd beredskap. Den nya lagen sägs bl.a. ta sikte på beredskapsåtgärder
+              i anläggningar av väsentlig betydelse för elförsörjningen i landet,
+              inom en ort eller ett område. Det kan exempelvis gälla viktiga
+              produktions-, överförings- eller driftledningsanläggningar. Regeringen
+              anser att det i lagen är olämpligt att precisera eller exemplifiera
+              vilka beredskapsåtgärder som skall vidtas. Behoven kan ändras
+              över tiden, bl.a. som följd av teknik- och hotförändringar. Det
+              sägs vara en uppgift för regeringen, eller efter regeringens bemyndigande
+              elberedskapsmyndigheten, att närmare ange vad som skall utgöra
+              beredskapsåtgärder.
+            </p>
+            <p>
+              Utskottet Utskottet har ingen erinran mot vad regeringen föreslår.
+              Elföretagen bör sålunda åläggas skyldighet att vidta beredskapsåtgärder
+              som syftar till att tillgodose elförsörjningen vid höjd beredskap
+              och som beslutas i enlighet med elberedskapslagen. Närmare föreskrifter
+              om vad som utgör beredskapsåtgärder bör, som utskottet nyss påtalat,
+              meddelas av regeringen eller av elberedskapsmyndigheten. Utskottet
+              föreslår att riksdagen antar de delar av den föreslagna lagen
+              som behandlar skyldigheten att vidta beredskapsåtgärder.
+            </p>
+            <p>
+              Anmälningsskyldighet
+            </p>
+            <p>
+              Regeringen Regeringen föreslår att regler om anmälningsskyldighet
+              införs i den nya lagstiftningen. Syftet härmed är att skapa förutsättningar
+              för ett effektivt beredskapsarbete. Regeringen anser att det är
+              viktigt att behovet av beredskapsåtgärder prövas tidigt, eftersom
+              kostnaderna för flertalet sådana åtgärder blir lägre om de vidtas
+              i samband med att en anläggning uppförs, byggs om eller ändras
+              på annat sätt. Vidare anser regeringen det vara viktigt att beredskapsplaner
+              snabbt kan anpassas till väsentligare verksamhetsförändringar.
+              Anmälningsskyldigheten bör därför kunna begränsas till att omfatta
+              sådana anläggningar eller sådan verksamhet som är av särskild
+              betydelse för elberedskapen. Regeringen föreslår att denna begränsning
+              sker genom att regeringen eller, efter regeringens bemyndigande,
+              elberedskapsmyndigheten genom föreskrifter anger vilka anläggningar
+              och slag av verksamhetsförändringar som omfattas av anmälningsplikten.
+              De typer av anläggningar som enligt regeringens bedömning för
+              närvarande bör komma i fråga är kraftverk, vattenregleringsmagasin,
+              elledningar, transformator- och kopplingsstationer, reservdelsförråd
+              samt drift- och övervakningscentraler för produktions- och nätdrift,
+              med tillhörande styr- och kommunikationssystem. Även andra större
+              förändringar i verksamheten vid en elektrisk anläggning eller
+              verksamhet för produktion, överföring och handel med el skall
+              anmälas om verksamheten är av väsentlig betydelse för elförsörjningen.
+              Det kan exempelvis gälla nedläggning eller överlåtelse eller en
+              väsentlig neddragning eller utvidgning av verksamhet som har stor
+              betydelse för elförsörjningen. Det kan också gälla när sådan verksamhet
+              startas. Anmälan skall göras senast i samband med att förändringen
+              vidtas. Regeringen anser att anmälningsskyldigheten till stor
+              del kommer att kunna fullgöras vid den löpande beredskapsplaneringen
+              och vid övriga kontakter mellan elberedskapsmyndigheten och det
+              aktuella företaget.
+            </p>
+            <p>
+              Utskottet Utskottet anser, i likhet med vad regeringen har föreslagit,
+              att elektriska anläggningar som är av väsentlig betydelse för
+              elförsörjningen inte får uppföras, byggas om eller på annat sätt
+              ändras innan anmälan om detta gjorts till elberedskapsmyndigheten
+              och denna fattat beslut i frågan. Större verksamhetsförändringar
+              vid elföretag, och som är av väsentlig betydelse för elförsörjningen,
+              skall också anmälas till elberedskapsmyndigheten. Det bör ankomma
+              på regeringen eller, efter regeringens bemyndigande, på elberedskapsmyndigheten
+              att ge närmare föreskrifter om vilka anläggningar och vilken verksamhet
+              som skall omfattas av anmälningsplikten. Utskottet föreslår att
+              riksdagen antar de delar av den föreslagna lagen som behandlar
+              anmälningsskyldigheten.
+            </p>
+            <p>
+              Ersättning för kostnader för beredskapsåtgärder
+            </p>
+            <p>
+              Regeringen Beredskapsåtgärderna inom elförsörjningsområdet bör,
+              enligt regeringen, genomföras selektivt genom att individuellt
+              utformade krav på åtgärder riktas till det enskilda företaget.
+              Detta förutsätter att åtgärderna finansieras på ett konkurrensneutralt
+              sätt. Enligt regeringen vore en sådan ordning möjlig med ett system
+              som innebär att de berörda företagen ersätts för sina beredskaps-kostnader.
+              Regeringen föreslår att huvudregeln skall vara att beredskapsåtgärder
+              som beslutas med stöd av lagen är ersättningsberättigade. Ersättning
+              förutsätts betalas i efterhand sedan åtgärden har genomförts och
+              mot redovisning. Rätten till ersättning förutsätts kunna begränsas
+              om anmälningsplikten inte har iakttagits. Regeringen anser att
+              det finns skäl för vissa kompletterande regler när det gäller
+              ersättning för beredskapslagring av bränsle för elproduktion.
+              Regeringen erinrar om att olja beredskapslagras med två syften,
+              lagring för fredstida oljekriser respektive s.k. krigslagring.
+              Lagringen sker med stöd av lagen (1994:1049) om beredskapslagring
+              av olja och kol. Lagringen för oljekriser tar sikte på allvarliga
+              störningar i oljeförsörjningen i fredstid. Krigslagringen är avsedd
+              för situationer då landet antingen har blivit indraget i krig
+              eller står neutralt. Såväl kol som oljeprodukter lagras. Innehavare
+              av vissa större elproducerande anläggningar kan åläggas att hålla
+              vissa oljelager. Det rör sig om beredskapslagring vars syfte är
+              att under viss tid möjliggöra drift av gasturbiner, oljekondenskraftverk
+              och kraftvärmeverk i krigssituationer. Regeringen påpekar att
+              kostnaden för denna beredskapslagring är betydande och att det
+              därför finns risk för att viss reservkapacitet avvecklas om inte
+              ersättning utgår. Enligt regeringens bedömning vore detta olämpligt
+              från beredskapssynpunkt. Regeringen föreslår därför att kostnaderna
+              för att hålla dessa lager skall vara ersättningsberättigade enligt
+              elberedskapslagen och således kunna täckas av elberedskapsavgiften.
+              Regeringen anser att det bör ankomma på elberedskapsmyndigheten
+              att inom ersättningssystemets ram ta fram särskilda riktlinjer
+              och rutiner för ersättningsberättigade kostnader för lagring av
+              bränsle. Regeringen förutsätter att det sker ett mycket nära samarbete
+              i dessa frågor mellan elberedskapsmyndigheten och den myndighet
+              som har tillsyn över beredskapslagringen (för närvande NUTEK).
+              Beredskapslagring av anrikat uran sker i dag enligt avtal mellan
+              NUTEK och Svensk Kärnbränslehantering AB. Lagringen avser främst
+              fredskriser och omfattas därmed inte primärt av elberedskapslagens
+              syften. Regeringen anser det inte vara aktuellt att införa beredskapslagring
+              av kärnbränsle med särskilt sikte på situationer med höjd beredskap.
+            </p>
+            <p>
+              Utskottet Utskottet anser, i likhet med regeringen, att beredskapsåtgärder
+              som vidtas efter beslut av elberedskapsmyndigheten skall vara
+              ersättningsberättigade. Berörda företag skall ersättas för de
+              kostnader som är förknippade med beredskapsåtgärderna. Utskottet
+              godtar också vad regeringen föreslagit om att ersättning även
+              skall lämnas för beredskapslagring av bränslen för elproduktion
+              vid höjd beredskap. Utskottet förutsätter att ersättningssystemet
+              utformas så att möjligheterna till ekonomisk uppföljning säkerställs.
+              Utskottet förutsätter vidare att adekvata metoder utvecklas för
+              att mäta beredskapsnyttan i investeringsprojekten och att erfarenheter
+              från utvärderingar av tidigare bidragsverksamhet inom elberedskapen
+              tas till vara. Utskottet föreslår att riksdagen antar de delar
+              av den föreslagna lagen som behandlar ersättningen för kostnader
+              i samband med vidtagna beredskapsåtgärder.
+            </p>
+            <p>
+              Myndighetsfunktion för tillsyn av elberedskapen, m.m.
+            </p>
+            <p>
+              Regeringen
+            </p>
+            <p>
+              Elberedskapsmyndighetens uppgifter Regeringen föreslår att en
+              särskild myndighetsfunktion, elberedskapsmyndigheten, inrättas
+              för tillsyn av elföretagens beredskapsverksamhet enligt den nya
+              lagen. Syftet är att skapa förutsättningar för att tillgodose
+              elförsörjningen vid höjd beredskap eller annars då elförsörjningen
+              är allvarligt hotad. Elberedskapsmyndigheten föreslås vara tillsynsmyndighet
+              för den nya lagens efterlevnad. Regeringen beskriver fyra huvuduppgifter
+              för elberedskapsmyndigheten: normgivning, behovsprövning av beredskapsåtgärder,
+              administration av ersättningssystemet samt uppföljning och tillsyn.
+              I normgivningen ingår bl.a. att - i den utsträckning det följer
+              av regering- ens bemyndigande - utfärda föreskrifter om vad som
+              är beredskapsåtgärder och om anmälningsskyldigheten. Vidare ingår
+              att föreskriva om ersättningsregler. Myndigheten skall i det enskilda
+              fallet pröva behovet av beredskapsåtgärder och ersättning för
+              de åtgärder som åläggs elföretaget. Den skall även lämna föreskrifter
+              om genomförandet och om redovisning av en beslutad åtgärd. Myndigheten
+              skall även pröva behovet av förelägganden och förbud i de fall
+              lagen eller beslut inte åtföljs. Elberedskapsmyndigheten skall
+              administrera ersättningssystemet för den ersättning för beredskapsåtgärder
+              som den beslutar. Till uppgifterna hör också uppföljning och tillsyn
+              av beslutade åtgärder. På övergipande nivå skall också effekterna
+              av genomförda beredskapsåtgärder utvärderas.
+            </p>
+            <p>
+              Svenska kraftnät bör vara elberedskapsmyndighet Från och med
+              den 1 januari 1997 är Svenska kraftnät ansvarig myndighet för
+              delfunktionen Elförsörjning inom totalförsvarets civila del. I
+              Svenska kraftnäts uppgifter som delfunktionsansvarig ingår att
+              samordna och inrikta verksamheten med elberedskap. Häri innefattas
+              dels analys av behovet av beredskapsåtgärder för energiförsörjningen
+              och deras inriktning, dels förslag om verksamhetsinriktning för
+              elberedskapen med beräknat resursbehov. Enligt regeringens bedömning
+              bör Svenska kraftnät i egenskap av ansvarig myndighet för elförsörjningen
+              vara elberedskapsmyndighet. Regeringen konstaterar att beredskapsåtgärder
+              även skall genomföras för Svenska kraftnäts verksamhet och anläggningar.
+              Trots att Svenska kraftnät bedriver en monopolverksamhet och inte
+              är konkurrensutsatt anser regeringen det vara olämpligt att Svenska
+              kraftnät utövar elberedskapsmyndighetens funktion för den egna
+              verksamheten. Regeringen anser därför, i likhet med Lagrådet,
+              att Svenska kraftnät skall undantas från elberedskapslagen. Härigenom
+              undviks en konflikt mellan Svenska kraftnäts olika roller. Omfattningen
+              och inriktningen av Svenska kraftnäts egna beredskapsåtgärder
+              bör enligt regeringen prövas av regering och riksdag. Till denna
+              fråga återkommer regeringen i avsnittet om finansiering. En särskild
+              nämnd inom NUTEK - Krigsskyddsnämnden för kraftanläggningar (Krigsskyddsnämnden)
+              - prövar ärenden enligt krigsskyddslagen (1942:335). Regeringen
+              föreslår att denna nämnd upphör i samband med att den nya elberedskapslagen
+              träder i kraft.
+            </p>
+            <p>
+              Ansvaret för krigslagringen av bränsle för elproducerande anläggningar
+              Regeringen erinrar om att beredskapslagringen av olja och kol
+              för krigssituationer baseras på ålägganden enligt lagen (1984:1049)
+              om beredskapslagring av olja och kol. NUTEK är ansvarig myndighet.
+              Lagringsskyldigheten för innehavare av oljekondensverk, gasturbiner
+              och kraftvärmeverk fastställs efter individuell prövning. Regeringen
+              anför att EBU föreslagit att det bör ankomma på elberedskapsmyndigheten
+              att bestämma storleken på beredskapslagringen vid elproducerande
+              anläggningar. Förslaget sägs från flera utgångspunkter vara välgrundat
+              men regeringen gör ändå bedömningen att skälen för att hålla samman
+              alla beslut om lagringsskyldighet, tillsyn m.m. för bränslen för
+              både fredskriser och krigssituationer för närvarande väger tyngre.
+              Dessa uppgifter föreslås därför ligga kvar hos tillsynsmyndigheten
+              enligt lagen (1984:335) om beredskapslagring av olja och kol,
+              dvs. NUTEK.
+            </p>
+            <p>
+              Utskottet Utskottet godtar vad regeringen anfört om att inrätta
+              en särskild myndighetsfunktion för tillsyn av elföretagens beredskapsåtgärder.
+              Denna elberedskapsmyndighet skall ha till uppgift att meddela
+              föreskrifter om elberedskapen samt att besluta om beredskapsåtgärder
+              vid enskilda företag och anläggningar liksom om ersättning för
+              sådana åtgärder. Härigenom skapas förutsättningar för att tillgodose
+              elförsörjningen vid höjd beredskap eller annars då elförsörjningen
+              är allvarligt hotad. Elberedskapsmyndigheten bör vara tillsynsmyndighet
+              för den nya lagens efterlevnad. Utskottet föreslår att riksdagen
+              antar de delar av den föreslagna lagen som behandlar myndighetsfunktionen
+              för tillsyn av elberedskapen.
+            </p>
+            <p>
+              Tillsyn m.m.
+            </p>
+            <p>
+              Regeringen Den föreslagna lagen om elberedskap innehåller bestämmelser
+              om att elberedskapsmyndigheten för sin myndighetsutövning kan
+              begära in upplysningar och handlingar från dem som omfattas av
+              elberedskapslagen. Regler för tillsyn erfordras, enligt regeringen,
+              för en effektiv inriktning av resursfördelningen i beredskapsarbetet,
+              för att kunna följa upp detta och för att sätta kraft bakom myndighetens
+              agerande. Vidare föreslås vissa sanktionsmöjligheter. Regeringen
+              pekar på betydelsen från försvarssynpunkt av att inte beredskapsuppgifter
+              röjs. I beredskapsarbetet kan också uppstå situationer där information
+              om affärs- eller driftsförhållanden inte bör utnyttjas på ett
+              obehörigt sätt. När det gäller verksamhet inom det allmänna, exempelvis
+              hos elberedskapsmyndigheten, täcks dessa situationer upp av sekretesslagens
+              (1980:100) bestämmelser. Motsvarande reglering saknas däremot
+              för enskild på elberedskapsområdet. Regeringen föreslår därför
+              att det i den nya lagen intas en regel om tystnadsplikt för enskilda.
+            </p>
+            <p>
+              Utskottet Utskottet anser, liksom regeringen, att elberedskapslagen
+              bör innehålla regler om tillsyn, med vissa sanktionsmöjligheter.
+              Vidare bör i den aktuella lagen ingå en regel om tystnadsplikt.
+              Utskottet föreslår att riksdagen antar den föreslagna lagen i
+              berörd del.
+            </p>
+            <p>
+              Finansiering av elberedskapen
+            </p>
+            <p>
+              Regeringen Regeringen erinrar om att den i proposition 1996/97:4
+              Totalförsvar i förnyelse - etapp 2 redogjort för hur den civila
+              beredskapen i framtiden bör finansieras. Enligt propositionen
+              bör den s.k. ansvarsprincipen utökas så att den även blir vägledande
+              för fördelningen av kostnadsansvaret för beredskapsåtgärder. Inom
+              vissa strukturområden, däribland elförsörjningen, bör i enlighet
+              härmed beredskapsåtgärderna finansieras genom avgifter. Regeringen
+              föreslår sålunda att en särskild avgift, elberedskapsavgiften,
+              införs för att finansiera elberedskapen för situationer med höjd
+              beredskap. Avgiften bör tas ut av dem som har s.k. nätkoncession.
+              Regeringen förordar att avgiftsintäkterna redovisas på inkomsttitel
+              på statsbudgeten. Svenska kraftnät skall åt regeringen årligen
+              beräkna medelsbehovet för elberedskapen på en av statsmakterna
+              angiven ambitionsnivå och föreslå hur de beräknade medlen bör
+              disponeras. Regeringen skall därefter i budgetpropositionen föreslå
+              ambitionsnivå, medelsbehov och avgiftsuttag för elberedskapen.
+              Avgiftsuttaget fastställs av riksdagen i samband med budgetprövningen,
+              då den beslutar om ambitionsnivå och hur medlen skall användas.
+              Medel för verksamheten anvisas därefter via anslag på statsbudgeten.
+              Regeringen fastställer avgifterna med ledning av riksdagens beslut
+              om avgiftsuttag. Regeringen anför att dess förslag i huvudsak
+              överensstämmer med de principer för ett avgiftssystem som föreslagits
+              av EBU. En väsentlig skillnad är dock att EBU anser att avgiftsintäkterna
+              skall fonderas på ett räntebärande konto i Riksgäldskontoret i
+              stället för att redovisas på inkomsttitel, vilket regeringen alltså
+              förordar. Som skäl anges att s.k. bruttobudgetering i enlighet
+              med riksdagens beslut om den statliga budgetprocessen skall tillämpas
+              för offentligrättsligt reglerade avgifter fr.o.m. den 1 januari
+              1997 (prop. 1995/96:220, bet. KU3, rskr. 27). Härav följer att
+              intäkter från sådana avgifter redovisas på inkomsttitel i stasbudgeten
+              och att det över anslaget anvisas medel för den verksamhet som
+              avgifterna är avsedda att finansiera. Som framgått av det föregående
+              kommer inte Svenska kraftnät att omfattas av elberedskapslagen.
+              Det innebär att beredskapsåtgärder i verkets anläggningar och
+              verksamhet inte är ersättningsberättigade. Regeringen föreslår
+              därför att dessa åtgärder finansieras med medel från verkets affärsverksamhet
+              enligt den ordning som nu gäller. Omfattningen och den övergripande
+              inriktningen av Svenska kraftnäts beredskapsåtgärder bör enligt
+              regeringen beslutas av riksdagen i samband med budgetprövningen.
+              Regeringen anser inte att de i propositionen framlagda lagförslagen
+              kommer att få någon nämnvärd påverkan på statsfinanserna.
+            </p>
+            <p>
+              Utskottet Utskottet anser, liksom regeringen, att statens kostnader
+              för att ersätta elföretagen för deras beredskapsåtgärder bör anvisas
+              över anslag på statsbudgeten. Detsamma bör gälla för medel för
+              elberedskapsmyndighetens verksamhet enligt elberedskapslagen.
+              Elberedskapen bör finansieras genom en årlig avgift som betalas
+              av innehavare av nätkoncession. Avgifterna bör, som regeringen
+              föreslagit, redovisas över inkomsttitel på statsbudgeten. Det
+              bör ankomma på riksdagen att fastställa avgiftsuttaget i samband
+              med budgetprövningen. För att få långsiktighet och kontinuitet
+              i planeringen inom elberedskapen, främst för investeringar, anser
+              utskottet det angeläget att medelstilldelningen kan bedömas med
+              viss framförhållning. Riktlinjer för nivån på avgiftsuttaget bör
+              därför antas i samband med de fleråriga försvarsbesluten, då även
+              ambitionsnivån för den långsiktiga elberedskapen läggs fast. Utskottet
+              föreslår sålunda att riksdagen antar den föreslagna lagen om elberedskap
+              i den del som rör finansiering.
+            </p>
+            <p>
+              Övriga lagstiftningsåtgärder
+            </p>
+            <p>
+              Regeringen
+            </p>
+            <p>
+              Beredskapslagring av bränslen för elproduktion Regeringen framhåller
+              att innehavarna av de större oljekondensverken och gasturbinanläggningarna
+              varit ålagda att hålla särskilda beredskapslager, vars storlek
+              bestäms utifrån vissa antaganden om behovet att driva anläggningarna
+              i krigssituationer. För kraftvärmeverken förekommer lagring för
+              såväl fredskriser som krigssituationer. Regeringen, eller den
+              myndighet som regeringen bestämmer, kan dock när särskilda skäl
+              föreligger medge att beredskapslager för oljekondensverk tillfälligt
+              kan användas för anläggningens drift även i andra situationer.
+              Denna bestämmelse är i första hand avsedd för extrema torrår men
+              bör, enligt regeringen, även kunna tillämpas vid lokal eller regional
+              s.k. ö-drift om stamnätet slås ut genom t.ex. sabotage eller extrema
+              oväder. Med det synsätt som ligger till grund för regleringen
+              i elberedskapslagen bedömer regeringen att lager vid även andra
+              elproducerande anläggningar än oljekondensverk i extrema fall
+              bör kunna tas i anspråk tillfälligt efter beslut av regeringen
+              eller den myndighet som regeringen bestämmer. Regeringen föreslår
+              vidare att det i elberedskapslagen införs bestämmelser om att
+              ersättning skall betalas ut till innehavare av elproducerande
+              anläggningar för beredskapslagring för krigssituationer som ålagts
+              enligt lagen om beredskapslagring av olja och kol (1984:1049).
+              Vidare föreslår regeringen, för tydlighets skull, att i denna
+              senare lag införs en hänvisning om ersättningsbestämmelsen i elberedskapslagen.
+            </p>
+            <p>
+              Skyddsåtgärder för rörledningar Enligt regeringens bedömning
+              är rörledningar för transport av råolja, naturgas och produkter
+              av råolja eller naturgas i allmänhet så viktiga för totalförsvaret
+              och folkförsörjningen att de måste skyddas mot inverkan från stridshandlingar.
+              Regeringen anser samtidigt att behovet av sådana skyddsåtgärder
+              bör kunna tillgodoses genom lämplig utformning av villkor när
+              koncession för rörledningar lämnas. Härav följer att det inte
+              är nödvändigt att låta rörledningar omfattas av elberedskapslagen.
+            </p>
+            <p>
+              Utskottet Utskottet delar regeringens uppfattning att en hänvisning
+              bör införas i lagen (1984:1049) om beredskapslagring av olja och
+              kol med innebörd att ersättning för viss beredskapslagring skall
+              kunna lämnas enligt elberedskapslagen. Regeringen eller den myndighet
+              som regeringen bestämmer bör få medge att beredskapslager - avsedda
+              för krigssituationer - vid gasturbiner och kraftvärmeverk tillfälligt
+              får tas i anspråk även vid andra svåra påfrestningar. Utskottet
+              föreslår sålunda att riksdagen antar förslaget till lag om ändring
+              i lagen (1984:1049) om beredskapslagring av olja och kol.
+            </p>
+            <p>
+              Ikraftträdande
+            </p>
+            <p>
+              Regeringen Regeringen anser att det föreliggande lagförslaget
+              inte innehåller några omedelbart genomgripande förändringar för
+              företagen inom elförsörjningen, bortsett från förslaget om rätt
+              till ersättning för beredskapsåtgärder. Det krävs därför inga
+              kostnadskrävande åtgärder för att anpassa verksamheten hos elföretagen
+              till den nya lagstiftningen. De förändringar som krävs på myndighetssidan
+              sägs i huvudsak redan ha genomförts i och med att Svenska kraftnät
+              den 1 januari 1997 tog över ansvaret för elberedskapen. Elberedskapen
+              finansieras under första halvåret 1997 dels med anslag för ändamålet
+              på statsbudgeten för år 1997, dels med kvarvarande medel på äldre
+              anslag som tidigare anvisats för elberedskapsändamål (prop. 1996/97:1
+              utg.omr. 6, bet. FöU1, rskr. 112). För finansieringen under andra
+              halvåret 1997 har regeringen angivit att planeringen skall utgå
+              från att avgiftsfinansiering införs fr.o.m. den 1 juli 1997. Regeringen
+              föreslår att den föreslagna elberedskapslagen och de övriga lagförslagen
+              skall träda i kraft den 1 juli 1997.
+            </p>
+            <p>
+              Utskottet Utskottet erinrar om att det nyligen påtalat (prop.
+              1996/97:4, bet. FöU4, rskr. 112) vikten av att finansieringen
+              säkras fr.o.m. den 1 juli 1997 för de beredskapsåtgärder som behöver
+              vidtas. Utskottet föreslår sammanfattningsvis att riksdagen antar
+              dels den föreslagna lagen om elberedskap, dels den föreslagna
+              lagen om ändring i lagen (1984:1049) om beredskapslagring av olja
+              och kol samt att dessa lagar skall träda i kraft den 1 juli 1997.
+              Utskottet föreslår vidare att riksdagen, med samma tidpunkt för
+              ikraftträdande, antar de föreslagna följdändringarna till elberedskapslagen
+              nämligen * lag om ändring i lagen (1902:71 s. 71), innefattande
+              vissa bestämmelser om elektriska anläggningar, * lag om ändring
+              i lagen (1971:309) om behörighet för allmän förvaltningsdomstol
+              att pröva vissa mål, * lag om ändring i vattenlagen (1983:291),
+              * lag om ändring i lagen (1994:1720) om civilt försvar.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bhemst">
+              Hemställan
+            </head>
+            <p>
+              Utskottet hemställer 1. beträffande förslag till elberedskapslag
+              att riksdagen med bifall till proposition 1996/97:86 samt med
+              avslag på motion 1996/97:61 antar regeringens förslag till elberedskapslag,
+              2. beträffande övriga lagförslag att riksdagen med bifall till
+              proposition 1996/97:87 antar regeringens förslag till a) lag om
+              ändring i lagen (1902:71 s. 1) innefattande vissa bestämmelser
+              om elektriska anläggningar, b) lag om ändring i lagen (1971:309)
+              om behörighet för allmän förvaltningsdomstol att pröva vissa mål,
+              c) lag om ändring i vattenlagen (1983:291), d) lag om ändring
+              i lagen (1984:1049) om beredskapslagring av olja och kol, e) lag
+              om ändring i lagen (1994:1720) om civilt försvar.
+            </p>
+            <p>
+              Stockholm den 17 april 1997
+            </p>
+            <p>
+              På försvarsutskottets vägnar
+            </p>
+            <p>
+              Arne Andersson
+            </p>
+            <p>
+              I beslutet har deltagit: Arne Andersson (m), Iréne Vestlund (s),
+              Christer Skoog (s), Sven Lundberg (s), Karin Wegestål (s), Ola
+              Rask (s), Lennart Rohdin (fp), Birgitta Gidblom (s), Jan Jennehag
+              (v), Håkan Juholt (s), Olle Lindström (m), Annika Nordgren (mp),
+              Åke Carnerö (kd), Jörgen Persson (s), Rolf Gunnarsson (m), Göthe
+              Knutson (m) och Erik Arthur Egervärn (c).
+            </p>
+            <p>
+              1. Förslag till elberedskapslag
+            </p>
+            <p>
+              2. Förslag till lag om ändring i lagen (1902:71 s. 1), innefattande
+              vissa bestämmelser om elektriska anläggningar 3. Förslag till
+              lag om ändring i lagen (1971:309) om behörighet för allmän förvaltningsdomstol
+              att pröva vissa mål
+            </p>
+            <p>
+              4. Förslag till lag om ändring i vattenlagen (1983:291)
+            </p>
+            <p>
+              5. Förslag till lag om ändring i lagen (1984:1049) om beredskapslagring
+              av olja och kol
+            </p>
+            <p>
+              6. Förslag till lag om ändring i lagen (1994:1720) om civilt
+              försvar
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bres">
+              Innehållsförteckning
+            </head>
+            <p>
+              Sammanfattning........................................1 Propositionen.........................................1
+              Motionen..............................................2 Utskottet.............................................2
+              Bakgrund 2 Behovet av ett nytt regelverk för elberedskapen 3 Ny
+              lag om elberedskap 6 Skyldighet att vidta beredskapsåtgärder 7
+              Anmälningsskyldighet 8 Ersättning för kostnader för beredskapsåtgärder
+              9 Myndighetsfunktion för tillsyn av elberedskapen, m.m. 11 Tillsyn
+              m.m. 12 Finansiering av elberedskapen 13 Övriga lagstiftningsåtgärder
+              14 Ikraftträdande 15 Hemställan 16 Bilaga 1. Förslag till elberedskapslag
+              18 Bilaga 2. Förslag till lag om ändring i lagen (1902:71 s. 1),
+              innefattande vissa bestämmelser om elektriska anläggningar 22
+              Bilaga 3. Förslag till lag om ändring i lagen (1971:309) om behörighet
+              för allmän förvaltningsdomstol att pröva vissa mål 23 Bilaga 4.
+              Förslag till lag om ändring i vattenlagen (1983:291) 26 Bilaga
+              5. Förslag till lag om ändring i lagen (1984:1049) om beredskapslagring
+              av olja och kol 27 Bilaga 6. Förslag till lag om ändring i lagen
+              (1994:1720) om civilt försvar 28
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

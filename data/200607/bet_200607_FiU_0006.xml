@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200607_FiU_0006">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Regeringen har redovisat AP-fondernas verksamhet under 2005. Redovisningen innehåller bland annat en sammanställning av fondernas resultat och årsredovisningar. Dessutom ingår en utvärdering av fondernas förvaltning sedan 2001, uppdelad på styrelsernas strategiska beslut och den operativa kapitalförvaltningen. Riksdagen avslutade ärendet utan att göra något mer.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">AP-fondernas verksamhet 2001-2005 (FiU6)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Skrivelsen läggs till handlingar. Avslag på motionerna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag till beslut</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GU0929</idno>
+              <title>2006-11-29</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">29</biblScope>
+              <note type="display-reference">2006-11-29</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GU0925</idno>
+              <title>2006-11-22</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">25</biblScope>
+              <note type="display-reference">2006-11-22</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GU0K5</idno>
+              <title>2006/07:5</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">5</biblScope>
+              <note type="display-reference">2006/07:5</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="skr">
+              <idno type="riksdagen">GT03210</idno>
+              <title>Redovisning av AP-fondernas verksamhet 2001-2005</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">210</biblScope>
+              <note type="display-reference">regeringsskrivelse 2005/06:210 Redovisning av AP-fondernas verksamhet 2001-2005</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GU02Fi209</idno>
+              <title>Fonder för lokal och regional utveckling</title>
+              <title type="sub">av Ulf Holm och Jan Lindholm (MP)</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">Fi209</biblScope>
+              <note type="display-reference">motion 2006/07:Fi209 Fonder för lokal och regional utveckling</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GU02Sf220</idno>
+              <title>Rättvist pensionssystem</title>
+              <title type="sub">av Lars Ohly m.fl. (V)</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">Sf220</biblScope>
+              <note type="display-reference">motion 2006/07:Sf220 Rättvist pensionssystem</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="B1" subtype="avgorande" n="1" when="2006-11-17">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-11-17">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-11-21">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-11-21">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-11-22">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-11-22">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2006-11-29">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2006-11-29">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2006-11-29">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2006-11-29">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-10-19">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-11-07">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-11-07">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-11-09">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-11-09">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2006-11-13">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2006-11-14">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2006-11-14">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2006-11-16">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="DEL" subtype="beredning" n="90" when="2006-11-16">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2006/07:FiU6
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Redovisning av AP-fondernas verksamhet 20012005 (skr. 2005/06:210)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDAL50QB" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I skrivelse 2005/06:210 Redovisning av AP-fondernas verksamhet
+            20012005 lämnar regeringen en redovisning av AP-fondernas verksamhet
+            under 2005 det femte verksamhetsåret med den nya organisationen
+            och de nya placeringsreglerna.
+          </p>
+          <p>
+            Redovisningen innehåller bl.a. en sammanställning av fondernas
+            resultat och årsredovisningar. Dessutom ingår en utvärdering av
+            fondernas förvaltning sedan 2001, uppdelad på styrelsernas strategiska
+            beslut och den operativa kapitalförvaltningen.
+          </p>
+          <p>
+            AP-fonderna (exklusive Sjunde AP-fonden) gav under 2005 ett sammanlagt
+            resultat på 113,7 miljarder kronor. Skillnaden mellan pensionsavgifterna
+            och pensionsutbetalningarna gav under året ett överskott på 10,5
+            miljarder kronor. Kostnaden för administrationen uppgick till
+            1,2 miljarder kronor. Sammantaget innebär detta att AP-fondernas
+            samlade kapital ökade med 123 miljarder kronor, från 646,2 miljarder
+            kronor i slutet av 2004 till 769,2 miljarder kronor i slutet av
+            2005. Resultatet motsvarar en nominell och real avkastning på
+            17,4 % respektive 16,4 %.
+          </p>
+          <p>
+            De senaste fem åren har fondernas avkastning legat på i genomsnitt
+            4,3 % per år, vilket ger en real avkastning under perioden på
+            2,8 %. Det är första gången sedan pensionsreformen sjösattes som
+            den långsiktiga reala avkastningen varit positiv. Fondernas stora
+            förluster i samband med börsfallen 2001 och 2002 har återtagits.
+          </p>
+          <p>
+            Ingen motion har väckts med anledning av skrivelsen. Under allmänna
+            motionstiden väcktes två motioner som behandlas i betänkandet
+            överföring av medel från AP-fonderna till statsbudgeten samt förslag
+            om regionala utvecklingsfonder. Utskottet föreslår att motionerna
+            avstyrks. I betänkandet finns två reservationer.
+          </p>
+          <p xml:id="IDAP40QB" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  AP-fondernas verksamhet 20012005
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger skrivelse 2005/06:210 till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Överföring av medel från AP-fonderna till statsbudgeten
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2006/07:Sf220 av Lars Ohly m.fl. (v) yrkande 6.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 1 (v)
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  3.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Regionala utvecklingsfonder
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2006/07:Fi209 av Ulf Holm och Jan Lindholm (båda mp) yrkandena
+                  13.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 2 (v, mp)
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 9 november 2006
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Ulf Sjösten (m), Anna Lilliehöök (m), Sonia Karlsson (s), Lars
+            Elinderson (m), Monica Green (s), Christer Nylander (fp), Hans
+            Hoff (s), Peder Wachtmeister (m), Agneta Gille (s), Göran Pettersson
+            (m), Ulla Andersson (v), Tommy Ternemar (s), Emma Henriksson (kd),
+            Mikaela Valtersson (mp), Jörgen Hellman (s) och Per Åsling (c).
+          </p>
+          <p xml:id="IDAORYQB" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            I skrivelse 2005/06:210 Redovisning av AP-fondernas verksamhet
+            20012005 lämnar regeringen en redovisning av AP-fondernas verksamhet
+            under 2005 det femte verksamhetsåret med den nya organisationen
+            och de nya placeringsreglerna.
+          </p>
+          <p>
+            Redovisningen innehåller bl.a. en sammanställning av fondernas
+            resultat och årsredovisningar. Dessutom ingår en utvärdering av
+            fondernas förvaltning sedan 2001, uppdelad på styrelsernas strategiska
+            beslut och den operativa kapitalförvaltningen.
+          </p>
+          <p>
+            Ingen motion har väckts med anledning av skrivelsen. Under allmänna
+            motionstiden väcktes två motioner som behandlas i betänkandet.
+            Motionernas förslag återges i bilaga 1.
+          </p>
+          <p xml:id="IDA1RYQB" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDA5RYQB" rend="rubrik2">
+            AP-fondernas verksamhet 20012005
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAGSYQB" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Regeringens skrivelse om AP-fondernas verksamhet 20012005 läggs
+                till handlingarna.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDATSYQB" rend="r3">
+              Fondernas resultat 2005
+            </p>
+            <p>
+              Till följd av den kraftiga börsuppgången gav AP-fonderna (exklusive
+              Sjunde AP-fonden) under 2005 ett sammanlagt resultat på 113,7
+              miljarder kronor, visar sammanställningen av fondernas årsredovisningar.
+            </p>
+            <p>
+              Skillnaden mellan pensionsavgifterna och pensionsutbetalningarna
+              gav under året ett överskott på 10,5 miljarder kronor. Kostnaden
+              för administrationen av ålderspensionssystemet uppgick till 1,2
+              miljarder kronor. Sammantaget innebär detta att AP-fondernas samlade
+              kapital ökade med 123 miljarder kronor, från 646,2 miljarder kronor
+              i slutet av 2004 till 769,2 miljarder kronor i slutet av 2005.
+              Resultatet motsvarar en nominell avkastning på 17,4 %, vilket
+              kan jämföras med en avkastning under 2004 på 10,9 %. Räknas inflationen
+              bort blev den reala avkastningen 16,4 %. Under 2004 var den reala
+              avkastningen 10,5 %.
+            </p>
+            <p>
+              Under de senaste fem åren har fondernas avkastning legat på i
+              genomsnitt 4,3 % per år. Det ger en real avkastning under perioden
+              på 2,8 %. Det är första gången sedan pensionsreformen sattes i
+              sjön som den långsiktiga reala avkastningen varit positiv. De
+              stora förlusterna som fonderna gjorde i samband med börsfallen
+              2001 och 2002 har återtagits.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 1. Buffertfondernas tillgångar
+            </p>
+            <p rend="tabellunderrubrik grad2">
+              mdkr
+              <hi rend="superscript">
+                1
+              </hi>
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell>
+                  <p rend="tabellhuvudvanster grad1">
+                    Tillgångar
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    2001
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    2003
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    2004
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    2005
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Svenska och utländska aktier
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    325 (57,5)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    341,7 (59,2)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    380,8 (58,9)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    463 (60,2)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Svenska och utländska räntebärande värdepapper
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    182 (32,2)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    188,4 (32,7)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    205,3 (31,8)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    247,2 (32,1)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Realränteobligationer
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    39,8 (7)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    31,9 (5,5)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    39 (6)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    33,2 (4,3)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Fastigheter
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    18,4 (3,3)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    15 (2,6)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    21,1 (3,3)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    22,8 (3)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Totalt
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    565,2
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    577
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    646,2
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    769,2
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Varav utomlands
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    287,8 (49,3)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    333,5 (57,8)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    378,8 (58,6)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    474,8 (61,7)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Varav valutaexponering
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    54,3 (9,6)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    69,9 (12,1)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    110,3 (17,1)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    115,1 (15)
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              <hi rend="superscript">
+                1
+              </hi>
+              Siffrorna inom parentes anger andel av totala kapitalet.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Som framgår av tabell 1 bestod fondernas tillgångar vid utgången
+              av 2005 till drygt 60 % av svenska och utländska aktier, vilket
+              motsvarar 463 miljarder kronor. Av dessa var knappt 319,5 miljarder
+              kronor placerade i utländska aktier och 143,5 miljarder i svenska
+              aktier. Placeringarna i utländska aktier ökade under året med
+              60 miljarder kronor, medan placeringarna i svenska aktier steg
+              med 22 miljarder kronor.
+            </p>
+            <p>
+              Drygt 247 miljarder kronor var placerade i svenska och utländska
+              räntebärande värdepapper, varav knappt 94 miljarder kronor i svenska
+              och drygt 153 miljarder kronor i utländska. Placeringarna i realränteobligationer
+              svarade för 4,3 % av det totala kapitalet, vilket är en nedgång
+              med knappt 2 procentenheter jämfört med förra året. Andelen fastigheter
+              av det totala kapitalet uppgick till 3 %.
+            </p>
+            <p>
+              AP-fondernas kostnader för förvaltningen av pensionskapitalet
+              steg kraftigt direkt efter pensionsreformen 2001, bl.a. på grund
+              av att fonderna i större utsträckning än tidigare anlitade extern
+              förvaltning. Under 2005 uppgick den totala förvaltningskostnaden
+              till knappt 1,4 miljarder kronor, vilket motsvarar 0,19 % av fondernas
+              samlade kapital. Sjätte AP-fonden stod för högsta förvaltningskostnaden,
+              följd av Andra AP-fonden.
+            </p>
+            <p xml:id="IDABCZQB" rend="r4">
+              Första AP-fonden
+            </p>
+            <p>
+              Det marknadsvärderade resultatet för Första AP-fonden blev under
+              2005 27,6 miljarder kronor, vilket motsvarar en avkastning på
+              17,5 %. När det gäller de noterade tillgångarna var det 1,5 procentenheter
+              högre än fondens jämförelseindex. Fondens mål är att på årsbasis
+              överträffa jämförelseindex med 0,5 procentenheter (exklusive fastigheter).
+              Fondens kapital uppgick i slutet av 2005 till 187,3 miljarder
+              kronor.
+            </p>
+            <p xml:id="IDAHCZQB" rend="r4">
+              Andra AP-fonden
+            </p>
+            <p>
+              Andra AP-fondens resultat uppgick till 29,6 miljarder kronor.
+              Det motsvarar en avkastning på 18,7 %, vilket är 0,2 procentenheter
+              sämre än jämförelseindex, enligt fondens beräkningar. Målet är
+              att avkastningen på noterade tillgångar ska överstiga jämförelseindex
+              med 0,5 procentenheter per år. Fondkapitalet uppgick vid slutet
+              av året till 190,6 miljarder kronor.
+            </p>
+            <p xml:id="IDANCZQB" rend="r4">
+              Tredje AP-fonden
+            </p>
+            <p>
+              Tredje AP-fonden visade under 2005 ett resultat på 28,8 miljarder
+              kronor. Det ger en avkastning på 17,9 %, vilket enligt fonden
+              är 1,2 procentenheter högre än jämförelseindex. Målet är att förvaltningen
+              ska överträffa jämförelseindex med 0,20,8 procentenheter per år
+              efter att kostnaderna dragits av. Fondens kapital steg till knappt
+              192 miljarder kronor.
+            </p>
+            <p xml:id="IDATCZQB" rend="r4">
+              Fjärde AP-fonden
+            </p>
+            <p>
+              Fjärde AP-fondens resultat blev 25,8 miljarder kronor. Det motsvarar
+              en avkastning på 16,9 %, vilket var något lägre än jämförelseindex.
+              Målet är att förvaltningen ska slå jämförelseindex med 0,7 procentenheter
+              per år. Kapitalet uppgick vid årets slut till 180,1 miljarder
+              kronor.
+            </p>
+            <p xml:id="IDAZCZQB" rend="r4">
+              Sjätte AP-fonden
+            </p>
+            <p>
+              Sjätte AP-fondens totala resultat uppgick till 1,2 miljarder
+              kronor, vilket motsvarar en avkastning före kostnader på 11 %
+              och efter kostnader på 8,9 %. Det är nästan 3 procentenheter bättre
+              än fondens uppsatta mål. Kapitalet steg under året till totalt
+              15,1 miljarder kronor.
+            </p>
+            <p xml:id="IDA5CZQB" rend="r4">
+              Sjunde AP-fonden
+            </p>
+            <p>
+              Sjunde AP-fonden är det statliga fondalternativet inom premiereservsystemet.
+              Den s.k. premiesparfonden, vilken är den fond som de s.k. icke-väljarna
+              i premiereservsystemet placeras i, gav under 2005 en avkastning
+              på 25,1 %. Det är 7,2 procentenheter lägre än genomsnittet av
+              samtliga premiepensionsfonders avkastning. Den s.k. premievalsfonden,
+              som är den valbara statliga fonden, gav under samma period en
+              avkastning på 27,7 %, vilket är 4,6 procentenheter lägre än genomsnittet
+              för premiepensionsfonderna. Sett i genomsnitt över de senaste
+              fem åren (20012005) har dock de bägge fonderna legat över genomsnittet
+              för premiepensionsfonderna.
+            </p>
+            <p xml:id="IDAFDZQB" rend="r3">
+              Regeringens utvärdering av fondernas förvaltning
+            </p>
+            <p>
+              Årets utvärderingar omfattar perioden halvårsskiftet 2001 t.o.m.
+              2005 för FörstaFjärde AP-fonderna. För Sjätte och Sjunde AP-fonderna
+              omfattar utvärderingen fem år eller längre. Utvärderingen omfattar
+              bedömningar av fondernas strategiska beslut och operativa förvaltningsresultat.
+              Underlaget till utvärderingen har utarbetats av bl.a. konsultbolaget
+              Wassum Investment Consulting. Regeringen redovisar dessutom en
+              policy för styrning och utvärdering av AP-fonderna. Policyn redovisas
+              i bilaga 1 i skrivelsen.
+            </p>
+            <p xml:id="IDALDZQB" rend="r4">
+              FörstaFjärde AP-fondernas förvaltning
+            </p>
+            <p xml:id="IDAODZQB" rend="r5">
+              Förvaltningsresultat
+            </p>
+            <p>
+              Fonderna har under perioden 20012005 gett ett resultat på nästan
+              167 miljarder kronor. Det innebär ett överskott på 106 miljarder
+              kronor efter att inflationen dragits av och ett överskott gentemot
+              det s.k. inkomstindex på ca 44 miljarder kronor. Inkomstindex
+              är styrande för den årliga uppräkningen av pensionssystemets övriga
+              tillgångar och skulder. Inkomstindex är därmed golvet för den
+              finansiering av pensionssystemet som fonderna borde bidra med.
+              Regeringen konstaterar att fondernas reala avkastning är något
+              lägre än det långsiktiga mål för den reala avkastningen som fonderna
+              själva satt upp. Överskottet i förhållande till inkomstindex innebär
+              däremot att fonderna medverkat till att den automatiska balanseringen
+              av systemet hittills inte har behövts aktiveras.
+            </p>
+            <p>
+              Enligt regeringen visar utvärderingen att den helt övervägande
+              delen av avkastningen under perioden förklaras av den placeringsstrategi
+              som styrelserna beslutade om initialt, dvs. när fonderna 2001
+              drog i gång sin verksamhet. Däremot har den aktiva operativa förvaltningen
+              bidragit mycket lite till det samlade resultatet. Dessutom står
+              den aktiva operativa förvaltningen för en stor andel av fondernas
+              kostnader. Detta innebär enligt regeringen att det inte går att
+              säkerställa att fondernas aktiva förvaltning varit positiv för
+              fondernas resultat (efter avdrag för kostnaderna).
+            </p>
+            <p xml:id="IDAXDZQB" rend="r5">
+              Förvaltningsstruktur och kostnadseffektivitet
+            </p>
+            <p>
+              Enligt regeringen finns det anledning för AP-fonderna, liksom
+              alla institutionella placerare, att kritiskt bedöma hur mycket
+              kapital man ska förvalta internt inom den egna organisationen
+              respektive externt samt om förvaltningen bör vara aktiv eller
+              passiv.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 2. Förvaltningsstruktur i buffertfonderna 2005
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    AP1
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    AP2
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    AP3
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    AP4
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    AP6
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    AP7
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Andel intern förvaltning
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    62 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    72 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    55 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    81 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    37 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    20 %
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Andel aktiv förvaltning
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    95 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    90 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    74 %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    100 %
+                  </p>
+                </cell>
+                <cell/>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    35 %
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Som framgår av tabell 2 skiljer sig fonderna åt i dessa avseenden.
+              Den största skiljelinjen går mellan FörstaFjärde AP-fonderna och
+              Sjätte och Sjunde AP-fonderna. Både Sjätte och Sjunde AP-fonderna
+              har jämfört med de övriga en relativt låg andel intern förvaltning
+              samtidigt som Sjunde AP-fonden har den lägsta andelen aktiv förvaltning.
+              Bland buffertfonderna har Fjärde AP-fonden den högsta andelen
+              intern förvaltning och den högsta andelen aktiv förvaltning.
+            </p>
+            <p>
+              Fonderna har inget mål att de ska bedriva förvaltningen aktivt.
+              Om styrelserna beslutar om aktiv förvaltning bör grunden vara
+              att resultatet över tiden minst ska överstiga de merkostnader
+              som uppkommer. Om så inte är fallet bör, enligt regeringen, förvaltningen
+              skötas passivt, vilket är den mest kostnadseffektiva förvaltningsformen.
+              Regeringen konstaterar att det bara var Tredje och Sjunde AP-fonderna
+              som på ett tidigt stadium gjorde grundläggande analyser av vilken
+              förvaltningsform de skulle välja. Båda dessa skiljer sig också
+              något i förvaltningsform från de övriga. Regeringen anger i skrivelsen
+              att de gett konsultbolaget Wassum i uppdrag att i kommande utvärderingar
+              mer detaljerat granska fondernas argument för aktiv kapitalförvaltning.
+            </p>
+            <p xml:id="IDALMZQB" rend="r5">
+              Bolagsstyrning
+            </p>
+            <p>
+              AP-fondernas styrelser ska årligen fastställa en ägarpolicy.
+              Denna policy ska innehålla mål, medel och regler för beslutsfattande
+              samt allmänna riktlinjer i ägarstyrningsfrågor. Utgångspunkten
+              är att engagemang i ägarfrågor bidrar positivt till fondernas
+              långsiktiga avkastning.
+            </p>
+            <p>
+              Regeringen redovisar i skrivelsen fondernas engagemang under
+              2005. Flera av fonderna, främst Första, Andra och Fjärde AP-fonderna,
+              har varit engagerade i Skandia, bl.a. i uppköpsbudet från Old
+              Mutual.
+            </p>
+            <p>
+              Första AP-fonden har under 2005 deltagit i 43 bolagsstämmor,
+              dvs. bolagsstämmorna i samtliga svenska bolag som fonden äger
+              aktier i. Fonden har dessutom fört diskussioner om t.ex. bonusprogram
+              med styrelserna i flera av de bolag som fonden äger aktier i.
+              Första AP-fonden var dessutom representerad i tre valberedningar
+              inför bolagsstämmorna 2006. Andra AP-fonden har under året deltagit
+              i 54 bolagsstämmor i svenska bolag och genom fullmakter utnyttjat
+              rösträtten på bolagsstämmorna i de 50 största utländska aktieinnehaven.
+              Inför bolagsstämmorna 2006 var Andra AP-fonden representerad i
+              14 valberedningar. Tredje AP-fonden deltog i 47 bolagsstämmor
+              och var dessutom i kontakt med styrelsen eller övriga ägare i
+              29 bolag, bl.a. i de elva bolag som planerade att införa ett aktierelaterat
+              incitamentsprogram. Tredje AP-fonden har inför bolagsstämmorna
+              2006 varit representerad i fem valberedningar. Fjärde AP-fonden
+              var representerad vid 41 bolagsstämmor och ingick i 17 valberedningar.
+            </p>
+            <p>
+              Regeringen konstaterar att samtliga fonder följt upp sin ägarpolicy
+              med att anställa personal som kan frågorna. Detta talar för att
+              ägandet kommer att bidra till fondernas långsiktiga avkastning,
+              enligt regeringen.
+            </p>
+            <p>
+              Vid sidan av ägarengagemanget ska fonderna i sin förvaltning
+              även ta hänsyn till miljö och etik. Vid riksdagens behandling
+              av skrivelsen för AP-fondernas verksamhet 2003 uttalade finansutskottet
+              att regeringen vid sidan av den sedvanliga utvärderingen av förvaltningsresultatet,
+              även ska utvärdera fondernas riktlinjer för miljö och etik. Regeringen
+              anger i skrivelsen att regeringen förbereder en utvärdering av
+              fondernas riktlinjer för miljö och etik. Utvärderingen ska ha
+              formen av en offentlig utredning. Som förebild anges den norska
+              utredningen om Petroleumfondens etiska riktlinjer (NOU 2003:22
+              Forvaltning for fremtiden).
+            </p>
+            <p xml:id="IDA3MZQB" rend="r3">
+              Utvärderingen av de enskilda fondernas förvaltning
+            </p>
+            <p>
+              I tabell 3 sammanfattas kortfattat regeringens synpunkter på
+              fondernas strategiska beslut och operativa förvaltning.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 3. Sammanfattning av regeringens bedömningar
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell>
+                  <p rend="tabellhuvudvanster">
+                    Fond
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudvanster">
+                    Regeringens bedömning
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Första
+                  </p>
+                  <p rend="tabellkropptext">
+                    AP-fonden
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Resultatet hittills talar för att styrelsens strategi var väl
+                    utformad från start. Det goda resultatet 2005 innebär förbättrade
+                    förutsättningar att nå styrelsens långsiktiga mål. Det operativa
+                    målet är att avkastningen ska överstiga jämförelseindex med 0,5
+                    procentenheter över en femårsperiod. Sedan 2001 uppgår avkastningen
+                    till 0,24 procentenheter över jämförelseindex.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Andra
+                  </p>
+                  <p rend="tabellkropptext">
+                    AP-fonden
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Styrelsen har ändrat sin förvaltningsstrategi under utvärderingsperioden,
+                    men trots den trevande starten har styrelsens strategibeslut bidragit
+                    till mer än hela överskottet under perioden. Fondens resultat
+                    exklusive kostnader överstiger jämförelseindex med 0,2 procentenheter
+                    per år sedan 2001. Denna extra avkastning kom dock i sin helhet
+                    under tredje kvartalet 2001. Regeringens slutsats är att det aktiva
+                    resultatet i praktiken är noll efter att kostnaderna räknats bort.
+                    Om fonden ska nå styrelsens mål krävs mycket goda resultat framöver.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Tredje
+                  </p>
+                  <p rend="tabellkropptext">
+                    AP-fonden
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Tredje AP-fonden är den fond som hittills lämnat det största
+                    bidraget till pensionssystemet, genom att den sedan 2001 gett
+                    ett överskott på knappt 46 miljarder kronor. Styrelsens strategi
+                    sedan 2001 har gett ett betydande bidrag till avkastningen. Reducerat
+                    för kostnader har fondens operativa förvaltning med viss marginal
+                    överstigit jämförelseindex. Det starka resultatet 2005 har förbättrat
+                    de långsiktiga förutsättningarna att nå styrelsens mål.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Fjärde
+                  </p>
+                  <p rend="tabellkropptext">
+                    AP-fonden
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Styrelsens ursprungliga strategi, med högre aktieandel än övriga
+                    fonder, har hittills inte gett förväntat resultat. Det har inte
+                    heller styrelsens beslut att nästan uteslutande bedriva intern
+                    förvaltning. Resultatet i den operativa förvaltningen är lägre
+                    än jämförelseindex, även innan kostnaderna räknats av. Enligt
+                    regeringen är förutsättningarna inte goda att under överskådlig
+                    tid nå styrelsens långsiktiga mål.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Sjätte
+                  </p>
+                  <p rend="tabellkropptext">
+                    AP-fonden
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Styrelsen sänkte riskerna i likviditetsförvaltningen vid en oförmånlig
+                    tidpunkt. Det visar på behovet av att ändra regelverket så att
+                    fondens verksamhet enbart ska avse förvaltning av onoterade aktier.
+                    Enligt regeringen verkar styrelsens mål för riskkapitalverksamheten
+                    för lågt satt. Det kan finnas skäl att ompröva målet. I den operativa
+                    förvaltningen har fonden under den senaste femårsperioden uppnått
+                    styrelsens avkastningsmål. Detta beror på den långsiktiga avkastningen
+                    på onoterade aktier, även om fonden i denna del inte nått styrelsens
+                    mål.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Sjunde
+                  </p>
+                  <p rend="tabellkropptext">
+                    AP-fonden
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Sjunde AP-fonden har nått styrelsens strategiska mål att ge en
+                    högre avkastning än genomsnittet av premiepensionsfonderna. Styrelsen
+                    har dessutom gjort väl övervägda beslut när det gäller val av
+                    förvaltningsstruktur. Däremot har fonden inte nått styrelsens
+                    operativa mål om att fonden ska överträffa jämförelseindex med
+                    0,5 % per år.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAOTZQB" rend="rubrik3">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              Utskottet har granskat regeringens skrivelse 2005/06:210 Redovisning
+              av AP-fondernas verksamhet 20012005.
+            </p>
+            <p>
+              Utskottet noterar med tillfredsställelse att AP-fonderna under
+              2005 nära nog fördubblade sitt resultat jämfört med 2004, till
+              följd av kraftigt stigande aktiekurser. En genomgång av halvårsrapporterna
+              för 2006 visar dock att resultatnivåerna sjunkit under första
+              halvåret 2006 på grund av den svagare utvecklingen på de globala
+              aktiemarknaderna.
+            </p>
+            <p>
+              Fondernas sammantagna kapital uppgick i slutet av 2005 till nästan
+              770 miljarder kronor, vilket är drygt 200 miljarder kronor högre
+              än vid ingången av 2001 då fondernas nya organisation och nya
+              placeringsregler trädde i kraft. De förluster som fonderna gjorde
+              i samband med börsfallen i början på 2000-talet har återtagits.
+            </p>
+            <p>
+              Enligt utskottet är det också tillfredsställande att AP-fondernas
+              långsiktiga reala avkastning under 2005 blev positiv. I tidigare
+              utvärderingar har fondernas reala avkastning varit negativ, sett
+              över en lite längre period. Utskottet noterar också att regeringens
+              utvärdering visar på den stora betydelse som fondstyrelsernas
+              strategiska val mellan olika tillgångar har fondernas långsiktiga
+              resultat. Styrelsernas initiala placeringsstrategier förklarar
+              större delen av fondernas avkastning de senaste fem åren, medan
+              den aktiva operativa förvaltningen har haft en ganska liten betydelse
+              för det slutliga resultatet.
+            </p>
+            <p>
+              När utskottet hösten 2004 behandlade regeringens skrivelse för
+              AP-fondernas verksamhet 2003 skrev utskottet att regeringen vid
+              sidan av den sedvanliga utvärderingen av fondernas verksamhet
+              även bör utvärdera fondernas riktlinjer för miljö och etik. Utskottet
+              noterar att regeringen i den nu aktuella skrivelsen anger att
+              den förbereder en offentlig utredning om fondernas riktlinjer
+              för miljö och etik.
+            </p>
+            <p>
+              Utskottet föreslår att skrivelsen läggs till handlingarna.
+            </p>
+            <p xml:id="IDAEUZQB" rend="rubrik2">
+              Överföring av medel från AP-fonderna till statsbudgeten
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDALUZQB" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                De fem partier som står bakom pensionsreformen har uttalat att
+                det under överblickbar framtid kommer att saknas förutsättningar
+                att överföra medel från AP-fonderna till staten. Utskottet delar
+                denna bedömning samt avstyrker motionen.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation 1 (v).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAZUZQB" rend="rubrik3">
+              Motionen
+            </p>
+            <p>
+              I motion Sf220 av Lars Ohly m.fl. (v) anförs att för att minska
+              risken för att den s.k. bromsen i pensionssystemet aktiveras bör
+              inga nya medel överföras från AP-fonderna till statsbudgeten (yrkande
+              6).
+            </p>
+            <p xml:id="IDA5UZQB" rend="rubrik3">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              Utskottet vill med anledning av motionens förslag anföra följande:
+            </p>
+            <p>
+              Pensionsreformen innebar att statsbudgeten försvagades, bl.a.
+              genom att staten från AP-fonderna övertog finansieringen av förtids-
+              och efterlevandepensioner. För att kompensera detta överfördes
+              under perioden 1999 till 2001 sammanlagt drygt 250 miljarder kronor
+              i 1999 års penningvärde från AP-fonderna till statsbudgeten. I
+              förarbetena inför pensionsbeslutet bedömdes att det skulle behövas
+              överföringar motsvarande 300350 miljarder kronor i 1999 års penningvärde
+              för att långsiktigt kompensera statsbudgetens nya åtaganden (Överföringspromemorian,
+              Ds 1998:7).
+            </p>
+            <p>
+              Våren 2000 beslutade riksdagen att en kontroll av buffertfondernas
+              styrka och den slutliga storleken på överföringen från AP-fonderna
+              till statsbudgeten skulle genomföras 2004. Om kontrollen resulterade
+              i ytterligare överföring av medel skulle detta ske den 1 januari
+              2005 (bet. 1999/2000:FiU19).
+            </p>
+            <p>
+              Vid en kontroll i juni 2004 bestämde den s.k. Genomförandegruppen,
+              bestående av representanter från de fem partier som står bakom
+              det nya pensionssystemet, att inga medel skulle överföras den
+              1 januari 2005 men att frågan om en eventuell ytterligare överföring
+              fick tas upp på nytt vid ett senare tillfälle. Gruppen var enig
+              om att pensionssystemet fortfarande hade en skuld gentemot staten.
+              Samtidigt gjorde gruppen bedömningen att relationen mellan fördelningssystemets
+              tillgångar och dess pensionsskuld, uttryckt i det s.k. balanstalet,
+              för tillfället inte medgav någon ytterligare överföring.
+            </p>
+            <p>
+              I anslutning till utskottets behandling av AP-fondernas verksamhet
+              2003 (bet. 2004/05:FiU6) hösten 2004 tillkännagav riksdagen för
+              regeringen att regeringen i vårpropositionen för 2005 eller på
+              annat sätt under våren 2005 efter överenskommelse i Genomförandegruppen
+              borde återkomma till riksdagen med en tidsplan för när den slutliga
+              kontrollen av överföringsbeloppet skulle vidtas och när eventuella
+              ytterligare medel skulle föras över från AP-fonderna till staten.
+            </p>
+            <p>
+              I vårpropositionen för 2005 skrev regeringen att frågan tagits
+              upp i Genomförandegruppen och att gruppen ansåg att det var väsentligt
+              att en slutlig ställning togs och att det inte skulle dröja för
+              länge innan det skedde.
+            </p>
+            <p>
+              Regeringen anförde vidare:
+            </p>
+            <p rend="citat">
+              Därutöver behöver också hanteringen av överskott i pensionssystemet
+              övervägas. Betänkandet Utdelning av överskott i inkomstpensionssystem
+              (SOU 2004:1005) har nyligen remitterats och bereds för närvarande
+              i Regeringskansliet. Frågorna kommer att fortsätta beredas med
+              Genomförandegruppen under våren. Mot denna bakgrund behövs det
+              enligt regeringens mening ytterligare tid för att bereda frågan
+              om en tidsplan. Regeringen avser därför att återkomma i frågan
+              i budgetpropositionen för 2006.
+            </p>
+            <p>
+              I budgetpropositionen för 2006 tog regeringen upp frågan på nytt
+              och skrev följande:
+            </p>
+            <p rend="citat">
+              Partierna bakom pensionsöverenskommelsen har därefter haft fortsatta
+              överläggningar om möjligheterna att fastställa en tidsplan för
+              hanteringen av frågan. De fem partierna bakom reformen har under
+              dessa överläggningar gjort bedömningen att det under överblickbar
+              tid fortsatt kommer att saknas förutsättningar för att överföra
+              medel från AP-fonden. I detta sammanhang har också frågan om hanteringen
+              av överskott i pensionssystemet diskuterats. Mot bakgrund av dessa
+              överläggningar anser regeringen att frågan om kriterier för ytterligare
+              överföringar bör hanteras i samband med att frågan om hanteringen
+              av överskott i pensionssystemet föreläggs riksdagen i proposition.
+            </p>
+            <p>
+              Enligt uppgifter som utskottet inhämtat från Regeringskansliet
+              är frågan om överskott i pensionssystemet fortfarande under beredning.
+              Någon proposition i frågan är för närvarande inte aktuell.
+            </p>
+            <p>
+              Utskottet ställer sig bakom de ovan redovisade bedömningarna
+              om förutsättningarna för ytterligare överföring av medel från
+              AP-fonderna till staten som de fem partier som står bakom pensionsöverenskommelsen
+              gjort. Med det anförda avstyrker utskottet motion Sf220 yrkande
+              6.
+            </p>
+            <p xml:id="IDAHWZQB" rend="rubrik2">
+              Regionala utvecklingsfonder
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAOWZQB" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Utskottet avstyrker en motion om att pensionsmedel bör användas
+                i närings- och regionalpolitiskt syfte.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation 2 (v, mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA2WZQB" rend="rubrik3">
+              Motionen
+            </p>
+            <p>
+              I motion Fi209 av Ulf Holm och Jan Lindholm (båda mp) anförs
+              att det finns stora fördelar, samhällsekonomiskt och för den enskilde
+              individen, med att skapa regionala utvecklingsfonder i olika regioner
+              i Sverige. Sådana utvecklingsfonder skulle stimulera utvecklingen
+              i den egna regionen, t.ex. genom att delar av löntagarnas pensionskapital
+              placeras så att det gynnar sysselsättningen i regionen. Det skulle
+              också bidra till att öka ägarinflytandet och ägaransvaret. Det
+              är enligt motionärerna inte enbart avkastningen på pensionskapitalet
+              som avgör pensionärernas levnadsstandard, utan bidragande är också
+              hur landets och regionens ekonomi utvecklas (yrkande 1). Det kapital
+              som till delar skulle kunna avsättas till regionutvecklingsfonder
+              är enligt motionärerna premiepensionsmedel samt avtalspensionerna
+              på både det privata och det offentliga området. I Kanada finns
+              sedan drygt 20 år tillbaka olika regionala utvecklingsfonder.
+              Erfarenheterna visar att fonderna varit framgångsrika, och enligt
+              forskare hade fonderna fram till 1998 skapat 50 000 nya jobb i
+              Kanada. Enligt motionärerna bör regeringen verka för att det på
+              försök startas en regionutvecklingsfond i någon av Sveriges regioner
+              samt att regeringen utreder förutsättningarna för tillkomsten
+              av regionutvecklingsfonder (yrkandena 2 och 3).
+            </p>
+            <p xml:id="IDACXZQB" rend="rubrik3">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              Finansutskottet har tidigare behandlat liknande förslag, senast
+              i betänkandet om AP-fondernas verksamhet 2004 (bet. 2005/06:FiU6).
+            </p>
+            <p>
+              Utskottet anser att det är viktigt att det förs en livlig och
+              konstruktiv debatt om näringslivets kapital- och riskkapitalförsörjning.
+            </p>
+            <p>
+              Utskottet vill dock, precis som i förra årets behandling, bestämt
+              avvisa att medel i AP-fonderna används för olika näringspolitiska
+              ändamål. De fem partier som står bakom pensionsreformen är överens
+              om att de medel som tillförs AP-fonderna inte ska användas i närings-,
+              regional- eller ekonomisk-politiska syften. Tillgångarna ska i
+              stället förvaltas till största möjliga nytta för pensionssystemet,
+              och avkastningen ska långsiktigt maximeras i förhållande till
+              risken i placeringarna.
+            </p>
+            <p>
+              Utskottet anser därför att det inte finns någon anledning att
+              föreslå att riksdagen vidtar någon åtgärd med anledning av motionens
+              förslag. Utskottet avstyrker motion Fi209 yrkandena 13.
+            </p>
+            <p xml:id="IDAWXZQB" rend="AvsnittsRubrik">
+              Reservationer
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservationer. I rubriken anges vilken
+              punkt i utskottets förslag till riksdagsbeslut som behandlas i
+              avsnittet.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDA3XZQB">
+                  <p rend="reservation">
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Överföring av medel från AP-fonderna till statsbudgeten, punkt
+                    2 (v)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Ulla Andersson (v).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAZZZQB" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Jag anser att förslaget till riksdagsbeslut under punkt 2 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen om överföringar från AP-fonderna till statsbudgeten.
+              Därmed bifaller riksdagen motion
+            </p>
+            <p rend="stallningstagandereservation_">
+              2006/07:Sf220 av Lars Ohly m.fl. (v) yrkande 6.
+            </p>
+            <p xml:id="IDAB0ZQB" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Hittills har 245 miljarder kronor förts över från AP-fonderna
+              till statsbudgeten för att täcka statens kostnader för förtids-
+              och efterlevandepensioner. Vid vad man tidigare kallade för en
+              slutlig kontrollstation bestämde den s.k. Genomförandegruppen
+              i juni 2004 att inga nya medel skulle överföras den 1 januari
+              2005 men att man senare skulle ta ställning till framtida överföringar
+              från AP-fonderna. Under 2005 kom Genomförandegruppen fram till
+              att det under överblickbar framtid saknas förutsättningar för
+              att föra över medel från AP-fonderna till staten samt att frågan
+              framöver ska behandlas i anslutning till frågan om hantering av
+              överskott i pensionssystemet.
+            </p>
+            <p>
+              Vänsterpartiet anser att det finns frågetecken kring pensionssystemets
+              långsiktiga hållbarhet. Risken är överhängande att den s.k. bromsen
+              i pensionssystemet ska slå till. Pensionärerna kan därmed komma
+              att få lägre pensioner. Risken för att bromsen ska slå till ökar
+              dessutom om de partier som står bakom pensionsöverenskommelsen
+              beslutar sig för att föra över ytterligare medel från AP-fonderna
+              till statsbudgeten. Till detta kommer att finansutskottet tidigare
+              har uttalat sig om att varaktiga överskott i pensionssystemet
+              efter den 1 januari 2005 ska tillfalla de försäkrade. Det framstår
+              i sammanhanget som generellt orimligt att alla frågor som rör
+              pensionssystemets utformning, i så måtto att de reses av någon
+              utanför den s.k. Genomförandegruppen, i praktiken inte får en
+              faktisk behandling i riksdagen, med tillbörlig debatt och argumentation.
+              Detta urholkar den demokratiska process som är nödvändig, kring
+              en omfattande del av samhällsekonomin, och som på olika sätt rör
+              människor i olika generationer.
+            </p>
+            <p>
+              Vänsterpartiets uppfattning är att riksdagen bör fatta beslut
+              om att inga ytterligare medel ska föras över från AP-fonderna
+              till statsbudgeten, detta för att förhindra att bromsen slår till
+              samt för att säkra pensionssystemets långsiktiga hållbarhet. Det
+              är också viktigt för demokratin och allmänhetens förtroende för
+              pensionssystemet att det sparande som sker i AP-fonderna stannar
+              i fonderna och kommer de försäkrade till del.
+            </p>
+            <p>
+              Jag föreslår därför att riksdagen tillkännager för regeringen
+              som sin mening vad jag anfört om överföringar från AP-fonderna
+              till staten. Jag tillstyrker motion Sf220 (v) yrkande 6.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAR0ZQB">
+                  <p rend="reservation">
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Regionala utvecklingsfonder, punkt 3 (v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Ulla Andersson (v) och Mikaela Valtersson (mp).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAK2ZQB" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 3 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen om pensionskapital och regionala utvecklingsfonder.
+              Därmed bifaller riksdagen delvis motion
+            </p>
+            <p rend="stallningstagandereservation_">
+              2006/07:Fi209 av Ulf Holm och Jan Lindholm (båda mp) yrkandena
+              13.
+            </p>
+            <p xml:id="IDAS2ZQB" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Bristen på riskvilligt kapital är ett stort hinder för en blomstrande
+              regional och lokal ekonomisk utveckling. Dessutom är löntagarnas
+              inflytande över hur deras pensionspengar placeras i olika länder,
+              företag och tillgångar mycket begränsat.
+            </p>
+            <p>
+              Vi anser att det skulle innebära många fördelar, såväl samhällsekonomiska
+              som för den enskilde individen, om det i olika delar av Sverige
+              inrättades regionala utvecklingsfonder uppbyggda av pensionspengar.
+              Fonderna skulle stimulera utvecklingen i den egna regionen genom
+              att delar av löntagarnas pensionskapital placeras så att sysselsättningen
+              på orten eller i regionen gynnas. En sådan utveckling skulle också
+              öka löntagarnas ägaransvar och inflytande över pensionspengarna.
+            </p>
+            <p>
+              Fonderna skulle få kapital genom att löntagarna avsätter en viss
+              mindre del av t.ex. premiepensionsmedlen och avtalspensionerna
+              på både det privata och det offentliga området till sin egen regionala
+              utvecklingsfond. Totalt uppgår dessa medel i dagsläget till åtskilliga
+              hundratals miljarder kronor.
+            </p>
+            <p>
+              I Kanada finns sedan drygt 20 år tillbaka olika regionala utvecklingsfonder.
+              Erfarenheterna visar att fonderna varit framgångsrika, och enligt
+              oberoende forskare hade fonderna fram till 1998 skapat 50 000
+              nya jobb i Kanada.
+            </p>
+            <p>
+              Vi anser att regeringen bör verka för att det på försök startas
+              en regional utvecklingsfond i någon del av Sverige samt att regeringen
+              utreder förutsättningarna för tillkomsten av regionutvecklingsfonder.
+            </p>
+            <p>
+              Vi föreslår att riksdagen tillkännager för regeringen som sin
+              mening vad vi anfört om regionala utvecklingsfonder. Vi tillstyrker
+              därmed delvis motion Fi209 (mp) yrkandena 13.
+            </p>
+            <p xml:id="IDAL3ZQB" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAM3ZQB" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAP3ZQB" rend="rubrik2">
+              Skrivelsen
+            </p>
+            <p>
+              Regeringens skrivelse 2005/06:210 Redovisning av AP-fondernas
+              verksamhet 20012005.
+            </p>
+            <p xml:id="IDAT3ZQB" rend="rubrik2">
+              Motioner från allmänna motionstiden hösten 2006
+            </p>
+            <p rend="behandlatdokument_">
+              2006/07:Fi209 av Ulf Holm och Jan Lindholm (båda mp):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om fördelen med tillkomsten av regionutvecklingsfonder.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om att verka för att det på försök startas en
+                    regionutvecklingsfond i någon av landets regioner.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om att regeringen låter utreda förutsättningarna
+                    för tillkomsten av regionutvecklingsfonder.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="behandlatdokument_">
+              2006/07:Sf220 av Lars Ohly m.fl. (v):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    6.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad i motionen
+                    anförs om att inga ytterligare överföringar får ske från AP-fonderna.
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

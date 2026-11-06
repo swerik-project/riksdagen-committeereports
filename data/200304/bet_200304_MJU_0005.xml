@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200304_MJU_0005">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Foderlagen och provtagningslagen ändras för att anpassa svensk lagstiftning till EU:s hälsobestämmelser för animaliska biprodukter som inte är avsedda att användas som livsmedel.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Ändringar i foderlagen (MJU5)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottet.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GR0931</idno>
+              <title>2003-11-19</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">31</biblScope>
+              <note type="display-reference">2003-11-19</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GR0931</idno>
+              <title>2003-11-19</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">31</biblScope>
+              <note type="display-reference">2003-11-19</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GR0K54</idno>
+              <title>2003/04:54</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">54</biblScope>
+              <note type="display-reference">2003/04:54</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1985:295</idno>
+              <note type="display-reference">2003:1078</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1992:1683</idno>
+              <note type="display-reference">2003:1079</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GQ03148</idno>
+              <title>Ändringar i lagen (1985:295) om foder, m.m.</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">148</biblScope>
+              <note type="display-reference">proposition 2002/03:148 Ändringar i lagen (1985:295) om foder, m.m.</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2003-11-13">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2003-11-12">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2003-11-12">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2003-11-11">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2003-11-11">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2003-11-11">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-10-16">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-10-16">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2003-11-19">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2003-11-19">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2003-11-19">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2003-11-19">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2003-11-19">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2003-11-17">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2003-11-17">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Miljö- och jordbruksutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2003/04:MJU5
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Ändringar i lagen (1985:295) om foder, m.m.
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I betänkandet behandlar utskottet regeringens
+            proposition 2002/03:148 Ändringar i lagen (1985:295) om foder,
+            m.m. Europaparlamentets och rådets förordning (EG) nr 1774/2002
+            av den 3 oktober 2002 om hälsobestämmelser för animaliska biprodukter
+            som inte är avsedda att användas som livsmedel förutsätter nationell
+            lagstiftning för att kunna verkställas fullt ut. I propositionen
+            föreslås därför ändringar i lagen (1985:295) om foder och lagen
+            (1992:1683) om provtagning på djur, m.m. Härutöver föreslås vissa
+            ytterligare ändringar i provtagningslagen. Utskottet föreslår
+            att riksdagen antar förslagen.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut Ändringar i lagen om foder,
+            m.m. Riksdagen antar regeringens förslag till 1. lag om ändring
+            i lagen (1985:295) om foder, 2. lag om ändring i lagen (1992:1683)
+            om provtagning på djur, m.m. Därmed bifaller riksdagen proposition
+            2002/03:148. Stockholm den 11 november 2003 På miljö- och jordbruksutskottets
+            vägnar Catharina Elmsäter-Svärd Följande ledamöter har deltagit
+            i beslutet: Catharina Elmsäter-Svärd (m), Sinikka Bohlin (s),
+            Alf Eriksson (s), Lennart Fremling (fp), Rune Berglund (s), Rolf
+            Lindén (s), Sven Gunnar Persson (kd), Christina Axelsson (s),
+            Lars Lindblad (m), Carina Ohlsson (s), Jan Andersson (c), Jan-Olof
+            Larsson (s), Christin Nilsson (s), Cecilia Widegren (m), Anita
+            Brodén (fp), Sven-Erik Sjöstrand (v) och Gunnar Goude (mp).
+          </p>
+          <p>
+            Redogörelse för ärendet Ärendet och dess beredning Europaparlamentets
+            och rådets förordning (EG) nr 1774/2002 av den 3 oktober 2002
+            om hälsobestämmelser för animaliska biprodukter som inte är avsedda
+            att användas som livsmedel (ABP-förordningen) är i likhet med
+            andra EG-förordningar direkt tillämplig i medlemsstaterna. För
+            att anpassa den svenska lagstiftningen till ABP-förordningen och
+            för att kunna verkställa förordningen fullt ut har det inom Jordbruksdepartementet
+            utarbetats förslag till ändringar i lagen (1985:295) om foder
+            och lagen (1992:1683) om provtagning på djur, m.m. I samband härmed
+            föreslogs även vissa ändringar i provtagningslagen som inte har
+            samband med ABP-förordningen, bl.a. en utvidgning av straffbestämmelserna.
+            Regeringen beslutade den 5 juni 2003 att inhämta yttrande från
+            Lagrådet. Lagrådet har lämnat förslagen utan erinran. I förhållande
+            till lagrådsremissens förslag har vissa redaktionella ändringar
+            gjorts. Propositionens huvudsakliga innehåll Europaparlamentets
+            och rådets förordning (EG) nr 1774/2002 av den 3 oktober 2002
+            om hälsobestämmelser för animaliska biprodukter som inte är avsedda
+            att användas som livsmedel förutsätter nationell lagstiftning
+            för att kunna verkställas fullt ut. I propositionen föreslås därför
+            ändringar i lagen (1985:295) om foder och lagen (1992:1683) om
+            provtagning på djur, m.m. Ändringarna i foderlagen syftar till
+            att undvika dubbelregleringen av förbudet att använda kadaver
+            som foder. Det införs vidare ett bemyndigande för regeringen eller
+            den myndighet som regeringen bestämmer att i enlighet med undantagsbestämmelser
+            i EG-förordningen meddela föreskrifter om att djur eller delar
+            av djur får användas som foder. Ändringarna i provtagningslagen
+            innebär bl.a. att lagens bestämmelser om tillsyn och straff i
+            erforderliga delar skall komplettera förordningen. Härutöver föreslås
+            i provtagningslagen ett bemyndigande som gör det möjligt att föreskriva
+            om förbud mot användning av anläggningar för djur, om inte anläggningarna
+            uppfyller uppställda krav på registrering. Vidare föreslås att
+            provtagningslagens straffbestämmelser vidgas till att avse överträdelser
+            av föreskrifter om bl.a. märkning och registrering av djur. Straffskalan
+            föreslås också ändrad till att omfatta förutom böter även fängelse
+            i högst ett år. Lagändringarna föreslås träda i kraft den 1 januari
+            2004.
+          </p>
+          <p>
+            Utskottets överväganden Lagändringar föranledda av ABP-förordningen
+            Utskottets förslag i korthet Utskottet tillstyrker regeringens
+            förslag till lagändringar föranledda av ABP-förordningen. Propositionen
+            ABP-förordningen är, i enlighet med artikel 249 i EG-fördraget,
+            direkt tillämplig i alla medlemsstater. För att förordningen skall
+            bli effektiv måste den kompletteras med materiella bestämmelser
+            om bl.a. sanktioner och tillsyn. Förordningen anger inte heller
+            vilken eller vilka myndigheter som får meddela de föreskrifter,
+            förbud eller förelägganden som behövs. Det förutsätts att allt
+            detta regleras nationellt. De svenska författningar som reglerar
+            sådana frågor som avhandlas i ABP-förordningen är foderlagen och
+            provtagningslagen. I foderlagen finns bestämmelser om hanteringen
+            av foder, dvs. varor inbegripet vatten avsedda för utfodring av
+            djur. Foderlagens bestämmelser om tillsyn och sanktioner kompletterar
+            också sådana bestämmelser i EG-förordningar som gäller villkor
+            för eller förbud mot införsel, utförsel, tillverkning, försäljning
+            eller annan överlåtelse, användning eller hantering i övrigt av
+            foder. Regeringen tillkännager i Svensk författningssamling vilka
+            EG-förordningar som avses. I foderlagen finns även ett bemyndigande
+            för regeringen eller den myndighet som regeringen bestämmer att
+            meddela de ytterligare föreskrifter som behövs som komplettering
+            av EG-bestämmelserna. Provtagningslagen innehåller bl.a. bestämmelser
+            som avser åtgärder för att förebygga och hindra spridning av smittsamma
+            djursjukdomar och som ger regeringen eller den myndighet som regeringen
+            bestämmer möjlighet att föreskriva och besluta om omhändertagande,
+            bearbetning och hantering i övrigt av djurkadaver och annat animaliskt
+            avfall. Det finns således nationella lagar vars tillämpningsområden
+            sammanfaller med ABP-förordningens. Regeringen anser det vara
+            lämpligt och ändamålsenligt att genomföra kompletteringen av ABP-förordningen
+            i dessa lagar. Foderlagens tillsyns- och straffbestämmelser kommer
+            att komplettera ABP-förordningen genom att regeringen i Svensk
+            författningssamling tillkännager att också den förordningen skall
+            kompletteras av foderlagen. ABP-förordningen föranleder emellertid
+            vissa ytterligare ändringar i foderlagen. För att undvika en dubbelreglering
+            bör, med ett undantag, foderlagens kadaverförbud tas bort. Foderlagen
+            behöver också kompletteras med bestämmelser som gör det möjligt
+            att besluta om vissa undantag från ABP-förordningen. I de fall
+            foderlagen inte är tillämplig, är regeringen av den uppfattningen
+            att ABP-förordningen bör kompletteras genom att det förs in erforderliga
+            bestämmelser i provtagningslagen. Foderlagens kadaverförbud ersätts
+            i huvudsak av ABP-förordningens förbud mot att som foder använda
+            döda djur, delar av djur eller andra djurprodukter. I foderlagen
+            behålls den del av det nuvarande kadaverförbudet som inte täcks
+            av ABP-förordningens förbud, nämligen förbudet att använda hela
+            eller delar av vilda djur som foder om djuret inte har avlivats,
+            slaktats upp och veterinärbesiktigats. Vidare föreslås ett förtydligande
+            av foderlagens hänvisning till de EG-bestämmelser som kompletteras
+            av lagen. Till uppräkningen av bestämmelser bör enligt enligt
+            regeringen fogas villkor för bortskaffande av foder. Regeringen
+            eller den myndighet som regeringen bestämmer får meddela föreskrifter
+            som tillåter användning av djur eller delar av djur som foder
+            i vissa fall, trots att djuren eller djurdelarna inte är av sådan
+            beskaffenhet eller har behandlats eller bearbetats i enlighet
+            med vad som föreskrivs i ABP- förordningen. Bestämmelserna i provtagningslagen
+            om tillsyn och straff samt lagens bemyndigande att ta ut avgifter
+            görs tillämpliga på ABP-förordningen till den del förordningen
+            faller utanför foderlagens tillämpningsområde. Provtagningslagens
+            bemyndigande som avser hanteringen av djurkadaver inskränks till
+            att enbart gälla fall då ABP-förordningen inte är tillämplig.
+            I provtagningslagen införs ett nytt bemyndigande som innebär att
+            föreskrifter får meddelas till komplettering av ABP-förordningen.
+            Utskottets överväganden Som regeringen framhåller i propositionen
+            är ABP-förordningen, i enlighet med artikel 249 i EG-fördraget,
+            direkt tillämplig i alla medlemsstater. För att förordningen skall
+            bli effektiv måste den kompletteras med materiella bestämmelser
+            om bl.a. sanktioner och tillsyn. Förordningen anger inte heller
+            vilken eller vilka myndigheter som får meddela de föreskrifter,
+            förbud eller förelägganden som behövs. Det förutsätts att allt
+            detta regleras nationellt. De svenska författningar som reglerar
+            sådana frågor som avhandlas i ABP-förordningen är foderlagen och
+            provtagningslagen. Det finns således nationella lagar vars tillämpningsområden
+            sammanfaller med ABP-förordningens. I likhet med regeringen anser
+            utskottet det därför vara lämpligt och ändamålsenligt att genomföra
+            kompletteringen av ABP-förordningen i dessa lagar. Som framgår
+            av propositionen föranleder ABP-förordningen vissa ytterligare
+            ändringar i foderlagen. För att undvika en dubbelreglering bör,
+            med ett undantag, foderlagens kadaverförbud tas bort. Foderlagen
+            behöver också kompletteras med bestämmelser som gör det möjligt
+            att besluta om vissa undantag från ABP-förordningen. I de fall
+            foderlagen inte är tillämplig bör, som regeringen föreslår, ABP-förordningen
+            kompletteras genom att det förs in erforderliga bestämmelser i
+            provtagningslagen. Med det anförda tillstyrker utskottet regeringens
+            förslag i berörda delar. Övriga ändringar i provtagningslagen
+            Utskottets förslag i korthet Utskottet tillstyrker regeringens
+            förslag till övriga ändringar i provtagningslagen. Propositionen
+            Enligt rådets direktiv 1999/74/EG av den 19 juli 1999 om att fastställa
+            miniminormer för skyddet av värphöns skall den behöriga myndigheten
+            registrera anläggningar med minst 350 värphöns under ett individuellt
+            nummer med vars hjälp de ägg som släpps ut på marknaden som livsmedel
+            kan spåras (art. 1 och 7). Kommissionen har genom direktivet 2002/4/EG
+            av den 30 januari 2002 om registrering av anläggningar som håller
+            värphöns och som omfattas av rådets direktiv 1999/74/EG utarbetat
+            tillämpningsföreskrifter till rådets direktiv. I tillämpningsföreskrifterna
+            anges vilka uppgifter om anläggningarna som krävs för att registrering
+            skall ske. I tillämpningsföreskrifterna anges också att medlemsstaterna
+            skall garantera dels att inga anläggningar får fortsätta att användas
+            om de uppgifter som krävs för registrering inte har lämnats, dels
+            att inga nya anläggningar tas i bruk förrän de har registrerats
+            och tilldelats ett särskiljande nummer. Bestämmelsen innebär således
+            ett förbud mot användning av anläggningar som inte uppfyller direktivets
+            krav på registrering. Det bemyndigande som ges i provtagningslagen
+            ger emellertid inte utrymme att föreskriva om förbud mot användning
+            av anläggningar som inte uppfyller kraven på registrering. Utan
+            ett sådant bemyndigande om rätt att föreskriva om förbud kommer
+            det inte att framgå direkt av föreskrifterna att bristfällig registrering
+            innebär ett förbud mot användande av en anläggning. Ett sådant
+            förbud är ett ingrepp i den enskildes egendomsförhållanden som
+            kan få stora ekonomiska konsekvenser för denne. På grund härav
+            får det anses angeläget att tydligt klargöra för den enskilde
+            vilka förutsättningar som gäller för att det skall vara tillåtet
+            att använda en anläggning. Regeringen föreslår därför att det
+            införs en möjlighet att föreskriva om förbud mot att använda anläggningar
+            som inte är behörigen registrerade. Bemyndigandet bör utformas
+            så att det täcker såväl de aktuella värphönsanläggningarna som
+            eventuella kommande registreringskrav på olika anläggningar. I
+            provtagningslagen finns en straffbestämmelse som bl.a. innebär
+            att den som med uppsåt eller av grov oaktsamhet bryter mot föreskrifter
+            meddelade med stöd av vissa uppräknade paragrafer döms till böter.
+            För att uppfylla Sveriges åtaganden enligt internationella överenskommelser
+            ges regeringen eller den myndighet regeringen bestämmer i 5 §
+            rätt att föreskriva om bl.a. märkning och registrering av djur
+            och anläggningar. I dag finns ingen straffsanktion mot den som
+            underlåter att följa dessa föreskrifter. Rådets direktiv 92/102/EEG
+            av den 27 november 1992 om identifikation och registrering av
+            djur innehåller bestämmelser om registerföring och märkning av
+            bl.a. nötkreatur, svin och får. I artikel 9 framgår att medlemsstaterna
+            skall vidta nödvändiga administrativa eller straffrättsliga åtgärder
+            för att sanktionera varje överträdelse av gemenskapens veterinärlagstiftning
+            i de fall det kan visas att den märkning eller registrering som
+            föreskrivs inte har utförts enligt kraven i direktivet. Direktivet
+            har genomförts i föreskrifter meddelade av Jordbruksverket, med
+            stöd av bemyndigandet i 5 § provtagningslagen. Beträffande nötkreatur
+            finns en EG-förordning som förstärker bestämmelserna i direktivet,
+            Europaparlamentets och rådets förordning (EG) nr 1760/2000 av
+            den 17 juli 2000 om upprättande av ett system för identifiering
+            och registrering av nötkreatur samt märkning av nötkött och nötköttsprodukter
+            och om upphävande av rådets förordning (EG) nr 820/97. Denna förordning
+            innehåller bl.a. bestämmelser om öronmärken, databaser och individuella
+            register och den kompletteras såvitt avser tillsyns- och straffbestämmelser
+            av lagen (1994:1710) om EG:s förordningar om jordbruksprodukter.
+            Det är således straffbart för en nötkreatursuppfödare att bryta
+            mot bestämmelserna om märkning medan exempelvis en svinuppfödare
+            som bryter mot motsvarande bestämmelser inte riskerar något straff.
+            Regeringen anser inte att det är lämpligt att överträdelser av
+            bestämmelser om märkning, registrering och journalföring är straffbara
+            beträffande enbart vissa djurslag. Vidare är inte den vitessanktion
+            som idag finns tillräcklig för att kunna sanktionera varje överträdelse
+            av föreskrifterna. Bestämmelserna om bl.a. märknings- och registreringsskyldighet
+            är dessutom så viktiga av folk- och djurhälsoskäl att ett straffhot
+            bör finnas för att i så stor utsträckning som möjligt säkerställa
+            att föreskrifterna följs. Regeringen föreslår mot bakgrund härav
+            att provtagningslagens straffbestämmelser vidgas till att gälla
+            överträdelser av föreskrifter om bl.a. märkning och registrering
+            av djur. Vidare föreslås att straffskalan ändras så att det för
+            brott mot lagen eller mot föreskrifter meddelade med stöd av lagen
+            eller mot de EG-bestämmelser som lagen kompletterar förutom böter
+            också kan följa fängelse i högst ett år. I ringa fall skall inte
+            dömas till ansvar. Enligt regeringen har lagen stor betydelse
+            inte bara för djurs välbefinnande utan även för människors hälsa
+            och för miljön. Inte minst mot bakgrund av de utbrott av djursjukdomar
+            som drabbat Europa under senare år framstår efterlevnaden av lagens
+            bestämmelser som utomordentligt viktig. I sammanhanget bör nämnas
+            att närliggande lagar som epizootilagen (1999:657), zoonoslagen
+            (1999:658) och foderlagen innehåller straffbestämmelser som omfattar
+            fängelse i upp till ett år. Det bör enligt regeringens mening
+            särskilt framhållas att utan en ändring i provtagningslagen kommer
+            överträdelser av förbud eller villkor i ABP-förordningen att bestraffas
+            olika i provtagningslagen och foderlagen. För att så långt som
+            möjligt erhålla en enhetlig straffskala i provtagningslagen och
+            foderlagen anser regeringen att ett ringa brott inte skall medföra
+            straffansvar enligt provtagningslagen. Utskottets överväganden
+            Som framhålls i propositionen ger det bemyndigande som ges i provtagningslagen
+            inte utrymme att föreskriva om förbud mot användning av anläggningar
+            som inte uppfyller kraven på registrering. Utan ett sådant bemyndigande
+            om rätt att föreskriva om förbud kommer det inte att framgå direkt
+            av föreskrifterna att bristfällig registrering innebär ett förbud
+            mot användande av en anläggning. Ett sådant förbud är ett ingrepp
+            i den enskildes egendomsförhållanden som kan få stora ekonomiska
+            konsekvenser för denne. Utskottet anser i likhet med regeringen
+            att det på grund härav får anses angeläget att tydligt klargöra
+            för den enskilde vilka förutsättningar som gäller för att det
+            skall vara tillåtet att använda en anläggning. Utskottet tillstyrker
+            därmed regeringens förslag att det införs en möjlighet att föreskriva
+            om förbud mot att använda anläggningar som inte är behörigen registrerade.
+            I likhet med regeringen anser utskottet att provtagningslagens
+            straffbestämmelser bör vidgas till att gälla överträdelser av
+            föreskrifter om bl.a. märkning och registrering av djur. Som framgår
+            av propositionen är det med nuvarande reglering straffbart för
+            en nötkreatursuppfödare att bryta mot bestämmelserna om märkning
+            medan exempelvis en svinuppfödare som bryter mot motsvarande bestämmelser
+            inte riskerar något straff. Utskottet konstaterar i likhet med
+            regeringen att det inte kan anses lämpligt att överträdelser av
+            bestämmelser om märkning, registrering och journalföring är straffbara
+            beträffande enbart vissa djurslag. Bestämmelserna om bl.a. märknings-
+            och registreringsskyldighet är dessutom så viktiga av folk- och
+            djurhälsoskäl att ett straffhot bör finnas för att i så stor utsträckning
+            som möjligt säkerställa att föreskrifterna följs. Som regeringen
+            anför skulle en underlåtenhet att följa bestämmelser meddelade
+            med stöd av lagen eller i ABP-förordningen kunna leda till att
+            en sjukdom får stor spridning i landet med allvarliga konsekvenser
+            för jordbruksnäringen och för de människor eller djur som drabbas.
+            Brott mot lagen bör därför också kunna medföra fängelsestraff.
+            I ringa fall skall inte dömas till ansvar. Med det anförda tillstyrker
+            utskottet regeringens förslag i berörda delar.
+          </p>
+          <p>
+            Bilaga 1 Förteckning över behandlade förslag Propositionen Proposition
+            2002/03:148 Ändringar i lagen (1985:295) om foder, m.m. : att
+            riksdagen antar regeringens förslag till lag om ändring i lagen
+            (1985:295) om foder, lag om ändring i lagen (1992:1683) om provtagning
+            på djur, m.m.
+          </p>
+          <p>
+            Bilaga 2 Regeringens lagförslag
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_SoU_0011">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Patientdatalagen ändras. Syftet med ändringen är att åtgärda ett förbiseende som uppkommit i ett tidigare lagstiftningsärende.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Ändring i patientdatalagen (SOU11)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till initiativ.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0927</idno>
+              <title>2008-11-13</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">27</biblScope>
+              <note type="display-reference">2008-11-13</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0926</idno>
+              <title>2008-11-12</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">26</biblScope>
+              <note type="display-reference">2008-11-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GW0K39</idno>
+              <title>2008/09:39</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">39</biblScope>
+              <note type="display-reference">2008/09:39</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2008:355</idno>
+              <note type="display-reference">2008:958</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2008-11-07">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2008-11-07">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-11-05">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-10-30">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-10-30">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-10-30">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-10-30">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-10-30">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-10-28">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-10-28">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2008-11-13">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-11-13">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-11-13">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-11-13">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-11-12">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-11-12">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-11-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-11-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-11-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-11-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Socialutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:SoU11
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Ändring i patientdatalagen (2008:355)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBRPC" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            Utskottet lägger på eget initiativ fram ett förslag till ändring
+            i 8 kap. 2 § patientdatalagen (2008:355) i syfte att åtgärda ett
+            förbiseende i ett tidigare lagstiftningsärende.
+          </p>
+          <p>
+            Lagändringen föreslås träda i kraft den 1 december 2008.
+          </p>
+          <p xml:id="IDAMBRPC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Ändring i patientdatalagen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar utskottets förslag i bilagan till lag om ändring
+                  i patientdatalagen (2008:355).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 30 oktober 2008
+          </p>
+          <p>
+            På socialutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Kenneth Johansson
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Kenneth Johansson
+            (c), Ylva Johansson (s), Cecilia Widegren (m), Christer Engelhardt
+            (s), Marianne Kierkemann (m), Lars U Granberg (s), Jan R Andersson
+            (m), Lennart Axelsson (s), Chatrine Pålsson Ahlgren (kd), Margareta
+            B Kjellin (m), Elina Linna (v), Lars-Ivar Ericson (c), Thomas
+            Nihlén (mp), Finn Bengtsson (m), Per Svedberg (s), Ann Arleklo
+            (s) och Maria Lundqvist-Brömster (fp).
+          </p>
+          <p xml:id="IDAOERPC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p>
+            Riksdagen beslutade i maj 2008 om en patientdatalag (prop. 2007/08:126,
+            bet. 2007/08:SoU16, rskr. 2007/08:207).
+          </p>
+          <p>
+            Patientdatalagen (2008:355) trädde i kraft den 1 juli 2008 och
+            innebar bl.a. att patientjournallagen (1985:562) och lagen (1998:544)
+            om vårdregister sammanfördes i en ny lag.
+          </p>
+          <p>
+            Bland annat fördes patientjournallagens bestämmelser om patientens
+            rätt att ta del av journalhandlingar inom enskild hälso- och sjukvård
+            över oförändrade till patientdatalagen med ett tillägg. Tillägget
+            innebar att även en närstående till patienten fick rätt att få
+            ta del av patientens journalhandling. Bestämmelserna därom finns
+            i 8 kap. 2 § patientdatalagen.
+          </p>
+          <p>
+            Enligt 8 kap. 2 § patientdatalagen ska en journalhandling på
+            begäran av patienten eller av en närstående till patienten så
+            snart som möjligt tillhandahållas honom eller henne för att läsas
+            eller skrivas av på stället eller i avskrift eller kopia, om inte
+            annat följer av 2 kap. 8 § andra stycket eller 9 § första stycket
+            lagen (1998:531) om yrkesverksamhet på hälso- och sjukvårdens
+            område.
+          </p>
+          <p>
+            Enligt 2 kap. 8 § andra stycket lagen om yrkesverksamhet på hälso-
+            och sjukvårdens område gäller tystnadsplikt i förhållande till
+            patienten själv, om det med hänsyn till ändamålet med hälso- och
+            sjukvården är av synnerlig vikt att uppgiften inte lämnas till
+            patienten.
+          </p>
+          <p>
+            Av 2 kap. 9 § första stycket lagen om yrkesverksamhet på hälso-
+            och sjukvårdens område framgår att den som tillhör eller har tillhört
+            hälso- och sjukvårdspersonalen inom den enskilda hälso- och sjukvården
+            inte obehörigen får röja en uppgift från en enskild om någon annan
+            persons hälsotillstånd eller andra personliga förhållanden, om
+            det kan antas att det finns en risk för att den som lämnat uppgiften
+            eller någon närstående till uppgiftslämnaren utsätts för våld
+            eller annat allvarligt men om uppgiften röjs.
+          </p>
+          <p>
+            Sekretesslagen (1980:100) gäller bara för den allmänna hälso-
+            och sjukvården. Vid tolkningen av obehörighetsrekvisitet i 2 kap.
+            8 och 9 §§ lagen om yrkesverksamhet på hälso- och sjukvårdens
+            område har det dock ansetts naturligt att söka ledning i skaderekvisitet
+            som finns i sekretesslagens bestämmelser. Ståndpunkten är att
+            den enskilde ska åtnjuta samma skydd för sin personliga integritet
+            vare sig han eller hon behandlas av en offentlig eller privat
+            vårdgivare (prop. 2007/08:126 s.132 f).
+          </p>
+          <p>
+            Således ska en menprövning utifrån nyssnämnda bestämmelser i
+            lagen om yrkesverksamhet på hälso- och sjukvårdens område göras
+            om journalhandlingen i sin helhet eller till viss del på begäran
+            av patienten kan tillhandahållas honom eller henne, 8 kap. 2 §
+            första stycket patientdatalagen.
+          </p>
+          <p>
+            Nuvarande hänvisning i 8 kap. 2 § första stycket patientdatalagen
+            till endast 2 kap. 8 § andra stycket lagen om yrkesverksamhet
+            på hälso- och sjukvårdens område leder till att en menprövning
+            enbart ska göras vid bedömningen om en journalhandling ska tillhandahållas
+            patienten. Den närstående ges dock en ovillkorlig rätt att få
+            ta del av patientens journalhandling.
+          </p>
+          <p>
+            Enligt 2 kap. 8 § första stycket lagen om yrkesverksamhet på
+            hälso- och sjukvårdens område får den som tillhör eller har tillhört
+            hälso- och sjukvårdspersonalen inom den enskilda hälso- och sjukvården
+            inte obehörigen röja vad han eller hon i sin verksamhet har fått
+            veta om en enskilds hälsotillstånd eller andra personliga förhållanden.
+          </p>
+          <p>
+            Avsikten i lagstiftningsärendet var inte att den närståendes
+            rätt att ta del av patientens journalhandling ska vara ovillkorlig,
+            utan att hans eller hennes begäran att få ta del av journalhandlingen
+            ska föregås av att en menprövning enligt 2 kap. 8 § första stycket
+            lagen om yrkesverksamhet på hälso- och sjukvårdens område görs
+            om journalhandlingen kan tillhandahållas den närstående eller
+            inte (prop. 2007/08:126 s. 154 och s. 263).
+          </p>
+          <p>
+            Socialutskottet föreslår att 8 kap. 2 § patientdatalagen ändras
+            på så sätt att en hänvisning görs till 2 kap. 8 § lagen om yrkesverksamhet
+            på hälso- och sjukvårdens område i sin helhet. Därmed framgår
+            av lagtexten att en begäran från en närstående till patienten
+            att få ta del av patientens journalhandling inom enskild hälso-
+            och sjukvård ska föregås av att en menprövning görs om journalhandlingen
+            kan tillhandahållas den närstående eller inte.
+          </p>
+          <p>
+            Utskottets lagförslag finns i bilagan.
+          </p>
+          <p>
+            Lagändringen bör träda i kraft den 1 december 2008.
+          </p>
+          <p xml:id="IDA1FRPC" rend="Bilaga">
+            Bilaga
+          </p>
+          <p xml:id="IDA4FRPC" rend="BilageRubrik">
+            Utskottets lagförslag
+          </p>
+          <p xml:id="IDACGRPC" rend="rubrik2">
+            Förslag till lag om ändring i patientdatalagen (2008:355)
+          </p>
+          <p>
+            Härigenom föreskrivs att 8 kap. 2 § patientdatalagen (2008:355)
+            ska ha följande lydelse.
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="lagtextnuvarande grad2">
+                  Nuvarande lydelse
+                </p>
+              </cell>
+              <cell>
+                <p rend="lagtextforslag grad2">
+                  Föreslagen lydelse
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2">
+                <p rend="lagtextparagraf grad1">
+                  8 kap.
+                </p>
+                <p rend="lagtextparagraf">
+                  <seg rend="grad1">
+                    2 §
+                  </seg>
+                  <hi rend="superscript">
+                    1 [
+                    <seg type="html-hanvisning">
+                      Senaste lydelse SFS 2008:355.
+                    </seg>
+                    ]
+                  </hi>
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="lagtextindrag_">
+                  En journalhandling inom enskild hälso- och sjukvård ska på begäran
+                  av patienten eller av en närstående till patienten så snart som
+                  möjligt tillhandahållas honom eller henne för att läsas eller
+                  skrivas av på stället eller i avskrift eller kopia, om inte annat
+                  följer av 2 kap. 8 §
+                  <seg rend="grad2">
+                    andra stycket
+                  </seg>
+                  eller 9 § första stycket lagen (1998:531) om yrkesverksamhet
+                  på hälso- och sjukvårdens område.
+                </p>
+              </cell>
+              <cell>
+                <p rend="lagtextindrag_">
+                  En journalhandling inom enskild hälso- och sjukvård ska på begäran
+                  av patienten eller av en närstående till patienten så snart som
+                  möjligt tillhandahållas honom eller henne för att läsas eller
+                  skrivas av på stället eller i avskrift eller kopia, om inte annat
+                  följer av 2 kap. 8 § eller 9 § första stycket lagen (1998:531)
+                  om yrkesverksamhet på hälso- och sjukvårdens område.
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2">
+                <p rend="lagtextindrag_">
+                  Frågor om utlämnande av en journalhandling enligt första stycket
+                  prövas av den som är ansvarig för journalhandlingen. Anser den
+                  ansvarige att journalhandlingen eller någon del av den inte bör
+                  lämnas ut, ska han eller hon genast med eget yttrande överlämna
+                  frågan till Socialstyrelsen för prövning.
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2">
+                <p rend="lagtextindrag_">
+                  Denna lag träder i kraft den 1 december 2008.
+                </p>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

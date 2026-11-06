@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200708_KU_0007">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Justitieombudsmännen, JO, har lämnat sin årliga rapport om verksamheten till riksdagen. Riksdagen avslutade ärendet utan att göra några tillägg.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Justitieombudsmännens verksamhet (KU7)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Redogörelsen läggs till handlingarna</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GV0956</idno>
+              <title>2008-01-23</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">56</biblScope>
+              <note type="display-reference">2008-01-23</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GV0953</idno>
+              <title>2008-01-17</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">53</biblScope>
+              <note type="display-reference">2008-01-17</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GV0K125</idno>
+              <title>2007/08:125</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">125</biblScope>
+              <note type="display-reference">2007/08:125</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="redogorelse">
+              <idno type="riksdagen">GV04JO1</idno>
+              <title>Justitieombudsmännens ämbetsberättelse</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">JO1</biblScope>
+              <note type="display-reference">redogorelse 2007/08:JO1 Justitieombudsmännens ämbetsberättelse</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2008-01-09">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="DEL" subtype="beredning" n="90" when="2007-12-17">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2007-12-17">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2007-12-07">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2007-12-07">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2007-12-05">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-12-04">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-12-04">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-11-27">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-11-27">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-11-15">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2008-01-23">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-01-23">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-01-23">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-01-17">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-01-17">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-01-16">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-01-16">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-01-15">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-01-15">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Konstitutionsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2007/08:KU7
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Justitieombudsmännens ämbetsberättelse
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBASD" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I detta betänkande behandlas redogörelse 2007/08:JO1 Justitieombudsmännens
+            ämbetsberättelse för tiden den 1 juli 2006den 30 juni 2007.
+          </p>
+          <p>
+            Utskottet föreslår att riksdagen lägger redogörelsen till handlingarna.
+          </p>
+          <p xml:id="IDAMBASD" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Justitieombudsmännens ämbetsberättelse
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger redogörelse 2007/08:JO1 till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 4 december 2007
+          </p>
+          <p>
+            På konstitutionsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Berit Andnor
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Berit Andnor (s),
+            Per Bill (m), Henrik von Sydow (m), Eva Bengtson Skogsberg (m),
+            Stefan Tornberg (c), Yilmaz Kerimo (s), Mauricio Rojas (fp), Helene
+            Petersson i Stockaryd (s), Ingvar Svensson (kd), Anna Bergkvist
+            (m), Marianne Berg (v), Phia Andersson (s), Annie Johansson (c),
+            Mikael Johansson (mp), Karl Sigfrid (m), Tommy Waidelich (s) och
+            Katja Larsson (s).
+          </p>
+          <p xml:id="IDAOEASD" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAREASD" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Riksdagens ombudsmän har enligt 11 § lagen (1986:765) med instruktion
+            för Riksdagens ombudsmän överlämnat sin ämbetsberättelse (redogörelse
+            2007/08:JO1) för tiden den 1 juli 2006den 30 juni 2007.
+          </p>
+          <p>
+            Justitieombudsmännen har den 15 november 2007 inför utskottet
+            muntligen lämnat uppgifter om sin verksamhet. I samband med utskottets
+            granskning har utskottskansliet besökt ombudsmannaexpeditionen
+            och gått igenom ämbetets äldsta ännu inte avgjorda ärenden.
+          </p>
+          <p xml:id="IDA0EASD" rend="rubrik2">
+            Ämbetsberättelse
+          </p>
+          <p>
+            Ämbetsberättelsen inleds med en skrivelse till riksdagen som
+            innehåller uppgifter om organisationen och verksamheten. Av skrivelsen
+            framgår att riksdagen den 23 november 2006 omvalde justitieombudsmannen
+            Kerstin André för tiden från valet till dess att ett nytt val
+            genomförs under år 2010 och ställföreträdande ombudsmannen Jan
+            Pennlöv för tiden fr.o.m. den 1 januari 2007 t.o.m. den 31 december
+            2008.
+          </p>
+          <p>
+            Vidare framgår att arbetsordningen för riksdagens ombudsmannaexpedition
+            ändrades genom beslut av chefsjustitieombudsmannen den 17 januari
+            2007. Ändringarna som avsåg bilagan med uppdelning i ansvarsområden
+            för respektive ombudsman, föranleddes av förändringar i Regeringskansliets
+            departementsindelning. Vidare flyttades tillsynen över de allmänna
+            domstolarna i förmynderskapsärenden från ansvarsområde 2 till
+            1 och tillsynen över ett antal myndigheter under Finansdepartementet
+            från ansvarsområde 2 till 4.
+          </p>
+          <p>
+            Av de statistiska uppgifterna rörande verksamheten framgår att
+            under perioden registrerades totalt 5 711 nya ärenden, vilket
+            var en minskning med 297 ärenden (4,9 %) jämfört med verksamhetsåret
+            2005/06. Antalet ärenden som föranleddes av remisser huvudsakligen
+            från Regeringskansliet var 90, vilket var en minskning med 25.
+            Antalet klagomålsärenden uppgick till 5 530, vilket var en minskning
+            med 274 (4,7 %) sedan föregående verksamhetsår. Nya inspektions-
+            eller andra initiativärenden uppgick till 91, vilket var en ökning
+            med 2 jämfört med 2005/06.
+          </p>
+          <p>
+            Antalet avgjorda ärenden uppgick till 5 733, vilket innebär en
+            minskning med 318 (5,3 %) jämfört med föregående år. Av de ärenden
+            som avslutats under perioden var 87 lagstiftningsremissärenden,
+            83 inspektions- eller andra initiativärenden samt 5 563 klagomålsärenden.
+          </p>
+          <p>
+            Det framgår vidare att antalet ärenden som inte var avgjorda
+            vid verksamhetsårets slut var 971, vilket innebär att balansen
+            under året minskade med 22 ärenden (2,2 %).
+          </p>
+          <p>
+            Huvuddelen av ämbetsberättelsen innehåller redogörelser för ärenden
+            av större allmänt intresse.
+          </p>
+          <p xml:id="IDAPFASD" rend="rubrik2">
+            Utskottets ställningstagande
+          </p>
+          <p>
+            Utskottet föreslår att riksdagen lägger redogörelsen till handlingarna.
+          </p>
+          <p xml:id="IDAVFASD" rend="Bilaga">
+            Bilaga
+          </p>
+          <p xml:id="IDAYFASD" rend="BilageRubrik">
+            Förteckning över behandlade förslag
+          </p>
+          <p xml:id="IDA1FASD" rend="rubrik2">
+            Redogörelsen
+          </p>
+          <p>
+            Redogörelse 2007/08:JO1 Justitieombudsmännens ämbetsberättelse.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

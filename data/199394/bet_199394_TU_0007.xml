@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_199394_TU_0007">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="rdbeslut" n="Riksdagens beslut">Bifall till utskottets hemställan</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GH0944</idno>
+              <title>1993-12-15</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">44</biblScope>
+              <note type="display-reference">1993-12-15</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GH0943</idno>
+              <title>1993-12-14</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">43</biblScope>
+              <note type="display-reference">1993-12-14</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GH0369</idno>
+              <title>Sjöfartspolitiska åtgärder</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">69</biblScope>
+              <note type="display-reference">proposition 1993/94:69 Sjöfartspolitiska åtgärder</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GH02T1</idno>
+              <title>med anledning av prop. 1993/94:69 Sjöfartspolitiska åtgärder</title>
+              <title type="sub">av Sven-Gösta Signell m.fl. (s)</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">T1</biblScope>
+              <note type="display-reference">motion 1993/94:T1 med anledning av prop. 1993/94:69 Sjöfartspolitiska åtgärder</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GH02T2</idno>
+              <title>med anledning av prop. 1993/94:69 Sjöfartspolitiska åtgärder</title>
+              <title type="sub">av Karl-Erik Persson m.fl. (v)</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">T2</biblScope>
+              <note type="display-reference">motion 1993/94:T2 med anledning av prop. 1993/94:69 Sjöfartspolitiska åtgärder</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="AVG" subtype="beredning" n="5" when="1993-12-15">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="beredning" n="3" when="1993-12-14">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="beredning" n="1" when="1993-12-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="1993-11-30">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="1993-11-09">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Trafikutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            1993/94:TU07
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Sjöfartspolitiska åtgärder
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <div type="section" subtype="h2">
+            <head>
+              Innehåll
+            </head>
+            <list type="unordered">
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bsam">
+                    Sammanfattning
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bprop">
+                    Propositionen
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bmot">
+                    Motionerna
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#btext">
+                    Utskottet
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bhemst">
+                    Hemställan
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bres">
+                    Reservationer
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bbil">
+                    Innehållsförteckning
+                  </ref>
+                </p>
+              </item>
+            </list>
+            <p>
+              1993/94
+            </p>
+            <p>
+              TU7
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bsam">
+              Sammanfattning
+            </head>
+            <p>
+              I betänkandet behandlar utskottet proposition 1993/94:69 om vissa
+              sjöfartspolitiska åtgärder samt två motioner (s resp. v) som väckts
+              med anledning av propositionen. Utskottet tillstyrker regeringens
+              förslag om en medelsanvisning för innevarande budgetår på 310
+              miljoner kronor till rederistöd under anslaget Bidrag till svenska
+              rederier. Vidare ställer sig utskottet bakom uttalanden i propositionen
+              om att fortsatt statligt stöd till rederinäringen förutsätter
+              att sjöarbetsmarknadens parter iakttar en överenskommelse om egna
+              åtgärder för att stärka den internationella konkurrenskraften.
+              Utskottet har inte heller någon erinran mot regeringens förslag
+              att Nämnden för rederistöd, vid sin prövning av stödfrågorna,
+              skall kunna låta stödets omfattning bestämmas med hänsyn till
+              bedömningar om en minimibemanning på fartygen i fråga.
+            </p>
+            <p>
+              I s-motionen framhålls att regeringen bör förelägga riksdagen
+              förslag till en långsiktig sjöfartspolitik. Vidare motsätter sig
+              såväl s- som v-motionärerna den nya befogenhet för Nämnden för
+              rederistöd som regeringen föreslår. I s-motionen föreslås också
+              att rederistödet, i den del det omfattar återbetalning av socialavgifter,
+              skall betalas snabbare än för närvarande.
+            </p>
+            <p>
+              Samtliga motionsyrkanden avstyrks. I tre reservationer yrkar
+              s-ledamöterna bifall till yrkandena i s-motionen.
+            </p>
+            <p>
+              Nyd-ledamoten framhåller i ett särskilt yttrande att han förordar
+              att Sverige inför ett internationellt fartygsregister.
+            </p>
+            <p>
+              V-ledamoten avger en meningsyttring beträffande rederistödets
+              omfattning.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bprop">
+              Propositionen
+            </head>
+            <p>
+              Regeringen (Kommunikationsdepartementet) föreslår i proposition
+              1993/94:69 om sjöfartspolitiska åtgärder 1. att riksdagen godkänner
+              regeringens förslag till inriktning av framtida sjöfartspolitiska
+              åtgärder avseende svenska handelsfartyg i fjärrfart, 2. att riksdagen
+              till Bidrag till svenska rederier på tilläggsbudget till statsbudgeten
+              för budgetåret 1993/94 under sjätte huvudtiteln anvisar ett förslagsanslag
+              på 310 000 000 kr.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bmot">
+              Motionerna
+            </head>
+            <p>
+              1993/94:T1 av Sven-Gösta Signell m.fl. (s) vari yrkas 1. att
+              riksdagen som sin mening ger regeringen till känna vad i motionen
+              anförts om kopplingen mellan det statliga stödet och bemanningen,
+              2. att riksdagen som sin mening ger regeringen till känna vad
+              i motionen anförts om riktlinjer för en långsiktig sjöfartspolitik,
+              3. att riksdagen som sin mening ger regeringen till känna vad
+              i motionen anförts om en översyn av den del av rederistödet som
+              utgörs av bidrag till socialförsäkringsavgifterna.
+            </p>
+            <p>
+              1993/94:T2 av Karl-Erik Persson m.fl. (v) vari yrkas att riksdagen
+              som sin mening ger regeringen till känna vad i motionen anförts
+              om fortsatt statligt stöd till sjöfarten.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="btext">
+              Utskottet
+            </head>
+            <p>
+              1 Bakgrund
+            </p>
+            <p>
+              1.1 1987 års sjöfartspolitiska utskottsinitiativ
+            </p>
+            <p>
+              På grundval av ett utskottsinitiativ uttalade riksdagen i december
+              1987 att regeringen skyndsamt borde förelägga riksdagen förslag
+              till långsiktiga åtgärder som skulle göra det möjligt att bibehålla
+              en svenskflaggad handelsflotta av rimlig omfattning (bet. 1987/88:TU8,
+              rskr. 107). I riksdagsbeslutet framhölls att den svenska handelsflottan
+              snabbt hade minskat och att den utvecklingen var ägnad att inge
+              allvarlig oro i fråga om möjligheterna att behålla en svensk handelsflotta
+              för att trygga vår transportförsörjning i krissituationer. De
+              erforderliga sjöfartspolitiska åtgärderna skulle visserligen innebära
+              kostnader för staten, konstaterades det i beslutet, men den nackdelen
+              uppvägdes av fördelarna av att inom landet kunna bevara en internationellt
+              inriktad sjöfartsnäring av rimlig omfattning. Vidare framhölls
+              att näringen var väsentlig inte bara från beredskapssynpunkt,
+              utan att den också bidrog till att stärka Sveriges bytesbalans
+              genom det s.k. sjöfartsnettot, som då uppgick till ca 7 miljarder
+              kronor. Sysselsättningsaspekterna berör -- erinrade riksdagen
+              -- inte endast de ombordanställda utan också andra sjöfartsanknutna
+              verksamheter än själva fartygsdriften.
+            </p>
+            <p>
+              1.2 1988 års båda riksdagsbeslut om införande av rederistöd
+            </p>
+            <p>
+              Våren 1988 framlade regeringen, i enlighet med riksdagens önskemål,
+              förslag till vissa sjöfartspolitiska åtgärder i proposition 1987/88:129.
+              I den propositionen framhölls att den viktigaste förklaringen
+              till den svenska handelsflottans negativa utveckling var alltför
+              höga bemanningskostnader och att dessa hade en avgörande betydelse
+              för konkurrenskraften i förhållande till ett ökande antal fartyg
+              under bekvämlighets- eller lågkostnadsflagg. Konkurrenskraften
+              skulle kunna stärkas om man i Sverige -- liksom i t.ex. Norge
+              och Danmark -- införde ett internationellt fartygsregister. Kännetecknande
+              för sådana register är att de skapar möjlighet att anställa utländska
+              besättningar på fartyg enligt s.k. lokala avtal, dvs. avtal som
+              tecknas med de fackliga organisationerna i sjöfolkets hemländer.
+              I propositionen konstaterades emellertid att sjöarbetsmarknadens
+              parter inte var eniga om en sådan lösning. Regeringen sade sig
+              inte heller för egen del vara beredd att förorda ett svenskt internationellt
+              fartygsregister. Vad regeringen i stället föreslog -- och riksdagen
+              ställde sig bakom -- var att man skulle införa ett särskilt stöd
+              till svenska rederier för att sänka den del av deras bemanningskostnader
+              som avser sociala avgifter (bet. 1987/88:TU27, rskr. 337). Bidraget
+              infördes fr.o.m. den 1 januari 1989 med 38 000 kr per helårsanställd
+              sjöman, sysselsatt på svenskt handelsfartyg i fjärrfart. Med fjärrfart
+              avses sjöfart huvudsakligen i området bortom en tänkt linje över
+              Skagerrak mellan Hanstholm på Jyllands nordkust och Lindesnes
+              på Norges sydkust eller bortom Cuxhaven, som är beläget vid Elbes
+              mynning och därmed i närheten av Kielkanalens västra inlopp. Med
+              den angivna definitionen av fjärrfart kunde stödet omfatta huvuddelen
+              av den svenska handelsflottan, dock inte färjesjöfarten till våra
+              grannländer. Hösten 1988 beslöt riksdagen att utöver det nämnda
+              bidraget införa ett särskilt statsbidrag till svenska rederier
+              som motsvarar den sjömansskatt som inbetalas för sjömän sysselsatta
+              på svenska handelsfartyg i fjärrfart (prop. 1988/89:56, bet. TU6,
+              rskr. 85). Riksdagens båda beslut innebar att berörda rederiers
+              bemanningskostnader kunde sänkas med ca 40 % och att deras internationella
+              konkurrenskraft ökade i motsvarande mån. Riksdagsbeslutet våren
+              1988 omfattade en medelsanvisning på 300 miljoner kronor för budgetåret
+              1988/89 under anslaget Bidrag till svenska rederier. För vart
+              och ett av budgetåren 1989/90, 1990/91 och 1991/92 anvisades under
+              anslaget 550 miljoner kronor.
+            </p>
+            <p>
+              1.3 Beslut under 1991/92 års riksmöte om avveckling av rederistödet,
+              m.m.
+            </p>
+            <p>
+              I proposition 1991/92:38 om inriktningen av den ekonomiska politiken
+              (bet. 1991/92:FiU10, rskr. 108) anmälde regeringen att den ämnade
+              föreslå riksdagen att det år 1988 beslutade rederistödet skulle
+              avvecklas och ersättas med ett svenskt internationellt fartygsregister.
+              I april 1992 beslöt riksdagen att per den 1 juli 1992 avveckla
+              det rederistöd som riksdagen hade beslutat om år 1988 (prop. 1991/92:100
+              bil. 7, bet. TU24, rskr. 186). 200 miljoner kronor anvisades emellertid
+              under anslaget Bidrag till svenska rederier för budgetåret 1992/93
+              för att täcka vissa kvardröjande kostnader. I den nämnda propositionen
+              anmäldes vidare att regeringen avsåg att senare under våren förelägga
+              riksdagen förslag till nya förutsättningar för den svenska sjöfarten.
+            </p>
+            <p>
+              1.4 Beslut under 1992/93 års riksmöte om återinförande av rederistödet
+              m.m.
+            </p>
+            <p>
+              I december 1992 beslöt riksdagen att ett rederistöd skulle återinföras
+              i avvaktan på ett slutligt ställningstagande till frågan om åtgärder
+              till stöd för svensk sjöfart (prop. 1992/93:128, bet. TU12, rskr.
+              153). Beslutet tillkom som en följd av att sjöarbetsmarknadens
+              parter inte hade kunnat enas i frågan om införande av ett svenskt
+              internationellt fartygsregister. Beslutet skall vidare ses mot
+              bakgrund av en överenskommelse mellan parterna, vilken redovisades
+              i den nämnda propositionen, om rationaliseringar och andra åtgärder
+              inom rederinäringen. Detta s.k. rationaliseringsavtal, som hade
+              träffats i oktober 1992, skulle enligt parternas beräkning medföra
+              kostnadssänkningar på genomsnittligt 15 %. Parterna hade vidare
+              beräknat att deras egna åtgärder i förening med statliga åtgärder
+              -- bestående av befrielse från sjömansskatt och en reducering
+              av de sociala avgifterna med 18 procentenheter -- skulle innebära
+              en sammanlagd kostnadsreduktion på 40 %. Av riksdagsbeslutet framgår
+              att en reducering av de sociala avgifterna med 18 procentenheter
+              motsvarar ett bidrag på 29 000 kr per år och helårsanställd sjöman.
+              Beslutet innebar att det våren 1992 avvecklade rederistödet återinfördes
+              i oförändrad omfattning, såvitt gäller återbetalning av sjömansskatt.
+              Beslutet innebar vidare att bidraget avseende socialavgifter återinfördes.
+              Bidragsbeloppet skulle för andra halvåret 1992 oförändrat uppgå
+              till 38 000 kr per kalenderår och helårsanställd sjöman. Med verkan
+              från den 1 januari 1993 skulle bidragsbeloppet sänkas till 29
+              000 kr per år och helårsanställd sjöman. Under anslaget Bidrag
+              till svenska rederier anvisade riksdagen 360 miljoner kronor för
+              budgetåret 1992/93. I beslutet ställde sig riksdagen också bakom
+              de överväganden som enligt regeringen talade för att resultatet
+              av rationaliseringsavtalet skulle utvärderas före halvårsskiftet
+              1993, innan beslut fattades om en mer permanent insats från statens
+              sida till förmån för rederinäringen. I årets budgetproposition
+              framhölls att kostnaden för rederistödet hade beräknats till 450
+              miljoner kronor per år och erinrades om att riksdagen hade anvisat
+              360 miljoner kronor för budgetåret 1992/93. Regeringen föreslog
+              att resterande 90 miljoner kronor skulle anvisas under anslaget
+              Bidrag till svenska rederier för innevarande budgetår under hänvisning
+              till att bidraget för sociala avgifter betalas i efterhand. Riksdagen
+              beslutade i enlighet med regeringens förslag (prop. 1992/93:100
+              bil. 7, bet. TU18, rskr. 244).
+            </p>
+            <p>
+              2 Propositionens överväganden och förslag
+            </p>
+            <p>
+              I den nu aktuella propositionen framhålls att sjöarbetsmarknadens
+              parter under våren 1993 och senare redovisat vilka åtgärder som
+              vidtagits inom ramen för rationaliseringsavtalet. Svenska sjöfolksförbundet
+              har redovisat ett konkret avtal som medför betydande kostnadsbesparingar
+              på manskapssidan. Dessa uppgår till minst, i flera fall mer än,
+              15 %. På maskinbefälssidan har bemanningsreduceringar och andra
+              kostnadsbesparingar skett, men inte i någon större omfattning.
+              Detta bör dock ses mot bakgrund av att maskinbefälsbefattningarna
+              i fartygen är få. På fartygsbefälssidan är det mest konkreta som
+              redovisats en provverksamhet med två styrmän på två fartyg under
+              sex månader. I sammanhanget betonas att befälslönerna utgör en
+              betydande del -- ca 60 % -- av bemanningskostnaderna. Regeringen
+              anser att det finns en obalans i det redovisade materialet och
+              att denna i allt väsentligt kan härledas till Fartygsbefälsföreningens
+              avtalsområde. Materialet utgör sålunda inte -- framhåller regeringen
+              -- någon sådan entydig grund som avsågs i den nämnda propositionen
+              1992/93:128 och som skulle visa att förutsättningar skapats för
+              en utvecklad svensk sjöfart. Avgörande steg har dock enligt regeringen
+              tagits från parternas sida som ger anledning tro att en process
+              har inletts med inriktningen att stärka konkurrenskraften genom
+              rationaliseringar. Mot den bakgrunden anser sig regeringen kunna
+              föreslå fortsatta statliga insatser i form av rederistöd. Dessa
+              bör oförändrat innebära återbetalning av sjömansskatt samt en
+              reduktion av socialavgifterna med 18 procentenheter, motsvarande
+              ett bidrag på 29 000 kr per år och helårsanställd sjöman på fartyg
+              i fjärrfart. Regeringen betonar att ett statligt ekonomiskt stöd
+              inom ramen för en långsiktig sjöfartspolitik måste ha sin utgångspunkt
+              i den överenskommelse som parterna träffade hösten 1992, dvs.
+              rationaliseringsavtalet. Hittills har inte överenskommelsen uppfyllts
+              fullt ut av samtliga parter, framhålls det i propositionen. Långsiktigheten
+              i det statliga stödet kan därför inte göras oberoende av de åtgärder
+              parterna själva kan åstadkomma för att pressa bemanningskostnaderna.
+              Regeringen säger sig följaktligen fästa stort avseende vid att
+              rationaliseringsarbetet fortsätter. Om detta avstannar, faller
+              en viktig förutsättning för svensk sjöfarts överlevnad och förlorar
+              fortsatt statligt stöd sin mening. För att möjliggöra en uppföljning
+              av rationaliseringsavtalet från statens sida bör en årlig redovisning
+              lämnas till regeringen över hur bemanningskostnaderna för fartygen
+              utvecklas. Om kostnadsutvecklingen visar sig gå i en riktning
+              som klart avviker från avtalet, bör statens insatser på det sjöfartspolitiska
+              området kunna omprövas. I de fall det bedöms finnas möjligheter
+              till rationaliseringar ombord på de enskilda fartygen -- fortsätter
+              regeringen -- och dessa inte genomförs, bör sådan underlåtenhet
+              också kunna föranleda överväganden i fråga om det statliga stödet.
+              Nämnden för rederistöd, som administrerar bidragsgivningen, bör
+              vid sin behandling av frågor om statligt stöd till sådana fartyg
+              inhämta ett yttrande från Sjöfartsverket. Om verket anser att
+              fartyget skulle kunna handhas med färre ombordanställda, bör en
+              sådan minimibemanning tjäna som utgångspunkt vid beräkning av
+              bidraget för reduktionen av sociala avgifter. Överväganden av
+              ifrågavarande slag bör nämnden göra i fråga om bidrag fr.o.m.
+              innevarande budgetår, dvs. för andra hälften av kvalifikationsåret
+              1993 och framåt. I sammanhanget framhåller regeringen vikten av
+              att inte sjöarbetstidslagen (1970:105) lägger hinder i vägen för
+              ett ändamålsenligt rationaliseringsarbete. Med sjösäkerheten som
+              en självklar utgångspunkt är det önskvärt att den ansvariga sjösäkerhetsmyndigheten
+              kan besluta i ärenden om minimibemanning på ett mer flexibelt
+              sätt än för närvarande. Regeringen kommer därför att ta initiativ
+              till en översyn av sjöarbetstidslagens bestämmelser. Regeringen
+              säger sig uppskatta kostnaderna för ett fortsatt rederistöd till
+              ca 400 miljoner kronor per år under förutsättning att antalet
+              stödberättigade fartyg inte förändras i någon större utsträckning.
+              Regeringen föreslår att riksdagen godkänner dess förslag till
+              inriktning av framtida sjöfartspolitiska åtgärder avseende svenska
+              handelsfartyg i fjärrfart och att riksdagen till Bidrag till svenska
+              rederier på tilläggsbudget för innevarande budgetår anvisar ett
+              förslagsanslag på 310 miljoner kronor. Vidare säger sig regeringen
+              ämna återkomma i nästa budgetproposition vad gäller medelsbehovet
+              för budgetåret 1994/95.
+            </p>
+            <p>
+              3 Motionsförslagen
+            </p>
+            <p>
+              I motion T1 (s) framhålls att regeringens förslag saknar långsiktighet.
+              Vad sjöfartsnäringen nu behöver -- betonar motionärerna -- är
+              klara och entydiga besked från statsmakterna om framtidsutsikter
+              på grundval av långsiktiga spelregler. I avsaknad av sådana regler
+              äventyras de mycket kostnadskrävande investeringarna i fartyg.
+              Regelverket bör också ha ett innehåll som ger näringen möjlighet
+              till framgångsrik konkurrens. Det är därför angeläget att man
+              utan dröjsmål inleder arbetet med att forma en långsiktig och
+              konkurrenskraftig svensk sjöfartspolitik. En sådan politik bör
+              innebära ett närmande till EG:s sjöfartspolitik. I motionen framhålls
+              vidare att de villkor för statligt stöd som regeringen redovisar
+              i vissa fall kan motverka en sund utveckling inom sjöfartsnäringen.
+              Propositionstexten kan -- säger motionärerna -- tolkas så att
+              regeringen anser att stöd skall utgå endast för den del av besättningen
+              som krävs från säkerhetssynpunkt. Att relatera rederistödet till
+              en sådan minimibemanning innebär en felsyn och skulle motverka
+              strävandena att driva en rationell sjöfart. Stödet bör -- understryker
+              motionärerna -- omfatta samtliga ombordanställda på fartyg i fjärrfart.
+              I motionen behandlas också de administrativa rutinerna för betalning
+              av den del av rederistödet som avser bidrag till sociala avgifter.
+              Betalningen sker, som framhållits i det föregående, i efterhand.
+              Motionärerna framhåller att den ordningen innebär att rederierna
+              "måste ligga ute med pengarna i nästan 18 månader" och därmed
+              en kännbar likviditetspåfrestning. Regeringen bör därför låta
+              se över dessa betalningsrutiner i syfte att åstadkomma ett system
+              som innebär att reduktion av avgiften sker i samband med inbetalning
+              av resterande del av de sociala avgifterna.
+            </p>
+            <p>
+              Även i motion T2 (v) behandlas den i motion T1 (s) uppmärksammade
+              frågan huruvida ett fartygs minimibemanning bör tjäna som utgångspunkt
+              vid beräkning av bidraget för reduktionen av sociala avgifter.
+              I v-motionen framhålls sålunda att propositionen synes innebära
+              att en redare som inte rationaliserar till minimibesättning kan
+              mista stödet till den del av en fartygsbesättning som inte bedöms
+              tillhöra minimibesättningen. Motionärerna betonar att rederistödet
+              måste omfatta även personal som utför servicearbeten med inriktning
+              på såväl fartyget som dess last för att en rationell sjöfart skall
+              kunna bedrivas. Om inte nödvändig fartygsservice utförs ombord
+              under gång till sjöss, måste fartyget tas upp på varv med dryga
+              kostnader som följd. Mången lastägare kräver också service ombord
+              i fråga om sin last för att han skall anlita rederiet i fråga.
+              Det är en brist i propositionen -- framhåller motionärerna --
+              att villkoren för rederistöd inte till fullo redovisas. Det framgår
+              inte heller vem som skall göra bedömningar om ett fartygs minimibemanning
+              vid prövning av ärenden om rederistöd.
+            </p>
+            <p>
+              4 Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet delar regeringens uppfattning att långsiktigheten i
+              det statliga stödet till rederinäringen inte kan göras oberoende
+              av de åtgärder som parterna på sjöarbetsmarknaden själva kan åstadkomma
+              för att pressa bemanningskostnaderna. Även utskottet fäster därför
+              stor vikt vid att rationaliseringsarbetet fortsätter och vid att
+              alla parter uppfyller sin överenskommelse enligt rationaliseringsavtalet
+              från hösten 1992. Utskottet finner det vidare lämpligt att man
+              från statens sida kontrollerar parternas tillämpning av avtalet
+              och har därför ingen erinran mot den redovisningsskyldighet i
+              detta avseende som regeringen förordar. Vad gäller kravet i motion
+              T1 (s) på en anpassning av svensk sjöfartspolitik till EG:s sjöfartspolitik
+              vill utskottet framhålla att det av riksdagen godkända EES-avtalet
+              synes skapa goda möjligheter till en sådan anpassning (prop. 1991/92:170,
+              bet. 1992/93:EU1, rskr. 1992/93:18 och prop. 1992/93:225, bet.
+              EU3, rskr. 404). Avtalet väntas träda i kraft inom kort. Av det
+              anförda följer att utskottet avstyrker yrkande 2 i motion T1 (s)
+              om sjöfartspolitikens huvudsakliga inriktning och tillstyrker
+              regeringens förslag till inriktning av framtida sjöfartspolitiska
+              åtgärder i motsvarande del.
+            </p>
+            <p>
+              Rederistödet syftar som nämnts till att stärka den svenska rederinäringens
+              internationella konkurrenskraft i fjärrfart. Det utgör därmed
+              ett alternativ till de internationella fartygsregister som i samma
+              syfte införts i bl.a. Danmark och Norge. Utgångspunkten har sålunda
+              varit att stödja rederinäringen på sådant sätt att några större
+              olikheter i konkurrensförutsättningar inte skall föreligga för
+              fartyg under resp. flagg. Utskottet förutsätter att regeringen
+              fortlöpande följer den sjöfartspolitiska utvecklingen och noterar
+              med tillfredsställelse att kommunikationsministern uppmärksammat
+              konkurrenssituationen inom den internordiska färjesjöfarten.
+            </p>
+            <p>
+              Bemanningskostnaderna har, som framhållits i det föregående,
+              mycket stor betydelse för rederinäringens internationella konkurrenskraft.
+              Med hänsyn till att staten svarar för en avsevärd del av dessa
+              kostnader synes det utskottet lämpligt att även staten, genom
+              rederistödets utformning, söker medverka till nödvändiga rationaliseringar.
+              Utskottet har därför ingen erinran mot att Sjöfartsverket får
+              göra bedömningar om en minimibemanning och att sådana bedömningar
+              får ligga till grund för Nämndens för rederistöd överväganden
+              och beslut. Utskottet vill i sammanhanget erinra om att i nämnden
+              finns företrädare för sjöarbetsmarknadens parter. Med det sagda
+              avstyrker utskottet yrkande 1 i motion T1 (s) och motion T2 (v)
+              om rederistödets omfattning i förhållande till fartygens bemanning.
+              Regeringens förslag -- att riksdagen godkänner den inriktning
+              av framtida sjöfartspolitiska åtgärder avseende svenska handelsfartyg
+              i fjärrfart som förordas i propositionen -- tillstyrks i motsvarande
+              del.
+            </p>
+            <p>
+              Utskottet kan för sin del inte ställa sig bakom formuleringen
+              i motion T1 (s) att rederistödet, i den del det omfattar återbetalning
+              av socialavgifter, skulle innebära "att rederierna måste ligga
+              ute med pengarna". Motionärerna synes mena att rederierna förskotterar
+              en kostnad som åvilar staten, inte -- såsom utskottet anser --
+              att det är staten som efterskänker vissa avgifter till det allmänna
+              genom återbetalning till de betalningsskyldiga. Formerna för denna
+              återbetalning är desamma som när rederistödet infördes genom riksdagens
+              beslut år 1988. De innebär som nämnts att stödet återbetalas i
+              efterhand. I fråga om återbetalningen av den del av stödet som
+              avser sociala avgifter sker återbetalningen efter utgången av
+              kvalifikationsåret, som är detsamma som kalenderåret. Först då
+              föreligger erforderligt underlag för att bestämma det bidragsgrundande
+              antalet årsarbetskrafter som sysselsatts på fartygen. Återbetalning
+              kan därför dröja som längst omkring ett år. Utskottet har för
+              sin del ingen erinran mot en snabbare återbetalning, om så kan
+              ske inom ramen för gällande bestämmelser. Utskottet förutsätter
+              att möjligheterna härtill undersöks. Någon sådan översyn av de
+              administrativa rutinerna för betalning av stödet som begärs i
+              motion T1 (s) synes därför inte erforderlig, varför yrkandet härom
+              avstyrks.
+            </p>
+            <p>
+              Utskottet tillstyrker regeringens förslag om en medelsanvisning
+              på 310 miljoner kronor för innevarande budgetår under anslaget
+              Bidrag till svenska rederier.
+            </p>
+            <p>
+              Slutligen tillstyrker utskottet regeringens förslag till sjöfartspolitiska
+              åtgärder i övrigt, dvs. i de delar som inte omfattas av utskottets
+              ställningstagande ovan.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bhemst">
+              Hemställan
+            </head>
+            <p>
+              Utskottet hemställer
+            </p>
+            <p>
+              1. beträffande sjöfartspolitikens huvudsakliga inriktning att
+              riksdagen med avslag på motion 1993/94:T1 yrkande 2 godkänner
+              regeringens förslag till inriktning av framtida sjöfartspolitiska
+              åtgärder avseende svenska handelsfartyg i fjärrfart i denna del,
+              res. 1 (s)
+            </p>
+            <p>
+              2. beträffande rederistödets omfattning att riksdagen med avslag
+              på motionerna 1993/94:T1 yrkande 1 och 1993/94:T2 godkänner regeringens
+              förslag till inriktning av framtida sjöfartspolitiska åtgärder
+              avseende svenska handelsfartyg i fjärrfart i denna del, res. 2
+              (s) men. (v)
+            </p>
+            <p>
+              3. beträffande de administrativa rutinerna för betalning av rederistödet
+              att riksdagen avslår motion 1993/94:T1 yrkande 3, res. 3 (s)
+            </p>
+            <p>
+              4. beträffande medelsanvisning för rederistöd att riksdagen med
+              bifall till regeringens förslag till Bidrag till svenska rederier
+              på tilläggsbudget till statsbudgeten för budgetåret 1993/94 under
+              sjätte huvudtiteln anvisar ett förslagsanslag på 310 000 000 kr,
+            </p>
+            <p>
+              5. beträffande sjöfartspolitiska åtgärder i övrigt att riksdagen
+              godkänner regeringens förslag till inriktning av framtida sjöfartspolitiska
+              åtgärder avseende svenska handelsfartyg i fjärrfart i de delar
+              det inte omfattas av utskottets hemställan ovan.
+            </p>
+            <p>
+              Stockholm den 30 november 1993
+            </p>
+            <p>
+              På trafikutskottets vägnar
+            </p>
+            <p>
+              Sven-Gösta Signell
+            </p>
+            <p>
+              I beslutet har deltagit: Sven-Gösta Signell (s), Rolf Clarkson
+              (m), Håkan Strömberg (s), Elving Andersson (c), Bo Nilsson (s),
+              Kenneth Attefors (nyd), Jarl Lander (s), Lars Björkman (m), Ines
+              Uusmann (s), Lars Biörck (m), Ulrica Messing (s), Hugo Bergdahl
+              (fp), Kenneth Lantz (kds), Tom Heyman (m) och Krister Örnfjäder
+              (s).
+            </p>
+            <p>
+              Från Vänsterpartiet, som inte företräds av någon ordinarie ledamot
+              i utskottet, har suppleanten Karl-Erik Persson (v) närvarit vid
+              den slutliga behandlingen av ärendet.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bres">
+              Reservationer
+            </head>
+            <p>
+              1. Sjöfartspolitikens huvudsakliga inriktning (mom. 1)
+            </p>
+            <p>
+              Sven-Gösta Signell, Håkan Strömberg, Bo Nilsson, Jarl Lander,
+              Ines Uusmann, Ulrica Messing och Krister Örnfjäder (alla s) anser
+            </p>
+            <p>
+              dels att den del av utskottets yttrande som på s. 7 börjar med
+              "Utskottet delar" och på s. 8 slutar med "åtgärder i motsvarande
+              del" bort ha följande lydelse: Utskottet delar motionärernas uppfattning
+              om vikten av att regeringen förelägger riksdagen förslag till
+              en långsiktig sjöfartspolitik med klara besked om vad rederinäringen
+              har att rätta sig efter under överskådlig framtid. Det gäller
+              att ge näringen långsiktiga spelregler och möjligheter till en
+              framgångsrik internationell konkurrens. I arbetet med att forma
+              sådana förutsättningar bör regeringen närma sig EG:s sjöfartspolitik.
+              Vad utskottet nu anfört -- och som innebär att yrkande 2 i motion
+              T1 (s) tillstyrks -- bör riksdagen som sin mening ge regeringen
+              till känna.
+            </p>
+            <p>
+              dels att utskottets hemställan under mom. 1 bort ha följande
+              lydelse:
+            </p>
+            <p>
+              1. beträffande sjöfartspolitikens huvudsakliga inriktning att
+              riksdagen med bifall till motion 1993/94:T1 yrkande 2 och med
+              anledning av regeringens förslag till inriktning av framtida sjöfartspolitiska
+              åtgärder avseende svenska handelsfartyg i fjärrfart i denna del
+              som sin mening ger regeringen till känna vad utskottet anfört,
+            </p>
+            <p>
+              2. Rederistödets omfattning (mom. 2)
+            </p>
+            <p>
+              Sven-Gösta Signell, Håkan Strömberg, Bo Nilsson, Jarl Lander,
+              Ines Uusmann, Ulrica Messing och Krister Örnfjäder (alla s) anser
+            </p>
+            <p>
+              dels att den del av utskottets yttrande som på s. 8 börjar med
+              "Bemanningskostnaderna har" och slutar med "tillstyrks i motsvarande
+              del" bort ha följande lydelse: Utskottet delar den i motion T1
+              (s) uttalade uppfattningen att det är felaktigt att relatera rederistödets
+              omfattning till en minimibemanning som skulle fastställas med
+              utgångspunkt i andra bedömningar än de som nu görs av Sjöfartsverket
+              och sjöarbetsmarknadens parter med stöd av gällande regler. Regeringens
+              förslag i detta avseende synes utskottet utgå från en verklighetsfrämmande
+              föreställning att rederierna skulle anställa och avlöna personal
+              som de inte behöver. Utskottet instämmer följaktligen i vad som
+              sägs i s-motionen om att rederistöd bör utgå till varje fartyg
+              klassat i fjärrfart enligt lagen (1958:295) om sjömansskatt och
+              för samtliga anställda ombord. Vad utskottet nu anfört -- och
+              som innebär att motion T1 (s) yrkande 1 tillstyrks samt att syftet
+              med motion T2 (v) torde få anses tillgodosett -- bör riksdagen
+              som sin mening ge regeringen till känna.
+            </p>
+            <p>
+              dels att utskottets hemställan under mom. 2 bort ha följande
+              lydelse:
+            </p>
+            <p>
+              2. beträffande rederistödets omfattning att riksdagen med bifall
+              till motion 1993/94:T1 yrkande 1 samt med anledning av regeringens
+              förslag till inriktning av framtida sjöfartspolitiska åtgärder
+              avseende svenska handelsfartyg i fjärrfart i denna del och motion
+              1993/94:T2 som sin mening ger regeringen till känna vad utskottet
+              anfört,
+            </p>
+            <p>
+              3. De administrativa rutinerna för betalning av rederistödet
+              (mom. 3)
+            </p>
+            <p>
+              Sven-Gösta Signell, Håkan Strömberg, Bo Nilsson, Jarl Lander,
+              Ines Uusmann, Ulrica Messing och Krister Örnfjäder (alla s) anser
+            </p>
+            <p>
+              dels att den del av utskottets yttrande som på s. 8 börjar med
+              "Utskottet kan" och på s. 9 slutar med "härom avstyrks" bort ha
+              följande lydelse: Nuvarande ordning för betalning av rederistödet,
+              i den del det omfattar återbetalning av socialavgifter, är som
+              framhålls i motion T1 (s) onödigt långsam. Den innebär därmed
+              en lika onödig -- och mycket kännbar -- likviditetspåfrestning
+              för rederierna. Utskottet instämmer därför i motionärernas krav
+              på att regeringen bör låta se över rederistödet i ifrågavarande
+              del. Översynen bör syfta till att införa ett system som innebär
+              att reduktion av avgiften sker i samband med inbetalning av resterande
+              del av de sociala avgifterna. Vad utskottet nu anfört -- och som
+              innebär att motion T1 (s) yrkande 3 tillstyrks -- bör riksdagen
+              som sin mening ge regeringen till känna.
+            </p>
+            <p>
+              dels att utskottets hemställan under mom. 3 bort ha följande
+              lydelse:
+            </p>
+            <p>
+              3. beträffande de administrativa rutinerna för betalning av rederistödet
+              att riksdagen med bifall till motion 1993/94:T1 yrkande 3 som
+              sin mening ger regeringen till känna vad utskottet anfört,
+            </p>
+            <p>
+              Särskilt yttrande
+            </p>
+            <p>
+              Sjöfartspolitiska åtgärder
+            </p>
+            <p>
+              Kenneth Attefors (nyd) anför:
+            </p>
+            <p>
+              Jag är för min del övertygad om att ett svenskt internationellt
+              fartygsregister måste införas, om vi skall kunna behålla en svenskflaggad
+              handelsflotta av rimlig omfattning. Jag motsätter mig emellertid
+              inte nu den "vänta-och-se-politik" som regeringen förordar.
+            </p>
+            <p>
+              Meningsyttring av suppleant
+            </p>
+            <p>
+              Meningsyttring får avges av suppleant från Vänsterpartiet, eftersom
+              partiet inte företräds av ordinarie ledamot i utskottet.
+            </p>
+            <p>
+              Karl-Erik Persson (v) anför:
+            </p>
+            <p>
+              Rederistödets omfattning
+            </p>
+            <p>
+              Jag biträder hemställan i reservation 2.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bbil">
+              Innehållsförteckning
+            </head>
+            <p>
+              Sammanfattning1 Propositionen2 Motionerna2 Utskottet2 1 Bakgrund2
+              1.1 1987 års sjöfartspolitiska utskottsinitiativ2 1.2 1988 års
+              båda riksdagsbeslut om införande av rederistöd3 1.3 Beslut under
+              1991/92 års riksmöte om avveckling av rederistödet, m.m.4 1.4
+              Beslut under 1992/93 års riksmöte om återinförande av rederistödet
+              m.m.4 2 Propositionens överväganden och förslag5 3 Motionsförslagen6
+              4 Utskottets ställningstagande7 Hemställan9 Reservationer10 Särskilt
+              yttrande12 Meningsyttring av suppleant12
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

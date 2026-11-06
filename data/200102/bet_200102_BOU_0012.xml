@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_BOU_0012">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen avslog motioner från allmänna motionstiden 2001 om indelningen i län och regioner, den inomregionala balansen i Västra Götalands län samt regionalt självstyrelseansvar i Stockholms län.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Motioner om indelnings- och länsstyrelsefrågor (BoU12)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09124</idno>
+              <title>2002-06-13</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">124</biblScope>
+              <note type="display-reference">2002-06-13</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09123</idno>
+              <title>2002-06-12</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">123</biblScope>
+              <note type="display-reference">2002-06-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Bo281</idno>
+              <title>Västra Götaland</title>
+              <title type="sub">av Urban Ahlin och Monica Green (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Bo281</biblScope>
+              <note type="display-reference">motion 2001/02:Bo281 Västra Götaland</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Bo285</idno>
+              <title>Länsgränser och regionindelning</title>
+              <title type="sub">av Eva Arvidsson och Christina Pettersson (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Bo285</biblScope>
+              <note type="display-reference">motion 2001/02:Bo285 Länsgränser och regionindelning</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Bo293</idno>
+              <title>Sveriges regionala indelning</title>
+              <title type="sub">av Anders Björck (M) och Yvonne Ångström (FP)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Bo293</biblScope>
+              <note type="display-reference">motion 2001/02:Bo293 Sveriges regionala indelning</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Bo323</idno>
+              <title>Stockholm -- stad och region i världen</title>
+              <title type="sub">av Karin Pilsäter m.fl. (FP)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Bo323</biblScope>
+              <note type="display-reference">motion 2001/02:Bo323 Stockholm -- stad och region i världen</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2002-06-05">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-06-05">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-06-04">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-06-04">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-06-04">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-16">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-16">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-06-13">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-06-13">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-06-12">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-06-12">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2002-06-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-06-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-06-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Bostadsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:BOU12
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Indelnings- och länsstyrelsefrågor
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I betänkandet behandlar bostadsutskottet under
+            den allmänna motionstiden 2001 väckta motioner om indelningen
+            i län och regioner, den inomregionala balansen i Västra Götalands
+            län samt regionalt självstyrelseansvar i Stockholms län. Utskottet
+            avstyrker samtliga motionsyrkanden. Till betänkandet har fogats
+            två reservationer.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Indelningen i län och
+            regioner Riksdagen avslår motionerna 2001/02:Bo285 och 2001/02:Bo293.
+            Reservation 1 (m, kd, c, fp) 2. Den inomregionala balansen i Västra
+            Götalands län Riksdagen avslår motion 2001/02:Bo281. 3. Regionalt
+            självstyrelseansvar i Stockholms län Riksdagen avslår motion 2001/02:Bo323
+            yrkande 1. Reservation 2 (fp) Stockholm den 4 juni 2002 På bostadsutskottets
+            vägnar Knut Billing Följande ledamöter har deltagit i beslutet:
+            Knut Billing (m), Lennart Nilsson (s), Bengt-Ola Ryttar (s), Lilian
+            Virgin (s), Owe Hellberg (v), Ulla-Britt Hagström (kd), Carina
+            Moberg (s), Inga Berggren (m), Anders Ygeman (s), Sten Lundström
+            (v), Carl-Erik Skårman (m), Helena Hillar Rosenqvist (mp), Rigmor
+            Stenmark (c), Yvonne Ångström (fp), Carina Adolfsson Elgestam
+            (s), Ewa Thalén Finné (m) och Harald Bergström (kd).
+          </p>
+          <p>
+            2001/02 BoU12
+          </p>
+          <p>
+            Utskottets överväganden Indelningen i län och regioner Utskottets
+            förslag i korthet Riksdagen bör avslå motionsförslagen om indelningen
+            i län och regioner. Jämför reservation 1 (m, kd, c, fp). Förslag
+            som avser länsindelningen och den regionala indelningen förs fram
+            i två motioner. Enligt motion 2001/02:Bo285 (s) bör näringspolitiska
+            och bostadspolitiska liksom andra offentliga insatser göras utifrån
+            ett regionalt helhetsperspektiv. Detta försvåras dock av att olika
+            verksamheter har olika regional indelning och genom att länsgränser
+            och regiongränser inte sammanfaller. En samordning mellan länsgränser
+            och regioner bör därför komma till stånd. Även i motion 2001/02:Bo293
+            (m, fp) framhålls att regionala satsningar är svåra att genomföra
+            som en följd av den regionala indelningen. Problemet med dagens
+            offentliga indelning är enligt motionen att den är föga konsekvent
+            och att överlappningsproblemen är omfattande. En förutsättningslös
+            genomgång av hur den framtida regionala indelningen skall se ut
+            och hur den skall genomföras bör därför komma till stånd. I likhet
+            med motionärerna kan utskottet konstatera att den regionala indelningen
+            för olika offentliga verksamheter i dag uppvisar stora olikheter.
+            Under en lång tid har länen varit grunden för mycket av den regionala
+            indelningen, så är dock inte längre fallet. Tvärtom tillhör det
+            undantagen att statliga myndigheter och andra offentliga verksamheter
+            har länen som indelningsgrund. Vid en studie av 15 statliga organisationer
+            som Statskontoret gjorde år 1999 framkom att den vanligaste indelningsgrunden
+            var regioner som är större än län. Av de 15 studerade organisationerna
+            var det endast 5 som hade länen som indelningsgrund. En följd
+            av detta är att länen kommer att ingå i flera olika myndighetsregioner
+            med olika geografisk utbredning. Statskontorets studie pekade
+            på att överblicken och transparensen i den offentliga sektorns
+            organisation kan bli lidande när ett län ingår i flera storregioner
+            med olika geografisk utbredning. Regiongränserna i sig ansågs
+            dock spela mindre roll för samarbete och samordning bl.a. därför
+            att kontakterna underlättas med ny informationsteknik. Däremot
+            angavs lokaliseringen av den regionala myndigheten ha större betydelse.
+            Om organ som behöver samverka inte finns på samma ort försvåras
+            samverkan i viss mån då de vardagliga kontakterna och personkännedomen
+            minskar. Utskottet delar mot den beskrivna bakgrunden motionärernas
+            oro för att en splittrad regional indelning kan leda till problem
+            bl.a. när det gäller att genomföra insatser av olika slag. Samtidigt
+            är det naturligtvis så att olika verksamheter har olika behov
+            och funktion som gör att de har unika krav på sin regionala organisation.
+            Det är också mot den bakgrunden som statliga myndigheter och andra
+            offentliga organ har fått en stor frihet att utifrån sina behov
+            skapa sin egen regionala struktur. Samtidigt bidrar modern informationsteknik
+            i ökande utsträckning till att underlätta kontakter och samarbete
+            oavsett geografiskt avstånd. Utskottet avstyrker med hänvisning
+            till det nu anförda motionerna 2001/02:Bo285 (s) och 2001/02:Bo293
+            (m, fp). Länsstyrelsernas verksamhet Utskottets förslag i korthet
+            Riksdagen bör avslå motionsförslagen om den inomregionala balansen
+            i Västra Götalands län samt regionalt självstyrelseansvar i Stockholms
+            län, jämför reservation 2 (fp). Den inomregionala balansen i Västra
+            Götalands län När Västra Götalands län bildades var det enligt
+            motion 2001/02:Bo281 (s) en uttalad strävan att geografiskt placera
+            myndigheter och andra statliga institutioner på ett sådant sätt
+            att det skapades en inomregional balans. Enligt motionen bör mot
+            den bakgrunden en utvärdering nu göras av om målet om en inomregional
+            balans har uppnåtts. Riksdagen beslutade våren 1997 (prop. 1996/97:108,
+            bet. 1996/97:BoU13, rskr. 1996/97:228) om en ny länsindelning
+            i Västsverige. Beslutet innebar att Västra Götalands län bildades
+            den 1 januari 1998 genom en sammanslagning av Göteborgs och Bohus
+            län, Älvsborgs län och Skaraborgs län (med undantag av Mullsjö
+            och Habo kommuner som fördes till Jönköpings län). Inför sammanslagningen
+            tillsattes en särskild utredare som bl.a. hade till uppgift att
+            ge förslag till geografisk lokalisering av den förvaltning som
+            skulle bedrivas av den nya länsstyrelsen. I såväl den proposition
+            som låg till grund för beslutet om ett nytt västsvenskt län som
+            i direktiven för den organisationskommitté som svarat för genomförandet
+            av sammanslagningen framhölls också vikten av att den nya länsstyrelsen
+            med avseende på myndighetsstrukturen organiserades, dimensionerades
+            och lokaliserades så att en inomregional balans skapades. Länsstyrelsen
+            i Västra Götalands län har i dag förutom i residensstaden Göteborg
+            personal i Vänersborg, Mariestad, Uddevalla, Skara och Borås.
+            Dessutom finns andra regionala organ lokaliserade till Skara,
+            Lidköping och Skövde. När det gäller den försöksverksamhet med
+            ändrad regional ansvarsfördelning som bedrivs inom ramen för Västra
+            Götalandsregionen så har regionen sina centrala kanslier och sekretariat
+            lokaliserade till Regionens hus i Göteborg, Vänersborg, Mariestad,
+            Borås, Uddevalla respektive Skövde. Bostadsutskottet beslutade
+            våren 2001 att föreslå Riksdagens revisorer att ta upp frågan
+            om effekterna m.m. av bildandet av Västra Götalands län till granskning.
+            I sitt granskningsförslag uttalade utskottet bl.a. följande. Utgångspunkten
+            för uppföljningen bör i första hand vara att utvärdera effekterna
+            av länssammanslagningen på myndighetsstrukturen såväl organisatoriskt
+            som geografiskt och på den nya länsstyrelsens arbetssätt och effektivitet.
+            Även frågan om hur den nya myndighetsstrukturen påverkat servicen
+            till länets invånare bl.a. när det gäller tillgänglighet och handläggningstider
+            bör ingå i utvärderingen. En fråga som också bör belysas är om
+            de avsedda besparingarna av sammanslagningen uppkommit och hur
+            dessa besparingar i så fall gjorts. Uppföljningen bör däremot
+            inte omfatta frågor som avser den pågående försöksverksamheten
+            med ändrad regional ansvarsfördelning i Västra Götalands län.
+            Dessa frågor har till en del följts upp av den s.k. PARK-kommittén.
+            Med anledning av bostadsutskottets förslag har Riksdagens revisorer
+            beslutat att genomföra en förstudie. Detta arbete är nu avslutat,
+            och det har nyligen redovisats i förstudie 2001/02:19 Västra Götalands
+            län effektivt och balanserat? I förstudien redovisar revisorerna
+            bl.a. att en länsstyrelses mångfasetterade verksamhet gör det
+            svårt att bedöma verksamhetens sammantagna effektivitet. Det anges
+            vidare vara förknippat med betydande problem att på ett tillförlitligt
+            sätt koppla förändrad produktivitet eller effektivitet hos Länsstyrelsen
+            i Västra Götalands län till själva länssammanslagningen. Riksdagens
+            revisorer har mot denna bakgrund inte funnit det meningsfullt
+            att genomföra en granskning m.m. av effekterna av bildandet av
+            Västra Götlands län. Mot bakgrund av Riksdagens revisorers ställningstagande
+            är utskottet inte nu berett att förorda ytterligare utredningsinsatser
+            med den inriktning som föreslås i motion 2001/02:Bo281 (s). Motionen
+            avstyrks sålunda. Regionalt självstyrelseansvar i Stockholms län
+            Som en del i ett förslag för att bidra till utvecklingen av Stockholmsregionen
+            föreslås i motion 2001/02:Bo323 (fp) yrkande 1 att det regionala
+            självstyret skall vidgas i Stockholms län. Enligt motionen är
+            den nuvarande arbetsfördelningen mellan länsstyrelse och landsting
+            på flera områden otydlig och svårbegriplig för medborgarna. För
+            att motverka detta bör det medborgerliga inflytandet öka. Ett
+            vidgat regionalt självstyre bör därför komma till stånd genom
+            att uppgifter överförs från länsstyrelsen till landstinget. I
+            dag pågår en försöksverksamhet med ändrad regional ansvarsfördelning
+            i fyra län. De län som omfattas är Kalmar, Gotlands, Skåne och
+            Västra Götalands län. Försöksverksamheten i sin nuvarande form
+            upphör vid utgången av år 2002. Riksdagen har beslutat (bet. 2001/02:KU7)
+            att det i samtliga län fr.o.m. 2003 skall kunna bildas kommunala
+            samverkansorgan för regional utveckling. Ett sådant samverkansorgan
+            skall utgöras av ett kommunalförbund där samtliga kommuner i länet
+            är medlemmar och där även landstinget kan vara medlem. Verksamheten
+            är tänkt att pågå åren 20032006 för att sedan utvärderas. För
+            Skåne län och Västra Götalands län gäller dock att dagens försöksverksamhet
+            i respektive län kan fortsätta oförändrad även under nästa mandatperiod.
+            Samverkansorganen skall utarbeta program för länets utveckling
+            och samordna utvecklingsinsatser i länet för att genomföra programmet.
+            Det skall ha befogenhet att besluta om länsplaner för regional
+            infrastruktur och om vissa statliga medel för regional utveckling.
+            Den försöksverksamhet med nya samverkansorgan som inleds fr.o.m.
+            2003 innebär att för den regionala utvecklingen viktiga frågor
+            kan föras över från länsstyrelsen till samverkansorganet. I den
+            mån kommunerna i Stockholms län liksom landstinget i samma län
+            önskar detta blir det alltså fr.o.m. nästa år möjligt att åtminstone
+            till en del göra den överföring av uppgifter från länsstyrelsen
+            till landstinget som efterfrågas i motionen. Utskottet är mot
+            denna bakgrund inte nu berett att förorda att ytterligare uppgifter
+            omfördelas på motsvarande sätt. Motion 2001/02:Bo323 (fp) yrkande
+            1 avstyrks med hänvisning härtill.
+          </p>
+          <p>
+            Reservationer Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer. I rubriken anges inom parentes
+            vilken punkt i utskottets förslag till riksdagsbeslut som behandlas
+            i avsnittet. 1. Indelningen i län och regioner (punkt 1) (m, kd,
+            c, fp) av Knut Billing (m), Ulla-Britt Hagström (kd), Inga Berggren
+            (m), Carl-Erik Skårman (m), Rigmor Stenmark (c), Yvonne Ångström
+            (fp), Ewa Thalén Finné (m) och Harald Bergström (kd). Förslag
+            till riksdagsbeslut Vi anser att utskottets förslag under punkt
+            1 borde ha följande lydelse: Riksdagen tillkännager för regeringen
+            som sin mening vad som framförs i reservationen. Tillkännagivandet
+            görs med anledning av motion 2001/02: Bo293. Därmed avslår riksdagen
+            motion 2001/02:Bo285. Ställningstagande Redan 1999 konstaterade
+            Statskontoret att länen endast i undantagsfall utgör indelningsgrund
+            för myndigheternas regionala organisation. Situationen har sedan
+            dess inte ändrats på annat sätt än att det har tillkommit ytterligare
+            regionala indelningar som inte heller de sammanfaller med länen.
+            Sett från ett länsperspektiv är det normala därför i dag att länen
+            ingår i regioner som täcker ett större geografiskt område än det
+            egna länet. En följd av den minst sagt splittrade regionala indelningen
+            är att överblicken och transparensen i den offentliga sektorns
+            organisation blir lidande. Möjligheterna till samordning och samverkan
+            på viktiga områden försämras. Det kan rent av hävdas att den statliga
+            verksamhetens geografiska och sektoriella splittring står i motsats
+            till en för samhället optimal organisering. Även om länsstyrelserna
+            på olika sätt försökt finna nya vägar för kommunikation och samverkan
+            på regional nivå kvarstår problemen i betydande omfattning. Inte
+            ens modern informationsteknik kan helt ersätta de personliga kontakter
+            som så ofta är en förutsättning för ett fullgott samarbete eller
+            en framgångsrik samverkan. Den sammantagna effekten av utvecklingen
+            är att vi nu står med en totalt sett mindre rationell form för
+            den offentliga sektorns regionala verksamhet. Det finns i dag
+            inte någon instans som har en ordentlig överblick över de kostnader
+            och effektivitetsförluster för det svenska samhället i dess helhet
+            som är följden av detta. Det finns mot den nu skisserade bakgrunden
+            anledning att helt förutsättningslöst se över hur Sveriges framtida
+            regionala indelning skall utformas i enlighet med vad som föreslås
+            i motion 2001/02:Bo293 (m, fp). Vårt ställningstagande i denna
+            del bör riksdagen därför tillkännage för regeringen som sin mening.
+            I den mån motion 2001/02:Bo285 (s) inte kan anses tillgodosedd
+            med det vi nu föreslagit avstyrks denna motion. 2. Regionalt självstyrelseansvar
+            i Stockholms län (punkt 3) (fp) av Yvonne Ångström (fp). Förslag
+            till riksdagsbeslut Jag anser att utskottets förslag under punkt
+            3 borde ha följande lydelse: Riksdagen tillkännager för regeringen
+            som sin mening vad som framförs i reservationen. Tillkännagivandet
+            görs med anledning av motion 2001/02: Bo323 yrkande 1. Ställningstagande
+            Stockholmsregionen är otvivelaktigt landets ekonomiska motor.
+            Det innebär att också denna region måste ges förutsättningar att
+            utvecklas på ett sätt som är bra inte bara sett ur ett regionalt
+            perspektiv utan för landet i dess helhet. En förutsättning för
+            att detta skall lyckas är att det finns en förståelse för Stockholmsregionens
+            särart och betydelse för utvecklingen i Sverige. Tyvärr verkar
+            den nuvarande regeringspolitiken i motsatt riktning. En orimlig
+            skattebörda, hindrande lagstiftning och obefintliga statliga satsningar
+            leder i stället till minskade investeringar och ett otillräckligt
+            byggande, som i sin tur motverkar tillväxten. En viktig förutsättning
+            för att Stockholmsregionen skall kunna fortsätta att utvecklas
+            på ett sätt som är till gagn för hela Sverige är att det regionala
+            inflytandet ökar. Den arbetsfördelning som i dag råder mellan
+            länsstyrelse och landsting är på flera områden otydlig och svårbegriplig
+            för medborgarna. Ett vidgat regionalt inflytande kan råda bot
+            på detta. Det bör ske genom att de folkvalda organen ges ett ökat
+            direkt inflytande. Mot den nu skisserade bakgrunden bör enligt
+            min mening en överföring göras av uppgifter från länsstyrelsen
+            till det folkvalda landstinget. Genom att på detta sätt vidga
+            landstingets befogenheter skapas förutsättningar för ett rationellt
+            användande av begränsade resurser och en nödvändig demokratisk
+            förankring av ofta kontroversiella avgöranden. Vad jag nu med
+            anslutning till motion 2001/02:Bo323 (fp) yrkande 1 anfört om
+            ett vidgat regionalt självstyrelseansvar i Stockholms län bör
+            riksdagen tillkännage för regeringen som sin mening. Bilaga: Förteckning
+            över behandlade förslag
+          </p>
+          <p>
+            Motioner från allmänna motionstiden 2001/02:Bo281 av Urban Ahlin
+            och Monica Green (s): Riksdagen tillkännager för regeringen som
+            sin mening vad i motionen anförs om behovet av att utvärdera den
+            inomregionala balansen av myndigheter i Västra Götaland. 2001/02:Bo285
+            av Eva Arvidsson och Christina Pettersson (s): Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om samordning
+            mellan länsgränser och regioner i största möjliga mån. 2001/02:Bo293
+            av Anders Björck och Yvonne Ångström (m, fp): Riksdagen hos regeringen
+            begär en förutsättningslös genomgång av hur Sveriges framtida
+            regionala indelning skall se ut och förslag till hur denna skall
+            genomföras. 2001/02:Bo323 av Karin Pilsäter m.fl. (fp): 1. Riksdagen
+            tillkännager för regeringen som sin mening vad i motionen anförs
+            om regionalt självstyre.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

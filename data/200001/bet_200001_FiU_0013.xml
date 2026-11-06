@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200001_FiU_0013">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen beslutade om vissa frågor om AP-fondernas förvaltning.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Vissa frågor om AP-fonderna (FiU13)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen. Avslag på motionerna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Bifall till utskottets hemställan</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GO090</idno>
+              <title>2000-11-24</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">0</biblScope>
+              <note type="display-reference">2000-11-24</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GO090</idno>
+              <title>2000-11-23</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">0</biblScope>
+              <note type="display-reference">2000-11-23</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GO0314</idno>
+              <title>Vissa frågor om AP-fonderna</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">14</biblScope>
+              <note type="display-reference">proposition 2000/01:14 Vissa frågor om AP-fonderna</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Fi708</idno>
+              <title>Sjätte AP-fonden</title>
+              <title type="sub">av Per Landgren och Mats Odell (kd)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Fi708</biblScope>
+              <note type="display-reference">motion 2000/01:Fi708 Sjätte AP-fonden</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Fi715</idno>
+              <title>Sjätte AP-fonden</title>
+              <title type="sub">av Karin Pilsäter och Lars Leijonborg (fp)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Fi715</biblScope>
+              <note type="display-reference">motion 2000/01:Fi715 Sjätte AP-fonden</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Fi716</idno>
+              <title>Pensionspengar</title>
+              <title type="sub">av Barbro Feltzing (mp)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Fi716</biblScope>
+              <note type="display-reference">motion 2000/01:Fi716 Pensionspengar</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Fi908</idno>
+              <title>Sjätte AP-fonden</title>
+              <title type="sub">av Gunnar Hökmark m.fl. (m)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Fi908</biblScope>
+              <note type="display-reference">motion 2000/01:Fi908 Sjätte AP-fonden</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2002-09-12">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-09-12">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2000-11-09">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2000-11-09">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2000-10-27">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2000-11-24">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2000-11-23">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2000-11-23">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2000-11-21">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2000-11-21">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Finansutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2000/01:FIU13
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Vissa frågor om AP-fonderna FiU13 (prop. 2000/01:14)
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <div type="section" subtype="h2">
+            <head>
+              Innehåll
+            </head>
+            <list type="unordered">
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bsam">
+                    Sammanfattning
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bprop">
+                    Propositionen
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bmot">
+                    Motioner från allmänna motionstiden 2000
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#btext">
+                    Utskottets överväganden
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bhemst">
+                    Utskottets förslag till riksdagsbeslut
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bres">
+                    Reservationer
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bbil">
+                    Bilaga 2
+                  </ref>
+                </p>
+              </item>
+            </list>
+            <p>
+              Redogörelse för ärendet
+            </p>
+            <p>
+              I proposition 2000/01:14 Vissa frågor om AP-fonderna föreslår
+              regeringen att riksdagen antar de förslag till ändringar i lagen
+              (2000:194) om införande av ny lagstiftning för allmänna pensionsfonder
+              som lagts fram i propositionen. Regeringens förslag återges i
+              bilaga 1 och lagförslaget i bilaga 2.
+            </p>
+            <p>
+              Ingen motion har väckts med anledning av propositionen. I detta
+              sammanhang behandlar utskottet dock fyra motioner som väckts under
+              den allmänna motionstiden 2000. Förslagen i motionerna återges
+              i bilaga 1.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bsam">
+              Sammanfattning
+            </head>
+            <p>
+              I betänkandet behandlar utskottet regeringens förslag i proposition
+              2000/01:14 till ändringar i lagen (2000:194) om införande av ny
+              lagstiftning för allmänna pensionsfonder.
+            </p>
+            <p>
+              I propositionen föreslås att Tredje och Fjärde AP- fondernas
+              innehav av vissa onoterade aktier och fordringsrätter skall förvaltas
+              av Fjärde AP-fonden avskilt från övriga tillgångar. Vidare föreslås
+              att Första AP-fondens innehav av aktier i Första AP- fonden Renting
+              Aktiebolag skall förvaltas av Första AP-fonden avskilt från övriga
+              tillgångar. De medel som Första respektive Fjärde AP-fonden erhåller
+              för tillgångarna skall varje kvartal fördelas mellan Första-Fjärde
+              AP-fonderna med en fjärdedel vardera. Lagändringarna föreslås
+              träda i kraft den 1 januari 2001.
+            </p>
+            <p>
+              Ingen motion har väckts med anledning av propositionen. I betänkandet
+              behandlar utskottet dock fyra motioner som väckts under den allmänna
+              motionstiden 2000.
+            </p>
+            <p>
+              Utskottet tillstyrker regeringens förslag och avstyrker motionerna.
+            </p>
+            <p>
+              I betänkandet finns två reservationer.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bprop">
+              Propositionen
+            </head>
+            <p>
+              I proposition 2000/01:14 föreslås att riksdagen skall anta regeringens
+              förslag till lag om ändring i lagen (2000:194) om införande av
+              ny lagstiftning för allmänna pensionsfonder.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bmot">
+              Motioner från allmänna motionstiden 2000
+            </head>
+            <p>
+              2000/01:Fi708 av Per Landgren och Mats Odell (kd) vari föreslås
+              att riksdagen fattar följande beslut: Riksdagen tillkännager för
+              regeringen som sin mening vad i motionen anförs om utlandsmandat
+              för den sjätte AP-fonden.
+            </p>
+            <p>
+              2000/01:Fi715 av Karin Pilsäter och Lars Leijonborg (fp) vari
+              föreslås att riksdagen fattar följande beslut: Riksdagen beslutar
+              att Sjätte AP-fonden läggs ned och att behållningen tillförs Första
+              till Fjärde AP-fondstyrelsen.
+            </p>
+            <p>
+              2000/01:Fi716 av Barbro Feltzing (mp) vari föreslås att riksdagen
+              fattar följande beslut: Riksdagen tillkännager för regeringen
+              som sin mening vad i motionen anförs om att Premiesparfondens
+              förmögenhet från premiepensionspengarna skall läggas i svenska
+              aktier.
+            </p>
+            <p>
+              2000/01:Fi908 av Gunnar Hökmark m.fl. (m) vari föreslås att riksdagen
+              fattar följande beslut: Riksdagen beslutar att tillgångarna i
+              Sjätte AP- fonden - efter utbyte av börsnoterade aktier mot obligationer
+              - skall ingå i överföringen till staten, varefter de onoterade
+              aktierna placeras i ett riskkapitalbolag under Finansdepartementet
+              samt att detta riskkapitalbolag sedan privatiseras i enlighet
+              med vad som anförs i motionen.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="btext">
+              Utskottets överväganden
+            </head>
+            <p>
+              Vissa frågor om AP-fonderna
+            </p>
+            <p>
+              Utskottets förslag i korthet
+            </p>
+            <p>
+              Riksdagen bifaller regeringens förslag om att Tredje och Fjärde
+              AP-fondernas innehav av vissa onoterade aktier och fordringsrätter
+              skall förvaltas av Fjärde AP-fonden avskilt från övriga tillgångar
+              samt att Första AP- fondens innehav av aktier i Första AP-fonden
+              Renting Aktiebolag skall förvaltas av Första AP-fonden avskilt
+              från övriga tillgångar. Riksdagen bifaller också regeringens förslag
+              om att de medel som Första respektive Fjärde AP-fonden erhåller
+              för tillgångarna varje kvartal skall fördelas mellan Första-Fjärde
+              AP-fonderna med en fjärdedel vardera.
+            </p>
+            <p>
+              Bakgrund
+            </p>
+            <p>
+              Riksdagen fattade i mars 2000 beslut om en omorganisation av
+              Allmänna pensionsfonden som ett led i reformeringen av det allmänna
+              pensionssystemet (prop. 1999/2000:46, bet. 1999/2000:FiU19, rskr.
+              1999/2000:181). Beslutet innebär bl.a. att första-femte fondstyrelserna
+              ombildats till Första-Fjärde AP-fonderna (s.k. buffertfonder)
+              och att det införs nya mål och placeringsbestämmelser för förvaltningen.
+              Sjätte fondstyrelsen berörs inte materiellt av de nya reglerna,
+              men byter namn till Sjätte AP-fonden. Förändringen av organisationen
+              trädde i kraft den 1 maj i år medan förvaltningsmål och placeringsbestämmelser
+              börjar gälla fr.o.m. den 1 januari 2001. Riksdagen beslutade vidare
+              att Första-Fjärde AP-fonderna den 1 januari 2001 skall överföra
+              155 miljarder kronor till staten.
+            </p>
+            <p>
+              En särskild utredare fick i början av innevarande år i uppdrag
+              att lämna förslag till hur överföringen från AP-fonden till staten
+              skall vara sammansatt samt hur de kvarvarande tillgångarna skall
+              fördelas mellan Första-Fjärde AP-fonderna. Utredaren överlämnade
+              i juni 2000 delbetänkandet (SOU 2000:71) Principer för fördelning
+              av AP-fondens tillgångar.
+            </p>
+            <p>
+              I den aktuella propositionen tar regeringen upp utredningens
+              lagförslag som har betydelse för genomförandet av omfördelningen
+              av tillgångar mellan Första-Fjärde AP-fonderna den 1 januari 2001.
+            </p>
+            <p>
+              Propositionen
+            </p>
+            <p>
+              Enligt 10 § lagen (2000:194) om införande av ny lagstiftning
+              för allmänna pensionsfonder skall Tredje (den tidigare femte fondstyrelsen)
+              och Fjärde AP-fonderna den 1 januari 2001 till Sjätte AP-fonden
+              föra över sina innehav av onoterade aktier, med undantag för aktier
+              i fastighetsbolag och riskkapitalföretag. Detsamma gäller dessa
+              fonders innehav av konvertibla skuldebrev och skuldebrev förenade
+              med optionsrätt till nyteckning, som inte är utgivna för allmän
+              omsättning. Anledningen till överföringen är att de s.k. buffertfonderna
+              enligt de nya placeringsreglerna inte får inneha den här typen
+              av värdepapper. Sjätte AP-fonden skall i sin tur ersätta Tredje
+              och Fjärde AP-fonderna för överföringen.
+            </p>
+            <p>
+              Den särskilde utredarens genomgång visar emellertid att det är
+              svårt att värdera dessa innehav. Dessutom innebär överföringen
+              problem för Sjätte AP-fonden. T.ex. har Sjätte AP-fonden redan
+              i utgångsläget aktier i flera av de bolag som är aktuella i överföringen
+              från Tredje och Fjärde AP- fonderna. Ytterligare aktier i dessa
+              bolag gör att Sjätte AP-fondens innehav i bolagen blir större
+              än vad man tänkt sig. Enligt utredaren kan värderingsproblem även
+              uppstå när det gäller fördelningen av Tredje och Fjärde AP-fondens
+              befintliga innehav i onoterade riskkapitalföretag.
+            </p>
+            <p>
+              För att lösa dessa problem föreslår regeringen att Fjärde AP-fonden
+              skall förvalta Tredje och Fjärde AP-fondernas innehav av aktier,
+              konvertibla skuldebrev och skuldebrev som är förenade med optionsrätt
+              till nyteckning som inte är sådana att de får innehas enligt de
+              nya placeringsreglerna. Förvaltningen skall ske avskild från Fjärde
+              AP- fondens övriga tillgångar. Till denna särskilda förvaltning
+              får också föras Tredje och Fjärde AP- fondens innehav av onoterade
+              aktier eller andra andelar i riskkapitalföretag. De medel som
+              Fjärde AP-fonden erhåller för förvaltningen av tillgångarna skall
+              varje kvartal fördelas mellan Första-Fjärde AP-fonderna med en
+              fjärdedel vardera.
+            </p>
+            <p>
+              Enligt 8 § lagen (2000:194) om införande av ny lagstiftning för
+              allmänna pensionsfonder skall fordringsrätter som inte är utgivna
+              för allmän omsättning förvaltas av Första AP-fonden i en från
+              övriga tillgångar skild förvaltning. Anledningen är i likhet med
+              ovan att dessa tillgångar inte faller in under de nya placeringsbestämmelser
+              för Första-Fjärde AP-fonderna som genomförs den 1 januari 2001.
+            </p>
+            <p>
+              Första AP-fonden är ägare och ensam långivare till Första AP-fonden
+              Renting Aktiebolag (FARAB, FARAB hette tidigare Svenskt Fastighetskapital
+              Aktiebolag). Den särskilde utredaren ifrågasätter om innehavet
+              i FARAB omfattas av de nya placeringsbestämmelserna för Första-Fjärde
+              AP- fonderna. FARAB bedriver verksamhet i form av s.k. sale-and-lease-back
+              av fast egendom. Sale-and-lease- back-kontrakten är tidsbegränsade,
+              men löptiden för kontrakten uppgår i vissa fall till 25 år.
+            </p>
+            <p>
+              Regeringen gör i propositionen bedömningen att FARAB:s verksamhet
+              har stora likheter med de av Första AP-fonden ingångna avtalen
+              om s.k. partnerfinansiering. Sådana investeringar är inte tillåtna
+              enligt de nya placeringsreglerna. De kan knappast betecknas som
+              omsättningsbara och marknadsnoterade, vilka är några av grundprinciperna
+              i det nya placeringsreglementet.
+            </p>
+            <p>
+              Enligt regeringen bör innehavet i FARAB avvecklas. Regeringen
+              föreslår att avvecklingen bör ske genom att innehavet i FARAB
+              förs till Första AP-fondens särskilda förvaltning, bl.a. eftersom
+              det är Första AP-fonden som har den största kunskapen om bolaget.
+              De medel som Första AP-fonden erhåller vid avveckling av innhavet
+              skall, efter avdrag för kostnaderna för förvaltningen, varje kvartal
+              fördelas mellan Första-Fjärde AP-fonderna med en fjärdedel vardera.
+              Regeringen anger också i propositionen att även partnerfinansieringar
+              med tillhörande innehav av aktier bör kunna föras till den särskilda
+              förvaltningen hos Första AP-fonden.
+            </p>
+            <p>
+              De ovan beskrivna förändringarna föreslås träda i kraft den 1
+              januari 2001.
+            </p>
+            <p>
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet tillstyrker regeringens förslag om att Tredje och Fjärde
+              AP-fondernas innehav av vissa onoterade aktier och fordringsrätter
+              skall förvaltas av Fjärde AP-fonden avskilt från övriga tillgångar
+              samt att Första AP-fondens innehav av aktier i Första AP-fonden
+              Renting Aktiebolag skall förvaltas av Första AP-fonden avskilt
+              från övriga tillgångar. Utskottet tillstyrker också regeringens
+              förslag om att de medel som Första respektive Fjärde AP-fonden
+              erhåller för tillgångarna varje kvartal skall fördelas mellan
+              Första-Fjärde AP-fonderna med en fjärdedel vardera.
+            </p>
+            <p>
+              Sjätte AP-fonden
+            </p>
+            <p>
+              Utskottets förslag i korthet
+            </p>
+            <p>
+              I motion Fi708 (kd) föreslås att Sjätte AP- fonden bör få ett
+              s.k. utlandsmandat att placera en mindre del av kapitalet på utländska
+              marknader. I motionerna Fi715 (fp) och Fi908 (m) föreslås att
+              Sjätte AP-fonden skall avvecklas. Riksdagen avslår motionerna
+              Fi708 (kd), Fi715 (fp) och Fi908 (m). Jämför reservationerna 1
+              (m, fp) och 2 (kd).
+            </p>
+            <p>
+              Motionerna
+            </p>
+            <p>
+              I motion Fi708 av Per Landgren och Mats Odell (kd) anförs att
+              Sjätte AP-fonden i likhet med övriga AP- fonder bör få ett s.k.
+              utlandsmandat att placera en mindre del av kapitalet på utländska
+              marknader. Anledningen är att ett utlandsmandat ses som ett viktigt
+              led i Sjätte AP-fondens strategi plus att det innebär att pensionspengarna
+              placeras på bästa sätt bl.a. genom en större riskspridning. Sjätte
+              AP- fondens strategi är att vara med under ett bolags hela utvecklings-
+              och expansionsfas. Den sista fasen bör ofta ligga utanför Sverige
+              för att komma åt en större marknad. Utan utlandsmandat måste strategin
+              förändras. Fonden har i dag dispens att äga aktier i svenska bolag
+              som köpts av utländska bolag och som flyttar utomlands. Dispensen
+              gäller inte om ett svenskt bolag flyttar utomlands, utan endast
+              om ett utländskt bolag köper ett svenskt och det f.d. svenska
+              bolaget fortfarande finns kvar på den svenska börsen. Eftersom
+              allt fler köp i dag sker med aktier försvinner Sjätte AP-fondens
+              ägande successivt. Det är endast vid kontant betalning som Sjätte
+              AP-fonden kan vara kvar i det uppköpta bolaget.
+            </p>
+            <p>
+              I motion Fi715 av Karin Pilsäter och Lars Leijonborg (fp) anförs
+              att Sjätte AP-fonden inte ingår i fempartiöverenskommelsen om
+              det reformerade pensionssystemet och omorganiseringen av AP-fonden.
+              Sjätte AP-fonden är en främmande fågel i det nya AP- fondsystemet.
+              Fonden är en riskkapitalfond med inriktning på små och medelstora
+              företag. Enligt motionärerna skall staten inte vara en aktör inom
+              detta område. Fonden bör därför läggas ned och medlen bör ingå
+              i det s.k. överföringsbeloppet till staten.
+            </p>
+            <p>
+              I motion Fi908 av Gunnar Hökmark m.fl. (m) anförs att all erfarenhet
+              visar att staten är en olämplig ägare av riskkapitalbolag, som
+              t.ex. Sjätte AP- fonden. Sjätte AP-fonden fyller heller ingen
+              funktion i pensionssystemet. Fonden har ingen skyldighet att inleverera
+              medel till pensionssystemet. Fonden bör därför avvecklas och fondens
+              tillgångar bör ingå i den överföring på 155 miljarder kronor som
+              skall göras till staten 2001. För att undvika marknadsstörningar
+              kan innehavet av börsnoterade aktier dessförinnan bytas ut mot
+              obligationer. De onoterade aktierna förs till ett riskkapitalbolag
+              under Finansdepartementet. Bolaget bör sedan snarast privatiseras
+              på samma sätt som en gång skedde med Atle och Bure.
+            </p>
+            <p>
+              Utskottets ställningstagande
+            </p>
+            <p>
+              I motion Fi708 (kd) föreslås att Sjätte AP-fonden i likhet med
+              övriga AP-fonder bör få ett s.k. utlandsmandat att placera en
+              mindre del av kapitalet på utländska marknader. Denna fråga övervägs
+              för närvarande inom Finansdepartementet. Utskottet är därför inte
+              berett att nu föreslå någon riksdagens åtgärd med anledning av
+              motionen. Motion Fi708 (kd) avstyrks således.
+            </p>
+            <p>
+              Beträffande motionerna Fi715 (fp) och Fi908 (m) så har utskottet
+              behandlat likalydande motioner i betänkande 1999/2000:FiU19. Utskottet
+              avstyrkte motionerna med följande motivering:
+            </p>
+            <p>
+              Sjätte fondstyrelsen bildades den 1 juli 1996 och verksamheten
+              kom i gång i slutet av 1996. Fondstyrelsens inriktning är att
+              placera medel på riskkapitalmarknaden, och då framför allt i små
+              och medelstora företag. Även om fondstyrelsen endast bedrivit
+              verksamhet i drygt tre år kan utskottet, med ledning av fondstyrelsens
+              årsredovisningar och regeringens årliga utvärderingar av fondstyrelsen,
+              konstatera att avkastningen kan betecknas som tillfredsställande
+              utifrån gällande förutsättningar. Enligt utskottets mening fyller
+              sjätte AP- fondstyrelsen sin definierade roll i AP-fondsystemet
+              och det finns ingen anledning att genomgripande förändra, avveckla
+              eller sälja ut verksamheten.
+            </p>
+            <p>
+              Utskottet finner inte anledning att frångå sitt tidigare ställningstagande
+              varför motionerna Fi715 (fp) och Fi908 (m) avstyrks.
+            </p>
+            <p>
+              Sjunde AP-fonden
+            </p>
+            <p>
+              Utskottets förslag i korthet
+            </p>
+            <p>
+              Riksdagen avslår motion Fi716 (mp) om Sjunde AP-fondens placeringsregler.
+            </p>
+            <p>
+              Motionen
+            </p>
+            <p>
+              I motion Fi716 av Barbro Feltzing (mp) anförs att placeringen
+              av pensionspengarna i fonder av olika slag innebär ett risktagande.
+              De som inte väljer i premiepensionsvalet får sina pengar placerade
+              i Sjunde AP-fondens premiesparfond. I motionen anförs att enligt
+              placeringsreglerna skall 65 % av fondförmögenheten placeras i
+              utländska aktier. Detta är i Sverige intjänade pensionspengar,
+              och det kapital som skall placeras av Sjunde AP-fonden bör enligt
+              motionären i stället placeras i svenska företag.
+            </p>
+            <p>
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Sjunde AP-fonden agerar inom ramen för premiepensionssystemet.
+              Målet för Sjunde AP-fondens förvaltning är att Sjunde AP-fonden
+              skall förvalta fondmedel så att de ger så god avkastning som möjligt.
+              Det målet gäller såväl för Premievalsfonden som Premiesparfonden.
+              För förvaltningen av icke- väljarnas medel i Premiesparfonden
+              gäller dessutom att den totala risknivån skall vara låg.
+            </p>
+            <p>
+              Utgångspunkten för Sjunde AP-fondens förvaltning är att den så
+              långt möjligt skall vara konkurrensneutral i förhållande till
+              de privata fondförvaltarna som skall placera premiepensionskapital.
+              För att uppnå likvärdiga förutsättningar för förvaltningen har
+              bestämmelserna i lagen (1990:1114) om värdepappersfonder i allt
+              väsentligt gjorts tillämpliga på Sjunde AP-fonden och dess förvaltning.
+              Detta innebär bl.a. att samma placeringsregler som gäller för
+              de privata fondbolagen också gäller för Sjunde AP-fondens placeringar.
+              Enligt placeringsreglerna får medel placeras bl.a. i aktier som
+              är noterade vid en svensk eller utländsk börs.
+            </p>
+            <p>
+              I motionen påstås att Sjunde AP-fonden måste placera en andel
+              i utländska aktier. I placeringsreglerna för Sjunde AP-fonden
+              finns dock inte några sådana krav. Utskottet avstyrker motion
+              Fi716 (mp).
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bhemst">
+              Utskottets förslag till riksdagsbeslut
+            </head>
+            <p>
+              Med hänvisning till de motiveringar som framförs under Utskottets
+              överväganden föreslår utskottet att riksdagen fattar följande
+              beslut:
+            </p>
+            <p>
+              1. Vissa frågor om AP-fonderna
+            </p>
+            <p>
+              Riksdagen antar regeringens förslag till lag om ändring i lagen
+              (2000:194) om införande av ny lagstiftning för allmänna pensionsfonder.
+              Därmed bifaller riksdagen proposition 2000/01:14.
+            </p>
+            <p>
+              2. Sjätte AP-fonden
+            </p>
+            <p>
+              Riksdagen avslår motionerna 2000/01:Fi708, 2000/01:Fi715 och
+              2000/01:Fi908.
+            </p>
+            <p>
+              Reservation 1 (m, fp)
+            </p>
+            <p>
+              Reservation 2 ( kd)
+            </p>
+            <p>
+              3. Sjunde AP-fonden
+            </p>
+            <p>
+              Riksdagen avslår motion 2000/01:Fi716.
+            </p>
+            <p>
+              Stockholm den 9 november 2000
+            </p>
+            <p>
+              På finansutskottets vägnar
+            </p>
+            <p>
+              Jan Bergqvist
+            </p>
+            <p>
+              Följande ledamöter har deltagit i beslutet: Jan Bergqvist (s),
+              Mats Odell (kd), Gunnar Hökmark (m), Bengt Silfverstrand (s),
+              Lisbet Calner (s), Lennart Hedquist (m), Sonia Karlsson (s), Carin
+              Lundberg (s), Kjell Nordström (s), Siv Holma (v), Per Landgren
+              (kd), Anna Åkerhielm (m), Yvonne Ruwaida (mp), Lena Ek (c), Gunnar
+              Axén (m), Lars Bäckström (v) och Bo Könberg (fp).
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bres">
+              Reservationer
+            </head>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservationer. I rubriken anges inom parentes
+              vilken punkt i utskottets förslag till riksdagsbeslut som behandlas
+              i avsnittet.
+            </p>
+            <p>
+              1. Sjätte AP-fonden (punkt 2) (m, fp)
+            </p>
+            <p>
+              av Gunnar Hökmark (m), Lennart Hedquist (m), Anna Åkerhielm (m),
+              Gunnar Axén (m) och Bo Könberg (fp).
+            </p>
+            <p>
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 2 borde
+              ha följande lydelse:
+            </p>
+            <p>
+              2. Riksdagen tillkännager för regeringen som sin mening vad som
+              framförs i reservation 1. Därmed bifaller utskottet delvis motionerna
+              2000/01:Fi715 och 2000/01:Fi908 samt avslår motion 2000/01:Fi708.
+            </p>
+            <p>
+              Ställningstagande
+            </p>
+            <p>
+              Vi anser att Sjätte AP-fonden är ett främmande inslag i pensionssystemet.
+              Sjätte AP-fonden ingår inte i fempartiuppgörelsen om det reformerade
+              pensionssystemet. Därtill kommer att Sjätte AP- fonden inte fyller
+              någon funktion för att trygga de framtida pensionerna. Vi anser
+              att Sjätte AP-fonden är en kvarleva från fondsocialistiska föreställningar
+              och tron på fördelarna med statligt ägande.
+            </p>
+            <p>
+              Den svenska aktiemarknadens utveckling visar med tydlighet att
+              det inte finns något behov av statliga investeringar genom offentliga
+              fonder. Erfarenheterna av statliga företagsinvesteringar är entydigt
+              negativa. Statligt fondägande motverkar också en angelägen utveckling
+              mot personligt ägande.
+            </p>
+            <p>
+              Mot den ovan redovisade bakgrunden anser vi att Sjätte AP-fonden
+              bör avvecklas. Tillgångarna i fonden bör ingå i det belopp som
+              skall föras över från AP-fonden till staten. Vi föreslår att riksdagen
+              tillkännager för regeringen som sin mening vad vi har framfört
+              i reservationen om Sjätte AP- fonden. Detta innebär att riksdagen
+              delvis bifaller motionerna Fi715 (fp) och Fi908 (m) samt avslår
+              motion Fi708 (kd).
+            </p>
+            <p>
+              2. Sjätte AP-fonden (punkt 2) (kd)
+            </p>
+            <p>
+              av Mats Odell och Per Landgren (båda kd).
+            </p>
+            <p>
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 2 borde
+              ha följande lydelse:
+            </p>
+            <p>
+              2. Riksdagen tillkännager för regeringen som sin mening vad som
+              framförs i reservation 2. Därmed bifaller utskottet motion 2000/01:Fi708
+              samt avslår motionerna 2000/01:Fi715 och 2000/01:Fi908.
+            </p>
+            <p>
+              Ställningstagande
+            </p>
+            <p>
+              Vi anser att Sjätte AP-fonden i likhet med övriga AP-fonder bör
+              få ett s.k. utlandsmandat att placera en mindre del av kapitalet
+              på utländska marknader. Vi anser att ett utlandsmandat är ett
+              viktigt led i Sjätte AP-fondens strategi samt att det innebär
+              att pensionspengarna placeras på bästa sätt bl.a. genom en större
+              riskspridning. Sjätte AP-fondens strategi är att vara med under
+              ett bolags hela utvecklings- och expansionsfas. Den sista fasen
+              bör ofta ligga utanför Sverige för att komma åt en större marknad.
+              Utan utlandsmandat måste strategin förändras. Fonden har i dag
+              dispens att äga aktier i svenska bolag som köpts av utländska
+              bolag och som flyttar utomlands. Dispensen gäller inte om ett
+              svenskt bolag flyttar utomlands, utan endast om ett utländskt
+              bolag köper ett svenskt bolag och det f.d. svenska bolaget fortfarande
+              finns kvar på den svenska börsen. Eftersom alltfler köp i dag
+              sker med aktier försvinner Sjätte AP-fondens ägande successivt.
+              Det är endast vid kontant betalning som Sjätte AP-fonden kan vara
+              kvar i det uppköpta bolaget.
+            </p>
+            <p>
+              Vi föreslår att riksdagen tillkännager för regeringen som sin
+              mening vad vi har framfört i reservationen om ett utlandsmandat
+              för Sjätte AP- fonden. Detta innebär att riksdagen bifaller motion
+              Fi708 (kd) samt avslår motionerna Fi715 (fp) och Fi908 (m).
+            </p>
+            <p>
+              Bilaga 1
+            </p>
+            <p>
+              Förteckning över behandlade förslag
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bbil">
+              Bilaga 2
+            </head>
+            <p>
+              Regeringens lagförslag
+            </p>
+            <p>
+              Förslag till lag om ändring i lagen (2000:194) om införande av
+              ny lagstiftning för allmänna pensionsfonder
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

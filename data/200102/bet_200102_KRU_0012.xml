@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_KRU_0012">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen avslog motioner från allmänna motionstiden 2000 och 2001 om arkivfrågor.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Motioner om arkivfrågor (KrU12)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0987</idno>
+              <title>2002-03-22</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">87</biblScope>
+              <note type="display-reference">2002-03-22</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0987</idno>
+              <title>2002-03-22</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">87</biblScope>
+              <note type="display-reference">2002-03-22</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Kr260</idno>
+              <title>Riksarkivets/SVAR:s verksamhet i Sollefteå</title>
+              <title type="sub">av Agneta Lundberg m.fl. (S)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Kr260</biblScope>
+              <note type="display-reference">motion 2000/01:Kr260 Riksarkivets/SVAR:s verksamhet i Sollefteå</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Kr261</idno>
+              <title>Fast statligt ansvar för SVAR</title>
+              <title type="sub">av Agneta Lundberg m.fl. (S)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Kr261</biblScope>
+              <note type="display-reference">motion 2000/01:Kr261 Fast statligt ansvar för SVAR</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Kr262</idno>
+              <title>SVAR i Ramsele</title>
+              <title type="sub">av Agneta Lundberg m.fl. (S)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Kr262</biblScope>
+              <note type="display-reference">motion 2000/01:Kr262 SVAR i Ramsele</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Kr263</idno>
+              <title>Centrum för mediekonvertering</title>
+              <title type="sub">av Hans Stenberg m.fl. (S)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Kr263</biblScope>
+              <note type="display-reference">motion 2000/01:Kr263 Centrum för mediekonvertering</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Kr321</idno>
+              <title>Landsarkiv i Växjö</title>
+              <title type="sub">av Eskil Erlandsson och Erik Arthur Egervärn (C)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Kr321</biblScope>
+              <note type="display-reference">motion 2000/01:Kr321 Landsarkiv i Växjö</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Kr346</idno>
+              <title>Liberal kulturpolitik</title>
+              <title type="sub">av Lennart Kollmats och Kenth Skårvik (FP)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Kr346</biblScope>
+              <note type="display-reference">motion 2000/01:Kr346 Liberal kulturpolitik</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Kr284</idno>
+              <title>Satsning på Ark-IT i Fränsta</title>
+              <title type="sub">av Agneta Lundberg och Hans Stenberg (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Kr284</biblScope>
+              <note type="display-reference">motion 2001/02:Kr284 Satsning på Ark-IT i Fränsta</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Kr366</idno>
+              <title>Arkivinformation med modern teknik</title>
+              <title type="sub">av Agneta Lundberg och Hans Stenberg (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Kr366</biblScope>
+              <note type="display-reference">motion 2001/02:Kr366 Arkivinformation med modern teknik</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Kr367</idno>
+              <title>Digitalisering av SVAR:s arkivmaterial</title>
+              <title type="sub">av Agneta Lundberg och Hans Stenberg (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Kr367</biblScope>
+              <note type="display-reference">motion 2001/02:Kr367 Digitalisering av SVAR:s arkivmaterial</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Kr368</idno>
+              <title>Regional arkivverksamhet</title>
+              <title type="sub">av Lisbeth Staaf-Igelström (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Kr368</biblScope>
+              <note type="display-reference">motion 2001/02:Kr368 Regional arkivverksamhet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Kr370</idno>
+              <title>Dokumentation av Kirunasvenskarna</title>
+              <title type="sub">av Carina Hägg och Urban Ahlin (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Kr370</biblScope>
+              <note type="display-reference">motion 2001/02:Kr370 Dokumentation av Kirunasvenskarna</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Kr371</idno>
+              <title>Vård av det skrivna kulturarvet</title>
+              <title type="sub">av Agneta Lundberg och Hans Stenberg (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Kr371</biblScope>
+              <note type="display-reference">motion 2001/02:Kr371 Vård av det skrivna kulturarvet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Kr372</idno>
+              <title>Sockenkataloger</title>
+              <title type="sub">av Christer Skoog m.fl. (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Kr372</biblScope>
+              <note type="display-reference">motion 2001/02:Kr372 Sockenkataloger</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Kr419</idno>
+              <title>Kultur med mångfald och kvalitet</title>
+              <title type="sub">av Ana Maria Narti m.fl. (FP)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Kr419</biblScope>
+              <note type="display-reference">motion 2001/02:Kr419 Kultur med mångfald och kvalitet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Kr422</idno>
+              <title>Kulturpolitik</title>
+              <title type="sub">av Matz Hammarström m.fl. (MP)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Kr422</biblScope>
+              <note type="display-reference">motion 2001/02:Kr422 Kulturpolitik</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2002-03-14">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-03-08">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-03-01">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-02-21">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-02-21">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-01-22">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-01-22">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-03-22">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-03-22">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-03-22">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-03-22">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2002-03-21">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-03-20">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-03-20">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Kulturutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:KRU12
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Arkiv
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I detta betänkande behandlar utskottet 17 motionsyrkanden
+            väckta under allmänna motionstiderna 2000/01 och 2001/02. Yrkandena
+            gäller resursförstärkningar till arkiven, personalutveckling,
+            behovet av kontinuitet i verksamheten, dokumentation av de s.k.
+            kirunasvenskarnas liv, nytt landsarkiv i Växjö samt frågan om
+            att säkra det elektroniska kulturarvet. Utskottet avstyrker samtliga
+            motionsyrkanden. Fem reservationer och två särskilda yttranden
+            har avgivits.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Ökade resurser för
+            utveckling av Svensk arkivinformation (SVAR) Riksdagen avslår
+            motionerna 2000/01:Kr260, 2000/01:Kr261, 2000/01: Kr262, 2000/01:Kr263,
+            2001/02:Kr284, 2001/02:Kr366, 2001/02:Kr367 och 2001/02:Kr371.
+            Reservation 1 (c) 2. Digitalisering av sockenkataloger Riksdagen
+            avslår motion 2001/02:Kr372. 3. Pedagogiskt utvecklingsarbete
+            m.m. vid landsarkiven Riksdagen avslår motion 2001/02:Kr422 yrkande
+            49. Reservation 2 (mp) 4. Landsarkiv i Växjö Riksdagen avslår
+            motion 2000/01:Kr321. Reservation 3 (c) 5. Regional arkivverksamhet
+            Riksdagen avslår motion 2001/02:Kr368. 6. Arkivansvarig personal
+            vid statliga myndigheter Riksdagen avslår motionerna 2000/01:Kr346
+            yrkande 12 och 2001/02: Kr419 yrkande 8. Reservation 4 (fp) 7.
+            Dokumentation av kirunasvenskarnas liv Riksdagen avslår motion
+            2001/02:Kr370. 8. Arkivering av e-post Riksdagen avslår motionerna
+            2000/01:Kr346 yrkande 10 och 2001/02: Kr419 yrkande 10. Reservation
+            5 (fp) Stockholm den 21 februari 2002 På kulturutskottets vägnar
+            Inger Davidson Följande ledamöter har deltagit i beslutet: Inger
+            Davidson (kd), Åke Gustavsson (s), Elisabeth Fleetwood (m), Agneta
+            Ringman (s), Charlotta L Bjälkebring (v), Lennart Fridén (m),
+            Eva Arvidsson (s), Jan Backman (m), Paavo Vallius (s), Lars Wegendal
+            (s), Peter Pedersen (v), Dan Kihlström (kd), Ewa Larsson (mp),
+            Birgitta Sellén (c), Ana Maria Narti (fp), Hillevi Larsson (s)
+            och Anne- Katrine Dunker (m). Bakgrund Enligt arkivlagen (1990:782)
+            är myndigheternas arkiv en del av det nationella kulturarvet.
+            Dessa arkiv skall bevaras, hållas ordnade och vårdas så att de
+            tillgodoser rätten att ta del av allmänna handlingar, behovet
+            av information för rättsskipningen och förvaltningen samt forskningens
+            behov. Riksarkivet och landsarkiven är statliga arkivmyndigheter
+            med särskilt ansvar för den statliga arkivverksamheten och för
+            arkivvården i landet. I syfte att främja den regionala arkivverksamheten
+            runtom i landet och att bättre integrera folkrörelsearkiven i
+            den regionala kulturpolitiken disponerar Riksarkivet medel under
+            ett särskilt anslag för regional arkivverksamhet som fördelas
+            av Riksarkivets nämnd för enskilda arkiv. Regeringen har tillkallat
+            en särskild utredare med uppgift att se över vissa arkivfrågor
+            (dir. 2000:104). Utredaren skall bl.a. överväga frågor som rör
+            det statliga arkivväsendets organisation, samverkan mellan statlig
+            och kommunal arkivverksamhet, enskilda arkiv samt användandet
+            av informationsteknik och digitalisering. Vidare skall en översyn
+            göras av lämpliga former för bevarande av dokument på minoritetsspråken.
+            Utredaren skall redovisa sitt uppdrag senast den 31 maj 2002.
+            Regeringen har också tillkallat en särskild utredare som skall
+            se över de politiska målen inom området för elektronisk kommunikation
+            (dir. 2001:32). Arbetet skall bedrivas mot bakgrund av såväl den
+            tekniska och marknadsmässiga utvecklingen på området som de rättsakter
+            som kommer att antas inom Europeiska unionen. Utredaren skall
+            också överväga och ge förslag på den myndighetsstruktur som är
+            lämplig med anledning av de förslag till lagstiftning som utredaren
+            lägger fram, erfarenheterna av nuvarande organisation och den
+            tekniska utveckling som har skett och kan förutses i framtiden
+            samt föreslå den författningsreglering som behövs för ändamålet.
+            I fråga om myndighetsstruktur nämns ett antal myndigheter, däribland
+            Riksarkivet, som skulle kunna beröras. Uppdraget skall slutredovisas
+            senast den 31 december 2002. Utskottets senaste betänkande avseende
+            allmänna motioner om arkiv (1999/2000:KrU12) debatterades i riksdagen
+            i april 2000.
+          </p>
+          <p>
+            2001/02 KrU12
+          </p>
+          <p>
+            Utskottets överväganden Utskottets förslag i korthet Riksdagen
+            bör avslå motionerna om - ökade resurser för utveckling av Svensk
+            arkivinformation (SVAR), jämför reservation 1 (c), - ökade resurser
+            till digitalisering av sockenkataloger, - landsarkivens personalutveckling,
+            jämför reservation 2 (mp), - landsarkiv i Växjö, jämför reservation
+            3 (c), - ökade resurser till de regionala arkiven, - arkivansvarig
+            personal vid statliga arkivmyndigheter, jämför reservation 4 (fp),
+            - dokumentation av kirunasvenskarnas liv och - arkivering av e-post,
+            jämför reservation 5 (fp). Motionerna Motionärerna bakom motionerna
+            2000/01:Kr260 (s), 2000/01:Kr261 (s), 2000/01:Kr262 (s), 2000/01:Kr263
+            (s), 2001/02:Kr284 (s), 2001/02:Kr366 (s), 2001/02:Kr367 (s),
+            2001/02:Kr371 (s) och 2001/02:Kr372 (s) föreslår att verksamheten
+            vid Riksarkivets byrå för svensk arkivinformation (SVAR), förlagd
+            till vissa kommuner i Västernorrlands län, skall få resursförstärkningar
+            för att på olika sätt kunna utöka och förbättra arkivverksamheten
+            samt skapa fler arbetstillfällen i regionen. I motionerna föreslås
+            bl.a. att en ny anläggning skall byggas upp för digitalisering
+            av SVAR:s samlingar av kyrkoarkiv m.m. som nu finns på mikrokort.
+            Vidare föreslås att SVAR skall få ansvar för att vårda det skrivna
+            kulturarvet, vilket anges kunna ge 150 personer arbete och kosta
+            50 miljoner kronor per år i tio år. I några av motionerna föreslås
+            även att arkivverksamheten skall få ett ökat statligt anslag inom
+            utgiftsområde 17 (Kultur, medier, trossamfund och fritid), som
+            således inte skall vara knutet till arbetsmarknadsåtgärder. Syftet
+            med detta förslag är att bygga upp en långsiktig arkivkompetens
+            med välutbildad personal vid SVAR, bl.a. mot bakgrund av att det
+            förestår dels ett teknikskifte, dels ett generationsskifte bland
+            personalen. Motionärerna bakom motion 2001/02:Kr422 (mp) yrkande
+            49 anser att anspråken på landsarkivens verksamhet har ökat och
+            föreslår bl.a. att arkivpersonalens pedagogiska utvecklingsarbete
+            skall stödjas. Detta skall, enligt motionärerna, riksdagen ge
+            regeringen till känna. I motion 2000/01:Kr321 (c) föreslås att
+            riksdagen ger regeringen till känna att ett landsarkiv bör etableras
+            i Växjö. I motion 2001/02:Kr368 (s) framhålls att de regionala
+            arkiven utgör en omistlig resurs för upprätthållandet av lokalsamhällets
+            och regionens folkrörelse- och föreningshistoria. För att vårda
+            och bevara arkivmaterialet vill motionären att arkiven skall få
+            ekonomiska resurser så att tillräckligt med arkivutbildad, akademiskt
+            skolad, personal skall kunna anställas. Detta bör enligt motionären
+            riksdagen ge regeringen till känna. I motionerna 2000/01:Kr346
+            (fp) yrkande 12 och 2001/02:Kr419 (fp) yrkande 8 föreslås att
+            riksdagen begär att regeringen ser över personalsammansättningen
+            inom de statliga myndigheter som ansvarar för olika arkiv. Bakgrunden
+            till förslaget är att den nya tekniken har öppnat fler möjligheter
+            för allmänheten att ta del av arkivmaterial. I motion 2001/02:Kr370
+            (s) föreslås att riksdagen begär att regeringen ger Emigrantinstitutet
+            i Växjö i uppdrag att dokumentera de s.k. kirunasvenskarnas liv.
+            Problemet med arkivering av elektronisk post framhålls i motionerna
+            2000/01:Kr346 (fp) yrkande 10 och i 2001/02:Kr419 (fp) yrkande
+            10. Motionärerna föreslår att riksdagen skall ge regeringen till
+            känna att ett handlingsprogram skall tas fram i syfte att minimera
+            riskerna för att elektroniskt lagrad information om vårt kulturarv
+            raderas. Utskottets ställningstagande Svensk arkivinformation
+            (SVAR) är en byrå inom myndigheten Riksarkivet. SVAR:s verksamhet
+            finns huvudsakligen i Västernorrlands län, bl.a. i Ramsele. Utskottet
+            lämnade en ingående redovisning av SVAR:s verksamhet och av utskottets
+            ståndpunkter härvidlag vid 1998/99 års riksmöte (bet. 1998/99:KrU4
+            s. 3). Utskottet behandlade motioner om SVAR även vid följande
+            riksmöte (bet. 1999/2000:KrU12 s. 3). Utskottet har tidigare konstaterat
+            att SVAR till stor del är beroende av avgiftsintäkter och bidrag
+            från arbetsmarknadsbudgeten. Detta leder till att kontinuiteten
+            kan vara svår att upprätthålla, vilket kan få negativa konsekvenser
+            för både verksamheten och de anställda. SVAR har - utöver sin
+            insats på kulturens område - en avsevärd regionalpolitisk och
+            arbetsmarknadspolitisk betydelse. Utskottet vill dock åter understryka
+            att SVAR:s berättigande som arkivinstitution inte är avhängigt
+            av dess goda effekter på arbetsmarknads- och regionalpolitikens
+            områden. Utskottet vill, liksom vid tidigare tillfällen, framhålla
+            att det ankommer på Riksarkivet att - inom ramen för tillgängliga
+            resurser och med utgångspunkt i uppsatta mål för arkivverksamheten
+            - ta ställning till avvägningen av resurser mellan verksamhetsgrenarna
+            och enheterna inom myndigheten. Utskottet förutsätter att Riksarkivet
+            därvid tar hänsyn bl.a. till att gjorda investeringar utnyttjas
+            effektivt och att tillgängligheten till kulturarvet tillgodoses
+            med för ändamålet lämplig teknik. Arkivarbete - var det än utförs
+            - kräver kontinuitet och välutbildad arbetskraft, inte minst för
+            att kunna möta de många krav och utmaningar som den nya tekniken
+            medför. Även i dessa frågor åvilar ansvaret Riksarkivet. Utskottet
+            förutsätter att regeringen, med beaktande av det försvarspoli-tiska
+            beslutet våren 2000 (prop. 1999/2000:30, bet. 1999/2000:FöU2,
+            rskr. 1999/2000:168), tar hänsyn till behovet av sysselsättning
+            i Västernorrlands län, varvid långsiktig arkivverksamhet bör vara
+            en del i övervägandena. I Arkivutredningens arbete ingår att komma
+            med förslag till åtgärder som skulle kunna underlätta för nya
+            grupper av användare att ta del av arkiven. Vidare skall utredningen
+            uppmärksamma att arkivmyndigheterna ställs inför nya frågeställningar
+            i och med den snabba utvecklingen av informationsteknik och digitalisering,
+            vilket även innebär nya och ökade krav på kompetens hos dem som
+            hanterar arkivmaterialet. Resultaten av utredningens arbete bör
+            inte föregripas genom ett uttalande från riksdagen. Mot bakgrund
+            av det anförda avstyrker utskottet motionerna 2000/01: Kr260 (s),
+            2000/01:Kr261 (s), 2000/01:Kr262 (s), 2000/01:Kr263 (s), 2001/02:Kr284
+            (s), 2001/02:Kr366 (s), 2001/02:Kr367 (s), 2001/02:Kr371 (s) och
+            2001/02:Kr372 (s). Önskemål om att stödet till landsarkiven bör
+            utvecklas allteftersom verksamheten utvecklas bör ställas mot
+            andra angelägna behov av medel inom kultursektorn. Detta kan göras
+            i den kommande budgetprocessen. Motion 2001/02: Kr422 (mp) yrkande
+            49 avstyrks. Beträffande förslaget i motion 2000/01:Kr321 (c)
+            att etablera ett landsarkiv i Växjö hänvisar utskottet till sitt
+            tidigare ställningstagande (senast i bet. 1998/99:KrU4 s. 3),
+            nämligen att det ankommer på Riksarkivet att planera för nya landsarkiv.
+            Utskottet står fast vid denna uppfattning och avstyrker sålunda
+            motion 2000/01:Kr321 (c). Önskemål om ytterligare medel till regionala
+            arkiv bör ställas mot andra angelägna behov av medel inom kultursektorn,
+            vilket får göras i den kommande budgetprocessen. Mot bakgrund
+            av det anförda avstyrker utskottet motion 2001/02:Kr368 (s). Den
+            tekniska utvecklingen förändrar villkoren för mottagande, bevarande,
+            vård, gallring och tillhandahållande av handlingar, vilket innebär
+            nya krav på arkivansvarig personal inom olika statliga myndigheter.
+            Arkivutredningen skall lämna förslag till hur myndigheterna på
+            bästa sätt kan rustas för detta. Utskottet finner inte skäl att
+            föregripa utredningens förslag, varför utskottet avstyrker motionerna
+            2000/01:Kr346 (fp) yrkande 12 och 2001/02:Kr419 (fp) yrkande 8.
+            Bidrag till ett projekt som syftar till att dokumentera de s.k.
+            kirunasvenskarnas liv och okända historia kan - liksom bidrag
+            till arkivprojekt av annat slag - sökas hos Riksarkivets nämnd
+            för enskilda arkiv. Utskottet finner inte anledning att ändra
+            på denna ordning, varför motion 2001/02:Kr370 (s) avstyrks. Riksarkivet
+            har utfärdat riktlinjer för hur myndigheter skall förfara med
+            information som sänds via e-post. Många myndigheter har dessutom
+            fört in instruktioner om detta i sina egna föreskrifter. Enskilda
+            arkiv har möjlighet att tillämpa dessa riktlinjer i den utsträckning
+            de finner lämpligt. Arkivutredningen skall bl.a. lämna förslag
+            till hur nya medier skall kunna tas emot, bevaras, vårdas och
+            göras tillgängliga. Utredningen om ny lagstiftning och myndighetsorganisation
+            inom området elektronisk kommunikation (dir. 2001:32) skall se
+            över de politiska målen inom området för elektronisk kommunikation.
+            Kungliga Biblioteket (KB) har nyligen påbörjat ett projekt som
+            siktar till långsiktigt bevarande av elektronisk information (Kulturarw3).
+            Målet för projektet är att utarbeta metoder att samla, bevara
+            och tillhandahålla svenska elektroniska dokument, som finns tillgängliga
+            online i en sådan form att de kan betraktas som publicerade. Genom
+            projektet lägger KB också grunden till en samling av den svenska
+            elektroniska utgivningen för vår tid och för kommande generationer.
+            Utskottet anser inte att det i nuläget finns något behov av att
+            utarbeta sådana handlingsprogram för hur e-postad information
+            skall bevaras som föreslås i motionerna. Mot bakgrund av det anförda
+            avstyrker utskottet motionerna 2000/01:Kr346 (fp) yrkande 10 och
+            i 2001/02:Kr419 (fp) yrkande 10.
+          </p>
+          <p>
+            Reservationer Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer. I rubriken anges inom parentes
+            vilken punkt i utskottets förslag till riksdagsbeslut som behandlas
+            i avsnittet. 1. Ökade resurser för utveckling av Svensk arkivinformation
+            (SVAR) (punkt 1) av Birgitta Sellén (c). Förslag till riksdagsbeslut
+            Jag anser att utskottets förslag under punkt 1 borde ha följande
+            lydelse: 1. Riksdagen tillkännager för regeringen som sin mening
+            vad som framförs i reservation 1. Därmed bifaller riksdagen delvis
+            motionerna 2000/01:Kr260, 2000/01:Kr261, 2000/01:Kr262, 2000/01:Kr263,
+            2001/02:Kr284, 2001/02: Kr366, 2001/02:Kr367 och 2001/02:Kr371.
+            Ställningstagande Jag anser att verksamheten vid Svensk arkivinformation
+            (SVAR) har betytt mycket för Västernorrlands län. Sysselsättning
+            har skapats, serviceunderlaget har utökats och framtidstron har
+            stärkts. Sedan projektet blivit permanent 1984 har det utvecklats
+            väl. Jag anser att SVAR bör tillförsäkras ett långsiktigt statligt
+            stöd inom ramen för kulturbudgeten för att öka sysselsättningen
+            i Västernorrlands län och för att bygga upp en permanent verksamhet
+            med kompetent personal. Vårt kulturarv förstörs om det inte tas
+            om hand på rätt sätt. För övrigt är det viktigt att skapa fler
+            arbetstillfällen i Sollefteåtrakten, och jag vill påminna om det
+            ansvar som regeringen har åtagit sig för att erbjuda statliga
+            anställningar till Ådalen, som ersättning för de arbetstillfällen
+            som gick förlorade i samband med försvarsnedläggningen i Sollefteå.
+            Jag föreslår att riksdagen skall tillkännage för regeringen vad
+            jag här framfört och därmed delvis bifalla motionerna 2000/01:Kr260
+            (s), 2000/01:Kr261 (s), 2000/01:Kr262 (s), 2000/01: Kr263 (s),
+            2001/02:Kr284 (s), 2001/02:Kr366 (s), 2001/02:Kr367 (s) och 2001/02:Kr371
+            (s). 2. Pedagogiskt utvecklingsarbete m.m. vid landsarkiven (punkt
+            3) av Ewa Larsson (mp). Förslag till riksdagsbeslut Jag anser
+            att utskottets förslag under punkt 3 borde ha följande lydelse:
+            3. Riksdagen tillkännager för regeringen som sin mening vad som
+            framförs i reservation 2. Därmed bifaller riksdagen motion 2001/02:Kr422
+            yrkande 49. Ställningstagande Jag anser att stödet till landsarkiven
+            behöver förstärkas. Landsarkivens huvuduppgifter är att bevara
+            och vårda arkivmaterial och göra det tillgängligt för forskning
+            och för allmänheten. Anspråken på landsarkivens aktiviteter för
+            att levandegöra arkivmaterialet har ökat, men det saknas ekonomiska
+            resurser. Jag föreslår att riksdagen skall tillkännage för regeringen
+            vad jag här framfört och därmed bifalla motion 2001/02:Kr422 (mp)
+            yrkande 49. 3. Landsarkiv i Växjö (punkt 4) av Birgitta Sellén
+            (c). Förslag till riksdagsbeslut Jag anser att utskottets förslag
+            under punkt 4 borde ha följande lydelse: 4. Riksdagen tillkännager
+            för regeringen som sin mening vad som framförs i reservation 3.
+            Därmed bifaller riksdagen motion 2000/01:Kr321. Ställningstagande
+            Jag anser att Växjö uppfyller Riksarkivets kriterier för etablering
+            av landsarkiv. Vid Växjö universitet bedrivs en omfattande forskning
+            i historia, ett ämne som sedan länge haft en profilering på lokal
+            och regional historia. Det är en stor nackdel att det lokala arkivmaterialet
+            finns i Vadstena, som är svårt att nå med allmänna kommunikationer
+            från universitetsstaden. Växjö har dessutom en riksinstitution
+            på arkivområdet, nämligen Emigrantinstitutet. Jag anser därför
+            att ett landsarkiv bör etableras i Växjö. Jag föreslår att riksdagen
+            skall tillkännage för regeringen vad jag här framfört och därmed
+            bifalla motion 2000/01:Kr321 (c). 4. Arkivansvarig personal vid
+            statliga myndigheter (punkt 6) av Ana Maria Narti (fp). Förslag
+            till riksdagsbeslut Jag anser att utskottets förslag under punkt
+            6 borde ha följande lydelse: 6. Riksdagen tillkännager för regeringen
+            som sin mening vad som framförs i reservation 4. Därmed bifaller
+            riksdagen motionerna 2000/01:Kr346 yrkande 12 och 2001/02:Kr419
+            yrkande 8. Ställningstagande Den tekniska utvecklingen förändrar
+            villkoren för mottagande, bevarande, vård, gallring och tillhandahållande
+            av handlingar. Eftersom detta innebär att nya krav ställs på arkivansvarig
+            personal inom olika statliga myndigheter anser jag att regeringen
+            bör se över personalsammansättningen både till antal och kompetens
+            inom dessa myndigheter. Jag föreslår att riksdagen med bifall
+            till motionerna 2000/01:Kr346 (fp) yrkande 12 och 2001/02:Kr419
+            (fp) yrkande 8 tillkännager för regeringen som sin mening vad
+            jag här framfört. 5. Arkivering av e-post (punkt 8) av Ana Maria
+            Narti (fp). Förslag till riksdagsbeslut Jag anser att utskottets
+            förslag under punkt 8 borde ha följande lydelse: 8. Riksdagen
+            tillkännager för regeringen som sin mening vad som framförts i
+            reservation 5. Därmed bifaller riksdagen motionerna 2000/01:Kr346
+            yrkande 10 och 2001/02:Kr419 yrkande 10. Ställningstagande Jag
+            anser att ett handlingsprogram bör tas fram för att minimera riskerna
+            för att skriftlig information som skickas via e-post raderas.
+            Vårt gemensamma kulturarv, också det som finns i elektronisk form,
+            måste vårdas. Jag föreslår att riksdagen med bifall till motionerna
+            2000/01:Kr346 (fp) yrkande 10 och 2001/02:Kr419 (fp) yrkande 10
+            tillkännager för regeringen som sin mening vad jag här framfört.
+            Särskilda yttranden Utskottets beredning av ärendet har föranlett
+            följande särskilda yttranden. I rubriken anges inom parentes vilken
+            punkt i utskottets förslag till riksdagsbeslut som behandlas i
+            avsnittet. 1. Regional arkivverksamhet (punkt 5) Inger Davidson
+            och Gunilla Tjernberg (båda kd) anför: Vi vill påminna om att
+            vi i våra budgetmotioner (2001/02:Kr414 yrkande 6, 2001/02:Kr416
+            yrkande 5 och 2001/02:Kr418 yrkande 6) föreslagit en ökning av
+            anslaget till folkrörelsearkiven med 1 miljon kronor. Vi vill
+            framhålla att anslaget till folkrörelsearkiven ligger kvar på
+            samma nivå som det gjorde när det infördes år 1972 trots att besöken
+            ökar och arkiven blivit en allt viktigare resurs för såväl privat
+            som offentlig sektor. 2. Dokumentation av kirunasvenskarnas liv
+            (punkt 7) Ana Maria Narti (fp) anför: Det är bråttom att påbörja
+            dokumentationen av kirunasvenskarnas liv, medan de få ögonvittnen
+            som finns fortfarande är i livet. Enligt motion 2001/02: Kr370
+            (s) är Emigrantinstitutet i Växjö intresserat av att göra denna
+            dokumentation, och jag hoppas att Riksarkivet kommer att se positivt
+            på en ansökan från Emigrantinstitutet i detta ärende. BILAGA Förteckning
+            över behandlade förslag Motioner från allmänna motionstiden år
+            2000 2000/01:Kr260 av Agneta Lundberg m.fl. (s): Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om Riksarkivets/SVAR:s
+            verksamhet i Sollefteå kommun inom området digitalisering av SVAR:s
+            mikrofilmade arkiv, digitala register och digital distribution.
+            2000/01:Kr261 av Agneta Lundberg m.fl. (s): Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om att det
+            nationella uppdraget att vårda det nationella skrivna kulturarvet
+            tilldelas Riksarkivets byrå SVAR i Västernorrlands län. 2000/01:Kr262
+            av Agneta Lundberg m.fl. (s): Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om SVAR i Ramsele. 2000/01:Kr263
+            av Hans Stenberg m.fl. (s): Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om ett centrum för mediekonvertering
+            i Ånge. 2000/01:Kr321 av Eskil Erlandsson och Erik Arthur Egervärn
+            (c): Riksdagen tillkännager för regeringen som sin mening vad
+            i motionen anförs om behovet av ett landsarkiv i Växjö. 2000/01:Kr346
+            av Lennart Kollmats och Kenth Skårvik (fp): 10. Riksdagen begär
+            att regeringen lägger fram förslag till ändringsprogram för hur
+            arkiven skall bli fullständiga då post går via e-post och information
+            datoriseras. 12. Riksdagen begär att regeringen bör se över de
+            statliga arkiven i enlighet med vad som anförs i motionen. Motioner
+            från allmänna motionstiden år 2001 2001/02:Kr284 av Agneta Lundberg
+            och Hans Stenberg (s): Riksdagen tillkännager för regeringen som
+            sin mening vad i motionen anförs om att ett centrum för mediekonvertering
+            lokaliseras till Fränsta i Ånge kommun. 2001/02:Kr366 av Agneta
+            Lundberg och Hans Stenberg (s): Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om SVAR i Ramsele. 2001/02:Kr367
+            av Agneta Lundberg och Hans Stenberg (s): Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om medverkan
+            i förslaget om ett storskaligt digitaliseringsprojekt för det
+            äldre arkivmaterialet av intresse för amatörforskning och akademisk
+            forskning. 2001/02:Kr368 av Lisbeth Staaf-Igelström (s): Riksdagen
+            tillkännager för regeringen som sin mening vad i motionen anförs
+            om regional arkivverksamhet. 2001/02:Kr370 av Carina Hägg och
+            Urban Ahlin (s): Riksdagen begär att regeringen ger Emigrantinstitutet
+            i Växjö i uppdrag att ansvara för dokumentationen av dem som reste
+            till Sovjetunionen, de s.k. Kirunasvenskarna. 2001/02:Kr371 av
+            Agneta Lundberg och Hans Stenberg (s): Riksdagen beslutar att
+            det nationella uppdraget att vårda det nationella skrivna kulturarvet
+            tilldelas Riksarkivets byrå SVAR i Västernorrland. 2001/02:Kr372
+            av Christer Skoog m.fl. (s): Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om digitaliseringsprojekt
+            av sockenkataloger inom kyrkoarkiven. 2001/02:Kr419 av Ana Maria
+            Narti m.fl. (fp): 8. Riksdagen tillkännager för regeringen som
+            sin mening vad som i motionen anförs om en översyn av personalsammansättningen,
+            både till antal och kompetens, inom de statliga myndigheter som
+            ansvarar för olika arkiv. 10. Riksdagen begär att regeringen lägger
+            fram förslag till ändringsprogram för hur arkiven skall bli fullständiga
+            då post går via e-post och information datoriseras. 2001/02:Kr422
+            av Matz Hammarström m.fl. (mp): 49. Riksdagen tillkännager för
+            regeringen som sin mening att stödet till landsarkiven bör utvecklas
+            vartefter verksamheten utvecklas.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

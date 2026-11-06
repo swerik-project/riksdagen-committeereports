@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200708_FiU_0005">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sade ja till regeringens förslag i budgetpropositionen om 30,1 miljarder kronor i anslag till Sveriges EU-avgift.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Avgiften till EU (FiU5)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GV0948</idno>
+              <title>2007-12-20</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">48</biblScope>
+              <note type="display-reference">2007-12-20</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GV0948</idno>
+              <title>2007-12-20</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">48</biblScope>
+              <note type="display-reference">2007-12-20</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GV0K119</idno>
+              <title>2007/08:119</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">119</biblScope>
+              <note type="display-reference">2007/08:119</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GV031</idno>
+              <title>Budgetpropositionen för 2008</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">1</biblScope>
+              <note type="display-reference">proposition 2007/08:1 Budgetpropositionen för 2008</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2007-12-18">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2007-12-18">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2007-12-13">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2007-12-12">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2007-12-07">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-12-04">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-12-04">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-11-27">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-11-27">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2007-12-20">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2007-12-20">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2007-12-20">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-12-20">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-12-20">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-12-19">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-12-19">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2007-12-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2007-12-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2007/08:FiU5
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Utgiftsområde 27 Avgiften till Europeiska gemenskapen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACRZYB" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I detta betänkande behandlas utgiftsområde 27 Avgiften till Europeiska
+            gemenskapen i budgetpropositionen (prop. 2007/08:1 volym 2). Finansutskottet
+            tillstyrker regeringens förslag till anslag inom utgiftsområde
+            27. Förslaget innebär att Sveriges EU-avgift för 2008 uppgår till
+            30 122 miljoner kronor. Finansutskottet tillstyrker också att
+            regeringen ska bemyndigas att ikläda staten det utgiftsåtagande
+            som följer av EU-budgeten för budgetåret 2008.
+          </p>
+          <p xml:id="IDAJRZYB" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Anslag för 2008 inom utgiftsområde 27
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen anvisar anslag för 2008 inom utgiftsområde 27 Avgiften
+                  till Europeiska gemenskapen i enlighet med bilaga 2. Därmed bifaller
+                  riksdagen proposition 2007/08:1 utgiftsområde 27 punkt 2.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Åtaganden som följer av EU-budgeten för 2008
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen bemyndigar regeringen att ikläda staten de åtaganden
+                  som följer av EU-budgeten för 2008 avseende åtagandebemyndiganden.
+                  Därmed bifaller riksdagen proposition 2007/08:1 utgiftsområde
+                  27 punkt 1.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 4 december 2007
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Pär Nuder (s), Ulf Sjösten (m), Anna Lilliehöök (m), Sonia Karlsson
+            (s), Lars Elinderson (m), Monica Green (s), Johan Pehrson (fp),
+            Hans Hoff (s), Peder Wachtmeister (m), Agneta Gille (s), Göran
+            Pettersson (m), Ulla Andersson (v), Tommy Ternemar (s), Emma Henriksson
+            (kd), Mikaela Valtersson (mp) och Per Åsling (c).
+          </p>
+          <p xml:id="IDAYWZYB" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            Riksdagen har den 21 november 2007 beslutat om ramen för utgiftsområde
+            27 Avgiften till Europeiska gemenskapen (bet. 2007/08:FiU1). I
+            detta betänkande tar finansutskottet ställning till hur anslag
+            inom utgiftsområdet ska fördelas inom ramen. Därutöver tar finansutskottet
+            ställning till ett bemyndigande för regeringen att ikläda staten
+            de åtaganden som följer av EU-budgeten för 2008 avseende åtagandebemyndiganden.
+            Propositionens förslag återges i bilaga 1. Finansutskottets förslag
+            till beslut om anslag för utgiftsområdet presenteras i bilaga
+            2.
+          </p>
+          <p>
+            Inga motioner har lämnats med anledning av propositionens förslag.
+            I betänkande 2007/08:FiU1 behandlades dock en motion från Miljöpartiet
+            med anknytning till utgiftsområde 27. Motionen, som avslogs av
+            riksdagen, innehöll en begäran om att utreda EU-medlemskapets
+            kostnader.
+          </p>
+          <p>
+            Finansutskottet hade den 22 maj 2007 ett saksamråd med statssekreterare
+            Hans Lindblad om EU:s budget 2008 inför Ekofinrådets s.k. första
+            läsning av kommissionens förslag. Vidare informerade statssekreterare
+            Hans Lindblad finansutskottet den 22 november 2007 inför Ekofinrådets
+            andra läsning av EU:s budget 2008.
+          </p>
+          <p xml:id="IDAFXZYB" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAJXZYB" rend="rubrik2">
+            Anslag och åtagandebemyndigande för 2008 inom utgiftsområde 27
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDANXZYB" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen bifaller regeringens förslag till anslag inom utgiftsområde
+                27 och förslaget att regeringen ska bemyndigas att ikläda staten
+                det utgiftsåtagande som följer av EU-budgeten för 2008.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAZXZYB" rend="r3">
+              Propositionen
+            </p>
+            <p xml:id="IDA2XZYB" rend="r4">
+              Mål och resultat
+            </p>
+            <p>
+              Målet för den svenska budgetpolitiken i EU ligger fast, vilket
+              bl.a. innebär att Sverige ska verka för en effektiv och återhållsam
+              budgetpolitik inom EU. Målet innebär också att Sverige ska verka
+              för en kostnadseffektiv användning av EU:s medel.
+            </p>
+            <p>
+              Under 2006 uppnåddes enligt regeringen flera resultat som ligger
+              i linje med målet för den svenska budgetpolitiken i EU. Marginalerna
+              mellan den beslutade årliga budgeten för 2007 och taken i den
+              fleråriga budgetramen har exempelvis varit tillräckligt höga för
+              att säkerställa att en revidering av budgetramen inte blir nödvändig.
+              Under 2006 genomfördes också en översyn av EU:s budgetförordning.
+              Syftet med översynen var att förbättra revisionen och kontrollsystemen
+              för hantering av EU-medel, förbättra arbetet med bedrägeribekämpning
+              samt underlätta en sund ekonomisk förvaltning.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 1 EU:s budget 2006 fördelad per utgiftsrubrik
+            </p>
+            <p rend="tabellunderrubrik grad2">
+              Miljoner kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell>
+                  <p rend="tabellhuvudvanster">
+                    Utgiftsrubrik
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    Utfall
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    Utfall i %
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    Andel i %
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    1 Jordbruk
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    49 799
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    97
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    47,1
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2 Strukturåtgärder
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    32 399
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    99
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    30,6
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    3 Inre politik
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    9 014
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    82
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    8,5
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    4 Externa åtgärder
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    5 186
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    92
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    4,9
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    5 Administration
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    5 924
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    89
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    5,6
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    6 Reserver
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    151
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    33
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    0,1
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    7 Stöd inför anslutningen
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2 277
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    89
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2,2
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    8 Kompensation
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1 073
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    100
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,0
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Utgifterna (betalningarna) för EU-budgeten fördelade sig 2006
+              enligt uppställningen i tabell 1. Preliminärt uppgick de totala
+              betalningarna 2006 till ca 96 % av budgeterade betalningar.
+            </p>
+            <p xml:id="IDAGFQ5C" rend="r4">
+              Flerårig budgetram för 20072013
+            </p>
+            <p>
+              EU-budgetens inkomster betecknas egna medel och utgörs främst
+              av avgifter från medlemsstaterna. Det finns tre typer av egna
+              medel: s.k. traditionella egna medel (tullar och liknande avgifter
+              samt särskilda sockeravgifter), en momsbaserad avgift samt en
+              avgift baserad på medlemsstaternas bruttonationalinkomst, BNI.
+            </p>
+            <p>
+              Vid Europeiska rådets möte i december 2005 enades EU:s medlemsstater
+              om en flerårig budgetram för perioden 20072013. Ramen innebär
+              att EU-budgetens totala utgifter under perioden får uppgå till
+              maximalt 864 miljarder euro, uttryckt i 2004 års priser, vilket
+              motsvarar ca 1 % av EU:s totala BNI under perioden 20072013. I
+              juni 2007 fattade rådet det formella beslutet om nya egna medel.
+              Beslutet ska ratificeras av samtliga medlemsstater innan det träder
+              i kraft, men är tänkt att tillämpas retroaktivt fr.o.m. 2007.
+              Innebörden av uppgörelsen är att Sveriges BNI-avgift reduceras
+              med 150 miljoner euro årligen (i 2004 års priser). Regeringen
+              kommer att återkomma till riksdagen med en proposition i ärendet.
+            </p>
+            <p xml:id="IDAPFQ5C" rend="r4">
+              Anslag för avgiften 2008
+            </p>
+            <p>
+              Regeringen föreslår att riksdagen för 2008 anvisar 30 122 miljoner
+              kronor till ramanslaget 93:1 Avgiften till Europeiska gemenskapen
+              under utgiftsområde 27 Avgiften till Europeiska gemenskapen. Vidare
+              föreslår regeringen att riksdagen bemyndigar regeringen att ikläda
+              staten de åtaganden som följer av EU-budgeten för 2008 avseende
+              åtagandebemyndiganden.
+            </p>
+            <p>
+              Regeringens föreslagna anslagsnivå för 2008, som baseras på kommissionens
+              budgetförslag, innebär att utgifterna ökar med ca 3,7 miljarder
+              kronor jämfört med vad som prognostiseras för innevarande år (se
+              tabell 2). Att den beräknade ökningen är så stor beror främst
+              på den låga beräknade nivån 2007 och att takten i genomförandet
+              av EU-program förväntas öka 2008. Eftersom det nya egnamedelsbeslutet
+              inte beräknas träda i kraft förrän 2009 kommer reduktionerna för
+              åren 2007 och 2008 sannolikt att regleras 2009, vilket förklarar
+              den låga beräknade EU-avgiften 2009.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 2 Utgiftsutvecklingen inom utgiftsområde 27 Avgiften till
+              Europeiska gemenskapen
+            </p>
+            <p rend="tabellunderrubrik grad2">
+              Miljoner kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              <graphic url="Shape{694B991B-ACDF-4C58-A618-9A15E97C1317}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Not. Budget för 2007 inkluderar tilläggsbudget 1 i samband med
+              2007 års ekonomiska VÅP (bet. 2006/07:FiU21) och tilläggsbudget
+              2 i samband med budgetpropositionen för 2008.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAPGQ5C" rend="r4">
+              Politikens inriktning
+            </p>
+            <p>
+              Sverige avser att verka för en reformering och modernisering
+              av utgiftssidan med omprioriteringar mellan utgiftsrubrikerna
+              och en minskning av den totala utgiftsvolymen. I den mån tillräckliga
+              reformer inte uppnås på EU-budgetens utgiftssida, krävs enligt
+              regeringen även fortsättningsvis korrigeringar (rabatter) på inkomstsidan.
+            </p>
+            <p>
+              Under kommande år inleds en översyn av EU:s budget inför nästa
+              fleråriga budgetram. Vägledande för Sverige i arbetet med denna
+              översyn, liksom för arbetet med budgeten i stort, bör enligt regeringen
+              vara principerna om subsidiaritet, europeiskt mervärde, proportionalitet
+              och sund ekonomisk förvaltning.
+            </p>
+            <p xml:id="IDAYGQ5C" rend="r3">
+              Revisionens iakttagelser
+            </p>
+            <p>
+              Revisionen har inte lämnat några invändningar.
+            </p>
+            <p xml:id="IDA4GQ5C" rend="r3">
+              Kompletterande information
+            </p>
+            <p>
+              Den 19 november 2007 inkom till finansutskottet ett meddelande,
+              KOM (2007) 549, med förslag till revidering av den långsiktiga
+              budgetramen 20072013. Dokumentet hade tidigare hänförts till trafikutskottet.
+              Den föreslagna revideringen beror på ändrade förutsättningar för
+              finansieringen av satellitnavigeringsprogrammen Egnos-Galileo
+              samt det europeiska tekniska institutet (EIT). Kommissionen gör
+              bedömningen att över perioden 20082013 krävs ytterligare 2 400
+              miljoner euro för Egnos-Galileo samt 309 miljoner euro för EIT.
+              Frågan kommer att hanteras av Ekofinrådet och Gaerc under hösten,
+              och ett avgörande planeras i slutet av året.
+            </p>
+            <p>
+              Regeringen kommenterar förslaget i ett fakta-pm (2007/08:FPM24).
+              De budgetära konsekvenserna av förslaget blir att utrymme under
+              taken i kategori 2 (Skydd och förvaltning av naturresurser) och
+              5 (Administration) som inte har använts eller kommer att användas
+              dels förs framåt i tiden, dels förs till en kategori 1a (Konkurrenskraft
+              för tillväxt och sysselsättning) där utnyttjandegraden med största
+              sannolikhet kommer att bli uppemot 100 %. Förslaget är inte budgetneutralt
+              utan kommer att få genomslag på den svenska EU-avgiften. Totalt
+              kommer förslaget att innebära kostnader för den svenska statsbudgeten
+              (via EU-avgiften) på knappt 900 miljoner kronor för perioden 20082013.
+              Av detta är ca 620 miljoner kronor en ökning och resterande 280
+              miljoner kronor är sedan tidigare budgeterade. Till detta ska
+              läggas risken för fördyringar vilket riskerar att ytterligare
+              belasta statsbudgeten, enligt regeringen.
+            </p>
+            <p>
+              Regeringen menar att det är viktigt att programmen finansieras
+              inom taken i nuvarande fleråriga budgetram, eftersom en revidering
+              skulle innebära ökade kostnader för medlemsstaterna samt vara
+              ett olyckligt prejudikat för finansieringen av framtida gemenskapsprojekt.
+            </p>
+            <p>
+              Regeringen stöder en fortsättning av Galileoprogrammet under
+              förutsättning att finansieringsfrågan får en tillfredsställande
+              lösning. För EIT har Sverige accepterat en finansiell ram om högst
+              309 miljoner euro för 20082013. Det förslag som kommissionen nu
+              har presenterat är emellertid inte tillfredsställande, enligt
+              regeringen.
+            </p>
+            <p>
+              Frågan var uppe i EU-nämnden den 9 november 2007 inför Ekofinrådet
+              den 13 november. Regeringen fick stöd för sitt redovisade upplägg
+              inför de fortsatta förhandlingarna. I samband med förhandlingarna
+              om budgeten för 2008 vid Ekofin den 23 november blev resultatet
+              en form av kompromisslösning. Galileo föreslås finansieras inom
+              det finansiella perspektivet som helhet men en omfördelning mellan
+              ramar görs. Outnyttjade medel från jordbruksområdet står för den
+              största delen av den föreslagna finansieringen. De beräknade effekterna
+              på den svenska statsbudgeten 20082013 blir 400450 miljoner kronor,
+              att jämföras med 620 miljoner kronor i kommissionens ursprungliga
+              förslag. Samtidigt gjordes en deklaration om att detta var en
+              engångsföreteelse och att eventuella tillkommande kostnader för
+              projektet ska finansieras inom ramarna.
+            </p>
+            <p xml:id="IDAQHQ5C" rend="r3">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              Utskottet tillstyrker regeringens förslag till medelstilldelning.
+              Vidare tillstyrker utskottet regeringens förslag om åtagandebemyndigande.
+            </p>
+            <p>
+              Utskottet beklagar att regeringens ursprungliga hållning i Galileofrågan,
+              dvs. att Galileoprogrammet bör finansieras inom befintliga ramar,
+              inte fick gehör i samband med förhandlingarna om budgeten för
+              2008 i Ekofin. Samtidigt anser utskottet att det är bra att effekterna
+              på den svenska EU-avgiften sannolikt blir mer begränsade i jämförelse
+              med kommissionens ursprungliga förslag.
+            </p>
+            <p>
+              I frågan om översynen av EU:s budget avser utskottet att skriva
+              ett utlåtande under våren 2008. Dessförinnan, den 6 december 2007,
+              arrangerar finansutskottet och EU-nämnden en gemensam offentlig
+              utfrågning kring långtidsöversynen. Vidare planerar utskottet
+              att i början av nästa år hålla ett saksamråd i frågan med EU-minister
+              Cecilia Malmström.
+            </p>
+            <p xml:id="IDA2HQ5C" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDACIQ5C" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAFIQ5C" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2007/08:1 Budgetpropositionen för 2008 utgiftsområde
+              27:
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen bemyndigar regeringen att ikläda staten de åtaganden
+                    som följer av EU-budgeten för budgetåret 2008 avseende åtagandebemyndiganden
+                    (avsnitt 4).
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen anvisar för budgetåret 2008 anslag under utgiftsområde
+                    27 Avgiften till Europeiska gemenskapen enligt följande uppställning:
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellunderrubrik grad2">
+              Belopp i 1 000-tal kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell>
+                  <p rend="tabellhuvudvanster">
+                    Anslag (om inget annat anges avses ramanslag)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    Regeringens förslag
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell/>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    93:1 Avgiften till Europeiska gemenskapen
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    30 121 940
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell/>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext grad1">
+                    Summa
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad1">
+                    30 121 940
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAKOQ5C" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDANOQ5C" rend="BilageRubrik">
+              Utskottets anslagsförslag
+            </p>
+            <p xml:id="IDAQOQ5C" rend="r2">
+              Förslag till anslag för år 2008 inom utgiftsområde 27 Avgiften
+              till Europeiska gemenskapen
+            </p>
+            <p>
+              Utskottets förslag överensstämmer med regeringens förslag till
+              anslagsfördelning.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellunderrubrik grad2">
+              Belopp i 1 000-tal kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell>
+                  <p rend="tabellhuvudvanster">
+                    Anslag (om inget annat anges avses ramanslag)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    Regeringens förslag
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell/>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    93:1 Avgiften till Europeiska gemenskapen
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    30 121 940
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell/>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext grad1">
+                    Summa
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad1">
+                    30 121 940
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell/>
+              </row>
+              <row>
+                <cell/>
+                <cell/>
+              </row>
+            </table>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

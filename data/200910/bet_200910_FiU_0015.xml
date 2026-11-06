@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200910_FiU_0015">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Den kommunala kompetensen utvidgades den 1 mars 2009 så att kommuner och landsting får lämna bidrag till byggande av väg och järnväg som staten ansvarar för. Riksdagen beslutade nu om hur kommunerna och landstingen ska redovisa sådan medfinansiering. Regeringens förslag innebar att bidragen ska redovisas i kommunens respektive landstingets balansräkning och upplösas med årliga enhetliga belopp under 15 år. Finansutskottet bedömde att tiden bör förlängas till att omfatta högst 25 år. Dessutom ville utskottet göra det möjligt för kommuner och landsting att redovisa bidraget direkt, som en kostnad i resultaträkningen. Utskottet föreslog också att det i lagtexten ska framgå att upplösning ska påbörjas det år bidraget beslutas. För bidrag som har beslutats under år 2009 får dock upplösning påbörjas det år första utbetalningen av bidraget görs. Riksdagen sa ja till regeringens förslag med dessa ändringar.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Så ska kommuner och landsting redovisa bidrag till statlig infrastruktur (FiU15)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till utskottets initiativ. Delvis bifall till proposition och avslag på motionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GX0933</idno>
+              <title>2009-11-19</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">33</biblScope>
+              <note type="display-reference">2009-11-19</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GX0932</idno>
+              <title>2009-11-18</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">32</biblScope>
+              <note type="display-reference">2009-11-18</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GX0K58</idno>
+              <title>2009/10:58</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">58</biblScope>
+              <note type="display-reference">2009/10:58</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1997:614</idno>
+              <note type="display-reference">2009:1319</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GW03228</idno>
+              <title>Redovisning av kommunal medfinansiering till statlig infrastruktur</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">228</biblScope>
+              <note type="display-reference">proposition 2008/09:228 Redovisning av kommunal medfinansiering till statlig infrastruktur</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02Fi258</idno>
+              <title>Medfinansiering och avskrivning</title>
+              <title type="sub">av Christina Axelsson m.fl. (S)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">Fi258</biblScope>
+              <note type="display-reference">motion 2009/10:Fi258 Medfinansiering och avskrivning</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2009-11-16">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2009-11-16">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-11-11">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-11-11">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-11-11">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-11-05">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-11-05">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-10-13">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-10-13">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2009-11-19">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-11-19">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-11-19">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-11-19">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-11-18">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-11-18">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-11-17">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-11-17">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-11-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-11-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2009/10:FiU15
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Redovisning av kommunal medfinansiering till statlig infrastruktur
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACJQWD" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet förslag i proposition 2008/09:228
+            Redovisning av kommunal medfinansiering till statlig infrastruktur.
+            Inga motioner har väckts med anledning av propositionen. I betänkandet
+            behandlas en motion från den allmänna motionstiden 2009.
+          </p>
+          <p>
+            I propositionen föreslår regeringen ändringar i lagen (1997:614)
+            om kommunal redovisning. Ändringarna innebär att belopp med vilket
+            kommunen eller landstinget har beslutat bidra till statlig infrastruktur,
+            med stöd av 2 kap. 1 § lagen (2009:47) om vissa kommunala befogenheter,
+            ska redovisas i kommunens eller landstingets balansräkning. När
+            beslut fattats av kommunen respektive landstinget aktiveras bidraget
+            i balansräkningen och det upptagna bidraget ska med årliga enhetliga
+            belopp upplösas under 15 år.
+          </p>
+          <p>
+            Finansutskottet tillstyrker propositionen, med den ändringen
+            att förslaget till lag om ändring i lagen (1997:614) om kommunal
+            redovisning 5 kap. 7 § får den lydelse som utskottet föreslår
+            i bilaga 3. Utskottet anser att förslagen i regeringens proposition
+            inte i tillräcklig utsträckning underlättar för kommuner och landsting
+            att bidra med medfinansiering i sådana infrastrukturprojekt där
+            denna typ av finansiering skulle kunna vara aktuell.
+          </p>
+          <p>
+            Utskottets förslag innebär att kommuner och landsting får möjlighet
+            att välja mellan det hittills enda möjliga tillvägagångssättet,
+            direkt kostnadsföring av bidrag, och att föra upp sådana bidrag
+            i balansräkningen under posten Bidrag till statlig infrastruktur.
+            I det senare fallet ska bidragen upplösas med enhetliga årliga
+            belopp.
+          </p>
+          <p>
+            Utskottet avstyrker motionen.
+          </p>
+          <table>
+            <row>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+            </row>
+            <row>
+              <cell/>
+            </row>
+          </table>
+          <p xml:id="IDADLQWD" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Redovisning av kommunal medfinansiering till statlig infrastruktur
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till lag om ändring i lagen
+                  (1997:614) om kommunal redovisning, med den ändringen att 5 kap.
+                  7 § får den lydelse som utskottet föreslår i bilaga 3. Därmed
+                  bifaller riksdagen delvis proposition 2008/09:228 och avslår motion
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2009/10:Fi258 av Christina Axelsson m.fl. (s).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 5 november 2009
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Thomas Östros (s), Bertil Kjellberg (m), Anna Lilliehöök (m),
+            Sonia Karlsson (s), Lars Elinderson (m), Roger Tiefensee (c),
+            Monica Green (s), Carl B Hamilton (fp), Hans Hoff (s), Göran Pettersson
+            (m), Ulla Andersson (v), Ann-Charlotte Hammar Johnsson (m), Jörgen
+            Hellman (s), Christina Zedell (s), Holger Gustafsson (kd) och
+            Mats Pertoft (mp).
+          </p>
+          <p xml:id="IDAIOQWD" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDALOQWD" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I proposition 2008/09:228 Redovisning av kommunal medfinansiering
+            till statlig infrastruktur föreslår regeringen ändringar i lagen
+            (1997:614) om kommunal redovisning. Ändringarna innebär att belopp
+            med vilket kommunen eller landstinget har beslutat bidra till
+            statlig infrastruktur, med stöd av 2 kap. 1 § lagen (2009:47)
+            om vissa kommunala befogenheter, ska redovisas i kommunens eller
+            landstingets balansräkning. När beslut fattats av kommunen respektive
+            landstinget aktiveras bidraget i balansräkningen och det upptagna
+            bidraget ska med årliga enhetliga belopp upplösas under 15 år.
+          </p>
+          <p>
+            Regeringen beslutade den 9 oktober 2008 att tillkalla en särskild
+            utredare med uppdrag att överväga frågor om kommunal medfinansiering
+            till statlig infrastruktur och hur dessa frågor kan tas om hand
+            inom ramen för gällande lagstiftning. Enligt direktivet (dir.
+            2008:114) kunde utredaren vid behov överväga om det var lämpligt
+            att ändra nuvarande kommunala redovisningslagstiftning eller kommunallagens
+            regler kring åberopande av synnerliga skäl och återställande av
+            negativt resultat. Utredaren skulle även utreda om, och i så fall
+            hur, det ekonomiska åtagandet kan fördelas över en flerårsperiod.
+          </p>
+          <p>
+            Utredningen, som antog namnet Redovisning m.m. av kommunal medfinansiering
+            till statlig infrastruktur (Fi 2008:9), överlämnade i februari
+            2009 betänkandet Redovisning av kommunal medfinansiering (SOU
+            2009:21). Betänkandet har remissbehandlats. En sammanställning
+            av remissyttrandena finns tillgänglig i Finansdepartementet (dnr
+            Fi2009/1928).
+          </p>
+          <p>
+            Vid utskottets sammanträde den 15 oktober 2009 ägde interna utfrågningar
+            rum med företrädare för Förhandlingsdelegationen för Citybanans
+            medfinansiering samt den 22 oktober 2009 med statssekreterare
+            Dan Ericsson, Finansdepartementet, och företrädare för Sveriges
+            Kommuner och Landsting.
+          </p>
+          <p>
+            Inga följdmotioner har inkommit med anledning av propositionen.
+            Under allmänna motionstiden har en motion väckts i anslutning
+            till propositionens förslag.
+          </p>
+          <p xml:id="IDA3OQWD" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p xml:id="IDAAPQWD" rend="rubrik3">
+            Kommunala kompetensfrågor
+          </p>
+          <p>
+            I regeringens proposition 2008/09:21
+          </p>
+          <p>
+            I konstitutionsutskottets betänkande 2008/09:KU5 Kommunala kompetensfrågor
+            m.m. menade utskottet att det fanns ett behov av en kompetensregel
+            som uttryckligen ger kommuner och landsting befogenheten att lämna
+            bidrag till byggande av både väg och järnväg som staten ansvarar
+            för. I en gemensam reservation avvisar Socialdemokraterna, Vänsterpartiet
+            och Miljöpartiet den utvidgade kommunala kompetensen. De menar
+            att det inte finns någon anledning att gå ifrån principen att
+            de statliga vägarna och järnvägarna finansieras med statliga medel.
+            Prioriteringen och genomförandet av statliga infrastrukturprojekt
+            ska inte på det föreslagna sättet kunna påverkas av vilka kommuner
+            som kan skjuta till bidrag.
+          </p>
+          <p xml:id="IDANPQWD" rend="rubrik3">
+            Utredningen SOU 2009:21 Redovisning av kommunal medfinansiering
+          </p>
+          <p>
+            För att ytterligare belysa frågan om en vidgad kommunal kompetens
+            bl.a. vad gäller möjligheten för kommuner och landsting att ge
+            bidrag till byggandet av statliga vägar och järnvägar förordnade
+            regeringen i oktober 2008 en särskild utredare med uppdrag att
+            se över frågor kring redovisningen hos kommuner och landsting
+            av lämnade bidrag för medfinansiering av statlig infrastruktur.
+            Utredningen SOU 2009:21 Redovisning av kommunal medfinansiering
+            överlämnades till regeringen den 26 februari 2009.
+          </p>
+          <p>
+            Utredningen föreslog följande:
+          </p>
+          <p>
+            1. Bidrag till medfinansiering av statlig infrastruktur får tas
+            upp som tillgångspost i den kommunala balansräkningen.
+          </p>
+          <p>
+            2. Bidraget ska skrivas av under den medfinansierade tillgångens
+            bedömda nyttjandeperiod.
+          </p>
+          <p>
+            3. Enligt övergångsbestämmelser får de nya reglerna tillämpas
+            för medfinansiering som är beslutad efter utgången av år 2006.
+          </p>
+          <p>
+            I utredningen konstaterades att det inte är möjligt att med nuvarande
+            regelverk redovisa medfinansiering på annat sätt än vad som följer
+            av de rekommendationer som utfärdats av Rådet för kommunal redovisning.
+          </p>
+          <p>
+            I utredningen anfördes att många medfinansiärer upplevde problem
+            med den nuvarande redovisningsmodellen, eftersom det inte fanns
+            någon möjlighet att periodisera kostnaden för att därigenom matcha
+            kostnaden för medfinansieringen med den nytta som investeringen
+            medförde. En lösning inom gällande regelverk kunde vara att avtalskonstruktionen
+            gjordes på så sätt att medfinansiären blev ägare till en del av
+            den anläggning som skulle finansieras. Enligt utredningens uppfattning
+            vore det olyckligt om redovisningsreglerna ledde till avtalskonstruktioner
+            vars enda syfte var att undvika konsekvenserna av regelverket.
+          </p>
+          <p>
+            Utredningens förslag till lösning var att ändra i lagen om kommunal
+            redovisning så att reglerna för redovisning av medfinansiering
+            blir enhetliga och ändamålsenliga. Därför föreslås att lagen ändras
+            så att medfinansieringsbeloppet får tas upp på tillgångssidan
+            i balansräkningen, för att därefter skrivas av under den bedömda
+            nyttjandeperioden. Framtida avskrivningskostnader skulle på sedvanligt
+            sätt täckas av intäkter enligt balanskravets etablerade regelverk.
+          </p>
+          <p xml:id="IDAMIRWD" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAPIRWD" rend="rubrik3">
+            Propositionen
+          </p>
+          <p xml:id="IDASIRWD" rend="rubrik4">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            I proposition 2008/09:228 Redovisning av kommunal medfinansiering
+            till statlig infrastruktur föreslår regeringen ändringar i lagen
+            (1997:614) om kommunal redovisning. Ändringarna innebär att belopp
+            med vilket kommunen eller landstinget har beslutat bidra till
+            statlig infrastruktur, med stöd av 2 kap. 1 § lagen (2009:47)
+            om vissa kommunala befogenheter, ska redovisas i kommunens eller
+            landstingets balansräkning. När beslut fattats av kommunen respektive
+            landstinget aktiveras bidraget i balansräkningen och det upptagna
+            bidraget ska med årliga enhetliga belopp upplösas under 15 år.
+          </p>
+          <p xml:id="IDAYIRWD" rend="rubrik4">
+            Redovisning i balansräkningen
+          </p>
+          <p>
+            Regeringen föreslår att om kommuner eller landsting har beslutat
+            att bidra till statlig infrastruktur, med stöd av lagen om vissa
+            kommunala befogenheter, ska beloppet redovisas på en särskild
+            rad i kommunens eller landstingets balansräkning. I en särskild
+            not till balansräkningen ska det för varje enskilt projekt framgå
+            vad bidraget avser, det sammanlagda bidraget, hur mycket av bidraget
+            som upplösts och i balansräkningen upptaget belopp.
+          </p>
+          <p>
+            Regeringen medger att förslaget att aktivera ett bidrag som om
+            det vore en tillgång kan ifrågasättas ur ett principiellt perspektiv.
+            Utifrån etablerad redovisningspraxis kan det anföras att den tillgång
+            som bidraget ska finansiera inte kontrolleras av redovisningsenheten,
+            dvs. kommunen eller landstinget. Ett annat problem är hur det
+            ska säkerställas att samma resurs inte aktiveras som tillgång
+            i två olika redovisningsenheter, alltså både hos staten och hos
+            kommunen eller landstinget.
+          </p>
+          <p>
+            Lösningen att utvidga balanskravsreglernas synnerliga skäl tillbakavisas
+            av regeringen. Synnerliga skäl ska tillämpas ytterst restriktivt.
+            Dessutom får det antas att medfinansiering kommer att bli allt
+            vanligare. Regeringen anger att möjligheten att bidra till statlig
+            infrastruktur i lagen om vissa kommunala befogenheter tillkommit
+            bl.a. just på grund av ett ökat intresse på lokal nivå att påverka,
+            planera för och också vara med och finansiera infrastruktursatsningar.
+          </p>
+          <p>
+            Om allt fler förändringar och undantag görs från balanskravet
+            innebär detta svårigheter vid jämförelser över tid för enskilda
+            kommuner och landsting men också vid jämförelser mellan kommuner
+            respektive landsting, vilket i sig kan göra redovisningen svårförståelig.
+          </p>
+          <p>
+            Även om bidraget inte är att anse som en tillgång enligt principerna
+            för god redovisningssed, anser regeringen trots allt att det är
+            mer rättvisande att bidraget tas upp i balansräkningen än att
+            bidrag till statliga infrastruktursatsningar redovisas vid sidan
+            om etablerade styrdokument och dessutom inte behöver återställas
+            om det klassificeras som synnerligt skäl. Till skillnad från utredningen,
+            som föreslog att bidraget skulle redovisas på särskild rad under
+            huvudrubriken Anläggningstillgångar, innebär regeringens förslag
+            att bidraget ska redovisas på en särskild rad i balansräkningen.
+            Balansräkningen kompletteras med en ny huvudrubrik som benämns
+            Bidrag till statlig infrastruktur.
+          </p>
+          <p xml:id="IDAKJRWD" rend="rubrik4">
+            Aktivering och upplösning
+          </p>
+          <p>
+            När erforderliga beslut fattats av kommuner respektive landsting
+            ska bidraget aktiveras i balansräkningen och upplösning påbörjas.
+            Det i balansräkningen upptagna bidraget ska med årliga enhetliga
+            belopp upplösas under 15 år.
+          </p>
+          <p>
+            I den utredning som ligger till grund för propositionen lämnas
+            det i stor omfattning åt kommunerna och landstingen själva att
+            fastställa när avskrivning ska påbörjas och hur lång avskrivningstiden
+            för tillgången ska vara. Detta innebär, påpekar regeringen, en
+            risk för att avskrivning av medfinansiering därmed skulle kunna
+            användas som en resultatregleringspost och innebär dessutom att
+            möjligheterna för jämförelser minskar betydligt.
+          </p>
+          <p>
+            Till skillnad från materiella anläggningstillgångar där avskrivning
+            påbörjas först då tillgången tagits i bruk, föreslår regeringen
+            att upplösning av aktiverade bidrag till finansiering av statlig
+            infrastruktur ska påbörjas så snart erforderliga beslut fattats
+            och bidraget tagits upp i balansräkningen. Anledningen till detta
+            är att det just är fråga om periodisering av ett bidrag och inte
+            en tillgång som kommunen eller landstinget kontrollerar.
+          </p>
+          <p>
+            Enligt nuvarande regler ska återställande av ett negativt resultat
+            ske inom tre år. Den redovisningslösning som utredaren föreslår
+            skulle, t.ex. i fråga om Citybanan genom Stockholm, kunna uppgå
+            till 100 år. Regeringen hänvisar till ESV:s remissvar, där det
+            konstateras att tre år som avskrivningstid kan vara en för kort
+            tidshorisont medan 100 år är i huvudsak till intet förpliktande
+            för den generation som fattar beslutet. En anläggningstillgång
+            som är i kommunens eller landstingets ägo skrivs normalt av på
+            mellan 33 och 50 år utifrån bedömd nyttjandeperiod, men det förutsätter
+            att kommunen eller landstinget har kontroll och rådighet över
+            tillgången. Eftersom så inte är fallet då det gäller medfinansiering
+            är det inte heller rimligt att avskrivningstiden baseras på en
+            uppskattning av tillgångens nyttjandetid.
+          </p>
+          <p>
+            En tid bör väljas någonstans mellan dessa ovan angivna perioder.
+            I denna avvägning bedömer regeringen det som lämpligt att bidraget
+            upplöses med årliga enhetliga belopp under 15 år. Genom att medfinansieringen
+            periodiseras och kostnaden därmed fördelas på flera år blir effekten
+            en över tiden jämnare resultatpåverkan, vilket också skapar förutsättningar
+            för jämförelser över tid och med andra kommuner respektive landsting.
+          </p>
+          <p xml:id="IDA2JRWD" rend="rubrik4">
+            Ikraftträdande
+          </p>
+          <p>
+            Ändringen i lagen om kommunal redovisning föreslås träda i kraft
+            den 1 januari 2010. Bestämmelserna ska tillämpas i fråga om bidrag
+            till statlig infrastruktur som har beslutats efter den 28 februari
+            2009.
+          </p>
+          <p>
+            Den nya lagen om vissa kommunala befogenheter trädde i kraft
+            den 1 mars 2009. Lagen utvidgar kommuners och landstings möjlighet
+            att bidra till statlig infrastruktur som avser vägar och järnvägar.
+            Att tillåta en retroaktiv tillämpning av bestämmelserna skulle
+            kunna innebära att bidrag som eventuellt inte varit rättsligt
+            möjliga före ikraftträdandet den 1 mars 2009 skulle kunna aktiveras
+            i redovisningen. Regeringen anser därför att endast sådana bidrag
+            som beslutats efter lagens ikraftträdande ska aktiveras i bokföringen.
+          </p>
+          <p xml:id="IDAFKRWD" rend="rubrik4">
+            Ekonomiska och administrativa konsekvenser
+          </p>
+          <p>
+            Kommunernas och landstingens möjlighet att leva upp till balanskravet
+            även när de medfinansierar infrastruktur underlättas av förslaget.
+            Däremot uppstår det framtida periodiseringskostnader som måste
+            ingå i den sedvanliga balanskravsavstämningen.
+          </p>
+          <p>
+            Medfinansiering ska ses som ett renodlat tillskott som gör det
+            möjligt att genomföra fler åtgärder inom området än vad som hade
+            varit fallet utan de nu föreslagna reglerna. Detta betyder att
+            kommunernas och landstingens konsoliderade finansiella sparande
+            kommer att påverkas negativt. Därav följer att medfinansieringens
+            effekt på den offentliga sektorns finansiella sparande är negativ.
+            Hur stor denna effekt blir är beroende på den totala volymen av
+            medfinansiering. Samtidigt blir det reala sparandet högre, vilket
+            kan ge positiva samhällsekonomiska effekter.
+          </p>
+          <p>
+            Inget av de förslag som läggs fram i propositionen innebär något
+            åliggande för kommunerna eller landstingen utan innebär endast
+            ett förtydligande avseende redovisning av kommunal medfinansiering
+            till statlig infrastruktur som beslutats med stöd av lagen (2009:47)
+            om vissa kommunala befogenheter.
+          </p>
+          <p>
+            Förslaget påverkar enligt propositionen inte uppgiftsfördelningen
+            mellan staten och kommunerna respektive landstingen. De förbättrade
+            möjligheterna till medfinansiering som regeringen eftersträvar
+            förändrar inte den grundläggande ansvarsfördelningen mellan statliga,
+            regionala, kommunala och privata aktörer för samhällets infrastruktur.
+          </p>
+          <p xml:id="IDAUKRWD" rend="rubrik3">
+            Motionen
+          </p>
+          <p>
+            I den enskilda motionen
+            <seg rend="grad2">
+              2009/10:Fi258
+            </seg>
+          </p>
+          <p>
+            Motionärerna anför att socialdemokraterna på olika sätt motsatt
+            sig medfinansiering i form av direkt bidragsgivning till statliga
+            infrastrukturinvesteringar från kommuner och landsting som den
+            moderatledda regeringen tvingat fram. Samtidigt är socialdemokraterna
+            för justa förhandlingar där parterna har ärliga förutsättningar
+            att ingå avtal på förutsägbara lagliga grunder. Motionärerna menar
+            att så inte är fallet i dag.
+          </p>
+          <p>
+            Motionärerna tar upp avtalet om medfinansiering av Citybanan
+            i Stockholm och hänvisar till den utredning om medfinansiering
+            som redovisas i betänkandet SOU 2009:21 Redovisning av kommunal
+            medfinansiering. Motionärerna påpekar att det förslag som regeringen
+            har lämnat till riksdagen avviker från detta betänkande vad gäller
+            avskrivningstidens längd och tidpunkten för när avskrivningarna
+            ska aktiveras. Dessa nya förslag förvånar, uppges det i motionen,
+            de kommunala representanterna som deltagit i förhandlingen om
+            medfinansiering. En förutsättning för dem har varit att utredningens
+            förslag skulle följas och att medfinansiering ska ses som en investering
+            och skrivas av i enlighet med det.
+          </p>
+          <p>
+            Motionärerna uppmanar riksdagen att i sin behandling av ärendet
+            följa utredningens skrivningar.
+          </p>
+          <p xml:id="IDAKLRWD" rend="rubrik3">
+            Finansutskottets ställningstagande
+          </p>
+          <p>
+            Finansutskottet önskar framhålla betydelsen av kommunal medfinansiering
+            till statlig infrastruktur. Sådan medfinansiering kan skapa förutsättningar
+            för tillväxt och medger satsningar på infrastruktur som annars
+            kunde ha fått senareläggas eller inte kommit till stånd. Utskottet
+            har genom utfrågningar med kommunala företrädare och representanter
+            för Sveriges Kommuner och Landsting fått en god bild av dessa
+            aktörers aktuella synpunkter i frågan.
+          </p>
+          <p>
+            Finansutskottet anser mot denna bakgrund att förslagen i regeringens
+            proposition 2008/09:228 Redovisning av kommunal medfinansiering
+            till statlig infrastruktur inte i tillräcklig utsträckning underlättar
+            för kommuner och landsting att bidra med medfinansiering i sådana
+            infrastrukturprojekt där denna typ av finansiering skulle kunna
+            vara aktuell.
+          </p>
+          <p>
+            Utskottet gör bedömningen att den tid under vilken bidrag som
+            förs upp på balansräkningen kan upplösas bör förlängas till att
+            omfatta högst 25 år. Dessutom önskar utskottet göra det möjligt
+            för kommuner och landsting att redovisa bidraget direkt, som en
+            kostnad i resultaträkningen. Det är emellertid inte utskottets
+            avsikt att göra det möjligt att efter att bidraget förts upp på
+            balansräkningen, med en viss tid vald för bidragets upplösning,
+            ändra detta beslut vid ett senare tillfälle. Inte heller ska det
+            vara möjligt att vid en senare tidpunkt frångå beslut om upplösning
+            av bidrag till förmån för direkt kostnadsföring av det återstående
+            beloppet. Avsikten är att medfinansiering till statlig infrastruktur
+            inte ska användas som en resultatregleringspost.
+          </p>
+          <p>
+            Utskottet önskar understryka att bidrag som förs upp på balansräkning
+            ska upplösas med enhetliga belopp under det antal år som kommunen
+            eller landstinget väljer, och att upplösning påbörjas i och med
+            beslutsåret. Till skillnad från materiella anläggningstillgångar
+            där avskrivning påbörjas först då tillgången tagits i bruk, anser
+            utskottet att upplösning av aktiverade bidrag till finansiering
+            av statlig infrastruktur ska påbörjas så snart erforderliga beslut
+            fattats och bidraget tagits upp i balansräkningen. Anledningen
+            till detta är att det just är fråga om periodisering av ett bidrag
+            och inte en tillgång som kommunen eller landstinget kontrollerar.
+          </p>
+          <p>
+            Med hänsyn till att flera kommuner och landsting som står i begrepp
+            att delta i medfinansiering till statlig infrastruktur redan har
+            kommit långt i processen med den treåriga ekonomiska planeringen
+            är det praktiskt att för beslut fattade under 2009 göra det möjligt
+            att senarelägga påbörjandet av upplösningen av bidrag som har
+            tagits upp i balansräkningen till dess att den första utbetalningen
+            görs.
+          </p>
+          <p>
+            Finansutskottet önskar vad gäller de motionsvis framförda synpunkterna
+            erinra om att frågan om förekomsten av kommunal medfinansiering
+            till statlig infrastruktur är färdigbehandlad (prop. 2008/09:21,
+            bet. 2008/09:KU5, rskr. 2008/09:157) och lagfäst i 2 kap. 1 §
+            lagen (2009:47) om vissa kommunala befogenheter. Vad gäller formerna
+            för redovisning av sådan medfinansiering anser utskottet att motionens
+            krav på längre avskrivningstid får betraktas som tillgodosedda
+            i och med den av utskottet föreslagna ändringen i lagen (1997:614)
+            om kommunal redovisning. Motionärernas krav på att avskrivningen
+            av medfinansieringen ska påbörjas när anläggningen tas i bruk
+            avvisas. Utskottet hänvisar till att upplösning av aktiverade
+            bidrag till finansiering av statlig infrastruktur ska påbörjas
+            så snart erforderliga beslut fattats och bidraget tagits upp i
+            balansräkningen. Anledningen till detta är att det just är fråga
+            om periodisering av ett bidrag och inte en tillgång som kommunen
+            eller landstinget kontrollerar.
+          </p>
+          <p>
+            Finansutskottet tillstyrker propositionen, med den ändringen
+            att förslaget till lag om ändring i lagen (1997:614) om kommunal
+            redovisning 5 kap. 7 § får den lydelse som utskottet föreslår
+            i bilaga 3. Utskottets initiativ till ändring av propositionens
+            förslag innebär att utskottet delvis går motionärerna till mötes.
+            Motionärernas krav får därmed anses ha beaktats i några delar.
+            Motionen avstyrks.
+          </p>
+          <p xml:id="IDADMRWD" rend="AvsnittsRubrik">
+            Särskilt yttrande
+          </p>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDAHMRWD">
+                  <p rend="ettsarskiltyttrande">
+                    Redovisning av kommunal medfinansiering till statlig infrastruktur
+                    (s, v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    Thomas Östros (s), Sonia Karlsson (s), Monica Green (s), Hans
+                    Hoff (s), Ulla Andersson (v), Jörgen Hellman (s), Christina Zedell
+                    (s) och Mats Pertoft (mp) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Vi menar att en väl fungerande infrastruktur är av central betydelse
+              för konkurrenskraft och tillväxt. Säkra, tillförlitliga och effektiva
+              transporter året runt, i hela landet, är av vikt för enskilda
+              människors frihet och arbetsmöjligheter och avgörande för företagens
+              möjligheter att utvecklas. Sverige har betydande behov av infrastrukturinvesteringar
+              under de kommande åren, och resurserna för detta måste öka.
+            </p>
+            <p>
+              Den borgerliga regeringens svar på hur infrastruktursatsningar
+              ska komma till stånd utgörs bl.a. av medfinansiering. Regeringen
+              föreslår i propositionen ändringar i lagen (1997:614) om kommunal
+              redovisning. Ändringarna innebär att kommuners medfinansiering
+              till statlig infrastruktur ska redovisas i kommunens eller landstingets
+              balansräkning. När beslut fattats av kommunen respektive landstinget
+              aktiveras bidraget i balansräkningen, och det upptagna bidraget
+              ska med årliga enhetliga belopp upplösas under 15 år. Ändringarna
+              föreslås träda i kraft den 1 januari 2010 och tillämpas avseende
+              bidrag till statlig infrastruktur som har beslutats efter den
+              28 februari 2009.
+            </p>
+            <p>
+              Finansutskottet föreslår i sitt initiativ till riksdagsbeslut
+              att bidraget i stället ska upplösas under högst 25 år. Det ska
+              även vara möjligt att välja att redovisa bidraget som en kostnad
+              i resultaträkningen. För bidrag beslutade under 2009 får upplösning
+              påbörjas det år den första utbetalningen av bidraget görs.
+            </p>
+            <p>
+              Vi noterar att utskottet genom sitt initiativ närmar sig de krav
+              som framförts i motionen 2009/10:Fi258 (s), men vill markera att
+              oavsett de ändringar som föreslås står vi fortfarande främmande
+              inför hela förfarandet med medfinansiering. Vi står fast vid det
+              förhållningssätt vi gav uttryck för i en gemensam reservation
+              då frågan om medfinansiering nyligen var föremål för behandling
+              (prop. 2008/09:21, bet. 2008/09:KU5). Där anförde vi att det inte
+              finns någon anledning att frångå principen att de statliga vägarna
+              och järnvägarna finansieras med statliga medel. Att öppna fullt
+              ut för kommunal finansiering av denna typ av projekt innebär att
+              finansieringsansvaret förskjuts och att den övergripande planeringen
+              förrycks. Det statliga ansvaret för en sammanhållen planering
+              av utbyggnaden av Sveriges infrastruktur riskerar, anser vi, att
+              påverkas negativt av utskottets nu aktuella förslag. Vi framförde
+              liknande synpunkter även i betänkande 2008/09:TU2, som behandlar
+              infrastrukturpropositionen 2008/09:35. Där noterade vi i en gemensam
+              reservation att regeringen önskar att delar av framtida investeringar
+              ska ske genom medfinansiering, dvs. att kommuner och regioner/landsting
+              inte bara lånar staten pengar till infrastruktur, utan att de
+              dessutom betalar delar av investeringen med kommunala skattemedel.
+              Medfinansiering kan förvisso vara befogat i enskilda fall, men
+              vi ser med stor oro på att göra detta till en förutsättning och
+              en grundläggande del av finansieringen av den statliga infrastrukturen.
+              Först och främst är det viktigt att ansvarsfördelningen i samhället
+              görs tydlig. Vi anser att staten bör ta det fulla ansvaret för
+              infrastrukturinvesteringar av nationell karaktär.
+            </p>
+            <p>
+              I vår gemensamma reservation i betänkande 2008/09:KU5 framhöll
+              vi att prioriteringen och genomförandet av statliga infrastrukturprojekt
+              inte på det föreslagna sättet ska kunna påverkas av vilka kommuner
+              som kan skjuta till bidrag. Om lokaliseringsprincipen löses upp
+              på detta vis riskerar kommunernas ekonomiska planering att förryckas.
+              Möjligheten att spela ut olika kommuner och regioner mot varandra
+              kan leda till förhastade beslut. En konsekvens kan bli att det
+              görs felaktiga prioriteringar.
+            </p>
+            <p>
+              Vi ser behov av betydande infrastruktursatsningar framöver och
+              är beredda att öka resurserna till detta område, t.ex. genom att
+              i ökad omfattning lånefinansiera större, strategiska och komplexa
+              investeringar. Kommunal medfinansiering gröper ur kommunernas
+              redan ansträngda budgetar, vilket också får konsekvenser för kommunmedborgarna.
+              Antingen tvingas kommunerna skära i välfärden eller höja skatten.
+              Förslaget innebär att ekonomiskt starka kommuner får en gräddfil
+              vid infrastruktursatsningar i strid med den planering och prioritering
+              som görs på statlig nivå. Risken finns också att frivilligheten
+              för kommunerna att lämna bidrag blir till en frivillighet att
+              skjuta investeringen på framtiden eller helt avstå från den. I
+              vår gemensamma reservation i betänkande 2008/09:TU2 noterade vi
+              att kostnaderna för medfinansieringen av kommunerna läggs över
+              på medborgarna i form av en försämrad välfärd eller höjda skatter.
+              Vi motsätter oss detta kraftigt. Infrastruktursatsningar ska styras
+              utifrån nationella behov, inte av enskilda kommuners ekonomi.
+              Alla
+            </p>
+            <p>
+              I motion 2008/09:T10 (mp) (bet. 2008/09:TU2) anfördes att medfinansering
+              av infrastrukturprojekt med kommuner och regioner innebär att
+              vissa projekt kan komma att prioriteras med utgångspunkt från
+              att finansiering finns, vilket kommer att innebära att regionernas
+              huggsexa om investeringsmedel kan komma att påverka den nationella
+              infrastrukturplaneringen. Inte minst är detta relevant ur ett
+              demokratiperspektiv, då vissa projekt med större ekonomiska intressen
+              kan få företräde framför andra.
+            </p>
+            <p>
+              I motion 2008/09:T9 (v) (bet. 2008/09:TU2) noterades att medfinansieringen
+              har beskrivits som att den syftar till att utöka den totala volymen
+              av tillgängliga medel för transportinfrastrukturen. Vi menar att
+              medfinansiering i stället påför kostnader till lokala och regionala
+              företrädare för åtgärder som åvilar staten.
+            </p>
+            <p>
+              Det är även värt att beakta att de totala kostnaderna för investeringar
+              i infrastruktur ökar med kommunal medfinansiering, eftersom kommuner
+              och landsting inte kan få lån till samma låga ränta som staten
+              har möjlighet till via Riksgälden.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAHORWD" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAKORWD" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDANORWD" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2008/09:228 Redovisning av kommunal medfinansiering
+              till statlig infrastruktur:
+            </p>
+            <p>
+              Riksdagen antar regeringens förslag till lag om ändring i lagen
+              (1997:614) om kommunal redovisning.
+            </p>
+            <p xml:id="IDA0ORWD" rend="rubrik2">
+              Motion från allmänna motionstiden hösten 2009
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:Fi258 av Christina Axelsson m.fl. (s):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om att kommuner och landsting ska ha rätt att
+              skriva av medfinansiering under nyttjandeperioden och att avskrivningen
+              av medfinansieringen ska påbörjas när anläggningen tas i bruk.
+            </p>
+            <p xml:id="IDAHPRWD" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDAKPRWD" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{FFD9B990-6F4E-402D-B63B-BBAC7155C8A2}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{2A806695-7517-461C-94A4-95A96E02B441}.png"/>
+            </p>
+            <p xml:id="IDA3PRWD" rend="Bilaga">
+              Bilaga 3
+            </p>
+            <p xml:id="IDADQRWD" rend="BilageRubrik">
+              Utskottets lagförslag
+            </p>
+          </div>
+          <div type="html-lagforslagrubrik">
+            <p xml:id="IDAHQRWD" rend="Lagrubrik">
+              Förslag till lag om ändring i lagen (1997:614) om kommunal redovisning
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell>
+                  <p rend="lagtextutskott grad2">
+                    Regeringens förslag
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextutskott grad2">
+                    Utskottets förslag
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell cols="2">
+                  <p rend="lagtextparagraf grad1">
+                    5 kap.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell cols="2">
+                  <p rend="lagtextparagraf">
+                    7 §
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    Efter kommunens eller landstingets beslut ska sådana bidrag som
+                    avses i 2 kap. 1 § lagen (2009:47) om vissa kommunala befogenheter
+                    tas upp i balansräkningen under posten Bidrag till statlig infrastruktur.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    Efter kommunens eller landstingets beslut ska sådana bidrag som
+                    avses i 2 kap. 1 § lagen (2009:47) om vissa kommunala befogenheter
+                    tas upp i balansräkningen under posten Bidrag till statlig infrastruktur
+                    <seg rend="grad2">
+                      eller redovisas som en kostnad i resultaträkningen.
+                    </seg>
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    Varje bidrag som redovisas
+                    <seg rend="grad2">
+                      under posten ska med årliga enhetliga belopp upplösas under 15
+                    </seg>
+                    år.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    Varje bidrag som redovisas
+                    <seg rend="grad2">
+                      i balansräkningen ska upplösas med årliga enhetliga belopp under
+                      högst 25 år. Upplösningen ska påbörjas det år bidraget beslutas.
+                      För bidrag som har beslutats under år 2009 får dock upplösning
+                      påbörjas det år första utbetalningen av bidraget görs.
+                    </seg>
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    I not till balansräkningen ska
+                    <seg rend="grad2">
+                      följande anges:
+                    </seg>
+                  </p>
+                  <p rend="lagtextindrag_ grad2">
+                    1. vad bidraget avser,
+                  </p>
+                  <p rend="lagtextindrag_ grad2">
+                    2. det sammanlagda bidraget,
+                  </p>
+                  <p rend="lagtextindrag_ grad2">
+                    3. hur mycket av bidraget som upplösts, och
+                  </p>
+                  <p rend="lagtextindrag_ grad2">
+                    4. i balansräkningen upptaget belopp.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    I not till balansräkningen
+                    <seg rend="grad2">
+                      och resultaträkningen ska för varje projekt det sammanlagda beloppet
+                      och vad bidraget avser. Därutöver ska i not till balansräkningen
+                      anges den valda tiden för bidragets upplösning, hur mycket av
+                      bidraget som upplösts och i balansräkningen upptaget belopp.
+                    </seg>
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

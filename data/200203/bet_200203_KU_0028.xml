@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200203_KU_0028">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen beslutade att avskaffa den författningsreglering av ridderskapet och adeln som har funnits kvar efter det att ståndsriksdagens avskaffats. Beslutet innebär att 1723 års privilegiebrev för ridderskapet och adeln upphävs och att riddarhusordningen ändras så att befogenheter eller åligganden för regeringen tas bort.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Författningsreglering av adeln och ridderskapet avskaffas (KU28)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Delvis bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0989</idno>
+              <title>2003-04-11</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">89</biblScope>
+              <note type="display-reference">2003-04-11</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0988</idno>
+              <title>2003-04-10</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">88</biblScope>
+              <note type="display-reference">2003-04-10</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GQ0K144</idno>
+              <title>2002/03:144</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">144</biblScope>
+              <note type="display-reference">2002/03:144</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="Ds">
+            <bibl type="Ds">
+              <idno type="riksdagen">GQB46</idno>
+              <title>Ds 2002:6</title>
+              <biblScope unit="riksdag-session">2002</biblScope>
+              <biblScope unit="document-number">6</biblScope>
+              <note type="display-reference">2002:6</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1866:37</idno>
+              <note type="display-reference">2003:178</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1723:1016 1</idno>
+              <note type="display-reference">2003:179</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GQ0334</idno>
+              <title>Adelns offentligrättsliga status</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">34</biblScope>
+              <note type="display-reference">proposition 2002/03:34 Adelns offentligrättsliga status</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="RES" subtype="beredning" n="50" when="2003-04-03">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2003-04-02">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2003-04-02">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2003-04-01">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2003-04-01">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2003-03-27">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2003-03-27">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-03-20">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-03-20">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-03-18">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-03-04">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2003-04-11">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2003-04-11">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2003-04-11">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2003-04-10">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2003-04-10">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2003-04-08">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2003-04-08">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Konstitutionsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2002/03:KU28
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Författningsreglering av adeln
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Utskottets förslag till riksdagsbeslut Riksdagen antar regeringens
+            förslag till 1. lag om ändring i riddarhusordningen (1866:37 s.
+            1) med den ändringen att ingressen får den lydelse som utskottet
+            föreslår i bilaga 3, 2. lag om upphävande av ridderskapets och
+            adelns privilegier (1723:1016 1). Stockholm den 27 mars 2003 På
+            konstitutionsutskottets vägnar Gunnar Hökmark Följande ledamöter
+            har deltagit i beslutet: Gunnar Hökmark (m), Göran Magnusson (s),
+            Barbro Hietala Nordlund (s), Pär Axel Sahlberg (s), Kenth Högström
+            (s), Mats Einarsson (v), Mats Berglind (s), Henrik S Järrel (m),
+            Anders Bengtsson (s), Tobias Krantz (fp), Kerstin Lundgren (c),
+            Helene Petersson (s), Nils Fredrik Aurelius (m), Billy Gustafsson
+            (s), Gustav Fridolin (mp), Liselott Hagberg (fp) och Tuve Skånberg
+            (kd).
+          </p>
+          <p>
+            2002/03 KU28 Sammanfattning Utskottet tillstyrker regeringens
+            förslag om att avskaffa den författningsmässiga reglering av ridderskapet
+            och adeln som har funnits kvar efter det att ståndsriksdagen avskaffats.
+          </p>
+          <p>
+            Redogörelse för ärendet Ärendet och dess beredning Mot bakgrund
+            av ett tillkännagivande av riksdagen har inom Regeringskansliet
+            utarbetats promemorian Adelns offentligrättsliga status (Ds 2002:6).
+            Promemorian, vars förslag överensstämmer med förslaget i propositionen,
+            har remissbehandlats. Remissyttranden har avgivits av Riksdagens
+            ombudsmän (JO), Svea hovrätt, Justitiekanslern, Kammarkollegiet,
+            Uppsala universitet, Lunds universitet, Riksarkivet, Riksantikvarieämbetet
+            och Riddarhusdirektionen. Sveriges advokatsamfund har beretts
+            tillfälle att yttra sig men avstått. Lagrådet har inte hörts,
+            då regeringen har bedömt att förslagen i propositionen, i den
+            mån de alls kan anses beröra sådan lag som anges i 8 kap. 18 §
+            andra stycket regeringsformen, är av så enkel beskaffenhet att
+            det är obehövligt att inhämta Lagrådets yttrande. Propositionens
+            huvudsakliga innehåll I propositionen föreslås att den författningsmässiga
+            regleringen av adeln skall upphöra. Detta åstadkoms enligt propositionen
+            genom att dels 1723 års privilegiebrev för ridderskapet och adeln
+            upphävs, dels de offentligrättsliga föreskrifter som finns i 1866
+            års riddarhusordning tas bort ur de paragrafer där sådana föreskrifter
+            finns. Ändringarna föreslås träda i kraft den 1 juli 2003. Utskottets
+            överväganden Utskottets förslag i korthet Utskottet tillstyrker
+            regeringens förslag om att avskaffa den författningsmässiga regleringen
+            av ridderskapet och adeln. Nuvarande ordning med bakgrund Bestämmelser
+            avseende den svenska adeln finns dels i ett privilegiebrev om
+            ridderskapets och adelns privilegier (SFS 1723:1016 1), dels i
+            riddarhusordningen (SFS 1866:37 s. 1). Båda är upptagna i registret
+            över gällande SFS-författningar och även intagna i Regeringskansliets
+            databas med Svensk författningssamling i fulltext (SFST). Privilegiebrevet
+            är både ålderdomligt och svårtillgängligt. Beträffande några av
+            paragraferna har det i databasen antecknats att de får anses ha
+            upphört att gälla. Riddarhusordningen innehåller bestämmelser
+            bl.a. om vilka som utgör "Sveriges ridderskap och adel", om riddarhuskapitationsavgiften,
+            om adelsmöte, om numreringen av bänkar i riddarhussalen och om
+            utseende av riddarhusdirektion. I riddarhusordningens sista paragraf,
+            33 §, anges att, om ridderskapet och adeln beslutar ändring eller
+            tillägg i riddarhusordningen överlämnas beslutet därom till regeringen
+            för stadfästelse. Beträffande den s.k. riddarhuskapitationsavgiften
+            sägs i 5 § att envar till myndig ålder kommen adelsman, som är
+            mantalsskriven i riket, är skyldig att varje år, under vilket
+            han taxeras till statlig eller kommunal inkomstskatt erlägga den
+            avgift - riddarhuskapitationsavgift - som för riddarhusets underhåll
+            och därmed sammanhängande ändamål kan bli av ridderskapet och
+            adeln beslutad och av regeringen till efterrättelse kungjord.
+            Avgiften skall erläggas före årets slut. Befrielse från erläggande
+            av kapitationsavgift får, då det föreligger särskilda omständigheter,
+            medges av riddarhusdirektionen. Enligt 6 § skall ridderskapet
+            och adeln sammanträda på riddarhuset till lagtima adelsmöte vart
+            tredje år den tredje lördagen i februari. Skulle ridderskapet
+            och adelns sammanträdande på annan tid påbjudas av regeringen
+            eller av riddarhusdirektionen anses nödvändigt för avgörande av
+            något ärende, som ej tål uppskov, skall urtima adelsmöte äga rum
+            på dag, som bestäms i förra fallet av regeringen och i det senare
+            av direktionen. Fram t.o.m. utgången av år 1974 gällde 1809 års
+            regeringsform. I 37 § första stycket fanns bestämmelser om Konungens
+            rätt att nobilitera, dvs. "i adeligt stånd upphöja", och om förlust
+            av adelskap. I andra stycket av samma paragraf fanns föreskriften
+            att riddarhusordningen, "som fastställes av Konungen samt ridderskapet
+            och adeln gemensamt, bestämmer huru ridderskapet och adeln må
+            sammanträda, för att om sina gemensamma angelägenheter besluta".
+            Under den tidigare regeringsformens giltighetstid genomfördes
+            flera stora och små reformer. En av de viktigaste var representationsreformen
+            1866, då fyrståndsriksdagen ersattes av tvåkammarriksdagen och
+            en ny riksdagsordning antogs. 1866 års riddarhusordning utfärdades
+            av Kungl. Maj:t den 22 juni 1866, sedan ridderskapet och adeln
+            för stadfästelse överlämnat ett av ståndet antaget förslag. Den
+            ersatte den tidigare riddarhusordningen från 1626. Den nuvarande
+            riddarhusordningen har ändrats nio gånger, varav två gånger sedan
+            1974 års regeringsform trätt i kraft, nämligen 1977 och 1992.
+            1977 års ändringar innebar att regeringen i förordning (SFS 1977:1142)
+            "efter framställning av ridderskapet och adeln" föreskrev att
+            tre paragrafer upphävdes, och att ändringar gjordes i tjugo av
+            paragraferna, bl.a. av innebörd att orden Kungl. Maj:t byttes
+            ut mot ordet regeringen. Regeringen tillkännagav samtidigt i SFS
+            den nya storleken av riddarhuskapitationsavgiften som också beslutats.
+            En av de paragrafer som upphävdes var 2 §. Paragrafen innehöll
+            föreskrifter om introduktion på riddarhuset. Den som upphöjdes
+            till grevlig, friherrlig eller adlig värdighet borde inom två
+            år från upphöjelsen anmäla sig för att vinna introduktion. Den
+            som försatt tvåårsfristen kunde förlora rätten till introduktion,
+            om inte Kungl. Maj:t täcktes genom särskild resolution återställa
+            den försuttna tiden. I en övergångsbestämmelse angavs att 2 §
+            även efter ändringsförordningens ikraftträdande skulle gälla i
+            fråga om ätt som ej tidigare introducerats. Senast ändrades riddarhusordningen
+            år 1992. Regeringen föreskrev i förordning (SFS 1992:949), "efter
+            framställning av ridderskapet och adeln" en ny lydelse av 5 §
+            1 mom. om skyldigheten att erlägga riddarhuskapitationsavgift.
+            Regeringen tillkännagav samtidigt i SFS den nya storleken av avgiften.
+            I samband med representationsreformen infördes i 114 § regeringsformen
+            bestämmelsen att de forna riksståndens privilegier, förmåner,
+            rättigheter och friheter skulle fortsätta gälla, där de inte haft
+            oskiljaktigt sammanhang med den stånden förut tillkommande representationsrätten
+            och således upphört tillsammans med den. Ändring eller upphävande
+            av privilegierna, förmånerna, rättigheterna och friheterna skulle
+            inte få ske annat än genom Konungens och riksdagens sammanstämmande
+            beslut och, om frågan rörde ridderskapet och adelns privilegier,
+            förmåner, rättigheter och friheter med samtycke av ridderskapet
+            och adeln. I övergångsbestämmelserna till 1974 års regeringsform
+            föreskrivs bl.a. (p. 7) att föreskrift som enligt äldre lag eller
+            annan författning skall beslutas av Konungen och riksdagen gemensamt
+            i stället skall beslutas genom lag. Vid Grundlagberedningens genomgång
+            av motsvarigheter mellan 1809 års regeringsform och beredningens
+            förslag angav Grundlagberedningen punkt 9 i övergångsbestämmelserna
+            som motsvarighet till 114 § i den gamla regeringsformen (SOU 1972:15,
+            Ny regeringsform Ny riksdagsordning, s. 380). Punkt 9 reglerade
+            bestämmelser om Svenska kyrkan och prästeståndets privilegier
+            (a.a. s. 34 och 228 f.) Tidigare riksdagsbehandling Konstitutionsutskottet
+            behandlade i sitt betänkande KU 1987/88:10 en motion om att ur
+            statliga förordningar mönstra ut bestämmelser rörande adeln. Utskottet
+            inhämtade i det ärendet yttrande från Riddarhusdirektionen, som
+            erinrade om de överväganden om den kvarvarande regleringen rörande
+            adelns rättsliga ställning som gjordes i Grundlagberedningens
+            betänkande år 1972. Grundlagberedningen hade gjort en genomgång
+            av bestämmelser i 1809 års regeringsform som inte borde få någon
+            motsvarighet i den nya regeringsformen. Till dem hörde 37 § om
+            kungens rätt att nobilitera och om riddarhusordningen. Grundlagberedningen
+            uttalade att ridderskapet och adeln var att betrakta som en offentligrättslig
+            korporation för vården av gemensamma angelägenheter och att grunden
+            för denna ställning, vilken adeln erhöll genom 1626 års riddarhusordning,
+            i första hand utgjordes av 1866 års riddarhusordning, i vars 33
+            § - utan hänvisning till 37 § RF - stadgades att av ridderskapet
+            och adeln beslutade ändringar i eller tillägg till riddarhusordningen
+            skall stadfästas av Konungen. Adelns rättsliga ställning förändrades
+            således enligt Grundlagberedningen om 37 § andra stycket RF upphävdes
+            inte på annat sätt än att förankringen i grundlag upphörde. (Se
+            a.a. s. 315 f.) Under hänvisning till den prövning som företogs
+            av Grundlagberedningen av frågan om den rättsliga regleringen
+            av ridderskapet och adeln fann utskottet inte skäl förorda att
+            man "nu" vidtog åtgärder för att utmönstra kvarvarande bestämmelser
+            som huvudsakligen torde beröra formerna för administrationen av
+            vissa för adeln gemensamma fastigheter. Frågan togs åter upp under
+            riksmötet 1999/2000. I en motion yrkades att riksdagen skulle
+            begära förslag från regeringen om upphävande av all offentligrättslig
+            reglering specifik för adel. Konstitutionsutskottet bedömde vid
+            sin behandling av motionen (bet. 2000/01:KU11) att det förhållandet
+            att riddarhusordningen och privilegiebrevet publiceras i offentligrättslig
+            ordning i SFS och finns med i register över gällande författningar
+            kan - liksom det förhållandet att beslut om ändring i riddarhusordningen
+            överlämnas till regeringen för stadfästelse - ses som en påminnelse
+            om förhållandena vid tiden för ståndsriksdagens avveckling. Enligt
+            utskottets mening fanns det skäl att pröva förutsättningarna för
+            och konsekvenserna av en ändring av den nuvarande regleringen.
+            Utskottet föreslog att riksdagen med anledning av motionen skulle
+            ge regeringen detta till känna. Riksdagen fattade beslut enligt
+            utskottets förslag. Propositionen Regeringen lägger i propositionen
+            fram två lagförslag, dels en lag om ändring i riddarhusordningen,
+            dels en lag om upphävande av ridderskapets och adelns privilegier.
+            Som nämnts ovan är förslagen likalydande med dem som presenterades
+            i den remissbehandlade departementspromemorian. Regeringen anför
+            som skäl för förslaget att den svenska adeln sedan lång tid inte
+            längre har några offentligrättsliga uppgifter och att det därför
+            inte finns något behov av offentligrättsliga regler specifika
+            för adeln. Regeringen anför vidare att riddarhusordningen, sedan
+            de bestämmelser som avser det allmännas medverkan i angelägenheter
+            som är adelns egna utmönstrats, kommer att vara en angelägenhet
+            enbart för adeln själv. Detta gäller såväl innehållet i och formerna
+            för ändringar som det sätt på vilket sådana ändringar offentliggörs.
+            En konsekvens av detta är, framhåller regeringen, att något återgivande
+            av riddarhusordningen i Svensk författningssamling inte längre
+            kommer att ske och att inte heller ändringar av riddarhuskapitationsavgiften
+            kommer att tas in där. Inte heller kommer riddarhusordningen längre
+            att återges i Regeringskansliets databas med svensk författningssamling.
+            Regeringen påpekar att sistnämnda förändring åstadkoms i administrativ
+            ord- ning. Med anledning av några av remissyttrandena anför regeringen
+            att ett avskaffande av adelns offentligrättsliga status knappast
+            kan åstadkommas genom att riddarhusordningen upphävs. Om en sådan
+            åtgärd alls vore möjlig, skulle den nämligen innebära att den
+            formella grunden för den korporation som ridderskapet och adeln
+            utgör skulle ryckas undan. Denna korporation utgör, framhåller
+            regeringen, ett eget rättssubjekt för hantering av vissa för adeln
+            gemensamma angelägenheter, bl.a. skötseln av fastigheten med riddarhuspalatset
+            i Stockholm, som är lagfaren för ridderskapet och adeln. Konsekvensen
+            skulle alltså kunna bli att detta rättssubjekt helt upphörde att
+            existera. Det är därför inte aktuellt i detta ärende att upphäva
+            riddarhusordningen. Regeringen påpekar vidare att gränserna för
+            riksdagens normgivningsmakt framgår av regeringsformen. Det finns
+            inga bestämmelser där som hindrar att riksdagen, som i detta fall,
+            genom lag beslutar att ändra eller upphäva offentligrättsliga
+            bestämmelser som har privilegiekaraktär eller som i formellt hänseende
+            innehåller betungande moment. Regeringen anser att det inte råder
+            några oklarheter om följderna av regeringens förslag: 1723 års
+            privilegiebrev upphävs. 1866 års riddarhusordning befrias från
+            sina offentligrättsliga inslag. Det rättssubjekt som ridderskapet
+            och adeln utgör består med riddarhusordningen som sitt grunddokument,
+            men ridderskapet och adeln kommer fortsättningsvis att verka under
+            samma villkor som andra privaträttsliga rättssubjekt. I propositionen
+            berörs inte den ovan nämnda övergångsbestämmelsen till 1977 års
+            ändringar i riddarhusordningen att 2 § riddarhusordningen om introduktion
+            på riddarhuset i vissa fall fortfarande skall gälla. Genom en
+            till Justitiedepartementet inkommen skrivelse har bestämmelsen
+            uppmärksammats efter det att propositionen överlämnats till riksdagen.
+            Motioner Propositionen har inte föranlett någon motion. Utskottets
+            ställningstagande Regeringens förslag har tillkommit efter ett
+            tillkännagivande från riksdagen om att det fanns skäl att pröva
+            förutsättningarna för och konsekvenserna av en ändring av den
+            nuvarande regleringen. Som regeringen erinrar om har den svenska
+            adeln sedan lång tid inte längre några offentligrättsliga uppgifter
+            och det finns därför inte något behov av offentligrättsliga regler
+            specifika för den. Riddarhusordningen bör således vara en angelägenhet
+            endast för adeln själv, såväl när det gäller innehållet i och
+            formerna för ändringar som det sätt på vilket sådana ändringar
+            bekantgörs. Som regeringen framhåller i propositionen skulle ett
+            upphävande av riddarhusordningen innebära att den formella grunden
+            rycks undan för den korporation som ridderskapet och adeln utgör,
+            och som utgör ett eget rättssubjekt för hantering av vissa för
+            adeln gemensamma angelägenheter. Att i offentligrättslig ordning
+            upphäva riddarhusordningen är därför inte aktuellt, men rättssubjektet
+            ridderskapet och adeln bör fortsättningsvis verka under samma
+            villkor som andra privaträttsliga rättssubjekt. Som metod för
+            att nå detta syfte har regeringen föreslagit att de bestämmelser
+            i riddarhusordningen som innehåller befogenheter eller åligganden
+            för regeringen skall ändras så att dessa befogenheter och åligganden
+            utgår. Ändringarna föreslås ske genom att riksdagen i lag fastställer
+            lydelsen av de aktuella bestämmelserna. Utskottet anser att den
+            föreslagna utformningen av förslaget bör godtas. Enligt utskottets
+            uppfattning bör övergångsbestämmelsen till förordningen (1977:1142)
+            om ändring i riddarhusordningen (1866:37 s. 1) upphöra att gälla.
+            Utskottet föreslår därför ett tillägg i ingressen i regeringens
+            lagförslag. Utskottet tillstyrker regeringens förslag om upphävande
+            av 1723 års privilegiebrev. Bilaga 1 Förteckning över behandlade
+            förslag Propositionen 2002/03:34 Adelns offentligrättsliga status
+            Riksdagen antar regeringens förslag till 1. lag om ändring i riddarhusordningen
+            (1866:37 s. 1), 2. lag om upphävande av ridderskapets och adelns
+            privilegier (1723:1016 1).
+          </p>
+          <p>
+            Bilaga 2 Regeringens lagförslag 1. Förslag till lag om ändring
+            i riddarhusordningen (1866:37 s. 1) Härigenom föreskrivs i fråga
+            om riddarhusordningen (1866:37 s. 1)[1] dels att 33 § skall upphöra
+            att gälla, dels att 5 § 1 mom. samt 6, 21 och 23 §§ skall ha följande
+            lydelse. -----------------------------------------------------
+            Nuvarande lydelse Föreslagen lydelse -----------------------------------------------------
+            5 § 1 mom.[2] -----------------------------------------------------
+            En var till myndig ålder En var till myndig ålder kommen adelsman,
+            som är kommen adelsman, som är mantalsskriven i riket, mantalsskriven
+            i riket, är skyldig att varje år, är skyldig att varje år, under
+            vilket han taxeras under vilket han taxeras till statlig eller
+            till statlig eller kommunal inkomstskatt kommunal inkomstskatt
+            erlägga den avgift - erlägga den avgift - riddarhuskapitationsavgift
+            riddarhuskapitationsavgift - som för riddarhusets - som för riddarhusets
+            underhåll och därmed underhåll och därmed sammanhängande ändamål
+            sammanhängande ändamål kan varda av ridderskapet kan varda av
+            ridderskapet och adeln beslutad och av och adeln beslutad. regeringen
+            till Avgiften skall erläggas efterrättelse kungjord. före årets
+            slut. Avgiften skall erläggas före årets slut. -----------------------------------------------------
+            6 §[3] ----------------------------------------------------- Ridderskapet
+            och adeln skall sammanträda å riddarhuset till lagtima adelsmöte
+            vart tredje år den tredje lördagen i februari. -----------------------------------------------------
+            Skulle ridderskapet och Skulle ridderskapet och adelns sammanträdande
+            å adelns sammanträdande å annan tid, än nu sagt är, annan tid,
+            än nu sagt är, av regeringen påbjudas, av riddarhusdirektionen
+            eller av riddarhusdirek- anses nödvändigt för tionen anses nödvändigt
+            avgörande av något för avgörande av något ärende, som ej tål ärende,
+            som ej tål uppskov, skall urtima uppskov, skall urtima adelsmöte
+            äga rum å dag, adelsmöte äga rum å dag, som av direktionen som
+            i förra fallet av bestämmes samt i allmänna regeringen och i senare
+            tidningarna sist trettio av direktionen bestämmes dagar före den
+            utsatta samt i allmänna dagen kungöres; därvid tidningarna sist
+            trettio tillika bör uppgivas det dagar före den utsatta eller
+            de ärenden, som dagen kungöres; därvid föranlett ridderskapet
+            tillika bör uppgivas det och adelns eller de ärenden, som sammankallande.
+            föranlett ridderskapet och adelns sammankallande. -----------------------------------------------------
+            21 §[4] -----------------------------------------------------
+            Utom de i § 15 omförmälda Utom de i § 15 frågor, ävensom sådana,
+            omförmälda frågor, vilka angå arbetssättet, ävensom sådana, vilka
+            må till överläggning och angå arbetssättet, må beslut hos ridderskapet
+            till överläggning och och adeln förekomma: beslut hos ridderskapet
+            och adeln förekomma: vid lagtima adelsmöte: vid lagtima adelsmöte:
+            ----------------------------------------------------- 1:o) framställningar,
+            som av regeringen till ridderskapet och adeln avlåtas; -----------------------------------------------------
+            2:o) frågor, som 1:o) frågor, som föranledas av den utav föranledas
+            av den utav riddarhusdirektionen riddarhusdirektionen avgivna
+            berättelse avgivna berättelse angående förvaltningen av angående
+            förvaltningen av riddarhus- och adliga riddarhus- och adliga stiftsärendena
+            ävensom stiftsärendena ävensom revisorernas berättelser, revisorernas
+            berättelser, så ock framställningar, så ock framställningar, vilka
+            i övrigt må av vilka i övrigt må av riddarhusdirektionen riddarhusdirektionen
+            göras angående nämnda göras angående nämnda samt andra därmed
+            samt andra därmed sammanhang ägande sammanhang ägande ärenden;
+            ärenden; -----------------------------------------------------
+            3:o) riddarhusutskottets 2:o) riddarhusutskottets eller särskilt
+            tillsatt eller särskilt tillsatt utskotts utlåtande och utskotts
+            utlåtande och förslag enligt vad i § 17 förslag enligt vad i §
+            17 säges; och säges; och -----------------------------------------------------
+            4:o) motion, som av någon 3:o) motion, som av ledamot väckes angående
+            någon ledamot väckes ej mindre förenämnda angående ej mindre ärenden
+            än även frågor, förenämnda ärenden än som avse dels förslag även
+            frågor, som avse till ändring i denna dels förslag till ändring
+            riddarhusordning, dels i denna riddarhusordning, vad i övrigt
+            till dels vad i övrigt till ridderskapet och adelns ridderskapet
+            och adelns gemensamma angelägenheter gemensamma angelägenheter
+            är att hänföra; samt är att hänföra; samt -----------------------------------------------------
+            å urtima adelsmöte: å urtima adelsmöte: allenast det eller de
+            allenast det eller de ärenden, som föranlett ärenden, som föranlett
+            ridderskapet och adelns ridderskapet och adelns sammankallande.
+            sammankallande. -----------------------------------------------------
+            23 §[5] -----------------------------------------------------
+            Framställningar av Frågor, vilka föranledas regeringen ävensom
+            av riddarhusdirektionens frågor, vilka föranledas förenämnda berättelse
+            av riddarhusdirektionens eller i övrigt av förenämnda berättelse
+            direktionen till eller i övrigt av ridderskapet och adeln direktionen
+            till hemställas, så ock ridderskapet och adeln frågor, vartill
+            hemställas, så ock revisorernas berättelser frågor, vartill giva
+            anledning eller revisorernas berättelser varom motion blivit giva
+            anledning eller väckt, må ej till varom motion blivit avgörande
+            företagas, väckt, må ej till innan utskott däröver sig avgörande
+            företagas, yttrat. innan utskott däröver sig yttrat. -----------------------------------------------------
+            Efter öppningssammanträdet äger adelsmötets ordförande att på
+            ridderskapet och adelns vägnar besluta om remiss till utskott.
+            Finnes motion såsom för sent väckt ej föranleda remiss, äger motionären
+            vid nästkommande sammanträde med ridderskapet och adeln påkalla
+            ståndets beslut huruvida remiss skall ske. -----------------------------------------------------
+            _______________ Denna lag träder i kraft den 1 juli 2003. **FOOTNOTES**
+            [1]: Senaste lydelse av 33 § 1977:1142. [2]: Senaste lydelse 1992:949.
+            [3]: Senaste lydelse 1977:1142. [4]: Senaste lydelse 1977:1142.
+            [5]: Senaste lydelse 1977:1142. 2. Förslag till lag om upphävande
+            av ridderskapets och adelns privilegier (1723:1016 1) Härigenom
+            föreskrivs att ridderskapets och adelns privilegier (1723:1016
+            1) skall upphöra att gälla vid utgången av juni 2003. Bilaga 3
+            Utskottets lagförslag Utskottets förslag till lydelse av ingressen
+            till lag om ändring i riddarhusordningen (1866:37 s. 1) Härigenom
+            föreskrivs i fråga om riddarhusordningen (1866:37 s. 1) dels att
+            33 § skall upphöra att gälla, dels att övergångsbestämmelsen till
+            förordningen (1977:1142) om ändring i riddarhusordningen skall
+            upphöra att gälla, dels att 5 § 1 mom. samt 6, 21 och 23 §§ skall
+            ha följande lydelse.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

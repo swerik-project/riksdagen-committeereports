@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200304_FIU_0022">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sade nej till förslag från Riksdagens revisorer om statens styrning av kommunerna. Revisorernas förslag handlar i huvudsak om problem och otydligheter i redovisningen av statsbidragen till kommuner och landsting. Riksdagen tycker att det finns utrymme för att förbättra redovisningen av statsbidragen till kommuner och landsting. Statsbidragen skulle kunna redovisas på ett mer överskådligt sätt än i dag utan att riksdagen behöver begära en fullständig redovisning som revisorerna föreslår.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Statens styrning av kommunerna (FiU22)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Avslag på Riksdagens revisorers förslag. Avslag på samtliga motioner.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottet</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GR0984</idno>
+              <title>2004-03-17</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">84</biblScope>
+              <note type="display-reference">2004-03-17</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GR0984</idno>
+              <title>2004-03-17</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">84</biblScope>
+              <note type="display-reference">2004-03-17</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GR0K158</idno>
+              <title>2003/04:158</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">158</biblScope>
+              <note type="display-reference">2003/04:158</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="frsrdg">
+              <idno type="riksdagen">GQ04RR21</idno>
+              <title>Riksdagens revisorers förslag om staten och kommunerna</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">RR21</biblScope>
+              <note type="display-reference">forslag 2002/03:RR21 Riksdagens revisorers förslag om staten och kommunerna</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GR02Fi14</idno>
+              <title>med anledning av förs. 2002/03:RR21 Riksdagens revisorers förslag om staten och kommunerna</title>
+              <title type="sub">av Lena Ek m.fl. (C)</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">Fi14</biblScope>
+              <note type="display-reference">motion 2003/04:Fi14 med anledning av förs. 2002/03:RR21 Riksdagens revisorers förslag om staten och kommunerna</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GR02Fi278</idno>
+              <title>Kommunal ekonomi</title>
+              <title type="sub">av Karin Pilsäter m.fl. (FP)</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">Fi278</biblScope>
+              <note type="display-reference">motion 2003/04:Fi278 Kommunal ekonomi</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2004-03-08">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2004-03-08">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2004-03-05">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2004-03-03">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2004-03-02">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2004-03-02">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2004-02-05">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2004-03-17">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2004-03-17">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2004-03-17">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2004-03-17">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2004-03-17">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2004-03-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2004-03-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Finansutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2003/04:FIU22
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Statens styrning av kommunerna (2002/03:RR21)
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning Finansutskottet avstyrker fyra förslag från Riksdagens
+            revisorer som i huvudsak handlar om problem och otydligheter i
+            redovisningen av statsbidragen till kommuner och landsting. Revisorerna
+            anser att begreppet statsbidrag behöver definieras och avgränsas,
+            att redovisningen av statsbidragen behöver förbättras och deras
+            effekter klargöras, att ansvaret för redovisningen av statsbidragen
+            behöver förtydligas och att balanskravet för kommuner och landsting
+            behöver tydliggöras och sanktionsmöjligheter utredas. Utskottet
+            anser emellertid att det finns utrymme för att förbättra redovisningen
+            av statsbidragen till kommuner och landsting. Statsbidragen skulle
+            enligt utskottets bedömning kunna redovisas på ett mer överskådligt
+            sätt än i dag utan att riksdagen behöver begära en fullständig
+            redovisning som revisorerna föreslår. Utskottet avstyrker också
+            fyra motionsförslag som dels tar upp samma ämnen som revisorerna,
+            dels berör den kommunala självstyrelsens ställning, dels kommunernas
+            ansvar vid nationella satsningar på infrastruktur. I betänkandet
+            finns 6 reservationer.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Klargör begreppet statsbidrag
+            Riksdagen avslår förslag 2002/03:RR21 punkt 1. Reservation 1 (m,
+            fp, kd, c) 2. Redovisa statsbidragen och klargör deras effekter
+            Riksdagen avslår förslag 2002/03:RR21 punkt 2 och motion 2003/04:Fi278
+            yrkandena 1 och 2. Reservation 2 (m, fp, kd, c) 3. Tydliggör innehåll
+            och ansvar för redovisningen av statsbidragen Riksdagen avslår
+            förslag 2002/03:RR21 punkt 3. Reservation 3 (m, fp, kd, c) 4.
+            Tydliggör balanskravet och utred sanktionsmöjligheter Riksdagen
+            avslår förslag 2002/03:RR21 punkt 4. Reservation 4 (m, fp, kd,
+            c) 5. Kommunernas självstyrelse Riksdagen avslår motion 2003/04:Fi14
+            yrkande 1. Reservation 5 (c) 6. Kommunernas ansvar vid nationella
+            infrastruktursatsningar Riksdagen avslår motion 2003/04:Fi14 yrkande
+            2. Reservation 6 (c) Stockholm den 2 mars 2004 På finansutskottets
+            vägnar Sven-Erik Österberg Följande ledamöter har deltagit i beslutet:
+            Sven-Erik Österberg (s), Carin Lundberg (s), Sonia Karlsson (s),
+            Kjell Nordström (s), Mats Odell (kd), Agneta Ringman (s), Gunnar
+            Axén (m), Tommy Waidelich (s), Christer Nylander (fp), Hans Hoff
+            (s), Tomas Högström (m), Agneta Gille (s), Yvonne Ruwaida (mp),
+            Cecilia Widegren (m), Gunnar Nordmark (fp), Siv Holma (v) och
+            Jörgen Johansson (c).
+          </p>
+          <p>
+            Redogörelse för ärendet Ärendet och dess beredning På förslag
+            av finansutskottet har Riksdagens revisorer granskat statens styrning
+            av kommunerna. Resultaten av granskningen har tidigare redovisats
+            för riksdagen genom rapporter och tre skrivelser: Skrivelse 2001/02:RR19
+            Riksdagens revisorers förslag angående statens styrning av livsmedelstillsynen
+            (bilaga 1), som riksdagsbehandlades i betänkande 2001/02:MjU22.
+            Skrivelse 2002/03:RR3 Riksdagens revisorers förslag angående statens
+            styrning av skolan (bilaga 2), som riksdagsbehandlades i betänkande
+            2002/03:UbU3. Skrivelse 2002/03:RR4 Riksdagens revisorers förslag
+            angående nationella mål i kommunernas äldreomsorg (bilaga 3),
+            som riksdagsbehandlades i betänkande 2002/03:SoU9. Den nu aktuella
+            skrivelsen är en slutrapportering av revisorernas granskning av
+            statens styrning av kommunerna. Den innehåller dels en summering
+            av de tidigare skrivelserna, dels fyra nya förslag som baseras
+            på rapporten 2002/03:14 Vad ska man tro? Redovisning av statsbidrag
+            till kommunerna (bilaga 4). Som underlag för revisorernas bedömningar
+            ligger också två forskarrapporter, Statens styrning av kommunerna
+            (bilaga 5) samt Kommunal självstyrelse i förändring (bilaga 6).
+            Utskottet behandlar och avstyrker revisorernas förslag samt två
+            motioner med sammanlagt fyra yrkanden.
+          </p>
+          <p>
+            Utskottets överväganden Bakgrund Revisorernas skrivelse Revisorerna
+            pekar på en rad oklarheter i frågor som rör statens styrning av
+            kommunerna. Det är oklart hur staten påverkar kommunerna genom
+            utformningen av bidrags- och utjämningssystem. Komplexiteten i
+            systemen är betydande vilket gör det mycket svårt att förstå och
+            överblicka bidrags- och utjämningssystemen, skriver revisorerna.
+            Vidare skriver revisorerna att regeringens sätt att genomföra
+            ekonomiska regleringar gentemot kommuner och landsting riskerar
+            att urholka de generella statsbidragen. När kommunerna t.ex. tilldelas
+            en ny uppgift görs normalt en reglering som ger kommunerna medel
+            för att utföra den. Regleringen tar emellertid inte hänsyn till
+            att omfattningen av den nya tjänsten kan förändras över tiden
+            vilket kan leda till att kommunerna blir såväl under- som överkompenserade.
+            Om den ursprungliga regleringen inte räcker till, finns en risk
+            att statsbidraget efterhand urholkas så att det är oklart i vilken
+            mån bidraget kan betraktas som ett finansiellt stöd, anser revisorerna.
+            Revisorerna är också kritiska till den ökade användningen av specialdestinerade
+            statsbidrag och anser att det är oklart vilka analyser som ligger
+            till grund för denna utveckling. Det saknas analyser, skriver
+            revisorerna, av hur kommunernas möjligheter att bedriva sin verksamhet
+            påverkas av den ökade andelen specialdestinerade statsbidrag.
+            Bristen på konsekvensanalyser är allvarlig. För att ge riksdagen
+            bättre underlag för att bedöma effekterna av regeringens förslag
+            behövs konsekvensanalyser av hur förslagen påverkar kommunernas
+            ekonomi, verksamhet och medborgare, anser revisorerna. Även redovisningen
+            av statsbidragen till kommuner och landsting är oklar, anser revisorerna,
+            både vad beträffar redovisningens innehåll och vem som ansvarar
+            för den. Regeringen har heller inte vid något tillfälle lämnat
+            en samlad redovisning av de generella och specialdestinerade statsbidragen.
+            Det är inte ens klart hur begreppet statsbidrag definieras trots
+            att det används i reglering och officiell statistik. Balanskravets
+            syfte är att åstadkomma en god ekonomisk hushållning i kommuner
+            och landsting. Det finns dock möjligheter för kommuner som har
+            synnerliga skäl att inte behöva uppfylla balanskravet, skriver
+            revisorerna. Huruvida det finns synnerliga skäl eller inte är
+            dock en fråga som den enskilda kommunen eller landstinget självt
+            får avgöra. Det saknas även sanktionsmöjligheter mot de kommuner
+            eller landsting som bryter mot balanskravet. Revisorerna lämnar
+            fyra förslag. Förslagen berör frågor om att begreppet statsbidrag
+            behöver definieras och avgränsas, att redovisningen av statsbidragen
+            behöver förbättras och deras effekter klargöras, att ansvaret
+            för redovisningen av statsbidragen behöver förtydligas och att
+            balanskravet för kommuner och landsting behöver tydliggöras och
+            sanktionsmöjligheter utredas. Statskontorets rapport om statsbidragen
+            till kommuner och landsting I september 2003 presenterade Utjämningskommittén
+            sitt betänkande Gemensamt finansierad utjämning i kommunsektorn
+            (SOU 2003:88). Som underlag för utredningen gav kommittén Statskontoret
+            i uppdrag att kartlägga och analysera statsbidragsgivningen till
+            kommuner och landsting. Statskontoret fick i uppgift att särskilt
+            beskriva och analysera vilka statsbidrag som utgår till kommuner
+            och landsting, de olika bidragens syfte, omfattning, konstruktion
+            och finansiering, bidragens fördelning på olika kommuner och landsting,
+            om några av bidragen har en konstruktion som påverkar utjämningen
+            mellan kommuner och landsting samt omfattningen av denna eventuella
+            påverkan. I uppdraget ingick också att bedöma möjligheterna att
+            inordna specialdestinerade statsbidrag i det generella bidraget.
+            I januari 2003 presenterade Statskontoret resultatet av sitt uppdrag
+            i rapporten Statsbidragen till kommuner och landsting (2003:5).
+            En sammanfattning av rapporten finns som bilaga 5 i Utjämningskommitténs
+            betänkande. Statskontoret skriver att begreppen generella och
+            specialdestinerade statsbidrag inte är helt okomplicerade. Är
+            ett generellt bidrag generellt för att det är avsett för alla
+            kommuner och landsting, för att det inte är knutet till en speciell
+            verksamhet eller bådadera? Är ett specialdestinerat bidrag riktat
+            mot en speciell verksamhet, mot vissa kommuner eller landsting,
+            eller bådadera? Av analytiska skäl har Statskontoret i stället
+            valt att göra en indelning utifrån två grunder. Den ena delar
+            in anslagen beroende på om de är avsedda för alla kommuner eller
+            landsting, bara vissa eller blandat, dvs. delvis avsett för alla,
+            delvis för vissa kommuner och landsting. Den andra analysgrunden
+            tar sikte på om ett anslag är knutet till en viss verksamhet eller
+            inte. Statskontoret pekar dock på att underlaget för analysen
+            är omfattande och komplext, och att det inte är möjligt att entydigt
+            avgränsa de olika kategorierna från varandra. Det är heller inte
+            så, skriver Statskontoret, att ett anslag i sin helhet antingen
+            är eller inte är ett statsbidrag. Statskontoret har i sin analys
+            valt att använda sig av tre kategorier: Anslag som i sin helhet
+            är avsedda för kommuner och landsting. Anslag som till en del
+            är avsett för kommuner eller landsting. Anslag där det inte finns
+            särskilt avsatta medel för kommuner och landsting men där dessa
+            ändå mottagit utbetalningar. En ytterligare komplikation i analysen
+            är att det inte är självklart att alla medel som betalats ut till
+            kommunerna utgör ett verkligt resurstillskott. Det finns exempelvis
+            ett antal anslag som utgör ersättning från staten till kommuner
+            och landsting för att dessa utfört tjänster för statens räkning.
+            Som exempel på detta nämner Statskontoret bl.a. ersättningen för
+            klinisk utbildning och forskning, ersättning till vissa regionala
+            självstyrelseorgan och ersättning för kommunala högskoleutbildningar.
+            Sammantaget bedömer Statskontoret att ersättningar för tjänsteköp
+            uppgår till ca 6 miljarder kronor. I kategori 3 enligt uppställningen
+            ovan, ingår hela 72 anslag som sammanlagt uppgår till drygt 5
+            miljarder kronor. Statskontoret skriver dock att det till allra
+            största delen handlar om bidrag som utgår till kommuner och landsting
+            på samma villkor som till andra mottagare. Ungefär en halv miljard
+            av medlen utgörs dessutom av EU-medel. Inte heller dessa 5 miljarder
+            är enligt Statskontorets bedömning att betrakta som statsbidrag
+            avsedda att stödja den kommunala sektorn. Sammanlagt har Statskontoret
+            identifierat 127 anslag som berör kommunsektorn, och från dessa
+            anslag utbetalades sammanlagt 139 miljarder kronor till kommuner
+            och landsting under 2001. I dessa medel ingår dock utjämningsbidraget,
+            som ju motsvaras av en lika stor avgift och därför inte är något
+            stöd till kommunsektorn, utan en omfördelning inom sektorn. Dessutom
+            ingår medel för köp av tjänster m.m. som knappast heller kan betraktas
+            som ett stöd till kommunsektorn. Efter att ha tagit hänsyn till
+            dessa faktorer gör Statskontoret bedömningen att ca 112 miljarder
+            kronor är en mer rättvisande siffra över statsbidragens storlek
+            under 2001. Anslagens storlek varierar kraftigt. Mer än 60 % av
+            anslagen är mindre än 50 miljoner kronor och dessa svarar sammanlagt
+            för bara 0,5 % av de utbetalda medlen. Hela 22 anslag är mindre
+            än 1 miljon kronor i utbetalt belopp och 43 anslag är mindre än
+            5 miljoner kronor. De 15 största anslagen svarar tillsammans för
+            mer än 95 % av stödet, och de 3 största anslagen svarar tillsammans
+            för mer än 80 % av det totala utbetalda beloppet. Redovisningen
+            av statsbidragen Redovisningen av kommunernas ekonomi och av statsbidragen
+            görs i olika sammanhang, med olika syften och enligt olika redovisningsprinciper.
+            Kommunernas egen redovisning bygger, i likhet med de statliga
+            myndigheternas, på bokföringsmässiga principer. Redovisningen
+            avser periodiserade intäkter och kostnader. Det är i dessa termer
+            som balanskravet för kommuner och landsting är definierat. Kommunernas
+            ekonomi ingår också som en del av den totala offentliga sektorn
+            och redovisas i nationalräkenskaperna (NR). NR-systemet, som använder
+            begreppet finansiellt sparande, är styrt av ett internationellt
+            regelverk under EU (ENS 95). Definitioner, avgränsningar och periodiseringsprinciper
+            är därmed fastställda för alla EU-länder och systemet syftar till
+            att ge en rättvisande och jämförbar bild av ländernas ekonomier
+            trots deras varierande administrativa uppbyggnad och ansvarsfördelning.
+            Statistiska centralbyrån har ansvaret för nationalräkenskaperna.
+            Informationen om den statliga sektorn, och därmed också statsbidragen
+            till kommunerna, hämtas i huvudsak från statsredovisningen som
+            Ekonomistyrningsverket (ESV) ansvarar för. Statsredovisningen
+            följer emellertid inte samma principer som NR utan det krävs bearbetningar
+            av uppgifterna från statsredovisningen för att de ska anpassas
+            till NR. ESV har ansvaret för bearbetningarna och fungerar således
+            i detta avseende som en underleverantör till SCB. Statsbidragen
+            till kommunerna redovisas också i statsbudgeten, fördelade på
+            anslag på det sätt som riksdagen bestämt. Huvuddelen av bidragen
+            till kommunerna redovisas under utgiftsområde 25 Allmänna bidrag
+            till kommuner, men betydande bidrag redovisas också under andra
+            utgiftsområden. Redovisningen i statsbudgeten är inte periodiserad
+            utan avser de kassamässiga utgifter som staten beräknas ha kommande
+            budgetår. Beskrivningar av vad som skiljer redovisningarna åt
+            har publicerats i flera olika sammanhang. I skriften Statens finanser
+            publicerar ESV årligen förklaringar till övergången mellan statsredovisningen
+            och nationalräkenskaperna. Under 2001 ägnade ESV i sina budgetprognoser
+            flera temaavsnitt åt sambanden mellan nationalräkenskaperna och
+            statsredovisningen och ett av dessa temaavsnitt handlade särskilt
+            om transfereringar till kommuner. I budgetpropositionen skriver
+            regeringen om dessa frågor och ägnar t.ex. en fördjupningsruta
+            åt att reda ut skillnaden mellan kommunernas resultat som används
+            vid bedömningen av balanskravet, och sektorns finansiella sparande
+            enligt NR (prop. 2003/04:1, bil. 2 s. 74-75). Det är fullt möjligt
+            både att uppfylla balanskravet trots ett negativt finansiellt
+            sparande och vice versa. De största skillnaderna beror på olika
+            sätt att periodisera skatterna, redovisa investeringar, pensionsskuldens
+            förändring samt finansiella kostnader och intäkter. I budgetpropositionen
+            (prop. 2003/04:1, avsnitt 4.4.5) ägnas också ett avsnitt åt att
+            redovisa övergången mellan statsbudgetens saldo (statsredovisningen)
+            och statens finansiella sparande (NR). Det har också gjorts ett
+            omfattande gemensamt arbete mellan de berörda myndigheterna ESV,
+            SCB och Konjunkturinstitutet (KI). Dessa bildade 1997 den s.k.
+            ASTA-gruppen för att utveckla jämförande statistik för statens
+            finanser. I regleringsbreven för 2000 och 2001 fick de tre myndigheterna
+            ett gemensamt uppdrag att "utveckla fördelningsnycklar och länktabeller
+            mellan NR och budgetredovisningen". I december 2001 överlämnade
+            gruppen sin rapport till regeringen. I regeringens arbete med
+            budgeten görs löpande avstämningar mellan de siffror som redovisas
+            i statsbudgeten och de som används i det finansiella sparandet,
+            för att säkerställa att beräkningarna hänger ihop trots de skillnader
+            som finns mellan redovisningssystemen. Klargör begreppet statsbidrag
+            Utskottets förslag i korthet Med hänvisning till skillnader som
+            finns mellan redovisningen i statsbudgeten och nationalräkenskaperna
+            avstyrker utskottet revisorernas förslag att definiera begreppet
+            statsbidrag. Därmed avstyrker utskottet revisorernas förslag 1.
+            Jämför reservation 1 (m, fp, kd, c). Revisorernas förslag Revisorerna
+            framhåller att begreppet statsbidrag används i olika sammanhang,
+            t.ex. i officiell statistik, men att begreppet inte har någon
+            definition. Bidrag som utgår till kommuner och landsting men inte
+            betraktas som statsbidrag behöver särskilt anges och förklaras.
+            Om begreppet definieras underlättas både redovisningen av statsbidragen
+            till kommuner och landsting och kommunikationen mellan staten
+            och kommunerna, anser revisorerna. Finansutskottets ställningstagande
+            Av Statskontorets rapport framgår tydligt att begreppet statsbidrag
+            till kommuner och landsting inte är enhetligt och inte har någon
+            fullständigt klar avgränsning. Det finns medel som går till kommuner
+            och landsting men som enligt Statskontoret inte kan anses vara
+            ett stöd till kommunsektorn. Det gäller t.ex. medel som är en
+            ersättning för att kommunerna utför vissa uppgifter för statens
+            räkning, och därför kan betraktas som köp av tjänster. Det finns
+            också medel som betalats ut till kommuner och landsting sedan
+            dessa sökt bidrag på samma villkor som andra tänkbara mottagare.
+            Som revisorerna skriver används begreppet statsbidrag i olika
+            sammanhang men har inte någon entydig definition. Det finns emellertid
+            olika sätt att redovisa den statliga ekonomin och de olika redovisningarna
+            skiljer sig åt beroende på vilket syfte redovisningen har. Statsbidragen
+            såsom de redovisas i statsbudgeten är, av orsaker som framgått
+            ovan, inte identiska med statsbidragen som de redovisas i nationalräkenskaperna.
+            Det är knappast möjligt att definiera begreppet statsbidrag som
+            en lista av anslag eftersom det finns flera anslag som delvis
+            går till kommunsektorn och delvis till andra mottagare. I ESV:s
+            bearbetningar från statsredovisningen till nationalräkenskaperna
+            kan en del av ett anslag kategoriseras som bidrag till kommuner.
+            Det är emellertid svårt att åskådliggöra en sådan uppdelning inom
+            ramen för statsbudgetens struktur. Utskottet anser att det är
+            viktigt att redovisningen är så tydlig och lättolkad som möjligt.
+            I regeringens årliga skrivelse Utvecklingen inom den kommunala
+            sektorn ges en översiktlig redovisning av hur ekonomin i kommuner
+            och landsting har utvecklats de senaste åren. I denna skrivelse
+            kan redovisningen av statsbidragen förbättras i syfte att få till
+            stånd en bra kommunikation mellan staten och kommunsektorn. Det
+            förefaller dock inte, mot bakgrund av redovisningssystemens olika
+            uppbyggnad och syften, lämpligt att begära en entydig definition
+            av begreppet statsbidrag. Revisorernas förslag punkt 1 avstyrks
+            därmed. Redovisa statsbidragen och klargör deras effekter Utskottets
+            förslag i korthet Utskottet anser att det finns utrymme för en
+            tydligare redovisning av statsbidragen till kommuner och landsting
+            men avstyrker revisorernas förslag om att i ett sammanhang ge
+            en samlad redovisning av alla statsbidrag. Utskottet anser heller
+            inte att det är nödvändigt för riksdagen att begära särskilda
+            analyser av effekterna av specialdestinerade statsbidrag. Därmed
+            avstyrker utskottet revisorernas förslag 2 samt en motion. Jämför
+            reservation 2 (m, fp, kd, c). Revisorernas förslag Huvudprincipen
+            bakom statens bidragsgivning till kommuner och landsting är att
+            bidragen ska vara generella, men att specialdestinerade bidrag
+            kan vara motiverade i vissa fall. Revisorerna konstaterar dock
+            att regeringen inte någon gång har lämnat en samlad redovisning
+            av de generella och specialdestinerade statsbidragen. Revisorerna
+            anser att det behövs analyser av effekterna av specialdestinerade
+            statsbidrag och anser att sådana analyser bör påbörjas snarast.
+            Utan sådana analyser är det svårt att ta ställning till behovet
+            av specialdestinerade statsbidrag. Revisorerna anser vidare att
+            målen för statens bidragsgivning borde innebära att specialdestinerade
+            statsbidrag används återhållsamt och att regeringen borde överväga
+            vilka bidrag som kan avvecklas. Ett första steg i en sådan process
+            skulle kunna vara att redovisa de specialdestinerade bidragen
+            i ett sammanhang. Redovisningen bör omfatta huruvida alla eller
+            vissa kommuner har rätt till bidrag vilka villkor som ska uppfyllas
+            för att få bidrag huruvida ansökan ska lämnas eller om bidraget
+            ska rekvireras vem som disponerar anslaget vilka kriterier eller
+            beräkningsunderlag som tillämpas hur bidraget ska följas upp.
+            Motionen I motion Fi278 (fp) ifrågasätts om de specialdestinerade
+            statsbidragen verkligen uppfyller de mål som de är ämnade för.
+            Bidragen riskerar att styra kommunernas agerande på ett sätt som
+            ger oförutsedda och oönskade effekter på kommunernas verksamhet.
+            Relationen mellan staten och kommunerna är oklar på flera sätt,
+            t.ex. vad gäller bidragssystemet, kommunernas resurser och individernas
+            rättssäkerhet. För att komma till rätta med denna osäkerhet behövs
+            ett antal åtgärder. Det behövs konsekvensanalyser för att riksdagen
+            ska kunna bedöma effekterna för kommuner och landsting av regeringens
+            förslag (yrkande 1). Motionärerna anser också att det behövs en
+            kartläggning och redovisning av alla olika typer av statsbidrag.
+            Effekterna av statsbidragen måste också klargöras och för detta
+            behövs en omfattande genomgång av redan gjorda utvärderingar samt
+            eventuella kompletteringar (yrkande 2). Finansutskottets ställningstagande
+            Revisorerna liksom motionärerna efterlyser en samlad redovisning
+            av både de generella och specialdestinerade statsbidragen till
+            kommunerna. Utskottet anser att Statskontorets rapport (2003:5)
+            till stor del är en sådan redovisning som revisorerna och motionärerna
+            efterlyser. Rapporten innehåller bl.a. en detaljerad genomgång
+            av alla anslag från vilka medel betalats ut till kommuner eller
+            landsting. Under 2001 var det hela 127 anslag där sådana utbetalningar
+            gjordes. Rapporten visar emellertid att materialet är komplext
+            och svårt att överblicka. Att begära att regeringen återkommande
+            ska lista alla dessa 127 anslag eller motsvarande förefaller dock
+            inte vara det mest meningsfulla sättet att informera riksdagen.
+            Som framgår av Statskontorets rapport är många anslag små och
+            av en karaktär som gör det mindre intressant för riksdagen att
+            begära en sådan fullständig anslagsredovisning. Detta betyder
+            emellertid inte att rapporteringen till riksdagen inte kan eller
+            bör förbättras. Ett begränsat antal anslag svarar för den helt
+            dominerande delen av statens stöd till kommunsektorn. Regeringen
+            skulle därför, utan att behöva gå så långt som revisorerna önskar,
+            kunna ge en fylligare och mer överskådlig bild av statsbidragen
+            än vad som nu är fallet. Utskottet anser alltså att det finns
+            utrymme för förbättringar i rapporteringen till riksdagen av statsbidragen
+            till kommunsektorn. Redovisningen skulle kunna göras mer samlad
+            än i dag, vilket skulle förbättra överblicken. Det förhållandet
+            att statsbidrag förekommer inom många utgiftsområden borde inte
+            behöva hindra en tydligare redovisning. Som framgår av Statskontorets
+            rapport skulle en samlad redovisning av t.ex. ett femtontal anslag
+            täcka in den helt dominerande delen av statens bidrag till kommunsektorn.
+            Utskottet vill också påminna om att Utjämningsutredningen (SOU
+            2003:88), som för närvarande remissbehandlas, föreslår en mängd
+            förändringar som påverkar statsbidragsgivningen. Som en del i
+            dessa förändringar ingår att flera specialdestinerade bidrag inordnas
+            i det generella statsbidraget. Sådana förändringar skulle troligen
+            innebära att antalet anslag som behöver redovisas samlat för att
+            i allt väsentligt täcka in statens stöd till kommunsektorn blir
+            än mindre. Regeringen avser att lämna en lagrådsremiss i det ärendet
+            den 15 april 2004. Revisorerna anser vidare att regeringen bör
+            analysera effekterna av specialdestinerade statsbidrag och pekar
+            på att med en ökande mängd specialdestinerade bidrag, riskerar
+            kommunerna att bli både över- och underkompenserade inom de områden
+            som staten vill stödja. Revisorernas skrivelse kan dock ge det
+            missvisande intrycket att sådana uppföljningar knappast förekommer.
+            Skolverket presenterade t.ex. en första uppföljning av maxtaxereformen
+            inom barnomsorgen i mars 2003, vilket också redovisades i regeringens
+            skrivelse om utveckling inom den kommunala sektorn (skr. 2002/03:102).
+            Även effekterna av medlen som avser personalförstärkningar i skolan
+            har följts upp en första gång av Skolverket, vilket också det
+            redovisas till riksdagen i samma skrivelse. Utskottet anser att
+            det är angeläget att regeringen noga följer upp effekterna av
+            bidragen till kommuner och landsting där så är möjligt och rimligt.
+            I regeringens skrivelse Utvecklingen inom den kommunala sektorn
+            redovisas hur verksamheterna utvecklas i förhållande till de nationella
+            mål som riksdag och regering har formulerat. Med denna redovisning
+            som grund kan en utvärdering göras av huruvida statsbidragen uppfyllt
+            de mål som de var ämnade för. Sådana uppföljningar bör vara en
+            viktig och naturlig del i arbetet med att utforma den statliga
+            styrningen av kommuner och landsting. Med tanke på att regeringen
+            bedriver ett omfattande utvärderingsarbete som berör kommunala
+            verksamheter anser emellertid inte utskottet att riksdagen behöver
+            begära några särskilda analyser av effekterna av specialdestinerade
+            statsbidrag. Med det anförda avstyrker utskottet revisorernas
+            förslag punkt 2 samt motion Fi278 (fp) yrkandena 1 och 2. Tydliggör
+            innehåll och ansvar för redovisningen av statsbidragen Utskottets
+            förslag i korthet Utskottet anser inte att ansvaret för redovisningen
+            av statsbidragen till kommuner och landsting behöver tydliggöras.
+            Därmed avstyrker utskottet revisorernas förslag 3. Jämför reservation
+            3 (m, fp, kd, c). Revisorernas förslag Revisorerna anser att det
+            finns oklarheter i regeringens, ESV:s och SCB:s uppgifter om statsbidrag
+            till kommunerna. Det finns skillnader mellan olika uppgifter och
+            dessa skillnader förklaras inte. Det är viktigt, framhåller revisorerna,
+            att statistik som till synes beskriver samma sak förklaras och
+            att eventuella bearbetningar framgår. Annars finns en risk att
+            beslutsfattare drar felaktiga slutsatser. ESV och SCB har inlett
+            ett samarbete om uppgifter avseende statsbidragen till kommuner,
+            och revisorerna anser att det är viktigt att detta arbete fortsätter
+            och ger resultat. Revisorerna föreslår att regeringen bör ge de
+            statistikansvariga myndigheterna i uppdrag att regelmässigt förklara
+            hur olika uppgifter har räknats fram. Revisorerna utgår från att
+            deras synpunkter beaktas av regeringen i samband med beredningen
+            av förslagen från Utredningen om översyn av den ekonomiska statistiken
+            (SOU 2002:118). Finansutskottets ställningstagande Ansvarsfördelningen
+            för den ekonomiska statistiken är oklar, anser revisorerna. ESV
+            håller dock inte med om detta. Nuvarande ordning innebär (som
+            framgått under rubriken Redovisningen av statsbidragen) förenklat
+            att nationalräkenskaperna redovisas enligt EU:s regelverk och
+            definitioner (ENS 95) och att SCB är ansvarig för detta. Statsredovisningen
+            bygger på uppgifter från myndigheterna och utgör underlag för
+            bl.a. anslagen i statsbudgeten. För den redovisningen ansvarar
+            ESV. Dessutom har ESV i uppdrag att bearbeta uppgifter från statsredovisningen
+            om statens inkomster och utgifter så att dessa överensstämmer
+            med NR:s definitioner. ESV förser sedan SCB med uppgifterna som
+            ingår som en del i nationalräkenskaperna. Utskottet delar således
+            inte revisorernas uppfattning att ansvaret för nationalräkenskaperna
+            är oklart. Utskottet förutsätter emellertid att de berörda myndigheterna,
+            i den mån de bedömer det som nödvändigt, samarbetar för att i
+            största möjliga utsträckning eliminera oklarheter i övergången
+            mellan de båda redovisningssystemen. Utskottet är också medvetet
+            om att det för närvarande pågår ett arbete med att förbättra den
+            ekonomiska statistiken. Med utgångspunkt från utredningen Utveckling
+            och förbättring av den ekonomiska statistiken (SOU 2002:118) fick
+            SCB i sitt regleringsbrev för 2004 i uppdrag att ta fram en åtgärdsplan
+            för förbättringar av den ekonomiska statistiken. Arbetet med åtgärdsplanen
+            kommer att redovisas löpande för regeringen och målsättningen
+            är att åtgärderna ska genomföras under en femårsperiod. Mot denna
+            bakgrund anser utskottet inte att riksdagen behöver göra något
+            särskilt uttalande i denna fråga och avvisar revisorernas förslag
+            punkt 3. Tydliggör balanskravet och utred sanktionsmöjligheter
+            Utskottets förslag i korthet Med hänvisning till att regeringen
+            avser att inom kort lägga fram en proposition om balanskravet
+            för kommuner och landsting anser utskottet inte att åtgärder bör
+            vidtas för att tydliggöra balanskravet. Därmed avstyrker utskottet
+            revisorernas förslag 4. Jämför reservation 4 (m, fp, kd, c). Revisorernas
+            förslag Revisorerna anser att balanskravet för kommuner och landsting
+            behöver tydliggöras. Undantag från balanskravet kan tillåtas om
+            det föreligger synnerliga skäl, men detta begrepp har inte preciserats.
+            Revisorerna skriver att vad som kan anses vara synnerliga skäl,
+            enligt förarbetena till lagen, är en lokal bedömning som ska prövas
+            i den politiska processen i enskilda kommuner och landsting. Frågan
+            om man följer lagen avgörs då av enskilda kommuner eller landsting.
+            Revisorerna anser också att frågan om sanktioner för de fall balanskravet
+            inte efterlevs behöver utredas. Finansutskottets ställningstagande
+            Ekonomiförvaltningsutredningen presenterade sitt betänkande God
+            ekonomisk hushållning i kommuner och landsting (SOU 2001:76) i
+            november 2001. Utredningen innehöll förslag till förändringar
+            i utformningen av balanskravet för kommuner och landsting. Frågan
+            bereds för närvarande i Regeringskansliet och regeringen avser
+            att lämna en proposition till riksdagen den 15 april i år. Utskottet
+            anser att propositionen inte bör föregripas genom några uttalanden
+            från riksdagens sida. Revisorernas förslag punkt 4 avstyrks. Kommunernas
+            självstyrelse Utskottets förslag i korthet Utskottet avvisar ett
+            motionsförslag om att klargöra innebörden av den kommunala självstyrelsen.
+            Jämför reservation 5 (c). Motionen I motion Fi14 (c) framhålls
+            att det kommunala självstyret måste värnas. Staten ger kommunerna
+            uppgifter men inte tillräcklig finansiering. Om kommuner och landsting
+            ska ha verklig möjlighet att fullfölja sitt uppdrag måste de också
+            få instrument för att kunna göra det. Det är nödvändigt, anser
+            motionärerna, att klargöra den reella innebörden av begreppet
+            kommunalt självstyre (yrkande 1). Finansutskottets ställningstagande
+            Frågan om den kommunala självstyrelsens ställning har behandlats
+            tidigare av finansutskottet. I betänkandet 2002/03:FiU19 behandlades
+            näraliggande frågor, och utskottet hänvisade då till den ingående
+            behandling av den kommunala självstyrelsens ställning som konstitutionsutskottet
+            gjorde i sitt betänkande 2000/01:KU12. Finansutskottet instämde
+            i konstitutionsutskottets uppfattning att det varken är lämpligt
+            eller möjligt att en gång för alla dra orubbliga och preciserade
+            gränser kring en kommunal självstyrelsesektor. Finansutskottet
+            vidhåller sin tidigare uppfattning. Utskottet vill också påminna
+            om Ansvarskommitténs arbete med att analysera samhällsförändringar
+            som skulle kunna föranleda förändringar av strukturen och uppgiftsfördelningen
+            i relationen mellan staten, landstingen och kommunerna. Utredningen
+            lämnade i december 2003 ett delbetänkande som för närvarande ligger
+            till grund för de direktiv som regeringen utformar för utredningens
+            fortsatta arbete. I delbetänkandet föreslog Ansvarskommittén att
+            det fortsatta arbetet bl.a. skulle avse "en strategi för en tydligare
+            ansvarsfördelning i samhällsorganisationen vid flernivåstyrning
+            där en renodling av ansvaret inte är möjlig eller lämplig och
+            som tar sikte på ökad utvecklingskraft". Kommitténs fortsatta
+            arbete kan komma att aktualisera frågor som berör den kommunala
+            självstyrelsens ställning och avgränsningar. Utskottet anser inte
+            att något tillkännagivande om att klargöra innebörden av den kommunala
+            självstyrelsen är motiverat. Med det anförda avstyrker utskottet
+            motion Fi14 (c) yrkande 1. Kommunernas ansvar vid nationella infrastruktursatsningar
+            Utskottets förslag i korthet Utskottet anser inte att kommunernas
+            roll vid finansieringen av nationella infrastruktursatsningar
+            behöver klargöras. Därmed avstyrker utskottet den aktuella motionen.
+            Jämför reservation 6 (c). Motionen Motionärerna delar, i motion
+            Fi14 (c), revisorernas uppfattning att det finns stora oklarheter
+            kring hur dagens bidragssystem verkar och vilka effekter det har.
+            Dessutom åläggs kommuner och landsting att vid sidan av bidragssystemet
+            delta i t.ex. infrastruktursatsningar, vilket skapar en ohållbar
+            situation för de berörda kommunerna. Kommunernas och landstingens
+            ansvar i samband med nationella infrastruktursatsningar behöver
+            klargöras (yrkande 2). Finansutskottets ställningstagande Det
+            finns en klar uppdelning mellan de vägar som är statens ansvar
+            och de som är kommunernas när det gäller det befintliga vägnätet.
+            I fråga om nyinvesteringar är dock ansvarsfördelningen inte alltid
+            given, inte minst då infrastrukturinvesteringar i många fall kan
+            vara ett ömsesidigt intresse för staten och de berörda kommunerna.
+            Frågor om finansieringsansvar för sådana investeringar avgörs
+            i förhandlingar mellan staten och kommunerna. Staten har emellertid
+            ingen möjlighet att formellt ålägga kommuner eller landsting att
+            delta i finansieringen av den nationella infrastrukturen. Utskottet
+            bedömer att det knappast är möjligt att dra någon skarp gräns
+            mellan statens och kommunernas ansvar i fråga om framtida investeringar
+            i infrastruktur, utan sådana frågor kommer att behöva avgöras
+            från fall till fall i förhandlingar mellan de berörda parterna.
+            Med det anförda avstyrker utskottet motion Fi14 (c) yrkande 2.
+          </p>
+          <p>
+            Reservationer Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer. I rubriken anges vilken
+            punkt i utskottets förslag till riksdagsbeslut som behandlas i
+            avsnittet. 1. Klargör begreppet statsbidrag, punkt 1 (m, fp, kd,
+            c) av Mats Odell (kd), Gunnar Axén (m), Christer Nylander (fp),
+            Tomas Högström (m), Cecilia Widegren (m), Gunnar Nordmark (fp)
+            och Jörgen Johansson (c). Förslag till riksdagsbeslut Vi anser
+            att förslaget till riksdagsbeslut under punkt 1 borde ha följande
+            lydelse: Riksdagen tillkännager för regeringen som sin mening
+            vad som anförs i reservationen om att klargöra begreppet statsbidrag.
+            Därmed bifaller riksdagen förslag 2002/03:RR21 punkt 1. Ställningstagande
+            Vi anser i likhet med Riksdagens revisorer att begreppet statsbidrag
+            behöver klargöras. Trots att det används såväl i regleringar som
+            i officiell statistik saknas i dag en definition av begreppet.
+            För att de ekonomiska relationerna mellan staten och kommunsektorn
+            ska vara tydliga och kommunikationen mellan de olika sektorerna
+            ska vara klar, är det en förutsättning att begreppsapparaten är
+            entydigt definierad. Det får inte råda någon tvekan om vad som
+            är eller inte är att betrakta som statsbidrag. Därmed föreslår
+            vi att riksdagen bifaller revisorernas förslag 2002/03:RR21, punkt
+            1. 2. Redovisa statsbidragen och klargör deras effekter, punkt
+            2 (m, fp, kd, c) av Mats Odell (kd), Gunnar Axén (m), Christer
+            Nylander (fp), Tomas Högström (m), Cecilia Widegren (m), Gunnar
+            Nordmark (fp) och Jörgen Johansson (c). Förslag till riksdagsbeslut
+            Vi anser att förslaget till riksdagsbeslut under punkt 2 borde
+            ha följande lydelse: Riksdagen tillkännager för regeringen som
+            sin mening vad som anförs i reservationen om att redovisa statsbidragen
+            och klargöra deras effekter. Därmed bifaller riksdagen förslag
+            2002/03:RR21 punkt 2 och bifaller delvis motion 2003/04:Fi278
+            yrkandena 1 och 2. Ställningstagande Grundprincipen bakom bidragsgivningen
+            till kommuner och landsting är att bidragen ska vara generella
+            men att specialdestinerade bidrag i vissa fall kan vara motiverade.
+            De senaste åren har emellertid antalet specialdestinerade bidrag
+            ökat markant utan att regeringen klargjort vilka analyser och
+            resonemang som ligger bakom denna förändring. Mängden specialdestinerade
+            statsbidrag framgår inte av regeringens redovisning, och det är
+            nära nog ogörligt att utifrån den skaffa sig en överskådlig bild
+            av bidragsgivningen till kommuner och landsting. I Statskontorets
+            rapport 2003:5 framgår att medel betalades ut till kommuner eller
+            landsting från inte mindre än 127 olika anslag på statsbudgeten
+            under 2001. Trots den stora mängden anslag och komplexiteten i
+            bidragsgivningen har regeringen inte vid något enda tillfälle
+            lämnat en samlad redovisning till riksdagen över statsbidragen
+            till kommunsektorn. Detta anser vi vara anmärkningsvärt. Inte
+            mindre anmärkningsvärd är avsaknaden av konsekvensanalyser av
+            effekterna av den stora mängden specialdestinerade statsbidrag.
+            Som bl.a. Svenska Kommunförbundet påtalat vid upprepade tillfällen
+            finns stora risker att de specialdestinerade bidragen inte uppfyller
+            de mål de är ämnade för. Bidragen tar inte hänsyn till lokala
+            förhållanden utan riskerar att påverka kommunernas agerande på
+            ett sätt som kan ge oönskade effekter och bidra till ineffektivitet
+            i kommunsektorn. Vi anser därför att regeringen regelbundet ska
+            ge riksdagen en samlad redovisning av statsbidragen till kommunerna
+            samt snarast påbörja ett arbete med att analysera effekterna på
+            kommunernas verksamhet av de specialdestinerade statsbidragen.
+            Med det anförda föreslår vi att riksdagen bifaller revisorernas
+            förslag 2002/03:RR21, punkt 2, samt delvis bifaller motion Fi278
+            (fp) yrkandena 1 och 2. 3. Tydliggör innehåll och ansvar för redovisningen
+            av statsbidragen, punkt 3 (m, fp, kd, c) av Mats Odell (kd), Gunnar
+            Axén (m), Christer Nylander (fp), Tomas Högström (m), Cecilia
+            Widegren (m), Gunnar Nordmark (fp) och Jörgen Johansson (c). Förslag
+            till riksdagsbeslut Vi anser att förslaget till riksdagsbeslut
+            under punkt 3 borde ha följande lydelse: Riksdagen tillkännager
+            för regeringen som sin mening vad som anförs i reservationen om
+            att tydliggöra innehåll och ansvar för redovisningen av statsbidragen.
+            Därmed bifaller riksdagen förslag 2002/03:RR21 punkt 3. Ställningstagande
+            Av Riksdagens revisorers rapport 2002/03:14 framgår att det finns
+            oklarheter i regeringens, ESV:s och SCB:s uppgifter om statsbidragen
+            till kommunerna. Statistik som till synes beskriver samma sak
+            innehåller uppgifter som inte är överensstämmande och skillnaderna
+            mellan uppgifterna förklaras inte på ett tillfredsställande sätt.
+            Vi anser att det är uppenbart att skillnader mellan olika statistiska
+            uppgifter så långt som möjligt bör elimineras, och om det inte
+            är möjligt ska de åtminstone förklaras tydligt. Regeringen bör
+            därför ge de statistikansvariga myndigheterna i uppdrag att regelmässigt
+            förklara hur olika uppgifter om statsbidragen till kommuner och
+            landsting beräknats och vad som skiljer olika redovisningar åt.
+            Även när det gäller ansvaret för nationalräkenskaperna (NR) har
+            revisorerna funnit att det finns oklarheter. ESV ska enligt sina
+            instruktioner sammanställa och beräkna statens totala inkomster
+            och utgifter i NR-termer, och ESV genomför också merparten av
+            de justeringar som krävs för NR:s behov. Revisorerna har dock
+            funnit att det trots detta finns oförklarade skillnader mellan
+            ESV:s och SCB:s uppgifter om statsbidragen till kommunerna. Vem
+            som har det slutliga ansvaret för uppgifterna i NR framstår enligt
+            revisorerna som oklart. Vi anser att detta är mycket otillfredsställande
+            och att ansvaret för den ekonomiska statistiken behöver tydliggöras.
+            Med det anförda föreslår vi att riksdagen bifaller revisorernas
+            förslag 2002/03:RR21, punkt 3. 4. Tydliggör balanskravet och utred
+            sanktionsmöjligheter, punkt 4 (m, fp, kd, c) av Mats Odell (kd),
+            Gunnar Axén (m), Christer Nylander (fp), Tomas Högström (m), Cecilia
+            Widegren (m), Gunnar Nordmark (fp) och Jörgen Johansson (c). Förslag
+            till riksdagsbeslut Vi anser att förslaget till riksdagsbeslut
+            under punkt 4 borde ha följande lydelse: Riksdagen tillkännager
+            för regeringen som sin mening vad som anförs i reservationen om
+            att tydliggöra balanskravet och utreda sanktionsmöjligheter. Därmed
+            bifaller riksdagen förslag 2002/03:RR21 punkt 4. Ställningstagande
+            Vi anser att det finns behov av att tydliggöra kommunallagens
+            krav på en budget i balans. Lagen medger att budgeten inte behöver
+            balanseras om det föreligger synnerliga skäl. Vad som anses vara
+            synnerliga skäl har emellertid inte klargjorts, utan lagen kan
+            tolkas så att det är den enskilda kommunen eller landstinget som
+            själv får avgöra om det föreligger synnerliga skäl. Dessutom förfogar
+            riksdag och regering inte över några sanktionsmöjligheter gentemot
+            kommuner eller landsting som bryter mot balanskravet. Mot denna
+            bakgrund anser vi att balanskravet behöver förtydligas och att
+            regeringen bör utreda möjligheten att införa någon form av sanktioner
+            för kommuner och landsting som inte lever upp till kommunallagens
+            krav på en budget i balans. Därmed föreslår vi att riksdagen bifaller
+            revisorernas förslag 2002/03:RR21, punkt 4. 5. Kommunernas självstyrelse,
+            punkt 5 (c) av Jörgen Johansson (c). Förslag till riksdagsbeslut
+            Jag anser att förslaget till riksdagsbeslut under punkt 5 borde
+            ha följande lydelse: Riksdagen tillkännager för regeringen som
+            sin mening vad som anförs i reservationen om kommunernas självstyrelse.
+            Därmed bifaller riksdagen motion 2003/04:Fi14 yrkande 1. Ställningstagande
+            För att kommuner och landsting ska kunna klara sina välfärdsuppdrag
+            måste det finnas en verklig kommunal självstyrelse. Dagens ordning,
+            där staten styr genom att lägga alltfler uppgifter på kommunerna
+            utan att bidra med tillräcklig finansiering, undergräver de lokalt
+            förtroendevaldas möjligheter att fullgöra sina uppdrag. Många
+            politiskt aktiva på lokal nivå uppfattar denna ordning som ett
+            ständigt pågående misstroendevotum mot dem. Statliga pålagor utan
+            finansiering framstår alltmer som ett hot mot den lokala demokratin.
+            Jag anser att det är nödvändigt att klargöra den reella innebörden
+            av begreppet kommunal självstyrelse. Detta bör riksdagen tillkännage
+            för regeringen som sin mening. Därmed föreslår jag att riksdagen
+            bifaller motion Fi14 yrkande 1. 6. Kommunernas ansvar vid nationella
+            infrastruktursatsningar, punkt 6 (c) av Jörgen Johansson (c).
+            Förslag till riksdagsbeslut Jag anser att förslaget till riksdagsbeslut
+            under punkt 6 borde ha följande lydelse: Riksdagen tillkännager
+            för regeringen som sin mening vad som anförs i reservationen om
+            kommunernas ansvar vid nationella infrastruktursatsningar. Därmed
+            bifaller riksdagen motion 2003/04:Fi14 yrkande 2. Ställningstagande
+            Jag anser att det behövs tydliga spelregler beträffande kommunernas
+            och landstingens finansieringsansvar i samband med nationella
+            satsningar på infrastruktur. Dagens oklarheter kring finansieringsansvaret,
+            och företeelsen att ålägga kommuner och landsting att bidra med
+            finansiering till nationella infrastrukturprojekt, skapar en ohållbar
+            situation för de berörda kommunerna. Ansvar och spelregler inom
+            detta område behöver klargöras, vilket riksdagen bör tillkännage
+            för regeringen som sin mening. Med det anförda föreslår jag att
+            riksdagen bifaller motion Fi14 yrkande 2.
+          </p>
+          <p>
+            Bilaga Förteckning över behandlade förslag Framställningen Framställning
+            2002/03:RR21 Riksdagens revisorers förslag om staten och kommunerna:
+            1. Riksdagen tillkännager för regeringen som sin mening vad Riksdagens
+            revisorer anfört i avsnittet 3.2.1 om att klargöra begreppet statsbidrag.
+            2. Riksdagen tillkännager för regeringen som sin mening vad Riksdagens
+            revisorer anfört i avsnittet 3.2.2 om att redovisa statsbidragen
+            och klargöra effekterna. 3. Riksdagen tillkännager för regeringen
+            som sin mening vad Riksdagens revisorer anfört i avsnittet 3.2.3
+            om att tydliggöra innehåll och ansvar för redovisning av statsbidrag.
+            4. Riksdagen tillkännager för regeringen som sin mening vad Riksdagens
+            revisorer anfört i avsnittet 3.2.4 om att tydliggöra balanskravet
+            och att utreda sanktionsmöjligheter. Följdmotion 2003/04:Fi14
+            av Lena Ek m.fl. (c): 1. Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om att innebörden i det kommunala
+            självstyret klargörs. 2. Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om att klargöra kommuners
+            och landstings ansvar och finansiering i samband med nationella
+            infrastruktursatsningar. Motion från allmänna motionstiden hösten
+            2003 2003/04:Fi278 av Karin Pilsäter m.fl. (fp): 1. Riksdagen
+            tillkännager för regeringen som sin mening vad i motionen anförs
+            om att effekterna av statliga beslut för kommunerna skall klargöras
+            och utgöra underlag för riksdagsbeslut, i enlighet med motionens
+            förslag. 2. Riksdagen begär att regeringen genomför en kartläggning
+            av olika statsanslag till kommunerna samt att effekterna av dessa
+            analyseras och redovisas.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

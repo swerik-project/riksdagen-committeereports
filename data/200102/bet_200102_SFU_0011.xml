@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_SFU_0011">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen avslog Riksdagens revisorers förslag om bättre efterkontroll av förtidspensioner bl.a. eftersom det inom Regeringskansliet pågår abete på området.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Efterkontroll av förtidspensioner (SfU11)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09101</idno>
+              <title>2002-04-24</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">101</biblScope>
+              <note type="display-reference">2002-04-24</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0999</idno>
+              <title>2002-04-19</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">99</biblScope>
+              <note type="display-reference">2002-04-19</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K214</idno>
+              <title>2001/02:214</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">214</biblScope>
+              <note type="display-reference">2001/02:214</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="frsrdg">
+              <idno type="riksdagen">GP04RR13</idno>
+              <title>Riksdagens revisorers förslag angående Efterkontroll av förtidspensioner</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">RR13</biblScope>
+              <note type="display-reference">forslag 2001/02:RR13 Riksdagens revisorers förslag angående Efterkontroll av förtidspensioner</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Sf20</idno>
+              <title>med anledning av förs. 2001/02:RR13 Riksdagens revisorers förslag angående Efterkontroll av förtidspensioner</title>
+              <title type="sub">av Désirée Pethrus Engström m.fl. (KD)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Sf20</biblScope>
+              <note type="display-reference">motion 2001/02:Sf20 med anledning av förs. 2001/02:RR13 Riksdagens revisorers förslag angående Efterkontroll av förtidspensioner</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2002-04-12">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-04-11">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-04-11">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-04-11">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-03-14">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-03-14">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2002-04-24">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-04-24">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-04-24">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-04-19">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-04-19">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2002-04-18">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-04-17">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-04-17">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Socialförsäkringsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:SFU11
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Riksdagens revisorers förslag angåendeefterkontroll av förtidspensioner
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I detta betänkande behandlar utskottet Riksdagens
+            revisorers förslag angående efterkontroll av förtidspensioner
+            (2001/02:RR13) jämte en motion som väckts med anledning av förslagen.
+            Revisorerna föreslår att regeringen vidtar åtgärder för att förbättra
+            efterkontrollen av förtidspensioner. Regeringen bör ge Riksförsäkringsverket
+            (RFV) i uppdrag att utarbeta riktlinjer för efterkontroll och
+            i regleringsbrev ställa krav på RFV och försäkringskassorna att
+            redovisa insatta resurser och resultat vad gäller efterkontroller.
+            Regeringen bör vidare uppdra åt RFV att föreslå förändringar av
+            reglerna när det gäller förtidspensionärernas möjlighet att uppbära
+            inkomst av arbete samt ta initiativ för att göra det möjligt för
+            Riksskatteverket att lämna uppgifter om deklarerade inkomster
+            till RFV. I samband med att riktlinjer för efterkontroll tas fram
+            bör RFV även rekommendera försäkringskassorna att centralisera
+            arbetet med efterkontroller till särskilt utsedda handläggare
+            samt lämna rekommendationer om hur informationen till den som
+            beviljas förtidspension skall förbättras. Frågan om utformning
+            av riktlinjer för efterkontroll är föremål för beredning i Regeringskansliet,
+            varför utskottet anser att syftet med revisorernas förslag i denna
+            del är tillgodosett. Förslaget avstyrks därmed. Såvitt gäller
+            revisorernas förslag om åtgärder mot misstänkt fusk förutsätter
+            utskottet att regeringen i samband med nyss nämnda beredning,
+            och utan något särskilt tillkännagivande från riksdagen, överväger
+            frågan om att ge RSV och försäkringskassorna möjlighet att hämta
+            och lämna information på elektronisk väg. Därmed avstyrks revisorernas
+            förslag i denna del liksom motionsyrkanden om försäkringskassornas
+            administrativa merarbete och om åtgärder för vissa förtidspensionärer
+            vid återgång i arbete. Ett motionsyrkande om centralisering av
+            arbetet med efterkontroll får anses tillgodosett med vad utskottet
+            anfört, varför även det avstyrks. Utskottet anser att det inte
+            är tillfredsställande att det föreligger oklarheter om hur kravet
+            för rätt till hel förtidspension (sjuk- och aktivitetsersättning
+            fr.o.m. 2003) skall tolkas men förutsätter att regeringen noga
+            följer utvecklingen i syfte att klargöra behovet av en ändring,
+            t.ex. med en sådan inriktning som revisorerna föreslagit. Förslaget
+            avstyrks därmed. Revisorernas förslag om dokumentation av efterkontroller
+            får anses tillgodosett genom regeringens uppdrag till RFV i regleringsbrevet
+            för 2002. Därmed avstyrks revisorernas förslag i denna del. I
+            ärendet finns två reservationer.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Riktlinjer för efterkontroll
+            av förtidspensioner och åtgärder mot misstänkt fusk Riksdagen
+            avslår Riksdagens revisorers förslag punk 1 och 4 och motion 2001/02:Sf20
+            yrkandena 1 och 3. Reservation 1 (m, kd) 2. Åtgärder för förtidspensionärer
+            vid återgång i arbete Riksdagen avslår motion 2001/02:Sf20 yrkande
+            2. Reservation 2 (m, kd) 3. Förtidspensionärers möjlighet att
+            ha inkomst av förvärvsarbete och dokumentation av efterkontroller
+            Riksdagen avslår Riksdagens revisorers förslag punkt 2 och 3.
+            Stockholm den 11 april 2002 På socialförsäkringsutskottets vägnar
+            Bo Könberg Följande ledamöter har deltagit i beslutet: Bo Könberg
+            (fp), Maud Björnemalm (s), Ulla Hoffmann (v), Gustaf von Essen
+            (m), Mariann Ytterberg (s), Göran Lindblad (m), Lennart Klockare
+            (s), Ronny Olander (s), Fanny Rizell (kd), Cecilia Magnusson (m),
+            Kerstin-Maria Stalin (mp), Birgitta Carlsson (c), Mona Berglund
+            Nilsson (s), Margareta Cederfelt (m), Claes Stockhaus (v) och
+            Désirée Pethrus Engström (kd).
+          </p>
+          <p>
+            2001/02 SfU11 Redogörelse för ärendet I betänkandet behandlar
+            utskottet Riksdagens revisorers förslag Efterkontroll av förtidspensioner
+            (2001/02:RR13). Revisorerna har på eget initiativ granskat hur
+            försäkringskassornas arbete med efterkontroller av förtidspensioner
+            fungerar och lämnat förslag till riksdagen bl.a. vad gäller riktlinjer
+            för efterkontroll av förtidspensioner. Revisorernas förslag återfinns
+            i bilaga. I betänkandet behandlas också en motion som väckts med
+            anledning av revisorernas förslag. Motionsförslagen återfinns
+            i bilagan.
+          </p>
+          <p>
+            Utskottets överväganden Nuvarande regler om förtidspension m.m.
+            Rätt till förtidspension har försäkrad som fyllt 16 år för tid
+            före den månad då han eller hon fyller 65 år, om arbetsförmågan
+            på grund av sjukdom eller annan nedsättning av den fysiska eller
+            psykiska prestationsförmågan är nedsatt med minst en fjärdedel
+            och nedsättningen kan anses varaktig. Kan nedsättningen av arbetsförmågan
+            inte anses varaktig men kan den antas bli bestående avsevärd tid,
+            har den försäkrade rätt till ett tidsbegränsat sjukbidrag. Försäkrad
+            vars arbetsförmåga är helt eller i det närmaste helt nedsatt erhåller
+            hel förtidspension eller sjukbidrag. Om arbetsförmågan inte är
+            nedsatt i sådan grad men nedsatt med minst tre fjärdedelar utges
+            tre fjärdedels förtidspension eller sjukbidrag. Är arbetsförmågan
+            nedsatt i mindre grad men med minst hälften utges halv förtidspension
+            eller sjukbidrag. I övriga fall utges en fjärdedels förmån. Motsvarande
+            regler finns i fråga om förtidspension från ATP. Försäkringskassan
+            skall i samband med beslut om förtidspension bedöma om förnyad
+            utredning av arbetsförmågan skall göras efter viss tid. Försäkringskassan
+            kan även under tid som pension utges vidta vissa åtgärder, t.ex.
+            begära att den försäkrade genomgår läkarundersökning eller annan
+            utredning såsom arbetsprövning eller arbetsträning, göra förfrågan
+            hos t.ex. arbetsgivare samt undersöka om den försäkrade efter
+            rehabiliteringsåtgärd (medicinsk eller arbetslivsinriktad) helt
+            eller delvis kan försörja sig själv genom arbete. Riksförsäkringsverket
+            (RFV) rekommenderar i sina allmänna råd (1998:16) om förtidspension
+            att försäkringskassan i underrättelse om beslut om beviljande
+            av pension upplyser den försäkrade om möjligheterna att göra efterkontroller
+            i förtidspensionsärenden. Om försäkringskassan i samband med beslutet
+            har bedömt att förnyad utredning av arbetsförmågan skall göras
+            efter viss tid bör även detta framgå av beslutsmeddelandet. Den
+            som uppbär förtidspension är skyldig att utan oskäligt dröjsmål
+            anmäla till försäkringskassan bl.a. om han eller hon börjar förvärvsarbeta
+            eller börjar förvärvsarbete i större omfattning än tidigare. Anmälningsskyldigheten
+            gäller också om arbetsförmågan väsentligt förbättrats utan att
+            den försäkrade börjar förvärvsarbeta eller börjar förvärvsarbeta
+            i större utsträckning än tidigare. Underlåts anmälan utan giltigt
+            skäl får pensionen dras in för viss tid eller tills vidare. Om
+            arbetsförmågan väsentligt förbättras för en försäkrad som uppbär
+            förtidspension skall pensionen dras in eller minskas med hänsyn
+            till förbättringen. En försäkrad som regelbundet och under en
+            längre tid har uppvisat en arbetsförmåga som han eller hon antogs
+            sakna när beslutet om förtidspension fattades skall därvid, om
+            inte annat framkommer, antas ha en väsentligt förbättrad arbetsförmåga.
+            Sedan den 1 januari 1999 gäller att försäkringskassan ansvarar
+            för att särskilda insatser görs för att den som får tre fjärdedels
+            förtidspension eller sjukbidrag skall kunna få en anställning
+            motsvarande den återstående arbetsförmågan. Det skall i första
+            hand vara fråga om anställning på den ordinarie arbetsmarknaden,
+            eventuellt med hjälp av lönebidrag. Om detta inte kan ske inom
+            sex månader skall den försäkrade kunna beredas anställning vid
+            Samhall AB. För den som bereds en anställning med lönebidrag eller
+            hos Samhall AB betalas ersättning för kostnaderna för anställningen
+            från den allmänna försäkringen. Den 1 januari 2000 infördes regler
+            om vilande förtidspension. Reglerna syftar till att stimulera
+            till återgång i arbetslivet och ett i övrigt aktivt liv och innebär
+            bl.a. följande. En försäkrad som uppburit förtidspension under
+            minst ett år får behålla förtidspensionen under högst tre månader
+            under en tolvmånadersperiod, samtidigt som han eller hon prövar
+            att arbeta. Om den försäkrade därefter fortsätter att arbeta skall
+            förtidspensionen förklaras vilande under den tid som återstår
+            av denna tolvmånadersperiod. Efter de första tolv månaderna av
+            förvärvsarbete skall den försäkrade kunna ha förtidspensionen
+            vilande under ytterligare 24 kalendermånader. Under den tiden
+            upphör inte det ursprungliga beslutet om rätt till pension. Om
+            den försäkrade under denna tid anmäler att han eller hon önskar
+            få tillbaka pensionen kan pensionen efter prövning minskas eller
+            dras in om utredning visar att arbetsförmågan har förbättrats
+            väsentligt. När beslutet om vilande förtidspension löper ut skall
+            den fortsatta rätten till förtidspension prövas på samma sätt
+            (prop. 1999/2000:4, bet. 1999/2000:SfU5, rskr. 1999/2000:97).
+            Ett nytt sjukersättningssystem träder i kraft den 1 januari 2003
+            och innebär att förtidspension och sjukbidrag ersätts av aktivitetsersättning
+            och sjukersättning. De nya förmånerna skall kunna utges till personer
+            som drabbats av långvarig eller varaktig medicinskt grundad nedsättning
+            av arbetsförmågan. Reglerna innebär att försäkrade som är under
+            30 år skall få aktivitetsersättning, dock tidigast fr.o.m. den
+            1 juli det år de fyller 19. Ersättningen skall kunna beviljas
+            för som längst tre år i taget. Försäkringskassan skall vara skyldig
+            att erbjuda den som beviljats aktivitetsersättning möjlighet att
+            delta i aktiviteter. Sjukersättning eller tidsbegränsad sjukersättning
+            skall kunna utges till personer i åldern 30-64 år. Både sjukersättning
+            och aktivitetsersättning skall kunna utges i form av en inkomstrelaterad
+            ersättning och ett grundskydd i form av garantiersättning. Förmånerna
+            skall kunna utges som hel, tre fjärdedels, halv eller en fjärdedels
+            förmån (prop. 2000/01:96, bet. 2000/01:SfU15, rskr. 2000/01:257).
+            Ovan redovisade regler om särskilda insatser för vissa förtidspensionärer,
+            efterkontroll, anmälningsskyldighet, omprövning och vilande förtidspension
+            skall gälla även för sjuk- och aktivitetsersättning. En person
+            med aktivitetsersättning skall dock kunna få ersättningen vilandeförklarad
+            under resten av den period som den beviljats för utan att den
+            uppvisade arbetsförmågan får läggas till grund för indragning
+            eller minskning av ersättningen. En försäkrad som uppbär bl.a.
+            hel förtidspension har inte rätt till sjukpenning. När förtidspension
+            beviljas eller när sådan pension ändras med hänsyn till ändring
+            i den försäkrades arbetsförmåga skall sjukpenningförsäkringen
+            omprövas. Vid utgången av en period då en försäkrad helt eller
+            delvis har haft förtidspension skall en sjukpenninggrundande inkomst
+            fastställas som motsvarar den sjukpenninggrundande inkomst som
+            den försäkrade skulle ha varit berättigad till omedelbart före
+            en eller flera sådana perioder eller vad som löneutvecklingen
+            inom yrkesområdet därefter föranleder. Vad som nu sagts gäller
+            endast för tid före 65 års ålder och till den del den försäkrade
+            är arbetslös och beredd att anta erbjudet arbete i en omfattning
+            som svarar mot närmast föregående förvärvsarbete. Motsvarande
+            kommer att gälla för sjuk- och aktivitetsersättning. Riksdagens
+            revisorers förslag Revisorernas granskning Riksdagens revisorer
+            har på eget initiativ granskat hur försäkringskassornas arbete
+            med efterkontroller av förtidspensioner fungerar. Granskningens
+            syfte har varit att utröna om efterkontroller i sin nuvarande
+            form är en effektiv åtgärd för att få förtidspensionerade tillbaka
+            i arbete och för att uppdaga eventuellt fusk inom förmånen. Resultatet
+            av granskningen har redovisats i rapporten (2001/02:1) Försäkringskassornas
+            efterkontroll av förtidspensioner. Rapporten har varit föremål
+            för remissbehandling och har av revisorerna anmälts till riksdagen
+            i förslag 2001/02:RR13. Revisorerna anför inledningsvis att granskningen
+            visar att den typ av efterkontroller som görs i dag oftast inte
+            är effektiva. Fem procent av efterkontrollerna leder till att
+            försäkringskassan kan dra in eller sätta ned en förtidspension.
+            Variationen i resultat är dock stor mellan olika försäkringskassor.
+            Vid vissa kassor leder mindre än en procent av efterkontrollerna
+            till åtgärder, medan det vid andra kontor är mer än hälften av
+            efterkontrollerna som leder till åtgärd. Skillnader i arbetssätt
+            är en av förklaringarna till att antalet indragningar och nedsättningar
+            varierar mellan kontoren. Det rör sig bl.a. om hur systematisk
+            kassan är i sina efterkontroller, hur pass prioriterad efterkontrollen
+            är vid den enskilda kassan och vilket samarbete kassan har med
+            andra myndigheter. Efterkontroller görs vanligen av dem som handlägger
+            förtidspensioner vid kassan. Detta medför bl.a. att efterkontrollerna
+            nedprioriteras till förmån för andra ärenden. Handläggare upplever
+            ofta att efterkontroller är svåra, tidskrävande och ibland obehagliga
+            att utföra. Det kan vara en av förklaringarna till att efterkontrollerna
+            genomförs slentrianmässigt. I många fall består efterkontrollen
+            enbart av ett telefonsamtal med den försäkrade. Det finns enligt
+            revisorerna en stor osäkerhet hos försäkringskassans personal
+            om hur och när efterkontroller skall genomföras. Regelverket kring
+            förtidspensioner är också i vissa avseenden ett hinder för en
+            framgångsrik efterkontroll. Kunskapen om efterkontroller och deras
+            resultat är vidare påfallande liten hos RFV och försäkringskassorna
+            med tanke på att verksamheten med efterkontroller är relativt
+            omfattande. Uppskattningsvis genomför försäkringskassorna årligen
+            omkring 9 000 efterkontroller av förtidspensioner. Riktlinjer
+            för efterkontroll m.m. Utskottets förslag i korthet Frågan om
+            utformning av riktlinjer för efterkontroll är föremål för beredning
+            i Regeringskansliet, varför syftet med revisorernas förslag är
+            tillgodosett. Riksdagen bör därför avslå förslaget om att utarbeta
+            riktlinjer för efterkontroll av förtidspensioner. Riksdagen bör
+            vidare avslå revisorernas förslag om åtgärder mot misstänkt fusk
+            eftersom det får förutsättas att regeringen i samband med nyss
+            nämnda beredning även överväger frågan om att ge RSV och försäkringskassorna
+            möjlighet att hämta och lämna information på elektronisk väg.
+            Riksdagen bör avslå motionsyrkanden om försäkringskassornas administrativa
+            merarbete och om åtgärder för vissa förtidspensionärer vid återgång
+            i arbete. Ett motionsyrkande om centralisering av arbetet med
+            efterkontroll får anses tillgodosett med vad utskottet anfört,
+            varför riksdagen bör avslå även det motionsyrkandet. Jämför reservationerna
+            nr 1 och 2 ( båda m och kd). Revisorerna Revisorerna föreslår
+            att RFV får i uppdrag att utarbeta riktlinjer för efterkontroller
+            med följande innehåll. - I fall där en efterkontroll beslutats
+            i syfte att undersöka möjligheten för rehabilitering bör den försäkrade
+            kallas till försäkringskassan och där sammanträffa med rehabiliteringshandläggare.
+            En läkarkontroll bör ske i nära anslutning till efterkontrollen
+            och utlåtande från denna skall vara grund för försäkringskassans
+            vidare bedömningar. - Deklarerade inkomster bör årligen kontrolleras
+            för samtliga förtidspensionärer. Den årliga kontrollen bör ske
+            i enlighet med det förslag som Riksskatteverket (RSV) presenterat
+            i sitt remissyttrande över granskningsrapporten. Förslaget innebär
+            att RSV årligen medelst ADB-medium lämnar uppgift till RFV om
+            deklarerade inkomster av tjänst och aktiv näringsverksamhet för
+            de personer som RFV uppger har förtidspension. - Rekommendationer
+            bör lämnas om hur arbetet med och resultaten av efterkontroller
+            skall dokumenteras. - Nuvarande regel om att behovet av efterkontroll
+            alltid skall prövas i samband med att förtidspension beviljas
+            bör följas av försäkringskassorna i större utsträckning än för
+            närvarande. Enligt revisorerna bör riktlinjerna även omfatta frågor
+            om efterkontrollens organisation och om information till den försäkrade
+            om villkoren för förtidspension. När det gäller förstnämnda fråga
+            anser revisorerna att det finns uppenbara fördelar med att centralisera
+            arbetet med efterkontroller. Möjligheter till kompetensuppbyggnad,
+            oberoende och nätverk med andra myndigheter är viktiga för en
+            verkningsfull efterkontroll. Revisorernas rapport visar att det
+            är svårt för handläggare i linjen att prioritera och genomföra
+            efterkontroller. Revisorerna har dock förståelse för att lokala
+            villkor kan medföra att kontrollerna bäst utförs vid de enskilda
+            försäkringskassorna. I synnerhet gäller detta sådana kontroller
+            som genomförs i syfte att rehabilitera förtidspensionärer. Revisorerna
+            föreslår dock att RFV i sina riktlinjer om efterkontroll rekommenderar
+            en centralisering av arbetet med efterkontroller. Enligt revisorerna
+            har en vanlig förklaring i samband med misstänkt fusk varit att
+            den försäkrade inte förstått innebörden i informationen. Revisorerna
+            föreslår därför att RFV i sina riktlinjer om efterkontroll även
+            föreskriver nya rutiner för information. Den handläggare som informerat
+            om villkoren kring förtidspension och den försäkrade bör gemensamt
+            skriva under den skriftliga informationen. I syfte att motverka
+            misstänkt fusk föreslår revisorerna att regeringen tar de initiativ
+            som behövs för att, i likhet med regeringens förslag i proposition
+            2000/01:129 om ökat informationsutbyte mellan arbetslöshetsförsäkringen,
+            socialförsäkringen och studiestödet, även göra det möjligt för
+            försäkringskassorna och skattemyndigheterna att utbyta information.
+            Motionen Désirée Pethrus Engström m.fl. (kd) begär i motion Sf20
+            yrkande 1 ett tillkännagivande om att analysera och beräkna försäkringskassornas
+            administrativa merarbete. Motionärerna påpekar att en eventuell
+            vinst till följd av efterkontroller uppkommer i sjukförsäkringssystemet
+            och inte i försäkringskassornas administration. Revisorernas förslag
+            bör därför åtföljas av resurser till kassorna för det administrativa
+            merarbete som uppkommer. I yrkande 2 begär motionärerna ett tillkännagivande
+            om en konkretisering av åtgärder när det gäller de svårigheter
+            som kan uppstå för förtidspensionärer vid återgång till arbete.
+            Motionärerna framhåller att systemet med vilande förtidspension
+            löser problemet för dem som kan påbörja en anställning. De kvalificerar
+            sig för arbetslöshetsersättning. För dem som inte omedelbart kan
+            komma in på arbetsmarknaden måste andra lösningar tas fram. I
+            samma motion yrkande 3 begärs ett tillkännagivande om att man
+            måste skilja på efterkontroll för att upptäcka fusk och kontroll
+            som syftar till att utreda den försäkrades möjligheter att återgå
+            i arbete. Förstnämnda kontroll bör centraliseras. Efterkontroll
+            för att utreda möjligheterna att återgå i arbete bör enligt motionärerna
+            ske på lokal nivå av den handläggare som utrett det aktuella förtidspensionsärendet.
+            Utskottets ställningstagande De senaste årens utveckling inom
+            ohälsoområdet med en kraftig ökning av antalet långtidssjukskrivna
+            kan sägas vara en av de svåraste utmaningarna som de inom området
+            verksamma myndigheterna ställts inför. Någon enskild faktor som
+            kan förklara den stora ökningen av sjukfrånvaron finns inte och
+            därmed finns inte heller någon enkel åtgärd att ta till för att
+            komma till rätta med problemet. Vad som i stället krävs är en
+            bred satsning på ökad hälsa i arbetslivet. En sådan har regeringen
+            presenterat i det s.k. elvapunktsprogrammet. Programmet innefattar
+            bl.a. åtgärder för att förbättra arbetsmiljön och tydliggöra arbetsgivarnas
+            ansvar, en förnyelse av rehabilitering och en översyn av sjukskrivningsprocessen.
+            Eftersom en kraftig ökning av antalet långtidssjukskrivna, om
+            ingenting görs, ofrånkomligen leder till en ökning av antalet
+            nybeviljade förtidspensioner och sjukbidrag måste åtgärder i första
+            hand vidtas för att minska antalet långtidssjukskrivna. Bland
+            annat måste enligt utskottets mening läkarnas roll i sjukskrivningsprocessen
+            klargöras. Vidare krävs att den arbetslivsinriktade rehabiliteringen
+            både är individanpassad och kan sättas in tidigt. Detta är av
+            avgörande betydelse för att få ned antalet långtidssjukskrivna
+            men också för att kunna upprätthålla den s.k. arbetslinjen inom
+            socialförsäkringen. Dessvärre har rehabiliteringsarbetet hos försäkringskassorna
+            inte fungerat på avsett sätt, främst beroende på kassornas ansträngda
+            arbetssituation bl.a. till följd av den ökade sjukfrånvaron. De
+            har därför i stor utsträckning varit tvungna att prioritera utbetalningar
+            framför andra arbetsuppgifter, t.ex. efterkontroll av förtidspensioner.
+            Om den arbetslivsinriktade rehabiliteringen är väsentlig för att
+            minska antalet nybeviljade förtidspensioner är möjligheten till
+            vilande förtidspension viktig när det gäller att ta till vara
+            restarbetsförmågan hos dem som redan är förtidspensionärer. Emellertid
+            är det färre förtidspensionärer än förväntat som har utnyttjat
+            möjligheten att pröva på att förvärvsarbeta utan att förlora pensionen.
+            Mycket talar för att informationen om denna möjlighet inte varit
+            tillräcklig. Eftersom det är angeläget att personer med förtidspension
+            uppmärksammas på möjligheterna till vilande förtidspension har
+            RFV fått i uppdrag att genomföra särskilda insatser med syfte
+            att informera om möjligheten till vilande förtidspension. I en
+            rapport till regeringen den 26 februari 2002 har RFV lämnat en
+            första översiktlig redogörelse för genomförda och planerade informationsinsatser.
+            Av rapporten framgår också att sammanlagt 1 952 personer fick
+            sina pensioner vilandeförklarade mellan den 1 januari 2000 och
+            den 31 december 2001, varav 602 personer återfått sin förtidspension.
+            Utskottet vill i sammanhanget även peka på att personer med tre
+            fjärdedels förtidspension eller sjukbidrag enligt lag skall beredas
+            möjlighet att få en anställning motsvarande en fjärdedels arbetsförmåga.
+            Enligt utskottet är det viktigt att också personer med en relativt
+            ringa restarbetsförmåga får möjlighet att utnyttja denna för förvärvsarbete.
+            Utskottet anser liksom revisorerna att efterkontroller av förtidspensioner
+            är nödvändiga. Det är enligt utskottet främst av det skälet att
+            bedömningen av varaktigt nedsatt arbetsförmåga i många fall är
+            osäker men även för att möjliggöra återgång i arbete, helt eller
+            delvis, i de fall den försäkrades hälsotillstånd förbättras efter
+            en tid med förtidspension. Systemet med efterkontroll är viktigt
+            också för att förhindra eventuellt fusk. Utskottet vill dock med
+            skärpa framhålla att det inte finns något som tyder på att förtidspensionärer
+            som grupp skulle vara mer fuskbenägna än andra grupper, vilket
+            också har påtalats i RFV:s remissyttrande. Revisorernas granskning
+            visar att de efterkontroller som görs i dag inte är effektiva
+            och att det behövs en förstärkt satsning på efterkontroller bl.a.
+            genom utarbetandet av riktlinjer härför. Det gäller efterkontroller
+            för att få förtidspensionärer att återgå i arbete men också för
+            att upptäcka fusk. Enligt revisorerna (s. 70) ger lagstiftningen
+            i sig försäkringskassorna goda möjligheter att kontrollera om
+            den förtidspensionerade har fortsatt rätt till förtidspension,
+            men efterkontrollernas potential utnyttjas inte i någon större
+            utsträckning av kassorna. Frågan om riktlinjer för efterkontroll
+            av förtidspensioner har även övervägts av Utredningen om en översyn
+            av processuella regler inom socialförsäkringen, m.m. I betänkandet
+            En handläggningslag - förfarandet hos försäkringskassorna (SOU
+            2001:47) har utredningen gjort bedömningen att riktlinjer bör
+            utformas för när efterkontroll bör ske, hur arbetet skall utföras
+            och vem som skall delta i detta. Resultatet av utredningens undersökningar
+            visar att målet med lagstiftningen om efterkontroll inte uppnåtts.
+            Enligt utredningens aktgranskning hade i samtliga granskade akter
+            (800 akter) en bedömning av behovet om efterkontroll gjorts i
+            endast 36,3 %. I samtliga försäkringskassor som utredningen besökte
+            uppgavs vid besök hösten 2000 att arbetet med själva efterkontrollen
+            har en låg prioritet och vid samtliga besökta lokalkontor uppgavs
+            att efterkontrollen nästan aldrig leder till att beslutet omprövas.
+            Sammanfattningsvis konstaterar utredningen att efterkontrollen
+            inte fungerar på avsett sätt. Till stor del torde detta ha sin
+            förklaring i bristande resurser. Men det beror också på att det
+            inte finns några direkta riktlinjer om när och hur efterkontroll
+            skall ske samt vem som bör vara delaktig i kontrollen. Utredningsbetänkandet
+            har remissbehandlats och bereds för närvarande inom Regeringskansliet.
+            Såväl revisorerna som nyss nämnda utredning har konstaterat att
+            arbetet med efterkontroll av förtidspensioner är ett lågprioriterat
+            område. Utskottet har förståelse för att försäkringskassornas
+            ansträngda arbetssituation bl.a. till följd av de senaste årens
+            kraftiga ökning av sjukfrånvaron har lett till att de varit tvungna
+            att prioritera annat än arbetet med efterkontroller. Det är emellertid
+            inte acceptabelt med en sådan ordning om den innebär att försäkringskassorna
+            underlåter att beakta lagens krav att i samband med beslut om
+            förtidspension göra en bedömning av om förnyad utredning av arbetsförmågan
+            skall göras efter en viss tid. Inte heller är det tillfredsställande
+            om försäkringskassorna avstår från att utnyttja alla de möjligheter
+            till åtgärder som lagen ger, t.ex. att infordra läkarutlåtande
+            eller att begära att den försäkrade genomgår utredning i form
+            av arbetsprövning eller arbetsträning. En efterkontroll som enbart
+            består av ett telefonsamtal med den försäkrade torde i de flesta
+            fall inte vara tillräcklig för att avgöra den försäkrades eventuella
+            restarbetsförmåga eller möjligheter till rehabilitering. Vissa
+            riktlinjer för efterkontroll återfinns i RFV:s allmänna råd (1998:16)
+            om förtidspension. Ett sätt att ge försäkringskassorna ett bättre
+            stöd i arbetet med efterkontroller är att utveckla och precisera
+            dessa riktlinjer. Utskottet förutsätter att RFV fortlöpande ser
+            över och förbättrar de befintliga riktlinjerna. Eftersom frågan
+            om utformningen av riktlinjer för efterkontroll dessutom redan
+            bereds inom Regeringskansliet i samband med beredningen av SOU
+            2001:47 anser utskottet att syftet med revisorernas förslag är
+            tillgodosett. Vad gäller frågan om en centralisering av arbetet
+            med efterkontroller anser utskottet i likhet med motionärerna
+            att det finns anledning att skilja på efterkontroll som görs i
+            syfte att utreda den försäkrades möjligheter att återgå i arbete
+            och sådan efterkontroll som görs för att upptäcka fusk. Beträffande
+            efterkontroll som görs för att utreda den försäkrades möjlighet
+            till rehabilitering och återgång i förvärvsarbete ser utskottet
+            snarast fördelar med att kontrollen görs där det ursprungliga
+            förtidspensionsärendet utretts. Där torde den mest ingående kunskapen
+            om den försäkrades situation och om förutsättningarna för rehabilitering
+            finnas. Det är även på den lokala nivån som den bästa kunskapen
+            finns om den lokala arbetsmarknaden liksom om de arbetsplatser
+            som i första hand kan bli aktuella efter en rehabilitering tillbaka
+            till arbete. Vad därefter gäller behovet av information till den
+            försäkrade vill utskottet framhålla vikten av att denne i samband
+            med beslutet om förtidspension ges tydlig information om skyldigheten
+            att informera försäkringskassan om både förändringar av ekonomisk
+            art och om arbetsförmågan väsentligt förbättrats. Riksdagen bör
+            dock inte ta ställning till hur sådan information närmare skall
+            lämnas. Med det anförda avstyrker utskottet revisorernas förslag
+            om riktlinjer för efterkontroll. Motion Sf20 yrkande 3 får anses
+            tillgodosedd med vad utskottet anfört. Som påpekats av motionärerna
+            kommer en intensifiering av verksamheten med efterkontroll att
+            leda till en ökad belastning på försäkringskassornas administration.
+            Försäkringskassornas behov av resurser för att bedriva en effektiv
+            efterkontroll i enlighet med vad som redan föreskrivs får prövas
+            i det sedvanliga budgetarbetet. Om det däremot i det fortsatta
+            beredningsarbetet visar sig att det finns behov av en mer påtaglig
+            ökning av försäkringskassornas arbete med efterkontroll av förtidspensioner
+            får frågan om ökade resurser till försäkringskassornas administration
+            övervägas i särskild ordning. I den mån motion Sf20 yrkande 1
+            inte är tillgodosedd med det anförda avstyrks motionsyrkandet.
+            I motionen har också uppmärksammats de problem som kan uppstå
+            för förtidspensionärer som skall tillbaka i arbete men som inte
+            omedelbart kommer in på arbetsmarknaden. Utskottet vill erinra
+            om att den som uppburit förtidspension i princip kan återfå sin
+            tidigare sjukpenninggrundande inkomst efter det att förtidspensionen
+            helt eller delvis dragits in. Det innebär att personen i fråga
+            får ett skydd vid bl.a. sjukdom. Vad som nu sagts kommer fr.o.m.
+            2003 att gälla även de nya förmånerna sjuk- och aktivitetsersättning.
+            Däremot är reglerna inom arbetsmarknadsområdet inte anpassade
+            till den situation som en förtidspensionär kan komma att ställas
+            inför vid återgång, helt eller delvis, till arbetsmarknaden när
+            han eller hon väntar på att få ett arbete eller en arbetsmarknadsåtgärd.
+            Utskottet noterar att Utredningen om en handlingsplan för ökad
+            hälsa i arbetslivet, HpH-utredningen, i sitt slutbetänkande SOU
+            2002:5 har föreslagit bl.a. att arbetsmarknadspolitikens ansvarsområde
+            vidgas i syfte att skapa en kompletterande arbetsmarknad för människor
+            med begränsad arbetsförmåga på grund av sjukdom. Utredningen har
+            sammanfattningsvis anfört att det är ytterst angeläget att regeringen
+            vidtar åtgärder för att skapa en arbetsmarknadspolitik som i ökad
+            utsträckning inriktas på att stödja personer med begränsad arbetsförmåga
+            att ta del av arbetslivet. Enligt utredningen uppgick antalet
+            långtidssjukskrivna i december 2001 till 120 000 personer, vartill
+            kom 450 000 personer med sjukbidrag eller förtidspension. Med
+            ett mer aktivt stöd till dessa grupper skulle ett stort antal
+            av dessa personer ha varit i arbete. Detta är enligt utredningen
+            inte möjligt utan en förändrad arbetsmarknadspolitik. Vidare har
+            utredningen föreslagit att en ny form av rehabiliteringsbidrag
+            övervägs till arbetsgivare som anställer personer med begränsad
+            arbetsförmåga. Sistnämnda förslag tar sikte på personer som uppburit
+            sjukpenning under en längre tid. Utredningsbetänkandet är för
+            närvarande föremål för remissbehandling t.o.m. den 26 april 2002.
+            Utskottet anser att regeringens beredning av betänkandet bör avvaktas.
+            Motion Sf20 yrkande 2 avstyrks därmed. Såvitt gäller revisorernas
+            förslag om åtgärder mot fusk konstaterar utskottet att riksdagen
+            under hösten 2001 beslutat om vissa ändringar i syfte att möjliggöra
+            ett ökat informationsutbyte mellan de allmänna försäkringskassorna,
+            RFV, CSN, länsarbetsnämnderna och arbetslöshetskassorna (prop.
+            2001/02:129, bet. 2001/02:KU3, rskr. 2001/02:18). Ändringarna
+            träder i kraft den 1 juli 2002 och innebär bl.a. att reglerna
+            om handlingsoffentlighet och sekretess blir tillämpliga i arbetslöshetskassornas
+            hantering av arbetslöshetsersättning. Samtidigt införs en uppgiftsskyldighet
+            för länsarbetsnämnderna, försäkringskassorna, RFV och CSN gentemot
+            arbetslöshetskassorna och en uppgiftsskyldighet för arbetslöshetskassorna
+            gentemot de nämnda myndigheterna och försäkringskassorna. Vidare
+            blir det möjligt för länsarbetsnämnderna, försäkringskassorna
+            och RFV att lämna ut uppgifter till övriga aktörer på elektronisk
+            väg samtidigt som dessa får direktåtkomst till informationen.
+            Som redan nämnts anser revisorerna att RSV årligen medelst ADB-medium
+            skall lämna uppgift till RFV om deklarerade inkomster av tjänst
+            och aktiv näringsverksamhet för personer med förtidspension. Om
+            detta skall kunna genomföras torde det enligt utskottet förutsätta
+            att det finns möjlighet för försäkringskassorna och RSV att hämta
+            och lämna information på elektronisk väg. Utskottet, som är tveksamt
+            till effektiviteten i en sådan ordning, förutsätter dock att regeringen
+            överväger denna möjlighet i samband med beredningen av frågan
+            om riktlinjer för efterkontroll av förtidspensioner. Något tillkännagivande
+            från riksdagens sida är enligt utskottet inte påkallat, och utskottet
+            avstyrker därmed revisorernas förslag i denna del. Utskottet vill
+            tillägga att nuvarande regler innebär att bl.a. statliga och kommunala
+            myndigheter på begäran skall lämna RFV och försäkringskassorna
+            uppgift för namngiven person rörande förhållande som är av betydelse
+            för tillämpningen av AFL. Förtidspensionärers möjlighet att ha
+            inkomst av förvärvsarbete Utskottets förslag i korthet Utskottet,
+            som anser att det inte är tillfredsställande att det föreligger
+            oklarheter om hur kravet för rätt till hel förtidspension (sjuk-
+            och aktivitetsersättning fr.o.m. 2003) skall tolkas, förutsätter
+            att regeringen noga följer utvecklingen i syfte att klargöra behovet
+            av en ändring, t.ex. med en sådan inriktning som revisorerna föreslagit.
+            Riksdagen bör därmed avslå revisorernas förslag i denna del. Revisorerna
+            Nuvarande regel i AFL om att en person med hel förtidspension
+            får arbeta högst en åttondel av normal heltid är enligt revisorerna
+            svårbedömd och kan ibland leda till uppenbart missbruk. I granskningen
+            framkom ett fall där en försäkringskassa, utan framgång, försökt
+            dra in förtidspensionen för en person som uppbar förvärvsinkomster
+            betydligt över den nivå som kunde förväntas intjänas på en åttondels
+            arbetsförmåga. Flera försäkringskassor uppger också att det i
+            princip är omöjligt att fastställa om förtidspensionären arbetar
+            mer än den tillåtna åttondelen av normal heltid. Revisorerna har
+            övervägt olika lösningar för att komma till rätta med detta problem.
+            Ett sätt kan vara att höja den möjliga gränsen för förvärvsinkomster
+            till en sjättedel av utgående förtidspension och ett annat att
+            koppla den tillåtna arbetsinkomsten till ett eller flera prisbasbelopp.
+            Revisorerna föreslår att regeringen ger RFV i uppdrag att utreda
+            vilka inkomstgränser som skall gälla för förtidspensionärer utan
+            att rätten till hel förtidspension påverkas. Utskottets ställningstagande
+            Som nämnts ovan har en försäkrad vars arbetsförmåga är helt eller
+            i det närmaste helt nedsatt rätt till hel förtidspension. Motsvarande
+            kommer fr.o.m. den 1 januari 2003 att gälla för sjuk- och aktivitetsersättning.
+            För rätt till hel förtidspension krävs enligt förarbetena att
+            arbetsförmågan skall vara nedsatt med minst sju åttondelar (prop.
+            1997/98:111, bet. 1997/98:SfU11, rskr. 1997/98:237). I RFV:s allmänna
+            råd 1998:16 (s. 11) anges att utgångspunkten för arbetstiden bör
+            vara ett heltidsarbete i den sysselsättning, det uppdrag eller
+            det förvärvsarbete den försäkrade kan utföra. Arbetstiden bör
+            inte överstiga cirka en åttondel av den normala arbetstiden. Arbetsinkomst
+            som inte överstiger cirka en åttondel av den normala inkomsten
+            vid arbete på heltid i den sysselsättning, det uppdrag eller det
+            förvärvsarbete den försäkrade kan utföra bör i regel inte påverka
+            rätten till hel förmån. Revisorerna anser att den nuvarande regeln
+            är svårbedömd och ibland kan leda till uppenbart missbruk. Därtill
+            har flera försäkringskassor uppgett att det i princip är omöjligt
+            att fastställa om en förtidspensionär arbetar mer än den tillåtna
+            åttondelen av normal heltid. Enligt utskottets mening är det inte
+            tillfredsställande att det föreligger oklarheter om hur den aktuella
+            regeln skall tolkas. Syftet med regeln är att underlätta för dem
+            med hel förtidspension, eller fr.o.m. den 1 januari 2003 hel sjuk-
+            eller aktivitetsersättning, att t.ex. delta i föreningslivet eller
+            att åta sig politiska uppdrag av mindre omfattning. Denna möjlighet
+            är viktig och får enligt utskottets mening inte inskränkas. Utskottet
+            förutsätter att regeringen noga följer utvecklingen i syfte att
+            klargöra om det behövs någon ändring antingen med sådan inriktning
+            som revisorerna föreslagit eller av annat slag. Utskottet förutsätter
+            emellertid att det kan ske utan något särskilt tillkännagivande
+            från riksdagens sida och avstyrker därmed revisorernas förslag
+            i denna del. Dokumentation av efterkontroller Utskottets förslag
+            i korthet Utskottet anser att revisorernas förslag om dokumentation
+            av efterkontroller får anses tillgodosett genom regeringens uppdrag
+            till RFV i regleringsbrevet för 2002. Därmed bör riksdagen avslå
+            revisorernas förslag härom. Revisorerna Revisorerna föreslår att
+            regeringen i regleringsbrevet till RFV och försäkringskassorna
+            ställer krav på redovisning av insatta resurser och resultat (bl.a.
+            besparingar i försäkringsutgifter) vad gäller efterkontroller.
+            Utskottets ställningstagande Av granskningsrapporten (s. 75) framgår
+            att resultatet av många efterkontroller i dagsläget är okänt.
+            Enligt utskottet finns det skäl att anta att en mer noggrann dokumentation
+            av efterkontrollens genomförande och resultat kan leda till att
+            verksamheten på ett bättre sätt än för närvarande kan följas upp,
+            utvecklas och styras. Utskottet konstaterar att det i regleringsbrevet
+            för 2002 anges att RFV skall redovisa hur försäkringskassorna
+            bedriver sin verksamhet med att följa upp beviljade förtidspensioner
+            och sjukbidrag och att redovisningen även skall innehålla en bedömning
+            av resultatet av denna uppföljningsverksamhet jämte behovet av
+            eventuella författningsändringar. Uppdraget skall redovisas till
+            regeringen i anslutning till årsredovisningen. Mot bakgrund av
+            att regeringen redan givit RFV ett uppdrag med den inriktning
+            som revisorerna begärt anser utskottet att revisorernas krav får
+            anses tillgodosett. Beroende på vad RFV:s redovisning utvisar
+            kan det enligt utskottet senare bli aktuellt att i regleringsbrev
+            mer regelbundet ställa krav på uppföljning av försäkringskassornas
+            verksamhet med efterkontroll av förtidspensioner. Utskottet anser
+            att det får ankomma på regeringen att ta ställning härtill. Något
+            särskilt påpekande från riksdagens sida är därför inte påkallat.
+            Utskottet avstyrker med det anförda revisorernas förslag om dokumentation
+            av efterkontroller.
+          </p>
+          <p>
+            Reservationer Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer. I rubriken anges inom parentes
+            vilken punkt i utskottets förslag till riksdagsbeslut som behandlas
+            i avsnittet. 1. Riktlinjer för efterkontroll av förtidspensioner
+            och åtgärder mot misstänkt fusk (punkt 1) av Gustaf von Essen
+            (m), Göran Lindblad (m), Fanny Rizell (kd), Cecilia Magnusson
+            (m), Margareta Cederfelt (m) och Désirée Pethrus Engström (kd).
+            Förslag till riksdagsbeslut Vi anser att utskottets förslag under
+            punkt 1 borde ha följande lydelse: Riksdagen tillkännager för
+            regeringen som sin mening vad som framförs i reservation 1. Riksdagen
+            bifaller därmed motion 2001/02:Sf20 yrkande 1 och bifaller delvis
+            Riksdagens revisorers förslag punkt 1 och 4 samt avslår motion
+            Sf20 yrkande 3. Ställningstagande Enligt vår bedömning kommer
+            revisorernas förslag om efterkontroll av förtidspensioner att
+            medföra ett administrativt merarbete för försäkringskassorna.
+            Den vinst som revisorerna förutser till följd av ett intensifierat
+            arbete med efterkontroll uppstår i sjukförsäkringssystemet i stort
+            och inte i försäkringskassornas administration. Efterkontrollen
+            frigör således inga resurser som kan tillföras administrationen.
+            Vi anser därför att en förändring av försäkringskassornas verksamhet
+            med efterkontroll av förtidspensioner rimligen bör åtföljas av
+            de resurser som krävs för det merarbete som oundvikligen kommer
+            att bli en följd härav. Enligt vår mening bör regeringen analysera
+            och beräkna kostnaderna härför och vid behov återkomma till riksdagen
+            med förslag om ökning av anslaget för socialförsäkringens administration.
+            Det är enligt vår uppfattning rimligt att försäkringskassorna
+            får tillräckliga resurser så att arbetet med efterkontroller inte
+            tränger undan den nödvändiga handläggningen av rehabiliteringsärenden.
+            Vad nu framförts bör riksdagen som sin mening ge regeringen till
+            känna. 2. Åtgärder för förtidspensionärer vid återgång i arbete
+            (punkt 2) av Gustaf von Essen (m), Göran Lindblad (m), Fanny Rizell
+            (kd), Cecilia Magnusson (m), Margareta Cederfelt (m) och Désirée
+            Pethrus Engström (kd). Förslag till riksdagsbeslut Vi anser att
+            utskottets förslag under punkt 2 borde ha följande lydelse: Riksdagen
+            tillkännager för regeringen som sin mening vad som framförs i
+            reservation 2. Riksdagen bifaller därmed motion 2001/02:Sf20 yrkande
+            2. Ställningstagande Enligt vår uppfattning måste man ta på allvar
+            de svårigheter som vissa förtidspensionärer kommer att ställas
+            inför vid en återgång i arbete. Det behövs konkreta åtgärder så
+            att de tillförsäkras en smidig övergång utan risk för att stå
+            utan försörjning. Förtidspensionärer som återgår i arbete, helt
+            eller delvis, kommer inte att ha rätt till arbetslöshetsersättning
+            eftersom de som regel saknar anställning. Den som förlorar sin
+            förtidspension måste därför på nytt etablera sig på arbetsmarknaden
+            för att få sådan ersättning. Systemet med vilande förtidspension
+            löser visserligen problemet för dem som kan påbörja en anställning
+            eftersom de kvalificerar sig för arbetslöshetsersättning. För
+            den som ställer sig till arbetsmarknadens förfogande men inte
+            omedelbart kommer in på arbetsmarknaden måste andra lösningar
+            tas fram såväl vad gäller ersättningsfrågan som i fråga om möjligheten
+            till sysselsättning. I sistnämnda avseende behöver t.ex. en sådan
+            kompletterande arbetsmarknad som föreslagits av Utredningen om
+            en handlingsplan för ökad hälsa i arbetslivet i betänkandet SOU
+            2002:5 tillskapas. Vad nu framförts bör riksdagen som sin mening
+            ge regeringen till känna. Bilaga Förteckning över behandlade förslag
+            Förslaget I Riksdagens revisorers förslag 2001/02:RR13 angående
+            efterkontroll av förtidspensioner föreslås att riksdagen fattar
+            följande beslut: 1. Riksdagen tillkännager för regeringen som
+            sin mening vad revisorerna anfört under revisorernas förslag i
+            avsnitt 2.2 om att utarbeta riktlinjer för efterkontroll. Riktlinjerna
+            bör även omfatta de frågor om efterkontrollens organisation som
+            behandlas i avsnitt 2.5 och de frågor om information till den
+            försäkrade som behandlas i avsnitt 2.7. 2. Riksdagen tillkännager
+            för regeringen som sin mening vad revisorerna anfört under revisorernas
+            förslag i avsnitt 2.3 om förtidspensionärers möjlighet att uppbära
+            inkomst av förvärvsarbete. 3. Riksdagen tillkännager för regeringen
+            som sin mening vad revisorerna anfört under revisorernas förslag
+            i avsnitt 2.4 om dokumentationen av efterkontroller. 4. Riksdagen
+            tillkännager för regeringen som sin mening vad revisorerna anfört
+            under revisorernas förslag i avsnitt 2.6 om åtgärder mot misstänkt
+            fusk. Följdmotion 2001/02:Sf20 av Désirée Pethrus Engström m.fl.
+            (kd): 1. Riksdagen tillkännager för regeringen som sin mening
+            vad i motionen anförs om att analysera och beräkna försäkringskassornas
+            administrativa merarbete. 2. Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om konkretisering av åtgärder
+            när det gäller de svårigheter som kan uppstå för förtidspensionärer
+            vid återgång till arbete. 3. Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om centralisering av arbetet
+            med efterkontroll.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200910_NU_0011">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Reglerna för förnybar elproduktion blir enklare och tydligare den 1 april 2010. Det innebär bland annat att vissa små elproducenter slipper betala nätavgift för sin inmatning av el och att de kan slippa att upprätta risk- och sårbarhetsanalys och en så kallad övervakningsplan.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Enklare och tydligare regler för förnybar elproduktion (NU11)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen. Avslag på motionerna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GX0977</idno>
+              <title>2010-02-18</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">77</biblScope>
+              <note type="display-reference">2010-02-18</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GX0976</idno>
+              <title>2010-02-17</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">76</biblScope>
+              <note type="display-reference">2010-02-17</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GX0K185</idno>
+              <title>2009/10:185</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">185</biblScope>
+              <note type="display-reference">2009/10:185</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1997:857</idno>
+              <note type="display-reference">2010:164</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GX0351</idno>
+              <title>Enklare och tydligare regler för förnybar elproduktion, m.m.</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">51</biblScope>
+              <note type="display-reference">proposition 2009/10:51 Enklare och tydligare regler för förnybar elproduktion, m.m.</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N8</idno>
+              <title>Enklare och tydligare regler för förnybar elproduktion, m.m.</title>
+              <title type="sub">av Kent Persson m.fl. (V)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N8</biblScope>
+              <note type="display-reference">motion 2009/10:N8 Enklare och tydligare regler för förnybar elproduktion, m.m.</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N9</idno>
+              <title>Enklare och tydligare regler för förnybar elproduktion, m.m.</title>
+              <title type="sub">av Per Bolund m.fl. (MP)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N9</biblScope>
+              <note type="display-reference">motion 2009/10:N9 Enklare och tydligare regler för förnybar elproduktion, m.m.</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N205</idno>
+              <title>Elmätarmonopolet</title>
+              <title type="sub">av Katarina Brännström (M)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N205</biblScope>
+              <note type="display-reference">motion 2009/10:N205 Elmätarmonopolet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N213</idno>
+              <title>Konkurrens på elmarknaden</title>
+              <title type="sub">av Hans Backman m.fl. (FP)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N213</biblScope>
+              <note type="display-reference">motion 2009/10:N213 Konkurrens på elmarknaden</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N261</idno>
+              <title>Småskalig elproduktion</title>
+              <title type="sub">av Lars-Axel Nordell (KD)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N261</biblScope>
+              <note type="display-reference">motion 2009/10:N261 Småskalig elproduktion</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N264</idno>
+              <title>Närproducerad el</title>
+              <title type="sub">av Eva Johnsson (KD)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N264</biblScope>
+              <note type="display-reference">motion 2009/10:N264 Närproducerad el</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N269</idno>
+              <title>Smartare elmätning</title>
+              <title type="sub">av Lars Tysklind m.fl. (FP)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N269</biblScope>
+              <note type="display-reference">motion 2009/10:N269 Smartare elmätning</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N271</idno>
+              <title>Små elanläggningar</title>
+              <title type="sub">av Louise Malmström och Jan Emanuel Johansson (S)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N271</biblScope>
+              <note type="display-reference">motion 2009/10:N271 Små elanläggningar</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N304</idno>
+              <title>Nya regler för försäljning av el från mindre produktion</title>
+              <title type="sub">av Staffan Appelros (M)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N304</biblScope>
+              <note type="display-reference">motion 2009/10:N304 Nya regler för försäljning av el från mindre produktion</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N305</idno>
+              <title>Nordpool och marknadspriset på el</title>
+              <title type="sub">av Staffan Appelros (M)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N305</biblScope>
+              <note type="display-reference">motion 2009/10:N305 Nordpool och marknadspriset på el</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N338</idno>
+              <title>Minskad energianvändning</title>
+              <title type="sub">av Per Bolund m.fl. (MP)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N338</biblScope>
+              <note type="display-reference">motion 2009/10:N338 Minskad energianvändning</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N396</idno>
+              <title>Etablering av vindkraft på Gotland</title>
+              <title type="sub">av Christer Engelhardt (S)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N396</biblScope>
+              <note type="display-reference">motion 2009/10:N396 Etablering av vindkraft på Gotland</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N397</idno>
+              <title>Förenklingar för producenter av småskalig förnybar energi</title>
+              <title type="sub">av Fredrik Olovsson (S)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N397</biblScope>
+              <note type="display-reference">motion 2009/10:N397 Förenklingar för producenter av småskalig förnybar energi</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N448</idno>
+              <title>Utvärdering av konsekvenserna av elmarknadens avreglering</title>
+              <title type="sub">av Ann-Christin Ahlberg m.fl. (S)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N448</biblScope>
+              <note type="display-reference">motion 2009/10:N448 Utvärdering av konsekvenserna av elmarknadens avreglering</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N464</idno>
+              <title>Differentierad avbrottsersättning</title>
+              <title type="sub">av Gunnar Axén (M)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N464</biblScope>
+              <note type="display-reference">motion 2009/10:N464 Differentierad avbrottsersättning</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02N473</idno>
+              <title>Utgiftsområde 21 Energi</title>
+              <title type="sub">av Tomas Eneroth m.fl. (S)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">N473</biblScope>
+              <note type="display-reference">motion 2009/10:N473 Utgiftsområde 21 Energi</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2010-02-12">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2010-02-12">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-02-11">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2010-02-10">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-02-10">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2010-02-10">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2010-02-10">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-02-09">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-02-09">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-01-19">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-01-19">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2010-02-18">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2010-02-18">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2010-02-18">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2010-02-18">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-02-17">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-02-17">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-02-16">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-02-16">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-02-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-02-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Näringsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2009/10:NU11
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Enklare och tydligare regler för förnybar elproduktion m.m.
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBS0E" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlas proposition 2009/10:51 om enklare och
+            tydligare regler för förnybar elproduktion jämte två motioner
+            som har väckts i anslutning till propositionen. Därutöver tar
+            utskottet ställning till 14 motioner från allmänna motionstiden
+            2009 om vissa elmarknadsfrågor. Motionerna handlar bl.a. om elmarknadens
+            funktion och utveckling samt om mätning av elförbrukning och småskalig
+            elproduktion.
+          </p>
+          <p>
+            Näringsutskottet tillstyrker regeringens förslag i propositionen
+            och avstyrker samtliga motionsyrkanden. Riksdagens beslut innebär
+            bl.a. att vissa små elproducenter slipper betala nätavgift för
+            sin inmatning av el och att de kan medges undantag från kraven
+            på att upprätta risk- och sårbarhetsanalys och en s.k. övervakningsplan.
+            De nya reglerna träder i kraft den 1 april 2010.
+          </p>
+          <p>
+            Avvikande uppfattningar redovisas i totalt tre reservationer
+            (s, v, mp). I en motivreservation (s) förordas andra motiveringar
+            till riksdagens beslut i en fråga.
+          </p>
+          <p xml:id="IDAPBS0E" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Lättnader för vissa mindre elproducenter och nätföretag
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till lag om ändring i ellagen
+                  (1997:857). Därmed bifaller riksdagen proposition 2009/10:51 och
+                  avslår motionerna 2009/10:N9 yrkande 3, 2009/10:N261, 2009/10:N264
+                  och 2009/10:N304.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 1 (mp)
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Elmarknadens funktion och utveckling
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motionerna 2009/10:N213, 2009/10:N305, 2009/10:N448
+                  och 2009/10:N473 yrkande 5.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 2 (s, v, mp)
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  3.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Mätning och debitering av el
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motionerna 2009/10:N8, 2009/10:N9 yrkandena
+                  1, 2 och 4, 2009/10:N205, 2009/10:N269, 2009/10:N271, 2009/10:N338
+                  yrkandena 5 och 6 samt 2009/10:N397.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 3 (v, mp)
+          </p>
+          <p rend="reservationsreferens_">
+            Reservation 4 (s) motiveringen
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  4.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Vissa övriga elmarknadsfrågor
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motionerna 2009/10:N396 och 2009/10:N464.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 9 februari 2010
+          </p>
+          <p>
+            På näringsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Carl B Hamilton
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Carl B Hamilton (fp),
+            Tomas Eneroth (s), Björn Hamilton (m), Carina Adolfsson Elgestam
+            (s), Maria Plass (m), Jan Andersson (c), Krister Örnfjäder (s),
+            Marie Weibull Kornias (m), Karin Åström (s), Mikael Oscarsson
+            (kd), Staffan Anger (m), Kent Persson (v), Börje Vestlund (s),
+            Liselott Hagberg (fp), Per Bolund (mp), Cecilie Tenfjord-Toftby
+            (m) och Renée Jeryd (s).
+          </p>
+          <p xml:id="IDAF1U0E" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAI1U0E" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I detta betänkande behandlas
+          </p>
+          <p>
+            ·. proposition 2009/10:51 om enklare och tydligare regler för
+            förnybar elproduktion, m.m.
+          </p>
+          <p>
+            ·. två motioner som har väckts med anledning av propositionen
+          </p>
+          <p>
+            ·. 14 motioner från allmänna motionstiden 2009.
+          </p>
+          <p xml:id="IDAD2U0E" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p xml:id="IDAG2U0E" rend="r3">
+            Inledning
+          </p>
+          <p>
+            Regeringen har under de senaste åren låtit två särskilda utredare
+            se över om det nuvarande regelverket skapar hinder för en storskalig
+            utveckling och utbyggnad av den förnybara elproduktionen. I februari
+            2008 överlämnade Nätanslutningsutredningen sitt betänkande Bättre
+            kontakt via nätet om anslutning av förnybar elproduktion (SOU
+            2008:13) till regeringen. I januari 2009 redovisade Energinätsutredningen
+            sitt delbetänkande Nya nät för förnybar el (SOU 2009:2). Båda
+            betänkandena har remissbehandlats. Energimarknadsinspektionen
+            har bistått med underlag till den här aktuella propositionen i
+            form av två promemorior.
+          </p>
+          <p>
+            Den 1 oktober 2009 beslutade regeringen att begära in Lagrådets
+            yttrande. I propositionen har regeringen i huvudsak följt Lagrådets
+            förslag.
+          </p>
+          <p xml:id="IDAP2U0E" rend="r3">
+            Villkor vid eldistribution m.m.
+          </p>
+          <p>
+            Nätverksamheten på elmarknaden regleras genom ellagen (1997:857),
+            och tillsynen över bestämmelserna utövas av nätmyndigheten, dvs.
+            Energimarknadsinspektionen.
+          </p>
+          <p>
+            I ellagen stadgas bl.a. att den som har tillstånd att bedriva
+            nätverksamhet (nätkoncession) är skyldig att på skäliga villkor
+            ansluta en elektrisk anläggning till en ledning eller ett ledningsnät
+            (3 kap. 6 och 7 §§). Vidare är den som har nätkoncession skyldig
+            att på skäliga villkor överföra el för annans räkning (3 kap.
+            9 §). Bestämmelser om nättariffer, dvs. avgifter och övriga villkor
+            för överföring av el och för anslutning till en ledning eller
+            ett ledningsnät, återfinns i 4 kap. ellagen.
+          </p>
+          <p>
+            Den som har nätkoncession är också skyldig att utföra mätning
+            av mängden överförd el och dess fördelning över tiden (3 kap.
+            10 § ellagen). Hur överföringen i gränspunkter mellan olika nät
+            ska mätas och rapporteras framgår närmare av förordningen (1999:716)
+            om mätning, beräkning och rapportering av överförd el.
+          </p>
+          <p>
+            Inmatningen av el mäts i en inmatningspunkt, som är den punkt
+            där den producerade elen matas in på det nationella elsystemet.
+            Det nätföretag som innehar den ledning där inmatningspunkten är
+            belägen ansvarar för mätning och rapportering av den inmatade
+            mängden el och dess fördelning över tiden.
+          </p>
+          <p>
+            Nätföretaget är skyldigt att installera en mätare med tillhörande
+            insamlingsutrustning i elproducentens inmatningspunkt. Kostnaden
+            för denna utrustning och för dess installation ska nätföretaget
+            debitera elproducenten. Dessutom ska elproducenten betala för
+            inmatningen av den producerade elen enligt den nättariff som nätföretaget
+            tillämpar.
+          </p>
+          <p>
+            Innehavare av anläggningar som kan leverera en effekt om högst
+            1 500 kilowatt får inte debiteras kostnaden för mätare med tillhörande
+            insamlingsutrustning. Inte heller kostnaden för dess installation
+            i inmatningspunkten får debiteras, och dessa producenter ska endast
+            betala den del av nätavgiften som enligt nättariffen motsvarar
+            den årliga kostnaden för mätning, beräkning och rapportering.
+          </p>
+          <p xml:id="IDAE3U0E" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            En elanvändare som har ett säkringsabonnemang om högst 63 ampere
+            och som producerar el som kan matas in med en effekt om högst
+            43,5 kilowatt ska inte behöva betala nätavgift för sin inmatning
+            om han eller hon under ett kalenderår tar ut mer el från elsystemet
+            än han eller hon matar in på elsystemet.
+          </p>
+          <p>
+            I propositionen föreslås vidare att regeringen eller, efter regeringens
+            bemyndigande, nätmyndigheten ska få meddela föreskrifter om undantag
+            från vissa krav i ellagen. Nätföretag ska i fråga om ledningar
+            som i huvudsak matar in el från anläggningar för produktion av
+            förnybar el kunna undantas dels från skyldigheten att årligen
+            upprätta en risk- och sårbarhetsanalys och en åtgärdsplan avseende
+            leveranssäkerheten i elnätet, dels från skyldigheten att informera
+            elanvändarna om leveranssäkerheten i elnätet och om rätten till
+            avbrottsersättning och skadestånd. Vidare ska nätföretag vars
+            ledningar i huvudsak matar in el från anläggningar för produktion
+            av förnybar el kunna undantas från skyldigheten att upprätta en
+            övervakningsplan. Nätmyndigheten ska i det enskilda fallet kunna
+            meddela ett bindande besked om huruvida en ledning eller ett nätföretag
+            omfattas av föreskrifter om undantag.
+          </p>
+          <p>
+            I propositionen redovisas också regeringens bedömning i frågan
+            om huruvida en ny koncessionsform bör införas för ledningar inom
+            ett produktionsområde med anläggningar för produktion av förnybar
+            el.
+          </p>
+          <p>
+            Dessutom föreslås att nätmyndighetens föreläggande för en elleverantör
+            att rätta felaktiga uppgifter som rapporterats till Internetsidan
+            Elpriskollen ska gälla omedelbart samt att nätföretagens redovisning
+            till nätmyndigheten av risk- och sårbarhetsanalysen och av åtgärdsplanen
+            ska förenklas.
+          </p>
+          <p>
+            De föreslagna lagändringarna föreslås träda i kraft den 1 april
+            2010.
+          </p>
+          <p xml:id="IDAX3U0E" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDA13U0E" rend="rubrik2">
+            Lättnader för vissa mindre elproducenter och nätföretag
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAB4U0E" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen bifaller regeringens förslag till ändringar i ellagen.
+                Samtidigt avslår riksdagen motionsyrkanden som kan anses vara
+                helt eller delvis tillgodosedda genom riksdagens beslut att bifalla
+                propositionen.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation 1 (mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAO4U0E" rend="r3">
+              Propositionen
+            </p>
+            <p xml:id="IDAR4U0E" rend="r4">
+              Slopad nätavgift för vissa elanvändare
+            </p>
+            <p>
+              I propositionen konstaterar regeringen att elanvändare med egen
+              produktion vanligen använder den egna elproduktionen som ett komplement
+              till den el som de tar ut från elsystemet. Mängden producerad
+              el är ofta av liten omfattning. Dessa elanvändare är alltså anslutna
+              i en uttagspunkt på ett lokalnät, där de tar ut el för förbrukning.
+              I många fall är även deras elproduktionsanläggning ansluten till
+              elsystemet i en inmatningspunkt på lokalnätet.
+            </p>
+            <p>
+              Under vissa perioder matar elanvändare med egen produktion in
+              överskottsel på lokalnätet och därmed på det nationella elsystemet.
+              Om en sådan elanvändare vill sälja den överskottsel som matas
+              in på elsystemet måste han eller hon ha en elmätare installerad
+              i inmatningspunkten. Trots att elproducenten inte blir debiterad
+              kostnaden för mätaren och dess installation i inmatningspunkten
+              och att denne betalar en reducerad nätavgift för sin inmatning
+              lönar det sig inte att sälja överskottselen. Orsaken är att nätavgiften
+              för inmatningen, även om den är reducerad, blir för hög för att
+              lönsamhet ska kunna uppnås.
+            </p>
+            <p>
+              Ett sätt att göra det möjligt för de små elanvändarna att på
+              ett lönsamt sätt sälja sin överskottsel vore, enligt regeringen,
+              därför att befria dessa från skyldigheten att betala nätavgift
+              för sin inmatning. Endast elanvändare med egen elproduktion bör
+              omfattas av undantaget. Renodlade produktionsanläggningar omfattas
+              alltså inte av förslaget. Vidare ska undantaget endast gälla de
+              elanvändare som har ett säkringsabonnemang om högst 63 ampere.
+              Skälet är att dessa elanvändares förbrukning inte mäts över tiden
+              utan schablonberäknas enligt bestämmelsen i 3 kap. 10 § andra
+              stycket ellagen. Nätföretaget kan därmed lätt avgöra vilka elanvändare
+              som omfattas av undantaget.
+            </p>
+            <p>
+              Regeringen föreslår också en övre gräns för inmatningen av producerad
+              el. Denna bör lämpligen sättas till inmatning som kan ske med
+              en effekt om högst 43,5 kilowatt, vilket motsvarar ett säkringsabonnemang
+              om 63 ampere. En förutsättning för att omfattas av undantaget
+              är att elanvändaren under ett kalenderår förbrukar mer el än han
+              eller hon producerar (nettoanvändare).
+            </p>
+            <p>
+              Nätanslutningsutredningen har föreslagit att inmatningen från
+              dessa elanvändare inte ska behöva mätas och rapporteras över tiden
+              utan i stället schablonberäknas. Som skäl för förslaget har utredningen
+              anfört att kostnaden för hanteringen av timvärden utgör ett avgörande
+              hinder för investeringar i små anläggningar.
+            </p>
+            <p>
+              Regeringen gör dock bedömningen att relativt få elproducenter
+              berörs av undantaget och att det är svårt att se hur en någorlunda
+              rättvisande schablonberäkning av deras inmatning ska kunna konstrueras.
+              Någon form av mätning av inmatningen måste, enligt regeringen,
+              därför till. Regeringen anser inte att hanteringen av timvärden
+              utgör ett avgörande hinder för investeringar i små anläggningar,
+              och då huvudregeln på elmarknaden är timvis mätning bör denna
+              regel också gälla nu aktuella elproducenter. Vidare pekar regeringen
+              på att en ökad flexibilitet i elanvändningen troligtvis kommer
+              att kräva en utbyggnad av s.k. smarta mätare och smarta nät, vilket
+              kräver mätning med kortare intervall. Mot den bakgrunden vore
+              det, enligt vad som anförs i propositionen, mindre lämpligt att
+              införa månadsvis mätning för vissa produktionsanläggningars inmatning
+              av el.
+            </p>
+            <p xml:id="IDAG5U0E" rend="r4">
+              Undantag och lättnader med anknytning till leveranssäkerhet
+            </p>
+            <p>
+              I ellagen (3 kap. 9 c9 e §§) finns bestämmelser om underlag och
+              information om leveranssäkerhet. Det handlar bl.a. om krav på
+              att årligen upprätta dels en risk- och sårbarhetsanalys avseende
+              leveranssäkerheten i elnätet, dels en åtgärdsplan som visar hur
+              leveranssäkerheten i det egna elnätet ska förbättras. Vidare finns
+              krav på att elanvändarna ska informeras om leveranssäkerheten
+              i elnätet och om rätten till avbrottsersättning och skadestånd
+              samt att nätägaren ska rapportera elavbrott till den myndighet
+              som regeringen bestämmer.
+            </p>
+            <p>
+              Regeringen föreslår att i fråga om ledningar som i huvudsak matar
+              in el från anläggningar för produktion av förnybar el ska regeringen
+              eller, efter regeringens bemyndigande, nätmyndigheten få meddela
+              föreskrifter om undantag från kraven
+            </p>
+            <p>
+              ·. att årligen upprätta en risk- och sårbarhetsanalys och en
+              åtgärdsplan avseende leveranssäkerheten i elnätet
+            </p>
+            <p>
+              ·. att informera elanvändarna om leveranssäkerheten i elnätet
+              och om rätten till avbrottsersättning och skadestånd enligt 10
+              och 11 kap. ellagen.
+            </p>
+            <p>
+              Regeringen anser att
+            </p>
+            <p>
+              Det har även visat sig att ovan omnämnda risk- och sårbarhetsanalyser
+              samt åtgärdsplaner blir mycket omfattande, vilket leder till att
+              nätmyndigheten inte har möjlighet att gå igenom och granska alla
+              analyser och planer. Av det skälet föreslår regeringen att bestämmelsen
+              i 3 kap. 9 c § ellagen ändras så att endast en redovisning baserad
+              på analysen och planen ska ges in till nätmyndigheten i stället
+              för hela analysen och planen. Vidare föreslås att utformningen
+              av bemyndigandet i 3 kap. 9 e § 1 ellagen ändras så att regeringen
+              kan bemyndiga nätmyndigheten att även meddela föreskrifter om
+              redovisning av analysen och planen.
+            </p>
+            <p xml:id="IDAKAV0E" rend="r4">
+              Undantag från kravet på att upprätta en övervakningsplan
+            </p>
+            <p>
+              Enligt 3 kap. 17 § ellagen ska den som har nätkoncession upprätta
+              en s.k. övervakningsplan av vilken det ska framgå vilka åtgärder
+              som ska vidtas för att motverka diskriminerande beteenden gentemot
+              övriga aktörer på elmarknaden. Skyldigheten måste, enligt regeringen,
+              antas vara betungande för små nätföretag vars ledningar används
+              för inmatning av förnybar el. Regeringen föreslår därför att den
+              eller, efter regeringens bemyndigande, nätmyndigheten ska få meddela
+              föreskrifter om undantag från skyldigheten att upprätta en övervakningsplan
+              i fråga om nätkoncessionshavare vars ledningar i huvudsak matar
+              in el från anläggningar för produktion av förnybar el. En sådan
+              föreskrift får dock inte avse ett nätföretag som ingår i en koncern
+              vars samlade elnät har minst 100 000 elanvändare. De närmare förutsättningarna
+              för undantag bör regleras i förordning eller myndighetsföreskrifter.
+            </p>
+            <p xml:id="IDAQAV0E" rend="r4">
+              Bindande besked om undantag
+            </p>
+            <p>
+              Regeringen föreslår även att
+            </p>
+            <p>
+              Det bör således vara möjligt för innehavaren av en ledning eller
+              den som avser att bygga en ledning att ansöka om bindande besked
+              om huruvida ledningen omfattas av föreskrivna undantag från krav
+              i fråga om leveranssäkerhet. På motsvarande sätt bör en ansökan
+              som gäller undantag från kravet på övervakningsplan kunna göras.
+            </p>
+            <p>
+              Förhandsbeskedet ska gälla endast så länge de förutsättningar
+              som lagts till grund för nätmyndighetens bedömning föreligger
+              oförändrade. Det bör därför uttryckligen framgå av beskedet vilka
+              dessa förutsättningar är. Regeringen anser dock att det saknas
+              skäl att närmare reglera möjligheten att återkalla ett bindande
+              besked. Däremot avser regeringen att föreskriva att nätmyndighetens
+              bindande besked får överklagas hos regeringen.
+            </p>
+            <p xml:id="IDAABV0E" rend="r4">
+              Information om elpriser
+            </p>
+            <p>
+              För att en konkurrensutsatt marknad ska fungera tillfredsställande
+              krävs bl.a. att kunderna är aktiva, vilket i sin tur förutsätter
+              att de har kunskap om de priser och villkor som gäller för den
+              vara eller tjänst som bjuds ut.
+            </p>
+            <p>
+              Av 8 kap. 11 b § ellagen framgår att en elleverantör är skyldig
+              att lämna uppgift om de priser och leveransvillkor som han tillämpar
+              för leverans av el till elanvändare. Uppgifterna ska lämnas till
+              nätmyndigheten. För närvarande har Energimarknadsinspektionen
+              den funktionen.
+            </p>
+            <p>
+              Regeringen har bemyndigat nätmyndigheten att meddela föreskrifter
+              om elleverantörers uppgiftsskyldighet. Energimarknadsinspektionen
+              har sedermera inrättat en Internetsida (Elpriskollen), dit alla
+              elleverantörer ska rapportera sina uppgifter på elektronisk väg.
+              Det har emellertid förekommit att elleverantörer har lämnat prisuppgifter
+              som inte har varit fullt ut korrekta.
+            </p>
+            <p>
+              Om en elleverantör rapporterar felaktiga uppgifter till Elpriskollen
+              kan Energimarknadsinspektionen förelägga elleverantören att göra
+              en rättelse. Ett sådant föreläggande får förenas med vite och
+              kan överklagas vid allmän förvaltningsdomstol. Handläggningen
+              av ett sådant överklagande kan emellertid ta ganska lång tid,
+              särskilt om överklagandet sker i flera instanser. Under denna
+              tid har elleverantören ingen skyldighet att rätta den felaktiga
+              uppgiften som alltså kommer att stå kvar på Elpriskollen. För
+              att råda bot på detta föreslår regeringen att ellagen kompletteras
+              med en bestämmelse om att Energimarknadsinspektionens förelägganden
+              i dessa fall ska gälla omedelbart.
+            </p>
+            <p xml:id="IDAPBV0E" rend="r3">
+              Motionerna
+            </p>
+            <p>
+              Den som vill sälja el ställs inför en dyr och komplicerad administrativ
+              process, konstateras det i motion 2009/10:N304 (m). Processen
+              omfattar krav på dubbla abonnemang, en elöverföringsavgift från
+              nätägaren, ansökan om elcertifikat och ett avtal med elhandlaren
+              för att elen ska få säljas. För att fler ska bidra till en grönare
+              energiförsörjning måste reglerna förenklas.
+            </p>
+            <p>
+              I motion 2009/10:N261 (kd) begärs ett tillkännagivande om att
+              regelverket väsentligt bör förenklas för enskilda och lantbruk
+              som vill bygga ut småskalig elproduktion i mindre vattendrag och
+              övriga förnybara produktionssätt som är miljö- och klimatvänliga.
+              En av de mest angelägna åtgärderna är att låta små elproducenter
+              leverera el till elnätet utan att behöva betala nätavgift för
+              den inmatade elen om producenten tar ut mer el från nätet än vad
+              han eller hon matar in. Enligt motionären bör småskaliga producenter
+              även slippa kraven på att upprätta en risk- och sårbarhetsanalys
+              samt en åtgärdsplan avseende leveranssäkerheten. Vidare bör nätföretag
+              vars ledningar endast eller i huvudsak matar in el från anläggningar
+              för produktion av förnybar el undantas från skyldigheten att upprätta
+              en övervakningsplan.
+            </p>
+            <p>
+              Det är viktigt att de småskaliga elproducenterna gynnas, sägs
+              det i motion 2009/10:N264 (kd). När fastighetsägare och små företag
+              kan bli elproducenter och få intäkter från överproduktion kommer
+              vi att se en snabb utveckling som gynnar både miljön och företagsandan.
+              Motionären pekar på vikten av att anslutningskostnaderna hålls
+              nere för att utvecklingen av småskalig elproduktion ska gå snabbare.
+            </p>
+            <p>
+              I Miljöpartiets kommittémotion 2009/10:N9, som har väckts med
+              anledning av propositionen, konstateras inledningsvis att småskalig
+              produktion av el har stor potential i Sverige. Motionärerna tar
+              dock avstånd från regeringens förslag om att små elproducenter
+              som producerar mer el än de själva gör av med ska betala en hög
+              nätavgift i efterhand. I stället bör mindre elleverantörer ges
+              den lagstadgade rätten att leverera el till nätet utöver den egna
+              konsumtionen upp till en viss nivå utan att riskera att behöva
+              betala nätavgift i efterhand.
+            </p>
+            <p xml:id="IDA4BV0E" rend="r3">
+              Vissa kompletterande uppgifter
+            </p>
+            <p xml:id="IDABCV0E" rend="r4">
+              Pågående regelförenklingsarbete
+            </p>
+            <p>
+              I december 2009 presenterade Energimarknadsinspektionen en rapport
+              om hur myndigheten har arbetat med att förenkla regelverket och
+              minska den administrativa bördan för landets energiföretag. Myndigheten
+              konstaterar att el- och gasmarknaderna är i snabb utveckling,
+              inte minst internationellt, vilket gör att lagstiftningen utökas
+              varje år, med en allt starkare koppling till EU:s regelverk. Denna
+              utveckling påverkar i sin tur energiföretagen som ofta får en
+              ökad administrativ börda. I rapporten slås det fast att Energimarknadsinspektionen
+              på längre sikt kommer att ha begränsade möjligheter att förenkla
+              för företagen genom att begränsa regelfloran.
+            </p>
+            <p>
+              För att förenkla för företagen inom ramen för den pågående utvecklingen
+              av regelverket strävar myndigheten efter
+            </p>
+            <p>
+              ·. ett så enkelt regelverk som möjligt
+            </p>
+            <p>
+              ·. så få rapporteringstillfällen som möjligt för företagen
+            </p>
+            <p>
+              ·. ökad självreglering genom samarbete och förutsägbarhet
+            </p>
+            <p>
+              ·. en planlagd tillsyn så att företagen kan förutse vilka arbetsinsatser
+              som krävs
+            </p>
+            <p>
+              ·. största möjliga samverkan mellan myndigheter (t.ex. genom
+              att använda varandras insamlade uppgifter)
+            </p>
+            <p>
+              ·. största möjliga återanvändning av befintlig information.
+            </p>
+            <p xml:id="IDAUDV0E" rend="r4">
+              Nätanslutningar och EU:s direktiv om förnybar energi
+            </p>
+            <p>
+              EU:s direktiv om främjande av användningen av energi från förnybara
+              energikällor (2009/28/EG) syftar bl.a. till att underlätta förnybara
+              energikällors tillträde till elnätet. Direktivet ska vara genomfört
+              i nationell lagstiftning hösten 2010, och medlemsstaterna ska
+              senast den 30 juni 2010 lämna in en nationell handlingsplan till
+              EU-kommissionen. Handlingsplanen ska innehålla sektorsmål för
+              förnybar energi, åtgärder för hur målen ska nås samt de åtgärder
+              som krävs för att uppfylla kraven i direktivet. I regleringsbrevet
+              för 2009 fick Energimyndigheten i uppdrag att senast den 1 februari
+              2010 redovisa ett förslag till nationell handlingsplan.
+            </p>
+            <p>
+              Energimarknadsinspektionen fick i regleringsbrevet för 2009 i
+              uppdrag att presentera en analys av behovet av författningsändringar
+              till följd av reglerna om nättillträde i det ovan omnämnda förnybarhetsdirektivet
+              och att föreslå eventuella författningsändringar. Myndigheten
+              redovisade uppdraget i oktober 2009 i rapporten Förnybara energikällor
+              åtkomst till och drift av näten (EI R2009:10). Inspektionens samlade
+              bedömning av förhållandet mellan direktivets bestämmelser om nättillträde
+              (artikel 16) och rådande svensk lagstiftning var att artikeln
+              till stora delar redan är införlivad. Produktionsanläggningarna
+              i Sverige har redan en ovillkorlig rätt att mata in energi till
+              elnäten på skäliga villkor som ska vara objektiva och icke-diskriminerande.
+              Detsamma gäller för överföringen av el på näten.
+            </p>
+            <p>
+              I den energipolitiska proposition som presenterades våren 2009
+              (prop. 2008/09:163) framhöll regeringen att tillträdet till elnätet,
+              tillståndsprocessen och villkoren för nätanslutningar är viktiga
+              faktorer för att underlätta utbyggnaden av förnybar elproduktion.
+              Åtgärder som syftar till förenklade regler för nätanslutning av
+              anläggningar för förnybar elproduktion är därför prioriterade.
+            </p>
+            <p xml:id="IDAAEV0E" rend="r4">
+              Ytterligare utredningsunderlag om elnätskoncessioner m.m.
+            </p>
+            <p>
+              Energinätsutredningen presenterade sitt slutbetänkande Koncessioner
+              för el- och gasnät (SOU 2009:48) i maj 2009. I betänkandet hanteras
+              ett antal ytterligare frågor om nätkoncessioner, nättariffer m.m.
+              Betänkandet har varit på remiss, och enligt uppgift från Näringsdepartementet
+              är en proposition som bygger på utredningens förslag planerad
+              till efter valet 2010.
+            </p>
+            <p xml:id="IDAGEV0E" rend="r4">
+              Motiv till att endast nettoanvändare omfattas av slopad nätavgift
+            </p>
+            <p>
+              I motion 2009/10:N9 (mp) vänder sig motionärerna mot att mindre
+              elproducenter kan tvingas betala nätavgift för sin inmatning om
+              det i efterhand visar sig att de inte är nettoanvändare. Enligt
+              uppgift från Näringsdepartementet finns det i huvudsak två skäl
+              för att endast nettoanvändare omfattas av den föreslagna bestämmelsen.
+              Det handlar dels om att säkerställa att bestämmelsen endast träffar
+              gruppen elanvändare som även är små elproducenter, dels om att
+              undantaget inte ska uppfattas som ett ekonomiskt stöd som riskerar
+              att stå i strid med EU:s regler om statligt stöd eller konkurrens.
+              Elproducenter verkar på en öppen marknad där huvudregeln är att
+              likvärdiga villkor ska gälla för alla producenter.
+            </p>
+            <p>
+              Från departementets sida betonas också att huvudsyftet med förslagen
+              i propositionen är att förenkla och förtydliga regler i ellagen
+              och inte att införa ekonomiskt stöd till små producenter, även
+              om förslagen direkt eller indirekt kan innebära ekonomiska lättnader
+              för dessa aktörer. Begränsningen av undantaget till nettoanvändare
+              innebär dock att endast produktionsanläggningar med mycket ringa
+              produktion kommer att få en konkurrensfördel. Bedömningen är att
+              denna produktion är av så begränsad omfattning att den inte kommer
+              att påverka konkurrensen i stort.
+            </p>
+            <p xml:id="IDAPEV0E" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Småskalig elproduktion bör uppmuntras som ett led i ambitionerna
+              att öka andelen förnybart producerad el i energisystemet. Jämfört
+              med förhållandena i övriga Europa är den svenska elproduktionen
+              i betydande utsträckning redan baserad på förnybara energikällor,
+              bl.a. tack vare god tillgång på vattenkraft och biobränslebaserad
+              kraftvärme. Sverige har emellertid ett betydande åtagande att
+              svara upp emot när det gäller att ytterligare öka andelen förnybar
+              energi i energisystemet. Mer småskalig förnybar elproduktion är
+              en viktig pusselbit i detta arbete.
+            </p>
+            <p>
+              Det är angeläget att göra det lättare för småskaliga producenter
+              av förnybar el att ansluta sig till elnätet och att därigenom
+              kunna sälja sin el. Det är därför olyckligt om viss förnybar elproduktion
+              inte tillkommer som en följd av att regelverket på området lägger
+              omotiverade administrativa hinder i vägen. De regelförenklingar
+              som föreslås i propositionen är därför välkomna och rimmar väl
+              med ambitionen att lätta på regelbördan för företag. Förslagen
+              kan också anses helt eller delvis tillgodose de önskemål om regelförenklingar
+              för småskalig elproduktion som har framförts i ovan refererade
+              motioner. Utskottet ställer sig även bakom regeringens förslag
+              till tillägg i ellagen med innebörden att nätavgiften för inmatad
+              el slopas för mindre elproducenter som under ett år är nettoanvändare.
+              Därmed kan småskaliga elproducenter lättare nå lönsamhet i sin
+              produktion och stimuleras att sälja sitt överskott. Yrkandet i
+              motion 2009/10:N9 (mp) om att förslaget om slopad nätavgift ska
+              avslås avstyrks därmed.
+            </p>
+            <p>
+              Sammantaget innebär detta att utskottet tillstyrker propositionen
+              och avstyrker samtliga i avsnittet berörda motioner.
+            </p>
+            <p xml:id="IDA2EV0E" rend="rubrik2">
+              Elmarknadens funktion och utveckling
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDACFV0E" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen avslår motionsyrkanden om elmarknadens funktion och
+                utveckling. Utskottet hänvisar bl.a. till redan vidtagna eller
+                planerade åtgärder samt till berörda myndigheters kontinuerliga
+                arbete med att granska och vidareutveckla elmarknadens funktion.
+                Därutöver refereras även pågående arbete med att skapa en gemensam
+                nordisk slutkundsmarknad.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation 2 (s, v, mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAPFV0E" rend="r3">
+              Motionerna
+            </p>
+            <p>
+              Avregleringen av elmarknaden skulle leda till billigare el, hävdas
+              det i motion 2009/10:N448 (s). I stället har elpriset stigit till
+              orimliga nivåer samtidigt som elbolagens vinster har ökat lavinartat.
+              Därför är det, enligt motionärerna, nu nödvändigt att göra en
+              ordentlig utvärdering av konsekvenserna av elmarknadens avreglering.
+            </p>
+            <p>
+              Den svenska elmarknaden präglas av ett fåtal stora aktörer, som
+              dessutom samäger viktiga produktionsanläggningar, framhålls det
+              i Socialdemokraternas kommittémotion 2009/10:N473. Motionärerna
+              vill underlätta för nya aktörer att komma in på elmarknaden genom
+              en effektiv och tydlig tillståndsprocess. Decentraliserat och
+              småskaligt ägande av produktionsanläggningar i form av t.ex. ny
+              integrerad mikroteknik för förnybar el i bostadsmiljö ska uppmuntras.
+              Samägandet av kärnkraftverk bör begränsas och konkurrensproblemen
+              inom vattenkraften åtgärdas. Förutsättningarna för att utveckla
+              råkraftsmarknaden mot en marknad för s.k. baslast och en för s.k.
+              toppkraft bör studeras närmare. Skärpt övervakning av elmarknaden
+              efterfrågas också av motionärerna. Elbolagens möjligheter att
+              teckna dyra tillsvidareavtal bör begränsas, om möjligt genom lagstiftning.
+            </p>
+            <p>
+              Det nordiska priset på el sätts på marknadsplatsen Nord Pool,
+              noteras det i motion 2009/10:N305 (m). Varje dags dyraste kilowattimme
+              avgör priset på all el som säljs. Ofta är det importerad el från
+              kolkraftverk som är prissättande. För att främja framväxten av
+              helt nya sätt att producera el och därmed verka för en modernisering
+              av hela elmarknaden och en minskning av koldioxidutsläppen är
+              det rimligt att även låta de nya produktionssätten vara normbildande
+              för vad elen egentligen kostar. Befintliga regelverk skapar en
+              missvisande bild av den totala marknaden, och framväxten av renare
+              och billigare el missgynnas. Motionären uppmanar regeringen att
+              se över hur befintliga regelverk kan göras mer flexibla.
+            </p>
+            <p>
+              En välfungerande elmarknad med konkurrenskraftiga priser är viktig
+              både för svenska hushåll och företag, framhålls det i motion 2009/10:N213
+              (fp). Motionärerna anser att regelverken kring bl.a. leverantörsbyten
+              och elmätning bör harmoniseras mellan de nordiska länderna. Vidare
+              anser de att en fortsatt utveckling av elmarknaden bör stimuleras
+              genom att marknaden för elmätare avregleras.
+            </p>
+            <p xml:id="IDA4FV0E" rend="r3">
+              Vissa kompletterande uppgifter
+            </p>
+            <p xml:id="IDABGV0E" rend="r4">
+              Allmänt om elmarknaden
+            </p>
+            <p>
+              De senaste åren har det skett stora förändringar på elmarknaderna
+              i Norden och inom EU. Dessa förändringar har inneburit en övergång
+              från nationella eller regionala monopol till internationella,
+              konkurrensutsatta marknader, där elanvändaren själv kan välja
+              elleverantör. I dag deltar alla nordiska länder utom Island i
+              handeln på den nordiska elbörsen, Nord Pool. Den nordiska elmarknaden
+              integreras även alltmer med marknaderna söder om Östersjön (främst
+              Tyskland och Polen), och det förekommer även handel mellan Finland,
+              Ryssland och Baltikum.
+            </p>
+            <p xml:id="IDAHGV0E" rend="r4">
+              Målet för elmarknadspolitiken
+            </p>
+            <p>
+              Elmarknaden i Sverige öppnades för konkurrens redan 1996. Målet
+              för elmarknadspolitiken är, som det beskrivs i budgetpropositionen,
+              att åstadkomma en effektiv elmarknad med väl fungerande konkurrens
+              som ger en säker tillgång på el till internationellt konkurrenskraftiga
+              priser. Detta innebär en strävan mot en väl fungerande marknad
+              med ett effektivt utnyttjande av resurser och en effektiv prisbildning.
+              Målet omfattar även en vidareutveckling av den gemensamma elmarknaden
+              i Norden med inriktning på harmonisering av regler och ett utökat
+              samarbete mellan de nordiska länderna.
+            </p>
+            <p>
+              Energimarknadsinspektionen kontrollerar att regelverk följs,
+              utformar regler samt prövar och utfärdar tillstånd enligt ellagen
+              (1997:857). Myndigheten har också i uppgift att följa och analysera
+              utvecklingen på elmarknaden samt att föreslå ändringar av regelverk
+              och andra åtgärder så att elmarknadens funktion och effektivitet
+              förbättras.
+            </p>
+            <p>
+              Varje år redovisar Energimarknadsinspektionen situationen på
+              elmarknaden vad gäller regleringsfrågor, konkurrens och frågor
+              om försörjningstrygghet till EU-kommissionen. I rapporten ingår
+              även en redovisning av Konkurrensverkets uppdrag att rapportera
+              om vissa konkurrensfrågor på elmarknaden i enlighet med kraven
+              i elmarknadsdirektivet. I den senaste rapporten (juli 2009) slår
+              Energimarknadsinspektionen fast att den svenska elmarknaden fungerar
+              väl och att den är en av de mest utvecklade i Europa.
+            </p>
+            <p xml:id="IDATGV0E" rend="r4">
+              Elprisets utveckling
+            </p>
+            <p>
+              Elpriset i Norden påverkas främst av vattentillrinningen i Sverige
+              och Norge, driftsstatusen på kärnkraftverken i Sverige och Finland,
+              det internationella prisläget på olika bränslen samt gällande
+              styrmedel. Det sammanlagda elpriset till kunden består av priset
+              för elenergi (inklusive priset för elcertifikat), priset för nättjänsten
+              (nättariff plus abonnemangsavgift), energiskatt och moms samt
+              elhandelsbolagets påslag. Det är elenergipriset som är konkurrensutsatt.
+            </p>
+            <p>
+              Det s.k. spotpriset har varierat kraftigt sedan elmarknaden avreglerades
+              1996, bl.a. som en konsekvens av vattentillrinningens variation
+              mellan olika år. Det ökade elutbytet med länderna utanför Norden
+              gör också att de nordiska priserna påverkas alltmer av bränslepriserna
+              i övriga Europa. Elproduktionen i Tyskland och övriga Kontinentaleuropa
+              baseras i stor utsträckning på koleldad kondenskraft.
+            </p>
+            <p xml:id="IDA2GV0E" rend="r4">
+              Gemensam nordisk slutkundsmarknad
+            </p>
+            <p>
+              Till skillnad från råkraftsmarknaden är slutkundsmarknaderna
+              i Norden i huvudsak nationella. De nordiska energiministrarna
+              beslutade i september 2008 om en nordisk färdplan som är inriktad
+              på ytterligare harmonisering och integrering av elmarknaden. Målsättningen
+              är att möjliggöra för marknadsaktörer och konsumenter att verka
+              fritt i hela Norden.
+            </p>
+            <p>
+              Under våren 2009 överlämnade de nordiska tillsynsmyndigheternas
+              samarbetsorganisation (NordREG) en rapport till de nordiska regeringarna
+              med ett antal harmoniseringsförslag i syfte att möjliggöra en
+              gemensam nordisk slutkundsmarknad. Energimarknadsinspektionen
+              har under 2009 arbetat vidare med förslag gällande utvecklingen
+              av en gemensam nordisk slutkundsmarknad. En sådan marknad skapar,
+              enligt myndigheten, förutsättningar för en ökad konkurrens på
+              elmarknaden, vilket gynnar både svenska och övriga nordiska elkunder.
+            </p>
+            <p>
+              I budgetpropositionen för 2010 (prop. 2009/10:1 utg.omr. 21 s.
+              47) slår regeringen fast att en väl fungerande nordisk elmarknad
+              ger Norden konkurrensfördelar och skapar bättre förutsättningar
+              för energitillförsel, miljö och tillväxt. Inom Norden etableras
+              för närvarande fem prioriterade överföringsförbindelser som avsevärt
+              kommer att stärka överföringskapaciteten. På detta sätt förbättras
+              förutsättningarna för ett effektivt utnyttjande av gemensamma
+              produktionsresurser i Norden, vilket stimulerar till en ökad konkurrens.
+              Den planerade utbyggnaden av vindkraftsparker kräver också förstärkningar
+              i stamnätet. Konkurrensen och effektiviteten på den nordiska elmarknaden
+              bör fortsatt utvecklas.
+            </p>
+            <p>
+              Regeringen konstaterar vidare att den nordiska marknaden länge
+              har varit en föregångare i arbetet med att skapa en integrerad
+              europeisk elmarknad. Sverige är pådrivande för att vidareutveckla
+              elmarknaden inom EU i syfte att skapa en effektiv integrerad marknad.
+            </p>
+            <p>
+              Enligt sitt regleringsbrev för 2010 ska Energimarknadsinspektionen
+              gemensamt med övriga nordiska tillsynsmyndigheter fortsätta arbetet
+              med att identifiera eventuella behov av förändringar i lagstiftningen,
+              bedömningskriterierna och myndigheternas befogenheter för att
+              stärka det nordiska perspektivet vid hanteringen av tillstånd
+              för investeringar av nordiskt intresse i elnät. Uppdraget ska
+              redovisas inom kort.
+            </p>
+            <p>
+              Tillsammans med övriga nordiska tillsynsmyndigheter ska myndigheten
+              även föreslå en detaljerad genomförandeplan för de åtgärder som
+              behöver vidtas för att nå målsättningen om en gemensam nordisk
+              slutkundsmarknad till 2015. I uppdraget ingår att konkretisera
+              vilka lag- och regelmässiga, tekniska och andra ändringar som
+              är nödvändiga. Detta bör ske i samarbete med berörda aktörer.
+              Uppdraget har sin bakgrund i den kommuniké om fortsatt utveckling
+              av en gränslös nordisk elmarknad som de nordiska energiministrarna
+              antog i oktober 2009. Uppdraget ska redovisas senast den 1 mars
+              2010.
+            </p>
+            <p xml:id="IDARHV0E" rend="r4">
+              Förhandsprövning av nättariffer
+            </p>
+            <p>
+              Våren 2009 antog riksdagen regeringens förslag om förhandsprövning
+              av nättariffer (prop. 2008/09:141, bet. 2008/09:NU21). Beslutet
+              innebär att förhandsprövning av elnätstariffer kommer att införas
+              i Sverige fr.o.m. 2012. Energimarknadsinspektionen anser att en
+              förhandsprövning skapar mer förutsägbarhet om nättariffernas totala
+              storlek bland både kunder och företag. Nätföretagen kommer att
+              veta hur stora intäkter de kan ta ut från kunderna i form av nättariffer
+              under den kommande tillsynsperioden, och kundintresset främjas
+              genom regleringens förmåga att ställa krav på nätföretagen att
+              blir mer effektiva och genom att motverka att företagen utnyttjar
+              sin monopolställning.
+            </p>
+            <p xml:id="IDAXHV0E" rend="r4">
+              Månadsvis avläsning av elmätare
+            </p>
+            <p>
+              I december 2006 beslutade regeringen om en ändring i förordningen
+              (1999:716) om mätning, beräkning och rapportering av överförd
+              el med innebörden att månadsvis mätning, avläsning och rapportering
+              av el gäller för alla kunder fr.o.m. den 1 juli 2009. Motioner
+              om mätning och debitering av el behandlas längre fram i detta
+              betänkande.
+            </p>
+            <p xml:id="IDA3HV0E" rend="r4">
+              Översyn av prisområden
+            </p>
+            <p>
+              Den nordiska marknaden är indelad i s.k. elspotområden. Vid överföringsbegränsningar
+              i stamnätet mellan två områden blir priserna olika i dessa områden.
+              På så sätt hanteras överföringsbegränsningen med olika priser
+              på marknaden. Under hösten 2009 enades de nordiska energiministrarna
+              om att inleda en översyn av områdesindelningen i Norden. Som en
+              följd av denna överenskommelse har Affärsverket svenska kraftnät
+              fått i uppdrag att inleda processen med att dela in Sverige i
+              ytterligare s.k. anmälningsområden. Svenska kraftnät har sedermera
+              redovisat uppdraget i en rapport där det framgår att den svenska
+              elmarknaden under 2011 kommer att delas upp i fyra anmälningsområden
+              (prisområden) till den nordiska elbörsen Nord Pool.
+            </p>
+            <p xml:id="IDAGIV0E" rend="r4">
+              Utredning om genomförandet av tredje inremarknadspaketet
+            </p>
+            <p>
+              I april 2009 nåddes en slutlig överenskommelse om det s.k. tredje
+              inremarknadspaketet inom EU. Regeringen har tillsatt en särskild
+              utredare (Håkan Nyberg) som ska föreslå de anpassningar i svensk
+              lagstiftning och svenska regelverk som blir nödvändiga till följd
+              av överenskommelsen. Utredningsuppdraget ska redovisas senast
+              den 1 mars 2010.
+            </p>
+            <p xml:id="IDAMIV0E" rend="r4">
+              Avgränsning av elnätsverksamhet
+            </p>
+            <p>
+              Den 1 januari 2010 trädde nya regler i kraft om åtskillnad av
+              elnätsverksamhet (prop. 2008/09:216, bet. 2009/10:NU7). De nya
+              bestämmelserna i ellagen syftar till att tillgodose kraven i elmarknadsdirektivet
+              och innebär att det införs tydligare krav på åtskillnad mellan
+              företag som bedriver nätverksamhet och företag som bedriver elproduktion
+              eller handel med el inom samma koncern.
+            </p>
+            <p xml:id="IDASIV0E" rend="r4">
+              Effektreservfrågan
+            </p>
+            <p>
+              Efter samråd med Svenska kraftnät och Konkurrensverket föreslog
+              Energimarknadsinspektionen i december 2008 en långsiktig lösning
+              av effektfrågan. Förslaget innebär en successiv övergång till
+              en marknadslösning under perioden 20112020. Rapporten har remissbehandlats.
+              Enligt regeringens propositionsförteckning är en proposition i
+              frågan att vänta senare under våren 2010.
+            </p>
+            <p xml:id="IDAYIV0E" rend="r4">
+              Utökad överföringskapacitet
+            </p>
+            <p>
+              Svenska kraftnät ska vidta nödvändiga åtgärder i sin verksamhet
+              så att möjligheterna att bygga ut förnybar elproduktion kan tas
+              till vara. I juni 2008 redovisade Svenska kraftnät rapporten Storskalig
+              utbyggnad av vindkraft Konsekvenser för stamnätet och behovet
+              av reglerkraft. I rapporten konstateras bl.a. att den pågående
+              vindkraftsutbyggnaden kommer att medföra behov av systemförstärkningar
+              i överföringsnätet.
+            </p>
+            <p>
+              Regeringen gav därefter Svenska kraftnät i uppdrag att lämna
+              förslag till utformning av ett förändrat regelverk om ansvar för
+              elnätsförstärkningar av nationell betydelse och nätanslutning
+              av stora elproduktionsanläggningar i syfte att minska tröskeleffekterna
+              för utbyggnaden av förnybar elproduktion. Uppdraget redovisades
+              i april 2009 i rapporten Tröskeleffekter och förnybar energi.
+              Svenska kraftnät har senare på uppdrag av regeringen lämnat underlag
+              till nödvändiga författningsändringar för att kunna genomföra
+              förslaget. Affärsverkets underlag har varit på remiss under hösten
+              2009 och bereds tillsammans med remissvaren för närvarande inom
+              Regeringskansliet.
+            </p>
+            <p xml:id="IDABJV0E" rend="r4">
+              Samägandet av kärnkraften
+            </p>
+            <p>
+              I början av 2008 utsåg regeringen två förhandlare (f.d. generaldirektören
+              vid Svenska kraftnät Jan Magnusson och departementsrådet Eva Agevik)
+              med uppdrag att undersöka lösningar som minimerar riskerna för
+              konkurrensbegränsningar på grund av samägandet inom kärnkraftsindustrin.
+              Regeringen har senare i två omgångar förlängt förhandlarnas mandat
+              till den 12 mars 2010. Näringsdepartementet har för avsikt att
+              därefter analysera förhandlarnas rapport och ta ställning till
+              det fortsatta tillvägagångssättet.
+            </p>
+            <p xml:id="IDAHJV0E" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet står bakom målet för den svenska elmarknadspolitiken
+              om att åstadkomma en effektiv elmarknad med väl fungerande konkurrens
+              som ger en säker tillgång på el till internationellt konkurrenskraftiga
+              priser. Detta innebär en strävan mot en väl fungerande marknad
+              med ett effektivt utnyttjande av resurser och en effektiv prisbildning.
+              Målet omfattar även en vidareutveckling av den gemensamma elmarknaden
+              i Norden inklusive en fortsatt satsning på harmonisering av regler
+              och ett utökat samarbete mellan de nordiska länderna. Utvecklingen
+              av elmarknaderna i Sveriges grannländer samt förstärkningar av
+              överföringskapaciteten ökar också förutsättningarna för en utökad
+              handel med råkraft mellan Norden och kontinenten.
+            </p>
+            <p>
+              Det är samtidigt angeläget att regelverket kring elmarknaden
+              kontinuerligt granskas och vidareutvecklas för att skapa en effektivare
+              marknad. Elmarknadsinspektionen och Konkurrensverket är i det
+              avseendet centrala aktörer. En effektiv tillsyn av den icke konkurrensutsatta
+              delen av elmarknaden, dvs. nätverksamheten, är en viktig uppgift
+              för Energimarknadsinspektionen. Det är enligt utskottets uppfattning
+              vidare viktigt att det regelverk som omgärdar elmarknaden är tydligt,
+              stabilt och långsiktigt till gagn för investeringar, produktion
+              och distribution.
+            </p>
+            <p>
+              Flera förslag som syftar till att förbättra förhållandena på
+              elmarknaden har också lagts fram av regeringen och beslutats av
+              riksdagen. Bland annat gäller detta beslut som syftar till att
+              underlätta utbyggnaden av vindkraften. Riksdagen har även fattat
+              beslut om förhandsprövning av elnätstariffer liksom om en tydligare
+              avgränsning av elnätsverksamhet. I den nu aktuella propositionen
+              föreslås lättnader för mindre elproducenter. Vidare har förhandlare
+              tillsatts med uppdrag att se över samägandet av kärnkraftsreaktorer
+              i Sverige i syfte att försöka finna lösningar för att helt eller
+              delvis lösa upp detta. Utöver detta pågår det för närvarande en
+              utredning av vilka anpassningar av svensk lagstiftning och svenska
+              regelverk som blir nödvändiga till följd av överenskommelsen inom
+              EU om det s.k. tredje inremarknadspaketet.
+            </p>
+            <p>
+              Sammantaget är det utskottets uppfattning att regeringen visar
+              förståelse för värdet av att elmarknaden fungerar väl. Utskottet
+              står också bakom ambitionerna att skapa en gemensam nordisk slutkundsmarknad
+              samt att på sikt integrera den nordiska råkraftsmarknaden med
+              Kontinentaleuropas. Några tillkännagivanden från riksdagen i linje
+              med vad som efterfrågas i avsnittet berörda motioner är mot denna
+              bakgrund inte nödvändiga. Samtliga motioner avstyrks i berörda
+              delar.
+            </p>
+            <p xml:id="IDAXJV0E" rend="rubrik2">
+              Mätning och debitering av el
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDA3JV0E" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Med hänvisning bl.a. till nyligen initierat utredningsarbete
+                avslår riksdagen motioner som gäller mätning och debitering av
+                el.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservationerna 3 (v, mp) och 4 (s).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAKKV0E" rend="r3">
+              Motionerna
+            </p>
+            <p>
+              Ellagstiftningen bör ses över i syfte att uppmuntra tillkomsten
+              av små elproduktionsanläggningar, sägs det i motion 2009/10:N271
+              (s). Kravet på timvis mätning av inmatad el har i praktiken satt
+              stopp för de minsta anläggningarna, då mätningen har kostat mycket
+              mer än vad de har producerat el för. I Tyskland och Spanien kan
+              varje medborgare bli elproducent, och nätbolagen är tvingade att
+              ta emot deras elektricitet och betala fasta priser för den. I
+              Tyskland har man därmed fått en ny framgångsrik industrisektor
+              med produktion av vindkrafts- och solcellsanläggningar.
+            </p>
+            <p>
+              I motion 2009/10:N397 (s) framhålls rätten till nettomätning
+              och nettodebitering som viktiga åtgärder för att förenkla för
+              småskalig energiproduktion. Kombinerat med ett undantag från timvis
+              mätning för små elproducenter skulle en nettomodell innebära förenklingar
+              och besparingar för de minsta produktionsanläggningarna, inte
+              minst för produktion baserad på sol och vind. Motionären anser
+              att regeringen bör återkomma till riksdagen med ett förslag som
+              har denna inriktning.
+            </p>
+            <p>
+              I dag har elnätbolagen monopol på att mäta förbrukningen av el,
+              slås det fast i motion 2009/10:N205 (m). Nätbolagen saknar dock
+              intresse av att bryta monopolet, och nätavgifterna har regelbundet
+              höjts mer än andra index. Motionären anser att Sverige måste se
+              över ellagen som styr elnätsmarknaden och elmätarmonopolet och
+              som bidrar till bristande konkurrens och valfrihet.
+            </p>
+            <p>
+              Kostnaden för hanteringen av timvärden för inmatad el är ett
+              avgörande hinder för investeringar i små anläggningar för elproduktion,
+              sägs det i Vänsterpartiets kommittémotion 2009/10:N8. Med dagens
+              lagstiftning är anläggningarna dock inte berättigade till elcertifikat
+              om de inte har timvis mätning. Motionärerna refererar Nätanslutningsutredningens
+              uppfattning att undantag från timvis mätning bör införas skyndsamt
+              och prioriterat. De förvånas över att regeringen inte delar utredarens
+              uppfattning att hanteringen av timvärden är ett avgörande hinder
+              för investeringar i små anläggningar och att man i länder som
+              Tyskland, Spanien och Portugal klarar att administrera mindre
+              anläggningar utan timmätning. Motionärerna anser att Sverige kan
+              bidra till att ta fram system och teknik på energiområdet som
+              kan bli mycket värdefulla i framtiden och föreslår att lagen ändras
+              så att nettodebitering införs för dem som inte själva begär det.
+            </p>
+            <p>
+              I Miljöpartiets kommittémotion 2009/10:N9 konstateras inledningsvis
+              att småskalig produktion av el har stor potential i Sverige. Det
+              snabbaste och mest effektiva sättet att öka intresset för egenproducerad
+              el är, enligt motionärerna, att ge alla mindre elleverantörer
+              rätt till nettomätning. Nettomätning innebär att den småskaliga
+              elproducenten får kvitta den överskottsel som levereras ut på
+              elnätet vid hög elproduktion mot den el som köps in när den egna
+              produktionen är låg. Det borde vara en självklarhet att lagstiftningen
+              ger alla mindre elproducenter rätt till nettomätning oavsett vilken
+              nätoperatör man råkar vara ansluten till. Också i denna motion
+              hänvisas till Nätanslutningsutredningens förslag att den småskaliga
+              elproducentens produktion och konsumtion ska kvittas månadsvis.
+              Det innebär att de timmar under en månad man levererar el till
+              nätet jämnas ut mot de timmar man tar ut el från elnätet. I huvuddelen
+              av elproduktionsanläggningarna kommer det vid goda produktionsförhållanden
+              att bli en överskottsproduktion per timme vid vissa tillfällen,
+              men sett över en hel månad blir resultatet en nettokonsumtion.
+              I motsats till regeringen anser motionärerna att tiden för kvittning
+              av konsumtion och produktion ska förlängas till att gälla kvartalsvis.
+              På så sätt ges ännu bättre förutsättningar för enskilda producenter
+              att vara nettokonsumenter under kvartalet.
+            </p>
+            <p>
+              Vidare anser motionärerna att det ska införas ett fastprissystem
+              för att få verkligt genomslag för småskalig förnybar elproduktion.
+              Ett sådant system innebär att leverantören får en fast ersättning
+              för den förnybara el som levereras från små vindkrafts- och solcellsanläggningar,
+              som är högre än för den vanliga elproduktionen. I de länder som
+              har lyckats allra bäst med att tillföra småskalig förnybar el
+              till nätet, bl.a. Tyskland och Spanien, finns sådana fastprissystem.
+            </p>
+            <p>
+              I motion 2009/10:N269 (fp) begärs ett tillkännagivande om att
+              verka för en övergång till timvis elmätning och mervärdestjänster
+              för samtliga elkunder. Motionären konstaterar att 90 % av elmätarna
+              redan är förberedda för timavläsning. Steget till smartare elmätning
+              är, enligt dem, därför inte särskilt stort samtidigt som nyttan
+              för samhälle, elkunder, eldistributörer och miljö kommer att vara
+              mycket stora. Med timprissättning ges incitament för användning
+              av el under de tider då det finns god tillgång på el och då till
+              lägre pris. Mer vindkraft i elnätet, utvecklingen av s.k. plug-in-hybridbilar
+              samt stark utveckling av teknisk kommunikation är exempel på faktorer
+              som vid realtidsprissättning av el underlättar en ökad energieffektivisering
+              som blir lönsam för både kund och elleverantör. Problem med obalans
+              i elnätet kan också lösas genom timvis elmätning och därtill knutna
+              mervärdestjänster som exempelvis laststyrning och tidstariffer.
+            </p>
+            <p>
+              Avregleringen av elmarknaden är inte fullt genomförd, och systemen
+              för korttidsmätning av elanvändningen är inte utvecklade, konstateras
+              det i Miljöpartiets kommittémotion 2009/10:N338. Med elmätare
+              som registrerar elanvändningen varje timme, i kombination med
+              differentierade elpriser, får elkunderna mycket större möjlighet
+              och motiv att styra sin elanvändning bort från de effekttoppar
+              då elen är som dyrast att producera. Det gör att energisystemet
+              avlastas och utnyttjas effektivare.
+            </p>
+            <p>
+              Den fasta delen av nätavgiften som konsumenterna i praktiken
+              inte kan påverka genom att minska sin elanvändning utgör mellan
+              10 och 30 % av hushållens elkostnad, hävdas det i motionen. Nätavgiften
+              försvagar därför prisincitamentet för energieffektivisering i
+              hushållen. För att få en bättre styrning bör distributionskostnaderna,
+              enligt motionärerna, i stället bakas in i det elpris elföretagen
+              tar ut av sina kunder. Med ett rakt elpris utan fasta kostnader
+              blir åtgärder för energieffektivisering i hushållen mer lönsamma.
+              Lägre elanvändning minskar också behovet av utbyggd distributionskapacitet,
+              vilket sänker distributionskostnaderna till gagn även för samhällsekonomin.
+            </p>
+            <p xml:id="IDAILV0E" rend="r3">
+              Vissa kompletterande uppgifter
+            </p>
+            <p xml:id="IDALLV0E" rend="r4">
+              Månadsvis och timvis mätning av el
+            </p>
+            <p>
+              Ellagens bestämmelser om eldistribution har redovisats översiktligt
+              i inledningen av detta betänkande. Vidare har det tidigare nämnts
+              att månadsvis avläsning av elmätare tillämpas sedan den 1 juli
+              2009. För kunderna innebär mätreformen att deras fakturor kan
+              baseras på faktisk förbrukning. Detta kommer, enligt Energimarknadsinspektionen,
+              att öka kundens insikt om sin förbrukning och i förlängningen
+              bidra till en ökad förståelse och ett stärkt förtroende för elmarknaden.
+              Samtidigt kommer reformen att göra det möjligt för elhandlarna
+              att utveckla nya produkter och därigenom hitta nya sätt att konkurrera
+              på marknaden.
+            </p>
+            <p>
+              Våren 2008 tog näringsutskottet ställning till motioner om timvis
+              mätning hos elkunder (bet. 2007/08:NU12). I sitt ställningstagande
+              vidhöll utskottet sin tidigare framförda uppfattning att inriktningen
+              på längre sikt bör vara att alla kunder ska ha mätsystem som klarar
+              timvis mätning, avbrottsregistrering, effektstyrning m.m.
+            </p>
+            <p xml:id="IDAULV0E" rend="r4">
+              Åtgärder för ökad förbrukningsflexibilitet
+            </p>
+            <p>
+              I november 2008 presenterade Energimarknadsinspektionen en rapport
+              om åtgärder för att öka förbrukningsflexibiliteten på elmarknaden.
+              Det konstaterades att de svenska elkunderna reagerar relativt
+              marginellt på elprisförändringar, dvs. att den kortsiktiga (tim-
+              och dygnsvisa) priskänsligheten på el är låg. En ökad priskänslighet
+              skulle enligt myndigheten inte bara förbättra elmarknadens funktion,
+              utan även öka elkundernas välfärd. En ökad förbrukningsflexibilitet
+              skulle bidra till att
+            </p>
+            <p>
+              ·. stabilisera priset på råkraft
+            </p>
+            <p>
+              ·. minska producenternas potentiella marknadsmakt
+            </p>
+            <p>
+              ·. möjliggöra att effektbristsituationer kan undvikas
+            </p>
+            <p>
+              ·. ersätta topplastkapacitet, vilket i förlängningen kan innebära
+              minskad miljöpåverkan.
+            </p>
+            <p>
+              Energimarknadsinspektionen gjorde bedömningen att det finns en
+              stor potentiell förbrukningsflexibilitet både inom industrin och
+              hos hushållen. För små kunder (under 63 ampere) är timmätning
+              av elförbrukningen en förutsättning för att förverkliga potentialen.
+              Månadsvis avlästa mätvärden är, enligt myndigheten, inte tillräckligt
+              för att skapa möjligheter för ökad förbrukningsflexibilitet. Flertalet
+              av de redan installerade mätarna klarar dock sannolikt att samla
+              in mätvärden oftare än en gång per månad.
+            </p>
+            <p>
+              Enligt Energimarknadsinspektionen bör potentialen i befintliga
+              elmätare analyseras vidare. Inspektionen såg dock inte någon principiell
+              anledning till att vänta med att ändra reglerna så att timmätning
+              och förbrukningsflexibilitet möjliggörs. Myndigheten pekade på
+              att den möjlighet som uppstått genom den tekniska utvecklingen
+              bör utnyttjas för att skapa förutsättningar för ökad förbrukningsflexibilitet
+              hos hushållskunder och andra små kunder utan att lagkrav på timmätning
+              införs. Energimarknadsinspektionen framhöll dock att ett antal
+              komplicerade överväganden avseende bl.a. kostnader, mätvärdeshantering
+              och ändringar i regelverk måste göras innan förslaget kan bli
+              verklighet.
+            </p>
+            <p>
+              Även Konkurrensverket har i rapporten Åtgärder för bättre konkurrens
+              förslag (Konkurrensverkets rapportserie 2009:4) förordat en snar
+              övergång till timmätning för små elkunder. I samma rapport föreslår
+              verket också att det bör initieras en utredning om hur en konkurrensutsättning
+              av marknaden för mätning av el kan genomföras. Konkurrensverket
+              anser att det främsta skälet till en marknadsöppning är att effektivisera
+              marknaderna för mätare och mätartjänster och att säkerställa en
+              god produkt- och marknadsutveckling, bl.a. för att främja utvecklingen
+              av nya elavtal och därmed bidra till en ökad kundrörlighet.
+            </p>
+            <p xml:id="IDA5MV0E" rend="r4">
+              Frågor om elmätning
+            </p>
+            <p>
+              I april 2009 besvarade näringsminister Maud Olofsson en fråga
+              (fr. 2008/09:845) från Aleksander Gabelic (s) om huruvida regeringen
+              avser att verka för en för hushållen tydligare elmätning i syfte
+              att spara energi.
+            </p>
+            <p>
+              I sitt svar framhöll näringsministern att månadsvis avläsning
+              är ett bra första steg för att effektivisera energianvändningen,
+              eftersom det underlättar kundernas aktiva val och skapar dynamik
+              på elmarknaden. Nästa steg är att åstadkomma en ännu tätare återkoppling
+              av elförbrukningen. Tätare mätning är ett steg på vägen mot effektivare
+              energianvändning, men det är inte hela lösningen. Nyttan måste
+              vägas mot merkostnaden. Ett mer energieffektivt beteende måste,
+              enligt statsrådet, också komma till stånd.
+            </p>
+            <p>
+              EU anger i sitt tredje lagförslag för den inre marknaden för
+              el en tydlig målsättning om kontinuerlig mätning, vilket kommer
+              att leda till skärpta krav om mätning också i Sverige.
+            </p>
+            <p>
+              Näringsministern underströk även att det inte finns något som
+              hindrar att flera aktörer tillhandahåller elmätare i Sverige.
+              Det står nätägare fritt att välja både mätarteknik och leverantör
+              av mätare så länge de lagstiftade kraven på mätning uppfylls.
+              Vidare är det möjligt för den elanvändare som så önskar att begära
+              att hans eller hennes elförbrukning ska mätas kontinuerligt.
+            </p>
+            <p>
+              Enligt uppgift från Näringsdepartementet har företrädare för
+              departementet haft möten med berörda aktörer om de frågeställningar
+              som berörs i frågesvaret ovan. Med anledning. av bl.a. dessa möten
+              pågår det för närvarande en diskussion inom departementet om hur
+              frågor som rör smarta mätare och intelligenta nät ska utredas
+              vidare.
+            </p>
+            <p xml:id="IDARNV0E" rend="r4">
+              Uppdrag om nettodebitering och timmätning
+            </p>
+            <p>
+              I regleringsbrevet för 2010 gav regeringen Energimarknadsinspektionen
+              i uppdrag att utreda vilka för- och nackdelar ett införande av
+              en reglering om nettodebitering skulle innebära och vilka effekter
+              en sådan reglering skulle få för skyldigheten att betala energiskatt
+              på el samt andra eventuella konsekvenser. I uppdraget ingår att
+              göra en bedömning av om det är lämpligt att införa en reglering
+              om nettodebitering. Uppdraget ska genomföras i samråd med Svenska
+              kraftnät och redovisas senast den 1 november 2010.
+            </p>
+            <p>
+              Myndigheten ska också analysera vilka ekonomiska och legala konsekvenser
+              en övergång till timmätning skulle innebära för elanvändare med
+              ett säkringsabonnemang på högst 63 ampere, dvs. sådana som i dag
+              mäts månadsvis. I uppdraget ingår även att utreda om det ska vara
+              möjligt för ett elnätsföretag att hantera samtliga sina kunder
+              som timkunder i schablonavräkningen enligt nuvarande regelverk.
+              Uppdraget ska redovisas senast den 1 oktober 2010.
+            </p>
+            <p xml:id="IDA0NV0E" rend="r4">
+              Beträffande ett fastprissystem för förnybar elproduktion och
+              utveckling av elcertifikatssystemet
+            </p>
+            <p>
+              I motion 2009/10:N9 (mp) efterfrågas ett lagförslag om ett fastprissystem
+              för småskalig förnybar elproduktion. Redan i anslutning till införandet
+              av nuvarande elcertifikatssystem diskuterades olika modeller för
+              att öka produktionen av förnybar el. Beträffande ett fastprissystem
+              sade den dåvarande regeringen följande (prop. 2002/03:40 s. 37):
+            </p>
+            <p rend="citat">
+              Ett fastprissystem innebär att staten bestämmer ett fast pris
+              på förnybar el. Därutöver krävs att någon kategori av marknadsaktörer
+              åläggs att köpa den på detta sätt producerade kraften. I det senare
+              avseendet skiljer sig fastprissystemet således inte från det nu
+              föreslagna systemet, konstaterar regeringen. Nackdelen med ett
+              fastprissystem är i första hand att det inte skapar ett tydligt
+              incitament till kostnadsminskningar hos producenterna. Därmed
+              riskerar det att hämma teknikutveckling som pressar produktionskostnaderna,
+              och det leder allmänt sett till lägre kostnadseffektivitet och
+              sämre konkurrens. Ett fastprissystem skulle också vara negativt
+              för producenternas möjlighet att nå det långsiktiga målet, att
+              producera el på samma kommersiella villkor som annan elproduktion,
+              anser regeringen.
+            </p>
+            <p>
+              I Energinätsutredningens betänkande Bättre kontakt via nätet
+              om anslutning av förnybar elproduktion (SOU 2008:13) redovisas
+              olika sätt att stimulera framväxten av sådan elproduktion i några
+              olika länder. Det framgår bl.a. att stödsystemen i Tyskland, Spanien
+              och Portugal är baserade på s.k. feed-in-tariffer (garantipriser),
+              vilka definieras för olika sorters förnybar energi. Detta skiljer
+              sig från det svenska elcertifikatssystemet som har ett enda pris
+              för alla förnybara energikällor.
+            </p>
+            <p>
+              Enligt utredningen är det viktigaste med systemen som bygger
+              på feed-in-tariffer att de säkerställer en viss inkomst under
+              en bestämd tidsperiod. Elcertifikatssystemet är i det avseendet
+              ett mer osäkert ekonomiskt stöd, eftersom priset kan variera kraftigt
+              över tiden.
+            </p>
+            <p>
+              I regeringens energipolitiska proposition från våren 2009 (prop.
+              2008/09:163) slogs det fast att elcertifikatssystemet är ett effektivt
+              och kraftfullt styrmedel för att öka den förnybara elproduktionen.
+              Erfarenheterna från systemet är goda. Regeringen anser att systemet
+              ska vidareutvecklas. Ett nytt mål för ökningen av den förnybara
+              elproduktionen bör sättas upp i nivå med 25 TWh till 2020 jämfört
+              med läget 2002.
+            </p>
+            <p>
+              Energimyndigheten fick i juli 2009 i uppdrag att i samråd med
+              berörda myndigheter analysera och utforma hur ambitionshöjningen
+              ska genomföras. I uppdraget ingår bl.a. att överväga om det finns
+              skäl att på nytt införa ett sätt att garantera investerare intäkter
+              om priset på elcertifikat skulle sjunka kraftigt. När elcertifikatssystemet
+              infördes fanns ett särskilt tidsbegränsat skydd för certifikatberättigade
+              elproducenter. De hade möjlighet att lösa in de elcertifikat som
+              de tilldelats under det föregående kalenderåret till ett fast
+              pris.
+            </p>
+            <p>
+              I januari 2010 delredovisade Energimyndigheten uppdraget i rapporten
+              Konsekvenser för elkunden av en höjd ambitionsnivå i elcertifikatssystemet
+              (ER 2009:35). I rapporten gör myndigheten bedömningen att en övergång
+              till ett certifikatsystem med tak- och golvpris skulle störa elmarknaden
+              och bilden av en långsiktig och stabil energipolitik.
+            </p>
+            <p>
+              Enligt myndigheten riskerar ett system med tak- och golvpriser
+              att bli en hybrid mellan ett marknadsbaserat system och ett feed-in-system.
+              Vidare ansåg myndigheten att det inte behövs ett skydd mot låga
+              priser, då nuvarande möjlighet att spara certfikat bedöms vara
+              tillräcklig. Ambitionshöjningen i systemet gör, enligt myndigheten,
+              dessutom att behovet av ett prisgolv minskar ytterligare.
+            </p>
+            <p>
+              Till den 15 maj 2010 ska Energimyndigheten redovisa alternativ
+              till tak- och golvpris samt sin syn på att eventuellt fördela
+              kostnaden på ett större antal elkunder. Myndigheten kommer även
+              att behandla frågan om en eventuell utveckling av ett gemensamt
+              svensk-norskt elcertifikatssystem.
+            </p>
+            <p>
+              Enligt regeringens propositionsförteckning kommer en proposition
+              om vidareutvecklingen av elcertifikatssystemet att överlämnas
+              till riksdagen senare under våren 2010.
+            </p>
+            <p xml:id="IDA1OV0E" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              En väl fungerande elmarknad förutsätter välinformerade kunder
+              som har möjlighet att reagera på marknadens prissignaler. Det
+              ökar inte bara marknadens effektivitet utan kan även bidra till
+              att skapa förbrukningsmönster som underlättar hanteringen av den
+              för elmarknaden centrala frågan om effektbalansen. Mot denna bakgrund
+              vidhåller utskottet sin tidigare framförda uppfattning att inriktningen
+              på längre sikt bör vara att alla elkunder ska ha mätsystem som
+              klarar timvis mätning, avbrottsregistrering, effektstyrning m.m.
+              Att därigenom underlätta för ökad förbrukningsflexibilitet överensstämmer
+              också med regeringens, Konkurrensverkets och Energimarknadsinspektionens
+              uppfattning i frågan.
+            </p>
+            <p>
+              Den samsyn som tycks råda om värdet av ökad förbrukningsflexibilitet
+              har hörsammats av regeringen genom det uppdrag som den nyligen
+              har givit Energimarknadsinspektionen om att analysera konsekvenserna
+              av en övergång till timmätning för elanvändare vars förbrukning
+              i dag mäts månadsvis. Mot denna bakgrund är ett uttalande från
+              riksdagen om timvis mätning av elanvändning inte nödvändigt.
+            </p>
+            <p>
+              Flera motioner i detta avsnitt berör frågan om s.k. nettomätning
+              av mindre elproducenters produktion. I linje med ambitionen att
+              underlätta för småskalig elproduktion ser utskottet ett värde
+              i att denna fråga ges ytterligare belysning och välkomnar därför
+              regeringens nyligen avgivna uppdrag till Energimarknadsinspektionen
+              att utreda för- och nackdelar med ett införande av en reglering
+              om nettodebitering. Inte heller beträffande denna fråga finns
+              det således skäl för riksdagen att bifalla motionsyrkandena.
+            </p>
+            <p>
+              När det gäller frågan om undantag från bestämmelsen om timvis
+              mätning av inmatad el hänvisar utskottet till regeringens uppfattning
+              i propositionen att hanteringen av timvärden inte utgör ett avgörande
+              hinder för investeringar i små anläggningar. Den eftersträvade
+              ökade flexibiliteten i elanvändningen kommer dessutom sannolikt
+              att kräva mätning med kortare intervaller. Mot den bakgrunden
+              är det mindre lämpligt att införa månadsvis mätning för vissa
+              produktionsanläggningars inmatning av el så som föreslås i motionerna
+              2009/10:N397 (s) och 2009/10:N8 (v).
+            </p>
+            <p>
+              Avslutningsvis vill utskottet framhålla elcertifikatssystemets
+              viktiga roll för tillkomsten av förnybar elproduktion. Förslag
+              som innebär en utveckling av detta system väntas senare under
+              innevarande år liksom ytterligare underlag om olika alternativ
+              till golvpriser på elcertifikat. Innan dessa förslag och underlag
+              har presenterats saknas det, enligt utskottets uppfattning, anledning
+              för riksdagen att uttala sig om ett fastprissystem i linje med
+              vad som anförs i motion 2009/10:N9 (mp). Utskottet noterar dock
+              att Energimyndigheten inte anser att det finns skäl att införa
+              ett system med skydd mot låga priser på elcertifikat.
+            </p>
+            <p>
+              Sammantaget innebär detta att utskottet avstyrker samtliga i
+              avsnittet aktuella motioner i berörda delar.
+            </p>
+            <p xml:id="IDARPV0E" rend="rubrik2">
+              Vissa övriga elmarknadsfrågor
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAXPV0E" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen avslår motioner om en förbättrad elöverföringsförbindelse
+                mellan Gotland och fastlandet samt om förändringar av reglerna
+                om avbrottsersättning. I det första fallet hänvisar utskottet
+                till att planering för efterfrågad förstärkning redan har inletts.
+                När det gäller avbrottsersättning anser utskottet att utfallet
+                av regeringens pågående uppföljning av aktuella bestämmelser bör
+                avvaktas.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAGQV0E" rend="r3">
+              Motionerna
+            </p>
+            <p>
+              På Gotland finns det goda expansionsmöjligheter när det gäller
+              etablering av nya vindkraftsverk, sägs det i motion 2009/10:N396
+              (s). För att klara detta behövs det dock en ny tredje kraftkabel
+              mellan Gotland och fastlandet.
+            </p>
+            <p>
+              Rätten till ersättning vid elavbrott tillfaller dem som enligt
+              ellagen är att betrakta som elanvändare samt är direkt anslutna
+              till ett elnät, konstateras det i motion 2009/10:N464 (m). Ersättningsbeloppets
+              storlek står i direkt proportion till avbrottsperiodens längd.
+              Ibland kan ersättningen emellertid helt sakna proportion mot den
+              skada den drabbade elkonsumenten har upplevt. Motionären anser
+              det vara orimligt att hela kundkollektivet ska betala avbrottsersättning
+              till marginella elanvändare (för el till fritidshus, dansbanor
+              etc.) när avbrottet egentligen inte påverkar konsumenten i negativ
+              bemärkelse.
+            </p>
+            <p>
+              Mindre nätföretag med stora andelar landsbygdskunder drabbas
+              av avsevärda ersättningsutbetalningar i relation till bolagens
+              intäkter. De nuvarande bestämmelserna utgör ett hot mot de många
+              mindre elbolagen och mot konkurrensen på elmarknaden. Ett långsiktigt
+              missgynnande av mindre bolag med många landsbygdskunder kan innebära
+              att antalet sådana bolag minskar. Motionären anser att lagstiftningen
+              måste omarbetas så att inte orättvisa effekter uppstår för vissa
+              abonnenter.
+            </p>
+            <p xml:id="IDASQV0E" rend="r3">
+              Vissa kompletterande uppgifter
+            </p>
+            <p xml:id="IDAVQV0E" rend="r4">
+              Ny elkabel till Gotland
+            </p>
+            <p>
+              I dagsläget förbinder två likströmslänkar Gotland med fastlandet.
+              Vattenfall Eldistribution AB äger båda dessa. En väntad stor utbyggnad
+              av ny vindkraftsproduktion på Gotland kommer att leda till ett
+              betydande energiöverskott på ön. Därför krävs både utökad överföringskapacitet
+              till fastlandet och omfattande nätförstärkningar på Gotland.
+            </p>
+            <p>
+              Med anledning av vad som sägs i motion 2009/10:N396 (s) om behovet
+              av en ny elkabel till Gotland kan det nämnas att styrelsen för
+              Svenska kraftnät i augusti 2009 beslutade att godkänna planering
+              för en ny stamnätsförbindelse mellan Gotland och fastlandet inom
+              en bedömd investeringsram om ca 3,1 miljarder kronor (löpande
+              penningvärde).
+            </p>
+            <p>
+              För närvarande genomför Svenska kraftnät en teknisk förstudie
+              i samarbete med Gotlands Energi AB och Vattenfall Eldistribution
+              AB. Därefter kommer erforderliga miljökonsekvensbeskrivningar,
+              markförvärv och bottenundersökningar att genomföras och koncessionsansökan
+              att inlämnas. I den mycket preliminära tidsplanen bedöms den nya
+              ledningen kunna tas i drift tidigast 2015.
+            </p>
+            <p xml:id="IDABRV0E" rend="r4">
+              Leveranssäkerhet och avbrottsersättning
+            </p>
+            <p>
+              Från och med den 1 januari 2006 finns efter beslut av riksdagen
+              (prop. 2005/06:27, bet. 2005/06:NU6) en skyldighet för nätföretag
+              att betala ersättning till elanvändare vid långvariga oplanerade
+              elavbrott som inte har orsakats av händelse av exceptionell karaktär.
+              Vidare gäller fr.o.m. den 1 januari 2011 ett lagstadgat s.k. funktionskrav
+              med innebörden att oplanerade avbrott i elöverföringen inte får
+              överstiga 24 timmar.
+            </p>
+            <p>
+              Våren 2008 behandlade utskottet en motion som i stort sett överensstämmer
+              med den nu aktuella motionen 2009/10:N464 (m) (bet. 2007/08:NU12).
+              Motsvarande motion behandlades också förenklat våren 2009 (bet.
+              2008/09:NU26). I sitt ställningstagande våren 2008 erinrade utskottet
+              om bestämmelsen i ellagen (10 kap. 13 §) som gör det möjligt att
+              jämka avbrottsersättningen om den är oskäligt betungande med hänsyn
+              till de ekonomiska förhållandena hos den som är ersättningsskyldig.
+              Det var utskottets uppfattning att motionen kunde avslås med hänvisning
+              till denna bestämmelse. Utskottet ansåg inte heller att en motion
+              om behovet av att följa upp vidtagna åtgärder på området borde
+              föranleda någon åtgärd från riksdagens sida. Vidare förutsatte
+              utskottet att regeringen följer utvecklingen och vidtar nödvändiga
+              åtgärder om behov uppstår. Riksdagen ställde sig bakom utskottets
+              uppfattning.
+            </p>
+            <p xml:id="IDAKRV0E" rend="r4">
+              Riksdagsfråga om avbrottsersättning
+            </p>
+            <p>
+              I december 2009 besvarade näringsminister Maud Olofsson en fråga
+              (fr. 2009/10:333) från Otto von Arnold (kd) om vilka åtgärder
+              hon är beredd att vidta för att en översyn av avbrottsersättning
+              för elnät ska komma till stånd. Frågan hade en liknande utgångspunkt
+              som den här aktuella motionen 2009/10:N464 (m), dvs. att ellagens
+              bestämmelser om avbrottsersättning inte tar hänsyn till vilken
+              typ av kund som har drabbats av avbrottet.
+            </p>
+            <p>
+              I sitt svar konstaterade näringsministern att regeringen i propositionen
+              Förhandsprövning av nättariffer (prop. 2008/09:141) hade uttalat
+              avsikten att följa upp den nuvarande regleringen om avbrottsersättning
+              och, om det finns anledning, utreda om reglerna om avbrottsersättning
+              ska förändras. Således följer regeringen för närvarande upp frågan
+              om hur bestämmelserna om avbrottsersättning fungerar i praktiken.
+              Denna uppföljning kan eventuellt leda till att regeringen låter
+              utreda behovet av förändringar av nämnda bestämmelser.
+            </p>
+            <p xml:id="IDATRV0E" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Tillräcklig överföringskapacitet är en nödvändig förutsättning
+              för att den kraftiga utbyggnad av vindkraften som pågår i Sverige
+              ska kunna tas till vara. Gotland är ett av de områden där vindkraftsutbyggnaden
+              är betydande och där den väntas bli än mer omfattande. Det förslag
+              om förstärkning av elnätet mellan fastlandet och Gotland som efterfrågas
+              i motion 2009/10:N396 (s) kan anses vara tillgodosett i och med
+              att planering för en sådan förstärkning har initierats av Svenska
+              kraftnät. Motionen kan därför avstyrkas.
+            </p>
+            <p>
+              Beträffande bestämmelserna kring avbrottsersättning i ellagen
+              noterar utskottet att regeringen tidigare har uttalat avsikten
+              att följa upp den nuvarande regleringen om avbrottsersättning
+              och att sådan uppföljning nu har inletts. Ett uttalande från riksdagen
+              i linje med vad som efterfrågas i motion 2009/10:N464 (m) kan
+              därmed undvaras. Motionen avstyrks.
+            </p>
+            <p xml:id="IDA3RV0E" rend="AvsnittsRubrik">
+              Reservationer
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservationer. I rubriken anges vilken
+              punkt i utskottets förslag till riksdagsbeslut som behandlas i
+              avsnittet.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAESV0E">
+                  <p rend="reservation">
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Lättnader för vissa mindre elproducenter och nätföretag, punkt
+                    1 (mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Per Bolund (mp).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDA3TV0E" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Jag anser att förslaget till riksdagsbeslut under punkt 1 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen antar regeringens förslag till lag om ändring i ellagen
+              (1997:857) och tillkännager för regeringen som sin mening vad
+              som anförs i reservationen. Därmed bifaller riksdagen proposition
+              2009/10:51, bifaller delvis motion 2009/10:N9 yrkande 3 och avslår
+              motionerna 2009/10:N261, 2009/10:N264 och 2009/10:N304.
+            </p>
+            <p xml:id="IDAEUV0E" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Åtgärder i syfte att underlätta för förnybar elproduktion är
+              ofta vällovliga. Utbyggnaden av sådan elproduktion gagnas dock
+              knappast av mindre väl genomtänkta förslag med denna inriktning.
+              Regeringens förslag om att slopa nätavgiften för mindre elproducenters
+              inmatning av el kan vid första anblicken verka lockande, men betänkligheter
+              inträder om man granskar förslaget mer noggrant.
+            </p>
+            <p>
+              I likhet med vad som anförs i motion 2009/10:N9 (mp) vänder jag
+              mig emot det faktum att förslaget endast omfattar nettoanvändare
+              på årsbasis och att mindre elproducenter som inte är nettoanvändare
+              tvingas betala en hög nätavgift i efterhand. Detta innebär att
+              småskaliga elproducenter straffas om deras anläggningar skulle
+              producera mer än hushållet konsumerar. Då det ofta kan vara svårt
+              för en mindre elproducent att anpassa sin produktion så att den
+              inte blir högre än den egna konsumtionen, kan bestämmelsens utformning
+              leda till att små elproducenter tvingas stänga av sitt vindkraftverk
+              eller sin solcellsanläggning under delar av året. Alternativt
+              kan han eller hon i slutet av året tvingas elda för kråkorna för
+              att säkerställa att nettoanvändningskravet uppfylls. Ett system
+              med effekter av detta slag kan inte anses vara rimligt.
+            </p>
+            <p>
+              En alternativ modell som jag förordar är att mindre elleverantörer
+              ges rätt att leverera el till nätet utöver den egna konsumtionen
+              upp till en viss nivå utan att riskera att behöva betala nätavgift
+              i efterhand. Regeringen bör återkomma till riksdagen med ett förslag
+              med denna innebörd. I avvaktan på detta förslag ställer jag mig
+              bakom förslagen till regelförenklingar i propositionen.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDARUV0E">
+                  <p rend="reservation">
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Elmarknadens funktion och utveckling, punkt 2 (s, v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Tomas Eneroth (s), Carina Adolfsson Elgestam (s), Krister
+                    Örnfjäder (s), Karin Åström (s), Kent Persson (v), Börje Vestlund
+                    (s), Per Bolund (mp) och Renée Jeryd (s).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAKWV0E" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 2 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen. Därmed bifaller riksdagen motion 2009/10:N473
+              yrkande 5 och avslår motionerna 2009/10:N213, 2009/10:N305 och
+              2009/10:N448.
+            </p>
+            <p xml:id="IDARWV0E" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Enligt vår uppfattning bör den svenska elmarknadspolitiken inriktas
+              på att trygga den svenska tillgången till el och på att upprätthålla
+              effekten i energisystemet samtidigt som energisystemet ställs
+              om till att bli långsiktigt hållbart. För att möjliggöra en fortsatt
+              utbyggnad av förnybar elenergi i linje med vad vi förordar måste
+              dock överföringskapaciteten stärkas. De investeringar som görs
+              på detta område bör i första hand inriktas på att förbättra den
+              nordiska elmarknadens funktion. Vi bejakar en ökad sammankoppling
+              med energisystemet i de baltiska länderna. På sikt är en gemensam
+              europeisk elmarknad att eftersträva. En sammanbindning av illa
+              fungerande marknader skulle dock bara leda till höjda elpriser,
+              vilket skulle missgynna svenska hushåll och företag.
+            </p>
+            <p>
+              Elmarknaden fungerar inte tillfredsställande och vi anser därför
+              att det, i likhet med vad som anförs i Socialdemokraternas kommittémotion
+              2009/10:N473, behövs en rad åtgärder för att förbättra konkurrensen
+              på området. Ett fåtal stora aktörer, som dessutom i flera fall
+              samäger viktiga produktionsanläggningar, sätter alltför stor prägel
+              på marknaden. Vi vill underlätta för nya aktörer att komma in
+              på elmarknaden genom en effektiv och tydlig tillståndsprocess.
+              Decentraliserat och småskaligt ägande av produktionsanläggningar
+              i form av t.ex. ny integrerad mikroteknik för förnybar el i bostadsmiljö
+              ska uppmuntras. Samägandet av kärnkraftverk bör begränsas, och
+              konkurrensproblemen inom vattenkraften måste åtgärdas.
+            </p>
+            <p>
+              Det är enligt vår uppfattning också motiverat att genomföra en
+              studie av förutsättningarna för att utveckla råkraftsmarknaden
+              mot en marknad för s.k. baslast och en för s.k. toppkraft.
+            </p>
+            <p>
+              Övervakningen av elmarknaden måste skärpas, och elkonsumenterna
+              måste få en starkare ställning. Möjligheten för elbolagen att
+              teckna dyra tillsvidareavtal som är svåra för elkunderna att omförhandla
+              eller gå ur bör ses över och om möjligt begränsas genom lagstiftning.
+            </p>
+            <p>
+              Sammantaget innebär det ovan anförda att vi tillstyrker motion
+              2009/10:N473 (s) i berörd del. Övriga i avsnittet aktuella motioner
+              avstyrks.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAEXV0E">
+                  <p rend="reservation">
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Mätning och debitering av el, punkt 3 (v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Kent Persson (v) och Per Bolund (mp).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAAZV0E" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 3 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen. Därmed bifaller riksdagen motionerna 2009/10:N8,
+              2009/10:N9 yrkandena 1, 2 och 4 samt 2009/10:N338 yrkandena 5
+              och 6 samt avslår motionerna 2009/10:N205, 2009/10:N269, 2009/10:N271
+              och 2009/10:N397.
+            </p>
+            <p xml:id="IDAHZV0E" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Den globala energiförsörjningen måste genomgå en omvälvande reformering
+              med inriktning på hållbarhet baserad på förnybara energikällor.
+              I Sverige får de små elproducenternas bidrag till detta inte försummas
+              ytterligare. Genom att göra det enklare och mer lönsamt med småskalig
+              elproduktion frigörs kapital och kreativitet hos ett stort antal
+              hushåll, vilket i sin tur gör det möjligt att snabbt bygga ut
+              förnybar elproduktion. Därigenom minskar beroendet av icke förnybar
+              el samtidigt som de stora elbolagens dominerande ställning på
+              elmarknaden försvagas. Egen produktion av el uppmärksammar även
+              hushållen på vilka konsekvenser produktion och konsumtion av el
+              får och uppmuntrar därmed också till hushållning med energi.
+            </p>
+            <p>
+              Sverige ligger dessvärre redan långt efter länder som Tyskland
+              och Spanien där utbyggnaden av småskalig elproduktion har kommit
+              betydligt längre. De småskaliga elproducenternas tillskott av
+              energi och deras roll som ambassadörer för en inriktning mot förnybar
+              energi såväl i Sverige som utomlands är faktorer som inte får
+              underskattas. Sverige kan här bidra till att ta fram system och
+              teknik på energiområdet som kan bli mycket värdefulla i framtiden.
+            </p>
+            <p>
+              Regeringen säger sig bedyra värdet av att underlätta för förnybar
+              småskalig elproduktion. Mot den bakgrunden ser vi med förvåning
+              på att regeringen så lättvindigt avfärdar Nätanslutningsutredningens
+              förslag om undantag från kravet på timvis mätning för mindre elproducenters
+              inmatning. Utredaren anser att kostnaden för hanteringen av timvärden
+              utgör ett avgörande hinder för att investeringar i små anläggningar
+              ska komma till stånd över huvud taget.
+            </p>
+            <p>
+              Det snabbaste och mest effektiva sättet att öka intresset för
+              egenproducerad el är att ge alla mindre elleverantörer rätt till
+              nettomätning. Vi ser det därför som positivt att regeringen i
+              någon utsträckning tycks ha lyssnat på de starka önskemål som
+              har framförts av småskaliga elproducenter m.fl. om nödvändigheten
+              i att närmare analysera denna fråga. För att tydligt markera att
+              det är riksdagens uppfattning att nettomätning också ska införas
+              som ett lagstadgat krav sedan de närmare detaljerna kring utformningen
+              är klarlagda anser vi att yrkandena om nettomätning i motionerna
+              2009/10:N8 (v) och 2009/10:N9 (mp) ska tillstyrkas. Därigenom
+              ges inte regeringen möjlighet att bara gömma undan frågan i en
+              utredning. Det bör också tydligt framgå att dagens system där
+              man som elkonsument är hänvisad till nätbolagens välvilja att
+              erbjuda nettomätning inte är tillräckligt.
+            </p>
+            <p>
+              Vidare är det vår uppfattning att tiden för kvittning av konsumtion
+              och produktion ska förlängas till att gälla kvartalsvis. På så
+              sätt ges betydligt bättre förutsättningar för enskilda producenter
+              att under kvartalet vara nettokonsumenter.
+            </p>
+            <p>
+              För att öka produktionen av småskalig förnybar el utöver vad
+              som är möjligt med enbart nettomätning behövs också kompletterande
+              styrmedel. Ett s.k. fastprissystem liknande de som framgångsrikt
+              används i Tyskland och Spanien skulle onekligen stimulera den
+              småskaliga elproduktionen ytterligare och dessutom bidra till
+              uppbyggnaden av framgångsrik ny industri för produktion av vind-
+              och solcellsanläggningar.
+            </p>
+            <p>
+              Med det anförda tillstyrks motionerna 2009/10:N8 (v) och 2009/10:N9
+              (mp) i berörda delar. Övriga motioner i avsnittet avstyrks.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAA0V0E">
+                  <p rend="reservation">
+                    4.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Mätning och debitering av el, punkt 3 motiveringen (s)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Tomas Eneroth (s), Carina Adolfsson Elgestam (s), Krister
+                    Örnfjäder (s), Karin Åström (s), Börje Vestlund (s) och Renée
+                    Jeryd (s).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAZ1V0E" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Vi är positiva till åtgärder som kan innebära ökad flexibilitet
+              i förbrukningen av el och när det gäller möjligheterna för små
+              elproducenter att sälja sin el. I avvaktan på utfallet av nyligen
+              tillsatta utredningar på dessa områden som kommer att avrapporteras
+              under innevarande år anser vi att riksdagen bör avslå de motioner
+              som har väckts med anknytning till dessa frågor. Även när det
+              gäller utvecklingen av elcertifikatssystemet bör aviserade förslag
+              och pågående utredningsarbete avvaktas.
+            </p>
+            <p xml:id="IDA51V0E" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAC2V0E" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAF2V0E" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2009/10:51 Enklare och tydligare regler för förnybar
+              elproduktion, m.m.:
+            </p>
+            <p>
+              Riksdagen antar regeringens förslag till lag om ändring i ellagen
+              (1997:857).
+            </p>
+            <p xml:id="IDAS2V0E" rend="rubrik2">
+              Följdmotionerna
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N8 av Kent Persson m.fl. (v):
+            </p>
+            <p>
+              Riksdagen begär att regeringen lägger fram förslag till ändring
+              av reglerna så att nettodebitering införs för de små elanvändarna
+              och elproducenterna enligt vad som sägs i motionen.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N9 av Per Bolund m.fl. (mp):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen begär att regeringen återkommer till riksdagen med
+                    ett lagförslag som ger alla mindre elleverantörer rätt till nettomätning.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om att nettomätningen ska regleras kvartalsvis.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen avslår regeringens förslag om att mindre elproducenter
+                    som levererar mer el än sin egen elkonsumtion ska tvingas betala
+                    nätavgift i efterhand.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    4.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen begär att regeringen återkommer till riksdagen med
+                    ett lagförslag om ett system med fast pris på el levererad från
+                    små anläggningar för förnybar elproduktion.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDATYUOC" rend="rubrik2">
+              Motioner från allmänna motionstiden hösten 2009
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N205 av Katarina Brännström (m):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om att elmätarmonopolet måste brytas.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N213 av Hans Backman m.fl. (fp):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om en nordisk harmonisering av regelverken kring
+              bl.a. leverantörsbyten och mätning för att förbättra slutkundsmarknaden
+              samt om en avreglering av marknaden för elmätare.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N261 av Lars-Axel Nordell (kd):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om att regelverket väsentligt bör förenklas
+              för enskilda och lantbruk som vill bygga ut småskalig elproduktion
+              i mindre vattendrag och övriga förnybara produktionssätt som är
+              miljö- och klimatvänliga.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N264 av Eva Johnsson (kd):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om ett nytt regelverk som förenklar för småskalig
+              elproduktion inom denna mandatperiod.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N269 av Lars Tysklind m.fl. (fp):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om att verka för en övergång till timvis elmätning
+              och mervärdestjänster för samtliga elkunder.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N271 av Louise Malmström och Jan Emanuel Johansson (båda
+              s):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om att se över ellagstiftningen för att uppmuntra
+              små anläggningar.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N304 av Staffan Appelros (m):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om nya regler för försäljning av el från mindre
+              produktion.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N305 av Staffan Appelros (m):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om marknadspriset på el.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N338 av Per Bolund m.fl. (mp):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    5.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om att nätavgiften för eldistribution bör slopas
+                    och läggas in i det rörliga elpriset.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    6.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om att timmätning av el bör införas i alla hushåll.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="behandlatdokument_">
+              2009/10:N396 av Christer Engelhardt (s):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om vindkraft på Gotland och behovet av en tredje
+              kraftkabel.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N397 av Fredrik Olovsson (s):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om förenklingar för nettomätning, nettodebitering
+              och undantag från timvis mätning för små elproducenter.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N448 av Ann-Christin Ahlberg m.fl. (s):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om en utvärdering av konsekvenserna av elmarknadens
+              avreglering.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N464 av Gunnar Axén (m):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om en differentierad avbrottsersättning.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:N473 av Tomas Eneroth m.fl. (s):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    5.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om konkurrens på elmarknaderna.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAY5UOC" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDA15UOC" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{019354ED-FD3B-4CD7-B5DF-5E0184E447DA}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{C32A8A76-5BB6-4737-A16B-DE5FDC7D8BE9}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{63714610-1417-45E8-8ED1-693327DF9E79}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{56E7EF18-011F-4F06-AE9B-C2AA99A8A03D}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

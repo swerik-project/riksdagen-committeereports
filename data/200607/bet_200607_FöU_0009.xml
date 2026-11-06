@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200607_FöU_0009">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sade ja till regeringens förslag om att Försvarshögskolan ska bli en högskola som lyder under högskolelagen. Det ska till exempel bli möjligt för en officersutbildning som har fått examenstillstånd att ges som högskoleutbildning. Sambandet mellan utbildning och forskning blir på så sätt starkare och officersutbildningen i Sverige blir mer lik andra länders officersutbildningar, som ofta är att jämställa med en universitets- eller högskoleutbildning. Ansvaret för den treåriga grundläggande officersutbildningen, officersprogrammet, förs över från Försvarsmakten till Försvarshögskolan. Lagändringen börjar gälla den 1 januari 2008.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Officersprogrammet blir högskoleutbildning (FöU9)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GU09118</idno>
+              <title>2007-06-01</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">118</biblScope>
+              <note type="display-reference">2007-06-01</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GU09117</idno>
+              <title>2007-05-31</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">117</biblScope>
+              <note type="display-reference">2007-05-31</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GU0K193</idno>
+              <title>2006/07:193</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">193</biblScope>
+              <note type="display-reference">2006/07:193</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1992:1434</idno>
+              <note type="display-reference">2007:511</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GU0364</idno>
+              <title>Högskoleutbildning av officerare m.m.</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">64</biblScope>
+              <note type="display-reference">proposition 2006/07:64 Högskoleutbildning av officerare m.m.</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2007-05-28">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2007-05-28">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2007-05-23">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2007-05-23">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2007-05-23">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-05-22">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-05-22">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-05-15">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-05-15">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-05-08">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2007-06-01">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2007-06-01">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2007-06-01">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-05-31">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-05-30">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-05-29">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-05-29">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2007-05-28">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2007-05-28">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Försvarsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2006/07:FöU9
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Högskoleutbildning av officerare m.m.
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDAGQEHC" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlas proposition 2006/07:64 Högskoleutbildning
+            av officerare m.m. i vilken föreslås att Försvarshögskolan ska
+            inrättas som en högskola som lyder under högskolelagen (1992:1434).
+            Förslaget möjliggör att bl.a. viss officersutbildning efter examenstillstånd
+            kan ges som högskoleutbildning. Ansvaret för genomförandet av
+            den treåriga grundläggande officersutbildningen officersprogrammet
+            bör överföras från Försvarsmakten till Försvarshögskolan. Förslaget
+            till lagändring föreslås träda i kraft den 1 januari 2008.
+          </p>
+          <p>
+            Utskottet tillstyrker propositionen.
+          </p>
+          <p xml:id="IDAEREHC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Högskoleutbildning av officerare m.m.
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen dels godkänner regeringens förslag att
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  1. inrätta Försvarshögskolan som en högskola som lyder under
+                  högskolelagen (1992:1434) fr.o.m. den 1 januari 2008,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  dels antar regeringens förslag till
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2. lag om ändring i högskolelagen (1992:1434).
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen proposition 2006/07:64.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 22 maj 2007
+          </p>
+          <p>
+            På försvarsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Rolf Gunnarsson
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Rolf Gunnarsson (m),
+            Karin Enström (m), Peter Jonsson (s), Nils Oskar Nilsson (m),
+            Staffan Danielsson (c), Michael Hagberg (s), Allan Widman (fp),
+            Mats Berglind (s), Isabella Jernbeck (m), Åsa Lindestam (s), Else-Marie
+            Lindgren (kd), Rolf K Nilsson (m), Gunilla Wahlén (v), Inger Jarl
+            Beck (s), Rosita Runegrund (kd), Peter Rådberg (mp) och Peter
+            Jeppsson (s).
+          </p>
+          <p xml:id="IDA3TEHC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDANVEHC" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I proposition 2001/02:10 Fortsatt förnyelse av totalförsvaret
+            behandlades officersutbildningen. Regeringen gjorde i propositionen
+            bedömningen att den i många hänseenden vad avser nivå och kvalitet
+            var jämförbar med högskoleutbildning och att den kan likställas
+            med andra eftergymnasiala utbildningar. Samtidigt konstaterades
+            att ytterligare överväganden var nödvändiga för att kunna reformera
+            officersutbildningen.
+          </p>
+          <p>
+            Regeringen beslutade den 14 mars 2002 om kommittédirektiv till
+            en särskild utredare (dir. 2002:41) att redovisa hur det militära
+            försvarets utbildningssystem fortsatt bör utvecklas. Skolreformutredningens
+            betänkande Ett reformerat skolsystem för Försvarsmakten (SOU 2003:43)
+            överlämnades i maj 2003. I betänkandet lämnades en analys av det
+            militära försvarets långsiktiga kompetensbehov och hur dessa behov
+            tillgodoses i form av utbildning. Betänkandet behandlade även
+            ett antal organisatoriska lösningar för att genomföra detta. Förslagen
+            krävde dock ytterligare bearbetning och har därefter varit en
+            del av den fortsatta beredningen i Regeringskansliet.
+          </p>
+          <p>
+            Regeringen beslutade den 22 december 2004 om kommittédirektiv
+            till en särskild utredare (dir. 2004:181) att utföra en översyn
+            av lednings- och myndighetsorganisationen inom Försvarsmakten
+            och de totalförsvarsgemensamma myndigheterna. Försvarsförvaltningsutredningen
+            lämnade i november 2005 sitt betänkande En effektiv förvaltning
+            för insatsförsvaret (SOU 2005:96). I betänkandet berörde utredaren
+            bl.a. den s.k. akademiseringsfrågan och bejakade att utbildningen
+            bör bedrivas på vetenskaplig grund och utifrån beprövad erfarenhet.
+            I betänkandet konstaterades att trenden under de senaste åren
+            har varit att alltfler utbildningar inordnats i universitets-
+            och högskoleväsendet och att utredningen höll det för troligt
+            att den militära befälsutbildningen kunde anses vara akademisk,
+            samtidigt som man hänvisade till det då pågående regeringsuppdrag
+            som Högskoleverket 2005 hade fått att granska officersutbildningen.
+          </p>
+          <p>
+            Under 2005 genomförde Högskoleverket på regeringens uppdrag en
+            granskning av kvaliteten vid den grundläggande officersutbildningen
+            vid Försvarsmaktens skolor och den högre officersutbildningen
+            vid Försvarshögskolan.
+          </p>
+          <p>
+            Under våren 2006 genomförde Högskoleverket på regeringens uppdrag
+            en kompletterande granskning (dnr Fö2006/1537/MIL) av de åtgärder
+            som vidtagits i syfte att öka högskolemässigheten i det reformerade
+            förslaget till ny grundläggande officersutbildning
+          </p>
+          <p>
+            Under sommaren och hösten 2006 bedrevs på uppdrag av Försvarsdepartementet
+            ett arbete med uppgift att ta fram förslag på hur officersutbildningen
+            kan bli en högskoleutbildning. Rapporten Högskoleutbildning av
+            officerare m.m. (hädanefter i denna proposition benämnd Officersutbildningsrapporten)
+            lämnades till Försvarsdepartementet den 13 november 2006 (dnr
+            Fö2006/2664/MIL) och behandlade på vilket sätt officersutbildningen
+            skiljer sig från övrig högskoleutbildning samt vilken särreglering
+            som behövs för att genomföra en sådan förändring. I rapporten
+            föreslås att den organisatoriska lösningen för att genomföra en
+            sådan förändring är att Försvarshögskolan inrättas som en högskola
+            under Försvarsdepartementet.
+          </p>
+          <p xml:id="IDAEWEHC" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p xml:id="IDAFWEHC" rend="rubrik3">
+            Behov av högskoleutbildning för försvarssektorn
+          </p>
+          <p xml:id="IDAHWEHC" rend="r4">
+            Utgångspunkter
+          </p>
+          <p>
+            Riksdag och regering har under det senaste decenniet successivt
+            preciserat nya mål för försvars-, utrikes- och säkerhetspolitiken,
+            allteftersom säkerhetsläget förändrats. Detta innebär bl.a. att
+            kravet på förändrade och ökade kunskaper inom officerskåren har
+            ökat, varför en anpassning av officersutbildningen till de krav
+            på kvalitet som gäller inom högskolan eftersträvats.
+          </p>
+          <p>
+            En övergripande slutsats är att det finns behov av ny, kompletterande
+            kunskap samt nya förmågor och färdigheter. Det är mot denna bakgrund
+            som övervägandena om att göra den treåriga grundläggande officersutbildningen,
+            officersprogrammet, till högskoleutbildning bör ses. I och med
+            ett sådant steg kan förstärkta inslag av vetenskap och beprövad
+            erfarenhet, starkare samband mellan forskning och utbildning samt
+            utveckling av officersstudenters förmåga att agera självständigt
+            och tillägna sig ett kritiskt förhållningssätt uppnås.
+          </p>
+          <p>
+            En högskoleutbildning för försvarssektorn är att betrakta som
+            ett verktyg att möta de nya utmaningarna som har identifierats
+            inom försvars-, utrikes- och säkerhetspolitiken.
+          </p>
+          <p>
+            Regelsystemet för svenska högskolor har reformerats 2006 för
+            att bl.a. anpassa det till den s.k. Bolognaprocessen, ett samarbete
+            mellan 45 europeiska länder om högre utbildning (prop. 2004/05:162,
+            bet. 2005/06:UbU3, rskr. 2005/06:160, bet. 2005/06:UbU15, rskr.
+            2005/06:214). De nya reglerna har trätt i kraft den 1 januari
+            2007 men ska i huvudsak tillämpas för utbildning som bedrivs efter
+            utgången av juni 2007. Högskoleutbildning ska enligt den nya bestämmelsen
+            i 1 kap. 7 § högskolelagen ges på
+            <seg rend="grad2">
+              tre nivåer
+            </seg>
+            , grundnivå, avancerad nivå och forskarnivå, där varje nivå förutsätter
+            och bygger på utbildning från tidigare nivå. Utbildning på grundnivå
+            bygger väsentligen på kunskaper från utbildning från gymnasieskolan
+            eller motsvarande kunskaper. I högskolelagen anges vad som karakteriserar
+            utbildning på respektive nivå.
+          </p>
+          <p>
+            Vid högskolor som omfattas av högskolelagen får enligt 1 kap.
+            10 a § högskolelagen bara avläggas sådana examina som regeringen
+            föreskriver. Regeringen föreskriver också på vilken nivå en viss
+            examen ska avläggas. För varje examen finns i förordningsbestämmelser
+            bl.a. en examensbeskrivning som anger examens omfattning och de
+            krav och mål som ska uppfyllas för att examen ska få avläggas.
+            Högskoleverkets prövningar av om en utbildning vid en högskola
+            ska få leda fram till en viss examen görs mot de grundläggande
+            målen i högskolelagen och krav i förordningsbestämmelser, bl.a.
+            relevant examensbeskrivning. För varje kurs på grundnivå och avancerad
+            nivå ska en högskola ange mål. Högskolorna beslutar själva hur
+            utbildningen ska läggas upp och organiseras för att nå upp till
+            de mål och krav som ställs i regelverket.
+          </p>
+          <p xml:id="IDAUUEHC" rend="r4">
+            Hittillsvarande utveckling
+          </p>
+          <p>
+            En förändrad och mer diffus hotbild ställer allt högre krav på
+            officerare att göra självständiga analyser och värderingar med
+            hjälp av generellt användbara metoder för problemlösning. Den
+            ökade internationella ambitionen kräver inte bara aktuell kunskap
+            i strategiska och tekniska frågor utan också kulturell och språklig
+            kompetens för samverkan med utländska kolleger och civilbefolkningen
+            i ett insatsområde. Försvarsmaktens transformation under det senaste
+            decenniet har även visat på behovet av en mer generell och flexibel
+            utbildning. Under den senaste tioårsperioden har därför officersutbildningen
+            alltmer anpassats till högskolan, bl.a. genom reformer vad avser
+            kvaliteten på utbildningen och de organisatoriska förutsättningarna.
+          </p>
+          <p>
+            Försvarshögskolan har under de senaste åren strävat efter att
+            så långt som möjligt anpassa verksamhet och organisation efter
+            de bestämmelser som säger att Försvarshögskolan har formellt ansvar
+            för utveckling och kvalitetssäkring av utbildningen, men att det
+            är Försvarsmakten som ansvarar för genomförandet av den. Således
+            kan det konstateras att utvecklingen mot en officersutbildning
+            på högskolenivå har genomförts så långt det är möjligt med de
+            formella och organisatoriska förutsättningar som finns i dagsläget.
+            Således har exempelvis styrelsens ansvar och arbetsformer utvecklats,
+            institutionsstrukturen förändrats, kvalitetsarbetet utvecklats
+            och studentinflytandet ökat.
+          </p>
+          <p>
+            Liknande utveckling har även skett vid
+            <seg rend="grad2">
+              Försvarsmaktens militärhögskolor
+            </seg>
+            och fack- och funktionsskolor. I syfte att främja kvalitetsarbetet
+            har programansvaret för den treåriga grundläggande officersutbildningen
+            den 1 januari 2006 överförts från Försvarsmakten till Försvarshögskolan.
+            Detta innebär organisatoriska förutsättningar som finns i dagsläget.
+            Den nu föreslagna förändringen möjliggör att steget tas fullt
+            ut för att den grundläggande officersutbildningen kan ges som
+            högskoleutbildning, under förutsättning att relevanta examenstillstånd
+            tilldelas.
+          </p>
+          <p xml:id="IDAMXEHC" rend="r4">
+            Försvarsmaktens skolor
+          </p>
+          <p>
+            Den treåriga grundläggande officersutbildningen bedrivs i dag
+            i Försvarsmaktens regi vid militärhögskolorna i Halmstad och Karlberg,
+            vid de tre stridsskolorna (mark, sjö och luft) samt vid Försvarsmaktens
+            fack- och funktionsskolor. Det programansvar Försvarshögskolan
+            har sedan 2006 innebär att Försvarshögskolan har ansvar för planering
+            och utveckling av innehållet i utbildningen och målsättningarna
+            i stort samt även för att samordna arbetet mellan de ansvariga
+            vid de olika institutionerna respektive vid Försvarsmaktens skolor.
+            Det nya officersprogrammet som kommer att införas fr.o.m. hösten
+            2007 kommer att bestå av fyra terminer med generell utbildning
+            samt två terminer med fack- och funktionsinriktad utbildning med
+            tillämpad fördjupning i de ämnen som studeras under de generella
+            delarna.
+          </p>
+          <p xml:id="IDAPXEHC" rend="r4">
+            Försvarshögskolan
+          </p>
+          <p>
+            Försvarshögskolan inrättades som en egen myndighet 1997. Vid
+            Försvarshögskolan bedrivs för närvarande
+            <seg rend="grad2">
+              högre militär utbildning vid den ettåriga stabsutbildningen och
+              det tvååriga chefsprogrammet
+            </seg>
+            samt som kortare kurser.
+          </p>
+          <p>
+            Vid Försvarshögskolan ges dessutom utbildning i samverkan med
+            Uppsala universitet, Stockholms universitet, Linköpings universitet,
+            Kungl. Tekniska högskolan och Örebro universitet. Utbildningen
+            avser ämnena statsvetenskap med inriktning på krishantering och
+            internationell samverkan, historia med inriktning på militärhistoria,
+            militärteknik, ledarskap samt kris- och konfliktkommunikation.
+          </p>
+          <p>
+            Forskningen vid Försvarshögskolan bedrivs inom bl.a. områdena
+            krigsvetenskap, krishantering, säkerhetspolitik, folkrätt, terrorism,
+            strategi, ledarskap, ledningsvetenskap och militärteknik.
+          </p>
+          <p xml:id="IDA1WEHC" rend="rubrik3">
+            Försvarshögskolan som en högskola under högskolelagen
+          </p>
+          <p xml:id="IDAYXEHC" rend="r4">
+            Inrättande
+          </p>
+          <p>
+            Mot bakgrund av Försvarsmaktens förändrade kompetensbehov m.m.
+            är det regeringens mening att viss utbildning vid Försvarshögskolan
+            bör kunna genomföras som högskoleutbildning. Detta förutsätter
+            att Försvarshögskolan får tillstånd att utfärda sådana examina
+            som utbildningarna bedöms kunna leda fram till och som regeringen
+            föreskriver ska få avläggas. Regeringen bedömer att det bör vara
+            möjligt att Försvarshögskolan får tillstånd att utfärda vissa
+            examina på grundnivå och avancerad nivå. Ett sådant tillstånd
+            att utfärda generella examina kan komma att avse en viss inriktning.
+            Officersprogrammet bör kunna leda till en nyinrättad yrkesexamen:
+            <seg rend="grad2">
+              officersexamen
+            </seg>
+            .
+          </p>
+          <p>
+            I dag ges vid Försvarshögskolan den högre officersutbildningen
+            samt fristående kurser bl.a. i ämnena krigsvetenskap, ledarskap
+            och militärteknik. Regeringen bedömer det som en möjlighet att
+            Försvarshögskolan kan komma att ges tillstånd att utfärda vissa
+            generella examina på
+            <seg rend="grad2">
+              grundnivå och avancerad nivå inom eller vid sidan av den högre
+              officersutbildningen med bl.a. dessa ämnen som huvudsakliga områden.
+              Frågan om möjlighet för Försvarshögskolan att i framtiden få bedriva
+              utbildning på forskarnivå
+            </seg>
+            är liksom för andra högskolor utan vetenskapsområde beroende
+            av den fortsatta utvecklingen av högskolans utbildning och forskning.
+          </p>
+          <p>
+            Med officersutbildning som en högskoleutbildning skapas bättre
+            förutsättningar för morgondagens officerare att inhämta kunskaper
+            om och förmåga att använda metodologiska verktyg som de sedan
+            ska kunna omsätta till praktiskt handlande i sin yrkesutövning.
+            Dagens och framtidens insatsmiljöer kräver att de som leder den
+            militära verksamheten har en stor förmåga till självständig analys
+            och självständigt agerande. Att leda militära förband i dessa
+            insatsmiljöer innebär beslutsfattande längs hela konfliktskalan
+            från humanitär hjälp till väpnad strid. Kraven på en officers
+            kunskaper och förmåga att lösa uppgifter i stridande förband förutsätter
+            en individuell förmåga att självständigt och kritiskt göra bedömningar,
+            urskilja problem och föreslå lösningar. Detta förutsätter en mycket
+            god förmåga hos den enskilde officeren som behöver utvecklas utifrån
+            en god teoretisk bas. Denna bas måste utgöras av såväl en vetenskapligt
+            grundad kunskap som beprövad erfarenhet integrerad med praktisk
+            förmåga att agera i olika situationer.
+          </p>
+          <p>
+            Försvarshögskolan har under en längre tid bedrivit ett utvecklingsarbete
+            i syfte att till arbetssätt, kvalitet på utbildning och forskning,
+            studentinflytande m.m. bedriva en verksamhet som är att jämställa
+            med de krav som ställs på högskolor. Regeringen anser att detta
+            utvecklingsarbete nu kommit så långt att det är motiverat att
+            inrätta Försvarshögskolan som högskola under högskolelagen.
+          </p>
+          <p>
+            Att inrätta Försvarshögskolan som en högskola under Utbildningsdepartementet
+            underlättar styrningen och bedömningen av framtida dimensionering
+            och därmed resurstilldelning för den delen av högskoleutbildningen
+            som inte är officersutbildning.
+          </p>
+          <p>
+            Regeringen anser därför att Försvarshögskolan ska inrättas som
+            en högskola som lyder under högskolelagen och att den grundläggande
+            officersutbildningen fortsättningsvis i den mån examenstillstånd
+            tilldelas bör kunna bedrivas som högskoleutbildning.
+          </p>
+          <p>
+            Försvarshögskolan ansvarar också för den
+            <seg rend="grad2">
+              högre officersutbildningen
+            </seg>
+            som består av den ettåriga stabsutbildningen respektive det tvååriga
+            chefsprogrammet och vissa kortare kurser. Försvarsmakten ger på
+            årsbasis Försvarshögskolan i uppdrag att genomföra dessa utbildningar.
+            Den högre officersutbildningen är en personalutbildning, och det
+            är Försvarsmakten som bedömer vilka individer som ska delta i
+            utbildningen utifrån myndighetens vid varje tidpunkt identifierade
+            kompetensbehov.
+          </p>
+          <p>
+            Det är enligt regeringen för närvarande inte aktuellt att förändra
+            denna ordning. Såsom framhållits tidigare i detta avsnitt bör
+            det finnas möjlighet för Försvarshögskolan att få tillstånd att
+            utfärda vissa generella examina på grundnivå och avancerad nivå,
+            om utbildningen uppfyller kraven för en högskoleutbildning. Det
+            ger möjlighet för den som genomgår den högre officersutbildningen
+            att tillgodoräkna sig genomgången utbildning som högskoleutbildning.
+          </p>
+          <p>
+            Mot bakgrund av att den högre officersutbildningen ska bedrivas
+            på uppdrag av Försvarsmakten, kommer de bedömningar som redovisas
+            i det följande i fråga om tillträde, genomförande och avskiljande
+            inte att beröra den högre officersutbildningen. Sådan utbildning
+            bör ses som en form av uppdragsutbildning i överensstämmelse med
+            vad som följer av förordningen (2002:760) om uppdragsutbildning
+            vid universitet och högskolor.
+          </p>
+          <p xml:id="IDASJC5" rend="r4">
+            Författningsändringar
+          </p>
+          <p>
+            <seg rend="grad2">
+              Regeringen föreslår
+            </seg>
+            att det i högskolelagen föreskrivs att regeringen meddelar föreskrifter
+            dels om vilka examina som får avläggas vid Försvarshögskolan,
+            dels om sammansättningen av styrelse, fakultetsnämnd och särskilda
+            organ för utbildning på grundnivå och avancerad nivå vid Försvarshögskolan.
+            Det är vidare regeringen som har att ta ställning till om beslutade
+            tillstånd för Försvarshögskolan att utfärda examina ska dras in
+            för det fall högskolan inte längre uppfyller de krav som ställs
+            för att få utfärda sådana.
+          </p>
+          <p>
+            Regeringen får i sin bedömning av om examenstillstånd ska dras
+            in ta hänsyn till att det i ett rikstäckande perspektiv finns
+            ett allmänt intresse av att examina får utfärdas vid Försvarshögskolan.
+            Regeringens bedömning är att den särreglering som behövs i fråga
+            om bl.a. särskild lärarkompetens och organisatoriska lösningar
+            bör regleras i förordning.
+          </p>
+          <p>
+            Försvarshögskolan bedriver i dag utbildning och forskning som
+            är nära kopplade till försvars- och säkerhetspolitiska överväganden
+            och saknar motsvarighet i verksamheten hos något universitet eller
+            någon högskola. Även efter det att Försvarshögskolan inrättats
+            som högskola kommer den särskilda kompetens och inriktning som
+            är nödvändig för rikets säkerhet att behöva upprätthållas och
+            säkerställas. Det är därför lämpligt att det är regeringen som
+            tar ställning till vilka examina som får avläggas vid Försvarshögskolan.
+          </p>
+          <p>
+            Det är endast Försvarshögskolan som enligt förslaget kommer att
+            kunna utexaminera officerare. I likhet med vad som gäller för
+            Sveriges lantbruksuniversitet, som också är den enda högskola
+            som i dagsläget har tillstånd att utfärda vissa examina i Sverige,
+            exempelvis veterinärexamen, får det därför anses befogat att det
+            är regeringen som har att ta ställning till om tillstånd att utfärda
+            en examen bör dras in i en situation där brister i Försvarshögskolans
+            verksamhet konstaterats. Vid sådan bedömning måste även hänsyn
+            kunna tas till det faktum att landets behov av utexaminerade officerare
+            inte kan tillgodoses av något universitet eller någon högskola.
+          </p>
+          <p xml:id="IDAEKC5" rend="r4">
+            Regler för tillträde till grundläggande officersutbildning
+          </p>
+          <p>
+            Av 1 kap. 8 § högskolelagen (1992:1434) framgår att utbildning
+            på grundnivå väsentligen ska bygga på de kunskaper som eleverna
+            får på nationella eller specialutformade program i gymnasieskolan
+            eller motsvarande kunskaper. För tillträde till grundläggande
+            officersutbildning
+            <seg rend="grad2">
+              krävs i dag
+            </seg>
+            grundläggande behörighet för högskolestudier och genomgången
+            militär grundutbildning eller motsvarande militär utbildning.
+            Vidare krävs svenskt medborgarskap.
+          </p>
+          <p>
+            De kunskaper som kan sägas utgöra minimikrav för tillträde till
+            den grundläggande officersutbildningen är de folkrättsliga grundkrav
+            som anges för militär personal, dvs. kunskaper om folkrätt, sjukvård
+            och skyddstjänst. Förutom detta krävs också grundläggande kunskaper
+            i vapentjänst, personlig stridsduglighet, relevant materieltjänst
+            m.m. för att studenter ska kunna tillgodogöra sig den grundläggande
+            officersutbildningen. Möjligheterna att förvärva dessa kunskaper
+            på annat sätt än genom militär grundutbildning saknas i dagsläget,
+            eftersom det inte finns någon organiserad utbildning utöver den
+            militära grundutbildningen där dessa kan förvärvas.
+          </p>
+          <p>
+            För officersutbildningen är det, liksom för den militära grundutbildningen,
+            nödvändigt att ta del av uppgifter och förhållanden som rör försvaret.
+            För examen enligt officersförordningen (1994:882) förutsätts också
+            ingående kunskaper om vapen- och ledningssystem och deras verkansförmåga,
+            liksom taktiska och strategiska frågor i försvarsplaneringen.
+            Vidare krävs tillträde till olika anläggningar av betydelse för
+            totalförsvaret. Inte bara tillgången till de enskilda, hemligaste
+            delarna av försvarets verksamhet kan utgöra en fara för rikets
+            säkerhet, utan även tillgången till den helhetsbild som byggs
+            upp av summan av mindre delkunskaper kan definitionsmässigt utgöra
+            en fara i sammanhanget. Den som ska ta del av uppgifter eller
+            besöka anläggningar kan komma att prövas i särskild ordning, en
+            prövning som görs av Säkerhetspolisen i enlighet med bestämmelserna
+            i säkerhetsskyddslagen. Även krav som rör detta bör kunna ingå
+            i den grundläggande behörigheten för tillträde till grundläggande
+            officersutbildning.
+          </p>
+          <p>
+            Som en del i urvalsprocessen avseende vilka som ska antas till
+            grundläggande officersutbildning används i dag olika tester för
+            att bedöma personliga och fysiska förutsättningar. Detta är motiverat
+            med hänsyn till den speciella uppgift och roll som en officer
+            kan ställas inför. Det kan också konstateras att försvarets särskilda
+            krav har sitt ursprung i bestämmelser i regeringsformen och lagar
+            som rör totalförsvarsplikt och rikets säkerhet. Det finns skäl
+            för att urvalet även fortsättningsvis ska kunna göras på likartat
+            sätt.
+          </p>
+          <p>
+            Mot bakgrund av vad som ovan anförts finns skäl för att regeringen
+            bör ha möjlighet att utöver högskoleförordningen meddela bestämmelser
+            för tillträde till grundläggande officersutbildning.
+          </p>
+          <p xml:id="IDA0KC5" rend="r4">
+            Ansvar för officersprogrammet
+          </p>
+          <p>
+            Ansvaret för genomförandet av den treåriga grundläggande officersutbildningen,
+            officersprogrammet, bör fr.o.m. den 1 januari 2008 överföras från
+            Försvarsmakten till Försvarshögskolan. Även om den grundläggande
+            officersutbildningen kan bli en högskoleutbildning bör de delar
+            av utbildningen som är fack- och funktionsinriktade även fortsättningsvis
+            kunna genomföras i Försvarsmaktens regi, på liknande sätt som
+            görs inom ramen för t.ex. läkarutbildningen, där delar av utbildningen
+            är verksamhetsförlagda. Överföringen av ansvaret för genomförandet
+            av den grundläggande officersutbildningen till Försvarshögskolan
+            innebär även att kopplingen mellan forskning och utbildning blir
+            starkare och därmed att kvaliteten ökar. Enligt regeringen bör
+            därför den treåriga grundläggande officersutbildningen, officersprogrammet,
+            överföras från Försvarsmakten till Försvarshögskolan.
+          </p>
+          <p xml:id="IDABLC5" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <div rend="ruta_">
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                <seg rend="grad1">
+                  Utskottets förslag i korthet
+                </seg>
+                : Riksdagen bifaller proposition 2006/07:64 och antar regeringens
+                förslag till lag om ändring i högskolelagen (1992:1434). Försvarshögskolan
+                (FHS) blir därmed en högskola som lyder under högskolelagen.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Utskottet välkomnar regeringens förslag om en reformerad officersutbildning.
+              Kravet på förändrade och ökade kunskaper inom officerskåren har
+              successivt ökat. Därför är det angeläget med en anpassning av
+              officersutbildningen till de krav på kvalitet som gäller inom
+              högskoleväsendet i allmänhet.
+            </p>
+            <p>
+              Regeringen anser därför att den treåriga grundläggande officersutbildningen
+              nu bör bli en högskoleutbildning i högskolelagens mening.
+            </p>
+            <p>
+              Ansvaret för att genomföra det treåriga grundläggande
+              <seg rend="grad2">
+                officersprogrammet bör därför fr.o.m. den 1 januari 2008 överföras
+                från Försvarsmakten till
+              </seg>
+              Försvarshögskolan (FHS).
+            </p>
+            <p>
+              I och med att ett sådant steg nu tas, kan förstärkta inslag av
+              vetenskap och beprövad erfarenhet, ett starkare samband mellan
+              forskning och utbildning samt en utveckling av officersstudenters
+              förmåga att agera självständigt och tillägna sig ett kritiskt
+              förhållningssätt uppnås. Officersutbildningen i Sverige blir därmed
+              mer lik andra länders officersutbildningar, som ofta är att jämställa
+              med en universitets- eller högskoleutbildning. Svenska officerare
+              bör enligt utskottets mening ha lika god grundutbildning som andra
+              länders.
+            </p>
+            <p>
+              Genom den nu föreslagna förbättringen av officersutbildningen
+              säkerställs att de yrkesofficerare som utbildas för att tjänstgöra
+              i Sveriges försvar och ytterst för väpnad strid ges en utbildning
+              som det förändrade säkerhetspolitiska läget, den tekniska utvecklingen
+              och det utökade internationella samarbetet m.m. kräver.
+            </p>
+            <p>
+              Utskottet delar regeringens uppfattning att officersyrket inte
+              längre självklart är att betrakta som ett livstidsyrke och att
+              det numera också generellt sett råder en större rörlighet på arbetsmarknaden.
+              En högskoleutbildning blir därmed även en styrka för de officerare
+              som efter tjänstgöring i Försvarsmakten vill söka sig till andra
+              yrken.
+            </p>
+            <p>
+              För att Försvarsmaktens förändrade kompetensbehov ska kunna tillgodoses
+              är det regeringens mening att viss utbildning vid Försvarshögskolan
+              bör kunna genomföras som högskoleutbildning. Detta förutsätter
+              att Försvarshögskolan får tillstånd att utfärda sådana examina
+              som utbildningarna bedöms kunna leda fram till och som regeringen
+              bör bestämma ska få avläggas.
+            </p>
+            <p>
+              Regeringen bedömer att det bör vara möjligt att Försvarshögskolan
+              får tillstånd att utfärda vissa examina på
+              <seg rend="grad2">
+                grundnivå och avancerad nivå. Ett sådant tillstånd att utfärda
+                generella examina kan komma att avse en viss inriktning. Officersprogrammet
+                bör enligt regeringens bedömning kunna leda till en nyinrättad
+                yrkesexamen
+              </seg>
+              officersexamen.
+            </p>
+            <p>
+              När det gäller förslaget till författningsändringar föreslår
+              regeringen att det i högskolelagen föreskrivs att det ska vara
+              regeringen inte Högskoleverket som meddelar föreskrifter
+            </p>
+            <p rend="punktlistaLista">
+              dels om vilka examina som får avläggas vid Försvarshögskolan,
+            </p>
+            <p rend="punktlistaLista">
+              dels om sammansättningen av styrelse, fakultetsnämnd och särskilda
+              organ för utbildning på grundnivå och avancerad nivå vid Försvarshögskolan.
+            </p>
+            <p>
+              Utskottet förutsätter att regeringen ger tillstånd för viss examen
+              i samband med att den nu föreslagna reformen träder i kraft. Det
+              ligger enligt utskottets mening i sakens natur att regeringen
+              knappast skulle föreslå riksdagen att FHS skulle bli en högskola
+              enligt högskolelagen, om den inte heller var beredd att ge FHS
+              något examenstillstånd över huvud taget i samband med reformens
+              ikraftträdande.
+            </p>
+            <p>
+              Det är regeringen som bör ta ställning till om beslutade tillstånd
+              för Försvarshögskolan att utfärda examina ska dras in om Försvarshögskolan
+              inte längre uppfyller de krav som ställs för att få utfärda sådana.
+            </p>
+            <p>
+              Lagförslaget innebär vidare att regeringen i sin bedömning av
+              om examenstillstånd ska dras in, i så fall får ta hänsyn till
+              att det i ett rikstäckande perspektiv finns ett allmänt intresse
+              av att examina får utfärdas vid Försvarshögskolan. Utskottet anser
+              det i hög grad rimligt att sådan hänsyn kan få tas, eftersom Försvarshögskolan
+              är det enda lärosäte som kommer att grundutbilda landets yrkesofficerare.
+            </p>
+            <p>
+              Försvarshögskolan ansvarar för och genomför i dag också
+              <seg rend="grad2">
+                den högre officersutbildningen som består av den ettåriga stabsutbildningen
+                respektive det tvååriga chefsprogrammet
+              </seg>
+              och vissa kortare kurser. Försvarsmakten ger på årsbasis Försvarshögskolan
+              i uppdrag att genomföra den utbildningen. Den högre officersutbildningen
+              är en personalutbildning vidareutbildning och det är Försvarsmakten
+              som bedömer vilka individer som ska komma i fråga för den utbildningen.
+            </p>
+            <p>
+              Det är inte aktuellt att förändra denna ordning. Det finnas möjlighet
+              för Försvarshögskolan att få tillstånd att utfärda vissa generella
+              examina på grundnivå och avancerad nivå, om utbildningen uppfyller
+              kraven för en högskoleutbildning. Det ger möjlighet även för den
+              officer som genomgår den högre officersutbildningen att tillgodoräkna
+              sig genomgången utbildning som högskoleutbildning. Sådan utbildning
+              bör ses som en form av uppdragsutbildning i överensstämmelse med
+              vad som följer av förordningen (2002:760) om uppdragsutbildning
+              vid universitet och högskolor.
+            </p>
+            <p>
+              Regeringens förslag medför att Försvarshögskolan förs över till
+              Utbildningsdepartementets ansvarsområde och att vissa anslagsmedel
+              som högskolan disponerar fortsättningsvis kommer att budgeteras
+              inom utgiftsområde 16 Utbildning och universitetsforskning. Utskottet
+              räknar med att denna ordning kommer att främja samverkan mellan
+              Försvarshögskolan och övriga lärosäten så att de kan utnyttja
+              varandras resurser och på så sätt främja en god resurshushållning
+              och en bättre kvalitet i sin utbildning och forskning. Några dubbla
+              kompetenser behöver inte finnas.
+            </p>
+            <p>
+              För tillträde till grundläggande officersutbildning krävs i dag
+              <seg rend="grad2">
+                grundläggande behörighet för högskolestudier och genomgången
+                militär grundutbildning eller motsvarande militär utbildning.
+                Vidare krävs svenskt medborgarskap
+              </seg>
+              .
+            </p>
+            <p>
+              Militär grundutbildning bygger på plikt för svenska män och frivillighet
+              för svenska kvinnor och regleras genom lagen (1994:1809) om totalförsvarsplikt
+              och lagen (1994:1810) om möjlighet för kvinnor att fullgöra värnplikt
+              eller civilplikt med längre grundutbildning och gäller varje svensk
+              medborgare. Utländska medborgare har alltså inte möjlighet att
+              genomgå militär grundutbildning.
+            </p>
+            <p>
+              Med hänsyn till officersyrkets speciella karaktär och innehåll
+              och den insyn som officerare får i försvarsplanering m.m. är det
+              rimligt att de som söker till utbildningen kan
+              <seg rend="grad2">
+                säkerhetsprövas
+              </seg>
+              enligt bestämmelserna i säkerhetsskyddslagen.
+            </p>
+            <p>
+              Som en del i urvalsprocessen avseende vilka som ska antas till
+              grundläggande officersutbildning används i dag olika
+              <seg rend="grad2">
+                tester
+              </seg>
+              för att bedöma personliga och fysiska förutsättningar. Detta
+              är motiverat med hänsyn till den speciella uppgift och roll som
+              en officer kan ställas inför.
+            </p>
+            <p>
+              Utskottet anser därför att det finns skäl att regeringen bör
+              ha möjlighet att meddela vissa speciella bestämmelser för tillträde
+              till grundläggande officersutbildning, som inte gäller för tillträde
+              till högskolan i övrigt.
+            </p>
+            <p>
+              Mot bakgrund av vad som ovan anförts förordar utskottet att riksdagen
+              bifaller proposition 2006/07:64 Högskoleutbildning av officerare
+              m.m.
+            </p>
+            <p xml:id="IDAQPC5" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDATPC5" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAWPC5" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2006/07:64 Högskoleutbildning av officerare m.m.:
+            </p>
+            <p>
+              Riksdagen
+            </p>
+            <p>
+              dels godkänner regeringens förslag att
+            </p>
+            <p>
+              1. inrätta Försvarshögskolan som en högskola som lyder under
+              högskolelagen (1992:1434) från och med den 1 januari 2008 (avsnitt
+              5.1),
+            </p>
+            <p>
+              dels antar regeringens förslag till
+            </p>
+            <p>
+              2. lag om ändring i högskolelagen (1992:1434).
+            </p>
+            <p xml:id="IDA0ID5" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDA3ID5" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{9D8965A7-AEA5-4B80-85C6-86487A6CB9A1}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{5AFE816D-EDD9-44E9-8171-0BF57F9887D7}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

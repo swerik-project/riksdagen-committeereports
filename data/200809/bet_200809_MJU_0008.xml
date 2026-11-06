@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_MJU_0008">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Miljö- och jordbruksutskottet har granskat EU-kommissionens grönbok om jordbruksprodukters kvalitet: produktnormer, produktionskrav och kvalitetsordningar. Kommissionen presenterar ett antal frågeställningar som man bjuder in organisationer, företag och medborgare att lämna synpunkter på. Utskottet ställer sig positivt till att kommissionen uppmanar till debatt och tycker att det är viktigt att inte komplicera regelsystem i onödan och hålla fokus på vad konsumenterna efterfrågar. Riksdagen avslutade ärendet med detta.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">EU-förslag om jordbruksprodukters kvalitet (MJU8)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Utlåtandet läggs till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0953</idno>
+              <title>2008-12-19</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">53</biblScope>
+              <note type="display-reference">2008-12-19</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0952</idno>
+              <title>2008-12-18</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">52</biblScope>
+              <note type="display-reference">2008-12-18</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2008-12-16">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2008-12-16">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-12-12">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-12-10">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-12-10">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-12-10">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-12-10">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-12-09">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-12-09">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-11-27">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-11-20">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-11-11">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-11-11">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-12-19">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-12-19">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-12-19">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-12-18">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-12-18">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-12-17">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-12-17">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-12-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-12-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Miljö- och jordbruksutskottets utlåtande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:MJU8
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Grönbok om jordbruksprodukters kvalitet
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACJ3GC" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            Utskottet behandlar i detta utlåtande Europeiska kommissionens
+            grönbok om jordbruksprodukters kvalitet: produktnormer, produktionskrav
+            och kvalitetsordningar, KOM(2008) 641. I grönboken inbjuds organisationer,
+            företag och medborgare att lämna synpunkter på vilka åtgärder
+            som behövs från EU:s sida för att främja och skydda jordbruksprodukters
+            kvalitet. Samrådet ses som ett första steg i utformandet av den
+            politik som bör följas på området.
+          </p>
+          <p>
+            Enligt kommissionen är kvaliteten på både EU:s jordbruksråvaror
+            och förädlade produkter en av EU-jordbrukarnas främsta tillgångar
+            i en ökad global konkurrens. Mot bakgrund av detta presenteras
+            i grönboken ett antal frågeställningar med avseende på produktionskrav,
+            handelsnormer, kvalitetsordningar och certifieringsordningar.
+            Kommissionen vill på grundval av detta starta ett samråd om det
+            bästa sättet att garantera en lämplig politik och ett tillhörande
+            regelverk för att skydda och främja jordbruksprodukternas kvalitet,
+            utan att det skapar extra kostnader och merarbete.
+          </p>
+          <p>
+            Utskottet ställer sig positivt till att kommissionen uppmanar
+            till debatt om hur jordbruksprodukternas kvalitet kan främjas
+            och skyddas och vill i detta sammanhang betona vikten av att inte
+            komplicera regelsystem i onödan och hålla fokus på vad konsumenterna
+            efterfrågar.
+          </p>
+          <p xml:id="IDAPJ3GC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Grönbok om jordbruksprodukters kvalitet
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger utlåtandet till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation (s, v, mp) motiveringen
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 9 december 2008
+          </p>
+          <p>
+            På miljö- och jordbruksutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Anders Ygeman
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Anders Ygeman (s),
+            Claes Västerteg (c), Ola Sundell (m), Jeppe Johnsson (m), Carina
+            Ohlsson (s), Bengt-Anders Johansson (m), Bo Bernhardsson (s),
+            Anita Brodén (fp), Ann-Kristine Johansson (s), Sofia Arkelsten
+            (m), Rune Wikström (m), Wiwi-Anne Johansson (v), Erik A Eriksson
+            (c), Tina Ehn (mp), Helén Pettersson i Umeå (s), Irene Oskarsson
+            (kd) och Dan Nilsson (s).
+          </p>
+          <p xml:id="IDAXM3GC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDA0M3GC" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Kammaren har den 22 oktober 2008 hänvisat Europeiska kommissionens
+            grönbok om jordbruksprodukters kvalitet: produktnormer, produktionskrav
+            och kvalitetsordningar, KOM(2008) 641, till miljö- och jordbruksutskottet.
+          </p>
+          <p>
+            I grönboken presenteras ett antal frågeställningar mot bakgrund
+            av det existerande rättsläget avseende produktionskrav, handelsnormer,
+            kvalitetsordningar och certifieringsordningar. Kommissionen vill
+            på grundval av detta starta ett samråd om det bästa sättet att
+            garantera en lämplig politik och ett tillhörande regelverk för
+            att skydda och främja jordbruksprodukternas kvalitet, utan att
+            det skapar extra kostnader och merarbete. Kommissionen har uppmanat
+            berörda parter att senast den 31 december 2008 inkomma med synpunkter
+            på de nämnda frågorna. De inkomna bidragen kommer att offentliggöras
+            på Internet. Kommissionen kommer att basera sig på inläggen från
+            samrådet vid utarbetande av de olika policyalternativ som ska
+            ingå i det meddelande som enligt den nuvarande planeringen kommer
+            att offentliggöras i maj 2009.
+          </p>
+          <p>
+            Utskottet har mottagit Regeringskansliets faktapromemoria 2008/09:FPM38
+            Grönbok om jordbruksprodukters kvalitet. Utskottet har även tagit
+            del av de underlag som Livsmedelsverket och Jordbruksverket har
+            inkommit med till Jordbruksdepartementet med anledning av den
+            aktuella grönboken (dnr 56-15/08).
+          </p>
+          <p xml:id="IDAGN3GC" rend="rubrik2">
+            Grönbokens huvudsakliga innehåll
+          </p>
+          <p xml:id="IDAJN3GC" rend="r3">
+            Bakgrund
+          </p>
+          <p>
+            Kommissionen framhåller inledningsvis att den ökande globaliseringen
+            medför att trycket från produkter från nya produktionsländer med
+            låga produktionskostnader blir allt större för EU:s jordbrukare
+            och att just kvaliteten på både jordbruksråvaror och förädlade
+            produkter då blir en av EU-jordbrukarnas främsta tillgångar. Kommissionen
+            anser att EU har en kvalitetsfördel med tanke på den mycket höga
+            nivå av säkerhet som garanteras genom hela livsmedelskedjan via
+            EU-lagstiftningen och som jordbrukarna och mer allmänt även producenterna
+            har investerat kraftigt i. Det finns dock fler aspekter som kan
+            stärka kvaliteten rent generellt. Mot denna bakgrund vill kommissionen
+            starta ett samråd om det bästa sättet att garantera en lämplig
+            politik och ett tillhörande regelverk för att skydda och främja
+            jordbruksprodukternas kvalitet, utan att det skapar extra kostnader
+            och merarbete.
+          </p>
+          <p>
+            Enligt kommissionen handlar kvalitet om att leva upp till konsumenternas
+            förväntningar. Konsumenterna vill att livsmedlen ska vara överkomliga
+            och prisvärda. Men vid sidan av priset har konsumenter och handelsföretag
+            många andra krav när det gäller värdet och kvaliteten på de varor
+            de köper. Kommissionen framhåller att konsumenterna -- vid sidan
+            av grundläggande krav i EU angående hygien och livsmedelssäkerhet
+            (ett måste som inte är förhandlingsbart), hälsa och näringsriktiga
+            livsmedel samt hänsyn till samhällets behov -- blir allt uppmärksammare
+            på jordbrukets bidrag till en hållbar utveckling, klimatförändringarna,
+            livsmedelstryggheten och livsmedelsutvecklingen, den biologiska
+            mångfalden, djurskyddet och vattenbristen. Jordbruket spelar även
+            en central roll för den fysiska utvecklingen i enskilda regioner
+            och i områden som är värdefulla ur miljösynpunkt samt för landskapets
+            utformning. Sist men inte minst nämner kommissionen att dagens
+            konsumenter, i takt med att köpkraften i många delar av världen
+            växer, kräver smak, tradition och äkthet när det gäller maten
+            samt strängare djurskyddsnormer. Kommissionen anser att EU:s jordbrukare
+            kan vända dessa krav till sin fördel genom att leverera vad konsumenterna
+            vill ha och att producera produkter som tydligt utmärker sig på
+            marknaden och på så sätt vinna fördelar i gengäld.
+          </p>
+          <p>
+            Många av de regelverk som finns på området har funnits relativt
+            länge, men har omarbetats ett flertal gånger, en del helt nyligen
+            såsom förordningen om ekologiskt jordbruk. Ett nytt förslag om
+            märkning av livsmedel, som även omfattar områden som behandlas
+            i grönboken, presenterades av kommissionen i början av detta år
+            och är för närvarande under diskussion i Europaparlamentet och
+            ministerrådet.
+          </p>
+          <p xml:id="IDAVN3GC" rend="r3">
+            Områden och förslag för diskussion
+          </p>
+          <p>
+            I ett antal frågor uppmärksammar kommissionen olika aspekter
+            på en lämplig politik för att skydda och främja jordbruksprodukters
+            kvalitet. De aspekter som tas upp i grönboken är de egenskaper
+            hos produkten som kommissionen tror jordbrukarna vill göra bättre
+            kända och som konsumenten vill känna till, som t.ex. vilka jordbruksmetoder
+            som används och på vilken plats jordbruket sker. Grönboken behandlar
+            däremot inte kvalitetsfrågor som rör livsmedelssäkerhet i sak,
+            eftersom dessa redan täcks av andra åtgärder från kommissionens
+            sida som näringsvärdesdeklaration, djurskydd etc., men frågan
+            om det skulle vara av nytta att tydliggöra efterlevnaden av regler
+            angående hygien och säkerhet exempelvis lyfts fram av kommissionen.
+          </p>
+          <p>
+            I grönbokens första del behandlas frågan om det finns anledning
+            att tydliggöra att EU:s jordbruksprodukter uppfyller de många
+            produktionskrav som EU:s jordbrukare är bundna av, även sådana
+            som speglar viktiga samhällsfrågor, såsom hänsyn till etik, miljö
+            och sociala förhållanden. Vidare behandlas i första delen också
+            syfte, kostnad och effekt av EU-stödda handelsnormer, dels de
+            som betecknas som obligatoriska (produktidentitet, produktionskrav
+            och kvalitets- och storleksklassificering), dels de fakultativa
+            (reserverade termer som upplyser köparen om att produkten svarar
+            mot en definierad metod eller egenskap).
+          </p>
+          <p>
+            I grönbokens andra del behandlas de fyra särskilda kvalitetsordningarna
+            som införts inom EU: geografiska beteckningar, ekologiskt jordbruk,
+            traditionella specialiteter och produkter från EU:s yttersta randområden.
+          </p>
+          <p>
+            Grönbokens tredje del behandlar privata och nationella certifieringsordningar
+            som under senare år ökat väsentligt och som omfattar allt från
+            garanterad överensstämmelse med produktionsnormer till ytterligare
+            krav angående miljöskydd, djurskydd, organoleptiska egenskaper,
+            arbetarskydd, rättvis handel, klimatförändringsfrågor, etiska,
+            religiösa eller kulturella frågor, jordbruksmetoder och ursprung.
+          </p>
+          <p xml:id="IDAFO3GC" rend="AvsnittsRubrik">
+            Utskottets granskning
+          </p>
+          <p xml:id="IDAIO3GC" rend="r2">
+            Faktapromemoria
+          </p>
+          <p>
+            I faktapromemorian redovisar regeringen sin preliminära ståndpunkt.
+            Regeringen välkomnar kommissionens initiativ och framhåller att
+            arbetet med kvalitetsproduktion måste bygga på vad konsumenterna
+            vill ha och inte på vad producenterna helst vill sälja. Övergripande
+            principer för gemenskapens kvalitetsarbete bör enligt regeringen
+            vara: förenlighet med subsidiaritetsprincipen, det offentliga
+            åtagandet bör inte sträcka sig för långt in på den privata domänen
+            eller stå i vägen för privata initiativ, samstämmighet med övriga
+            politikområden, budgetrestriktivitet, förenlighet med WTO:s regelverk
+            och avsaknad av protektionistiska/handelsstörande inslag.
+          </p>
+          <p xml:id="IDAOO3GC" rend="r2">
+            Subsidiaritets- och proportionalitetsprinciperna
+          </p>
+          <p>
+            Eftersom det i grönboken inte presenteras några konkreta förslag
+            till ny lagstiftning är det inte aktuellt med en bedömning utifrån
+            subsidiaritets- och proportionalitetsprinciperna.
+          </p>
+          <p xml:id="IDAUO3GC" rend="r2">
+            Utskottets ställningstagande
+          </p>
+          <p>
+            Utskottet välkomnar att samråd inleds angående kvalitetsproduktion
+            av jordbruksprodukter och hur man kan stimulera denna. Globaliseringen
+            ska inte ses som ett hot mot EU:s jordbruk utan som en möjlighet
+            för EU att sälja just kvalitetsprodukter på en större marknad.
+            Inledningsvis vill utskottet betona att grundinställningen till
+            kvalitetsproduktion måste bygga på kunskap om vad konsumenterna
+            vill ha, eftersom detta också ger de bästa förutsättningarna för
+            framgång. Det finns flera olika aspekter att ta hänsyn till vid
+            en diskussion om behovet, värdet och effekterna av märkning av
+            jordbruksprodukter, såsom behov av att signalera ett mervärde,
+            underlag för konsumenterna att göra medvetna val, enkelhet, internationell
+            handel och inflytande.
+          </p>
+          <p>
+            När det gäller EU:s produktionskrav anser utskottet att det borde
+            vara självklart att lagstadgade krav uppfylls inom EU och att
+            en symbol eller logotyp som skulle finnas på nära nog samtliga
+            produkter som produceras inom EU därmed skulle ha ett begränsat
+            värde för konsumenten. Däremot skulle den administrativa bördan
+            öka och därmed kostnaderna för produkten. Ett införande av en
+            märkning med ett sådant syfte torde inte heller vara helt problemfritt
+            vad gäller internationella handelsaspekter och skulle kunna skapa
+            problem även för de produkter som produceras i enlighet med EU:s
+            produktionskrav, men utanför EU.
+          </p>
+          <p>
+            Vidare anser utskottet att ursprungsmärkning bör uppmuntras och
+            understryker att när det gäller ursprungsmärkning av frukt och
+            grönsaker så har den starkt stöd hos såväl producenter som handel,
+            och det är också en information som efterfrågas av konsumenterna.
+            Utskottet skulle därför gärna se att icke-obligatorisk ursprungsmärkning
+            användes i större utsträckning än vad som är fallet i dag och
+            att EU bistod i denna utveckling.
+          </p>
+          <p>
+            Vad gäller handelsnormer understryker utskottet att dessa bör
+            förenklas så långt som möjligt. Utskottet förordar vidare att
+            internationella normer används när sådana finns och ger ett nöjaktigt
+            resultat, då detta sparar resurser och underlättar internationell
+            handel, vid sidan av detta kan även självreglering och samreglering
+            finnas beroende på sektor och behov. Beträffande definiering av
+            reserverade termer är utskottet av den uppfattningen att en definiering
+            bör ske restriktivt på EU-nivå, men att det bör bedömas från fall
+            till fall. Utskottet vill också framhålla att det skulle bli mycket
+            kostsamt att hantera definitioner av allmänna reserverade termer
+            som beskriver jordbruksmetoder (fjällprodukt, energisnål etc.),
+            inte minst med tanke på kontrollen av hur sådana termer faktiskt
+            skulle användas.
+          </p>
+          <p>
+            Frågorna avseende geografiska beteckningar är i många avseenden
+            alltför detaljerade för att utskottet ska ha en uppfattning, men
+            rent generellt vill utskottet poängtera att konsumentsynpunkter
+            bör vara vägledande vid beslut på området samt att hänsyn inte
+            bara ska tas till den lokala produktionen utan även till påverkan
+            på produktionsled som ligger utanför området i fråga vid registrering
+            av en produkt, så att de begränsningar skyddet medför inte uppfattas
+            som onödiga eller till och med oskäliga. Utskottet anser också
+            att systemet för geografiska beteckningar bättre borde främja
+            innovation och utveckling av kvalitetsprodukter. Utskottet vill
+            också framhålla att förenklingar av regleringar alltid är välkomna
+            och anser därför att de tre separata ordningarna avseende geografiska
+            beteckningar bör förenklas och harmoniseras i så stor utsträckning
+            som möjligt.
+          </p>
+          <p>
+            Vad gäller frågan om hur den inre marknaden för ekologiska produkter
+            ska kunna fås att fungera bättre anser utskottet att gemensamma
+            regler och en gemensam logotyp för dessa varor är av stor vikt.
+            Samtidigt vill utskottet understryka behovet av enkla regler som
+            inte kräver en alltför betungande administration.
+          </p>
+          <p>
+            Beträffande framväxten av framför allt privata certifieringsordningar
+            anser utskottet att denna fråga bör följas upp, men konstaterar
+            att intresset för en reglering av området på EU-nivå har begränsat
+            stöd i dagsläget. Köpare har rätt att ställa de krav de vill och
+            säljarna ser ofta kravspecifikationer som ett konkurrensmedel.
+            De faktiska svårigheterna och de administrativa kostnaderna för
+            producenter som uppstår vid anslutning till en certifieringsordning
+            eller fler ska dock inte underskattas, i synnerhet för små och
+            medelstora företag, och det är därför av betydelse att denna fråga
+            följs upp och diskuteras, även ur ett utvecklingslands- och frihandelsperspektiv.
+          </p>
+          <p>
+            Utskottet ser fram emot att ta del av det meddelande som kommissionen
+            har för avsikt att offentliggöra i maj 2009 avseende kvalitetspolitiken
+            på jordbruksområdet och återkommer med ställningstaganden varefter
+            arbetet fortskrider och konkreta förslag lämnas.
+          </p>
+          <p xml:id="IDAQP3GC" rend="AvsnittsRubrik">
+            Reservation
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservation.
+          </p>
+          <table>
+            <row>
+              <cell xml:id="IDAXP3GC">
+                <p rend="reservation">
+                  Grönbok om jordbruksprodukters kvalitet motiveringen (s, v, mp)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="reservanter">
+                  av Carina Ohlsson (s), Bo Bernhardsson (s), Ann-Kristine Johansson
+                  (s), Wiwi-Anne Johansson (v), Tina Ehn (mp), Helén Pettersson
+                  i Umeå (s) och Dan Nilsson (s).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p xml:id="IDA1Q3GC" rend="r4">
+            Ställningstagande
+          </p>
+          <p>
+            Konsumenter, såväl i Sverige som inom hela EU, som letar efter
+            kvalitetsprodukter vill ofta veta i vilket land en produkt är
+            producerad. Ursprungslandet kan vara av vikt för konsumenten inte
+            bara vad gäller hygien och säkerhet, utan också för att underlätta
+            val som gynnar miljön och uppmuntrar till bättre djurskydd. I
+            grönboken tas frågan upp om obligatorisk ursprungsmärkning av
+            primärprodukter, vilket skulle kräva en tydlig definition av sistnämnda
+            begrepp.
+          </p>
+          <p>
+            I dag finns det mängder av livsmedelsvaror att välja mellan för
+            konsumenten. Men en förutsättning för att konsumenten ska kunna
+            göra aktiva val av livsmedel är att det finns tydlig information
+            om produkterna. Det finns i dag inte tillräckligt tydliga regler
+            på det här området, vilket i praktiken innebär att konsumenten
+            ofta saknar den information som behövs för att kunna göra ett
+            aktivt val.
+          </p>
+          <p>
+            Om man vill köpa produkter från ett visst land, bör det enkelt
+            framgå i vilket land produkten är producerad och förädlad. Det
+            bör tydligt framgå om produkten har sitt ursprung i ett visst
+            land och är förädlad i ett annat. Vi förordar därför att obligatorisk
+            ursprungsmärkning införs inom EU.
+          </p>
+          <p xml:id="IDAHR3GC" rend="Bilaga">
+            Bilaga
+          </p>
+          <p xml:id="IDAKR3GC" rend="BilageRubrik">
+            Förteckning över behandlade förslag
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p>
+                  Europeiska kommissionens grönbok om jordbruksprodukters kvalitet:
+                  produktnormer, produktionskrav och kvalitetsordningar
+                </p>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

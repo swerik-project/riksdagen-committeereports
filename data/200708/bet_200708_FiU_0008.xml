@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200708_FiU_0008">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen har behandlat Riksrevisionen årliga rapport till riksdagen. Rapporten innehåller de viktigaste iakttagelserna från revisionens verksamhet det senaste året. Iakttagelserna gäller följande områden. (1) Förmågan att säkerställa det statliga åtagandet med hjälp av en fungerande statlig tillsyn, (2) Regeringens redovisning till riksdagen i de budgetpolitiska dokumenten, (3) Genomförandet av arbetsmarknadspolitiken samt (4) Hur myndigheterna säkerställer att verksamheten bedrivs enligt gällande lagar och förordningar. Riksdagen understryker att det är viktigt att regeringen noga överväger Riksrevisionens iakttagelser och rekommendationer på området statlig tillsyn. Riksdagen avslutade ärendet utan att göra några tillägg.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Riksrevisionens årliga rapport (FiU8 )</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Redogörelsen läggs till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GV0942</idno>
+              <title>2007-12-12</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">42</biblScope>
+              <note type="display-reference">2007-12-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GV0942</idno>
+              <title>2007-12-12</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">42</biblScope>
+              <note type="display-reference">2007-12-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GV0K68</idno>
+              <title>2007/08:68</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">68</biblScope>
+              <note type="display-reference">2007/08:68</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="redogorelse">
+              <idno type="riksdagen">GV04RRS1</idno>
+              <title>Riksrevisionens styrelses redogörelse angående Riksrevisionens årliga rapport 2007</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">RRS1</biblScope>
+              <note type="display-reference">redogorelse 2007/08:RRS1 Riksrevisionens styrelses redogörelse angående Riksrevisionens årliga rapport 2007</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2007-12-10">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2007-12-10">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2007-12-05">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2007-12-05">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2007-12-04">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-11-27">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-11-27">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-11-20">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-11-20">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2007-12-12">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2007-12-12">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2007-12-12">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-12-12">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-12-12">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-12-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-12-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2007-12-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2007-12-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2007/08:FiU8
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Riksrevisionens årliga rapport
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACRA0B" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            Riksrevisionens styrelse har överlämnat Riksrevisionens årliga
+            rapport 2007 i form av en redogörelse till riksdagen (2007/08:RRS1).
+            Finansutskottet föreslår att riksdagen lägger redogörelsen till
+            handlingarna. Den årliga rapporten innehåller de viktigaste iakttagelserna
+            från det gångna årets revisionsverksamhet. Iakttagelserna inriktas
+            den här gången mot fyra områden i den statliga förvaltningen:
+            (1) Förmågan att säkerställa det statliga åtagandet med hjälp
+            av en fungerande statlig tillsyn, (2) Regeringens redovisning
+            till riksdagen i de budgetpolitiska dokumenten, (3) Genomförandet
+            av arbetsmarknadspolitiken samt (4) Hur myndigheterna säkerställer
+            att verksamheten bedrivs enligt gällande lagar och förordningar.
+          </p>
+          <p>
+            Utskottet betonar vikten av att regeringen noga överväger Riksrevisionens
+            iakttagelser och rekommendationer på området statlig tillsyn.
+          </p>
+          <p xml:id="IDAMRA0B" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Redogörelse för Riksrevisionens årliga rapport 2007
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger redogörelse 2007/08:RRS1 till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 27 november 2007
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Pär Nuder (s), Ulf Sjösten (m), Sonia Karlsson (s), Lars Elinderson
+            (m), Roger Tiefensee (c), Monica Green (s), Johan Pehrson (fp),
+            Hans Hoff (s), Peder Wachtmeister (m), Agneta Gille (s), Göran
+            Pettersson (m), Ulla Andersson (v), Tommy Ternemar (s), Emma Henriksson
+            (kd), Mikaela Valtersson (mp) och Ann-Charlotte Hammar Johnsson
+            (m).
+          </p>
+          <p xml:id="IDAOUA0B" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            Riksrevisionens årliga rapport beslutades av riksrevisorerna
+            den 15 juni 2007. I rapporten behandlas resultaten av granskningarna
+            under det senaste året med beaktande av resultat och iakttagelser
+            från tidigare år. Riksrevisionens styrelse har lämnat en redogörelse
+            till riksdagen (2007/08:RRS1) med anledning av Riksrevisionens
+            årliga rapport 2007. Redogörelsen hänvisades först till KU men
+            överlämnades den 16 oktober till FiU. Inga motioner har lämnats
+            med anledning av redogörelsen.
+          </p>
+          <p>
+            Den 20 november höll finansutskottet en intern utfrågning av
+            de tre riksrevisorerna Eva Lindström, Lennart Grufberg och Karin
+            Lindell med anledning av Riksrevisionens årliga rapport 2007.
+          </p>
+          <p xml:id="IDAYUA0B" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDA2UA0B" rend="rubrik2">
+            Redogörelse för Riksrevisionens årliga rapport 2007
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDACVA0B" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen lägger redogörelsen för Riksrevisionens årliga rapport
+                till handlingarna. Utskottet betonar vikten av att regeringen
+                noga överväger Riksrevisionens iakttagelser och rekommendationer
+                på området statlig tillsyn.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Riksrevisionens styrelse har överlämnat Riksrevisionens årliga
+              rapport 2007 i form av en redogörelse till riksdagen (2007/08:RRS1).
+              Inga motioner har väckts med anledning av redogörelsen. Den årliga
+              rapporten ska ge en övergripande bild av de viktigaste iakttagelserna
+              från revisionsverksamheten under det senaste året.
+            </p>
+            <p xml:id="IDASVA0B" rend="orubrik3">
+              Riksrevisionens årliga rapport 2007
+            </p>
+            <p>
+              Riksrevisionens viktigaste iakttagelser från det gångna året
+              inriktas mot följande fyra områden i den statliga förvaltningen:
+            </p>
+            <p>
+              ·. Förmågan att säkerställa det statliga åtagandet med hjälp
+              av en fungerande statlig tillsyn.
+            </p>
+            <p>
+              ·. Regeringens redovisning till riksdagen i de budgetpolitiska
+              dokumenten.
+            </p>
+            <p>
+              ·. Genomförandet av arbetsmarknadspolitiken.
+            </p>
+            <p>
+              ·. Hur myndigheterna säkerställer att verksamheten bedrivs enligt
+              gällande lagar och förordningar.
+            </p>
+            <p>
+              Riksrevisorerna skriver att de brister som redovisas i rapporten
+              är allvarliga. Det handlar om rättssäkerhet och hushållning med
+              offentliga medel. Bristerna påverkar medborgarnas vardag och förtroendet
+              för den statliga verksamheten.
+            </p>
+            <p xml:id="IDAXWA0B" rend="r4">
+              Tillsynen fungerar inte
+            </p>
+            <p>
+              Ett stort antal granskningar av statliga myndigheters tillsyn
+              av framför allt kommunal verksamhet visar enligt Riksrevisionen
+              att tillsynen inte fungerar. Tillsynen sker för sällan och utförs
+              inte enhetligt. Sanktionsmedel används inte i tillräcklig utsträckning
+              och tillsynen följs sällan upp. I vissa fall är det också otydligt
+              vem som ansvarar för tillsynen. Dessa problem är extra allvarliga
+              inom områden som berör grupper som har svårt att göra sig hörda.
+              Riksrevisionen har bl.a. uppmärksammat detta i granskningar av
+              tillsynen av kommunernas hantering av förmåner inom LSS-området
+              och av överförmyndarverksamheten.
+            </p>
+            <p>
+              Liknande problem finns även inom tillsynen av medborgarnas skydd
+              som konsumenter. Riksrevisionens granskningar av tillsynen av
+              konsumentskyddet på det finansiella området och tillsynen av fastighetsmäklare
+              visar att staten inte säkerställer att medborgarna får ett gott
+              konsumentskydd.
+            </p>
+            <p xml:id="IDAAXA0B" rend="r4">
+              Bristande transparens i redovisningen av de offentliga finanserna
+            </p>
+            <p>
+              Riksrevisionen konstaterar att uppföljningen av överskottsmålet
+              brister och att kvaliteten i och redovisningen av prognoserna
+              på både statsbudgetens utgifts- och inkomstsida kan förbättras.
+              Felbedömningar av framtida skatteinkomster på uppemot 2 % av BNP
+              försvårar möjligheten att styra mot överskottsmålet. Nuvarande
+              redovisning av skatteutgifterna är inte tillräckligt överskådlig
+              och hanteringen ger inte en tillräckligt stram budgetprövning.
+            </p>
+            <p>
+              När det gäller Årsredovisning för staten kan redovisningen förbättras
+              i flera avseenden så att riksdagen får en bättre bild av de offentliga
+              finanserna.
+            </p>
+            <p xml:id="IDAJXA0B" rend="r4">
+              Problem i genomförandet av arbetsmarknadspolitiken
+            </p>
+            <p>
+              Riksrevisionen konstaterar att ett flertal av de problem som
+              uppmärksammats i olika granskningar på arbetsmarknadspolitikens
+              område fram till hösten 2006 återstår att åtgärda. Det gäller
+              bl.a. risken för s.k. dödviktseffekter inom de arbetsmarknadspolitiska
+              åtgärderna, dvs. att staten subventionerar anställningar som hade
+              ägt rum även utan subventioner. Det handlar också om mycket stora
+              skillnader i effektivitet mellan jämförbara arbetsförmedlingskontor.
+            </p>
+            <p>
+              Riksrevisionen har även konstaterat brister i hur regeringen
+              informerat riksdagen om resultatutvecklingen inom arbetsmarknadsområdet
+              och vidare att regeringens beslutsunderlag varit bristfälligt
+              när det gäller införandet av nya arbetsmarknadspolitiska åtgärder.
+            </p>
+            <p xml:id="IDASXA0B" rend="r4">
+              Den interna kontrollen behöver stärkas
+            </p>
+            <p>
+              Riksrevisionens granskning visar på svagheter i myndigheternas
+              interna styrning och kontroll.
+            </p>
+            <p>
+              Det finns enligt Riksrevisionen allvarliga brister i hur många
+              ledningar styr och kontrollerar informationssäkerheten vid myndigheten.
+              En konsekvens av detta är att incidenter, t.ex. virusattacker,
+              medfört att medborgare och företag inte fått den service de förväntar
+              sig. Brister i skyddet av webbplatser har också lett till att
+              obehöriga fått tillgång till integritetskänsliga uppgifter. Regeringen
+              har varken ställt krav på myndigheternas arbete eller följt upp
+              om deras informationssäkerhet är tillfredsställande.
+            </p>
+            <p>
+              Försäkringskassan har enligt Riksrevisionen ännu inte utnyttjat
+              de möjligheter som den nya sammanhållna myndigheten ger. Det finns
+              fortfarande omotiverade regionala variationer i handläggningen
+              och problem med ofullständiga beslutsunderlag och fusk i socialförsäkringen.
+              De brister som finns i regeltillämpning, kontroll och kunskaper
+              är enligt Riksrevisionen oacceptabla.
+            </p>
+            <p>
+              Riksrevisionen har även noterat brister när det gäller den interna
+              kontrollen inför Arbetsförmedlingens, Integrationsverkets och
+              Regeringskansliets utbetalning av ekonomiskt stöd. Bristerna har
+              i vissa fall inneburit att arbetsgivare och kommuner har beviljats
+              statligt stöd på felaktiga grunder.
+            </p>
+            <p xml:id="IDAEYA0B" rend="r4">
+              Riksrevisionens rekommendationer
+            </p>
+            <p>
+              För att få till stånd förbättringar och effektiviseringar utifrån
+              granskningarna krävs enligt Riksrevisionen att riksdagen och regeringen
+              utkräver det ansvar som rapporterna ger underlag för. De problem
+              vi pekat på måste snabbt åtgärdas, skriver Riksrevisionen, och
+              lämnar följande rekommendationer till regeringen:
+            </p>
+            <p>
+              ·. Genomför konkreta åtgärder för att åstadkomma en väl fungerande
+              tillsyn. Tillsynens kontrollerande funktion behöver stärkas. Det
+              handlar om tydligare prioriteringar, klargörande av ansvar, ökad
+              likvärdighet i genomförandet och slutligen effektiva sanktionsmedel
+              som verkligen utnyttjas.
+            </p>
+            <p>
+              ·. Skapa en större öppenhet kring prognosmetoder och målbeskrivningar
+              i de budgetpolitiska dokumenten. Överväg hur skatteutgifterna
+              ska hanteras i det finanspolitiska ramverket och fortsätt minska
+              deras andel av statsbudgeten.
+            </p>
+            <p>
+              ·. Se över mål och målstruktur för arbetsmarknadspolitiken. Utforma
+              de arbetsmarknadspolitiska åtgärderna så att riskerna för dödviktseffekter
+              minskar. Genomför i större utsträckning utvärderingar och försöksverksamhet
+              i syfte att förbättra underlaget för arbetsmarknadspolitiken.
+            </p>
+            <p>
+              ·. Klargör myndigheternas ansvar för såväl intern kontroll som
+              informationsskyldigheten gentemot regeringen.
+            </p>
+            <p xml:id="IDAGZA0B" rend="r4">
+              Årlig revision 2006
+            </p>
+            <p>
+              Riksrevisionen granskar årligen alla myndigheters årsredovisningar
+              i syfte att bedöma om årsredovisningen och underliggande redovisning
+              är tillförlitlig och om räkenskaperna är rättvisande. Utifrån
+              granskningen för 2006 har Riksrevisionen lämnat 260 revisionsberättelser.
+              Av dessa har 11 lämnats med invändning. Riksrevisionen konstaterar
+              att antalet invändningar i revisionsberättelserna ligger på en
+              fortsatt tämligen konstant och låg nivå.
+            </p>
+            <p xml:id="IDANZA0B" rend="orubrik3">
+              Regeringens återrapportering i budgetpropositionen för 2008
+            </p>
+            <p>
+              På ett tematiskt plan och mot bakgrund av iakttagelserna i Riksrevisionens
+              årliga rapport redovisar regeringen sin syn i volym 1 i budgetpropositionen
+              för 2008. I övrigt kommenterar regeringen även revisionens iakttagelser
+              i respektive berört politikområdesavsnitt.
+            </p>
+            <p xml:id="IDATZA0B" rend="r4">
+              Statlig tillsyn
+            </p>
+            <p>
+              Regeringen är angelägen om att tillsynsverksamheten inom olika
+              verksamhetsområden blir mer effektiv och tydlig. Ett konkret exempel
+              är socialförsäkringsområdet där regeringen gett en särskild utredare
+              i uppdrag att utreda möjliga organisatoriska former för tillsynen
+              (dir. 2007:24). Inriktningen av tillsynen ska vara mot systemtillsyn
+              och effektivitetsgranskning. Funktionen ska vara skild från Försäkringskassan.
+              Uppdraget ska redovisas senast den 31 oktober 2007.
+            </p>
+            <p>
+              Regeringen skriver vidare att beredningen av en riktlinjeproposition
+              för tillsyn pågår i Regeringskansliet och avsikten är att regeringen
+              till riksdagen ska kunna presentera grundläggande och tydliga
+              principer för tillsyn.
+            </p>
+            <p xml:id="IDA2ZA0B" rend="r4">
+              Redovisningen i de budgetpolitiska dokumenten
+            </p>
+            <p>
+              Regeringen instämmer i Riksrevisionens kritik rörande regeringens
+              uppföljning av överskottsmålet i budgetdokumenten mellan 2000
+              och 2006. Regeringen anför vidare att man i 2007 års ekonomiska
+              vårproposition redovisade sin syn på de grundläggande motiven
+              för ett överskottsmål för den offentliga sektorns sparande. Regeringen
+              gjorde även bedömningen att uppföljningen av överskottsmålet bör
+              göras med ett flertal indikatorer. Utöver strukturellt sparande
+              föreslogs även en ny genomsnittsindikator. För att stärka tilltron
+              till det finanspolitiska ramverket och dess hållbarhet på lång
+              sikt har regeringen även inrättat ett finanspolitiskt råd, vars
+              uppgift är att årligen följa upp de grundläggande målen för finanspolitiken.
+            </p>
+            <p>
+              Vidare instämmer regeringen i stora delar av den kritik som Riksrevisionen
+              riktar mot redovisningen av skatteutgifter. Regeringen skriver
+              att det är viktigt att upprätthålla en god budgetdisciplin och
+              att man därför strävar efter att förbättra redovisningen av skatteutgifter.
+              Dock påpekar regeringen att skatteutgifterna är av ganska olika
+              karaktär. Det är för skatteutgifter som utgör alternativ till
+              direkta utgifter som redovisningen behöver förbättras (och inte
+              för s.k. skattetekniskt motiverade avvikelser). Vidare, i syfte
+              att ge utgiftstaket dess avsedda betydelse, avser regeringen att
+              vara mycket restriktiv i sitt nyttjande av s.k. skattekrediteringar
+              för stöd som är att likställa med utgifter. Regeringen ser även
+              fördelar med en budgetprocess som i ökad utsträckning möjliggör
+              en årlig prövning även av utgifter som ligger på budgetens inkomstsida.
+            </p>
+            <p>
+              Regeringen delar Riksrevisionens uppfattning om att redogörelserna
+              för prognosavvikelserna bör förbättras. Däremot anser regeringen
+              att Riksrevisionens redovisning av prognosavvikelser för skatteprognoserna
+              är felaktig. Oavsett detta anser regeringen att metoderna för
+              att göra prognoser av bolagens inkomstskatter bör utvecklas. Regeringen
+              avser också att fortsätta det redan påbörjade arbetet med att
+              förbättra prognosmetoderna avseende de arbetsmarknadspolitiska
+              programmen och arbetslösheten.
+            </p>
+            <p>
+              Regeringen kommenterar ganska utförligt Riksrevisionens granskning
+              av Årsredovisning för staten. Regeringen delar visserligen inte
+              Riksrevisionens syn i alla avseenden men avser att överväga synpunkterna
+              i det fortsatta arbetet med att utveckla skrivelsen.
+            </p>
+            <p xml:id="IDAL0A0B" rend="r4">
+              Genomförandet av arbetsmarknadspolitiken
+            </p>
+            <p>
+              Regeringen skriver att den ändrade inriktningen av arbetsmarknadspolitiken
+              kommer att leda till att de risker och problem Riksrevisionen
+              pekar på, och som härstammar från den tidigare förda politiken
+              på området, minimeras. Antalet arbetsmarknadspolitiska program
+              har exempelvis reducerats och flera åtgärder har avskaffats. De
+              arbetsmarknadspolitiska resurserna ska i första hand användas
+              för matchning mellan arbetssökande och lediga jobb, ökad konkurrens
+              i förmedlingsverksamheten och förbättrad kontroll och enhetligare
+              tillämpning av reglerna inom arbetslöshetsförsäkringen.
+            </p>
+            <p xml:id="IDAR0A0B" rend="r4">
+              Intern styrning och kontroll
+            </p>
+            <p>
+              Regeringen skriver att man tagit ett antal principiellt viktiga
+              steg i arbetet med att stärka den interna styrningen och kontrollen
+              i staten. Exempelvis trädde en ny internrevisionsförordning i
+              kraft den 1 januari 2007. Vidare har regeringen beslutat om en
+              myndighetsförordning (2007:515) som bl.a. tydliggör ledningens
+              ansvar för den interna styrningen och kontrollen samt om en förordning
+              (2007:603) som preciserar de moment som berörda myndigheter har
+              att utföra för att säkerställa intern styrning och kontroll. ESV
+              har enligt regeringen en central roll i det fortsatta arbetet
+              med att successivt utveckla den interna styrningen och kontrollen
+              vid statliga myndigheter.
+            </p>
+            <p>
+              Regeringen har också tillsatt en statssekreterargrupp för frågor
+              som är av strategisk betydelse för utvecklingen av elektronisk
+              förvaltning inklusive informationssäkerhet.
+            </p>
+            <p xml:id="IDA10A0B" rend="orubrik3">
+              Finansutskottets ställningstagande
+            </p>
+            <p xml:id="IDA40A0B" rend="r4">
+              Innebörden av de viktigaste iakttagelserna och valet av teman
+            </p>
+            <p>
+              Enligt lagen (2002:1022) om revision av statlig verksamhet m.m.
+              ska de viktigaste iakttagelserna vid effektivitetsrevision och
+              årlig revision samlas i en årlig rapport. Utskottet anser att
+              den årliga rapporten fyller en viktig funktion genom att den översiktligt
+              och tematiskt beskriver det gångna årets revisionsiakttagelser.
+              Det är vidare värdefullt att Riksrevisionen, där så är möjligt,
+              drar mer generella slutsatser på olika områden. Som utskottet
+              tidigare påpekat är det dock inte nödvändigt att de viktigaste
+              iakttagelserna för att fylla sitt syfte alltid måste vara generella
+              och övergripande (bet. 2006/07:FiU8). Det är självklart bra om
+              det finns underlag för att dra generella slutsatser, men en iakttagelse
+              kan mycket väl vara viktig även om den begränsas till ett mer
+              avgränsat område och bygger på en enskild granskning. Utskottet
+              vill också betona vikten av att det av granskningen tydligt framgår
+              var i beslutskedjan i den verkställande makten, från regeringen
+              ned till den enskilda myndighetens interna arbete, eventuella
+              korrigerande åtgärder bör vidtas. Detta så att riksdagen får ett
+              relevant och tydligt underlag för sitt ansvarsutkrävande gentemot
+              regeringen.
+            </p>
+            <p>
+              Riksrevisionen har valt att gruppera de viktigaste iakttagelserna
+              i den årliga rapporten 2007 under fyra olika rubriker eller teman.
+              Motsvarande tematiska upplägg har Riksrevisionen haft i samtliga
+              årliga rapporter sedan den första publicerades 2004. En brist
+              i presentationen av teman i den årliga rapporten, i år såväl som
+              2005 och 2006, är enligt utskottets mening avsaknaden av en tydlig
+              koppling till valet av inriktningar i de årliga granskningsplanerna.
+              Endast i den första årliga rapporten från 2004 gör Riksrevisionen
+              en förhållandevis tydlig redogörelse för i vilken mån granskningsplanens
+              val av teman återkommer som teman i den årliga rapporten. Denna
+              brist på koppling i de senaste årliga rapporterna försvårar en
+              översiktlig jämförelse av vad Riksrevisionen i granskningsplanerna
+              bedömt som viktigt och vad det sedan blivit av dessa planer i
+              granskningsverksamheten.
+            </p>
+            <p>
+              I det här sammanhanget vill utskottet erinra om den parlamentariska
+              utredning som har till uppgift att följa upp 2003 års reformering
+              av den statliga revisionen (dir. 019-2470-06/07). I utredningens
+              uppdrag ingår bl.a. att studera vilka syften som uppnåtts med
+              Riksrevisionens årliga rapport samt att belysa kriterierna för
+              valda granskningsteman. Uppdraget ska redovisas senast den 1 november
+              2008.
+            </p>
+            <p xml:id="IDAK1A0B" rend="r4">
+              Regeringens återkoppling med anledning av iakttagelserna i årliga
+              rapporten 2007
+            </p>
+            <p>
+              Utskottet kan konstatera att regeringens redovisning med anledning
+              av Riksrevisionens årliga rapport, i budgetpropositionen för 2008,
+              har utökats jämfört med föregående år. Särskilt utförlig och specifik
+              är regeringen i sina kommentarer när det gäller iakttagelserna
+              på området Regeringens redovisning i de budgetpolitiska dokumenten.
+              Regeringen delar också i hög grad Riksrevisionens kritik på detta
+              område. När det gäller iakttagelser inom arbetsmarknadspolitiken
+              är dock regeringen betydligt mer kortfattad och hänvisar översiktligt
+              till den ändrade inriktningen av arbetsmarknadspolitiken. De risker
+              och problem som Riksrevisionen pekar på har enligt regeringen
+              orsakats av den tidigare förda arbetsmarknadspolitiken.
+            </p>
+            <p>
+              På områdena statlig tillsyn samt intern styrning och kontroll
+              besvaras Riksrevisionens iakttagelser främst genom beskrivningar
+              av vad som hittills gjorts på områdena i form av nya förordningar
+              och tillsatta utredningar. Utskottet vill här särskilt betona
+              vikten av att regeringen noga beaktar Riksrevisionens iakttagelser
+              på området statlig tillsyn. Utskottet välkomnar också att regeringen
+              i en riktlinjeproposition avser att presentera grundläggande och
+              tydliga principer för tillsyn. På socialförsäkringsområdet har
+              det också nyligen presenterats en utredning om organisationen
+              och ansvarsfördelningen såvitt avser den statliga tillsynen (SOU:82).
+              Utskottet förutsätter att regeringen i beredningen av den aviserade
+              riktlinjepropositionen utreder organisation och ansvarsfördelning
+              för den statliga tillsynen mer generellt.
+            </p>
+            <p xml:id="IDAT1A0B" rend="r4">
+              Finansutskottets tidigare behandling av iakttagelser rörande
+              regeringens redovisning i de budgetpolitiska dokumenten
+            </p>
+            <p>
+              Finansutskottet har under föregående riksmöte behandlat flertalet
+              av de granskningsrapporter som legat till grund för iakttagelserna
+              kring regeringens redovisning till riksdagen i de budgetpolitiska
+              dokumenten. De aktuella granskningsrapporterna rörde det finanspolitiska
+              ramverket och behandlades i betänkande 2006/07:FiU20. Rapporterna
+              var följande:
+            </p>
+            <p>
+              ·. RiR 2006:23. Det makroekonomiska underlaget i budgetpropositionerna
+              (framst. 2006/07:RRS16).
+            </p>
+            <p>
+              ·. RiR 2006:27. Regeringens uppföljning av överskottsmålet (framst.
+              2006/07:RRS17).
+            </p>
+            <p>
+              ·. RiR 2007:3. Regeringens beredning och redovisning av skatteutgifter
+              (framst. 2006/07:RRS25).
+            </p>
+            <p>
+              Med anledning av de två förstnämnda rapporterna skrev utskottet
+              i betänkandet:
+            </p>
+            <p rend="citat">
+              Utskottet anser att Riksrevisionens synpunkter och rekommendationer
+              i de aktuella rapporterna är relevanta och viktiga. Utskottet
+              kan emellertid konstatera att regeringen i sitt arbete med det
+              finanspolitiska ramverket har beaktat och tagit intryck av Riksrevisionens
+              synpunkter både när det gäller utformningen och uppföljningen
+              av saldomålet och det makroekonomiska underlaget i budgetpropositionerna.
+              Det finns enligt utskottets mening därför ingen anledning att
+              rikta några tillkännagivanden till regeringen med anledning av
+              Riksrevisionens styrelses förslag. Däremot noterar utskottet att
+              en av Riksrevisionens rekommendationer att rätta till den systematiska
+              underskattningen av den öppna arbetslösheten varken omnämns av
+              regeringen eller av Riksrevisionens styrelse. Riksrevisionen visar
+              i sin rapport att felen i regeringens prognoser normalt inte är
+              större än hos andra prognosmakare, men med ett undantag. Den öppna
+              arbetslösheten ett år framåt i tiden har systematiskt underskattats
+              på ett sätt som avviker från övriga prognosmakare. Det förefaller
+              enligt Riksrevisionen som om regeringen systematiskt överskattat
+              antalet personer i arbetsmarknadspolitiska åtgärder och därmed
+              underskattat den öppna arbetslösheten. Utskottet delar Riksrevisionens
+              bedömning att ett sådant systematiskt fel bör rättas till.
+            </p>
+            <p>
+              Vidare skrev utskottet med anledning av RiR 2007:3 Regeringens
+              beredning och redovisning av skatteutgifter:
+            </p>
+            <p rend="citat">
+              Utskottet anser att det är värdefullt att Riksrevisionen genomfört
+              en granskning av skatteutgifter och att rapporten reser ett stort
+              antal berättigade frågor kring skatteutgifternas roll i budgeten.
+              Den berör flera stora och principiella frågor om exempelvis prioriteringar
+              i arbetet med budgeten, underlag för såväl regeringen som riksdagen
+              för deras budgetbeslut och riksdagens möjligheter att kontrollera
+              och följa upp användningen av statens medel. [] Utskottet förutsätter
+              att regeringen i det fortsatta arbetet med översynen tar Riksrevisionens
+              synpunkter i beaktande och i budgetpropositionen för 2008 redovisar
+              för riksdagen hur man ser på frågorna och vilka åtgärder man anser
+              vara lämpliga.
+            </p>
+            <p>
+              Ytterligare en granskningsrapport som ligger till grund för de
+              viktigare iakttagelserna på detta område är rapporten Regeringens
+              skatteprognoser (RiR 2007:5). Denna har överlämnats av Riksrevisionens
+              styrelse i form av en redogörelse (2007/08:RRS2) till riksdagen
+              och kommer att beredas av finansutskottet senare under innevarande
+              riksmöte.
+            </p>
+            <p xml:id="IDA32A0B" rend="r4">
+              Tydligare redovisning av om en granskningsrapport anses färdigbehandlad
+            </p>
+            <p>
+              Finansutskottet har tidigare efterfrågat en ökad tydlighet från
+              regeringens sida när det gäller om en viss granskningsrapport
+              anses färdigbehandlad av regeringen (bet. 2006/07:FiU8). Som svar
+              på finansutskottets önskemål anges i år 67 rapporter som slutbehandlade
+              i volym 1 i budgetpropositionen. Av dessa har 22 granskningsrapporter
+              lagts till handlingarna, 39 hänvisar till en budgetproposition,
+              åtta hänvisar till regeringsbeslut (beslut om regleringsbrev eller
+              utredningsdirektiv) och en hänvisar till övrig proposition. Två
+              av den senaste 12-månadersperiodens granskningsrapporter har avskrivits
+              som slutbehandlade (RiR 2006:22 Arbetsförmedlingen och RiR 2006:28
+              Anställningsstöd). Med slutbehandlad avses enligt regeringen att
+              det ärende som respektive granskningsrapport ger upphov till är
+              avskrivet. Samtidigt påpekar regeringen att detta inte hindrar
+              att sakfrågan i sig ägnas ytterligare uppmärksamhet i regeringens
+              fortsatta arbete med att utveckla och effektivisera den statliga
+              förvaltningen. När det gäller pågående eller kommande arbeten
+              är strävan enligt regeringen att i möjligaste mån ange en tidsram.
+              Utskottet välkomnar regeringens tydligare redovisning av om en
+              granskningsrapport är färdigbehandlad eller inte.
+            </p>
+            <p xml:id="IDAD3A0B" rend="r4">
+              Utskottets sammanfattande ställningstagande
+            </p>
+            <p>
+              Utskottet föreslår att redogörelsen för Riksrevisionens årliga
+              rapport 2007 läggs till handlingarna.
+            </p>
+            <p xml:id="IDAJ3A0B" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAM3A0B" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAP3A0B" rend="rubrik2">
+              Redogörelsen
+            </p>
+            <p>
+              Redogörelse 2007/08:RRS1 Riksrevisionens styrelses redogörelse
+              angående Riksrevisionens årliga rapport 2007.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

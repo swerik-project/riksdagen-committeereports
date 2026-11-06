@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200203_MJU_0012">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen beslutade om ändringar i foderlagen och epizootilagen. Syftet är att anpassa lagarna till EG-förordningar, främst TSE-förordningen. I epizootilagen förtydligas ersättningsbestämmelsen. Även lagen om EG-handelsgödsel anpassas till en EG-förordning. På så vis kan bestämmelserna i EG-förordningarna tillämpas i Sverige.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Ändringar i foderlagen (MJU12)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0974</idno>
+              <title>2003-03-19</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">74</biblScope>
+              <note type="display-reference">2003-03-19</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0974</idno>
+              <title>2003-03-19</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">74</biblScope>
+              <note type="display-reference">2003-03-19</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GQ0K121</idno>
+              <title>2002/03:121</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">121</biblScope>
+              <note type="display-reference">2002/03:121</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1985:295</idno>
+              <note type="display-reference">2003:100</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1999:657</idno>
+              <note type="display-reference">2003:101</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1992:1684</idno>
+              <note type="display-reference">2003:111</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GQ0339</idno>
+              <title>Ändringar i foderlagen, m.m.</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">39</biblScope>
+              <note type="display-reference">proposition 2002/03:39 Ändringar i foderlagen, m.m.</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2003-03-11">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2003-03-11">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2003-03-11">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2003-03-06">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2003-03-06">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2003-03-06">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-02-13">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-02-13">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2003-03-19">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2003-03-19">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2003-03-19">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2003-03-19">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2003-03-19">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2003-03-14">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2003-03-14">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Miljö- och jordbruksutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2002/03:MJU12
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Ändringar i foderlagen, m.m.
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning Utskottet behandlar i detta betänkande proposition
+            2002/03:39 Ändringar i foderlagen, m.m. I propositionen föreslås
+            bl.a. ändringar i lagen (1985:295) om foder och i epizootilagen
+            (1999:657). Ändringarna syftar till att ansvars- och tillsynsbestämmelserna
+            i dessa lagar görs tillämpliga på parlamentets och rådets förordning
+            (EG) nr 999/2001 av den 22 maj 2001 om fastställande av bestämmelser
+            för förebyggande, kontroll och utrotning av vissa typer av transmissibel
+            spongiform encefalopati (TSE-förordningen). Ändringarna i foderlagen
+            utformas så att lagen i angivna delar också blir tillämplig på
+            de bestämmelser om foder som finns i andra EG-förordningar. Lagarna
+            förses också med nya bemyndiganden som innebär att föreskrifter
+            som får finnas till komplettering av berörd EG-lagstiftning kan
+            utfärdas. Förslagen om ändring i epizootilagen innebär även ett
+            förtydligande av lagens ersättningsbestämmelse. Härigenom klargörs
+            att ersättning för avlivade eller döda djur skall lämnas inte
+            bara för husdjur utan också för andra djur som inte är vilt levande.
+            I propositionen föreslås även sådana ändringar i lagen (1992:1684)
+            om EG-handelsgödsel som behövs för att EG:s förordning om handelsgödsel
+            skall kunna verkställas i Sverige. Beteckningen EG-handelsgödsel
+            föreslås ersättas med beteckningen EG-gödselmedel. Utskottet tillstyrker
+            regeringens förslag. Några motioner har inte väckts med anledning
+            av propositionen.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut Ändringar i foderlagen,
+            m.m. Riksdagen antar regeringens förslag till a) lag om ändring
+            i lagen (1985:295) om foder, b) lag om ändring i epizootilagen
+            (1999:657), och c) lag om ändring i lagen (1992:1684) om EG- handelsgödsel.
+            Därmed bifaller riksdagen proposition 2002/03:39. Stockholm den
+            6 mars 2003 På miljö- och jordbruksutskottets vägnar Catharina
+            Elmsäter-Svärd Följande ledamöter har deltagit i beslutet: Catharina
+            Elmsäter-Svärd (m), Sinikka Bohlin (s), Alf Eriksson (s), Lennart
+            Fremling (fp), Rune Berglund (s), Rolf Lindén (s), Sven Gunnar
+            Persson (kd), Kjell-Erik Karlsson (v), Christina Axelsson (s),
+            Lars Lindblad (m), Carina Ohlsson (s), Jan Andersson (c), Jan-Olof
+            Larsson (s), Bengt-Anders Johansson (m), Christin Nilsson (s),
+            Marie Wahlgren (fp) och Gunnar Goude (mp).
+          </p>
+          <p>
+            2002/03 MJU12 Redogörelse för ärendet Ärendet och dess beredning
+            I proposition 2002/03:39 föreslår regeringen att riksdagen antar
+            de förslag om ändringar i lagen (1985:295) om foder, i epizootilagen
+            (1999:657) och i lagen (1992:1684) om EG-handelsgödsel som lagts
+            fram i propositionen. Lagrådet har yttrat sig över lagförslagen
+            utom såvitt avser 16 § förslaget till lag om ändring i lagen om
+            foder, vilken tillkommit efter förslag från Lagrådet. Lagförslagen
+            återges i bilaga 2. Bakgrund För att utreda behovet dels av nationella
+            kompletteringar till Europaparlamentets och rådets förordning
+            (EG) nr 999/2001 av den 22 maj 2001 om fastställande av bestämmelser
+            för förebyggande, kontroll och utrotning av vissa typer av transmissibel
+            spongiform encefalopati (TSE- förordningen), dels av ett par andra
+            förtydliganden och ändringar i epizootilagen gjordes för ungefär
+            ett år sedan en översyn inom Jordbruksdepartementet. Översynen
+            resulterade i en promemoria den 18 februari 2002, Dep. PM om komplettering
+            av Europaparlamentets och rådets förordning (EG) nr 999/2001 om
+            fastställande av bestämmelser för förebyggande, kontroll och utrotning
+            av vissa typer av transmissibel spongiform encefalopati samt om
+            vissa övriga ändringar i epizootilagen. I propositionen föreslår
+            regeringen också ändringar i lagen (1992:1684) om EG-handelsgödsel.
+            Dessa har sin grund i att kommissionen har föreslagit att fyra
+            direktiv som reglerar handeln med gödselmedel skall ersättas med
+            en förordning om gödselmedel. Beslut om förordningen förväntas
+            kunna fattas av parlamentet och rådet under våren 2003. Förordningen
+            kommer att behöva kompletteras med nationella bestämmelser om
+            bl.a. märkning, tillsyn och sanktioner. De ändringar som föreslås
+            i lagen om EG-handelsgödsel innebär endast en anpassning till
+            att bestämmelser som tidigare har antagits med stöd av 2 § i lagen
+            kommer att återfinnas i en i landet direkt tillämplig EG-förordning.
+            Propositionens huvudsakliga innehåll Parlamentets och rådets förordning
+            (EG) nr 999/2001 av den 22 maj 2001 om fastställande av bestämmelser
+            för förebyggande, kontroll och utrotning av vissa typer av transmissibel
+            spongiform encefalopati (TSE- förordningen) förutsätter nationell
+            lagstiftning för att kunna verkställas fullt ut här i landet.
+            I propositionen föreslås därför ändringar i lagen (1985:295) om
+            foder och i epizootilagen (1999:657). Ändringarna innebär bl.a.
+            att bestämmelserna i dessa lagar om tillsyn och straff i erforderliga
+            delar skall komplettera förordningen. Ändringarna i lagen om foder
+            utformas så att lagen i angivna delar blir tillämplig även på
+            bestämmelser om foder i andra EG- förordningar. Härutöver föreslås
+            ett tillägg i en bemyndigandebestämmelse i epizootilagen. Tillägget
+            syftar främst till att göra det möjligt att uppfylla rådets direktiv
+            2001/89/EG av den 23 oktober 2001 om gemenskapsåtgärder för bekämpning
+            av klassisk svinpest. Vidare föreslås ett förtydligande av en
+            ersättningsbestämmelse i epizootilagen. Parlamentet och rådet
+            förväntas under våren 2003 fatta beslut om en förordning om gödselmedel
+            som skall ersätta nuvarande direktiv och nationella bestämmelser
+            om EG-handelsgödsel. Ändringar föreslås därför i lagen (1992:1684)
+            om EG-handelsgödsel. Ändringarna innebär bl.a. att kompletterande
+            bestämmelser kan meddelas och att bestämmelserna om tillsyn och
+            straff i lagen skall komplettera förordningen. Ändringarna i foderlagen
+            och epizootilagen föreslås träda i kraft den 1 april 2003 och
+            ändringarna i lagen om EG-handelsgödsel den dag regeringen bestämmer.
+          </p>
+          <p>
+            Utskottets överväganden Ändringar i foderlagen, m.m. Utskottets
+            förslag i korthet Kompletterande lagstiftning till TSE- förordningen
+            Utskottet tillstyrker regeringens förslag att ansvars- och tillsynsbestämmelserna
+            i foderlagen och epizootilagen görs tillämpliga på TSE- förordningen.
+            Utskottet tillstyrker även förslaget om bemyndiganden i enlighet
+            med propositionen. Andra ändringar i epizootilagen Utskottet tillstyrker
+            regeringens förslag om förtydligande av epizootilagens ersättningsbestämmelse
+            så att det klargörs att ersättning för avlivade eller döda djur
+            skall lämnas inte bara för husdjur utan också för andra djur som
+            inte är vilt levande. Utskottet tillstyrker även regeringens förslag
+            att bemyndigandet i epizootilagen om rätt att meddela föreskrifter
+            eller besluta om begränsningar eller andra villkor vad gäller
+            hanteringen av djur vidgas så att föreskrifts- och beslutsrätten
+            också omfattar döda djur, produkter av djur, andra varor och annat
+            material. Ändringar i lagen om EG-handelsgödsel Utskottet tillstyrker
+            regeringens förslag att i lagen om EG-handelsgödsel införs de
+            bestämmelser som behövs för att EG:s förordning om handelsgödsel
+            skall kunna verkställas i Sverige. Utskottet tillstyrker även
+            att beteckningen EG-handelsgödsel ersätts med beteckningen EG-
+            gödselmedel. Utskottets ställningstagande Kompletterande lagstiftning
+            till TSE- förordningen I propositionen föreslås att ansvars- och
+            tillsynsbestämmelserna i foderlagen (1985:295) och epizootilagen
+            (1999:657) görs tillämpliga på TSE- förordningen. Ändringarna
+            i foderlagen föreslås utformas så att lagen i angivna delar också
+            blir tillämplig på bestämmelserna om foder som finns i andra EG-förordningar.
+            Enligt regeringen bör dessa lagar också förses med nya bemyndiganden
+            som innebär möjlighet att utfärda föreskrifter som får finnas
+            till komplettering av berörd EG-lagstiftning. Som regeringen anför
+            är TSE-förordningen, i enlighet med artikel 249 i EG-fördraget,
+            direkt tillämplig i alla medlemsstater. För att förordningen skall
+            bli effektiv behövs emellertid kompletterande materiella bestämmelser
+            om bl.a. sanktioner, ersättning och tillsyn. Förordningen anger
+            inte heller vilken eller vilka myndigheter som får meddela de
+            föreskrifter, förbud eller förelägganden som behövs, vilket förutsätts
+            regleras nationellt. Till de svenska författningar som innehåller
+            regler som gäller frågor som avhandlas i TSE- förordningen eller
+            på annat sätt kompletterar denna hör bl.a. foderlagen och epizootilagen.
+            Sammantaget innehåller dessa författningar i stort sett alla de
+            instrument som behövs för att efterlevnaden av TSE- förordningen
+            skall kunna säkerställas. Emellertid saknas vissa straffbestämmelser
+            och dessutom finns det inte något i alla hänseenden tillräckligt
+            klart samband mellan de nationella författningarna och TSE-förordningen.
+            TSE-förordningen kan kompletteras på olika sätt, antingen genom
+            att en ny kompletteringslag införs eller genom att förordningen
+            i erforderlig utsträckning kompletteras med befintlig lagstiftning.
+            Vid en samlad bedömning finner utskottet i likhet med regeringen
+            att det mest ändamålsenliga sättet att genomföra kompletteringen
+            är att föra in erforderliga bestämmelser i befintliga lagar. Denna
+            lösning har bl.a. den fördelen att de tillsynsorganisationer som
+            finns inom olika områden kan verka på samma sätt, oberoende av
+            om reglerna finns i en EG-förordning eller i en nationell författning.
+            När det gäller frågan om i vilken eller vilka nationella lagar
+            de erforderliga kompletteringsbestämmelserna bör föras in delar
+            utskottet regeringens uppfattning att TSE- förordningens bestämmelser
+            om anmälan, kontroll och utrotning av TSE, om övervakning av djur
+            och om utarbetande av nationella beredskapsplaner faller inom
+            epizootilagens tillämpningsområde och bör kompletteras genom tillägg
+            i denna lag. Ett tillägg bör vara att regeringen eller den myndighet
+            som regeringen bestämmer ges rätt att meddela de föreskrifter
+            som behövs som komplettering av dessa delar av TSE-förordningen.
+            Vidare bör lagens tillsynsregler göras tillämpliga på aktuella
+            bestämmelser i förordningen. Härtill bör överträdelser av vissa
+            bestämmelser straffsanktioneras. I artikel 7 i TSE-förordningen
+            förbjuds bl.a. utfodring av idisslare med protein som härrör från
+            däggdjur. Som regeringen anför bör detta förbud straffsanktioneras
+            i foderlagen och inte i epizootilagen. Tillsynsbestämmelserna
+            i epizootilagen är inte anpassade för tillsyn som syftar till
+            att kontrollera efterlevnaden av regler om foder. I epizootilagen
+            finns inte heller någon motsvarighet till de bestämmelser i foderlagen
+            som ger tillsynsmyndigheterna rätt att ta hand om foder och ta
+            prover i utrymmen där foder hanteras. Av främst dessa skäl delar
+            utskottet regeringens uppfattning att artikel 7 i TSE-förordningen
+            bör kompletteras genom tillägg i foderlagen. Som regeringen anför
+            bör härutöver de nya bestämmelserna i foderlagen ges ett vidgat
+            tillämpningsområde genom att regeringen eller den myndighet som
+            regeringen bestämmer får rätt att utfärda de föreskrifter som
+            behövs som komplettering av de bestämmelser om foder som finns
+            i EG- förordningar på området. Tillsyns- och straffbestämmelserna
+            bör också utformas så att de kan tillämpas generellt. Vissa bestämmelser
+            i TSE-förordningen faller inte utan vidare inom tillämpningsområdet
+            för vare sig livsmedelslagen, epizootilagen eller foderlagen.
+            Hit hör bl.a. regler om hur s.k. specificerat riskmaterial skall
+            hanteras utanför slakteri och om införsel och utförsel av levande
+            djur och produkter av djur. Enligt regeringen kan det stora flertalet
+            av de föreskrifter som kan behövas till komplettering av dessa
+            bestämmelser meddelas med stöd av befintliga bemyndiganden i annan
+            lagstiftning, t.ex. lagen om provtagning på djur, m.m., förordningen
+            om införsel av levande djur m.m. och förordningen om utförsel
+            av levande djur m.m. Utskottet delar denna uppfattning. Det finns
+            emellertid några frågor i TSE-förordningen som inte ingår i någon
+            nu gällande författning utan kan behöva fyllas ut med kompletterande
+            lagstiftning. Mot bakgrund av det ovan anförda finner utskottet
+            det ändamålsenligt att det i epizootilagen förs in ett generellt
+            bemyndigande för regeringen, eller den myndighet som regeringen
+            bestämmer, att meddela de föreskrifter som kan behövas till komplettering
+            av TSE-förordningen. Bemyndigandet bör dock inte omfatta sådana
+            bestämmelser i TSE-förordningen som faller inom tillämpningsområdet
+            för livsmedelslagen eller foderlagen. Utskottet delar också regeringens
+            uppfattning att epizootilagens bestämmelser om tillsyn bör göras
+            tillämpliga på sådana bestämmelser i TSE- förordningen som inte
+            faller inom tillämpningsområdet för livsmedelslagen eller foderlagen.
+            Härigenom säkerställs enligt utskottets mening en fungerande tillsyn
+            även när det gäller de bestämmelser i TSE-förordningen som inte
+            regleras i någon nationell författning. Som anförs i propositionen
+            kan det finnas situationer då det är svårt att avgöra vilken myndighet
+            som enligt TSE-förordningen skall utföra en viss uppgift, något
+            som är inte unikt för denna förordning. Utskottet anser det emellertid
+            knappast möjligt att i författningsform i detalj reglera vilken
+            eller vilka myndigheter som skall bära ansvaret för olika bestämmelser
+            i förordningen. I likhet med regeringen utgår utskottet från att
+            berörda myndigheter kommer att samråda i frågan, särskilt i de
+            fall det kan vara osäkert vilka uppgifter som ankommer på en viss
+            myndighet. Slutligen delar utskottet regeringens uppfattning att
+            epizootilagen inte behöver förses med några särskilda bestämmelser
+            för att anpassas till TSE- förordningens ersättningsbestämmelser.
+            Sammantaget innebär det ovan anförda att utskottet tillstyrker
+            propositionen i denna del. Andra ändringar i epizootilagen Av
+            artikel 4 i rådets direktiv 2001/89/EG av den 23 oktober 2001
+            om gemenskapsåtgärder för bekämpning av klassisk svinpest framgår
+            att, om misstanke om sådan sjukdom på en anläggning inte kan uteslutas,
+            behörig myndighet skall meddela vissa föreskrifter som närmast
+            är att jämföra med epizootilagens bestämmelser om spärr- och smittförklaring.
+            Hit hör bl.a. föreskrifter om att anläggningen skall sättas under
+            officiell övervakning, att all person- och fordonstrafik till
+            eller från anläggningen skall godkännas och att produkter, material
+            eller avfall som kan befaras överföra klassisk svinpest inte får
+            lämna anläggningen utan godkännande. Som regeringen anför bör
+            epizootilagens bemyndiganden anpassas så att de täcker de behov
+            som den nämnda bestämmelsen och eventuell ny EG- lagstiftning
+            gällande bekämpning av epizootiska sjukdomar kan ge upphov till.
+            Enligt regeringens uppfattning, som delas av utskottet, görs detta
+            lämpligast genom utvidgning av den bestämmelse som i dag gör det
+            möjligt för regeringen eller den myndighet som regeringen bestämmer
+            att meddela föreskrifter eller i enskilda fall besluta om begränsningar
+            vad gäller hanteringen av djur. Bemyndigandet bör i framtiden
+            även omfatta en rätt att föreskriva eller besluta om begränsningar
+            vad gäller hanteringen av döda djur, produkter av djur, andra
+            varor och annat material. I epizootilagen stadgas att den som
+            genom föreskrifter eller beslut som har meddelats med stöd av
+            lagen drabbas av förlust på grund av att ett husdjur avlivas eller
+            dör till följd av skyddsympning eller annan behandling skall ersättas
+            för förlusten. Vad som i detta sammanhang avses med husdjur preciseras
+            emellertid inte i vare sig lagen eller dess förarbeten. I propositionen
+            till djurskyddslagen sägs dock bl.a. följande: Till husdjuren
+            torde närmast räknas sådana djur som ständigt lever under människans
+            vård och av människan används för bestämda ändamål. Som exempel
+            på husdjur kan nämnas sällskapsdjur som hund och katt, djur som
+            används i jordbruket för bl.a. produktion av kött och mjölk samt
+            ren. Att närmare definiera begreppet torde knappast vara möjligt
+            (prop. 1987/88:93). Av den nu aktuella propositionen framgår att
+            Jordbruksverket i sin praxis har bedömt att elefanter, fisk i
+            kassodlingar och hjortar i hägn är djur som berättigar till ersättning
+            enligt förevarande bestämmelse. Däremot har inte ersättning lämnats
+            för vilda djur. Som regeringen anför är mot denna bakgrund ett
+            förtydligande motiverat, varför ordet husdjur bör bytas ut mot
+            uttrycket husdjur eller andra än vilt levande djur. Härigenom
+            uppnås enligt utskottets mening bättre överensstämmelse med tillämpningen
+            av lagen. Med det anförda tillstyrker utskottet regeringens förslag
+            om ändring i epizootilagen såvitt nu är i fråga. Ändringar i lagen
+            om EG-handelsgödsel Den 14 september 2001 lade kommissionen fram
+            ett förslag om förordning om EG-gödselmedel som skall ersätta
+            de nu gällande direktiven. Enligt propositionen förväntas parlamentet
+            och rådet fatta beslut om förordningen under våren 2003. I enlighet
+            med artikel 249 i EG- fördraget kommer förordningen att vara direkt
+            tillämplig i samtliga medlemsstater. När den träder i kraft finns
+            därför inte längre något behov av att utfärda andra nationella
+            bestämmelser än sådana som behövs för att verkställa förordningens
+            bestämmelser. Som anförs i propositionen skall de bestämmelser
+            som nationellt har utfärdats för att genomföra direktiven och
+            som kommer att återfinnas i förordningen därför upphävas. Utskottet
+            delar regeringens uppfattning att lagen om EG-handelsgödsel bör
+            anpassas till den situation som uppkommer när EG:s förordning
+            om gödselmedel träder i kraft och att lagens räckvidd begränsas
+            till de bestämmelser som behövs för att förordningen skall kunna
+            verkställas i Sverige. För att förordningen skall kunna tillämpas
+            fullt ut behövs kompletterande nationella bestämmelser om bl.a.
+            märkning samt sådana bestämmelser som behövs för verkställighet
+            och tillsyn. Som regeringen anför bör därför nuvarande bemyndigande
+            i 2 § lagen om EG- handelsgödsel begränsas och utformas som ett
+            bemyndigande för regeringen eller, efter regeringens bemyndigande,
+            Jordbruksverket att meddela de föreskrifter som behövs som komplettering
+            av EG:s förordning om gödselmedel. Tillämpningen av den föreslagna
+            förordningen förutsätter nationella bestämmelser även om tillsyn
+            och ansvar. När förordningen träder i kraft kommer merparten av
+            de regler i förhållande till vilka tillsyn skall utövas och ansvar
+            utkrävas att återfinnas i förordningen. I bestämmelserna om tillsyn
+            och ansvar bör därför i de fall hänvisning görs till de nationella
+            bestämmelserna även hänvisas till EG:s förordning om gödselmedel.
+            I den föreslagna EG-förordningen finns direkt tillämpliga regler
+            om vilka krav som skall uppfyllas vid provtagning och analys.
+            Motsvarande bestämmelse i 7 § lagen (1992:1684) om EG-handelsgödsel
+            bör därför upphävas. I den mån ytterligare föreskrifter om provtagning
+            och analys behövs anser utskottet att dessa kan meddelas med stöd
+            av lagens allmänna bemyndigande om meddelande av kompletterande
+            föreskrifter. I den nya EG-förordningen om gödselmedel används
+            begreppet EG-gödselmedel i stället för EG-handelsgödsel. Som regeringen
+            anför bör motsvarande förändring göras i lagens rubrik samt i
+            berörda bestämmelser. Som framgår av utskottets redogörelse ovan
+            förväntas beslut om den föreslagna EG-förordningen om gödselmedel
+            under våren 2003. Avsikten är att förordningen skall träda i kraft
+            20 dagar efter att den publicerats i Europeiska gemenskapernas
+            officiella tidning, och det är först vid publiceringen som förordningens
+            exakta benämning är känd. Enligt utskottets mening bör det därför
+            ankomma på regeringen att ge till känna vilken EG- förordning
+            som avses i lagen samt besluta vilken dag som lagändringen skall
+            träda i kraft. Det ovan anförda innebär att utskottet tillstyrker
+            regeringens förslag om ändring i lagen om EG- handelsgödsel. Bilaga
+            1 Förteckning över behandlade förslag
+          </p>
+          <p>
+            Propositionen Regeringen (Jordbruksdepartementet) föreslår i
+            proposition 2002/03:39 att riksdagen antar regeringens förslag
+            till: 1. lag om ändring i lagen (1985:295) om foder, 2. lag om
+            ändring i epizootilagen (1999:657), och 3. lag om ändring i lagen
+            (1992:1684) om EG- handelsgödsel.
+          </p>
+          <p>
+            Bilaga 2 Regeringens lagförslag 1. Förslag till lag om ändring
+            i lagen (1985:295) om foder 2 Senaste lydelse 1998:211. 3 Senaste
+            lydelse 2000:1241. 2. Förslag till lag om ändring i epizootilagen
+            (1999:657) 3. Förslag till lag om ändring i lagen (1992:1684)
+            om EG- handelsgödsel
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

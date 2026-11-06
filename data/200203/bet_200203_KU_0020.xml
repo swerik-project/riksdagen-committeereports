@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200203_KU_0020">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen avslog motioner från allmänna motionstiden 2002 om begravningsverksamheten, Svenska kyrkan och statlig hjälp vid betalning av avgift till trossamfund.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Motioner om trossamfund (KU20)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Avslag på motionerna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0961</idno>
+              <title>2003-02-19</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">61</biblScope>
+              <note type="display-reference">2003-02-19</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0961</idno>
+              <title>2003-02-19</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">61</biblScope>
+              <note type="display-reference">2003-02-19</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02K260</idno>
+              <title>Begravningsavgift</title>
+              <title type="sub">av Leif Björnlod (MP)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">K260</biblScope>
+              <note type="display-reference">motion 2002/03:K260 Begravningsavgift</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02K271</idno>
+              <title>Svenska kyrkans skiljande från staten</title>
+              <title type="sub">av Gudrun Schyman m.fl. (V)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">K271</biblScope>
+              <note type="display-reference">motion 2002/03:K271 Svenska kyrkans skiljande från staten</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02K293</idno>
+              <title>Kommunalisering av begravningsväsendet</title>
+              <title type="sub">av Torsten Lindström (KD)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">K293</biblScope>
+              <note type="display-reference">motion 2002/03:K293 Kommunalisering av begravningsväsendet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02K309</idno>
+              <title>Rättssäker debitering och uppbörd av avgifter till trossamfund</title>
+              <title type="sub">av Allan Widman och Ulf Nilsson (FP)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">K309</biblScope>
+              <note type="display-reference">motion 2002/03:K309 Rättssäker debitering och uppbörd av avgifter till trossamfund</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02K414</idno>
+              <title>Individuellt rättsskydd vid uppbördshjälp till registrerade trossamfund och jämställdhet mellan religiösa och andra föreningar</title>
+              <title type="sub">av Tasso Stafilidis (V)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">K414</biblScope>
+              <note type="display-reference">motion 2002/03:K414 Individuellt rättsskydd vid uppbördshjälp till registrerade trossamfund och jämställdhet mellan religiösa och andra föreningar</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2003-02-12">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2003-02-12">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2003-02-12">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2003-02-12">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2003-02-11">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2003-02-11">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2003-02-11">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-02-04">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-02-04">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-01-21">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2003-02-19">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2003-02-19">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2003-02-19">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2003-02-19">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2003-02-17">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2003-02-14">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2003-02-14">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Konstitutionsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2002/03:KU20
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Frågor beträffande trossamfund
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I detta betänkande behandlas sex motionsyrkanden
+            från den allmänna motionstiden rörande begravningsverksamheten,
+            Svenska kyrkan och statlig hjälp vid betalning av avgift till
+            trossamfund. Samtliga motioner avstyrks med hänvisning till bl.a.
+            tidigare ställningstaganden. I betänkandet finns fem reservationer.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Begravningsverksamheten
+            Riksdagen avslår motionerna 2002/03:K260 och 2002/03:K293. Reservation
+            1 (v) Reservation 2 (mp) 2. Svenska kyrkan Riksdagen avslår motion
+            2002/03:K271. Reservation 3 (v, mp) 3. Statlig medverkan vid uppbörd
+            av avgift till trossamfund Riksdagen avslår motionerna 2002/03:K309
+            och 2002/03:K414 yrkandena 1 och 2. Reservation 4 (v, mp) Reservation
+            5 (fp) Stockholm den 11 februari 2003 På konstitutionsutskottets
+            vägnar Gunnar Hökmark Följande ledamöter har deltagit i beslutet:
+            Gunnar Hökmark (m), Göran Magnusson (s), Barbro Hietala Nordlund
+            (s), Helena Bargholtz (fp), Pär Axel Sahlberg (s), Mats Einarsson
+            (v), Mats Berglind (s), Henrik S Järrel (m), Anders Bengtsson
+            (s), Kerstin Lundgren (c), Helene Petersson (s), Nils Fredrik
+            Aurelius (m), Billy Gustafsson (s), Gustav Fridolin (mp), Inger
+            Jarl Beck (s), Liselott Hagberg (fp) och Tuve Skånberg (kd).
+          </p>
+          <p>
+            2002/03 KU20
+          </p>
+          <p>
+            Utskottets överväganden Begravningsverksamheten Utskottets förslag
+            i korthet Utskottet avstyrker med hänvisning till tidigare ställningstaganden
+            motioner rörande ändrat huvudmannaskap för begravningsverksamheten
+            och ändrad utformning av begravningsavgiften. Jämför reservationerna
+            1 och 2. Gällande bestämmelser Enligt 2 kap. 1 § begravningslagen
+            (1990:1144) skall allmänna begravningsplatser med ett tillräckligt
+            antal gravplatser och andra gravanläggningar av allmänt förekommande
+            slag anordnas och hållas av de territoriella församlingarna inom
+            Svenska kyrkan. Regeringen får för särskilda fall besluta att
+            en kommun i stället skall anordna och hålla allmänna begravningsplatser
+            för dem som är folkbokförda inom kommunen. I 1995 års principbeslut
+            slogs fast att Svenska kyrkan skall behålla huvudmannaskapet för
+            den helt övervägande delen av begravningsverksamheten. Enligt
+            bestämmelserna i 9 kap. skall alla som är folkbokförda i Sverige
+            betala en begravningsavgift för att täcka kostnaderna för begravningsverksamheten.
+            Denna avgift skall vara inkomstrelaterad och grundas på en särredovisning
+            av begravningsverksamhetens intäkter och kostnader. Regeringen
+            eller den myndighet som regeringen bestämmer föreskriver på förslag
+            av huvudmannen den avgiftssats enligt vilken de som inte tillhör
+            Svenska kyrkan skall betala begravningsavgift. Huvudmannen fastställer
+            avgiftssats för dem som tillhör Svenska kyrkan. I de fall en kommun
+            är huvudman fastställer kommunen dock alltid avgiftssatsen. Avgiften
+            betalas till den som är huvudman för begravningsverksamheten på
+            folkbokföringsorten. Av propositionen 1998/99:38 Staten och trossamfunden
+            - begravningsverksamheten, kulturminnena, personalen, avgiftsbetalningen,
+            m.m. (s. 109) framgår att en utgångspunkt för den nuvarande regleringen
+            är att kostnaderna för begravningsverksamheten, liksom enligt
+            tidigare ordning, skall tas ut av alla skattskyldiga i förhållande
+            till inkomsten och enligt likformiga grunder. En annan utgångspunkt
+            för förslaget rörande finansieringen av begravningsverksamheten
+            är att enligt 1995 års principbeslut skall de som tillhör Svenska
+            kyrkan betala sina kostnader via kyrkoavgiften. I propositionen
+            diskuterades även frågan hur de som inte tillhör Svenska kyrkan
+            och de som bor i en kommun som är huvudman för begravningsverksamheten
+            skall betala sin del av kostnaderna. Därvid anfördes bl.a. följande
+            (a. prop. s. 109). Principerna om att alla människor skall bidra
+            till begravningsverksamheten på ett likformigt sätt i förhållande
+            till sin inkomst leder enligt regeringens uppfattning till att
+            verksamheten bör finansieras genom en särskild avgift, som betalas
+            av alla och som i hanteringshänseende behandlas som en skatt.
+            För att markera att alla bidrar till verksamheten på samma villkor
+            bör den finansieras genom en sådan avgift även i de fall en kommun
+            är huvudman. Denna ordning med en särskild begravningsavgift utgör
+            inte något hinder mot att de som tillhör Svenska kyrkan betalar
+            in sin avgift via kyrkoavgiften när en församling är huvudman.
+            Vidare framhölls i propositionen att den som inte tillhör Svenska
+            kyrkan, men är folkbokförd på en plats där en församling är huvudman
+            för begravningsverksamheten, bör betala begravningsavgift enligt
+            samma grunder som gäller för de tillhöriga som bor inom samma
+            huvudmans förvaltningsområde. I propositionen anfördes även att
+            regeringen hade övervägt möjligheten att något annat organ än
+            församlingen i sådana fall skulle fastställa avgiften för den
+            som inte tillhör Svenska kyrkan. I denna del hänvisades emellertid
+            till förslaget att det endast skulle finnas en huvudman för begravningsverksamheten
+            inom ett geografiskt område. Detta innebär enligt propositionen
+            att huvudmannen får ett totalansvar för denna verksamhet. Vidare
+            anfördes följande (s. 109 f.). Det är därmed i praktiken inte
+            tänkbart med någon annan ordning än att detta ansvar även får
+            omfatta det fulla ekonomiska ansvaret för verksamheten genom budgetering
+            och långsiktig ekonomisk planering. Till ett sådant ekonomiskt
+            ansvar hör också att förfoga över finansieringen av kostnaderna.
+            Enligt regeringens uppfattning måste det därför överlåtas till
+            varje huvudman att inom sitt förvaltningsområde besluta om storleken
+            på den avgift till täckande av verksamhetens kostnader som skall
+            betalas av samtliga som är folkbokförda inom området. När någon
+            av Svenska kyrkans församlingar är huvudman för begravningsverksamheten
+            kommer församlingen således att fastställa begravningsavgiften
+            även för dem som inte tillhör Svenska kyrkan. Det är nödvändigt
+            att dessa personer i sådana fall har möjlighet att förvissa sig
+            om att de betalar lika stor avgift till begravningsverksamheten
+            som de tillhöriga och att församlingens avgiftsintäkter oavkortat
+            används för begravningsverksamheten. Av denna anledning bör begravningsverksamheten
+            hållas skild från övrig verksamhet och dess intäkter och kostnader
+            särredovisas. Detta bör framgå av begravningslagen ... Regeringen
+            finner att det bör vara en uppgift för huvudmännen att själva
+            utforma en särredovisning av begravningsverksamhetens intäkter
+            och kostnader som ger ett rättvisande underlag för fastställande
+            av begravningsavgiften ... Den tillsynsverksamhet som länsstyrelserna
+            utövar bör utgöra en tillräcklig säkerhet för att särkostnadsredovisningarna
+            uppfyller de krav som det är rimligt att ställa på dem. Av likställighetsskäl
+            bör en särredovisning av begravningsverksamhetens intäkter och
+            kostnader gälla även när en kommun är huvudman. Vid riksdagsbehandlingen
+            föreslog konstitutionsutskottet med hänsyn till normgivningsreglerna
+            i regeringsformen en ändring i regeringens förslag. Utskottets
+            förslag innebar att en statlig myndighet skall föreskriva avgiftssatserna
+            för dem som inte tillhör Svenska kyrkan (bet. 1998/99:KU18). Riksdagen
+            följde utskottet (rskr. 1998/99:176). Enligt bestämmelserna i
+            10 kap. begravningslagen skall länsstyrelsen förordna ombud med
+            uppgift att granska hur församlingarna tar till vara de personers
+            intressen som inte tillhör Svenska kyrkan. Ombudet har rätt att
+            få tillgång till samtliga handlingar som rör begravningsverksamheten
+            och att närvara, ställa frågor och göra påpekanden vid sammanträden
+            i församlingen då frågor om verksamheten behandlas. Till ombudens
+            uppgifter hör bl.a. att kontrollera att samråd sker med berörda
+            grupper i samband med anläggning, utvidgning eller väsentlig ändring
+            av begravningsplatser samt att underlaget för fastställande av
+            begravningsavgiften är rättvisande. Om anmärkning kan riktas mot
+            förvaltningen skall ombudet underrätta länsstyrelsen om detta.
+            Begravningsavgiften skall täcka de kostnader som huvudmannen har
+            för att sköta verksamheten enligt bestämmelserna i begravningslagen.
+            Det betyder att kostnader för åtgärder som omfattas av begreppet
+            begravningsverksamhet helt skall täckas av begravningsavgiften.
+            Detta innebär i sin tur att dödsboet inte skall debiteras några
+            kostnader när det tar i anspråk de tjänster som ingår i begravningsverksamheten
+            (a. prop. s. 113). I 9 kap. 6 § begravningslagen preciseras vilka
+            tjänster som innefattas i begreppet begravningsverksamhet. Huvudmannen
+            för det förvaltningsområde där den avlidne var folkbokförd skall
+            utan kostnad för dödsboet tillhandahålla · gravplats eller motsvarande
+            på allmän begravningsplats under en tid av 25 år, · · gravsättning
+            inklusive gravöppning, återfyllning och iordningställande av öppnad
+            grav, · · transporter från det huvudmannen övertagit ansvaret
+            för stoftet till dess att gravsättning har skett, med undantag
+            av transport för gravsättning utanför huvudmannens förvaltningsområde,
+            om inte transporten beror på avtal om tillhandahållande av särskilda
+            gravplatser, · · kremering, · · lokal för förvaring och visning
+            av stoftet, samt · · lokal för begravningsceremoni utan religiösa
+            symboler. · Motioner I motion K293 av Torsten Lindström (kd) föreslås
+            att riksdagen begär att regeringen lägger fram förslag till ändring
+            av begravningslagen så att begravningsväsendet övergår till ett
+            primärkommunalt huvudmannaskap. I motion K260 av Leif Björnlod
+            (mp) föreslås att riksdagen begär att regeringen tillsätter en
+            utredning för att se över huvudmannaskapet för begravningsverksamheten
+            och begravningsavgiften samt för att utröna hur ett system kan
+            utformas för att göra det möjligt att avge viljeyttring vad gäller
+            begravningsförfarande m.m. Motionären anför att den avgiftsskyldige
+            under sitt yrkesverksamma liv hinner betala in en ansenlig summa
+            till begravningsverksamheten. Därför ifrågasätter motionären om
+            den samlade summan korresponderar med de kostnader den enskilde
+            efter döden medför för aktuell huvudman, exempelvis i de fall
+            då den enskilde önskar bli kremerad och få sin aska spridd t.ex.
+            i havet eller på en del av en kyrkogård. Motionären anser vidare
+            att varje religiöst samfund som erbjuder begravningsplats och
+            skötsel/service i anledning av detta självt bör bekosta verksamheten
+            genom en avgift som tas ut av samfundets medlemmar. Frågan bör
+            utredas närmare i syfte att åstadkomma en tros- och åskådningsneutral
+            reglering av huvudmannaskap för begravningsverksamhet samt i syfte
+            att tillse att den som avser att begagna sig av en viss begravningsform
+            och därtill hörande skötsel/service erlägger en proportionerlig
+            avgift för densamma. Tidigare riksdagsbehandling Vid riksdagsbehandlingen
+            av förslaget till de nuvarande bestämmelserna i begravningslagen
+            om huvudmannaskapet för och finansieringen av begravningsverksamheten
+            (prop. 1998/99:38) avstyrkte konstitutionsutskottet ett flertal
+            följdmotioner, vilka vände sig mot den föreslagna ordningen för
+            huvudmannaskapet för begravningsverksamheten (bet. 1998/99:KU18).
+            Utskottet uttalade därvid att övervägande skäl talar för att församlingarna
+            behåller ansvaret för den verksamhet de historiskt sett haft ansvaret
+            för. Vidare anförde utskottet att förslaget att församlingarna
+            skall behålla huvudmanna-skapet för begravningsverksamheten är
+            en väsentlig del av den samförståndslösning av kyrka-stat-frågan
+            som eftersträvats sedan länge. Vidare yttrade utskottet att starka
+            skäl talar för att det bara bör finnas en huvudman inom varje
+            förvaltningsområde. Utskottet anförde att det finns ett starkt
+            behov av att en huvudman har ett totalansvar för samtliga som
+            är folkbokförda inom området och att huvudmannen kan räkna med
+            dem som underlag vid finansiering av verksamheten. Dessutom hänvisade
+            utskottet till att regeringen framhållit att det också finns samhällsekonomiska
+            skäl för att verksamheten hålls samlad hos en huvudman och att
+            förändringar som medför ökade kostnader undviks. Utskottets ställningstagande
+            föranledde en gemensam reservation (m, kd, fp) till förmån för
+            ett motionsyrkande om att riksdagen skulle avslå regeringens lagförslag
+            såvitt avsåg transportkostnader. Utskottets ställningstagande
+            I fråga om begravningsverksamheten vidhåller utskottet tidigare
+            ställningstaganden beträffande såväl huvudmannaskapet som utformningen
+            av begravningsavgiften. Mot den bakgrunden avstyrker utskottet
+            motionerna K293 (kd) och K260 (mp). Svenska kyrkan Utskottets
+            förslag i korthet Utskottet avstyrker med hänvisning till tidigare
+            ställningstagande ett motionsyrkande om förändrade relationer
+            mellan staten och Svenska kyrkan. Jämför reservation 3. Bakgrund
+            Riksdagen fattade år 1995 ett principbeslut om ändrade relationer
+            mellan staten och Svenska kyrkan (prop. 1995/96:80, bet. 1995/96:KU12).
+            Principbeslutet följdes upp under följande år genom en serie beslut.
+            Av dessa får här anses vara av främst betydelse de ändringar i
+            regeringsformen och tryckfrihetsförordningen samt de lagar om
+            trossamfund, om Svenska kyrkan och om införande av lagen om Svenska
+            kyrkan som beslöts år 1998 (prop. 1997/98:116, bet. 1997/98:KU20,
+            1998/99:KU5). Betydelsefulla ändringar i gällande lagstiftning,
+            som gäller begravningsverksamheten, kulturminnena, personal och
+            avgiftsbetalning, beslöts också år 1999 (prop. 1998/99:38, bet.
+            1998/99:KU18). Samma år fattades beslut om statens stöd till trossamfund
+            (prop. 1998/99:124, bet. 1999/2000:KU5). I lagen (1998:1591) om
+            Svenska kyrkan finns föreskrifter bl.a. om Svenska kyrkan som
+            trossamfund, om dess organisatoriska uppbyggnad, om kyrkoavgiften,
+            om kyrklig egendom, om rätten att ta del av kyrkans handlingar
+            och om kyrkans arkiv. I lagen (1998:1593) om trossamfund finns
+            bestämmelser om bl.a. registrering av trossamfund och om statlig
+            hjälp med avgifter till registrerade tros-samfund. Bestämmelser
+            om statligt stöd finns också i lagen (1999:932) om stöd till trossamfund.
+            De ändringar som år 1999 gjordes i begravningslagen (1990:1144)
+            innebar inte någon ändring av Svenska kyrkans huvudmannaskap för
+            den helt övervägande delen av begravningsverksamheten. Huvudman
+            för begravningsverksamheten är den församling eller kyrkliga samfällighet
+            inom Svenska kyrkan eller - efter särskilt beslut av regeringen
+            - den kommun som är skyldig att anordna och hålla allmänna begravningsplatser
+            för dem som är folkbokförda inom ett visst geografiskt avgränsat
+            förvaltningsområde. Som huvudman tillhandahåller församlingarna
+            och samfälligheterna särskilda gravplatser för dem som inte tillhör
+            något kristet trossamfund. Lagändringarna innebar en förstärkt
+            tillsyn genom ombud, som tillsätts av länsstyrelsen, och särskilda
+            regler om samråd. Begravningsavgiften skall fastställas på grundval
+            av särkostnadsredovisning av verksamhetens intäkter och kostnader
+            för att säkerställa att de medel som inflyter från dem som inte
+            tillhör Svenska kyrkan används enbart för begravningsverksamheten
+            och inte kommer kyrkans religiösa verksamhet till del. En skyldighet
+            infördes också för församlingarna och samfälligheterna att samråda
+            med företrädare för andra trossamfund och andra berörda parter
+            i frågor som gäller anläggning, utvidgning eller ändring av en
+            befintlig begravningsplats. Motion I motion K271 av Gudrun Schyman
+            m.fl. (v) föreslås att riksdagen begär att regeringen lägger fram
+            förslag till ändring av berörda lagar i syfte att åstadkomma ett
+            slutligt skiljande av Svenska kyrkan från staten i enlighet med
+            vad i motionen anförs. Motionärerna framhåller att ännu efter
+            alla de konkreta lagändringar som skiljandet krävde har Svenska
+            kyrkan en särställning och de formella banden till staten är inte
+            helt avskurna. Som exempel nämns att det i en särskild lag om
+            Svenska kyrkan sägs bl.a. att denna organisation är ett "evangelisk-lutherskt
+            trossamfund" och "en öppen folkkyrka", att Svenska kyrkan i begravningslagen
+            ges en särställning som huvudman för begravningsverksamheten,
+            även för begravningsplatser för andra trosriktningar och för icke-troende,
+            och att Svenska kyrkan i lagen om trossamfund ges rätt till hjälp
+            av staten med indrivning av medlemsavgifter. Motionärerna anser
+            att det inte finns några hållbara argument för att ge ett religiöst
+            samfund en sådan särställning som Svenska kyrkan har. Tidigare
+            riksdagsbehandling Vid riksmötet 2000/01 avstyrkte konstitutionsutskottet
+            en motion (v) av samma innebörd som den nu aktuella motionen.
+            Utskottet konstaterade att ändringarna i relationerna mellan staten
+            och Svenska kyrkan, som beslutades efter ett omfattande utrednings-
+            och förhandlingsarbete, hade varit i kraft under drygt ett år.
+            Vidare anförde utskottet att det inte fann skäl att förorda en
+            ändring eller omprövning av relationerna (bet. 2000/01:KU11).
+            Utskottets ställningstagande föranledde en gemensam reservation
+            (v, mp). Utskottets ställningstagande Utskottet vidhåller sitt
+            tidigare ställningstagande och avstyrker därför motion K271 (v).
+            Statlig medverkan vid uppbörd av avgift till trossamfund Utskottets
+            förslag i korthet Utskottet avstyrker med hänvisning till tidigare
+            ställningstagande ett motionsyrkande om utvärdering av lagen om
+            avgift till registrerat trossamfund och om behovet av att jämställa
+            religiösa föreningar med andra privata föreningar också vad gäller
+            sättet att finansiera verksamheten. Vidare avstyrker utskottet
+            två motionsyrkanden om förbättrat rättsskydd för den enskilde
+            mot trossamfund som får hjälp av staten med att ta in avgifter.
+            Utskottet betonar dock vikten av att den redovisning av medlemsuppgifter
+            som ligger till grund för den statliga hjälpen vid betalning av
+            avgift till trossamfund håller en genomgående hög kvalitet. Jämför
+            reservationerna 4 och 5. Bakgrund Bestämmelser om religionsfrihet
+            finns i regeringsformen och den europeiska konventionen angående
+            skydd för de mänskliga rättigheterna och de grundläggande friheterna.
+            Enligt 2 kap. 2 § regeringsformen är den enskilde gentemot det
+            allmänna skyddad mot tvång att tillhöra något trossamfund. Bestämmelserna
+            i Europakonventionen gäller, enligt den praxis som har utvecklats,
+            till skillnad från regeringsformens föreskrifter inte bara för
+            enskilda personer utan även för religiösa samfund (se prop. 1997/98:116
+            s. 21). Enligt 3 § lagen (1998:1593) om trossamfund är ingen skyldig
+            att tillhöra något trossamfund. Ett avtal eller löfte som strider
+            mot denna bestämmelse är ogiltigt. Bestämmelsen innebär att varje
+            trossamfund måste ge möjlighet för den som vill att utträda ur
+            trossamfundet. Om ett trossamfund enligt sina stadgar eller liknande
+            grundregler har en regel om att utträde inte kan ske, är den regeln
+            således utan verkan. Bestämmelsen hindrar dock inte att trossamfundet
+            föreskriver en viss kortare tid innan utträde beviljas för den
+            som önskar utträde. Inte heller hindrar den att ett trossamfund
+            föreskriver att utträde endast kan ske vid viss tidpunkt varje
+            år (prop. 1997/98:116 s. 108). Enligt 4 § samma lag kan barn som
+            har fyllt 12 år inte inträda i eller utträda ur ett trossamfund
+            utan eget samtycke. Enligt 16 § har Svenska kyrkan rätt till hjälp
+            av staten med bestämmande, debitering och redovisning av avgifter
+            från dem som tillhör Svenska kyrkan samt med att ta in avgifterna.
+            Regeringen kan även, under i lagen närmare angivna förutsättningar,
+            besluta att annat registrerat trossamfund skall få sådan hjälp.
+            Vidare får regeringen besluta att ett trossamfund som har beviljats
+            hjälp inte längre skall få det. Närmare bestämmelser om förfarandet
+            har meddelats i bl.a. lagen (1999:291) om avgift till registrerat
+            trossamfund. Avgift av det aktuella slaget skall tas ut med viss
+            procentsats av den kommunalt beskattningsbara inkomsten. I hanteringshänseende
+            skall avgiften behandlas som en skatt. De uppgifter som behövs
+            för debitering av avgift till trossamfund skall lämnas till Riksskatteverket
+            (RSV) på datamedium av trossamfundet. Uppgifter om tillhöriga/avgiftsskyldiga
+            skall gälla för helt inkomstår och avse förhållandena den 1 november
+            året före inkomståret. Trossamfunden lämnar uppgift om antingen
+            en enhetlig avgiftssats för samfundet eller den avgiftssats som
+            skall gälla för varje individ. Uppgift om avgiftssatser för det
+            följande inkomståret skall lämnas till RSV senast den 3 december.
+            Regeringen eller den myndighet regeringen bestämmer får meddela
+            närmare föreskrifter om hur uppgifter skall lämnas. Enligt 6 §
+            lagen om avgift till registrerat trossamfund krävs samtycke från
+            enskilda som skall betala avgift via skattebetalningssystemet
+            till annat tros- samfund än Svenska kyrkan. Frågan om utformningen
+            av kravet på samtycke har diskuterats i förarbetena till den nyss
+            nämnda lagen. I betänkandet Statlig medverkan vid avgiftsbetalning
+            (SOU 1997:46) lade RSV fram förslag till lagstiftning på området.
+            Verkets förslag innebar att skriftligt samtycke skulle inhämtas
+            från de personer vilkas avgifter skulle uppbäras med skatteförvaltningens
+            hjälp. Enligt förslaget skulle medgivandet omfatta avgiftsskyldighet
+            till trossamfundet och uppbärande av avgiften med hjälp av skatteförvaltningen
+            (se a. bet. s. 20). RSV noterade i sammanhanget att det fanns
+            samfund som i sina stadgar eller motsvarande hade en klart formulerad
+            avgiftsskyldighet för samfundets medlemmar/tillhöriga. Det hade
+            ifrågasatts om det inte skulle räcka med att ändra stadgarna så
+            att de innefattade både avgiftsskyldigheten som sådan och att
+            avgiften skulle tas ut med hjälp av staten. Med hänvisning till
+            uttalanden i utredningsdirektiven (dir. 1995:162 s. 9) framhöll
+            RSV att det ansetts viktigt att de medlemmar som så önskar skall
+            få betala sin avgift på annat sätt än genom skattemyndigheternas
+            försorg. RSV betraktade det som tveksamt om valet enbart skulle
+            kunna göras genom val av samfundstillhörigheten som sådan. Verket
+            angav därvid som sin uppfattning att det i praktiken saknas möjlighet
+            att välja på vilket sätt man vill betala om frågan avgörs av stadgarnas
+            innehåll (a. bet. s. 90). I betänkandet diskuterade vidare RSV
+            möjliga modeller för hur RSV eller Skattemyndigheten (SKM) skall
+            hantera klagomål från enskilda och anförde bl.a. följande (s.
+            98 f.). SKM eller RSV bör vid misstanke om fel först kontrollera
+            att den aktuella personen verkligen finns med bland de uppgifter
+            som samfundet lämnat. Om personen inte finns med eller RSV/SKM
+            har begått andra fel måste dessa fel rättas till. Om uppgifterna
+            i skatteregistret stämmer överens med de uppgifter som trossamfundet
+            lämnat finns flera alternativ till hantering. Alt 1. Uppgift om
+            personen finns med på filen från trossamfundet. SKM tar dock den
+            enskildes påstående om att han/hon inte är avgiftsskyldig för
+            gott och tar bort uppgiften ur registret. Alternativet är rättssäkert
+            för den enskilde. Det berövar däremot utan vidare trossamfundet
+            den uppbördshjälp som det fått rätt till. Alt. 2. Skatteförvaltningen
+            befattar sig överhuvudtaget inte med frågor som rör avgift till
+            trossamfund. Den enskilde hänvisas till samfundet och/eller till
+            allmän domstol. Endast samfundets rättelse eller domstols dom
+            godtas som grund för ändring i skatteregistret. Skatteförvaltningen
+            skulle helst inte vilja hantera frågor om avgift till trossamfund
+            eftersom avgiften är av privaträttslig natur. Frågor om medlemskap
+            i en förening bör inte hanteras i en skatteprocess utan handläggas
+            av allmän domstol. Alternativet är dock tveksamt från rättssäkerhetssynpunkt,
+            särskilt med tanke på att avgiften behandlas som skatt och därmed
+            kan lämnas för indrivning till KFM[1]. Alt. 3. SKM begär från
+            samfundet en kopia av utredning om tillhörighet (för Svenska kyrkans
+            del) eller ett skriftligt medgivande från den enskilde daterat
+            senast den 1 november året före det inkomstår oenigheten gäller.
+            Om samfundet kan visa handlingen godtar SKM detta och ändrar inte
+            i registret utan hänvisar den enskilde till samfundet. Om bevis/medgivande
+            inte kan visas upp tar SKM bort uppgifterna om personens avgiftsskyldighet.
+            SKM blandar sig i förhållandet mellan samfundet och den enskilde
+            men beaktar bara den ena partens uppgifter. Alt 4. SKM begär från
+            samfundet en kopia av utredning om tillhörighet (för Svenska kyrkans
+            del) eller ett skriftligt medgivande från den enskilde daterat
+            senast den 1 november året före det inkomstår oenigheten gäller.
+            Om samfundet kan visa handlingen ger SKM den enskilde möjlighet
+            att visa upp ett bevis om att betalningsskyldighet till samfundet
+            inte fanns vid denna tidpunkt. Om den enskilde kan visa denna
+            handling godtar SKM den enskildes uppgifter. Detta alternativ
+            stämmer i princip överens med dagens hantering av frågor om tillhörighet
+            till Svenska kyrkan. Alternativet förutsätter att Svenska kyrkan
+            vid utträde ur kyrkan och övriga trossamfund när någon återkallar
+            sitt medgivande utfärdar bevis om att den enskilde inte längre
+            är betalningsskyldig till samfundet. Av proposition 1998/99:38
+            Staten och trossamfunden - begravningsverksamheten, kulturminnena,
+            personalen, avgiftsbetalningen, m.m. framgår att ett antal remissinstanser
+            ansåg att undantag från krav på skriftligt medgivande till avgiftsbetalning
+            borde kunna göras (s. 229 f.). I propositionen (s. 229 f.) anfördes
+            att det borde anses tillräckligt om tros-samfundets stadgar anger
+            att avgiften får tas ut via skattebetalningssystemet. Enligt propositionen
+            fick medlemmarna genom sitt medlemskap i trossamfundet anses ha
+            samtyckt både till att betala avgift och att göra detta via skattebetalningssystemet.
+            Om trossamfundets stadgar inte innehöll någon regel om hur avgiften
+            skall betalas måste medlemmarnas samtycke till att betala via
+            skattebetalningssystemet hämtas in på annat sätt. Ett sådant samtycke
+            torde i princip kunna hämtas in både muntligt och skriftligt.
+            Med hänsyn till den enskilde borde ett sådant samtycke dock vara
+            skriftligt. Även praktiska skäl ansågs tala för en sådan lösning.
+            Om trossamfundets stadgar saknade regler för såväl avgiftsskyldighet
+            som sättet att betala avgift borde det skriftliga samtycket omfatta
+            båda dessa frågor. Vidare borde enligt propositionen regeringen
+            ges möjlighet att i samband med beslutet om statlig hjälp med
+            att ta in avgifter bedöma vilken form av samtycke som krävs i
+            det enskilda fallet. Beträffande konsekvenserna av de olika formerna
+            av samtycke uttalades i propositionen följande (s. 230 f.). När
+            de enskildas skriftliga samtycke krävs bör trossamfundet, med
+            den föreslagna ordningen, hämta in sådant från var och en som
+            skall debiteras avgift. Samtycket bör gälla tills vidare och dokumentationen
+            om det förvaras hos samfundet. Om samtycke skall ges "via stadgarna"
+            bör trossamfundet svara för att medlemmarnas skyldigheter klart
+            kommer till uttryck i stadgarna och att informera medlemmarna
+            om innebörden av avgiftsbetalning via skattebetalningssystemet.
+            I de fall trossamfundet och den enskilde har olika uppfattning
+            om dennes medlemskap/avgiftsskyldighet kan ett samtycke via stadgarna
+            möjligen sägas ge den enskilde en något svagare ställning gentemot
+            samfundet än ett skriftligt medgivande. Exempelvis torde ett skriftligt
+            medgivande som inte återkallats kunna ses som ett bevis på att
+            avgiftsskyldighet finns och från vilken tidpunkt, medan avgiftsskyldighet
+            som bygger på samtycke via stadgarna kan vara svårare att konstatera,
+            inte minst vad gäller tidpunkten för när avgiftsskyldigheten skall
+            anses ha inträtt. Här kan nämnas att avgiftsskyldighet enligt
+            regeringens förslag kommer att gälla för helt inkomstår. Förhållandena
+            den 1 november året före inkomståret bör, som tidigare nämnts,
+            bestämma avgiftsskyldigheten för hela det kommande inkomståret.
+            Den som detta datum är registrerad som medlem/tillhörig/betjänad
+            bör alltså vara skyldig att betala avgift för hela det kommande
+            året. Propositionens lagförslag i det aktuella sammanhanget innebär
+            att samtycke kan lämnas i form av skriftligt medgivande från den
+            enskilde eller genom att trossamfundets stadgar innehåller en
+            klart uttalad skyldighet för medlemmarna att betala avgift till
+            trossamfundet via skattebetalningssystemet. Propositionens förslag
+            innebär vidare att uppgift om att en person tillhör Svenska kyrkan
+            respektive är skyldig att betala avgift till annat trossamfund
+            skall få registreras i skatteregistret samt att trossamfundet
+            skall ersätta staten för skadestånd som har betalats på grund
+            av en oriktig uppgift som har lämnats av trossamfundet. I fråga
+            om registeransvarigs skadeståndsskyldighet hänvisades därvid till
+            regleringen av skadeståndsansvaret i 48 § personuppgiftslagen
+            (a. prop. s. 232 ff.). Av paragrafen följer bl.a. att den personuppgiftsansvarige
+            skall ersätta den registrerade för skada och kränkning av den
+            personliga integriteten som en behandling av personuppgifter i
+            strid med denna lag har orsakat. Det bör noteras att bestämmelserna
+            i paragrafen är sådana specialbestämmelser om skadestånd som tar
+            över de allmänna skadeståndsreglerna i skadeståndslagen. I den
+            utsträckning en ersättningsfråga inte berörs i paragrafen - t.ex.
+            frågan om hur ersättningen för en person- eller sakskada skall
+            beräknas - tillämpas de allmänna reglerna i skadeståndslagen.
+            Vidare bör noteras att paragrafen bara gäller vid behandling av
+            personuppgifter i strid med bestämmelserna i personuppgiftslagen.
+            Detta innebär bl.a. att skadestånd enligt paragrafen inte kan
+            utgå vid brott mot motsvarande bestämmelser i s.k. särskilda registerförfattningar,
+            som enligt 2 § personuppgiftslagen gäller framför denna lag (se
+            SOU 1997:39 s. 436 f.). Vid riksdagsbehandlingen tillstyrkte konstitutionsutskottet
+            regeringens förslag i nu beskrivna delar. Vidare avstyrkte utskottet
+            en följdmotion till propositionen som bl.a. gick ut på att varken
+            Svenska kyrkan eller annat trossamfund skulle bistås med statlig
+            uppbördshjälp (bet. 1998/99:KU18). Utskottet hänvisade till att
+            principbeslutet år 1995 om ändrade relationer mellan staten och
+            Svenska kyrkan innebär att staten skall biträda Svenska kyrkan
+            - eller annat trossamfund efter beslut av regeringen - med uppbörden
+            av avgift. Skälen för detta var att det för att Svenska kyrkan
+            skall upprätthålla en demokratiskt uppbyggd rikstäckande verksamhet
+            är en förutsättning att förändringen av relationerna mellan staten
+            och kyrkan inte innebär någon drastisk försämring av kyrkans ekonomi.
+            Genom principbeslutet har slagits fast att kyrkoavgiften kostnadsfritt
+            för Svenska kyrkan skall tas ut tillsammans med och på samma sätt
+            som inkomstskatten under förutsättning att hjälpen kan inordnas
+            i gällande uppbördssystem. Av jämställdhetsskäl bör enligt principbeslutet
+            motsvarande erbjudande kunna riktas även till andra trossamfund.
+            Utskottets ställningstagande föranledde en gemensam reservation
+            (v, mp). Vid riksmötet 1999/2000 avstyrkte konstitutionsutskottet
+            med hänvisning till tidigare ställningstaganden en motion i vilken
+            begärdes att Svenska kyrkan och andra trossamfund själva skall
+            ansvara för uppbörden av avgifter (bet. 1999/2000:KU5). Utskottets
+            ställningstagande föranledde en reservation (mp). Motioner I motion
+            K414 av Tasso Stafilidis (v) föreslås dels att riksdagen tillkännager
+            för regeringen vad i motionen anförs om det akuta behovet av att
+            förbättra rättsskyddet för den enskilde mot registrerade trossamfund
+            som får hjälp av staten med beräkning, debitering och redovisning
+            av avgifter och med att ta in avgifterna (yrkande 1), dels att
+            riksdagen tillkännager för regeringen som sin mening vad i motionen
+            anförs om det långsiktiga behovet av att utvärdera lagen om avgift
+            till registrerat trossamfund och att i framtiden jämställa religiösa
+            föreningar med andra privata föreningar också vad gäller sättet
+            att finansiera verksamheten (yrkande 2). Enligt motionären finns
+            det ett akut behov av att förbättra skyddet för enskilda mot obefogade
+            krav från registrerade trossamfund. Detta gäller t.ex. i fall
+            då det registrerade trossamfundet och den enskilde har olika uppfattningar
+            i frågan huruvida den enskilde alls är medlem i det registrerade
+            trossamfundet. Motionären anser att lagen bör ändras så att skattemyndigheterna
+            skall ta den enskildes uppgifter om avgiftsskyldighet för goda
+            och hänvisa det registrerade trossamfundet till den vanliga rättsliga
+            processen för att få den enskildes betalningsskyldighet fastställd.
+            På längre sikt bör lagen utvärderas med sikte på att jämställa
+            religiösa föreningar med andra föreningar som verkar inom det
+            svenska samhället också vad gäller finansieringsvägar. I motion
+            K309 av Allan Widman och Ulf Nilsson (fp) anförs att endast det
+            första alternativet som RSV redovisat för hanteringen av klagomål
+            från enskilda kan vara godtagbart. Alternativet innebär att skattemyndigheterna
+            skall ta den enskildes uppgifter om avgiftsskyldighet för goda
+            och hänvisa det registrerade trossamfundet till den vanliga rättsliga
+            processen för att få den enskildes betalningsskyldighet fastställd.
+            Skriftligt svar från finansminister Bosse Ringholm Finansminister
+            Bosse Ringholm har i skriftligt svar den 16 oktober 2002 besvarat
+            en fråga av Tasso Stafilidis (v) om vad statsrådet avser att göra
+            för att säkerställa att en enskild inte ska drabbas av avgifter
+            till föreningar som denne inte är medlem i, eller som drivs in
+            genom statlig uppbörd utan att personen har samtyckt till vare
+            sig avgiften eller uppbörden. Bosse Ringholm har i svaret anfört
+            bl.a. att regeringen i sina beslut om att medge uppbördshjälp
+            har angett att den förutsätter att trossamfundet ger medlemmarna
+            information om vad det innebär för den enskilde att avgiften tas
+            ut via skattebetalningssystemet. Systemet för uppbörd av avgifter
+            från trossamfund fungerar på det sättet att ett trossamfund som
+            beviljats uppbördshjälp överlämnar en datafil med uppgift på de
+            medlemmar som ska betala avgift genom statens medverkan. Uppgifterna
+            skall gälla för visst inkomstår och endast avse personer som den
+            1 november året före det inkomstår som avgiften avser har eller
+            anses ha samtyckt till att betala avgift till trossamfundet. Avgiften
+            ingår i medlemmens preliminära och slutliga skatt. Bosse Ringholm
+            har vidare i svaret anfört att frågan om former för medlemskap,
+            liksom former för samtycke till att avgift tas in med statlig
+            hjälp, är en fråga mellan den enskilde och trossamfundet. Den
+            enskilde ska alltså vända sig till trossamfundet om han eller
+            hon anser att medgivande inte har lämnats eller att han eller
+            hon inte är medlem i samfundet. Om ett trossamfund skickar in
+            en rättelse till RSV på grund av att den fil som tidigare har
+            skickats in visat sig innehålla personer som inte samtyckt till
+            att betala avgift, räknas avgiften om för ifrågavarande personer
+            och återbetalas i förekommande fall på det sätt som gäller för
+            återbetalning av skatt. Bosse Ringholm har slutligen uppgett att
+            han inte anser att det finns skäl att vidta några åtgärder i detta
+            avseende. Skrivelse från Riksskatteverket (RSV) Av en skrivelse
+            från RSV, som inkommit på utskottets begäran, framgår att sju
+            trossamfund har beviljats hjälp med att ta in avgifter via skattebetalningssystemet
+            fr.o.m. år 2001. Av dessa samfund använder sig endast Romersk-katolska
+            kyrkan av "samtycke via stadgarna". Denna form av samtycke innebär
+            att medlemmarnas skyldighet att betala avgift via skattebetalningssystemet
+            är inskriven i samfundets stadgar. De övriga sex samfunden hämtar
+            in skriftligt samtycke till avgiftsbetalningen från sina medlemmar.
+            Om en person meddelar SKM att han eller hon inte anser sig vara
+            avgiftsskyldig, trots att personen i fråga finns med i den datafil
+            med uppgifter om avgiftsskyldiga som respektive samfund lämnar
+            in till RSV, uppmanas personen att kontakta samfundet för eventuell
+            rättelse. Ifall trossamfundet bedömer att personen inte är avgiftsskyldig
+            skickar samfundet därefter en rättelsefil till RSV som ser till
+            att uppgiften om avgiftsskyldighet tas bort. Såväl RSV som skattemyndigheterna
+            har tagit emot samtal och brev från personer som anser att de
+            inte är skyldiga att betala avgift och att de inte lämnat samtycke
+            till att betala avgift via skattebetalningssystemet. Klagomålen
+            har nästan uteslutande gällt avgiften till Romersk-katolska kyrkan
+            och den form för samtycke ("samtycke via stadgarna") som samfundet
+            använder. RSV hänvisar i detta sammanhang till sitt yttrande av
+            den 28 augusti 2000 (dnr 7377-00/151) över samfundets ansökan
+            om avgiftshjälp, i vilket verket särskilt framhöll att den information
+            som samfundet dittills hade gett medlemmarna inte var tillräcklig
+            och att samfundet borde åläggas att informera på ett sådant sätt
+            att medlemmarna var helt införstådda med avgiftsskyldigheten och
+            grunderna för den (stadgar och lagstiftning) samt vad det innebär
+            att avgift tas in via skattebetalningssystemet. I yttrandet anförde
+            RSV vidare att regeringen bör följa upp och bedöma om samfundet
+            gett tillräcklig information. De klagande hänvisas, ofta muntligen,
+            till samfundet för eventuell rättelse. Därför finns det inte någon
+            uppgift om antalet kontakter som tagits med RSV och skattemyndigheterna.
+            Antalet rättelser från Romersk-katolska kyrkan uppgår per den
+            27 januari 2003 till 3 874 för inkomståret 2001 och till 5 310
+            för inkomståret 2002. Vissa personer kan dock, enligt RSV, förekomma
+            i rättelserna för flera år. Enligt uppgift till RSV kommer vidare
+            Romersk- katolska kyrkan inom kort att sända ytterligare rättelsefiler
+            som avser inkomståren 2001, 2002 och 2003. Antalet rättelser från
+            övriga trossamfund är enligt RSV försumbart. I åtminstone ett
+            fall har beräkningen av en persons skatt (preliminär skatt inklusive
+            avgift till trossamfund) överklagats till länsrätten, som avslagit
+            begäran om ändring (Länsrättens i Västernorrlands län dom den
+            16 oktober 2002 i mål nr 2736-01). Ytterligare en länsrättsdom
+            har rört en begäran om rättelse av personuppgift i beskattningsdatabasen.
+            Även i detta fall har länsrätten avslagit begäran om ändring (Länsrättens
+            i Stockholms län dom den 20 november 2002 i mål nr 12884-02).
+            Av uppgifter på RSV:s hemsida (www.rsv.se), som avser inkomståret
+            2003, framgår att ca 75 000 personer via skattsedeln betalar avgift
+            till de sju tros-samfund som har beviljats hjälp med att ta in
+            avgifter via skattebetalningssystemet. Antalet personer som på
+            detta sätt betalar avgift till ett trossamfund fördelar sig därvid
+            enligt följande på de olika samfunden: Svenska Missionsförbundet
+            13 500; Romersk-katolska kyrkan 55 000; Svenska Alliansmissionen
+            1 000; Svenska Baptistsamfundet 1 000; Evangeliska Frikyrkan 2
+            000; Frälsningsarmén 1 400; Metodistkyrkan i Sverige 600. Utskottets
+            ställningstagande I motion K414 yrkande 2 begärs ett tillkännagivande
+            för regeringen om det långsiktiga behovet av att utvärdera lagen
+            om avgift till registrerat trossamfund och att i framtiden jämställa
+            religiösa föreningar med andra privata föreningar också vad gäller
+            sättet att finansiera verksamheten. Utskottet, som vidhåller sitt
+            tidigare ställningstagande, avstyrker motionen i denna del. I
+            motionerna K309 och K414 yrkande 1 framförs krav på förbättrat
+            rättsskydd för den enskilde mot registrerade trossamfund som får
+            hjälp av staten med beräkning, debitering och redovisning av avgifter
+            och med att ta in avgifterna. Utskottet vill inledningsvis betona
+            vikten av att de medlemsförteckningar och övriga uppgifter som
+            ligger till grund för den statliga hjälpen vid betalning av avgift
+            till trossamfund håller en genomgående hög kvalitet. För att detta
+            skall kunna uppnås krävs, enligt utskottets mening, att medlemmarna
+            informeras av det registrerade trossamfundet på ett sådant sätt
+            att de är helt införstådda med avgiftsskyldigheten och grunderna
+            för denna samt vad det innebär att avgift tas in via skattebetalningssystemet.
+            De problem som hittills har förekommit i detta avseende måste,
+            i enlighet med principbeslutet år 1995 om ändrade relationer mellan
+            staten och Svenska kyrkan, i första hand avhjälpas av trossamfunden
+            själva. Utskottet utgår från att så nu sker, och att samfundsmedlemmar
+            får tydlig information om avgiftsskyldigheten och grunderna för
+            denna samt om vad det innebär att avgiften tas in via skattebetalningssystemet.
+            Vidare förutsätter utskottet att regeringen, som bestämmer om
+            staten skall biträda trossamfund med uppbörd av avgifter, följer
+            upp och bedömer om tillräckliga åtgärder har vidtagits i nu aktuellt
+            avseende. Vid angivna förhållanden finner utskottet att tillräckliga
+            skäl inte har framkommit för att riksdagen nu skall vidta ytterligare
+            åtgärder. Mot den anförda bakgrunden avstyrks motionerna K309
+            och K414 yrkande 1. **FOOTNOTES** [1]: Kronofogdemyndigheten
+          </p>
+          <p>
+            Reservationer Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer. I rubriken anges inom parentes
+            vilken punkt i utskottets förslag till riksdagsbeslut som behandlas
+            i avsnittet. 1. Begravningsverksamheten (punkt 1) av Mats Einarsson
+            (v). Förslag till riksdagsbeslut Jag anser att utskottets förslag
+            under punkt 1 borde ha följande lydelse: Riksdagen tillkännager
+            för regeringen som sin mening vad som anförs i reservationen.
+            Därmed bifaller riksdagen motion 2002/03:K293 och avslår motion
+            2002/03:K260. Ställningstagande I ett modernt samhälle kan det
+            inte anses vara rimligt att ett enskilt trossamfund, dvs. Svenska
+            kyrkan, tyngs med en uppgift av så allmän och generell natur som
+            den att sköta begravningsväsendet. För att bättre möta de krav
+            religionsfriheten ställer och skapa en principiellt hållbar ordning
+            för en verksamhet som så påtagligt är en uppgift för samhället,
+            anser jag att övervägande skäl talar för att kommunerna tar över
+            huvudmannaskapet. På detta sätt uppnås vidare det ur demokratisk
+            synvinkel högst angelägna syftet att också de personer som inte
+            är medlemmar i Svenska kyrkan - och som således saknar rösträtt
+            i de kyrkliga valen - ges möjlighet att påverka begravningsavgiftens
+            nivå. Regeringen bör därför, som begärs i motionen, lägga fram
+            förslag till ändring i begravningslagen så att begravningsväsendet
+            övergår till primärkommunalt huvudmannaskap. 2. Begravningsverksamheten
+            (punkt 1) av Gustav Fridolin (mp). Förslag till riksdagsbeslut
+            Jag anser att utskottets förslag under punkt 1 borde ha följande
+            lydelse: Riksdagen tillkännager för regeringen som sin mening
+            vad som anförs i reservationen. Därmed bifaller riksdagen motionerna
+            2002/03:K260 och 2002/03:K293. Ställningstagande I ett modernt
+            samhälle kan det inte anses vara rimligt att ett enskilt trossamfund,
+            dvs. Svenska kyrkan, tyngs med en uppgift av så allmän och generell
+            natur som den att sköta begravningsväsendet. För att bättre möta
+            de krav religionsfriheten ställer och skapa en principiellt hållbar
+            ordning för en verksamhet som så påtagligt är en uppgift för samhället,
+            bör därför ansvaret för begravningsväsendet överföras till kommunerna.
+            Detta hindrar givetvis inte att kommunerna, efter eget ställningstagande,
+            i sin tur lägger ut skötseln på entreprenad, exempelvis till en
+            organisation med lång erfarenhet av och hög kompetens på området.
+            Dessa överväganden görs lämpligen av de i allmänna val demokratiskt
+            utsedda företrädarna i kommunerna. På detta sätt uppnås vidare
+            det ur demokratisk synvinkel högst angelägna syftet att också
+            de personer som inte är medlemmar i Svenska kyrkan - och som således
+            saknar rösträtt i de kyrkliga valen - ges möjlighet att påverka
+            begravningsavgiftens nivå. Under sitt yrkesverksamma liv hinner
+            den avgiftsskyldige betala in en ansenlig summa till begravningsverksamheten.
+            Det kan ifrågasättas om den samlade summan korresponderar med
+            de kostnader den enskilde efter döden medför för aktuell huvudman,
+            exempelvis i de fall då den enskilde önskar bli kremerad och få
+            sin aska spridd t.ex. i havet eller på en del av en kyrkogård.
+            Dessa frågor bör utredas närmare i syfte att åstadkomma en tros-
+            och åskådningsneutral reglering av huvudmannaskap för begravningsverksamhet
+            samt i syfte att tillse att den som avser att begagna sig av en
+            viss begravningsform och därtill hörande skötsel/service erlägger
+            en proportionerlig avgift för densamma. Regeringen bör därefter
+            återkomma till riksdagen med sådana förslag till lagändringar
+            som har den inriktning som efterfrågas i motionerna. 3. Svenska
+            kyrkan (punkt 2) av Mats Einarsson (v) och Gustav Fridolin (mp).
+            Förslag till riksdagsbeslut Vi anser att utskottets förslag under
+            punkt 2 borde ha följande lydelse: Riksdagen tillkännager för
+            regeringen som sin mening vad som anförs i reservationen. Därmed
+            bifaller riksdagen motion 2002/03:K271. Ställningstagande Som
+            anförs i motion K271 (v) finns det inte några hållbara argument
+            för att ge ett religiöst samfund en sådan särställning som Svenska
+            kyrkan har även efter det att relationerna mellan kyrkan och staten
+            ändrats fr.o.m. år 2000. Regeringen bör därför, som begärs i motionen,
+            lägga fram förslag till ändring i lagstiftningen som gäller trossamfund
+            och Svenska kyrkan som gör att Svenska kyrkan slutgiltigt skiljs
+            från staten. 4. Statlig medverkan vid uppbörd av avgift till trossamfund
+            (punkt 3) av Mats Einarsson (v) och Gustav Fridolin (mp). Förslag
+            till riksdagsbeslut Vi anser att utskottets förslag under punkt
+            3 borde ha följande lydelse: Riksdagen tillkännager för regeringen
+            som sin mening vad som anförs i reservationen. Därmed bifaller
+            riksdagen motion 2002/03:K414 yrkandena 1 och 2 samt 2002/03:K309
+            (delvis). Ställningstagande Vi anser att inget trossamfund bör
+            få statens hjälp med att ta in avgifter. Begravningsavgiften bör
+            behandlas separat och betalas över skattsedeln, men övriga avgifter
+            för trossamfundens verksamhet bör enligt vår mening trossamfunden
+            själva ta in. Som begärs i motion K414 yrkande 2 bör därför lagen
+            på längre sikt utvärderas med sikte på att jämställa religiösa
+            föreningar med andra föreningar som verkar inom det svenska samhället
+            också vad gäller finansieringsvägar. Vidare finns det enligt vår
+            mening ett akut behov av att förbättra skyddet för enskilda mot
+            obefogade krav från registrerade trossamfund. Den nuvarande ordningen
+            på området innebär att trossamfund med hjälp av staten kan tvinga
+            enskilda att betala in avgift till trossamfundet också i fall
+            då avgiftskrav är obefogade. Detta kan gälla t.ex. i fall då det
+            registrerade trossamfundet och den enskilde har olika uppfattningar
+            i frågan huruvida den enskilde alls är medlem i det registrerade
+            trossamfundet. Vi anser att lagen bör ändras så att skattemyndigheterna
+            skall ta den enskildes uppgifter om avgiftsskyldighet för goda
+            och hänvisa det registrerade trossamfundet till den vanliga rättsliga
+            processen för att få den enskildes betalningsskyldighet fastställd.
+            5. Statlig medverkan vid uppbörd av avgift till trossamfund (punkt
+            3) av Helena Bargholtz (fp) och Liselott Hagberg (fp). Förslag
+            till riksdagsbeslut Vi anser att utskottets förslag under punkt
+            3 borde ha följande lydelse: Riksdagen tillkännager för regeringen
+            som sin mening vad som anförs i reservationen. Därmed bifaller
+            riksdagen motion 2002/03:K309 och 2002/03: K414 yrkande 1 (delvis).
+            Vidare avslår riksdagen motion 2002/03:K414 yrkande 2. Ställningstagande
+            Den nuvarande ordningen för hanteringen av klagomål från enskilda
+            vid statlig uppbörd av avgift till trossamfund är av rättssäkerhetsskäl
+            oacceptabel. I stället bör en ordning tillämpas som innebär att
+            skattemyndigheterna skall ta den enskildes uppgifter om avgiftsskyldighet
+            för goda och hänvisa det registrerade trossamfundet till den vanliga
+            rättsliga processen för att få den enskildes betalningsskyldighet
+            fastställd. Bilaga Förteckning över behandlade förslag
+          </p>
+          <p>
+            Motioner från allmänna motionstiden 2002/03:K260 av Leif Björnlod
+            (mp): Riksdagen begär att regeringen tillsätter en utredning för
+            att se över huvudmannaskapet för begravningsverksamheten och begravningsavgiften
+            samt för att utröna hur ett system kan utformas för att göra det
+            möjligt att avge viljeyttring i livet vad gäller begravningsförfarande
+            m.m. 2002/03:K271 av Gudrun Schyman m.fl. (v): Riksdagen begär
+            att regeringen lägger fram förslag till ändring av berörda lagar
+            i syfte att åstadkomma ett slutligt skiljande av Svenska kyrkan
+            från staten i enlighet med vad i motionen anförs. 2002/03:K293
+            av Torsten Lindström (kd): Riksdagen begär att regeringen lägger
+            fram förslag till ändring av lagen så att begravningsväsendet
+            övergår till ett primärkommunalt huvudmannaskap. 2002/03:K309
+            av Allan Widman och Ulf Nilsson (fp): Riksdagen tillkännager för
+            regeringen som sin mening vad i motionen anförs om lagen (1999:291)
+            om avgift till registrerat trossamfund. 2002/03:K414 av Tasso
+            Stafilidis (v): 1. Riksdagen tillkännager för regeringen som sin
+            mening vad i motionen anförs om det akuta behovet att förbättra
+            rättsskyddet för den enskilde mot registrerade trossamfund som
+            får hjälp av staten med beräkning, debitering och redovisning
+            av avgifter och med att ta in avgifterna. 2. Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om det långsiktiga
+            behovet av att utvärdera avgiftslagen och att i framtiden jämställa
+            religiösa föreningar med andra privata föreningar också vad gäller
+            sättet att finansiera verksamheten.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
