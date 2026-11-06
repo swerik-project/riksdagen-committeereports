@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200910_TU_0020">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Regeringen har överlåtit till länen att fördela delar av statens medel för infrastruktur till projekt av särskild betydelse för regionen. Riksrevisionen har därför granskat länens förslag som lämnades till regeringen i november 2009. Granskningen visar på flera brister. Bristerna är i de flesta fall desamma som vid en motsvarande studie 2003. Länen lever fortfarande inte upp till de krav som ställs i regeringens direktiv. Det är svårt att avgöra om länens val av åtgärder är de mest effektiva och hållbara. Granskningen visar också att regeringen inte gjort tillräckligt för att länen ska kunna leva upp till de krav som ställs. Riksdagen förutsätter att granskningens slutsatser beaktas i det fortsatta arbetet och avslutar ärendet utan åtgärder.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Länsplanerna för infrastruktur granskade (TU20)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Riksdagen lägger redogörelse 2009/10:RRS18 till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GX09111</idno>
+              <title>2010-04-28</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">111</biblScope>
+              <note type="display-reference">2010-04-28</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GX09111</idno>
+              <title>2010-04-28</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">111</biblScope>
+              <note type="display-reference">2010-04-28</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GX0K249</idno>
+              <title>2009/10:249</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">249</biblScope>
+              <note type="display-reference">2009/10:249</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="redogorelse">
+              <idno type="riksdagen">GX04RRS18</idno>
+              <title>Riksrevisionens styrelses redogörelse om länsplanerna för regional transportinfrastruktur</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">RRS18</biblScope>
+              <note type="display-reference">redogorelse 2009/10:RRS18 Riksrevisionens styrelses redogörelse om länsplanerna för regional transportinfrastruktur</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2010-04-22">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2010-04-22">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-04-21">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2010-04-16">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-04-16">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2010-04-16">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-04-13">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-04-13">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-04-06">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-04-06">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2010-04-28">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2010-04-28">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2010-04-28">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-04-28">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-04-28">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-04-27">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-04-27">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-04-23">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-04-23">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Trafikutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2009/10:TU20
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Länsplaner för regional transportinfrastruktur
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACREZB" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet Riksrevisionens styrelses redogörelse
+            om länsplanerna för regional transportinfrastruktur (2009/10:RRS18).
+            Den granskning som Riksrevisionen genomfört av förslagen till
+            länsplaner för planeringsperioden 20102021 är en uppföljning av
+            en tidigare granskning från 2004 av vad som styrde prioriteringarna
+            under arbetet med att ta fram länsplaner för planeringsperioden
+            20042015. Styrelsen pekar på att den nu genomförda granskningen
+            visar indikationer på att flertalet av de brister som Riksrevisionen
+            tidigare påtalat fortfarande kvarstår. Länen har enligt Riksrevisionen
+            i vissa viktiga avseenden inte levt upp till de krav som ställs
+            i regeringens direktiv.
+          </p>
+          <p>
+            Utskottet välkomnar Riksrevisionens granskning av länsplanerna
+            och ser allvarligt på de brister som identifierats. Utskottet
+            pekar på att de förändringar som håller på att genomföras inom
+            transportområdet, bl.a. en ny myndighetsstruktur och att ett nytt
+            planeringssystem håller på att tas fram, är betydelsefulla för
+            att åstadkomma förbättringar i infrastrukturplaneringen. Utskottet
+            betonar också att granskningens slutsatser och de rekommendationer
+            som Riksrevisionen lämnar bör tas till vara och beaktas i det
+            fortsatta arbetet med att utveckla systemet för infrastrukturplaneringen.
+          </p>
+          <p>
+            Utskottet föreslår att Riksrevisionens redogörelse läggs till
+            handlingarna.
+          </p>
+          <p xml:id="IDAPREZB" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Länsplaner för regional transportinfrastruktur
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger redogörelse 2009/10:RRS18 till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 13 april 2010
+          </p>
+          <p>
+            På trafikutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Lena Hallengren
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Lena Hallengren (s),
+            Jan-Evert Rådhström (m), Oskar Öholm (m), Christina Axelsson (s),
+            Sven Bergström (c), Nina Larsson (fp), Claes-Göran Brandin (s),
+            Eliza Roszkowska Öberg (m), Marie Nordén (s), Sten Bergheden (m),
+            Peter Pedersen (v), Pia Nilsson (s), Ingemar Vänerlöv (kd), Karin
+            Svensson Smith (mp), Malin Löfsjögård (m), Lars Mejern Larsson
+            (s) och Mahmood Fahmi (m).
+          </p>
+          <p xml:id="IDARUEZB" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAUUEZB" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Utskottet behandlar i detta betänkande Riksrevisionens styrelses
+            redogörelse om länsplanerna för regional transportinfrastruktur
+            (2009/10:RRS18). Till grund för redogörelsen finns Riksrevisionens
+            granskning som redovisas i rapporten
+            <seg rend="grad2">
+              Länsplanerna för regional transportinfrastruktur
+            </seg>
+            (RiR 2009:23). Inga följdmotioner har väckts med anledning av
+            den framlagda redogörelsen.
+          </p>
+          <p>
+            Riksrevisor Eva Lindström m.fl. har den 16 mars informerat utskottet
+            om innehållet i granskningsrapporten.
+          </p>
+          <p>
+            Utskottet avser återkomma till frågor om planeringen av trafikens
+            infrastruktur senare under riksmötet i samband med behandlingen
+            av regeringens skrivelse om åtgärdsplaner för 20102021.
+          </p>
+          <p xml:id="IDAEVEZB" rend="rubrik2">
+            Redogörelsens huvudsakliga innehåll
+          </p>
+          <p>
+            Riksrevisionen har i rapporten
+            <seg rend="grad2">
+              Länsplanerna för regional transportinfrastruktur
+            </seg>
+            (RiR 2009:23) granskat de förslag till länstransportplaner som
+            lämnades till regeringen i november 2009. Med anledning av granskningen
+            har Riksrevisionens styrelse överlämnat redogörelse 2009/10:RRS18
+            till riksdagen.
+          </p>
+          <p>
+            Riksrevisionen redovisar i granskningen att det finns indikationer
+            på att flertalet av de brister som påtalades i en tidigare granskning
+            av länsplanerna från 2004 fortfarande kvarstår. Länen har enligt
+            Riksrevisionen i vissa viktiga avseenden inte levt upp till de
+            krav som ställs i regeringens direktiv. Det gäller bl.a. kraven
+            på att redovisa en samlad effektbedömning och tydligt motivera
+            prioriteringarna för de åtgärder som föreslås. Riksrevisionen
+            redovisar vidare att regeringen inte har vidtagit tillräckliga
+            åtgärder för att länen ska kunna leva upp till de krav som ställs.
+            Regeringens planeringsdirektiv, som ställer ett antal krav på
+            länen i fråga om vad länsplanerna ska innehålla och vilket underlag
+            som ska finnas för de föreslagna åtgärderna, bygger på riksdagens
+            tidigare ställningstaganden. Riksrevisionens styrelse anser det
+            förvånande att inte fler åtgärder har vidtagits för att komma
+            till rätta med de problem som nu har varit kända under en längre
+            tid. Styrelsen framhåller återigen betydelsen av att besluten
+            om investeringar i infrastruktur är väl underbyggda. Enligt styrelsen
+            måste det så långt möjligt framgå av plandokumenten vilka prioriteringar
+            som har gjorts och om de åtgärder som valts är de mest effektiva
+            och långsiktigt hållbara.
+          </p>
+          <p>
+            Riksrevisionens rapport utmynnar i rekommendationer till regeringen
+            att se till att planeringen och prioriteringen av infrastrukturåtgärder
+            baseras på tydliga och fullständiga effektbedömningar för enskilda
+            objekt och för planförslagen som helhet. Riksrevisionen rekommenderar
+            även att regeringen inför kommande planarbeten bör betona vikten
+            av att planupprättarna redovisar sina prioriteringar och tydliggör
+            de målkonflikter som kan uppstå i avvägningen mellan nationella
+            och regionala mål. Regeringen har i den senaste infrastrukturpropositionen
+            aviserat stora förändringar inom området. Styrelsen förutsätter
+            att Riksrevisionens iakttagelser och slutsatser tas till vara
+            och beaktas i det fortsatta utvecklingsarbetet.
+          </p>
+          <p xml:id="IDAVVEZB" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAZVEZB" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen lägger Riksrevisionens styrelses redogörelse till handlingarna.
+                Utskottet välkomnar Riksrevisionens granskning av länsplanerna
+                och ser allvarligt på de brister som identifierats. Utskottet
+                pekar på att de förändringar som håller på att genomföras inom
+                transportområdet, bl.a. en ny myndighetsstruktur och att ett nytt
+                planeringssystem håller på att tas fram, är betydelsefulla för
+                att åstadkomma en förbättrad infrastrukturplanering. Utskottet
+                betonar att granskningens slutsatser och de rekommendationer som
+                Riksrevisionen lämnar bör tas till vara och beaktas i det fortsatta
+                arbetet med att utveckla systemet för infrastrukturplaneringen.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p rend="grad1">
+              Riksrevisionens granskning
+            </p>
+            <p>
+              Riksrevisionen har granskat de förslag till länstransportplaner
+              som lämnades till regeringen i november 2009. Riksdagen har beslutat
+              att den statliga planeringsramen för transportinfrastruktur totalt
+              ska omfatta 417 miljarder kronor under perioden 20102021. I direktivet
+              till länsplaneringen har regeringen fördelat en preliminär ram
+              om sammanlagt 33,1 miljarder kronor till länen. Riksrevisionen
+              har i sin granskning ställt följande övergripande revisionsfråga:
+            </p>
+            <p rend="punktlistaLista">
+              Har länen i den regionala åtgärdsplaneringen följt statsmakternas
+              intentioner som de uttryckts genom regeringens direktiv?
+            </p>
+            <p xml:id="IDAUWEZB" rend="r4">
+              Brister som påtalades i Riksrevisionens tidigare granskning kvarstår
+            </p>
+            <p>
+              Riksrevisionens granskning från 2009 visar att den problembild
+              som redovisades i Riksrevisionens granskning från 2004 till stora
+              delar kvarstår. I Riksrevisionens granskning från 2004 som avsåg
+              vad som styrde prioriteringarna under arbetet med att ta fram
+              länsplaner till planeringsperioden 20042015 (RiR 2004:1) framkom
+              bl.a. att samhällsekonomisk lönsamhet hade en begränsad betydelse
+              för prioriteringarna och att effektbedömningarna av delmålet positiv
+              regional utveckling var otydliga. Granskningen visade också att
+              underlaget för bortprioriterade åtgärder var otillräckligt redovisat
+              och att tillämpningen av fyrstegsmodellen var oklar. Riksrevisionen
+              bedömde att direktiven i vissa avseenden inte varit tillräckligt
+              tydliga och att de hade inslag som var svåra att omsätta i praktiken.
+              Länens planering bedömdes i vissa viktiga avseenden ha skett från
+              andra utgångspunkter än direktivens. Det konstaterades även att
+              det fanns en risk att direktiven snarare haft betydelse för hur
+              argumentationen för åtgärderna hade utformats än för den egentliga
+              prioriteringen av åtgärder. Granskningen visade på en osäkerhet
+              om på vilka grunder resurserna för länens planeringsprocess verkligen
+              hade prioriterats, och det riktades frågetecken kring länsplanernas
+              användbarhet som underlag för regeringens beslut. Riksrevisionen
+              rekommenderade att planeringsprocessens utgångspunkter tydliggörs
+              och att regeringen i kommande planeringsprocesser bör ställa krav
+              på att målkonflikter vid prioriteringar ska klarläggas och hanteras.
+              Revisionen rekommenderade vidare att regeringen i planeringsdirektiven
+              till kommande planeringsprocesser bör ställa tydliga krav på att
+              hänvisningar till regionala utvecklingseffekter ska underbyggas
+              med dokumenterade analyser samt att regeringen bör ta initiativ
+              till att gemensamma och trafikslagsövergripande riktlinjer tas
+              fram i syfte att öka samsynen om hur fyrstegsmodellen ska tillämpas.
+            </p>
+            <p>
+              Med anledning av den genomförda granskningen överlämnade Riksrevisionens
+              styrelse i mars 2004 en framställning (2003/04:RRS3) till riksdagen
+              där styrelsen föreslog att riksdagen skulle begära att regeringen
+              återkom till riksdagen med en redovisning av åtgärder som vidtagits
+              med anledning av granskningen i första hand när det gäller behovet
+              av omprövning av utgångspunkterna för den långsiktiga infrastrukturplaneringen
+              på länsnivå, en översyn av de transportpolitiska delmålen och
+              gemensamma riktlinjer för tillämpningen av den s.k. fyrstegsmodellen.
+            </p>
+            <p>
+              Riksdagen beslutade i enlighet med trafikutskottets förslag att
+              avslå framställningen. Trafikutskottet motiverade förslaget till
+              riksdagsbeslut med att utskottet förutsatte att resultatet av
+              granskningen skulle komma att beaktas inom ramen för regeringens
+              fortsatta utvecklingsarbete och att regeringen skulle redovisa
+              resultatet av sina överväganden till riksdagen (bet. 2003/04:TU10).
+            </p>
+            <p>
+              Regeringen redovisade i budgetpropositionen 2005 att regeringens
+              bedömning och åtgärder med anledning av Riksrevisionens granskning
+              2004 hade redovisats till riksdagen i proposition 2003/04:95.
+              I 2009 års granskning av länsplanerna konstaterar Riksrevisionen
+              att det av denna återrapportering inte framgår om regeringen vidtagit
+              eller avser att vidta åtgärder med anledning av Riksrevisionens
+              granskning 2004. Riksrevisionen konstaterar att några större förändringar
+              inte har genomförts av planeringsprocessen från den granskning
+              som skedde av länsplanerna 2004 till den uppföljande granskningen
+              2009.
+            </p>
+            <p>
+              Riksrevisionen anser det förvånande att inte fler åtgärder har
+              vidtagits för att komma till rätta med de problem som varit kända
+              under en längre tid och framhåller betydelsen av att besluten
+              om investeringar i infrastruktur ska vara väl underbyggda.
+            </p>
+            <p xml:id="IDAGXEZB" rend="r4">
+              Planeringsdirektiven för 20102021
+            </p>
+            <p>
+              Regeringen gav i december 2008 trafikverken och länen i uppdrag
+              att genomföra länsplaner i enlighet med regeringens instruktioner
+              och planeringsdirektiv. Skillnaderna är små mellan regeringens
+              direktiv om åtgärdsplanering för den förra planeringsperioden
+              och planeringsperioden 20102021. En skillnad i den senaste planeringsperioden
+              är dock att planeringen delats upp i två delar. I 2008 års direktiv
+              anges att regeringens övergripande mål att bryta utanförskapet
+              genom fler jobb och infrastrukturen är en grundförutsättning för
+              tillväxt i hela landet. Systemen baseras på både kvinnors och
+              mäns behov och synpunkter samt att kommunikationer med utgångspunkt
+              från resenärers, företags och samhällets behov, som samtidigt
+              är förenliga med klimat- och miljökvalitetsmål, är i fokus.
+            </p>
+            <p>
+              Enligt Riksrevisionen uppger flera län att direktiven på en del
+              områden är otydliga och svåra att hantera i praktiken. Flera län
+              tar också upp som ett generellt problem att nya riktlinjer har
+              kommit sent i processen.
+            </p>
+            <p>
+              Riksrevisionen drar slutsatsen att regeringen inte har vidtagit
+              tillräckliga åtgärder för att länen ska leva upp till de krav
+              som ställts och att regeringen inte har ändrat länens direkta
+              förutsättningar för att de ska leva upp till de ställda kraven.
+            </p>
+            <p>
+              Riksrevisionen konstaterar att regeringen i den senaste infrastrukturpropositionen
+              har aviserat stora förändringar inom området och förutsätter att
+              Riksrevisionens iakttagelser och slutsatser tas till vara och
+              beaktas i det fortsatta utvecklingsarbetet.
+            </p>
+            <p xml:id="IDAVXEZB" rend="r4">
+              Grunder för prioriteringar i planförslagen
+            </p>
+            <p>
+              I den förra planeringsomgången skulle prioriteringar motiveras
+              skriftligt med hänvisning till samhällsekonomi och vilka effekter
+              åtgärderna hade på de transportpolitiska målen och miljökvalitetsmålen.
+              I direktiven för planeringsomgången 20102021 anges att åtgärderna
+              bör analyseras enligt fyrstegsprincipen och att relevanta och
+              jämförbara samhällsekonomiska analyser och miljöbedömningar ska
+              spela en viktig roll vid prioriteringarna. I direktiven anges
+              vidare att den inbördes prioritetsordningen av åtgärderna ska
+              framgå samt att de objekt eller åtgärder som föreslås bör beskrivas
+              allsidigt och att prioriteringarna ska motiveras. Det ska också
+              framgå vilka förslag till alternativa åtgärder som förkastats.
+            </p>
+            <p>
+              Riksrevisionens granskning visar att inte något av planförslagen,
+              utifrån en strikt tolkning av direktiven, fullt ut lever upp till
+              kravet på att en utomstående betraktare ska kunna förstå varför
+              ett objekt har eller inte har prioriterats i förhållande till
+              övriga. Även om flertalet län anger vilka övergripande utgångspunkter
+              som man anser ska ligga till grund för prioriteringarna är de
+              dock sällan tillräckligt konkretiserade för att kunna anses utgöra
+              en faktisk urvalsmekanism. Granskningen visar att det generellt
+              sett inte finns någon tydlig koppling mellan de övergripande prioriteringsgrunderna
+              och de utvalda åtgärderna, och det förekommer mycket sällan beskrivningar
+              av varför eller enligt vilket kriterium ett specifikt projekt
+              har rangordnats högre än andra. Bara i några få av planerna redovisas
+              bortprioriterade åtgärder. Granskningen visar att det i ungefär
+              hälften av planerna finns en tydlig rangordning mellan de namngivna
+              objekten.
+            </p>
+            <p>
+              Enligt Riksrevisionen måste det så långt möjligt framgå av plandokumenten
+              vilka prioriteringar som gjorts.
+            </p>
+            <p xml:id="IDAEYEZB" rend="r4">
+              Effektbeskrivningar i planförslagen
+            </p>
+            <p>
+              I planomgången för 20102021 anges att samlade effektbedömningar
+              ska tas fram för föreslagna åtgärder och innehålla en samhällsekonomisk
+              bedömning, effekter i förhållande till transportpolitiska mål,
+              miljöbedömningar och en beskrivning av fördelningseffekter. Enligt
+              Riksrevisionens bedömning har inte något län redovisat en samlad
+              effektbedömning av planförslaget som lever upp till det som enligt
+              regeringen kännetecknar en bra effektbedömning. Endast ett fåtal
+              län tar upp alla effekter som enligt direktiven ska beskrivas
+              i en samlad effektbedömning. Några län presenterar inte någon
+              samlad effektbedömning av planen. Riksrevisionen konstaterar att
+              det är svårt att värdera innehållet i den samlade effektbedömningen.
+              I de flesta fall görs endast ett generellt yttrande utan förklaring
+              på vilket sätt eller varför planförslaget bedöms leda till positiva
+              effekter som t.ex. trafiksäkerhet eller miljö. Dessutom är den
+              presenterade effektbedömningen i flera fall inte en samlad bedömning
+              av planförslaget som helhet. Granskningen visar att fördelningseffekter
+              av planförslagen berörs ytligt i några planer men att det mer
+              sällan presenteras någon mer ingående analys. I flera planer beskrivs
+              att medel avsatts till åtgärder som skulle kunna gynna särskilda
+              grupper. Däremot finns ingen analys av hur planförslaget som helhet
+              gynnar olika grupper.
+            </p>
+            <p xml:id="IDAKYEZB" rend="r4">
+              Svårt att avgöra om valda åtgärder är de mest effektiva
+            </p>
+            <p>
+              Riksrevisionens granskning visar att länens presentation av effektbedömningar
+              av enskilda åtgärder görs på mycket olika sätt och att det därför
+              är svårt att göra hållbara jämförelser mellan länen i detta avseende.
+              I de fall det finns effektbedömningar av åtgärderna i planförslagen
+              avser det oftast en beskrivning av förväntade positiva effekter
+              av förslaget, medan det som regel är oklart vilken typ av analys
+              eller underlag bedömningen grundas på. Riksrevisionen har inte
+              i något av planförslagen hittat någon tydlig analys av fördelningseffekterna
+              av åtgärderna. Granskningen visar att det är svårt att se en koppling
+              mellan den samlade effektbedömningen och fördelningen mellan åtgärdskategorier
+              och att det är svårt att se hur effektbedömningarna av åtgärderna
+              har påverkat prioriteringarna. Flera län anger att de har valt
+              åtgärder som bidrar positivt till de transportpolitiska målen.
+              Även om en åtgärd anges bidra positivt till de transportpolitiska
+              målen är det svårt att få en uppfattning om åtgärden har valts
+              för att den är samhällsekonomiskt effektiv eller för att den bidrar
+              mest till måluppfyllelsen.
+            </p>
+            <p>
+              Enligt Riksrevisionen måste det så långt möjligt framgå av planeringsdokumenten
+              om de åtgärder som valts är de mest effektiva och långsiktigt
+              hållbara.
+            </p>
+            <p xml:id="IDATYEZB" rend="r4">
+              Den praktiska innebörden av regionalt inflytande i planprocessen
+              är oklar
+            </p>
+            <p>
+              Granskningen visar att regeringen har styrt både mot ett ökat
+              regionalt inflytande i planprocessen och mot att satsningarna
+              ska vara samhällsekonomiskt lönsamma. Enligt Riksrevisionen behöver
+              regionalekonomiskt lönsamt eller regionalpolitiskt önskvärt dock
+              inte vara det samhällsekonomiskt mest lönsamma alternativet. I
+              granskningen har framkommit att några län uttryckt besvikelse
+              över att det regionala inflytandet i planeringsprocessen inte
+              blivit så stort som de anser sig ha blivit lovade inför åtgärdsplaneringen.
+              Riksrevisionen konstaterar att infrastrukturpropositionen och
+              direktiven till det förberedande arbetet med systemanalyserna
+              är tydligare med avsikten att öka det regionala inflytandet än
+              vad direktiven till åtgärdsplaneringen är. Riksrevisionen konstaterar
+              att den politiska enigheten på regional nivå ibland skiljer sig
+              från de krav och förväntningar som finns från trafikverken och
+              i de nationella målen. Enligt Riksrevisionen har länen förmodligen
+              tagit sig ett större utrymme än vad som egentligen framgår av
+              direktiven. Konflikten uppges här bli tydlig mellan ambitionen
+              om ett ökat regionalt inflytande i planeringen och ambitionen
+              att de samhällsekonomiskt mest lönsamma åtgärderna ska prioriteras.
+            </p>
+            <p>
+              Enligt Riksrevisionen bör regeringen inför kommande planarbeten
+              betona vikten av att planupprättarna tydliggör de målkonflikter
+              som kan uppstå i avvägningen mellan nationella och regionala mål.
+            </p>
+            <p xml:id="IDA2YEZB" rend="r4">
+              Kraven på att analysera åtgärderna enligt fyrstegsprincipen
+            </p>
+            <p>
+              Tillämpningen av fyrstegsprincipen i sammansättningen av länsplanerna
+              utgör en del av urvalsprocessen som ska ligga till grund för vilka
+              åtgärder som ska föreslås. I Riksrevisionens granskning från 2004
+              identifierades brister när det gäller tillämpningen av fyrstegsprincipen.
+              I granskningen drogs slutsatsen att det i hälften av länsplanerna
+              var oklart om fyrstegsprincipen alls hade tillämpats. I länsplanerna
+              för planeringsomgången 20102021 anger planupprättarna olika mycket
+              om fyrstegsprincipen. I stort sett samtliga länsplaner nämner
+              på något sätt fyrstegsprincipen. Oftast omnämns den som en utgångspunkt
+              från direktivet, men ibland även tydligare som en av de principer
+              som har legat till grund för prioriteringarna. Det är dock ganska
+              vanligt att tillämpningen av fyrstegsprincipen inte framgår av
+              plandokumentet på annat sätt än att det står att den ska eller
+              har tillämpats. Riksrevisionen drar utifrån innehållet i plandokumenten
+              slutsatsen att det i många fall fortfarande är oklart om och på
+              vilket sätt fyrstegsprincipen har tillämpats. Riksrevisionen konstaterar
+              att regeringens direktiv denna gång inte innehåller något förtydligande
+              om ansvarsfördelningen eller några riktlinjer för hur principen
+              bör tillämpas på objektsnivå eller plannivå.
+            </p>
+            <p xml:id="IDACZEZB" rend="r3">
+              Riksrevisionens styrelses redogörelse
+            </p>
+            <p>
+              Styrelsen anger att syftet med granskningen har varit att granska
+              om länen i planeringsomgången för 20102021 klarat att leva upp
+              till regeringens direktiv bättre jämfört med vad som framkom i
+              Riksrevisionens tidigare granskning av länstransportplanerna för
+              20042015. Styrelsen pekar även på att granskningen inriktats på
+              att belysa vilka åtgärder regeringen har vidtagit med anledning
+              av slutsatserna och rekommendationerna i den tidigare granskningen.
+              Styrelsen pekar på att granskningen av förslag till länsplaner
+              för 20102021 indikerar att flertalet av de brister som påtalades
+              i den tidigare granskningen fortfarande kvarstår. Enligt styrelsen
+              har länen i vissa viktiga avseenden inte levt upp till de krav
+              som ställs i regeringens direktiv. Det gäller bl.a. kraven på
+              att redovisa en samlad effektbedömning och tydligt motivera prioriteringarna
+              för de åtgärder som föreslås. Granskningen visar vidare att regeringen
+              inte har vidtagit tillräckliga åtgärder för att länen ska kunna
+              leva upp till de krav som ställs.
+            </p>
+            <p>
+              Regeringens planeringsdirektiv, som ställer ett antal krav på
+              länen i fråga om vad länsplanerna ska innehålla och vilket underlag
+              som ska finnas för de föreslagna åtgärderna, bygger på riksdagens
+              ställningstaganden. Styrelsen pekar på att denna granskning liksom
+              den tidigare för planeringsperioden 20042015 visar att länens
+              planering delvis sker med andra utgångspunkter än de som statsmakterna
+              uttalat.
+            </p>
+            <p>
+              I samband med granskningen från 2004 beslutade styrelsen att
+              överlämna en framställning till riksdagen. Riksdagen avslog framställningen
+              med bl.a. motiveringen att regeringen skulle återkomma till riksdagen
+              med en redovisning av resultatet av regeringens pågående utvecklingsarbete.
+              Riksrevisionen konstaterar nu att det av regeringens återrapportering
+              inte framgick om regeringen vidtagit eller avsåg att vidta åtgärder
+              med anledning av Riksrevisionens tidigare granskning. Styrelsen
+              menar att det är förvånande att inte fler åtgärder har vidtagits
+              för att komma till rätta med de problem som nu har varit kända
+              under en längre tid. Då länstransportplanerna har en stor samhällsekonomisk
+              och statsfinansiell betydelse framhåller styrelsen återigen betydelsen
+              av att besluten om infrastrukturinvesteringar alltid är väl underbyggda.
+              Det måste så långt möjligt framgå av plandokumenten vilka prioriteringar
+              som har gjorts och om de åtgärder som valts är de mest effektiva
+              och långsiktigt hållbara.
+            </p>
+            <p>
+              Styrelsen noterar att regeringen i den senaste infrastrukturpropositionen
+              har aviserat stora förändringar inom området. Mot bakgrund av
+              det ovan anförda förutsätter styrelsen att Riksrevisionens iakttagelser
+              och slutsatser tas till vara och beaktas i det fortsatta utvecklingsarbetet.
+              Med detta överlämnas redogörelsen.
+            </p>
+            <p xml:id="IDARZEZB" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p xml:id="IDAUZEZB" rend="r4">
+              Inledning
+            </p>
+            <p>
+              Utskottet välkomnar Riksrevisionens granskning av länsplanerna
+              för regional transportinfrastruktur. Granskningen ligger väl i
+              linje med att utskottet vid sitt sammanträde den 13 november 2007
+              beslutade att lämna en skrivelse med förslag om granskningsområden
+              till Riksrevisionen (protokoll 2007/08:6). I utskottets skrivelse
+              Riksrevisionens granskningsstrategier (dnr 160-723-2007/08) lämnades
+              förslag om granskning av om planeringssystemet för infrastruktur
+              är effektivt. I skrivelsen pekade utskottet på att en effektiv
+              resursanvändning är av stor betydelse med tanke på de omfattande
+              investeringar som görs inom infrastrukturområdet och som i många
+              fall påverkar samhället för lång tid framöver och därmed möjligheterna
+              att uppnå ett hållbart transportsystem. Utskottet uppmärksammade
+              att en tänkbar granskningsfråga är om det nuvarande planeringssystemet,
+              med beaktande av rättssäkerhetsaspekter, innebär en god resurshållning.
+              Utskottet riktade också uppmärksamhet på frågan om planeringssystemets
+              effektivitet med avseende på de krav som en hållbar klimatpolitik
+              ställer. Utskottet ser därmed mycket positivt på att det av Riksrevisionens
+              granskningsplan 2010 framgår att transportinfrastrukturen är ett
+              av fokusområdena i Riksrevisionens granskningsstrategier under
+              2010.
+            </p>
+            <p xml:id="IDA0ZEZB" rend="r4">
+              Brister som påtalades i Riksrevisionens tidigare granskning kvarstår
+            </p>
+            <p>
+              Utskottet har tagit del av Riksrevisionens styrelses redogörelse
+              (2009/10:RRS18) där styrelsen påtalar ett antal brister som framkommit
+              i Riksrevisionens granskning av förslagen till länstransportplaner
+              för 20102021. I den framställning som Riksrevisionens styrelse
+              lämnade till riksdagen med anledning av 2004 års granskning konstaterades
+              att länen i vissa viktiga avseenden inte hade följt statsmakternas
+              direktiv för planeringen (2003/04:RRS3). Avvikelserna mellan regeringens
+              direktiv och den faktiska planering som bedrivits i länen förklarades
+              bl.a. av att länens planering skedde från delvis andra utgångspunkter
+              än de som lagts fast i direktiven, men även av oklarheten i dessa
+              direktiv. I framställningen föreslog styrelsen att riksdagen skulle
+              begära att regeringen återkommer till riksdagen med en redovisning
+              av de åtgärder som vidtagits med anledning av granskningen. I
+              första hand avsåg detta behovet av omprövning av utgångspunkterna
+              för den långsiktiga infrastrukturplaneringen på länsnivå, översyn
+              av de transportpolitiska delmålen och gemensamma riktlinjer för
+              tillämpningen av den s.k. fyrstegsmodellen.
+            </p>
+            <p>
+              Utskottet vill erinra om att riksdagen avslog framställningen
+              med bl.a. motiveringen att det förutsattes att resultatet av granskningen
+              skulle komma att beaktas inom ramen för regeringens fortsatta
+              utvecklingsarbete och att regeringen skulle återkomma till riksdagen
+              med en redovisning av resultatet av regeringens pågående utvecklingsarbete.
+              Utskottet förutsatte i sitt betänkande att revisionens synpunkter
+              skulle beaktas. Utskottet ser allvarligt på att vissa av de brister
+              som Riksrevisionens styrelse redovisar är desamma som även framkom
+              vid en tidigare granskning från 2004 av vad som styrde prioriteringarna
+              i länsplanerna för regional infrastruktur för planeringsperioden
+              20042015 (RiR 2004:1).
+            </p>
+            <p xml:id="IDAD0EZB" rend="r4">
+              Ny myndighetsstruktur och nytt planeringssystem på gång
+            </p>
+            <p>
+              Med utgångspunkt från att länsplanerna för regional transportinfrastruktur
+              har bl.a. stor samhällsekonomisk och statsfinansiell betydelse
+              menar utskottet att det är angeläget att komma till rätta med
+              de brister som uppmärksammats i Riksrevisionens granskningar.
+              Utskottet vill samtidigt peka på att det ganska nyligen har vidtagits
+              ett antal åtgärder som på olika sätt kan medverka till att åstadkomma
+              en förbättrad infrastrukturplanering.
+            </p>
+            <p>
+              I september 2009 tillsattes en särskild utredare med uppgift
+              att förbereda och genomföra bildandet av en ny myndighet för utveckling
+              av det samlade transportsystemet, Trafikverket (dir. 2009:75).
+              Samtidigt tillsattes en särskild utredare med uppgift att förbereda
+              och genomföra bildandet av en ny myndighet för utvärderingar och
+              analyser inom transportområdet, Trafikanalys (dir. 2009:76). I
+              propositionen Ny myndighetsstruktur på transportområdet (prop.
+              2009/10:59) framhölls att bildandet av en särskild utvärderings-
+              och analysmyndighet är en ändamålsenlig lösning som samtidigt
+              tillgodoser regeringens behov av en stödfunktion och kraven på
+              självständighet från de verksamheter som avses bli föremål för
+              granskning och utvärdering. Trafikutskottet bedömde i betänkande
+              2009/10:TU9 att Trafikanalys kommer att kunna tillföra regeringens
+              arbete den ytterligare kvalitetsförstärkning och sakkunskap som
+              behövs för en effektiv uppföljning och styrning av Trafikverkets
+              verksamhet. De nya myndigheterna Trafikverket och Trafikanalys
+              inledde sin verksamhet den 1 april 2010 och Vägverket, Banverket
+              och SIKA avvecklades den 31 mars 2010. Trafikverket ska ha tyngdpunkt
+              i åtgärder som främjar en effektiv förvaltning och ett trafikslagsövergripande
+              perspektiv i arbetet med utvecklingen av det samlade transportsystemet.
+              Trafikanalys ska vara regeringens utvärderings- och analysorgan
+              för frågor inom hela transportområdet och bl.a. svara för granskning
+              och kvalitetssäkring av beslutsunderlag inom det transportpolitiska
+              området. Utvärderingarna och analyserna kan bl.a. gälla infrastrukturplaner
+              och utvärdering av hur väl de transportpolitiska målen uppfylls.
+            </p>
+            <p>
+              Utskottet förutsätter att den nya myndighetsstrukturen kommer
+              att ge en förbättrad uppföljning av infrastrukturplaneringen och
+              att utbytet och återkopplingen mellan ansvariga myndigheter på
+              central och regional nivå på olika sätt stärks. När det gäller
+              den fortsatta uppföljningen av länens arbete med att ta fram förslag
+              till regionala infrastrukturplaner vill utskottet erinra om betänkandet
+              Framtidens resor och transporter infrastruktur för hållbar tillväxt
+              (bet. 2008/09:TU2), där utskottet bl.a. pekade på att en bra effektbedömning
+              ger en rättvisande bild av vad en åtgärd eller ett paket av åtgärder
+              leder till, möjliggör sakliga jämförelser mellan olika alternativ,
+              är öppen med sina förutsättningar och begränsningar, innehåller
+              relevanta känslighetsanalyser och är tydligt och klart dokumenterad.
+            </p>
+            <p>
+              Utskottet noterar att det pågår ett arbete med att revidera planeringssystemet
+              för transportinfrastrukturen. Regeringen gav den 15 oktober 2009
+              i uppdrag till Vägverket, Banverket, Sjöfartsverket och Transportstyrelsen
+              att lämna ett gemensamt förslag till ett nytt planeringssystem
+              för transportinfrastrukturen efter samråd med av regeringen utpekade
+              aktörer. I februari 2010 överlämnade trafikverken ett gemensamt
+              förslag till nytt planeringssystem för den långsiktiga planeringen
+              av åtgärder i infrastrukturen och andra åtgärder som påverkar
+              infrastrukturens utveckling till Näringsdepartementet (Förslag
+              till nytt planeringssystem för transportsystemet Slutrapport 2010-02-26).
+              Det förslag som trafikverken skisserar är en rullande och sammanhållen
+              process med en huvudprocess som genomförs varje mandatperiod samt
+              ett samlat planerings- och genomförandeprogram för statligt finansierade
+              åtgärder, som uppdateras en gång om året. Förslaget bygger på
+              att miljöbedömning sker fortlöpande och integrerat i processen
+              och att det ekonomiska utrymme som kan disponeras för nya statliga
+              åtaganden ska stämmas av varje år mot aktuellt budgetläge och
+              redan uppbundna resurser. Förslaget syftar till att öka den politiska
+              styrningen genom att regeringen fattar ett policybeslut som anger
+              mål och inriktning för planeringen och genom att regionerna tar
+              ansvar för att utarbeta, förankra och anta åtgärdsplaner för det
+              samlade transportsystemet i den egna regionen. Enligt trafikverken
+              ska förslag till nya åtgärder tas fram enligt fyrstegsprincipen
+              i dialog med berörda. Samlade effektbedömningar som inkluderar
+              samhällsekonomi och miljö, liksom tillfällen till regional och
+              nationell dialog, integreras i processens samtliga steg. Trafikverken
+              föreslår ett successivt införande av det nya systemet. Inledningsvis
+              säkerställs genomförandet av åtgärder i det aktuella förslaget
+              till nationell plan och regionala planer för perioden 20102021,
+              genom att de tas in i ett planerings- och genomförandeprogram,
+              som blir styrande för Trafikverkets verksamhetsplanering. Inledande
+              arbete med en ny huvudprocess föreslås först i slutet av nästa
+              mandatperiod.
+            </p>
+            <p>
+              Regeringen har i januari 2010 aviserat en proposition om ett
+              nytt planeringssystem för infrastruktur till riksdagen den 23
+              mars. Enligt senare besked har den aviserade propositionen flyttats
+              fram för att bl.a. möjliggöra en eventuell samordning med frågan
+              om en effektivare fysisk planeringsprocess.
+            </p>
+            <p>
+              Utskottet vill i sammanhanget även uppmärksamma att regeringen
+              den 19 mars 2009 beslutade att tillkalla en parlamentarisk kommitté
+              med uppdrag att lämna förslag till effektivisering av den fysiska
+              planeringsprocessen för byggande av transportinfrastruktur (dir.
+              2009:16). I direktiven anges bl.a. att infrastrukturplaneringen
+              behöver effektiviseras så att transportinfrastrukturen snabbare
+              kan utvecklas för att på ett långsiktigt hållbart sätt möta behoven
+              hos näringsliv, medborgare och samhälle i olika delar av landet
+              för att främja samhällsekonomiskt effektiva lösningar. Kommittén
+              ska redovisa sitt uppdrag senast den 31 augusti 2010.
+            </p>
+            <p>
+              Enligt vad utskottet erfarit har Näringsdepartementet tagit del
+              av innehållet i Riksrevisionens granskning. Enligt departementet
+              kommer den problembild som framkommit i granskningen att beaktas
+              i arbetet med den kommande propositionen om planingsprocessen
+              för transportinfrastruktur.
+            </p>
+            <p xml:id="IDA10EZB" rend="r4">
+              Avslutande bedömning
+            </p>
+            <p>
+              Utskottet vill sammanfattningsvis betona att de brister i de
+              regionala länstrafikplanerna som Riksrevisionen uppmärksammade
+              hösten 2009 är allvarliga, särskilt mot bakgrund av att de uppmärksammats
+              redan tidigare i 2004 års granskning. Enligt utskottets bedömning
+              bör de genomförda förändringarna med ny myndighetsstruktur och
+              ny målstruktur för transportpolitiken i kombination med att det
+              pågår en översyn av planeringssystemet för infrastruktur verksamt
+              medverka till att undanröja de brister som konstaterats i länstrafikplanerna
+              för infrastruktur. Utskottet förutsätter att de iakttagelser som
+              Riksrevisionen gjort i granskningen och de rekommendationer som
+              lämnats noga tas till vara och beaktas i den pågående översynen
+              av planeringssystemet för infrastruktur och det fortsatta utvecklingsarbetet.
+              Med hänsyn till detta kan enligt utskottets mening skäl anföras
+              för att fortsättningsvis mer noggrant följa hur systemet för planering
+              av infrastrukturen utvecklas. Det kan bl.a. gälla styrningen mot
+              ett ökat regionalt inflytande i planeringsprocessen i förhållande
+              till att satsningarna ska vara samhällsekonomiskt lönsamma. En
+              ytterligare viktig del i detta är uppföljningen av hur planupprättarna
+              redovisar sina prioriteringar och tydliggör de målkonflikter som
+              kan uppstå i avvägningen mellan nationella och regionala mål.
+            </p>
+            <p>
+              Med hänvisning till det anförda föreslår utskottet att riksdagen
+              lägger redogörelsen om länsplanerna för regional transportinfrastruktur
+              till handlingarna.
+            </p>
+            <p xml:id="IDAE1EZB" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAH1EZB" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAK1EZB" rend="rubrik2">
+              Redogörelsen
+            </p>
+            <p>
+              Redogörelse 2009/10:RRS18 Riksrevisionens styrelses redogörelse
+              om länsplanerna för regional transportinfrastruktur.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

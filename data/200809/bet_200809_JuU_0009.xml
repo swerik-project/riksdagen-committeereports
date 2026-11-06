@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_JuU_0009">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen godkände det utkast till rambeslut som EU har tagit fram rörande verkställighet av utevarodomar. En utevarodom är det som blir följden om den tilltalade inte inställer sig personligen vid en förhandling och döms utan sin närvaro. Det nya rambeslutet innebär att regeländringar kommer att ske i fem andra rambeslut. Dessa fem rambeslut innehåller bestämmelser om under vilka förutsättningar en medlemsstat ska verkställa en annan stats utevarodom. För närvarande ser dessa bestämmelser olika ut i de fem rambesluten, och avsikten med det nu aktuella rambeslutet är att åstadkomma en så likartad reglering som möjligt.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Nya regler för utevarodomar inom EU (JuU9)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0926</idno>
+              <title>2008-11-12</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">26</biblScope>
+              <note type="display-reference">2008-11-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0926</idno>
+              <title>2008-11-12</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">26</biblScope>
+              <note type="display-reference">2008-11-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GW0K31</idno>
+              <title>2008/09:31</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">31</biblScope>
+              <note type="display-reference">2008/09:31</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GW0320</idno>
+              <title>Sveriges antagande av rambeslut om verkställighet av utevarodomar</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">20</biblScope>
+              <note type="display-reference">proposition 2008/09:20 Sveriges antagande av rambeslut om verkställighet av utevarodomar</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2008-11-07">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2008-11-07">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-11-05">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-10-30">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-10-30">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-10-28">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-10-28">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-10-28">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-10-16">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-10-16">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2008-11-12">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-11-12">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-11-12">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-11-12">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-11-12">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-11-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-11-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-11-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-11-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Justitieutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:JuU9
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Rambeslut om utevarodomar
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBRPC" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet regeringens proposition 2008/09:20
+            Sveriges antagande av rambeslut om verkställighet av utevarodomar.
+          </p>
+          <p>
+            Regeringen föreslår i propositionen att riksdagen godkänner ett
+            inom Europeiska unionen upprättat utkast till rambeslut om verkställighet
+            av utevarodomar.
+          </p>
+          <p>
+            Rambeslutet omfattar regeländringar i fem andra rambeslut som
+            reglerar det straffrättsliga samarbetet mellan medlemsstaterna
+            och som bygger på principen om ömsesidigt erkännande av domar
+            och beslut. Dessa är rambeslutet om en europeisk arresteringsorder,
+            rambeslutet om verkställighet av bötesstraff, rambeslutet om verkställighet
+            av beslut om förverkande, utkast till rambeslut om överförande
+            av frihetsberövande påföljder och utkast till rambeslut om övervakning
+            av vissa icke frihetsberövande påföljder.
+          </p>
+          <p>
+            Alla dessa rambeslut innehåller regler om de förutsättningar
+            som gäller när en medlemsstat ska verkställa en annan stats dom
+            eller beslut. Bland annat regleras när en framställan kan avslås
+            i de fall en dom eller ett beslut fattats i en persons utevaro
+            från de förhandlingar som föregick domen eller beslutet. För närvarande
+            är avslagsmöjligheterna olika i dessa rambeslut, och avsikten
+            med det nu aktuella förslaget till rambeslut om verkställighet
+            av utevarodomar är att åstadkomma en så likartad reglering som
+            möjligt. Förslaget syftar både till att stärka rättssäkerheten
+            för den enskilde och till att förenkla det rättsliga samarbetet
+            inom unionen.
+          </p>
+          <p>
+            Det har inte väckts några motioner med anledning av propositionen.
+          </p>
+          <p>
+            Utskottet föreslår att riksdagen tillstyrker regeringens förslag.
+          </p>
+          <p xml:id="IDAYBRPC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Godkännande av rambeslut
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen godkänner det inom Europeiska unionen upprättade utkastet
+                  till rambeslut om ändring i vissa rambeslut och om stärkande av
+                  medbogarnas processuella rättigheter och främjande av tillämpningen
+                  av principen om ömsesidigt erkännande på ett avgörande när den
+                  berörda personen inte var personligen närvarande vid förhandlingen.
+                  Därmed bifaller riksdagen proposition 2008/09:20.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 28 oktober 2008
+          </p>
+          <p>
+            På justitieutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Thomas Bodström
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Thomas Bodström (s),
+            Inger Davidson (kd), Henrik von Sydow (m), Krister Hammarbergh
+            (m), Margareta Persson (s), Ulrika Karlsson i Uppsala (m), Elisebeht
+            Markström (s), Johan Pehrson (fp), Karl Gustav Abramsson (s),
+            Inge Garstedt (m), Christer Adelsbo (s), Helena Bouveng (m), Lena
+            Olsson (v), Otto von Arnold (kd), Mehmet Kaplan (mp), Maryam Yazdanfar
+            (s) och Karin Nilsson (c).
+          </p>
+          <p xml:id="IDA0ERPC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDA3ERPC" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I januari 2008 tog Sverige tillsammans med Frankrike, Förenade
+            kungariket, Slovakien, Slovenien, Tjeckien och Tyskland initiativ
+            till ett rambeslut om verkställighet av utevarodomar. Därefter
+            följde förhandlingar mellan EU:s medlemsstater. En faktapromemoria
+            har upprättats över förslaget till rambeslut (2007/08:FPM72).
+          </p>
+          <p>
+            Regeringen har under förhandlingsarbetet fortlöpande informerat
+            och samrått med riksdagen. Företrädare för Justitiedepartementet
+            har sammanträtt med justitieutskottet vid ett flertal tillfällen.
+            Vidare har justitieministern vid sammanträden i EU-nämnden redogjort
+            för förhandlingsarbetet och den svenska positionen.
+          </p>
+          <p>
+            Europaparlamentet yttrade sig den 2 september 2008 över utkastet
+            till rambeslut (A6-0285/2008). I yttrandet godkände parlamentet
+            utkastet med vissa ändringsförslag (P6_TA-PROV(2008)0381).
+          </p>
+          <p>
+            Vid ministerrådet för rättsliga och inrikes frågors möte den
+            56 juni 2008 nåddes en principöverenskommelse om innehållet i
+            rambeslutet. Överenskommelsen avser ett utkast till rambeslut
+            som i flera delar skiljer sig från det ursprungliga förslaget.
+          </p>
+          <p>
+            Avsikten är att rambeslutet ska antas så snart som möjligt. Medlemsstaterna
+            kommer enligt utkastet till rambeslut att ha två år på sig från
+            det att rambeslutet träder i kraft till det att rambeslutet ska
+            vara genomfört i nationell rätt.
+          </p>
+          <p>
+            Inom Justitiedepartementet har ett utkast till proposition om
+            Sveriges antagande av rambeslutet utarbetats (dnr Ju2008/5301/BIRS).
+            Utkastet har remissbehandlats. Remissyttrandena och en sammanställning
+            över remissyttrandena finns tillgängliga i Justitiedepartementet
+            (dnr Ju2008/5301/BIRS).
+          </p>
+          <p>
+            Regeringens förslag till riksdagsbeslut återges i
+            <seg rend="grad2">
+              bilaga 1
+            </seg>
+            .
+          </p>
+          <p>
+            I propositionen har intagits ett utkast till rambeslut och utkast
+            till formulär i den lydelse dokumenten hade innan den språkliga
+            utformningen hade granskats av EU:s s.k. juristlingvister. En
+            sådan granskning har sedermera skett. Några ändringar i sak har
+            inte gjorts. De juristlingvistgranskade dokumenten återges i
+            <seg rend="grad2">
+              bilaga 2
+            </seg>
+            .
+          </p>
+          <p xml:id="IDAAGRPC" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            Inom Europeiska unionen har det utarbetats ett utkast till rambeslut
+            om verkställighet av utevarodomar. Förslaget omfattar regeländringar
+            i fem andra rambeslut som reglerar det straffrättsliga samarbetet
+            mellan medlemsstaterna och som bygger på principen om ömsesidigt
+            erkännande: rambeslutet om en europeisk arresteringsorder, rambeslutet
+            om verkställighet av bötesstraff, rambeslutet om verkställighet
+            av beslut om förverkande, utkast till rambeslut om överförande
+            av frihetsberövande påföljder och utkast till rambeslut om övervakning
+            av vissa icke frihetsberövande påföljder. Alla dessa rambeslut
+            innehåller regler om under vilka förutsättningar en medlemsstat
+            ska verkställa en annan stats dom eller beslut, bl.a. när en framställan
+            kan avslås i de fall en dom eller ett beslut fattats i en persons
+            utevaro från de förhandlingar som föregick domen eller beslutet.
+            För närvarande ser avslagsmöjligheterna olika ut i dessa rambeslut,
+            och avsikten med det nu aktuella förslaget till rambeslut om verkställighet
+            av utevarodomar är att åstadkomma en så likartad reglering som
+            möjligt. Förslaget syftar både till att stärka rättssäkerheten
+            för den enskilde och till att förenkla det rättsliga samarbetet
+            inom unionen.
+          </p>
+          <p>
+            I propositionen föreslås att Sverige ska anta rambeslutet. Vidare
+            redovisas en bedömning av vilken lagstiftning som behövs för att
+            genomföra rambeslutet.
+          </p>
+          <p xml:id="IDAKGRPC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAOGRPC" rend="rubrik2">
+            Godkännande av rambeslut
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAUGRPC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen godkänner det inom EU upprättade utkastet till rambeslut
+                om verkställighet av utevarodomar.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAAHRPC" rend="r3">
+              Propositionen
+            </p>
+            <p>
+              I propositionen föreslår regeringen att riksdagen ska godkänna
+              ett inom Europeiska unionen upprättat utkast till rambeslut om
+              verkställighet av utevarodomar.
+            </p>
+            <p>
+              Rambeslutet inleds i
+              <seg rend="grad2">
+                artikel 1
+              </seg>
+              med syfte och tillämpningsområde. Syftet med rambeslutet är att
+              stärka de processuella rättigheterna för personer som är föremål
+              för straffrättsliga förfaranden och att samtidigt underlätta det
+              straffrättsliga samarbetet, och särskilt att förbättra ömsesidigt
+              erkännande av rättsliga avgöranden mellan medlemsstaterna.
+            </p>
+            <p>
+              I
+              <seg rend="grad2">
+                artiklarna 26
+              </seg>
+              finns rambeslutets materiella bestämmelser. Genom respektive
+              artikel ändras nuvarande bestämmelser om utevarodomar i de fem
+              berörda rambesluten. Ändringarna omfattar såväl de materiella
+              reglerna i respektive rambeslut som relevanta delar i de intyg
+              som är bifogade rambesluten och som utgör de formulär som ska
+              användas när en medlemsstat begär att en annan stat ska verkställa
+              en dom eller ett beslut. Bestämmelserna i artiklarna 26 är i huvudsak
+              likalydande.
+            </p>
+            <p>
+              Utgångspunkten i artiklarna 26 är att verkställighet av en utevarodom
+              får vägras om inte den utfärdande staten (som begär verkställighet)
+              i intyget kan försäkra att någon av de omständigheter eller villkor
+              som räknas upp i artiklarna är uppfyllda. Villkoren är alternativa,
+              dvs. det räcker att ett av dessa försäkras för att den verkställande
+              staten inte ska kunna avslå en framställan om verkställighet på
+              denna grund.
+            </p>
+            <p>
+              Ett avslag får inte beslutas på grund av att det är en utevarodom
+              om den utfärdande staten kan intyga att den person som berörs:
+            </p>
+            <p>
+              ·. i god tid delgavs personligen och därigenom underrättades
+              om tid och plats för den förhandling som ledde till avgörandet
+              eller på annat sätt faktiskt underrättades om tid och plats för
+              förhandlingen samt, i båda fallen, underrättades om att ett avgörande
+              kunde meddelas i dennes frånvaro från förhandlingen, eller
+            </p>
+            <p>
+              ·. i vetskap om den planerade förhandlingen gett i uppdrag till
+              ett juridiskt ombud, som utsetts av den berörda personen eller
+              staten, att försvara honom eller henne vid förhandlingen, eller
+            </p>
+            <p>
+              ·. efter att ha delgetts avgörandet och underrättats om rätten
+              till en ny prövning eller överklagande och då få delta och få
+              sakfrågan prövad, uttryckligen förklarat att han eller hon inte
+              bestrider avgörandet eller inte begärde en ny prövning eller överklagade
+              inom den utsatta tidsramen.
+            </p>
+            <p>
+              För rambeslutet om en europeisk arresteringsorder finns ytterligare
+              en möjlighet för den utfärdande staten att se till att en utevarodom
+              blir verkställd i en annan medlemsstat. Det gäller det fall då
+              den berörda personen inte har delgetts avgörandet när det blir
+              aktuellt att ta ställning till om en europeisk arresteringsorder
+              ska verkställas. En framställning får inte avslås om den utfärdande
+              staten försäkrar att den berörda personen sedan överlämnandet
+              har skett, omgående kommer att delges avgörandet och underrättas
+              om rätten att begära en ny prövning eller att överklaga avgörandet
+              och då få delta och få sakfrågan prövad samt att den berörde kommer
+              att underrättas om den tidsram som gäller för en ny prövning eller
+              ett överklagande. I dessa fall har den berörde en rätt att begära
+              en kopia av avgörandet innan ett överlämnande får ske. Om personen
+              i fråga begär en ny prövning eller överklagar avgörandet ska ett
+              eventuellt frihetsberövande, enligt den utfärdande statens lagstiftning,
+              prövas regelbundet i avvaktan på att frågan avgörs på nytt.
+            </p>
+            <p>
+              Även när det gäller rambeslutet om verkställighet av bötesstraff
+              finns ytterligare en möjlighet för den utfärdande staten att undvika
+              att en framställan om verkställighet av bötesstraff avslås. Verkställighet
+              får inte vägras om den utfärdande staten försäkrar att den berörda
+              personen, efter att ha blivit informerad om förfarandena och möjligheten
+              att närvara personligen vid förhandlingen, uttryckligen avstått
+              rätten till en muntlig handläggning och meddelat att han eller
+              hon inte bestrider saken. För de nya ändrade vägransgrunderna
+              föreskrivs att den verkställande staten ska samråda med den utfärdande
+              staten innan ett avslag meddelas.
+            </p>
+            <p>
+              I
+              <seg rend="grad2">
+                artiklarna 710
+              </seg>
+              finns sedvanliga bestämmelser om bl.a. vilken tidpunkt rambeslutet
+              bör vara genomfört i medlemsländerna.
+            </p>
+            <p xml:id="IDA5IRPC" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Inom EU har det förhandlats fram ett flertal rambeslut som reglerar
+              det straffrättsliga samarbetet mellan medlemsstaterna och som
+              bygger på principen om ömsesidigt erkännande och verkställighet
+              av domar och beslut.
+            </p>
+            <p>
+              I det nu aktuella rambeslutet om verkställighet av utevarodomar
+              ändras reglerna i fem sådana rambeslut. I alla dessa finns bestämmelser
+              som innebär att en verkställande stat i vissa fall kan vägra verkställighet
+              när en dom eller ett beslut fattats i en persons utevaro. Bestämmelserna
+              ser dock delvis olika ut i respektive rambeslut.
+            </p>
+            <p>
+              Dessa olikheter komplicerar tillämpningen av de bestämmelser
+              som reglerar när en utevarodom ska erkännas eller inte och försvårar
+              det straffrättsliga samarbetet. Det nu aktuella rambeslutet klargör
+              och skapar som ovan anförts i stort enhetliga regler om när en
+              medlemsstat kan vägra att verkställa en europeisk arresteringsorder,
+              vissa påföljder m.m. på grund av att den berörda personen inte
+              var närvarande vid förhandlingen som ledde till utevarodomen.
+            </p>
+            <p>
+              Utskottet delar regeringens bedömning att olika rambeslut som
+              bygger på ömsesidigt erkännande i likartade frågor bör utformas
+              så konsekvent som möjligt. Samtidigt vill utskottet i likhet med
+              regeringen betona vikten av att hitta en balans mellan strävanden
+              att uppnå ett effektivt samarbete och önskemålet att skydda den
+              enskildes rättigheter. Genom enhetliga regler om när en utevarodom
+              ska verkställas eller inte och en miniminivå för när utevarodomar
+              ska godtas mellan medlemsstaterna skapas enligt utskottet goda
+              förutsättningar för att hitta denna balans. Det ramförslag som
+              nu läggs fram innebär enligt utskottet förbättringar som förstärker
+              den enskildes rättigheter och som effektiviserar det straffrättsliga
+              samarbetet mellan medlemsstaterna.
+            </p>
+            <p>
+              Utskottet delar regeringens uppfattning att Sverige bör anta
+              rambeslutet.
+            </p>
+            <p xml:id="IDARJRPC" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAUJRPC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAXJRPC" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2008/09:20 Sveriges antagande av rambeslut om verkställighet
+              av utevarodomar:
+            </p>
+            <p>
+              Riksdagen godkänner det inom Europeiska unionen upprättade utkastet
+              till rambeslut om ändring i vissa rambeslut och om stärkande av
+              medborgarnas processuella rättigheter och främjande av tillämpningen
+              av principen om ömsesidigt erkännande på ett avgörande när den
+              berörda personen inte var personligen närvarande vid förhandlingen
+              (avsnitt 5.1).
+            </p>
+          </div>
+          <div type="html-yttrandebilaga">
+            <p xml:id="IDAEKRPC" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDAHKRPC" rend="AvsnittsRubrik">
+              Utskast till rambeslut
+            </p>
+            <p>
+              <graphic url="shape{20EF324F-C1F2-4D01-A068-53BAA210F4EB}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{FA507112-8E31-462C-A829-F2460612E1B4}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{23809E52-1B85-4360-AD08-5FF17CDFB008}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{9E210355-F29C-42FF-9435-94675DE3D05A}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{EA3ACD2A-7226-445E-9238-7ED25B293C69}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{84592E30-EF50-474D-B558-524F7B284FA4}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{28F8D55A-4FE1-4F79-BF58-410E860573D5}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{0B7AB274-0569-4470-8E2E-90810AF3DB49}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{DF26D5D5-D483-4FAA-987B-5C7DDE563610}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{41DA0FC9-61B9-4C4B-BA2A-5E229BABAE6C}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{7983DB3C-D147-4397-BD94-EEFA28F125E5}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{920B1D28-F313-4172-98A9-A6E55F41DCCA}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{D2B94E62-BFBD-48E9-A599-2ED9C72A14B2}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{5B4013A8-239F-4317-B357-692B89B84A38}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{AFE4232B-E1F5-4B38-A2E9-F86611BE5640}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{CF3A93A5-AD76-4BC6-A2C5-B94C75F02383}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{6A1D6E9B-7F52-4A63-B4DE-96C0666D7587}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{731093F4-A1F1-4F17-9DEE-9650AF28DA1D}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{1C3D9F78-39B0-42DA-84DD-BF17B693332B}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{3F07004D-5CDA-43AA-B231-DB4C3300702F}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{792C27C6-399B-467C-BFE1-BDF34364B238}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{B1C48CC8-DEE7-4C7D-9B54-696441EDF74A}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{0DDE364F-CF93-44E1-972C-C40F11D0A804}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{B9FDC13B-526F-4877-91E8-71CA3E633B4D}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{B568CE2E-0575-4FD1-8CA4-516DABA4F214}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{D04DEC13-F2FF-4CD1-A470-9F57C9061BED}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{B387309B-FA57-4EA2-83D3-1AD0E8267A2C}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{97148ACB-7B2E-4268-B4A2-23B18703AB2D}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{4E884699-FC3C-4D2C-87A6-5E593A136239}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{13532743-28CB-4AD9-B6EC-270B4F87C240}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{9010CEAC-9901-4AB1-ADF8-9393ADE53C7C}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

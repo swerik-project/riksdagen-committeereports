@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_199091_TU_0017">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="rdbeslut" n="Riksdagens beslut">Bifall till utskottets hemställan</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GE0982</idno>
+              <title>Protokoll 1990/91:82</title>
+              <biblScope unit="riksdag-session">1990/91</biblScope>
+              <biblScope unit="document-number">82</biblScope>
+              <note type="display-reference">Protokoll 1990/91:82</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GE03100</idno>
+              <title>Förslag till statsbudget för budgetåret 1991/92. Finansplanen</title>
+              <biblScope unit="riksdag-session">1990/91</biblScope>
+              <biblScope unit="document-number">100</biblScope>
+              <note type="display-reference">proposition 1990/91:100 Förslag till statsbudget för budgetåret 1991/92. Finansplanen</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="AVG" subtype="beredning" n="5" when="1991-03-20">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="beredning" n="1" when="1991-03-15">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="1991-03-07">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="1991-02-19">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Trafikutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            1990/91:TU17
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Anslag till Statens telenämnd
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <div type="section" subtype="h2">
+            <head>
+              Innehåll
+            </head>
+            <list type="unordered">
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bsam">
+                    Utskottet
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bhemst">
+                    Hemställan
+                  </ref>
+                </p>
+              </item>
+            </list>
+            <p>
+              1990/91 TU17
+            </p>
+            <p>
+              SJÄTTE HUVUDTITELN
+            </p>
+            <p>
+              Statens telenämnd
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bsam">
+              Utskottet
+            </head>
+            <p>
+              Utskottet tillstyrker regeringens förslag i proposition 1990/91:100
+              bilaga 8 (kommunikationsdepartementet) i avsnitt J. Telekommunikationer
+              under rubriken J1. Statens telenämnd (s. 132--133).
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bhemst">
+              Hemställan
+            </head>
+            <p>
+              Utskottet hemställer
+            </p>
+            <p>
+              att riksdagen till Statens telenämnd för budgetåret 1991/92 anvisar
+              ett förslagsanslag på 4019000 kr.
+            </p>
+            <p>
+              Stockholm den 7 mars 1991
+            </p>
+            <p>
+              På trafikutskottets vägnar
+            </p>
+            <p>
+              Birger Rosqvist
+            </p>
+            <p>
+              Närvarande: Birger Rosqvist (s), Ove Karlsson (s), Olle Östrand
+              (s), Elving Andersson (c), Sven-Gösta Signell (s), Görel Bohlin
+              (m), Margit Sandéhn (s), Sten-Ove Sundström (s), Sten Andersson
+              i Malmö (m), Hugo Bergdahl (fp), Rune Thorén (c), Viola Claesson
+              (v), Roy Ottosson (mp), Jarl Lander (s), Yngve Wernersson (s),
+              Tom Heyman (m) och Anders Castberger (fp).
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_LU_0029">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen beslutade om bl.a. en ny lag om elektronisk handel och andra informationssamhällets tjänster med anledning av ett EG-direktiv, det s.k. e-handelsdirektivet.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Lag om elektronisk handel (LU29)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09120</idno>
+              <title>2002-06-05</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">120</biblScope>
+              <note type="display-reference">2002-06-05</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09120</idno>
+              <title>2002-06-05</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">120</biblScope>
+              <note type="display-reference">2002-06-05</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K306</idno>
+              <title>2001/02:306</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">306</biblScope>
+              <note type="display-reference">2001/02:306</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K307</idno>
+              <title>2001/02:307</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">307</biblScope>
+              <note type="display-reference">2001/02:307</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="SOU">
+            <bibl type="SOU">
+              <idno type="riksdagen">GJB311</idno>
+              <title>SOU 1995:11</title>
+              <biblScope unit="riksdag-session">1995</biblScope>
+              <biblScope unit="document-number">11</biblScope>
+              <note type="display-reference">1995:11</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="Ds">
+            <bibl type="Ds">
+              <idno type="riksdagen">GPB455</idno>
+              <title>Ds 2001:55</title>
+              <biblScope unit="riksdag-session">2001</biblScope>
+              <biblScope unit="document-number">55</biblScope>
+              <note type="display-reference">2001:55</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="Ds">
+            <bibl type="Ds">
+              <idno type="riksdagen">GPB413</idno>
+              <title>Ds 2001:13</title>
+              <biblScope unit="riksdag-session">2001</biblScope>
+              <biblScope unit="document-number">13</biblScope>
+              <note type="display-reference">2001:13</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GP03134</idno>
+              <title>Ändringar i konsumentköplagen</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">134</biblScope>
+              <note type="display-reference">proposition 2001/02:134 Ändringar i konsumentköplagen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GP03150</idno>
+              <title>Lag om elektronisk handel och andra informationssamhällets tjänster, m.m.</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">150</biblScope>
+              <note type="display-reference">proposition 2001/02:150 Lag om elektronisk handel och andra informationssamhällets tjänster, m.m.</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2002-05-29">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-05-28">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-05-23">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-05-23">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-05-23">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-23">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-18">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-18">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="LAG" subtype="avgorande" n="12" when="2002-07-01">
+            <label>Planerat ikraftträdande</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-06-05">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-06-05">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-06-05">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-06-05">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-06-05">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2002-06-04">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-06-03">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-06-03">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Lagutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:LU29
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Lag om elektronisk handel och andrainformationssamhällets tjänster,
+            m.m.
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I betänkandet behandlar utskottet regeringens
+            proposition 2001/02:150 Lag om elektronisk handel och andra informationssamhällets
+            tjänster, m.m. I propositionen föreslås en ny lag om elektronisk
+            handel och andra informationssamhällets tjänster. Vidare föreslås
+            ändringar i konsumentkreditlagen, marknadsföringslagen och lagen
+            om handel med finansiella instrument. Lagförslagen syftar till
+            att i svensk rätt genomföra Europaparlamentets och rådets direktiv
+            2000/31/EG av den 8 juni 2000 om vissa rättsliga aspekter på informationssamhällets
+            tjänster, särskilt elektronisk handel, på den inre marknaden,
+            det s.k. e-handelsdirektivet. Lagändringarna föreslås träda i
+            kraft den 1 juli 2002. Ingen motion har väckts med anledning av
+            propositionen, och utskottet föreslår att riksdagen skall anta
+            lagförslagen.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut Lag om elektronisk handel
+            och andra informationssamhällets tjänster, m.m. Riksdagen antar
+            dels de av regeringen framlagda förslagen till 1. lag om elektronisk
+            handel och andra informationssamhällets tjänster, 2. lag om ändring
+            i lagen (1991:980) om handel med finansiella instrument, 3. lag
+            om ändring i konsumentkreditlagen (1992:830), dels det av utskottet
+            i bilaga 3 framlagda förslaget till 4. lag om ändring i marknadsföringslagen
+            (1995:450). Därmed bifaller riksdagen propositionerna 2001/02:150
+            och 2001/02:134 i denna del. Stockholm den 23 maj 2002 På lagutskottets
+            vägnar Tanja Linderborg Följande ledamöter har deltagit i beslutet:
+            Tanja Linderborg (v), Rolf Åbjörnsson (kd), Marianne Carlström
+            (s), Christel Anderberg (m), Rune Berglund (s), Karin Jeppsson
+            (s), Nikos Papadopoulos (s), Elizabeth Nyström (m), Marina Pettersson
+            (s), Christina Nenes (s), Tasso Stafilidis (v), Kjell Eldensjö
+            (kd), Berit Adolfsson (m), Anders Berglöv (s), Ana Maria Narti
+            (fp), Petra Gardos (m) och Agne Hansson (c).
+          </p>
+          <p>
+            2001/02 LU29 Redogörelse för ärendet Europaparlamentet och Europeiska
+            unionens råd antog den 8 juni 2000 direktiv 2000/31/EG om vissa
+            rättsliga aspekter på informationssamhällets tjänster, särskilt
+            elektronisk handel, på den inre marknaden, det s.k. e-handelsdirektivet.
+            I direktivet finns bestämmelser om informationssamhällets tjänster
+            och om de tjänsteleverantörer som tillhandahåller sådana tjänster.
+            Direktivet trädde i kraft den 17 juli 2000 och skulle ha varit
+            genomfört i medlemsstaternas nationella lagstiftning senast den
+            17 januari 2002. Under förhandlingarna som föregick direktivets
+            antagande ägde samråd rum med en av Näringsdepartementet tillkallad
+            referensgrupp bestående av företrädare för olika myndigheter och
+            organisationer. Som ett led i genomförandet av direktivet utarbetades
+            vidare inom Regeringskansliet departementspromemorian (Ds 2001:13)
+            E- handelsdirektivet genomförande av direktiv 2000/31/EG om vissa
+            rättsliga aspekter på informationssamhällets tjänster. Under arbetet
+            med promemorian inhämtades synpunkter från myndigheter och organisationer.
+            Dessutom förekom samråd med berörda departement i övriga nordiska
+            länder. Promemorian har remissbehandlats och ligger till grund
+            för propositionens lagförslag. Regeringen beslutade den 7 februari
+            2002 en lagrådsremiss. Dagen därpå anmäldes remissen till kommissionen
+            i enlighet med vad som föreskrivs i Europaparlamentets och rådets
+            direktiv 98/34/EG av den 22 juni 1998 om ett informationsförfarande
+            beträffande tekniska standarder och föreskrifter och beträffande
+            föreskrifter för informationssamhällets tjänster, ändrat genom
+            direktiv 98/48/EG. Kommissionen har i en skrivelse den 13 maj
+            2002 ställd till utrikesministern framfört synpunkter på och i
+            vissa avseenden ifrågasatt det i lagrådsremissen föreslagna genomförandet
+            av direktivet. Näringsdepartementet har den 17 maj 2002 överlämnat
+            en kopia av skrivelsen till lagutskottet. För att i svensk rätt
+            genomföra e-handelsdirektivet föreslår regeringen efter hörande
+            av Lagrådet att riksdagen skall anta det i propositionen framlagda
+            förslaget till lag om elektronisk handel och andra informationssamhällets
+            tjänster samt besluta ändringar i lagen (1991:980) om handel med
+            finansiella instrument, konsumentkreditlagen (1992:830) och marknadsföringslagen
+            (1995:450). Regeringens förslag återfinns i bilaga 1 och lagförslagen
+            i bilaga 2. Ingen motion har väckts med anledning av propositionen.
+            I detta sammanhang behandlar utskottet även ett i proposition
+            2001/02:134 av regeringen tidigare i vår framlagt förslag till
+            lag om ändring i marknadsföringslagen (1995:450). Utskottet har
+            i sitt betänkande 2001/02:LU33 den 16 maj 2002 ställt sig bakom
+            den i proposition 2001/02:134 föreslagna ändringen i sak. Av lagtekniska
+            skäl och i syfte att samordna lagförslaget i proposition 2001/02:134
+            med det nu aktuella förslaget till ändring i marknadsföringslagen,
+            har utskottet nödgats överföra den formella behandlingen av lagförslaget
+            till detta ärende. Det samordnade lagförslaget återfinns i bilaga
+            3. I sammanhanget bör vidare upplysas om att frågor rörande elektronisk
+            handel behandlades senast i mars 2002 i utskottets betänkande
+            2001/02:LU16. I betänkandet finns en översiktlig redovisning av
+            de åtgärder som vidtagits nationellt, inom EU och internationellt
+            i syfte att främja den elektroniska handeln.
+          </p>
+          <p>
+            Utskottets överväganden Genomförande av e-handelsdirektivet Utskottets
+            förslag i korthet Riksdagen bör anta regeringens lagförslag. Direktivets
+            huvudsakliga innehåll E-handelsdirektivet syftar till att säkerställa
+            den fria rörligheten på den inre marknaden för informationssamhällets
+            tjänster. Med sådana tjänster avses tjänster som vanligtvis utförs
+            mot ersättning, på distans, på elektronisk väg och på individuell
+            begäran av en tjänstemottagare. Direktivet är ett s.k. harmoniseringsdirektiv,
+            vilket innebär att medlemsstaterna i sin nationella lagstiftning
+            i vissa avseenden varken får ställa mer eller mindre långtgående
+            krav än vad som följer av direktivet. I direktivet finns bestämmelser
+            om bl.a. vilken information som skall lämnas i samband med marknadsföring,
+            beställning och ingående av avtal (artiklarna 57, 10 och 11),
+            ingående av avtal på elektronisk väg (artikel 9) samt mellanhänders
+            ansvar för överförd och lagrad information (artiklarna 1214).
+            Direktivet innehåller också ett förbud för medlemsstaterna att
+            ålägga tjänsteleverantörer en allmän skyldighet att övervaka eller
+            efterforska viss information (artikel 15). Vidare föreskrivs att
+            varje medlemsstat skall se till att tjänsteleverantörer som är
+            etablerade på dess territorium följer den medlemsstatens bestämmelser
+            om informationssamhällets tjänster (artikel 3.1) och att medlemsstaterna
+            inte får begränsa den fria rörligheten för de av informationssamhällets
+            tjänster som har ursprung i en annan medlemsstat (artikel 3.2).
+            Direktivet syftar inte till att införa nya regler om tillämplig
+            lag på privaträttsliga avtal med internationell anknytning eller
+            om domstolars behörighet (artikel 1.4). Direktivet och dess genomförande
+            i svensk rätt I propositionen konstaterar regeringen att utvecklingen
+            på det område som e-handelsdirektivet omfattar sker mycket snabbt
+            och att tekniken förändras ständigt, varför det finns en risk
+            för att reglerna inte till fullo korresponderar med den nya teknik
+            som växer fram. Enligt regeringens uppfattning finns det därför
+            anledning att vid det svenska genomförandet av direktivet vara
+            försiktig med att reglera mer än vad direktivet kräver. En naturlig
+            utgångspunkt bör, enligt vad som anförs i propositionen, vara
+            att regleringen av området skall vara teknikneutral eller teknikoberoende.
+            Dock måste beaktas att Internet och tekniken med webbsidor skiljer
+            sig från andra kända sätt att sprida information, vilket kan leda
+            till att informationssamhällets tjänster, i likhet med vad som
+            exempelvis är fallet med postbefordran och TV-sändningar, likväl
+            kan behöva regleras särskilt. Det torde således, enligt regeringens
+            bedömning, inte vara möjligt att utforma en lagstiftning som är
+            fullständigt teknikoberoende och teknikneutral. Ytterligare en
+            utgångspunkt för genomförandet bör, enligt regeringen, vara att
+            åtminstone de nordiska länderna får en så enhetlig reglering som
+            möjligt. I propositionen gör regeringen bedömningen att direktivet,
+            med hänsyn till dess horisontella reglering av ett mycket brett
+            område, till största delen bör genomföras i svensk rätt genom
+            en ny speciallag, lagen om elektronisk handel och andra informationssamhällets
+            tjänster (e-handelslagen). Enligt vad som upplyses i propositionen
+            har övriga nordiska länder valt att genomföra direktivet på samma
+            sätt. När det gäller den närmare utformningen av lagen konstaterar
+            regeringen att det, mot bakgrund av direktivets komplexa och delvis
+            detaljerade karaktär, är ofrånkomligt att delar av direktivet
+            mer eller mindre ordagrant måste införas i lagtexten. För att
+            i möjligaste mån följa svenska traditioner i fråga om lagstil
+            och inte i onödan tynga lagen med ett ohanterligt språkbruk är
+            det, anser regeringen, dock nödvändigt att göra vissa förenklingar
+            och modifieringar i lagtexten. I det följande lämnas en översiktlig
+            redogörelse för e-handelsdirektivets viktigare delar och regeringens
+            förslag och bedömningar vad gäller direktivets genomförande i
+            svensk rätt. Direktivets tillämpningsområde är begränsat till
+            informationssamhällets tjänster. Begreppet definieras genom en
+            hänvisning till Europaparlamentets och rådets direktiv 98/34/EG
+            av den 22 juni 1998 om ett informationsförfarande beträffande
+            tekniska standarder och föreskrifter och beträffande föreskrifter
+            för informationssamhällets tjänster, ändrat genom direktiv 98/48/EG.
+            Med informationssamhällets tjänster avses enligt detta direktiv
+            sådana tjänster som vanligtvis utförs mot ersättning, på distans,
+            på elektronisk väg och på individuell begäran av en tjänstemottagare.
+            Begreppet omfattar en mängd olika former av näringsverksamhet
+            som bedrivs online, exempelvis försäljning av varor och tjänster
+            samt tillhandahållande och vidarebefordran av information. Radio-
+            och TV-sändningar omfattas dock inte eftersom det inte är fråga
+            om en tjänst som tillhandahålls på individuell begäran. Direktivet
+            är inte tillämpligt på vissa i direktivet uppräknade områden,
+            bl.a. beskattning, viss notariatverksamhet, frågor som rör avtal
+            eller förfaranden som omfattas av kartellagstiftning och spelverksamhet.
+            Det skall inte heller tillämpas på frågor rörande informationssamhällets
+            tjänster som omfattas av vissa EG-direktiv, nämligen dataskyddsdirektivet
+            (95/46/EG) och teledataskyddsdirektivet (97/66/EG). E- handelsdirektivet
+            påverkar inte den konsumentskyddsnivå som följer av bl.a. distansavtalsdirektivet
+            (97/7/EG). I propositionen föreslås att den nya e- handelslagen
+            skall ha samma tillämpningsområde som direktivet. Lagen skall
+            således vara tillämplig på påbörjande och utövande av informationssamhällets
+            tjänster, med de undantag som följer av direktivet (1 och 6 §§).
+            En central del av direktivet utgörs av den s.k. ursprungslandsprincipen,
+            som bygger på principerna om ursprungslandskontroll och ömsesidigt
+            erkännande. I detta sammanhang innebär ursprungslandsprincipen
+            dels att varje medlemsstat skall se till att de av informationssamhällets
+            tjänster som en på dess territorium etablerad tjänsteleverantör
+            tillhandahåller överensstämmer med de nationella bestämmelser
+            som är tillämpliga i denna medlemsstat och som omfattas av det
+            s.k. samordnade området (artikel 3.1), dels att medlemsstaterna
+            inte av skäl som omfattas av det samordnade området får begränsa
+            den fria rörligheten för de av informationssamhällets tjänster
+            som har sitt ursprung i en annan medlemsstat (artikel 3.2). Syftet
+            med ursprungslandsprincipen är att en tjänsteleverantör skall
+            kunna erbjuda sina tjänster i hela gemenskapen, utan att behöva
+            ta reda på eller beakta de krav som ställs på verksamheten eller
+            tjänsterna i hela gemenskapen. Av avgörande betydelse för den
+            närmare innebörden av ursprungslandsprincipen är begreppet det
+            samordnade området. Därmed avses, enligt artikel 2 h, de krav
+            som leverantörer av informationssamhällets tjänster måste uppfylla
+            när det gäller startande och utövande av verksamhet, oavsett om
+            kraven är av allmän natur eller särskilt utformade för informationssamhällets
+            tjänster. Begreppet avser bl.a. regler om anmälnings-, registrerings-
+            eller tillståndsförfaranden samt behörighetskrav för verksamhetsutövare.
+            Till det samordnade området hör även regler om marknadsföring,
+            krav på kvaliteten på och innehållet i tjänster samt ansvar för
+            den information som lämnas vid marknadsföring. Från ursprungslandsprincipen
+            görs i direktivet en rad undantag som finns angivna i en bilaga
+            till direktivet. Ursprungslandsprincipen är således inte tillämplig
+            på bl.a. immaterialrättens område, utgivning av elektroniska pengar,
+            avtalsparters frihet att välja vilken lagstiftning som skall tillämpas
+            på deras avtal, avtalsförpliktelser vid konsumentavtal, giltigheten
+            av vissa avtal om fast egendom och frågan huruvida icke begärda
+            kommersiella meddelanden per e-post är tillåtna. I undantagsfall
+            får en medlemsstat, med stöd av artikel 3.4 under vissa förutsättningar
+            vidta åtgärder som strider mot förbudet att begränsa den fria
+            rörligheten för en viss tjänst från en annan medlemsstat i syfte
+            att skydda allmän ordning och säkerhet, folkhälsan och konsumenter.
+            För att genomföra ursprungslandsprincipen i svensk rätt föreslås
+            i propositionen en bestämmelse i den nya e-handelslagen med den
+            innebörden att svensk rätt skall gälla inom det samordnade regelområdet
+            för tjänster som tillhandahålls av tjänsteleverantörer med Sverige
+            som etableringsstat, även om tjänsterna helt eller delvis riktar
+            sig mot andra EES-stater (5 §). Vidare föreslås en bestämmelse
+            som lägger fast att en tjänsteleverantör som är etablerad i en
+            annan EES-stat har rätt att, utan hinder av svenska regler inom
+            det samordnade regelområdet, tillhandahålla tjänstemottagare i
+            Sverige informationssamhällets tjänster (3 § första stycket).
+            När det gäller omfattningen av det s.k. samordnade området anför
+            regeringen att mycket talar för att bedömningen i departementspromemorian
+            att området är begränsat till krav som det allmänna ställer på
+            tjänsteleverantörerna, dvs. offentligrättsliga krav, är riktig,
+            men att direktivet i denna del samtidigt är oklart och att det
+            i sista hand är EG-domstolens uppgift att avgöra direktivets innebörd.
+            De begränsningar av ursprungslandsprincipens tillämplighet som
+            finns i direktivet föreslås även införas i e-handelslagen (6 och
+            7 §§). Vidare föreslås en bestämmelse som, i enlighet med vad
+            som närmare följer av artikel 3.4, ger svenska domstolar och myndigheter
+            en möjlighet att i enskilda fall vidta åtgärder som hindrar den
+            fria rörligheten för en tjänst i syfte att skydda allmän ordning
+            och säkerhet, folkhälsan eller konsumentintressena (3 § andra
+            stycket och 4 §). I artikel 5 finns allmänna krav på den information
+            som en leverantör av informationssamhällets tjänster måste lämna
+            om sig själv och sin verksamhet, exempelvis namn, e-postadress
+            och etableringsort. Vidare ställs i artikel 6 upp vissa krav på
+            information som måste lämnas i samband med kommersiella meddelanden.
+            Artikel 20 överlämnar till medlemsstaterna att finna lämpliga
+            påföljder vid brister i informationslämnandet. För att genomföra
+            artikel 5 föreslås en särskild bestämmelse i e-handelslagen. Däremot
+            behövs, enligt regeringens bedömning, ingen lagstiftningsåtgärd
+            med anledning av artikel 6 eftersom motsvarande krav redan gäller
+            enligt bl.a. 5 § marknadsföringslagen. En tjänsteleverantör som
+            åsidosätter sin informationsplikt skall, enligt förslaget, kunna
+            drabbas av sanktioner enligt marknadsföringslagen (15 §). Några
+            civil- eller straffrättsliga påföljder bör, anser regeringen,
+            inte införas. Inte heller bör någon ny möjlighet att utdöma marknadsstörningsavgift
+            införas. Enligt artikel 9 skall medlemsstaterna se till att deras
+            rättssystem tillåter att avtal ingås på elektronisk väg. Formkrav
+            i svensk rätt som utgör hinder mot att sådana avtal ingås måste
+            således upphävas. Detta gäller dock endast avtal som kan ingås
+            i samband med informationssamhällets tjänster. Till detta kommer
+            att artikel 9 medger att vissa slag av avtal undantas från kravet
+            på upphävande av formkrav, bl.a. avtal som skapar eller överför
+            rätt till fast egendom, dock ej hyresavtal, samt vissa borgensavtal
+            och familjerättsliga avtal. I propositionen konstateras att det
+            finns ett mycket begränsat antal situationer där svensk lagstiftning
+            kräver avtal i pappersform. En sådan situation är, anförs det
+            i propositionen, avtal om konsumentkrediter. Av 9 § konsumentkreditlagen
+            (1992:830) framgår att ett avtal om kredit skall ingås skriftligen
+            och undertecknas av konsumenten samt att denne skall få en kopia
+            av avtalet. Enligt regeringens bedömning utgör visserligen inte
+            kravet på skriftlighet hinder mot att ingå avtal om kredit på
+            elektronisk väg. Annorlunda förhåller det sig dock när det gäller
+            kravet på att konsumenten skall underteckna avtalet. I denna del
+            föreslås därför en ändring i konsumentkreditlagen som innebär
+            att formkravet även skall anses uppfyllt om konsumenten signerar
+            avtalet med en avancerad elektronisk signatur. Vidare föreslås
+            ett förtydligande i lagen (1991:980) om handel med finansiella
+            instrument om att vissa avtal enligt lagen kan slutas på elektronisk
+            väg. I övrigt bör, enligt regeringen, gällande formkrav i fråga
+            om avtal om fast egendom och familjerättsliga avtal för närvarande
+            behållas. I artiklarna 1214 finns särskilda bestämmelser om mellanhänders
+            ansvar för överföring och lagring av information som tillhandahållits
+            av andra. Bestämmelserna innebär att mellanhänder som bedriver
+            viss verksamhet, nämligen vidarebefordring av information (s.k.
+            mere conduit), överföring av information (s.k. cashning) och lagring
+            av information (värdtjänster) inte skall kunna göras ansvariga
+            för sådan information som de överför, vidarebefordrar eller lagrar.
+            De ansvarsbegränsningar som regleras i artiklarna avser alla typer
+            av ansvar inom alla rättsområden. Ett syfte med bestämmelserna
+            är att säkerställa att mellanhänderna inte drabbas av ett orimligt
+            stort ansvar, vilket kan riskera att hämma utvecklingen av informationssamhällets
+            tjänster. Andra syften är att öka tryggheten och rättssäkerheten
+            samt att avlägsna hinder för den fria rörligheten för tjänsterna
+            genom att ha tydliga och framför allt gemensamma regler på den
+            inre marknaden. Medlemsstaterna får, enligt artikel 15.1, inte
+            föreskriva en allmän skyldighet att i samband med tillhandahållande
+            av sådana tjänster som omfattas av artiklarna 1214, övervaka den
+            information som överförs eller lagras för annans räkning. Mellanhänderna
+            får inte heller åläggas någon allmän skyldighet att aktivt efterforska
+            fakta eller omständigheter som kan tyda på olaglig verksamhet.
+            I propositionen diskuteras ingående behovet av särskilda bestämmelser
+            om ansvarsfrihet i fråga om mellanhänders straffrättsliga och
+            skadeståndsrättsliga ansvar samt ansvar för s.k. sanktionsavgifter.
+            Vad först gäller det skadeståndsrättsliga området konstaterar
+            regeringen att ett visst behov av sådana bestämmelser föreligger.
+            För att undvika gränsdragningsfrågor föreslås dock en generell
+            regel som uttryckligen föreskriver att en tjänsteleverantör under
+            vissa närmare angivna förutsättningar inte är skyldig att ersätta
+            skada på grund av innehållet i överförd eller lagrad information.
+            Motsvarande föreslås också i fråga om sanktionsavgifter (1618
+            §§). När det sedan gäller det straffrättsliga ansvaret föreligger,
+            anförs det i propositionen, visserligen redan enligt gällande
+            rätt ansvarsfrihet i enlighet med vad som krävs i artiklarna 1214.
+            För att undanröja varje osäkerhet som kan föreligga beträffande
+            oaktsamhetsbrott och för att på ett tydligt sätt genomföra direktivet
+            i denna del föreslås dock en bestämmelse enligt vilken en tjänsteleverantör
+            som överför eller lagrar information för annan får dömas till
+            ansvar för brott som avser innehållet i informationen endast om
+            brottet begåtts uppsåtligen (19 §). Vad slutligen gäller frågan
+            om förbudet i artikel 15 mot att införa en allmän övervakningsplikt
+            för mellanhänder konstaterar regeringen i propositionen att lagen
+            (1998:112) om ansvar för elektroniska anslagstavlor, den s.k.
+            BBS-lagen, inte innebär en sådan övervakningsplikt, utan endast
+            en plikt för den som äger eller administrerar en elektronisk anslagstavla
+            att hålla en viss uppsikt över den i skälig omfattning. Detta
+            innebär, enligt regeringens bedömning, att BBS-lagen inte står
+            i strid med direktivet och att artikel 15 således inte kräver
+            någon lagstiftningsåtgärd. Utskottets ställningstagande Som redovisats
+            inledningsvis anmäldes den i ärendet beslutade lagrådsremissen
+            den 8 februari 2002 till kommissionen i enlighet med det förfarande
+            som regleras i Europaparlamentets och rådets direktiv 98/34/EG
+            av den 22 juni 1998 om ett informationsförfarande beträffande
+            tekniska standarder och föreskrifter och beträffande föreskrifter
+            för informationssamhällets tjänster, ändrat genom direktiv 98/48/EG.
+            Detta direktiv innebär bl.a. att en medlemsstat inte får anta
+            ett förslag till föreskrift som har anmälts förrän tre månader
+            förflutit räknat från den tidpunkt då kommissionen mottog anmälan.
+            Det anmälda förslaget får inte heller antas förrän ytterligare
+            en månad förflutit om kommissionen eller någon annan medlemsstat
+            inom samma tidsfrist inkommer med ett s.k. detaljerat yttrande
+            som går ut på att den planerade åtgärden kan skapa hinder för
+            tjänsternas fria rörlighet eller för tjänsteaktörernas etableringsfrihet
+            på den inre marknaden. Enligt artikel 8.2 kan kommissionen och
+            medlemsstaterna lämna synpunkter på den föreslagna lagen, även
+            om något detaljerat yttrande inte överlämnas. Det ankommer då
+            på medlemsstaten att så långt möjligt ta hänsyn till dessa synpunkter
+            då föreskriften antas. Någon formell skyldighet att göra det föreligger
+            dock inte. Den i direktivet föreskrivna tremånadersfristen löpte
+            ut den 13 maj 2002, dvs. två månader efter det att regeringen
+            beslutade att överlämna förevarande proposition till riksdagen.
+            Kommissionen har i en skrivelse samma dag ställd till utrikesministern
+            framfört synpunkter på och i viss mån även ifrågasatt det i lagrådsremissen
+            föreslagna genomförandet av direktivet. Detta gäller i huvudsak
+            artiklarna 2, 3.2, 3.4 och 1214. Näringsdepartementet har den
+            17 maj 2002 överlämnat en kopia av skrivelsen till lagutskottet.
+            Enligt utskottets mening hade det varit att föredra om notifieringsförfarandet
+            hade kunnat ske innan propositionen överlämnades till riksdagen
+            så att kommissionens eventuella synpunkter hade kunnat bli föremål
+            för sedvanlig beredning inom Regeringskansliet. På så sätt hade
+            kommissionens synpunkter också kunnat aktualiseras motionsledes.
+            I den uppkomna situationen kan utskottet dock konstatera att varken
+            kommissionen eller någon medlemsstat har inkommit med något detaljerat
+            yttrande enligt artikel 9. Utskottet är inte heller berett att
+            närmare överväga de av kommissionen aktualiserade spörsmålen.
+            Direktivets genomförande skulle då försenas ytterligare, något
+            som enligt utskottet bör undvikas. Med hänsyn härtill och då utskottet
+            inte kan finna annat än att de föreslagna lagändringarna innebär
+            att Sverige kommer att uppfylla vad som krävs i direktivet, tillstyrker
+            utskottet bifall till propositionen. Utskottet förutsätter dock
+            att kommissionens yttrande snarast blir föremål för överväganden
+            inom Regeringskansliet och att regeringen, om det därvid skulle
+            visa sig föreligga behov av ytterligare lagstiftningsåtgärder,
+            återkommer till riksdagen med erforderliga lagförslag. Utskottet
+            har i betänkande 2001/02:LU33 i sak ställt sig bakom regeringens
+            i proposition 2001/02:134 framlagda förslag till lag om ändring
+            i marknadsföringslagen (1995:450), men av samordningsskäl överlåtit
+            behandlingen av den författningstekniska regleringen till det
+            nu aktuella ärendet. De båda lagförslagen återfinns efter samordning
+            i bilaga 3 till betänkandet. Utskottet tillstyrker bifall även
+            till proposition 2001/02:134 såvitt nu är i fråga. Bilaga 1 Förteckning
+            över behandlade förslag
+          </p>
+          <p>
+            Propositionerna I proposition 2001/02:150 föreslår regeringen
+            (Näringsdepartementet) efter hörande av Lagrådet att riksdagen
+            antar de i propositionen framlagda förslagen till 1. lag om elektronisk
+            handel och andra informationssamhällets tjänster, 2. lag om ändring
+            i lagen (1991:980) om handel med finansiella instrument, 3. lag
+            om ändring i konsumentkreditlagen (1992:830), 4. lag om ändring
+            i marknadsföringslagen (1995:450). I proposition 2001/02:134 föreslår
+            regeringen (Justitiedepartementet) efter hörande av Lagrådet såvitt
+            nu är i fråga (lagförslag 3) att riksdagen antar i propositionen
+            framlagt förslag till lag om ändring i marknadsföringslagen (1995:450).
+            Lagförslagen finns i bilaga 2 till betänkandet.
+          </p>
+          <p>
+            Bilaga 2 Regeringens lagförslag I proposition 2001/02:150 framlagda
+            lagförslag 1 Förslag till lag om elektronisk handel och andra
+            informationssamhällets tjänster 2 Förslag till lag om ändring
+            i lagen (1991:980) om handel med finansiella instrument 3 Förslag
+            till lag om ändring i konsumentkreditlagen (1992:830) 4 Förslag
+            till lag om ändring i marknadsföringslagen (1995:450) I proposition
+            2001/02:134 framlagt lagförslag Förslag till lag om ändring i
+            marknadsföringslagen (1995:450) BILAGA 3 Utskottets lagförslag
+            Förslag till lag om ändring i marknadsföringslagen (1995:450)
+            Härigenom föreskrivs[1] i fråga om marknadsföringslagen (1995:450)
+            dels att nuvarande 13 a § skall betecknas 13 b §, dels att den
+            nya 13 b § skall ha följande lydelse, dels att 1921, 29, 34, 35,
+            38, 44, 50, 54 och 55 §§ samt rubriken närmast före 21 § skall
+            ha följande lydelse, dels att det i lagen skall införas två nya
+            paragrafer, 13 a och 16 a §§, samt närmast före 13 a § och 16
+            a § nya rubriker av följande lydelse. -----------------------------------------------------
+            Nuvarande lydelse Föreslagen lydelse -----------------------------------------------------
+            Garantier -----------------------------------------------------
+            ----------------------------------------------------- 13 a § -----------------------------------------------------
+            En näringsidkare, som vid marknadsföringen erbjuder sig att genom
+            en garanti eller liknande utfästelse under en viss tid svara för
+            en produkt eller del därav eller för en egenskap hos produkten,
+            skall vid försäljningen lämna köparen tydlig information om utfästelsens
+            innehåll och de uppgifter som är nödvändiga för att köparen skall
+            kunna göra den gällande. Information skall även lämnas om att
+            köparens rättigheter enligt lag inte påverkas av utfästelsen.
+            Utfästelsen och informationen skall lämnas i en handling eller
+            i någon annan läsbar och varaktig form som är tillgänglig för
+            köparen. -----------------------------------------------------
+            ----------------------------------------------------- 13 b §[2]
+            ----------------------------------------------------- En näringsidkare
+            får vid marknadsföring till en fysisk person använda telefax eller
+            sådana uppringningsautomater eller andra liknande automatiska
+            system för individuell kommunikation som inte betjänas av någon
+            enskild, bara om den fysiska personen har samtyckt till det på
+            förhand. Näringsidkaren får använda andra metoder för individuell
+            kommunikation på distans om inte den fysiska personen tydligt
+            motsatt sig att metoden används. -----------------------------------------------------
+            En näringsidkare som använder e-post vid icke begärd marknadsföring
+            till fysiska personer skall respektera och regelbundet kontrollera
+            register där personer som inte önskar få sådan marknadsföring
+            med e-post kan registrera sig. -----------------------------------------------------
+            ----------------------------------------------------- Åläggande
+            att tillhandahålla tekniska hjälpmedel 16 a § En tjänsteleverantör
+            enligt lagen (2002:000) om elektronisk handel och andra informationssamhällets
+            tjänster som i strid med 10 § i den lagen låter bli att tillhandahålla
+            sådana tekniska hjälpmedel som avses där får åläggas att tillhandahålla
+            hjälpmedlen. -----------------------------------------------------
+            ----------------------------------------------------- 19 § -----------------------------------------------------
+            Ett förbud enligt 14 Ett förbud enligt 14 eller 17 § och ett eller
+            17 § och ett åläggande enligt 15 § åläggande enligt 15 eller skall
+            förenas med vite, 16 a § skall förenas med om det inte av särskilda
+            vite, om det inte av skäl är obehövligt. särskilda skäl är obehövligt.
+            ----------------------------------------------------- -----------------------------------------------------
+            20 § ----------------------------------------------------- Rätten
+            får meddela förbud Rätten får meddela enligt 14 eller 17 § förbud
+            enligt 14 eller 17 eller åläggande enligt 15 § eller åläggande
+            enligt § att gälla tills vidare, 15 eller 16 a § att gälla om
+            tills vidare, om -----------------------------------------------------
+            1. käranden visar sannolika skäl för sin talan, och 2. det skäligen
+            kan befaras att svaranden genom att vidta eller låta bli att vidta
+            en viss handling minskar betydelsen av ett förbud eller åläggande.
+            I fråga om beslut enligt första stycket tillämpas 15 kap. 5 §
+            andrafjärde styckena samt 6 och 8 §§ rättegångsbalken. Beslutet
+            får verkställas genast. -----------------------------------------------------
+            ----------------------------------------------------- Förbuds-
+            och Förelägganden informationsförelägganden -----------------------------------------------------
+            ----------------------------------------------------- 21 § -----------------------------------------------------
+            I fall som inte är av I fall som inte är av större vikt får större
+            vikt får Konsumentombudsmannen Konsumentombudsmannen meddela föreläggande
+            om meddela föreläggande om 1. förbud som avses i 14 1. förbud
+            som avses i 14 eller 17 § eller 17 § (förbudsföreläggande), (förbudsföreläggande),
+            eller 2. åläggande som avses i 2. åläggande som avses i 15 § 15
+            § (informationsföreläggande), (informationsföreläggande).eller
+            3. åläggande som avses i 16 a §. -----------------------------------------------------
+            Föreläggandet skall förenas med vite. För att bli gällande skall
+            näringsidkaren godkänna föreläggandet omedelbart eller inom en
+            viss tid. Om föreläggandet har godkänts, gäller det som en lagakraftvunnen
+            dom. Ett godkännande som sker efter den utsatta tiden gäller inte.
+            ----------------------------------------------------- -----------------------------------------------------
+            29 §[3] -----------------------------------------------------
+            Den som uppsåtligen eller Den som uppsåtligen av oaktsamhet bryter
+            mot eller av oaktsamhet ett förbud eller ett bryter mot ett förbud
+            åläggande som har eller ett åläggande som meddelats med stöd av
+            14 har meddelats med stöd av eller 15 § eller mot en 14, 15 eller
+            16 a § eller föreskrift i 513 a §§, mot en föreskrift i 513 skall
+            ersätta den skada b §§, skall ersätta den som därigenom uppkommer
+            skada som därigenom för en konsument eller uppkommer för en någon
+            annan konsument eller någon näringsidkare. annan näringsidkare.
+            ----------------------------------------------------- Vid bestämmande
+            av ersättningen till näringsidkare får hänsyn tas även till omständigheter
+            av annan än ekonomisk art. -----------------------------------------------------
+            ----------------------------------------------------- 34 § -----------------------------------------------------
+            En näringsidkare är skyldig att på uppmaning av Konsumentombudsmannen
+            1. yttra sig och lämna de upplysningar som behövs i ett ärende
+            om tillämpningen av denna lag, -----------------------------------------------------
+            2. tillhandahålla de 2. tillhandahålla de handlingar, varuprover
+            handlingar, varuprover och liknande som kan ha och liknande som
+            kan ha betydelse för utredningen betydelse för utredningen i ett
+            ärende där beslut i ett ärende där beslut om förbud eller åläggande
+            om förbud eller åläggande enligt 14, 15 eller 17 § enligt 14,
+            15, 16 a eller kan antas komma i fråga. 17 § kan antas komma i
+            fråga. ----------------------------------------------------- -----------------------------------------------------
+            35 § ----------------------------------------------------- -----------------------------------------------------
+            Den som har meddelats ett Den som har meddelats förbud eller åläggande
+            ett förbud eller enligt 14, 15 eller 17 § åläggande enligt 14,
+            15, är skyldig att på 16 a eller 17 § är uppmaning av skyldig
+            att på uppmaning Konsumentombudsmannen av Konsumentombudsmannen
+            tillhandahålla de tillhandahålla de upplysningar, handlingar,
+            upplysningar, handlingar, varuprover och liknande varuprover och
+            liknande som behövs för tillsynen som behövs för tillsynen över
+            att förbudet eller över att förbudet eller åläggandet följs. åläggandet
+            följs. ----------------------------------------------------- -----------------------------------------------------
+            38 §[4] -----------------------------------------------------
+            Talan om förbud eller Talan om förbud eller åläggande enligt 14,
+            15 åläggande enligt 14, 15, eller 17 § väcks vid 16 a eller 17
+            § väcks vid Marknadsdomstolen. Om Marknadsdomstolen. Om samma
+            kärande, eller en samma kärande, eller en annan kärande i samråd
+            annan kärande i samråd med denne, samtidigt med denne, samtidigt
+            väcker en talan om väcker en talan om marknadsstörningsavgift
+            marknadsstörningsavgift enligt 22 § eller enligt 22 § eller skadestånd
+            enligt 29 § skadestånd enligt 29 § med anledning av med anledning
+            av marknads-föringen, skall marknadsföringen, skall dock en talan
+            om förbud dock en talan om förbud eller åläggande väckas eller
+            åläggande väckas vid Stockholms tingsrätt. vid Stockholms tingsrätt.
+            ----------------------------------------------------- Talan om
+            förbud eller åläggande får väckas av 1. Konsumentombudsmannen,
+            2. en näringsidkare som berörs av marknadsföringen, och 3. en
+            sammanslutning av konsumenter, näringsidkare eller löntagare.
+            Ett interimistiskt beslut enligt 20 § meddelas av den domstol
+            där en rättegång enligt första stycket pågår. -----------------------------------------------------
+            ----------------------------------------------------- 44 § -----------------------------------------------------
+            En dom i vilken frågan om En dom i vilken frågan förbud enligt
+            14 eller 17 om förbud enligt 14 eller § eller åläggande enligt
+            17 § eller åläggande 15 § har prövats, hindrar enligt 15 eller
+            16 a § att en ny talan enligt har prövats, hindrar att 14, 15
+            eller 17 § väcks en ny talan enligt 14, med anledning av 15, 16
+            a eller 17 § väcks marknadsföringen. En med anledning av sådan
+            dom hindrar dock marknadsföringen. En inte att samma fråga sådan
+            dom hindrar dock prövas på nytt när inte att samma fråga ändrade
+            förhållanden prövas på nytt när föranleder det. ändrade förhållanden
+            föranleder det. -----------------------------------------------------
+            ----------------------------------------------------- 50 §[5]
+            ----------------------------------------------------- Om något
+            annat inte Om något annat inte följer av denna lag, följer av
+            denna lag, skall föreskrifterna i skall föreskrifterna i rättegångsbalken
+            om rättegångsbalken om tvistemål där förlikning tvistemål där
+            förlikning om saken inte är tillåten om saken inte är tillåten
+            tillämpas på mål om tillämpas på mål om förbud eller åläggande
+            förbud eller åläggande enligt 14, 15 eller 17 § enligt 14, 15,
+            16 a eller och mål om 17 § och mål om marknadsstörningsavgift
+            marknadsstörningsavgift enligt 22 §. enligt 22 §. -----------------------------------------------------
+            I mål om skadestånd enligt 29 § gäller vad som är föreskrivet
+            i rättegångsbalken om tvistemål där förlikning om saken är tillåten.
+            I ärenden som avses i 42 § andra stycket gäller lagen (1996:242)
+            om domstolsärenden, om något annat inte följer av denna lag. -----------------------------------------------------
+            ----------------------------------------------------- 54 § -----------------------------------------------------
+            I mål om förbud eller I mål om förbud eller åläggande enligt 14,
+            15 åläggande enligt 14, 15, eller 17 § har den som 16 a eller
+            17 § har den har talerätt enligt 38 § som har talerätt enligt
+            andra stycket rätt att 38 § andra stycket rätt delta i rättegången
+            som att delta i rättegången intervenient enligt 14 som intervenient
+            enligt kap. rättegångsbalken. 14 kap. rättegångsbalken. -----------------------------------------------------
+            ----------------------------------------------------- 55 § -----------------------------------------------------
+            ----------------------------------------------------- I mål enligt
+            denna lag I mål enligt denna lag gäller i fråga om gäller i fråga
+            om rättegångskostnader 18 rättegångskostnader 18 kap. rättegångsbalken.
+            kap. rättegångsbalken. Bestämmelsen i 18 kap. 16 Bestämmelsen
+            i 18 kap. 16 § rättegångsbalken skall § rättegångsbalken skall
+            dock inte tillämpas i mål dock inte tillämpas i mål om förbud
+            eller åläggande om förbud eller åläggande enligt 14, 15 eller
+            17 §. enligt 14, 15, 16 a eller I sådana mål får rätten 17 §.
+            I sådana mål får bestämma att var och en rätten bestämma att var
+            av parterna skall svara och en av parterna skall för sina svara
+            för sina rättegångskostnader. rättegångskostnader. -----------------------------------------------------
+            ____________ Denna lag träder i kraft den 1 juli 2002. Elanders
+            Gotab, Stockholm 2002 **FOOTNOTES** [1]: Jfr Europaparlamentets
+            och rådets direktiv 1999/44/EG av den 25 maj 1999 om vissa aspekter
+            rörande försäljning av konsumentvaror och härmed förknippade garantier
+            (EGT L 171, 7.7.1999, s. 12, Celex 31999L0044) och Europaparlamentets
+            och rådets direktiv 2000/31/EG av den 8 juni 2000 om vissa rättsliga
+            aspekter på informationssamhällets tjänster, särskilt elektronisk
+            handel, på den inre marknaden (Direktiv om elektronisk handel)
+            (EGT L 178, 17.7.2000, s. 1, Celex 32000L0031). Se även Europaparlamentets
+            och rådets direktiv 98/34/EG av den 22 juni 1998 om ett informationsförfarande
+            beträffande tekniska standarder och föreskrifter och beträffande
+            föreskrifter för informationssamhällets tjänster (EGT L 204, 21.7.1998,
+            s. 37, Celex 31998L0034), ändrat genom Europaparlamentet och rådets
+            direktiv 98/48/EG (EGT L 217, 5.8.1998, s. 18, Celex 31998L0048).
+            [2]: Senaste lydelse av tidigare 13 a § 2000:129. [3]: Senaste
+            lydelse 2000:129. [4]: Senaste lydelse 1999:114. [5]: Senaste
+            lydelse 1996:270.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

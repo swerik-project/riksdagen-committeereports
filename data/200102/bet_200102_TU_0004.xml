@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_TU_0004">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen beslutade om lagändringar för att Sverige ska uppfylla kraven i två EU-direktiv om åtgärder för förbättrad fartygssäkerhet. Ändringarna träder i kraft den 1 januari 2002.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Fartygssäkerhet (TU4)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0921</idno>
+              <title>2001-10-31</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">21</biblScope>
+              <note type="display-reference">2001-10-31</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0921</idno>
+              <title>2001-10-31</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">21</biblScope>
+              <note type="display-reference">2001-10-31</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K9</idno>
+              <title>2001/02:9</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">9</biblScope>
+              <note type="display-reference">2001/02:9</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1988:49</idno>
+              <note type="display-reference">2001:875</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1980:424</idno>
+              <note type="display-reference">2001:876</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1990:712</idno>
+              <note type="display-reference">2001:877</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GO03137</idno>
+              <title>Åtgärder för förbättrad fartygssäkerhet</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">137</biblScope>
+              <note type="display-reference">proposition 2000/01:137 Åtgärder för förbättrad fartygssäkerhet</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2001-10-22">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2001-10-16">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2001-10-16">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2001-10-16">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2001-10-02">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2001-10-02">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2001-10-31">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2001-10-31">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2001-10-31">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2001-10-31">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2001-10-31">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2001-10-30">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2001-10-26">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2001-10-26">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Trafikutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:TU4
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Åtgärder för förbättrad fartygssäkerhet
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning Sjötransporter ingår i EU:s gemensamma transportpolitik
+            och är därför föremål för gemenskapens normgivning. År 1993 antog
+            rådet en resolution om ett gemensamt handlingsprogram för säkerhet
+            till sjöss. En viktig utgångspunkt för handlingsprogrammet är
+            att antalet undermåliga fartyg i gemenskapens farvatten kommer
+            att minska rejält om internationella konventioner, koder och resolutioner
+            tillämpas strikt genom gemensamma bestämmelser inom EU. Som ett
+            led i handlingsprogrammet har rådet successivt utfärdat förordningar
+            och direktiv på sjösäkerhetens område. I detta betänkande behandlas
+            regeringens förslag i proposition 2000/01:137 Åtgärder för förbättrad
+            fartygssäkerhet, som innebär att vissa bestämmelser i följande
+            direktiv genomförs i svensk lagstiftning: - direktivet 95/21/EG
+            och ändringsdirektivet 98/25/EG av den 19 juni 1995 respektive
+            den 27 april 1998 om tillämpning och internationella normer för
+            säkerhet på fartyg, förhindrande av förorening samt boende- och
+            arbetsför- hållanden ombord på fartyg som anlöper gemenskapens
+            hamnar och fram- förs i medlemsstaternas territorialvatten (hamnstatskontroll),
+            - direktivet 1999/35/EG av den 29 april 1999 om ett system med
+            obligatoris- ka besiktningar för en säker drift av ro-ro- passagerarfartyg
+            och höghastig- hetspassagerarfartyg i reguljär trafik (värdstatsdirektivet).
+            För att genomföra dessa EG-bestämmelser i svensk lagstiftning
+            föreslår regeringen förslag till ändringar i följande tre lagar:
+            - fartygssäkerhetslagen (1988:49), - lagen (1980:424) om åtgärder
+            mot förorening från fartyg, - lagen (1990:712) om undersökning
+            av olyckor. De lagändringar som föreslås i propositionen innebär
+            exempelvis att svenska myndigheter får möjlighet att agera i vissa
+            situationer när ett fartyg på grund av brister skall hållas kvar
+            i en inspektionshamn eller när fartyget skall hindras från att
+            anlöpa svenska hamnar. Ett förbud att lämna inspektionshamnen
+            skall i de flesta fall bestå tills rättelse har skett eller säkerhet
+            har ställts för kostnaderna för tillsynsförrättningen. Vidare
+            innebär de föreslagna lagändringarna bl.a. att ro-ro-passagerarfartyg
+            och höghastighetspassagerarfartyg i reguljär trafik skall besiktigas
+            regelbundet. Ett fartyg skall exempelvis medföra vissa certifikat
+            och uppfylla de normer som anges för klassificering m.m. De föreslagna
+            lagändringarna innebär också att, efter en första inledande besiktning,
+            även regelbundna besiktningar skall företas när fartyget har börjat
+            gå i trafik. Utskottet har inga erinringar mot regeringens förslag
+            till ändringar i de tre lagarna. Utskottet tillstyrker därför
+            propositionen. Lagändringarna föreslås träda i kraft den 1 januari
+            2002.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Fartygssäkerhetslagen
+            - Riksdagen antar regeringens förslag till lag om ändring i fartygssäkerhetslagen
+            (1988:49). 2. Lagen om åtgärder mot förorening från fartyg - Riksdagen
+            antar regeringens förslag till lag om ändring i lagen (1980:424)
+            om åtgärder mot förorening från fartyg. 3. Lagen om undersökning
+            av olyckor Riksdagen antar regeringens förslag till lag om ändring
+            i lagen (1990:712) om undersökning av olyckor. Stockholm den 16
+            oktober 2001 På trafikutskottets vägnar Monica Öhman Följande
+            ledamöter har deltagit i beslutet: Monica Öhman (s), Sven Bergström
+            (c), Per-Richard Molén (m), Jarl Lander (s), Karin Svensson Smith
+            (v), Johnny Gylling (kd), Tom Heyman (m), Krister Örnfjäder (s),
+            Monica Green (s), Inger Segelström (s), Stig Eriksson (v), Tuve
+            Skånberg (kd), Birgitta Wistrand (m), Mikael Johansson (mp), Claes-Göran
+            Brandin (s), Jeppe Johnsson (m) och Elver Jonsson (fp).
+          </p>
+          <p>
+            2001/02 TU4 Redogörelse för ärendet Ärendet och dess beredning
+            Regeringen lämnade den 17 maj 2001 proposition 2000/01:137 Åtgärder
+            för förbättrad fartygssäkerhet till riksdagen. I propositionen
+            föreslår regeringen att riksdagen antar förslagen till ändringar
+            i fartygssäkerhetslagen (1988:49), lagen (1980:424) om åtgärder
+            mot förorening från fartyg samt lagen (1990:712) om undersökning
+            av olyckor. Bakgrunden till propositionen är att vissa bestämmelser
+            i EG-direktiv om fartygssäkerhet, inspektioner och hamnstatskontroller
+            m.m. skall genomföras i svensk lagstiftning. I rådets direktiv
+            95/21/EG av den 19 juni 1995 samt i ändringsdirektivet 98/25/EG
+            av den 28 april 1998 om tillämpning av internationella normer
+            för säkerhet på fartyg, förhindrande av förorening samt boende-
+            och arbetsförhållanden ombord på fartyg som anlöper gemenskapens
+            hamnar och framförs i medlemsstaternas territorialvatten (hamnstatskontroll)
+            finns det bl.a. regler om förbud mot att anlöpa hamn och om att
+            kvarhållande av fartyg inte skall upphävas förrän betalning skett
+            eller säkerhet ställts för betalning av tillsynskostnader. Rådet
+            antog också den 29 april 1999 direktiv 1999/35/EG om ett system
+            med obligatoriska besiktningar för en säker drift av ro-ro-passagerarfartyg
+            och höghastighetspassagerarfartyg i reguljär trafik, nedan kallat
+            värdstatsdirektivet. Detta direktiv innehåller bestämmelser om
+            bl.a. besiktningar och kontroller av fartygen. Regeringen beslutade
+            den 23 juni 1999 att tillsätta en särskild utredare med uppdrag
+            att göra en översyn av fartygssäkerhetslagstiftningen. I uppdraget
+            ingick att i ett delbetänkande redovisa ett förslag till införlivande
+            av dels artiklarna 9a, 11.4 och 16.3 i direktivet och ändringsdirektivet
+            om hamnstatskontroll, dels värdstatsdirektivet. Utredaren avlämnade
+            i mars 2000 delbetänkandet Införlivande av vissa direktiv om fartygssäkerhet
+            (SOU 2000:16). Betänkandet har remissbehandlats. Regeringen beslutade
+            den 26 april 2001 att inhämta Lagrådets yttrande över de lagförslag
+            som finns i bilaga 6 till propositionen. Lagrådet föreslog vissa
+            ändringar av förslagen till ändringar av fartygssäkerhetslagen
+            (1988:49) och lagen (1980:424) om åtgärder mot förorening från
+            fartyg. Regeringen har följt Lagrådets förslag. I propositionens
+            lagförslag har också vissa redaktionella ändringar gjorts i förhållande
+            till lagrådsremissen.
+          </p>
+          <p>
+            Utskottets överväganden Bakgrund och gällande bestämmelser Internationella
+            konventioner För att underlätta för den internationella sjöfarten
+            och samtidigt finna en gemensam hög sjösäkerhetsnivå, har de sjöfarande
+            länderna antagit en rad internationella konventioner om säkerhet
+            till sjöss och om skydd för den marina miljön. Konventionerna
+            ställer krav på att flaggstaternas bestämmelser om tillsyn över
+            fartygen är tillräckliga och internationellt jämförbara. Samtidigt
+            ger konventionerna kuststaterna befogenheter att inspektera utländska
+            fartyg och på så sätt öka sina möjligheter att övervaka säkerheten
+            på det egna territorialvattnet. 1974 års internationella konvention
+            om säkerheten för människoliv till sjöss (SOLAS 1974) är den viktigaste
+            konventionen om sjösäkerhet och anger konstruktions- och säkerhetskrav
+            för fartyg i internationell trafik. Enligt konventionen skall
+            varje flaggstat ansvara för att dess fartyg uppfyller kraven.
+            Fartygen skall exempelvis innan de används i internationell trafik
+            kontrolleras och godkännas, och som bevis på att de godkänts skall
+            fartygen medföra certifikat som utfärdas av flaggstatens administration.
+            Vidare ger konventionen länder som är anslutna till konventionen
+            viss rätt att inspektera andra länders fartyg, s.k. hamnstatskontroll.
+            Konventionen omfattar även krav på rederiernas och fartygens säkerhetsorganisation
+            m.m. I regeringens proposition 2000/01:137 s.19 finns ytterligare
+            beskrivningar av kraven i SOLAS 1974. EU:s bestämmelser - direktiven
+            om hamnstatskontroll samt värdstatsdirektivet Sjötransporter ingår
+            i EU:s gemensamma transportpolitik och är därför föremål för gemenskapens
+            normgivning. Fram till år 1993 var normgivningen om sjösäkerhet
+            begränsad till bestämmelser om särskilda förhållanden. Det året
+            antog rådet en resolution av den 8 juni 1993 om ett gemensamt
+            handlingsprogram för säkerhet till sjöss. Resolutionen är utgångspunkten
+            för de fortsatta gemenskapsbestämmelserna om sjösäkerhet. I resolutionen
+            drogs riktlinjerna upp för ett samlat handlingsprogram i fråga
+            om sjösäkerhet, vari en utgångspunkt är att antalet undermåliga
+            fartyg i gemenskapens farvatten kommer att minska drastiskt om
+            internationella konventioner, koder och resolutioner tillämpas
+            strikt genom bestämmelser på gemenskapsnivå. Som ett led i handlingsprogrammet
+            har rådet utfärdat förordningar och direktiv på sjösäkerhetens
+            område. Direktivet om hamnstatskontroll syftar till att åstadkomma
+            en minskning av antalet undermåliga fartyg på gemenskapens vatten
+            samt att öka efterlevnaden av internationella regler och gemenskapslagstiftning.
+            Hamnstatskontrollen av utländska fartyg sker genom inspektioner
+            som utförs av hamnstatens behöriga sjöfartsmyndighet. Minst 25
+            % av det antal fartyg som anlöper medlemsstatens hamnar under
+            ett representativt kalenderår skall inspekteras. Vidare skall
+            bl.a. medlemsstatens behöriga myndighet försäkra sig om att alla
+            brister som upptäcks vid en inspektion rättas till. Innebär bristerna
+            otvetydig fara för säkerhet, liv eller miljö skall myndigheten
+            se till att fartyget hålls kvar eller att den farliga verksamheten
+            stoppas. Om bristen inte kan åtgärdas i inspektionshamnen får
+            fartyget resa till ett anvisat reparationsvarv under förutsättning
+            att fartyget uppfyller villkoren för resan. Vidare skall kostnader
+            som har samband med inspektionen täckas av fartygets ägare. Genom
+            ändringsdirektivet 98/25/EG om hamnstatskontroll infördes bestämmelser
+            till följd av att 1974 års internationella konvention om säkerheten
+            för människoliv till sjöss (SOLAS 1974) infört regler som gjort
+            den s.k. ISM-koden (the International Safety Management Code)
+            obligatorisk. Det handlar bl.a. om hur rederiernas och fartygens
+            säkerhetsorganisation skall vara utformad och bedrivas. Värdstatsdirektivet
+            är ett direktiv som tillämpas på ro-ro-passagerarfartyg och höghastighetspassagerarfartyg
+            som går i reguljär trafik till eller från medlemsstats hamn. Värdstaternas
+            tillsyn av de fartyg som omfattas av direktivet innebär bl.a.
+            att staterna skall göra inledande kontroller samt regelbundna
+            besiktningar av fartygen. Värdstatsdirektivet innehåller också
+            bestämmelser om utredning av olyckor. I regeringens proposition
+            2000/01:137 s. 20-23 ges en närmare beskrivning av direktiven
+            om hamnstatskontroll samt värdstatsdirektivet. Svenska bestämmelser
+            Grundläggande bestämmelser om sjöfarten finns i sjölagen (1994:1009).
+            Den lagen innehåller också en del bestämmelser om fartygs säkerhet
+            samt om redarens och befälhavarens skyldigheter och ansvar för
+            sjösäkerheten. Den viktigaste författningen i fråga om säkerheten
+            på fartyg är dock fartygssäkerhetslagen (1988:49) som kompletteras
+            av fartygssäkerhetsförordningen (1988:594). Av intresse är också
+            lagen (1980:424) och förordningen (1980:789) om åtgärder mot förorening
+            från fartyg samt lagen (1990:712) och förordningen (1990:717)
+            om undersökning av olyckor. Ytterligare beskrivning av dessa lagar
+            finns i kommande avsnitt i betänkandet. Med stöd av bemyndiganden
+            i de nämnda lagarna och förordningarna meddelar behöriga myndigheter,
+            främst Sjöfartsverket, föreskrifter. Föreskrifterna avspeglar
+            också olika internationella överenskommelser på sjösäkerhetens
+            område, exempelvis får ett flertal av de detaljerade säkerhetsnormer
+            som anges i EG-direktiv sin nationella tillämpning genom föreskrifter
+            som meddelas av Sjöfartsverket. Fartygssäkerhetslagen Fartygssäkerhetslagen
+            (1988:49) tillämpas på alla fartyg som används till sjöfart inom
+            Sveriges sjöterritorium samt på svenska fartyg som används till
+            sjöfart utanför sjöterritoriet. Lagen gäller även alla svenska
+            rederier samt utländska rederier som bedriver sjöfart med svenskt
+            fartyg eller använder annat fartyg till sjöfart inom Sveriges
+            sjöterritorium. En betydelsefull ändring av fartygssäkerhetslagen
+            skedde när ISM-koden införlivades i svensk rätt (SFS 1995:927).
+            Lagens krav och den tillsyn som skall göras har därefter kommit
+            att omfatta även att en redare och dennes fartyg har en fungerande
+            säkerhetsorganisation. Ett fartyg skall ha de certifikat som anges
+            i lagen eller i föreskrifter som meddelats med stöd därav, och
+            ett rederi skall ha dokument angående godkänd säkerhetsorganisation.
+            Det framgår av Sjöfartsverkets kungörelse (SJÖFS 1996:2) med föreskrifter
+            om rederiers och fartygs säkerhetsorganisation att kopia av dokument
+            angående godkänd säkerhetsorganisation liksom certifikat angående
+            sådan säkerhetsorganisation skall finnas ombord på fartyget. I
+            10 kap. fartygssäkerhetslagen finns vidare en rad bestämmelser
+            om tillsyn av fartyg och kontroll av redare. Vid exempelvis en
+            rederikontroll skall tillsynsmyndigheten pröva om rederiet har
+            en säkerhetsorganisation som uppfyller kraven i lagen och i de
+            föreskrifter om rederiets säkerhetsorganisation som har meddelats
+            med stöd av lagen. I regeringens proposition 2000/01:137 s. 24-25
+            ges en närmare beskrivning av fartygssäkerhetslagen. Lagen (1980:424)
+            om åtgärder mot förorening från fartyg Lagen (1980:424) om åtgärder
+            mot förorening från fartyg innehåller bestämmelser om fartygs
+            konstruktion, utrustning och drift i syfte att förhindra förorening
+            från fartyg. Föreskrifter får meddelas om att de fartyg som inte
+            innehar certifikat, vilka visar att fartygen uppfyller vissa krav,
+            eller som i övrigt inte uppfyller kraven på konstruktion och utrustning,
+            inte får användas till sjöfart. Är det fråga om utländska fartyg
+            får de inte användas till sjöfart inom svenskt territorium. I
+            lagen finns vidare bestämmelser om tillsyn i form av besiktningar
+            och inspektioner. Svenska fartyg skall besiktigas innan de sätts
+            i trafik och skall därefter genomgå regelbundna besiktningar samt
+            vid behov inspekteras. Inspektion av utländska fartyg på svenskt
+            territorialhav för de ändamål som anges i lagen får endast ske
+            om det föreligger klara skäl att anta att ett förbjudet utsläpp
+            skett i territorialhavet. Är det fråga om utsläpp utanför territorialhavet
+            men inom Sveriges ekonomiska zon är utrymmet för inspektion än
+            mer begränsat. I regeringens proposition 2000/01:137 s. 25-26
+            ges en närmare beskrivning av lagen om åtgärder mot förorening
+            från fartyg. Lagen om undersökning av olyckor Undersökning enligt
+            lagen (1990:712) om undersökning av olyckor skall göras i fråga
+            om händelser som inträffat i Sverige. Om händelsen berör ett utländskt
+            fartyg får undersökningen dock göras endast om det finns särskilda
+            skäl och fartyget befinner sig inom svenskt sjöterritorium. Lagen
+            tillämpas också på undersökningar i fråga om händelser som berör
+            svenskt fartyg och har inträffat utomlands, om annat inte följer
+            av internationella överenskommelser. Undersökningen skall utföras
+            av myndighet som regeringen bestämmer. Denna myndighet får dock
+            överlåta åt annan att göra undersökningen. I regeringens proposition
+            2000/01:137 s. 27 ges ytterligare beskrivning av lagen om undersökning
+            av olyckor. Regeringens proposition Utskottets förslag i korthet
+            Utskottet föreslår att riksdagen antar regeringens förslag till
+            ändringar i fartygssäkerhetslagen, i lagen om åtgärder mot förorening
+            från fartyg och i lagen om undersökning av olyckor. Förslagen
+            innebär att vissa artiklar i EG:s direktiv och ändringsdirektiv
+            om hamnstatskontroll samt i EG:s värdstatsdirektiv genomförs i
+            svensk lagstiftning. Ändringarna innebär bl.a. att - förbud införs
+            för fartyg att lämna och anlöpa svenska hamnar om dokument eller
+            certifikat saknas angående godkänd säkerhetsorganisation som fartyget
+            eller rederiet skall ha, - kraven skärps på tillsynen av ro-ro-
+            passagerarfartyg och höghastighetspassagerarfartyg, bl.a. införs
+            krav på inledande kontroll av rederier och deras fartyg samt inledande
+            besiktning av fartyg innan fartygen används i reguljär trafik.
+            Även kraven på regelbundna besiktningar av sådana fartyg skärps,
+            - vissa nya bestämmelser om undersökning av olyckor och tillbud
+            vad gäller utländska ro-ro- passagerarfartyg eller höghastighetspassagerarfartyg
+            genomförs i svensk lagstiftning. En utredning skall sättas i gång
+            av Sverige dels i de fall olycka eller tillbud sker på vårt vatten,
+            dels i de fall olycka eller tillbud sker på annat vatten men där
+            Sverige var det land som fartyget senast besökte. Om en sådan
+            undersökning har inletts skall den fortgå till dess berörda stater
+            har enats om vilken stat som skall ansvara för undersökningen.
+            Regeringens förslag om genomförande av vissa artiklar i direktivet
+            och ändringsdirektivet om hamnstatskontroll Förbud för fartyg
+            att lämna hamn m.m. Regeringen föreslår i proposition 2000/01:137
+            att ett fartygs resa skall förbjudas vid avsaknad av dokument
+            eller certifikat angående godkänd säkerhetsorganisation som fartyget
+            eller rederiet skall ha enligt författningsbestämmelser. Ett sådant
+            förbud får upphävas för att hindra överbeläggning av inspektionshamnen,
+            om det inte finns andra brister som medför att fartyget skall
+            hållas kvar i hamnen. Regeringens förslag avser både svenska och
+            utländska fartyg. Enligt propositionen är bakgrunden till förslaget
+            ändringsdirektivet (98/25/EG) om hamnstatskontroll som bl.a. innebär
+            införande av bestämmelser om kvarhållande av fartyg när certifikat
+            eller kopia av dokument saknas ombord på ett fartyg på vilket
+            den s.k. ISM-koden är tillämplig (artikel 9a i direktivet om hamnstatskontroll).
+            I artikel 9a i direktivet om hamnstatskontroll finns vidare bestämmelser
+            om när fartyg trots dessa brister får lämna hamn. Artikeln behandlar
+            också förbud att anlöpa hamn. I propositionen framhålls att den
+            del av bestämmelsen som avser kvarhållande av fartyg redan delvis
+            har införlivats i svensk rätt genom ändringar i 11 kap. 1 § fartygssäkerhetslagen
+            (1995:927) (se prop. 1994/95:186, bet. 1994/95:TU27, rskr. 1994/95:413).
+            Enligt 11 kap. 1 § fjärde stycket fartygssäkerhetslagen får den
+            behöriga myndigheten förbjuda ett fartygs resa vid avsaknaden
+            av handlingar enligt ISM-koden. Enligt regeringen lämnar lagen
+            därmed utrymme för myndigheten att låta ett fartyg lämna inspektionshamnen
+            trots att dessa handlingar saknas ombord. Enligt artikel 9a.1
+            i direktivet om hamnstatskontroll skall dock ett beslut om kvarhållande
+            alltid följa om fartyg vid inspektion uppvisar denna brist. Ett
+            korrekt införlivande av direktivet innebär enligt regeringen att
+            fartyg som omfattas av ISM-koden och som saknar ISM-certifikat
+            endast skall få lämna hamnen under de särskilda omständigheter
+            som framgår av artikel 9a. 2. Enligt denna punkt får ett beslut
+            om kvarhållande upphävas om det behövs för att förhindra överbeläggning
+            av inspektionshamnen, dock under förutsättning att fartyget inte
+            har andra brister som innebär att det inte får lämna hamnen. Fartygssäkerhetslagen
+            bör därför enligt regeringen ändras så att ett fartygs resa skall
+            förbjudas vid avsaknad av certifikat och dokument angående godkänd
+            säkerhetsorganisation som fartyget eller rederiet skall ha enligt
+            författningsbestämmelser. Regeringen föreslår därutöver att en
+            bestämmelse införs om att förbudet får hävas för att förhindra
+            överbeläggning av hamnen, om det inte finns andra brister som
+            bör medföra att fartyget skall hållas kvar i hamnen. Det nu aktuella
+            direktivet avser inte åtgärder mot hamnstatens fartyg. Regeringen
+            är dock av uppfattningen att tillsynsmyndigheterna bör ha samma
+            möjligheter att vidta åtgärder mot svenska fartyg som mot utländska
+            fartyg. De föreslagna bestämmelserna bör därför omfatta även svenska
+            fartyg. Genom de föreslagna bestämmelserna genomförs artiklarna
+            9 a. 1 och 2 i direktivet om hamnstatskontroll, vilka tillförts
+            genom ändringsdirektivet om hamnstatskontroll. Förbud för fartyg
+            att anlöpa svensk hamn m.m. Regeringen föreslår sammanfattningsvis
+            att fartyg skall förbjudas i vissa fall att anlöpa svenska hamnar.
+            Ett förbud skall gälla för ett fartyg som fått tillstånd att resa
+            till ett anvisat reparationsvarv men som inte gör detta eller
+            inte uppfyller villkoren för sådan resa. Vidare skall ett fartyg
+            som saknar giltiga s.k. ISM-certifikat, men som fått lämna hamnen
+            på grund av överbeläggning, förbjudas att anlöpa svenska hamnar.
+            Bestämmelserna föreslås gälla för såväl svenska som utländska
+            fartyg. Nämnda bestämmelser föreslås också tillämpas om en behörig
+            myndighet i en annan stat inom Europeiska ekonomiska samarbetsområdet
+            fattat motsvarande beslut. Vidare regleras hur länge ett förbud
+            att anlöpa hamn skall bestå. Ett fartyg som förbjudits att anlöpa
+            hamn skall kunna få tillstånd att resa till anvisad hamn om force
+            majeure eller säkerhetsskäl gör det nödvändigt eller för att minska
+            föroreningsrisk eller för rättelse av fartygets brister, förutsatt
+            att lämpliga åtgärder vidtagits för att garantera ett säkert anlöp
+            till hamnen. Fartyget skall få tillträde till hamnarna först när
+            fartygets ägare eller den som ansvarar för fartygstransporten
+            visat för den behöriga myndigheten i den medlemsstat, där fartyget
+            befanns vara undermåligt, att fartyget uppfyller alla tillämpliga
+            konventionskrav. Vissa övriga frågor Regeringen föreslår också
+            att ett beslut om förbud att anlöpa svensk hamn skall anmälas
+            till bl.a. Kustbevakningen. Polismyndigheten och Kustbevakningen
+            skall, om det behövs, vidta åtgärder för att förhindra att förbudet
+            att resa och anlöpa hamn överträds. Vidare föreslår regeringen
+            att en överträdelse av ett förbud att anlöpa hamn skall medföra
+            straffansvar, böter eller fängelse i högst ett år. Regeringen
+            föreslår också att ett beslut om förbud mot fartygs resa och förbud
+            att anlöpa svensk hamn skall meddelas av Sjöfartsverket eller
+            annan myndighet som regeringen föreskriver. Beslutet skall innehålla
+            uppgift om de åtgärder som skall vidtas för rättelse. Ett sådant
+            beslut får överklagas hos allmän förvaltningsdomstol. Ett beslut
+            om förbud mot fartygs resa skall enligt regeringens förslag gälla
+            till dess full betalning skett för en tillsynsförrättning eller
+            tillfredsställande säkerhet för betalningen har ställts. Regeringens
+            förslag om genomförande av värdstatsdirektivet Tillsyn av ro-ro-passagerarfartyg
+            och höghastighetspassagerarfartyg i reguljär trafik I regeringens
+            proposition 2000/01:137 lämnas förslag till nya bestämmelser om
+            inledande kontroller och besiktningar av ro-ro-passagerarfartyg
+            och höghastighetspassagerarfartyg. Bestämmelserna föreslås omfatta
+            sådana fartyg när de används i reguljär trafik på internationella
+            resor eller vid inrikes resor i de fartområden som regeringen
+            bestämmer och avser både svenska och utländska fartyg. Tillsyn
+            av utländska sådana fartyg föreslås också få ske genom inspektion,
+            om det av någon särskild anledning behövs. För definitionerna
+            av ro- ro-passagerarfartyg, höghastighetspassagerarfartyg och
+            reguljär trafik föreslås en hänvisning till värdstatsdirektivet.
+            Inledande kontroll och besiktning m.m. Regeringen föreslår också
+            att krav införs på inledande kontroll av rederier och deras fartyg
+            samt inledande besiktning av fartyg innan ro-ro- passagerarfartyg
+            och höghastighetspassagerarfartyg används i reguljär trafik. En
+            inledande besiktning föreslås ske inom viss tid. En inledande
+            kontroll och besiktning skall också ske när fartyg skall användas
+            i annan reguljär trafik än tidigare om det inte är obehövligt.
+            Det föreslås att det också skall företas regelbundna (planmässiga)
+            besiktningar av fartyg. I övrigt skall regleras när besiktningar
+            i vissa andra situationer skall ske, och när ett fartyg får tas
+            i bruk i reguljär trafik innan en inledande kontroll och inledande
+            besiktning skett. Bestämmelser införs om när en inledande kontroll
+            och en inledande besiktning senast skall ske, efter det att tillstånd
+            givits att ta ett ersättningsfartyg i bruk. Tillsynsmyndigheten
+            får avstå från en tillsynsförrättning, om åtgärden redan vidtagits
+            av en behörig myndighet i en annan stat i Europeiska ekonomiska
+            samarbetsområdet. Förbud mot användning av ro-ro-passagerarfartyg
+            och höghastighetspassagerarfartyg Ro-ro-passagerarfartyg och höghastighetspassagerarfartyg
+            skall enligt propositionen förbjudas att användas i reguljär trafik
+            då kraven för sådan trafik inte är uppfyllda vid inledande kontroller
+            eller då en flaggstat före utfärdandet av vissa certifikat och
+            tillstånd skall samråda med värdstaten och detta inte har skett,
+            men det saknas skäl att enligt 11 kap. 1 § fartygssäkerhetslagen
+            meddela förbud för fartygs resa. Ett fartygs resa skall alltid
+            förbjudas, om vad som framkommit om sjövärdighet, bemanning m.m.
+            medför omedelbar fara för liv, fartyget, dess besättning eller
+            passagerare. När ett ro-ro-passagerarfartyg eller höghastighetspassagerarfartyg
+            redan går i reguljär trafik skall, enligt propositionen, påträffade
+            brister, om de inte är så allvarliga att det finns skäl att meddela
+            förbud för resa eller användning i reguljär trafik enligt fartygssäkerhetslagen,
+            föranleda att rederiet eller ägaren föreläggs att åtgärda fartygets
+            brister. Om bristerna därefter inte åtgärdas skall Sjöfartsverket
+            förbjuda användningen av det bristfälliga fartyget. Undersökning
+            av olyckor Av artikel 12.3 i värdstatsdirektivet framgår att utredning
+            skall sättas i gång av den stat på vars vatten olyckan eller tillbudet
+            skett eller, om olyckan eller tillbudet skett på andra vatten,
+            av den medlemsstat som fartyget besökte senast. Denna stat skall
+            vara ansvarig för utredningen och samordningen till dess att man
+            gemensamt enats om vilken stat som skall ha ansvar för utredningen.
+            För att genomföra detta i svensk lagstiftning föreslår regeringen
+            att en bestämmelse införs i lagen (1990:712) om undersökning av
+            olyckor. En undersökning skall sättas i gång när ett utländskt
+            ro-ro-passagerarfartyg eller höghastighetspassagerarfartyg i reguljär
+            trafik är inblandat i sjöolycka eller ett tillbud och olyckan
+            eller tillbudet sker inom Sveriges sjöterritorium, eller olyckan
+            eller tillbudet sker på andra vatten och fartyget besökte Sverige
+            senast. Den myndighet som gör en sådan utredning skall vara ansvarig
+            för undersökningen och samordningen med övriga utländska myndigheter
+            som kan vara berörda till dess att man gemensamt enats om vilken
+            stat som skall ha ansvar för undersökningen. Vissa övriga frågor
+            Vad gäller genomförandet av värdstatsdirektivet föreslår regeringen
+            också att en överträdelse av ett förbud mot att använda fartyg
+            i reguljär trafik skall medföra straffansvar, böter eller fängelse
+            i högst ett år. Vidare föreslår regeringen att ett beslut om att
+            förbjuda ett fartygs användning i reguljär trafik skall meddelas
+            av Sjöfartsverket eller annan myndighet som regeringen föreskriver.
+            Utskottets ställningstagande Utskottet ser med stort allvar på
+            sjösäkerhetsfrågorna. Sjöfartens internationella karaktär medför
+            att åtgärder på säkerhetsområdena i regel måste vidtas i internationellt
+            samarbete för att bli verkningsfulla. EU:s arbete med sjösäkerhet
+            är av särskild vikt bl.a. för att på ett effektivt och enhetligt
+            sätt genomföra de internationellt träffade överenskommelserna
+            inom gemenskapen. I detta sammanhang kan också nämnas att utskottet,
+            vid förra höstens behandling av regeringens budgetproposition
+            samt motioner om sjösäkerhet (bet. 2000/01:TU1), framhöll att
+            Sverige bör vara pådrivande i internationella organ för strängare
+            säkerhets- och miljökrav för sjöfarten. Utskottet anser att det
+            är viktigt att öka sjösäkerheten genom att bl.a. stärka inspektionsverksamheten,
+            hamnstatskontrollen m.m. Som framhålls i regeringens proposition
+            skall också de krav som ställs i EG:s direktiv återspeglas i den
+            svenska lagstiftningen. Mot denna bakgrund välkomnar utskottet
+            regeringens proposition med förslag till skärpt lagstiftning i
+            syfte att öka sjösäkerheten. Utskottet delar också regeringens
+            uppfattning om vilka lagändringar som behöver vidtas. Utskottet
+            föreslår således att riksdagen godkänner regeringens förslag till
+            lag om ändring i fartygssäkerhetslagen (1988:49), lag om ändring
+            i lagen (1980:424) om åtgärder mot förorening från fartyg samt
+            lag om ändring i lagen (1990:712) om undersökning av olyckor.
+            BILAGA 1 Förteckning över behandlade förslag Proposition 2000/01:137
+            Regeringen föreslår i proposition 2000/01:137 Åtgärder för förbättrad
+            fartygssäkerhet att riksdagen antar regeringens förslag till 1.
+            lag om ändring i fartygssäkerhetslagen (1988:49), 2. lag om ändring
+            i lagen (1980:424) om åtgärder mot förorening från fartyg, 3.
+            lag om ändring i lagen (1990:712) om undersökning av olyckor.
+            Lagförslagen är fogade som bilaga 2 till betänkandet.
+          </p>
+          <p>
+            Bilaga 2 Regeringens lagförslag 1 Förslag till lag om ändring
+            i fartygssäkerhetslagen (1988:49) 2 Förslag till lag om ändring
+            i lagen (1980:424) om åtgärder mot förorening från fartyg 3 Förslag
+            till lag om ändring i lagen (1990:712) om undersökning av olyckor
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

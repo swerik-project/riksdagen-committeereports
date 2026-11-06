@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200607_CU_0004">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen gav regeringen i uppdrag att omgående införa krav på att länsstyrelserna inspekterar överförmyndarna varje år. Regeringen bör också se till att tillsynen följs upp och att den samordnas nationellt. Överförmyndare finns i varje kommun och ska se till att den som har ett uppdrag som god man eller förvaltare sköter detta uppdrag på bästa sätt. Riksdagens beslut bygger på ett förslag från Riksrevisionens styrelse. Riksrevisionen anser att det finns för små resurser till länsstyrelsernas tillsyn av de kommunala överförmyndarna och att kontrollerna av dessa inte görs tillräckligt ofta. De inspektioner som görs har dessutom en rad kvalitetsbrister och länsstyrelserna gör ingenting åt de brister som upptäcks.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Överförmyndare ska kontrolleras bättre (CU4)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till framställningen punkt 1. Avslag på framställningen punkt 2 och motionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GU0989</idno>
+              <title>2007-04-12</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">89</biblScope>
+              <note type="display-reference">2007-04-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GU0989</idno>
+              <title>2007-04-12</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">89</biblScope>
+              <note type="display-reference">2007-04-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GU0K136</idno>
+              <title>2006/07:136</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">136</biblScope>
+              <note type="display-reference">2006/07:136</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GU0K137</idno>
+              <title>2006/07:137</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">137</biblScope>
+              <note type="display-reference">2006/07:137</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="frsrdg">
+              <idno type="riksdagen">GT04RRS26</idno>
+              <title>Riksrevisionens styrelses framställning angående länsstyrelsernas tillsyn av överförmyndare</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">RRS26</biblScope>
+              <note type="display-reference">forslag 2005/06:RRS26 Riksrevisionens styrelses framställning angående länsstyrelsernas tillsyn av överförmyndare</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GT02L29</idno>
+              <title>med anledning av framst. 2005/06:RRS26 Riksrevisionens styrelses framställning angående länsstyrelsernas tillsyn av överförmyndare</title>
+              <title type="sub">av Margareta Israelsson och Siw Wittgren-Ahl (S)</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">L29</biblScope>
+              <note type="display-reference">motion 2005/06:L29 med anledning av framst. 2005/06:RRS26 Riksrevisionens styrelses framställning angående länsstyrelsernas tillsyn av överförmyndare</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2007-04-04">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2007-04-04">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2007-04-03">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2007-03-29">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2007-03-29">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2007-03-27">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-03-27">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-03-27">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-11-23">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-11-21">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-11-21">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2007-04-12">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2007-04-12">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2007-04-12">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-04-12">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-04-12">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-04-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-04-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2007-04-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2007-04-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Civilutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2006/07:CU4
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Länsstyrelsernas tillsyn av överförmyndare
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDAYROIB" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet Riksrevisionens styrelses framställning
+            angående länsstyrelsernas tillsyn av överförmyndare (2005/06:RRS26)
+            samt en motion som väckts med anledning av framställningen.
+          </p>
+          <p>
+            Med bifall till Riksrevisionens styrelses framställning punkt
+            1 förordar utskottet att riksdagen tillkännager för regeringen
+            som sin mening vad utskottet anfört om åtgärder för att stärka
+            länsstyrelsernas tillsyn av överförmyndare. Framställningen i
+            övrigt och motionen avstyrks.
+          </p>
+          <p xml:id="IDAKTOIB" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Länsstyrelsernas tillsyn av överförmyndare
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen tillkännager för regeringen som sin mening vad utskottet
+                  anfört om åtgärder för att stärka länsstyrelsernas tillsyn av
+                  överförmyndare. Därmed bifaller riksdagen framställning 2005/06:RRS26
+                  punkt 1 och avslår framställning 2005/06:RRS26 punkt 2 och motion
+                  2005/06:L29.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 27 mars 2007
+          </p>
+          <p>
+            På civilutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Carina Moberg
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Carina Moberg (s),
+            Inger René (m), Ewa Thalén Finné (m), Johan Löfstrand (s), Andreas
+            Norlén (m), Lennart Pettersson (c), Christina Oskarsson (s), Jan
+            Ertsborn (fp), Christine Jönsson (m), Yvonne Andersson (kd), Anti
+            Avsan (m), Egon Frid (v), Ameer Sachet (s), Lars Tysklind (fp),
+            Jan Lindholm (mp), Eva Sonidsson (s) och Stefan Wikén (s).
+          </p>
+          <p xml:id="IDAXVOIB" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            Riksrevisionen har granskat den statliga tillsynen över de kommunala
+            överförmyndarna. Resultatet av granskningen har redovisats i rapporten
+            Länsstyrelsernas tillsyn av överförmyndare (RiR 2006:5). Med anledning
+            av granskningen beslutade Riksrevisionens styrelse i april 2006
+            om en framställning till riksdagen (2005/06:RRS26).
+          </p>
+          <p>
+            Riksrevisionens styrelse föreslår att riksdagen begär att regeringen
+            dels snarast vidtar åtgärder i syfte att stärka länsstyrelsernas
+            tillsyn av kommunernas överförmyndare, dels tar initiativ till
+            en förutsättningslös utredning av överförmyndarnas organisation
+            och verksamhet.
+          </p>
+          <p>
+            I betänkandet behandlar utskottet Riksrevisionens styrelses framställning
+            samt en motion som väckts med anledning av framställningen. Förslagen
+            återfinns i
+            <seg rend="grad2">
+              bilagan
+            </seg>
+            .
+          </p>
+          <p>
+            Utskottet har under ett studiebesök hos Riksrevisionen fått information
+            om granskningens utförande och innehållet i granskningsrapporten.
+          </p>
+          <p xml:id="IDAMWOIB" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAHSOIB" rend="rubrik2">
+            Länsstyrelsernas tillsyn av överförmyndare
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAQROIB" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen tillkännager för regeringen som sin mening vad utskottet
+                anfört om åtgärder för att stärka länsstyrelsernas tillsyn av
+                överförmyndare. Därmed bifaller riksdagen Riksrevisionens styrelses
+                framställning punkt 1. Framställningen i övrigt och motionen avslås.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDATUOIB" rend="r4">
+              Bakgrund
+            </p>
+            <p>
+              Bestämmelser om förmyndare, god man och förvaltare finns i föräldrabalken.
+            </p>
+            <p>
+              Föräldrabalken skiljer mellan vårdnad och förmynderskap. Den
+              som har hand om vårdnaden om ett barn har ett ansvar för barnets
+              personliga förhållanden och skall bl.a. se till att barnets behov
+              av omvårdnad, trygghet och en god fostran blir tillgodosedda (6
+              kap. 2 § andra stycket). Vårdnadshavaren företräder också barnet
+              i personliga angelägenheter. Förmyndaren å sin sida skall förvalta
+              barnets tillgångar och företräda det i angelägenheter som rör
+              tillgångarna (12 kap. 1 §).
+            </p>
+            <p>
+              Båda föräldrarna är gemensamt förmyndare för barn som står under
+              deras gemensamma vårdnad. För barn som står under vårdnad av endast
+              den ene av sina föräldrar är denne ensam förmyndare (10 kap. 2
+              § föräldrabalken). Föräldrars ställning som förmyndare följer
+              alltså utan särskilt beslut av deras egenskap av vårdnadshavare.
+              Har en underårig inte någon förmyndare, skall rätten förordna
+              en sådan (10 kap. 5 § första stycket).
+            </p>
+            <p>
+              I 11 kap. föräldrabalken finns bestämmelser om att rätten eller
+              överförmyndaren i olika situationer skall förordna en god man
+              för att företräda personer som av skilda anledningar inte i full
+              utsträckning kan representera sig själva. Om någon på grund av
+              sjukdom, psykisk störning, försvagat hälsotillstånd eller liknande
+              förhållande behöver hjälp med att bevaka sin rätt, förvalta sin
+              egendom eller sörja för sin person skall rätten besluta att anordna
+              godmanskap för honom eller henne, om det behövs. Ett sådant beslut
+              får inte meddelas utan samtycke av den för vilken godmanskap skall
+              anordnas, om inte den enskildes tillstånd hindrar att hans eller
+              hennes mening inhämtas. När rätten meddelar beslut att anordna
+              godmanskap skall rätten samtidigt förordna en god man att utföra
+              uppdraget (4 §).
+            </p>
+            <p>
+              Det finns även andra typer av godmanskap som dock är mer begränsade.
+              Sådana godmanskap avser ofta vissa speciella uppgifter, t.ex.
+              att bevaka bortavarandes eller okända arvingars eller testamentstagares
+              rätt vid utredningen av ett dödsbo (13 §§). I dessa fall är det
+              överförmyndaren som skall förordna god man.
+            </p>
+            <p>
+              Om någon beträffande vilken det föreligger en sådan situation
+              som sägs i 11 kap. 4 § föräldrabalken är ur stånd att vårda sig
+              eller sin egendom, får rätten besluta att anordna förvaltarskap
+              för honom eller henne. Förvaltarskap får dock inte anordnas, om
+              det är tillräckligt att godmanskap anordnas eller att den enskilde
+              på något annat, mindre ingripande sätt får hjälp. När rätten meddelar
+              ett sådant beslut skall rätten samtidigt förordna en förvaltare
+              att utföra uppdraget (7 §). Kännetecknande för förvaltarskapet
+              är att den för vilken förvaltare förordnas, till skillnad från
+              vad som gäller vid godmanskap, förlorar sin rättshandlingsförmåga
+              helt eller delvis och att förvaltaren i motsvarande utsträckning
+              får rätt att ingå rättshandlingar för sin huvudmans räkning.
+            </p>
+            <p>
+              Till god man eller förvaltare skall utses en rättrådig, erfaren
+              och i övrigt lämplig man eller kvinna (12 §). En god man eller
+              förvaltare som gör sig skyldig till missbruk eller försummelse
+              vid utövandet av sitt uppdrag eller som kommer på ekonomiskt obestånd
+              och på grund av detta är olämplig för uppdraget eller som av någon
+              annan orsak inte längre är lämplig att inneha uppdraget, skall
+              entledigas. Beslut om entledigande fattas av överförmyndaren (20
+              §). Den enskilde skall också få komma till tals i ärenden om godmanskap
+              och förvaltarskap (16 och 21 §§).
+            </p>
+            <p>
+              Bestämmelser om förmyndares, gode mäns och förvaltares verksamhet
+              finns i 12 kap. föräldrabalken. Förmyndare, gode män och förvaltare
+              skall omsorgsfullt fullgöra sina skyldigheter och alltid handla
+              på det sätt som bäst gagnar den enskilde (3 §). Därutöver finns
+              bl.a. bestämmelser om hur den enskildes medel får användas, om
+              skyldighet att föra räkenskaper samt om samrådsskyldighet m.m.
+              (48 §§). Förmyndares, gode mäns och förvaltares verksamhet står
+              under tillsyn av överförmyndaren. Förmyndare, gode män och förvaltare
+              är skyldiga att lämna överförmyndaren de upplysningar om sin verksamhet
+              som överförmyndaren begär (9 §).
+            </p>
+            <p>
+              Närmare bestämmelser om tillsynen finns i 16 kap. föräldrabalken.
+              Vid tillsynen skall överförmyndaren särskilt se till att den enskildes
+              tillgångar i skälig omfattning används för hans eller hennes nytta
+              och att tillgångarna i övrigt är placerade så att tillräcklig
+              trygghet finns för deras bestånd och så att de ger skälig avkastning
+              (1 §). Tillsynen utövas av överförmyndaren för den kommun där
+              den som har förmyndare, god man eller förvaltare är folkbokförd
+              (2 §). Därutöver finns bestämmelser om bl.a. hur tillsynen skall
+              utövas (314 §§).
+            </p>
+            <p>
+              Bestämmelserna om överförmyndare återfinns i 19 kap. Överförmyndare
+              väljs i regel en för varje kommun (1 §). En kommun kan dock besluta
+              att i stället för överförmyndare inrätta en överförmyndarnämnd
+              (2 §). Överförmyndare skall väljas av kommunfullmäktige, och för
+              överförmyndare skall även väljas en ersättare. Ledamöter och ersättare
+              i en överförmyndarnämnd skall väljas av kommunfullmäktige till
+              det antal fullmäktige bestämmer. Antalet ledamöter får dock inte
+              understiga tre. Då valet av överförmyndare, ledamöter av överförmyndarnämnden
+              eller ersättare förrättats skall det genast anmälas till länsstyrelsen.
+              Har val inte hållits i behörig tid skall länsstyrelsen se till
+              att valet hålls så snart det kan ske (5 §). Överförmyndare, ledamot
+              i överförmyndarnämnd och ersättare väljs för fyra år, räknat fr.o.m.
+              den 1 januari året efter det då val i hela riket av kommunfullmäktige
+              ägt rum (6 §). En överförmyndare, en ledamot i en överförmyndarnämnd
+              eller en ersättare kan efter anmälan av länsstyrelsen entledigas
+              av rätten, om det visar sig att han eller hon inte är lämplig
+              (9 §). Överförmyndarnämnden får uppdra åt en ledamot, en ersättare
+              som har kallats till tjänstgöring eller en kommunal tjänsteman
+              med den kompetens som behövs att på nämndens vägnar avgöra vissa
+              grupper av ärenden. Nämnden skall i sitt beslut ange vilka slag
+              av ärenden som uppdraget omfattar. Överförmyndaren får på motsvarande
+              sätt uppdra åt en kommunal tjänsteman med den kompetens som behövs
+              att avgöra ärenden på överförmyndarens vägnar (14 §). Länsstyrelserna
+              utövar i sin tur tillsyn över överförmyndares och överförmyndarnämnders
+              verksamhet (17 §).
+            </p>
+            <p>
+              Av förmynderskapsförordningen (1995:379) framgår att länsstyrelsen
+              med lämpliga tidsmellanrum skall inspektera överförmyndaren och
+              granska dels det av överförmyndaren förda registret, dels stickprovsvis
+              utvalda akter (20 §). Överförmyndaren skall lämna länsstyrelsen
+              de upplysningar som den behöver för att kunna utöva sin tillsyn
+              (21 §).
+            </p>
+            <p>
+              De nuvarande reglerna om förmyndare, god man och förvaltare är
+              i vissa delar resultatet av en reform som genomfördes år 1995
+              (prop. 1993/94:251, bet. 1994/95:LU3, rskr. 29). Reformen innebar
+              bl.a. att behörigheten att förordna förvaltare och god man i många
+              fall flyttades från tingsrätterna till överförmyndarna och att
+              tillsynen över överförmyndarna överfördes från tingsrätterna till
+              länsstyrelserna.
+            </p>
+            <p xml:id="IDAVWOIB" rend="r4">
+              Riksrevisionens granskning
+            </p>
+            <p>
+              Riksrevisionen har granskat den statliga tillsynen av de kommunala
+              överförmyndarna. Resultatet av granskningen har redovisats i rapporten
+              Länsstyrelsernas tillsyn av överförmyndare (RiR 2006:5) som i
+              mars 2006 överlämnades till regeringen.
+            </p>
+            <p>
+              Enligt granskningsrapporten hade år 2004 omkring 88 000 personer
+              ställföreträdare, varav de flesta (ca 56 000) avsåg godmansskap
+              på grund av hälsoskäl. Antalet förvaltarskap var drygt 6 000.
+              Det sammanlagda värdet av de tillgångar som ställföreträdarna
+              förvaltade uppgick till 17,5 miljarder kronor. Mellan åren 2000
+              och 2004 har antalet godmansskap av hälsoskäl ökat med drygt 9
+              % och antalet förvaltarskap med över 30 %. Enligt Riksrevisionen
+              har denna ökning flera förklaringar, bl.a. den demografiska utvecklingen
+              med alltfler äldre i befolkningen. En annan förklaring är en lägre
+              grad av institutionsboende till följd av den s.k. äldrereformen
+              samt psykiatrireformen. Hjälpinsatser som tidigare kunde skötas
+              inom ramen för institutionerna läggs nu allt oftare på frivilliga
+              i form av förordnade ställföreträdare.
+            </p>
+            <p>
+              Mycket små resurser satsas, enligt granskningsrapporten, på länsstyrelsernas
+              tillsyn över överförmyndare. Årliga inspektioner förekommer vid
+              vissa länsstyrelser, men tidsintervallen är ofta flera år. En
+              överförmyndare har aldrig inspekterats. De inspektioner som faktiskt
+              utförs är ofta bristfälliga och det är svårt att på grundval av
+              inspektionerna upptäcka olämpliga överförmyndare. Enligt Riksrevisionens
+              granskning har länsstyrelserna i mycket liten grad använt tillgängliga
+              medel för att korrigera de fel som har upptäckts. Brister följs
+              inte upp inom rimlig tid, och det är vanligt att information om
+              resultatet av tillsynen inte vidarebefordras till de ansvariga
+              i kommunen. Länsstyrelsernas tillsyn har inte heller följts upp
+              av regeringen.
+            </p>
+            <p>
+              Därutöver anför Riksrevisionen att granskningen också tyder på
+              att det finns stora problem i överförmyndarnas verksamhet. Det
+              visar sig bl.a. i att mer än en tredjedel av de akter som länsstyrelserna
+              granskat under sina inspektioner år 2004 hade brister som innebär
+              att överförmyndarna inte följer de krav som ställs i lagstiftningen.
+              Kontrollen av ställföreträdarnas ekonomiska redovisning är i många
+              fall ofullständig. Enligt Riksrevisionen innebär detta ökade risker
+              för att ställföreträdarna kan missköta eller t.o.m. missbruka
+              huvudmännens tillgångar. Eftersom länsstyrelsernas inspektioner
+              är ofullständiga bedömer Riksrevisionen att det i verkligheten
+              finns många fler brister i överförmyndarnas akter än vad som upptäcks
+              vid inspektionerna. Då länsstyrelserna sällan använder de medel
+              som finns att tillgå för att korrigera brister som upptäcks kan
+              bristerna kvarstå under lång tid.
+            </p>
+            <p>
+              Riksrevisionen erinrar också om den kritik mot överförmyndarna
+              som Riksdagens ombudsmän (JO) har fört fram. JO har under en följd
+              av år påtalat stora brister i många överförmyndares verksamhet.
+              Enligt JO varierar kvaliteten på överförmyndarnas arbete starkt
+              mellan olika kommuner. JO:s granskningar av överförmyndarna leder
+              ofta till kritik. I 2030 % av granskningsärendena har JO riktat
+              kritik mot överförmyndarna, jämfört med 10 % för andra ärendegrupper.
+            </p>
+            <p>
+              Överförmyndarnas verksamhet innebär, anför Riksrevisionen vidare,
+              i praktiken stora behov av juridisk, ekonomisk och administrativ
+              kompetens. Granskningen visar att större delen av antalet överförmyndarmyndigheter
+              i landet (61 %) består av enbart förtroendevalda. Lagen ställer
+              inga krav på formell kompetens hos de förtroendevalda överförmyndarna.
+            </p>
+            <p xml:id="IDA4TOIB" rend="r4">
+              Styrelsens överväganden och förslag
+            </p>
+            <p>
+              Med anledning av granskningen beslutade Riksrevisionens styrelse
+              i april 2006 om den nu aktuella framställningen till riksdagen.
+            </p>
+            <p>
+              Beträffande länsstyrelsernas tillsyn av överförmyndarna anser
+              Riksrevisionens styrelse att bristerna i länsstyrelsernas tillsyn
+              är anmärkningsvärda och att omedelbara åtgärder bör vidtas för
+              att komma till rätta med bristerna. Även om mer långsiktiga åtgärder
+              också är befogade anser styrelsen att det är angeläget att länsstyrelsernas
+              tillsyn stärks så snart som möjligt, utan att avvakta mer långsiktiga
+              åtgärder. Styrelsen anför att regeringen bör införa krav på att
+              länsstyrelserna utför årliga inspektioner av överförmyndarna.
+              Regeringen bör också följa upp länsstyrelsernas tillsyn av överförmyndarna
+              samt ta initiativ till en nationell samordning av denna tillsyn.
+              Styrelsen föreslår att riksdagen begär att regeringen snarast
+              vidtar åtgärder för att stärka länsstyrelsernas tillsyn av de
+              kommunala överförmyndarna.
+            </p>
+            <p>
+              Vad gäller överförmyndarnas organisation och verksamhet anser
+              styrelsen att Riksrevisionens iakttagelser i granskningsrapporten
+              bör tas på stort allvar och att problemen kring överförmyndarnas
+              verksamhet bör utredas. Det är viktigt att denna verksamhet håller
+              tillräckligt hög kvalitet, vilket också kan få följder för hur
+              verksamheten bör vara organiserad. Styrelsen framhåller att dagens
+              organisationsform för överförmyndarna kan vara svår att förena
+              med de behov av juridisk, ekonomisk och administrativ kompetens
+              som föreligger. Att överförmyndarna har tillgång till sådan kompetens
+              är enligt styrelsens mening särskilt viktigt mot bakgrund av att
+              de som är föremål för överförmyndarnas tillsyn ställföreträdarna
+              är frivilliga som i många fall är lekmän på området. Styrelsen
+              föreslår därför att riksdagen begär att regeringen tar initiativ
+              till en förutsättningslös utredning av överförmyndarnas organisation
+              och verksamhet, inklusive behovet av relevant kompetens hos överförmyndarna.
+            </p>
+            <p xml:id="IDAYSOIB" rend="r4">
+              Utredningen om förmyndare, gode män och förvaltare, m.m.
+            </p>
+            <p>
+              Regeringen tillkallade i april 2002 en särskild utredare för
+              att bl.a. utvärdera den lagstiftning om förmyndares, gode mäns
+              och förvaltares förvaltning av egendom och tillsynen över sådan
+              förvaltning som beslutades år 1995 (dir. 2002:55, 2003:23 och
+              2004:56). Utredningen, som antog namnet Utredningen om förmyndare,
+              gode män och förvaltare, redovisade i december 2004 sitt arbete
+              i slutbetänkandet (SOU 2004:112) Frågor om förmyndare och ställföreträdare
+              för vuxna. I syfte att stärka tillsynen över förordnade ställföreträdare
+              lämnade utredningen vissa förslag beträffande överförmyndarnas
+              verksamhet samt länsstyrelsernas tillsyn och roll.
+            </p>
+            <p>
+              Våren 2006 beslutade riksdagen vissa ändringar i föräldrabalken
+              som byggde på några av utredningens förslag. Ändringarna innebar
+              bl.a. att det genom uttryckliga regler i föräldrabalken klargjordes
+              att kommuner har möjlighet att samverka genom att tillsätta en
+              gemensam överförmyndarnämnd för att fullgöra överförmyndaruppgifter
+              (prop. 2005/06:117, bet. LU34, rskr. 328).
+            </p>
+            <p>
+              Enligt uppgift från Justitiedepartementet planerar regeringen
+              att i maj 2007 besluta en lagrådsremiss om vissa förmynderskapsfrågor
+              som grundar sig på några av förslagen i slutbetänkandet. I det
+              sammanhanget kommer bl.a. länsstyrelsernas tillsyn, överförmyndarnas
+              verksamhet och Riksrevisionens granskningsrapport att behandlas.
+              En proposition är planerad att avlämnas till riksdagen under hösten
+              2007.
+            </p>
+            <p xml:id="IDANQTJB" rend="r4">
+              Motionen
+            </p>
+            <p>
+              Margareta Israelsson och Siw Wittgren-Ahl (båda s) anför i motion
+              L29 att det föreligger stora brister i kompetensen hos många överförmyndare.
+              Utöver behovet att förbättra överförmyndarnas kompetens är, anför
+              motionärerna, lagstiftningen avseende förmyndare, gode män och
+              förvaltare i behov av att revideras. Lagstiftningen behöver moderniseras
+              för att bättre anpassas till dagens samhälle. Genom att modernisera
+              lagstiftningen avseende ställföreträdarbegreppet i föräldrabalken
+              samt centralisera överförmyndarverksamheten i större enheter för
+              att säkerställa kompetensen anser motionärerna att Sverige kan
+              öka rättssäkerheten för alla de människor som inte själva kan
+              föra sin talan. Motionärerna föreslår därför ett tillkännagivande
+              om behovet av en översyn av hur överförmyndarna i Sverige är organiserade
+              och överförmyndarnas kompetens samt behovet att revidera och modernisera
+              lagstiftningen på området.
+            </p>
+            <p xml:id="IDATQTJB" rend="r4">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Riksrevisionens granskning visar på omfattande brister i länsstyrelsernas
+              tillsyn över överförmyndarna. Granskningen tyder även på att det
+              finns brister i överförmyndarnas verksamhet. Sådana brister har
+              också under en följd av år påtalats av Riksdagens ombudsmän. Den
+              kritik som Riksrevisionens styrelse och Riksdagens ombudsmän fört
+              fram är omfattande och måste enligt utskottets mening tas på största
+              allvar. Utifrån utskottets utgångspunkt är det ett oeftergivligt
+              krav att rättssäkerheten på detta område upprätthålls. De som
+              på grund av ålder eller sjukdom har behov av god man eller förvaltare
+              har stort behov av samhällets stöd eftersom de själva sällan har
+              möjlighet att ifrågasätta förvaltningen av sin egendom. Därtill
+              kommer att antalet personer som har god man eller förvaltare har
+              ökat under senare år, bl.a. beroende på den demografiska utvecklingen
+              med alltfler äldre i befolkningen. Underåriga personer befinner
+              sig också i en utsatt situation och är helt beroende av att den
+              lagstiftning som tillkommit i syfte att skydda deras intressen
+              följs.
+            </p>
+            <p>
+              Vad först gäller frågan om länsstyrelsernas tillsyn av överförmyndare
+              vill utskottet anföra följande. För att stärka samhällets skydd
+              av omyndiga och vuxna med behov av hjälp i personliga eller ekonomiska
+              angelägenheter anser utskottet att länsstyrelsernas tillsynsroll
+              måste bli mer aktiv och effektivare. Tillsynen måste vara både
+              grundlig, återkommande och präglas av kompetens för att brister
+              i överförmyndarnas verksamhet skall kunna upptäckas och för att
+              olämpliga överförmyndare skall kunna identifieras. En fungerande
+              tillsyn skapar enligt utskottets mening förutsättningar för att
+              brister på ett tidigt stadium skall kunna identifieras och korrigeras.
+              Genom en fungerande tillsyn minskar alltså risken för att ställföreträdarna
+              kan missköta huvudmännens tillgångar. Utskottet tillmäter länsstyrelsernas
+              tillsyn central betydelse för en fungerande överförmyndarverksamhet.
+            </p>
+            <p>
+              Enligt utskottets mening bör bristerna i länsstyrelsernas tillsyn
+              åtgärdas snarast möjligt. Utskottet anser att regeringen omgående
+              bör överväga att införa krav på att länsstyrelserna årligen inspekterar
+              överförmyndarna samt att regeringen tar initiativ till att följa
+              upp länsstyrelsernas tillsyn av överförmyndarna och föranstaltar
+              om en nationell samordning av tillsynen. Enligt utskottets mening
+              bör dessa frågor lämpligen kunna bli föremål för regeringens närmare
+              överväganden i det nu pågående arbetet med anledning av de förslag
+              som Utredningen om förmyndare, gode män och förvaltare lagt fram.
+            </p>
+            <p>
+              Vad utskottet sålunda anfört om åtgärder för att stärka länsstyrelsernas
+              tillsyn av överförmyndare bör riksdagen, med bifall till Riksrevisionens
+              styrelses framställning punkt 1, som sin mening ge regeringen
+              till känna.
+            </p>
+            <p>
+              De förslag som Riksrevisionens styrelse i övrigt fört fram innebär
+              att en utredning skall tillsättas för att överväga överförmyndarnas
+              organisation och verksamhet. Utskottet är i och för sig inte främmande
+              för att ställa sig bakom tankegången att överförmyndarnas organisation
+              och verksamhet bör bli föremål för en grundlig genomlysning. Förslagen
+              från Utredningen om förmyndare, gode män och förvaltare syftar
+              till att åstadkomma förbättringar i överförmyndarnas organisation
+              och till att säkerställa kompetensen hos överförmyndarna. En proposition
+              som behandlar dessa frågor är aviserad till hösten 2007. Utskottet
+              vill avvakta resultatet av det pågående arbetet och är därför
+              inte berett att formellt ställa sig bakom Riksrevisionens förslag
+              om en så omfattande organisationsutredning som ett bifall till
+              styrelsens förslag skulle innebära. Riksrevisionens styrelses
+              framställning punkt 2 och motionen i denna del bör därför avslås.
+            </p>
+            <p>
+              Beträffande motionen i övrigt anser utskottet att någon översyn
+              i syfte att modernisera lagstiftningen utöver den översyn som
+              gjorts av Utredningen om förmyndare, gode män och förvaltare inte
+              är påkallad. Motionen bör därför också i denna del avslås.
+            </p>
+            <p xml:id="IDAJRTJB" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAMRTJB" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAPRTJB" rend="rubrik2">
+              Framställningen
+            </p>
+            <p rend="behandlatdokument_">
+              Framställning 2005/06:RRS26 Riksrevisionens styrelses framställning
+              angående länsstyrelsernas tillsyn av överförmyndare:
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad styrelsen
+                    anfört om att regeringen snarast vidtar åtgärder för att stärka
+                    länsstyrelsernas tillsyn av kommunernas överförmyndare.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad styrelsen
+                    anfört om att regeringen tar initiativ till en förutsättningslös
+                    utredning av överförmyndarnas organisation och verksamhet, inklusive
+                    behovet av relevant kompetens hos överförmyndarna.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDATTTJB" rend="rubrik2">
+              Följdmotion
+            </p>
+            <p rend="behandlatdokument_">
+              2005/06:L29 av Margareta Israelsson och Siw Wittgren-Ahl (båda
+              s):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad i motionen
+              anförs om en översyn av hur överförmyndarna i Sverige är organiserade
+              och överförmyndarnas kompetens, samt av behovet av att revidera
+              och modernisera lagstiftningen inom området.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

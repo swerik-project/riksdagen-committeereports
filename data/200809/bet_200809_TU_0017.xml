@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_TU_0017">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen beslutade om en utvidgning av vem som har rätt att överklaga beslut enligt lagen om elektronisk kommunikation. Det beslutades också om en mindre utvidgning av omfånget av det särskilda tvistlösningsförfarandet i lagen. Slutligen beslutades om en ändring av ett bemyndigande att meddela föreskrifter om vissa allmänna skyldigheter när det gäller tjänster till slutanvändare. Ändringarna börjar gälla den 1 juli 2009.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Ändringar i lagen om elektronisk kommunikation (TU17)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW09117</idno>
+              <title>2009-05-13</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">117</biblScope>
+              <note type="display-reference">2009-05-13</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW09113</idno>
+              <title>2009-05-07</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">113</biblScope>
+              <note type="display-reference">2009-05-07</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GW0K239</idno>
+              <title>2008/09:239</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">239</biblScope>
+              <note type="display-reference">2008/09:239</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2003:389</idno>
+              <note type="display-reference">2009:546</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GW03159</idno>
+              <title>Vissa ändringar i lagen om elektronisk kommunikation</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">159</biblScope>
+              <note type="display-reference">proposition 2008/09:159 Vissa ändringar i lagen om elektronisk kommunikation</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2009-05-05">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2009-05-05">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-04-27">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-04-24">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-04-24">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-04-23">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-04-23">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-04-23">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-04-14">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-04-14">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2009-05-13">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-05-13">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-05-13">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-05-13">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-05-07">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-05-07">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-05-06">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-05-06">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-05-05">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-05-05">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Trafikutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:TU17
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Vissa ändringar i lagen om elektronisk kommunikation
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBQTC" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet regeringens proposition 2008/09:159
+            Vissa ändringar i lagen om elektronisk kommunikation.
+          </p>
+          <p>
+            I propositionen föreslås en utvidgning av vem som har rätt att
+            överklaga beslut enligt lagen (2003:389) om elektronisk kommunikation
+            samt en mindre utvidgning av omfånget av det särskilda tvistlösningsförfarandet
+            i lagen. Vidare föreslås att ett bemyndigande att meddela föreskrifter
+            om vissa allmänna skyldigheter när det gäller tjänster till slutanvändare
+            utvidgas till att även avse vilka uppgifter som ska omfattas av
+            dessa skyldigheter.
+          </p>
+          <p>
+            Lagändringarna föreslås träda i kraft den 1 juli 2009.
+          </p>
+          <p>
+            Ingen motion har väckts med anledning av propositionen, och utskottet
+            föreslår att riksdagen antar regeringens lagförslag.
+          </p>
+          <p xml:id="IDASBQTC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Lagförslaget
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till lag om ändring i lagen
+                  (2003:389) om elektronisk kommunikation. Därmed bifaller riksdagen
+                  proposition 2008/09:159.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 23 april 2009
+          </p>
+          <p>
+            På trafikutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Lena Hallengren
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Lena Hallengren (s),
+            Jan-Evert Rådhström (m), Oskar Öholm (m), Christina Axelsson (s),
+            Lisbeth Grönfeldt Bergman (m), Sven Bergström (c), Hans Stenberg
+            (s), Eliza Roszkowska Öberg (m), Marie Nordén (s), Sten Bergheden
+            (m), Peter Pedersen (v), Pia Nilsson (s), Ingemar Vänerlöv (kd),
+            Karin Svensson Smith (mp), Désirée Liljevall (s), Christer Winbäck
+            (fp) och Lars-Axel Nordell (kd).
+          </p>
+          <p xml:id="IDAUEQTC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAXEQTC" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Europeiska gemenskapernas kommission har anfört att Sverige brustit
+            i sina skyldigheter enligt bestämmelserna om överklaganderätt
+            samt tvistlösning i Europaparlamentets och rådets direktiv (2002/21/EG)
+            av den 7 mars 2002 om ett gemensamt regelverk för elektroniska
+            kommunikationsnät och kommunikationstjänster (ramdirektivet).
+            Kommissionen har med anledning av detta inlett överträdelseärenden
+            mot Sverige.
+          </p>
+          <p>
+            I svensk rättspraxis har det vidare ansetts att de föreskrifter
+            som Post- och telestyrelsen (PTS) meddelat om utlämnande av abonnentuppgifter
+            delvis går utöver det utrymme som medges av bemyndigandet i lagen
+            (2003:389) om elektronisk kommunikation. Myndighetens föreskrifter
+            har följaktligen ansetts delvis strida mot lag.
+          </p>
+          <p>
+            Mot bakgrund av ovanstående har Näringsdepartementet utarbetat
+            promemorior med förslag till ändringar i lagen om elektronisk
+            kommunikation. Promemoriorna har remissbehandlats.
+          </p>
+          <p>
+            Regeringen har därefter inhämtat Lagrådets yttrande och i huvudsak
+            valt att följa detta i propositionen Vissa ändringar i lagen om
+            elektronisk kommunikation (prop. 2008/09:159). Regeringens förslag
+            till riksdagsbeslut återges i bilaga 1 och regeringens lagförslag
+            i bilaga 2.
+          </p>
+          <p>
+            Inga motionsyrkanden har väckts med anledning av regeringens
+            proposition.
+          </p>
+          <p xml:id="IDAJFQTC" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            I propositionen föreslås ändringar i lagen (2003:389) om elektronisk
+            kommunikation (LEK) för att, mot bakgrund av pågående överträdelseärenden,
+            säkerställa att bestämmelserna om överklaganderätt samt tvistlösning
+            i ramdirektivet (2002/21/EG) är korrekt genomförda i svensk rätt.
+            Regeringen föreslår följaktligen en utvidgning av vem som har
+            rätt att överklaga beslut enligt LEK samt en mindre utvidgning
+            av omfånget av det särskilda tvistlösningsförfarandet i lagen.
+          </p>
+          <p>
+            Vidare föreslås en ändring av ett bemyndigande i LEK så att regeringen
+            eller den myndighet som regeringen bestämmer, för vissa av de
+            skyldigheter som gäller för den som tillhandahåller en allmänt
+            tillgänglig telefonitjänst, får meddela närmare föreskrifter om
+            vilka uppgifter som ska omfattas av dessa skyldigheter. Ändringen
+            är föranledd av att det enligt rättspraxis saknas utrymme i nuvarande
+            reglering att meddela sådana föreskrifter.
+          </p>
+          <p>
+            Lagändringarna föreslås träda i kraft den 1 juli 2009.
+          </p>
+          <p xml:id="IDAWFQTC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDA0FQTC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen antar regeringens lagförslag om ändringar i lagen (2003:389)
+                om elektronisk kommunikation.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAGGQTC" rend="rubrik2">
+              Bakgrund
+            </p>
+            <p xml:id="IDAJGQTC" rend="r3">
+              EG:s regelverk för elektroniska kommunikationer
+            </p>
+            <p>
+              Europaparlamentet och rådet beslutade 2002 om ett regelverkspaket
+              för elektroniska kommunikationsnät och kommunikationstjänster
+              bestående av fem direktiv och ett beslut. Bland dessa rättsakter
+              finns direktiv (2002/21/EG) av den 7 mars 2002 om ett gemensamt
+              regelverk för elektroniska kommunikationsnät och kommunikationstjänster
+              (ramdirektivet). Direktivet fastställer regelverkets övergripande
+              målsättning att åstadkomma ett harmoniserat regelverk för elektroniska
+              kommunikationsnät och elektroniska kommunikationstjänster samt
+              tillhörande faciliteter och tillhörande tjänster. Direktivet innehåller
+              vissa grundläggande bestämmelser för tillämpningen av övriga rättsakter
+              i regelverkspaketet. I direktivet anges huvudprincipen att särskilda
+              skyldigheter ska åläggas på operatörer med betydande marknadsinflytande
+              på s.k. relevanta marknader där det inte råder effektiv konkurrens.
+              I direktivet fastställs vidare att beslut av nationella regleringsmyndigheter
+              ska kunna överklagas till en oberoende instans. Ramdirektivet
+              innehåller även bestämmelser om bl.a. tvistlösningsförfaranden.
+            </p>
+            <p>
+              EG:s regelverkspaket för elektroniska kommunikationer har i huvudsak
+              genomförts i Sverige genom lagen (2003:389) om elektronisk kommunikation
+              (prop. 2002/03:110, bet. 2002/03:TU6, rskr. 2002/03:228).
+            </p>
+            <p xml:id="IDASGQTC" rend="r3">
+              Lagen om elektronisk kommunikation
+            </p>
+            <p>
+              Lagen (2003:389) om elektronisk kommunikation (LEK) syftar till
+              att enskilda och myndigheter ska få tillgång till säkra och effektiva
+              elektroniska kommunikationer och största möjliga utbyte när det
+              gäller urvalet av elektroniska kommunikationstjänster samt deras
+              pris och kvalitet. Syftet ska uppnås bl.a. genom att konkurrensen
+              främjas. Lagen innehåller verktyg som ska användas om konsumenternas
+              behov inte tillgodoses av marknaden eller om inte konkurrensen
+              fungerar. Post- och telestyrelsen (PTS) är den myndighet som bl.a.
+              beslutar om skyldigheter och i övrigt prövar frågor och handlägger
+              ärenden samt utövar tillsyn enligt lagen och enligt föreskrifter
+              meddelade med stöd av lagen.
+            </p>
+            <p>
+              En av grundtankarna i LEK är att ha en flexibel reglering. Lagstiftningen
+              är uppbyggd så att PTS skräddarsyr skyldigheter i beslut för det
+              fall det behövs i enskilda fall. Tillsynsmyndigheten ska enligt
+              lagstiftningen fortlöpande fastställa vilka produkt- och tjänstemarknader
+              som har sådana särdrag att det kan vara motiverat att införa skyldigheter
+              för operatörer. Dessa marknader ska i sin tur fortlöpande analyseras,
+              och myndigheten ska för varje relevant marknad ta ställning till
+              om det där råder effektiv konkurrens. Om det konstateras att det
+              inte råder effektiv konkurrens på en fastställd marknad, ska företag
+              med betydande inflytande på marknaden identifieras och åläggas
+              en eller flera skyldigheter ur en särskild katalog. Skyldigheterna
+              ska syfta till att skapa effektiv konkurrens.
+            </p>
+            <p>
+              Riksdagen beslutade i oktober 2007 om ändringar i bl.a. LEK för
+              att förkorta handläggningstiderna och effektivisera processen
+              hos de allmänna förvaltningsdomstolarna i mål enligt LEK (prop.
+              2006/07:119, bet. 2007/08:TU2, rskr. 2007/08:8). Lagändringarna
+              trädde i kraft den 1 januari 2008. Riksdagen beslutade vidare
+              i juni 2008 om ändringar i LEK för att ge PTS möjlighet att ålägga
+              en dominerande operatör en förpliktelse om s.k. funktionell separation,
+              dvs. en förpliktelse att skilja den verksamhet som förvaltar,
+              driver och tillhandahåller det s.k. kopparaccessnätet från operatörens
+              verksamhet (prop. 2007/08:73, bet. 2007/08:TU13, rskr. 2007/08:228).
+              Dessa lagändringar trädde i kraft den 1 juli 2008.
+            </p>
+            <p xml:id="IDA4GQTC" rend="rubrik2">
+              Propositionen
+            </p>
+            <p xml:id="IDABHQTC" rend="r3">
+              Utvidgad överklaganderätt
+            </p>
+            <p>
+              Enligt artikel 4.1 i ramdirektivet ska det finnas fungerande
+              system enligt vilka varje användare eller företag som tillhandahåller
+              elektroniska kommunikationsnät eller kommunikationstjänster, och
+              som berörs av ett beslut av en nationell regleringsmyndighet,
+              har rätt att överklaga beslutet. Artikel 4.1 i ramdirektivet har
+              i huvudsak genomförts genom 8 kap. 19 § lagen (2003:389) om elektronisk
+              kommunikation (LEK), där det anges att beslut enligt lagen, eller
+              enligt föreskrifter som meddelats med stöd av lagen, får överklagas
+              hos allmän förvaltningsdomstol. Frågan om vem som har rätt att
+              överklaga sådana beslut regleras däremot inte i LEK. Detta avgörs
+              i stället genom tillämpning av 22 § förvaltningslagen (1986:223),
+              där det anges att beslut får överklagas av den som beslutet angår,
+              om det gått honom emot och beslutet får överklagas.
+            </p>
+            <p>
+              EG-domstolen har i en dom den 21 februari 2008 (mål C-426/05)
+              framfört att artikel 4.1 i ramdirektivet ska tolkas så att rätten
+              att överklaga även ges till andra än dem som ett beslut riktar
+              sig till. Domstolen uttalade att begreppet
+              <seg rend="grad2">
+                företag som berörs
+              </seg>
+              i artikeln avser företag som konkurrerar med ett företag med
+              betydande inflytande på den relevanta marknaden, om deras rättigheter
+              potentiellt påverkas av ett sådant beslut. Detta överensstämmer
+              inte med förvaltningsdomstolarnas hittillsvarande praxis på området.
+              Europeiska gemenskapernas kommission har följaktligen inlett ett
+              överträdelseärende mot Sverige och gjort gällande att Sverige
+              brustit i sina skyldigheter enligt artikel 4.1 i ramdirektivet.
+            </p>
+            <p>
+              Mot bakgrund av ovanstående föreslår regeringen att klagorätt
+              bör ges till de operatörer som bedriver verksamhet på en fastställd
+              marknad där PTS har beslutat om särskilda skyldigheter för en
+              operatör med betydande inflytande. Regeringen konstaterar vidare
+              att ett beslut avseende en viss marknad även kan ha effekter för
+              operatörer på närliggande marknader i såväl samma handelsled som
+              i föregående eller efterföljande handelsled. Regeringen bedömer
+              att EG-domstolens uttalanden får anses omfatta även dessa operatörer.
+            </p>
+            <p>
+              Även i övrigt kan enligt regeringen beslut i LEK i vissa fall
+              påverka rättigheter för andra än den som beslutet riktar sig till.
+              Regeringen menar att EG-domstolens uttalanden är sådana att den
+              som påverkas av sådana beslut ska kunna överklaga dem.
+            </p>
+            <p>
+              Regeringen föreslår följaktligen att det i LEK införs en bestämmelse
+              som innebär att beslut enligt lagen ska få överklagas av den som
+              är part i ärendet, om beslutet har gått parten emot, och även
+              av annan vars rättigheter påverkas negativt av beslutet.
+            </p>
+            <p>
+              För att undvika att en konkurrent kan överklaga ett beslut som
+              PTS fattat, kanske långt tillbaka i tiden, och trots att frågan
+              kanske redan prövats av domstol efter överklagande av en annan
+              konkurrent, föreslår regeringen en övergångsbestämmelse som innebär
+              att de nya bestämmelserna om utvidgad överklaganderätt inte ska
+              tillämpas i ärenden där beslut meddelats före ikraftträdandet.
+            </p>
+            <p xml:id="IDA0HQTC" rend="r3">
+              Tvistlösning mellan operatörer
+            </p>
+            <p>
+              I artikel 20.1 i ramdirektivet anges att om en tvist
+              <seg rend="grad2">
+                i samband med de skyldigheter som uppstår genom detta direktiv
+                eller särdirektiven uppkommer mellan företag som tillhandahåller
+                elektroniska kommunikationsnät eller kommunikationstjänster i
+                en medlemsstat, ska den berörda nationella regleringsmyndigheten
+                på begäran av någon av parterna fatta ett bindande beslut för
+                att lösa tvisten. Bestämmelsen har genomförts genom 7 kap. 10
+                § LEK av vilken följer att PTS har behörighet att pröva tvister
+                mellan dem som tillhandahåller elektroniska kommunikationsnät
+                eller kommunikationstjänster eller tillhörande tjänster i fråga
+                om
+              </seg>
+              skyldigheter som följer av lagen eller av föreskrifter, tillståndsvillkor
+              eller beslut om förpliktelser som meddelats med stöd av lagen.
+            </p>
+            <p>
+              I rättspraxis har bestämmelsen i 7 kap. 10 § LEK tolkats så att
+              frågor som inte är specifika för ett avtal om samtrafik, såsom
+              frågor om ställande av säkerhet, kreditprövning, avtalstid, avtal
+              efter uppsägning och uppsägning på grund av avtalsbrott, inte
+              har ett sådant samband med någon sådan skyldighet som avses i
+              7 kap. 10 § LEK att de kan bli föremål för ett tvistlösningsförfarande.
+              Europeiska gemenskapernas kommission anser dock att dessa frågor
+              bör betraktas som sådana villkor som utgör en del av eller nära
+              sammanhänger med den etablerade operatörens samtrafikskyldigheter,
+              och att PTS därför bör ha befogenhet att ingripa i syfte att lösa
+              sådana tvister. Kommissionen har följaktligen inlett ett överträdelseärende
+              mot Sverige och anfört att Sverige inte fullgjort sina förpliktelser
+              enligt artikel 20 i ramdirektivet.
+            </p>
+            <p>
+              Regeringen konstaterar att ovan angivna frågor som enligt nuvarande
+              rättspraxis inte kan prövas inom ramen för tvistlösningsförfarandet
+              kan vara av stor betydelse för att avtal om samtrafik ska kunna
+              komma till stånd över huvud taget. Regeringen anför därför att
+              det är angeläget att säkerställa att artikel 20.1 i ramdirektivet
+              är korrekt genomförd i svensk rätt och föreslår att bestämmelsen
+              i 7 kap. 10 § LEK preciseras så att det framgår att de aktuella
+              frågorna kan prövas inom ramen för tvistlösningsförfarandet.
+            </p>
+            <p>
+              Regeringen föreslår vidare att en särskild övergångsbestämmelse
+              införs för att klargöra att ändringen av tvistlösningsförfarandets
+              omfång endast bör tillämpas i ärenden som ännu inte avgjorts av
+              PTS vid ikraftträdandet av lagändringen.
+            </p>
+            <p xml:id="IDAUIRTC" rend="r3">
+              Skyldigheten att lämna ut abonnentuppgifter m.m.
+            </p>
+            <p>
+              Enligt 5 kap. 7 § första stycket 3 LEK ska den som tillhandahåller
+              en allmänt tillgänglig telefonitjänst på villkor som är rättvisa,
+              kostnadsorienterade och ickediskriminerande tillgodose varje rimlig
+              begäran om att lämna ut abonnentuppgifter, som inte omfattas av
+              sekretess eller tystnadsplikt enligt lag, till den som bedriver
+              eller avser att bedriva abonnentupplysning. Enligt tredje stycket
+              i samma paragraf får regeringen eller den myndighet som regeringen
+              bestämmer meddela föreskrifter om på vilket sätt skyldigheterna
+              ska fullgöras och om undantag från skyldigheterna. Av 30 § förordningen
+              (2003:396) om elektronisk kommunikation följer att PTS får meddela
+              sådana föreskrifter.
+            </p>
+            <p>
+              PTS har sedermera meddelat föreskrifter om skyldighet att lämna
+              ut abonnentuppgifter (PTSFS 2005:3). I dessa finns en detaljerad
+              uppräkning av vilka uppgifter som en tjänsteleverantör är skyldig
+              att lämna ut. Enligt rättspraxis ger dock inte bemyndigandet i
+              5 kap. 7 § LEK utrymme för PTS att meddela föreskrifter om
+              <seg rend="grad2">
+                vilka
+              </seg>
+              uppgifter som ska lämnas ut. Regeringen anför emellertid att
+              det är angeläget att det klart framgår vilka abonnentuppgifter
+              som en operatör är skyldig att lämna ut. Regeringen föreslår därför
+              att bemyndigandet i 5 kap. 7 § första stycket 3 LEK ändras så
+              att föreskrifter även får meddelas om vilka uppgifter som ska
+              omfattas av skyldigheten att lämna ut abonnentuppgifter. Regeringen
+              framhåller att detta är förenligt med tidigare uttalanden från
+              EG-domstolen i samband med ett mål från november 2004 (C-109/03).
+            </p>
+            <p>
+              I 5 kap. 7 § första stycket 2 och 4 LEK finns bestämmelser om
+              skyldighet att tillhandahålla lokaliseringsuppgifter och specificerade
+              telefonräkningar. Bemyndigandet i 5 kap. 7 § tredje stycket att
+              meddela föreskrifter omfattar även dessa skyldigheter. För att
+              undvika att föreskrifter om
+              <seg rend="grad2">
+                vilka
+              </seg>
+              uppgifter som omfattas av dessa skyldigheter anses strida mot
+              bemyndigandet i paragrafen föreslår regeringen att bemyndigandet
+              utvidgas till att omfatta även dessa fall, på motsvarande vis
+              som för skyldigheten att lämna ut abonnentuppgifter.
+            </p>
+            <p xml:id="IDAIJRTC" rend="r3">
+              Konsekvenser
+            </p>
+            <p>
+              Regeringens lagförslag innebär enligt propositionen att ramdirektivets
+              bestämmelser avseende rätten att överklaga beslut och omfånget
+              av det särskilda tvistlösningsförfarandet blir tydligare genomförda
+              i Sverige.
+            </p>
+            <p>
+              Regeringen bedömer att en utvidgad överklaganderätt kan innebära
+              dels att fler beslut kommer att överklagas, dels att processerna
+              blir mer omfattande eftersom det kan bli fler parter i målen.
+              Regeringen konstaterar dock samtidigt att det totala antalet skyldighetsbeslut
+              är litet endast sex skyldighetsbeslut har meddelats sedan den
+              1 januari 2005. I propositionen anförs också att förslagen kan
+              förväntas påverka antalet tvistlösningsärenden enligt 7 kap. 10
+              § LEK; den förtydligade möjligheten för PTS att pröva dessa frågor
+              bedöms bl.a. ge operatörerna incitament att i ökad utsträckning
+              lösa frågorna på egen hand.
+            </p>
+            <p>
+              Regeringen meddelar att det sammantaget är svårt att göra någon
+              exakt förutsägelse av om lagändringarna kommer att leda till ett
+              ökat eller minskat antal mål. Regeringen kan således inte bedöma
+              omfattningen av den ökade belastningen på länsrätten och anför
+              att om det visar sig att den nya lagstiftningen medför kostnadsökningar
+              bör medel tillskjutas från utgiftsområde 22.
+            </p>
+            <p xml:id="IDAUJRTC" rend="rubrik2">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet påminner inledningsvis om att målet för politiken för
+              informationssamhället är säkra, robusta och lättillgängliga kommunikationer
+              som i första hand tillhandahålls genom effektivt fungerande marknader.
+              Det ska finnas ett stort utbud av tjänster som underlättar vardagen
+              för hushåll och företag i hela landet. Statens huvudsakliga roll
+              är i detta sammanhang att bidra till att skapa goda förutsättningar
+              för väl fungerande marknader och därigenom att målen uppnås. En
+              tydlig reglering är härvid enligt utskottets mening av stor betydelse.
+              Utskottet är därför positivt till regeringens förslag till preciseringar
+              i lagen om elektronisk kommunikation (LEK) för att denna bättre
+              ska överensstämma med det bakomliggande EG-rättsliga regelverket.
+            </p>
+            <p>
+              Vad gäller skyldigheten att lämna ut abonnentuppgifter delar
+              utskottet regeringens bedömning om att det är angeläget att det
+              klart framgår vilka abonnentuppgifter som ska lämnas ut. Utskottet
+              stöder därför regeringens förslag om att för detta ändamål utvidga
+              det befintliga bemyndigandet att meddela föreskrifter i 5 kap.
+              7 § tredje stycket LEK. Härigenom minskar den regulatoriska osäkerheten
+              för branschen samtidigt som det också undviks att tvister uppstår
+              i frågan. På motsvarande vis ställer sig utskottet bakom regeringens
+              förslag att utvidga bemyndigandet till att även avse vilka uppgifter
+              som ska omfattas vid förmedling av nödsamtal respektive tillhandahållande
+              av specificerade telefonräkningar i enlighet med 5 kap. 7 § första
+              stycket 2 respektive 4 LEK.
+            </p>
+            <p>
+              Med det anförda föreslår utskottet att riksdagen antar det i
+              propositionen framlagda lagförslaget.
+            </p>
+            <p xml:id="IDAAKRTC" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDADKRTC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAGKRTC" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2008/09:159 Vissa ändringar i lagen om elektronisk
+              kommunikation:
+            </p>
+            <p>
+              Riksdagen antar regeringens förslag till lag om ändring i lagen
+              (2003:389) om elektronisk kommunikation.
+            </p>
+            <p xml:id="IDATKRTC" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDAWKRTC" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{95284407-3097-41F3-9BE0-02366CB9C0FB}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{62E058A4-7242-4770-972A-D97EA887C0D3}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{A31DF351-D057-43E0-8EF7-9719B9142404}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_FöU_0005">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksrevisionen har granskat om regeringen och de statliga myndigheterna skapat tillräckliga förutsättningar för att vi ska kunna hantera allvarliga kriser inom dricksvattenförsörjningen. Granskning har visat på brister. Sedan Riksrevisionens granskning publicerades har Myndigheten för samhällsskydd och beredskap bildats och startat sin verksamhet. Regeringskansliet har också startat ett arbete med att bland annat se över grundläggande säkerhetskrav, tillsyn och kartläggning av förstärkningsmateriel för att förbättra beredskapen för en kris inom dricksvattenförsörjningen. Riksdagen avslutade ärendet med detta.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Riksrevisionens granskning av dricksvattenförsörjningen och beredskapen för stora kriser (FöU5)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Redogörelsen läggs till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0978</idno>
+              <title>2009-02-26</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">78</biblScope>
+              <note type="display-reference">2009-02-26</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0977</idno>
+              <title>2009-02-25</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">77</biblScope>
+              <note type="display-reference">2009-02-25</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GW0K182</idno>
+              <title>2008/09:182</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">182</biblScope>
+              <note type="display-reference">2008/09:182</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="redogorelse">
+              <idno type="riksdagen">GW04RRS4</idno>
+              <title>Riksrevisionens styrelses redogörelse angående Dricksvattenförsörjning - beredskap för stora kriser</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">RRS4</biblScope>
+              <note type="display-reference">redogorelse 2008/09:RRS4 Riksrevisionens styrelses redogörelse angående Dricksvattenförsörjning - beredskap för stora kriser</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2009-02-23">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2009-02-23">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-02-13">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-02-13">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-02-11">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-02-10">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-02-10">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-01-27">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-01-27">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2009-02-26">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-02-26">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-02-26">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-02-26">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-02-25">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-02-25">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-02-24">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-02-24">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-02-23">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-02-23">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Försvarsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:FöU5
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Dricksvattenförsörjning beredskap för stora kriser
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACJ00D" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I detta betänkande behandlas Riksrevisionens styrelses redogörelse
+            2008/09:RRS4 angående dricksvattenförsörjning.
+          </p>
+          <p>
+            Riksrevisionen har granskat om regeringen och de statliga myndigheterna
+            skapat tillräckliga förutsättningar för att allvarliga kriser
+            inom dricksvattenförsörjningen ska kunna hanteras. Resultatet
+            av granskningen har presenterats i rapporten
+            <seg rend="grad2">
+              Dricksvattenförsörjning beredskap för stora kriser
+            </seg>
+            (RiR 2008:8) som publicerades den 11 juni 2008.
+          </p>
+          <p>
+            Riksrevisionens styrelse anser att iakttagelserna som redovisats
+            i rapporten är allvarliga och menar att regeringen snarast bör
+            vidta de åtgärder som behövs för att förbättra samhällets beredskap
+            inför en stor kris i dricksvattenförsörjningen.
+          </p>
+          <p>
+            Utskottet ser allvarligt på att Riksrevisionen i sin granskning
+            funnit brister i dricksvattenförsörjningen.
+          </p>
+          <p>
+            Sedan rapporten publicerades sommaren 2008 har Myndigheten för
+            samhällsskydd och beredskap bildats och startat sin verksamhet.
+            Myndigheten har bl.a. till uppgift att samordna och samverka med
+            de aktörer som kan komma att bli involverade i en kris. Utskottet
+            förutsätter att den nya myndigheten på ett positivt sätt kommer
+            att bidra till att göra det svenska samhället säkrare och mer
+            motståndskraftigt.
+          </p>
+          <p>
+            Utskottet har även erfarit att Regeringskansliet påbörjat ett
+            arbete med att bl.a. se över grundläggande säkerhetskrav, utövande
+            av tillsyn och kartläggning av förstärkningsmateriel för att förbättra
+            beredskapen för en kris inom dricksvattenförsörjningen. Även ansvarsfördelningen
+            och samverkansformerna på området kommer att belysas.
+          </p>
+          <p>
+            Utskottet anser att Riksrevisionens styrelses redogörelse 2008/09:RRS4
+            bör läggas till handlingarna.
+          </p>
+          <p xml:id="IDA5J00D" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Redogörelsen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger redogörelse 2008/09:RRS4 till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 10 februari 2009
+          </p>
+          <p>
+            På försvarsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Anders Karlsson
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Anders Karlsson (s),
+            Rolf Gunnarsson (m), Karin Enström (m), Peter Jonsson (s), Nils
+            Oskar Nilsson (m), Staffan Danielsson (c), Michael Hagberg (s),
+            Allan Widman (fp), Mats Berglind (s), Isabella Jernbeck (m), Else-Marie
+            Lindgren (kd), Rolf K Nilsson (m), Gunilla Wahlén (v), Inger Jarl
+            Beck (s), Kjell Eldensjö (kd), Peter Rådberg (mp) och Peter Jeppsson
+            (s).
+          </p>
+          <p xml:id="IDABN00D" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAEN00D" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Riksrevisionens granskning av beredskapen för en allvarlig kris
+            i dricksvattenförsörjningen är en av sex genomförda granskningar
+            av ansvariga myndigheters beredskap för att hantera olika typer
+            av hot mot samhället.
+          </p>
+          <p>
+            Den nu aktuella granskningen har särskilt inriktats mot att granska
+            regeringens och Regeringskansliets samt Jordbruksdepartementets
+            roller och ansvar vid kriser i dricksvattenförsörjningen. Riksrevisionen
+            har därutöver granskat följande myndigheter som har ansvar och
+            uppgift vid stora kriser i dricksvattenförsörjningen.
+          </p>
+          <p>
+            <seg rend="grad2">
+              Livsmedelsverket
+            </seg>
+            (SLV) är centralt ansvarigt för dricksvattnets kvalitet i egenskap
+            av livsmedel och för krisberedskap både före och under
+          </p>
+          <p>
+            <seg rend="grad2">
+              Räddningsverket
+            </seg>
+            (SRV) var central myndighet för bl.a. räddningstjänst och åtgärder
+            vid olyckor. Verket hade uppgifter både före och under en kris.
+          </p>
+          <p>
+            <seg rend="grad2">
+              Krisberedskapsmyndigheten
+            </seg>
+            (KBM) ansvarade för krisberedskap och samordnade bl.a. risk-
+            och sårbarhetsanalyser. KBM hade i huvudsak en roll före
+          </p>
+          <p>
+            <seg rend="grad2">
+              Smittskyddsinstitutet
+            </seg>
+            (SMI) arbetar centralt med diagnostik och smittspårning samt
+            besitter viktiga laboratorieresurser. SMI spelar en roll både
+            före och under en kris.
+          </p>
+          <p>
+            <seg rend="grad2">
+              Socialstyrelsen
+            </seg>
+            (SoS) ansvarar för smittskydd, hälsoskydd, tillsyn och vägledning.
+            Inriktningen är i första hand på åtgärder före
+          </p>
+          <p>
+            <seg rend="grad2">
+              Försvarsmakten
+            </seg>
+            kan i vissa fall hjälpa till med personal och relevant utrustning.
+            Försvaret kan bidra främst under en kris.
+          </p>
+          <p>
+            <seg rend="grad2">
+              Naturvårdsverket
+            </seg>
+            har ansvar för skydd av vattentäkter. Verket vägleder och samordnar
+            tillsyn och har uppgifter främst före
+          </p>
+          <p>
+            <seg rend="grad2">
+              Länsstyrelserna
+            </seg>
+            ska samordna beredskapsåtgärder regionalt både före och under
+            en kris.
+          </p>
+          <p>
+            Granskningen har varit inriktad på större städer och stora försörjningssystem,
+            med utgångspunkt i allvarliga kriser och kritiska händelseförlopp
+            som uppstår plötsligt, som kräver snabba åtgärder och som kan
+            få omfattande konsekvenser för samhället i dess helhet.
+          </p>
+          <p>
+            Syftet med granskningen har varit att undersöka vad regeringen
+            och statliga myndigheter gör för att samhället ska kunna förebygga,
+            motstå och hantera kriser inom dricksvattenförsörjningen.
+          </p>
+          <p xml:id="IDATP00D" rend="rubrik2">
+            Redogörelsens huvudsakliga innehåll
+          </p>
+          <p>
+            Riksrevisionen konstaterar att ingen myndighet på central nivå
+            har ett ansvar för dricksvattenförsörjningen, vilket kan bidra
+            till otydliga ansvarsförhållanden vid en kris. Det finns därmed
+            inte heller någon given myndighet som har detta ansvar vid en
+            kris.
+          </p>
+          <p>
+            Granskningen visar vidare att det finns positiva inslag i den
+            pågående utvecklingen när det gäller beredskapsfrågor inom dricksvattenförsörjningen
+            men också att det finns oklarheter, bl.a. i ansvarsfördelningen
+            på regional och lokal nivå. Det är kommunerna som har det direkta
+            ansvaret, men staten ska stödja och skapa goda förutsättningar
+            för kommunerna att klara stora kriser. Samverkan mellan de olika
+            aktörerna behöver förbättras. Riksrevisionens övergripande slutsats
+            från granskningen är att de stora kommunerna har vissa om än klart
+            begränsade förutsättningar att klara av en allvarlig kris i dricksvattenförsörjningen.
+            Riksrevisionen menar att konsekvenserna av en omfattande kris
+            i dricksvattenförsörjningen kan komma att försvåras och förlängas
+            om inte staten skapar förutsättningar för en bättre kommunal beredskap.
+          </p>
+          <p>
+            Riksrevisionens styrelse anser att iakttagelserna är allvarliga
+            och menar att regeringen snarast bör vidta de åtgärder som behövs
+            för förbättra samhällets beredskap inför en stor kris i dricksvattenförsörjningen.
+          </p>
+          <p xml:id="IDADY00D" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAGY00D" rend="r3">
+            Redogörelsen
+          </p>
+          <p>
+            Riksrevisionen har lämnat följande övergripande slutsats:
+          </p>
+          <p>
+            Riksrevisionen anger i rapporten att det finns positiva inslag
+            i den pågående utvecklingen, exempelvis ökat kommunalt samarbete
+            och ökad lokal medvetenhet om krisberedskapsfrågor inte minst
+            på grund av Livsmedelsverkets systematiska stödarbete och det
+            stöd till reservkraft som givits av Krisberedskapsmyndigheten.
+            Parallellt med detta skärps emellertid vissa hot och risker som
+            blir större med klimatförändringar, en ökad sårbarhet i personalsituationen,
+            förändrade villkor för laboratorie- och analysstödet och en i
+            vissa fall riskabel situation vad gäller reservvatten.
+          </p>
+          <p>
+            Riksrevisionens slutsats är att de stora kommunerna har vissa
+            om än klart begränsade förutsättningar att klara av en allvarlig
+            kris i dricksvattenförsörjningen. Det finns följaktligen enligt
+            Riksrevisionen ett behov av ytterligare statligt stöd för allvarliga
+            kriser i våra storstadsområden. Det stöd som i dag kan erbjudas
+            förmår inte säkerställa en krishantering som kan betraktas som
+            tillräcklig för att skapa de goda förutsättningar som krävs för
+            att de stora kommunerna ska kunna hantera allvarliga kriser inom
+            dricksvattenområdet.
+          </p>
+          <p>
+            Riksrevisionen anser att det finns utrymme för att stärka och
+            förbättra insatserna inom ramarna för de resurser som staten i
+            dag lägger ned på krisberedskap. Följden av att staten inte har
+            skapat tillräckliga förutsättningar är enligt Riksrevisionen att
+            allvarliga och omfattande kriser i dricksvattenförsörjningen kan
+            komma att försvåras och förlängas. Det finns heller inte möjlighet
+            att hantera sådana allvarliga kriser i storstäderna som innefattar
+            nödvattenförsörjning av väsentliga delar av storstadsområden,
+            evakueringar av utsatta grupper eller krav på att snabbt upptäcka
+            okända farliga ämnen och substanser som spritts i råvattentäkter
+            eller i distributionssystemet.
+          </p>
+          <p xml:id="IDAVY00D" rend="r3">
+            Riksrevisionens styrelses överväganden
+          </p>
+          <p rend="grad1">
+            Klargör roller och ansvar
+          </p>
+          <p>
+            Riksrevisionen konstaterar inledningsvis i granskningsrapporten
+            att det finns positiva inslag i den pågående utvecklingen när
+            det gäller beredskapsfrågor inom dricksvattenförsörjningen. Samtidigt
+            framhåller Riksrevisionen behovet av flera olika initiativ från
+            bl.a. regeringen för att skapa tillräckliga förutsättningar för
+            samhället att kunna hantera en allvarlig kris. Regeringen har
+            ett ansvar för helheten i det nationella krishanteringssystemet.
+            I detta ingår enligt Riksrevisionen att klara ut oklara ansvarsförhållanden
+            och att målen för och de krav samt den tillsyn som är riktade
+            mot ansvariga aktörer fungerar effektivt.
+          </p>
+          <p>
+            Granskningen visar att ingen myndighet på central nivå har ett
+            utpekat ansvar för dricksvattenförsörjningen vid en allvarlig
+            kris. En fördel med att ha en myndighet med detta ansvar är enligt
+            Riksrevisionen att den bättre kan samordna, prioritera och planera
+            beredskapsarbetet centralt. Granskningen visar också att det finns
+            oklarheter i ansvarsfördelningen på regional och lokal nivå. Det
+            är kommunerna som har det direkta ansvaret vid en kris i dricksvattenförsörjningen,
+            men staten ska stödja och skapa goda förutsättningar för kommunerna
+            att klara stora kriser. Granskningen visar att storstadskommunerna
+            får svårt att klara en omfattande kris. På regional nivå är det
+            länsstyrelserna som har det statliga ansvaret och ska kunna agera
+            i ett läge när kommunerna själva inte kan klara situationen. Riksrevisionen
+            menar att det finns en risk att länsstyrelserna inte klarar den
+            uppgiften i dag.
+          </p>
+          <p>
+            Granskningen visar vidare att samverkan mellan de olika aktörerna
+            på samtliga nivåer uppvisar svagheter. Riksrevisionen pekar bl.a.
+            på att samverkan i arbetet kring flera myndigheters risk- och
+            sårbarhetsanalyser har väsentliga brister. Krisberedskapsmyndighetens
+            vägledningar för analyserna är i alltför liten utsträckning kända
+            och tillämpade.
+          </p>
+          <p>
+            En grundläggande förutsättning för att samhället ska stå rustat
+            inför en allvarlig dricksvattenkris är enligt styrelsen att myndigheterna
+            och kommunerna är klara över sina roller och uppgifter. Det är
+            därför oroande, enligt styrelsen, att ta del av ytterligare en
+            granskning som uppvisar oklarheter i ansvarsförhållanden och uppgifter.
+            Liknande iakttagelser har gjorts i flera av de tidigare granskningsrapporter
+            som styrelsen behandlat och som rör samhällets beredskap inför
+            en kris.
+          </p>
+          <p>
+            Riksrevisionens styrelse betonar därför ånyo vikten av att regeringen
+            och övriga aktörer tar sitt ansvar inom sina respektive ansvarsområden
+            och att myndigheterna och kommunerna samverkar på ett effektivt
+            sätt. Styrelsen anser att det i första hand ankommer på regeringen
+            att se till att berörda myndigheter och övriga aktörer är klara
+            över sina roller och uppgifter. Riksrevisionens styrelse förutsätter
+            därför att regeringen tar de initiativ som behövs för att klarlägga
+            ansvar men också för att förbättra förutsättningarna för samverkan
+            mellan myndigheterna och övriga aktörer. Regeringen bör därtill
+            enligt styrelsen se över hur tillgängliga resurser vid myndigheterna
+            bör användas och prioriteras inför och i samband med en kris.
+          </p>
+          <p xml:id="IDAMZ00D" rend="r3">
+            En bristande beredskap ger allvarliga konsekvenser
+          </p>
+          <p>
+            Riksrevisionens övergripande slutsatser från granskningen är
+            att de stora kommunerna har vissa om än klart begränsade förutsättningar
+            att klara av en allvarlig kris i dricksvattenförsörjningen. Riksrevisionen
+            konstaterar i rapporten att kommunerna, som har det direkta ansvaret
+            för dricksvattenförsörjningen, har betydande svårigheter att hantera
+            en allvarlig kris samt kritiserar regeringen och några av de statliga
+            myndigheter som ska stödja, backa upp och skapa goda förutsättningar
+            för kommunerna att hantera de situationer som uppstår i samband
+            med en allvarlig kris.
+          </p>
+          <p>
+            Riksrevisionen menar att konsekvenserna av omfattande kriser
+            kan försvåras och förlängas om inte staten skapar förutsättningar
+            för en bättre kommunal beredskap. En allvarlig kris kommer inte
+            bara att beröra dricksvattensförsörjningen utan även leda till
+            andra allvarliga konsekvenser.
+          </p>
+          <p xml:id="IDAVZ00D" rend="r3">
+            Utskottets överväganden
+          </p>
+          <p>
+            Att försörjningen av dricksvatten i hela samhället fungerar är
+            enligt utskottets mening av synnerlig betydelse. Störningar inom
+            drickvattenförsörjningen förorsakar betydande skada.
+          </p>
+          <p>
+            Hoten mot en fungerande dricksvattenförsörjning kan vara av olika
+            art. Klimat- och sårbarhetsutredningen (SOU 2007:60) varnar i
+            sitt betänkande bl.a. för risken att kemiska föroreningar av olika
+            slag kan hamna i vattentäkter. Vid extrem nederbörd, skyfall eller
+            översvämningar finns en stor risk att föroreningar på olika sätt
+            mobiliseras och sprids. Även i samband med ras och skred kan delar
+            av distributionsnätet skadas.
+          </p>
+          <p>
+            Regeringen har i proposition 2008/09:50
+            <seg rend="grad2">
+              Ett lyft för forskning och innovation
+            </seg>
+            påtalat att forskning om klimatförändringarnas påverkan på svensk
+            dricksvattenförsörjning och hur denna kan åtgärdas är angelägen
+            och återfinns som en strategisk satsning inom säkerhets- och krisberedskapsområdet,
+            vilket utskottet välkomnar.
+          </p>
+          <p>
+            Utskottet har erfarit att det inom Jordbruksdepartementet pågår
+            arbete i en projektgrupp benämnd Beredskap inom livsmedel och
+            dricksvatten. Projektgruppen har bl.a. till uppgift att arbeta
+            med frågan om grundläggande säkerhetskrav, utövande av tillsyn
+            och kartläggning av förstärkningsmateriel. Till projektgruppen
+            finns en referensgrupp knuten med företrädare för myndigheter,
+            men också för andra aktörer. Inom projektet kommer en översyn
+            av övergripande mål och prioriteringar för krisberedskapen inom
+            departementets ansvarsområden att göras liksom en översyn av behovet
+            av tydligare mål och funktionalitetskrav inom livsmedelsområdet,
+            specifikt dricksvatten och livsmedelsförsörjning (inklusive kvantitativa
+            mål).
+          </p>
+          <p>
+            Organisation, ansvarsfördelning och samverkansformer mellan berörda
+            sektorsmyndigheter inom samma områden samt formerna för samverkan
+            med Myndigheten för samhällsskydd och beredskap kommer att belysas
+            liksom samordningen mellan central, regional och lokal nivå.
+          </p>
+          <p>
+            Även formerna för samverkan med övriga samhället i syfte att
+            säkra god beredskap ska enligt uppgift ses över liksom övriga
+            frågor med anledning av de förändringar som regeringen initierat
+            i fråga om krisberedskap och säkerhet.
+          </p>
+          <p>
+            Överväganden och förslag inklusive regeländringar ska enligt
+            vad utskottet erfarit presenteras i en samlad rapport under våren
+            2009.
+          </p>
+          <p>
+            Den nya Myndigheten för samhällsskydd och beredskap (MSB) har
+            enligt sin förordning med instruktion (2008:1002) bl.a. till uppgift
+            att utveckla och stödja samhällets beredskap mot olyckor och kriser
+            och vara pådrivande i arbetet med förebyggande och sårbarhetsreducerande
+            åtgärder, arbeta med samordning mellan berörda aktörer i samhället
+            för att förebygga och hantera olyckor och kriser samt bidra till
+            att minska konsekvenserna av olyckor och kriser.
+          </p>
+          <p>
+            Myndigheten ska i samverkan med myndigheter, kommuner, landsting,
+            organisationer och företag identifiera och analysera sådana sårbarheter,
+            hot och risker i samhället som kan anses vara särskilt allvarliga.
+            Myndigheten ska vidare tillsammans med de ansvariga myndigheterna
+            genomföra en övergripande planering av åtgärder som bör vidtas.
+            Myndigheten ska värdera, sammanställa och rapportera resultatet
+            av arbetet till regeringen. Myndigheten ska vidare verka för att
+            förebyggande åtgärder mot naturolyckor vidtas.
+          </p>
+          <p>
+            MSB bildades den 1 januari 2009 och har således enbart varit
+            verksam drygt en månad. Utskottet räknar med att samordning och
+            samverkan mellan berörda aktörer i en kris i och med den nya myndighetens
+            bildande kommer att förbättras. Utskottet anser därför att myndighetens
+            och Jordbruksdepartementets arbete bör avvaktas. Behovet av något
+            initiativ från riksdagens sida synes inte nu vara påkallat.
+          </p>
+          <p>
+            Utskottets föreslår att riksdagen lägger Riksrevisionens styrelses
+            redogörelse 2008/09:RRS4 till handlingarna.
+          </p>
+          <p xml:id="IDA3000D" rend="Bilaga">
+            Bilaga
+          </p>
+          <p xml:id="IDAA100D" rend="BilageRubrik">
+            Förteckning över behandlade förslag
+          </p>
+          <p xml:id="IDAD100D" rend="rubrik2">
+            Redogörelsen
+          </p>
+          <p>
+            Redogörelse 2008/09:RRS4 Riksrevisionens styrelses redogörelse
+            angående Dricksvattenförsörjning beredskap för stora kriser.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_FöU_0011">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen har beslutat att tidpunkten för FRA:s signalspaning i kabeltrafik ska skjutas upp två månader. Beslutet innebär att FRA ska få tillgång till trafiken från teleoperatörerna från den 1 december 2009 i stället för den 1 oktober 2009. Anledningen till senareläggningen är regeringens omfattande och noggranna beredning av det förslag till kompletteringar av signalspaningslagen som riksdagen har begärt.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Starten för FRA:s signalspaning i kabeltrafik senareläggs (FöU11)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till utskottets initiativ.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW09117</idno>
+              <title>2009-05-13</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">117</biblScope>
+              <note type="display-reference">2009-05-13</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW09113</idno>
+              <title>2009-05-07</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">113</biblScope>
+              <note type="display-reference">2009-05-07</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GW0K245</idno>
+              <title>2008/09:245</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">245</biblScope>
+              <note type="display-reference">2008/09:245</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2003:389</idno>
+              <note type="display-reference">2009:578</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2009-05-04">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2009-05-04">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-04-17">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-04-17">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-04-16">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-04-16">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-04-16">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-04-02">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-04-02">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2009-05-13">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-05-13">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-05-13">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-05-13">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-05-07">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-05-07">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-05-06">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-05-06">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-05-05">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-05-05">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Försvarsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:FöU11
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Ändrad tidpunkt för signalspaning i kablar
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACJQTC" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            Utskottet konstaterar att den omfattande och noggranna beredning
+            av ett förslag till en komplettering av signalspaningslagen som
+            riksdagen begärt kommer att göra att tidpunkten för när signalspaning
+            i kablar ska starta behöver senareläggas.
+          </p>
+          <p>
+            Med stöd av riksdagsordningen (RO 3:7) föreslår utskottet att
+            bestämmelsen i lagen om elektronisk kommunikation om skyldighet
+            för operatörer som äger tråd att överföra signaler till samverkanspunkter
+            föreslås gälla fr.o.m. den 1 december 2009.
+          </p>
+          <p>
+            Det finns 1 särskilt yttrande (s, v, mp) i betänkandet.
+          </p>
+          <p xml:id="IDAPJQTC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Lagen om elektronisk kommunikation
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar utskottets förslag i bilagan till lag om ändring
+                  i lagen (2003:389) om elektronisk kommunikation.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 16 april 2009
+          </p>
+          <p>
+            På försvarsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Anders Karlsson
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Anders Karlsson (s)
+            <hi rend="superscript">
+              1
+            </hi>
+            , Rolf Gunnarsson (m), Karin Enström (m), Peter Jonsson (s)
+            <hi rend="superscript">
+              2
+            </hi>
+            , Nils Oskar Nilsson (m), Staffan Danielsson (c), Michael Hagberg
+            (s)
+            <hi rend="superscript">
+              3
+            </hi>
+            , Allan Widman (fp), Mats Berglind (s)
+            <hi rend="superscript">
+              4
+            </hi>
+            , Isabella Jernbeck (m), Else-Marie Lindgren (kd), Rolf K Nilsson
+            (m), Gunilla Wahlén (v)
+            <hi rend="superscript">
+              5
+            </hi>
+            , Inger Jarl Beck (s)
+            <hi rend="superscript">
+              6
+            </hi>
+            , Kjell Eldensjö (kd), Peter Rådberg (mp)
+            <hi rend="superscript">
+              7
+            </hi>
+            och Peter Jeppsson (s)
+            <hi rend="superscript">
+              8
+            </hi>
+            .
+          </p>
+          <div type="html-noter">
+            <table>
+              <row>
+                <cell>
+                  <p rend="not_">
+                    <hi rend="superscript">
+                      1
+                    </hi>
+                  </p>
+                </cell>
+                <cell>
+                  <p type="html-hanvisning" rend="not_">
+                    Avstår från ställningstagande under punkt 1.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <table>
+              <row>
+                <cell>
+                  <p rend="not_">
+                    <hi rend="superscript">
+                      2
+                    </hi>
+                  </p>
+                </cell>
+                <cell>
+                  <p type="html-hanvisning" rend="not_">
+                    Avstår från ställningstagande under punkt 1.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <table>
+              <row>
+                <cell>
+                  <p rend="not_">
+                    <hi rend="superscript">
+                      3
+                    </hi>
+                  </p>
+                </cell>
+                <cell>
+                  <p type="html-hanvisning" rend="not_">
+                    Avstår från ställningstagande under punkt 1.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <table>
+              <row>
+                <cell>
+                  <p rend="not_">
+                    <hi rend="superscript">
+                      4
+                    </hi>
+                  </p>
+                </cell>
+                <cell>
+                  <p type="html-hanvisning" rend="not_">
+                    Avstår från ställningstagande under punkt 1.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <table>
+              <row>
+                <cell>
+                  <p rend="not_">
+                    <hi rend="superscript">
+                      5
+                    </hi>
+                  </p>
+                </cell>
+                <cell>
+                  <p type="html-hanvisning" rend="not_">
+                    Avstår från ställningstagande under punkt 1.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <table>
+              <row>
+                <cell>
+                  <p rend="not_">
+                    <hi rend="superscript">
+                      6
+                    </hi>
+                  </p>
+                </cell>
+                <cell>
+                  <p type="html-hanvisning" rend="not_">
+                    Avstår från ställningstagande under punkt 1.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <table>
+              <row>
+                <cell>
+                  <p rend="not_">
+                    <hi rend="superscript">
+                      7
+                    </hi>
+                  </p>
+                </cell>
+                <cell>
+                  <p type="html-hanvisning" rend="not_">
+                    Avstår från ställningstagande under punkt 1.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <table>
+              <row>
+                <cell>
+                  <p rend="not_">
+                    <hi rend="superscript">
+                      8
+                    </hi>
+                  </p>
+                </cell>
+                <cell>
+                  <p type="html-hanvisning" rend="not_">
+                    Avstår från ställningstagande under punkt 1.
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDALNQTC" rend="AvsnittsRubrik">
+              Redogörelse för ärendet
+            </p>
+            <p>
+              Utskottet behandlade våren 2007 i betänkande 2006/07:FöU10 En
+              anpassad försvarsunderrättelseverksamhet proposition 2006/07:63
+              med samma namn.
+            </p>
+            <p>
+              Riksdagen beslutade i juni 2007 (rskr. 2006/07:208 och 226) att
+              regeringens lagförslag om signalspaning skulle hänvisas till försvarsutskottet
+              för att där vila i minst ett år från den 11 juni 2007.
+            </p>
+            <p>
+              Utskottet behandlade under våren 2008 i betänkande 2007/08:FöU14
+              Lag om signalspaning m.m. de förslag som riksdagen beslutat skulle
+              vila i minst ett år.
+            </p>
+            <p>
+              Riksdagen beslutade den 18 juni 2008 att återförvisa ärendet
+              till utskottet för ytterligare beredning.
+            </p>
+            <p>
+              Utskottet tog samma dag upp det ärende som kammaren återförvisat
+              till förnyad beredning i ett nytt betänkande (2007/08:FöU15 Lag
+              om signalspaning m.m. (förnyad behandling)). Riksdagen beslutade
+              därefter den 18 juni 2008 (rskr. 2007/08:266) att bifalla utskottets
+              förslag till riksdagsbeslut om signalspaning. Riksdagen tillkännagav
+              samtidigt för regeringen som sin mening vad utskottet anfört om
+              ytterligare rättssäkerhets- och kontrollmekanismer.
+            </p>
+            <p xml:id="IDA4NQTC" rend="AvsnittsRubrik">
+              Utskottets överväganden
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDACOQTC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Utskottet konstaterar att den omfattande och noggranna beredning
+                av ett förslag till en komplettering av signalspaningslagen som
+                riksdagen begärt kommer att göra att tidpunkten för när signalspaning
+                i kablar ska starta behöver senareläggas.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Med stöd av riksdagsordningen (RO 3:7) föreslår utskottet att
+                bestämmelsen i lagen om elektronisk kommunikation om skyldighet
+                för operatörer som äger tråd att överföra signaler till samverkanspunkter
+                föreslås gälla fr.o.m. den 1 december 2009.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför särskilt yttrande (s, v, mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Riksdagen beslutade den 18 juni 2008 (rskr. 2007/08:266) att
+              bifalla utskottets förslag till riksdagsbeslut. Detta innebar
+              bl.a. att riksdagen antog regeringens förslag till lag om signalspaning
+              i försvarsunderrättelseverksamhet. Utskottet begärde också att
+              regeringen skulle återkomma till riksdagen med förslag till kompletteringar
+              av lagen.
+            </p>
+            <p>
+              Utskottet framhöll i betänkande 2007/08:FöU15 Lag om signalspaning
+              m.m. (förnyad behandling) följande.
+            </p>
+            <p rend="citat">
+              Utskottet anser att regeringen ska meddela närmare föreskrifter
+              i förordningsform om ytterligare rättssäkerhets- och kontrollmekanismer
+              när det gäller
+            </p>
+            <p rend="citat">
+              en precisering av för vilka ändamål signalspaning ska få bedrivas
+              inom ramen för den föreslagna lagstiftningen,
+            </p>
+            <p rend="citat">
+              hur tillämpningen av tillståndsgivningen (inriktning, behov,
+              proportionalitetsbedömning, uppdragsgivare och sökord) ska ske,
+            </p>
+            <p rend="citat">
+              hur förstöring av uppgifter ska genomföras.
+            </p>
+            <p rend="citat">
+              Utskottet anser att lagen om signalspaning ska kompletteras på
+              följande sätt:
+            </p>
+            <p rend="citat">
+              att tillstånden enligt signalspaningslagen beslutas av en ny
+              domstolsliknande nämnd,
+            </p>
+            <p rend="citat">
+              att den domstolsliknande nämnden ska fatta beslut om tillstånd
+              för användande av sökbegrepp hänförliga till fysiska personer,
+            </p>
+            <p rend="citat">
+              att regeringen och Regeringskansliet ska ta integritetshänsyn
+              vid sina beslut om inriktningen.
+            </p>
+            <p rend="citat">
+              Utskottet anser att regeringen senast under hösten 2008 ska återkomma
+              med förslag till ändringar i signalspaningslagen i dessa delar.
+            </p>
+            <p rend="citat">
+              Därutöver ska regeringen
+            </p>
+            <p rend="citat">
+              lämna årliga rapporter till riksdagen,
+            </p>
+            <p rend="citat">
+              redovisa en kontrollstation 2011.
+            </p>
+            <p rend="citat">
+              Enligt utskottet ska vidare ett särskilt uppdrag lämnas till
+              Datainspektionen om att fram till kontrollstationen 2011 följa
+              FRA:s verksamhet ur ett integritetsskyddsperspektiv. Till Datainspektionen
+              ska en särskild referensgrupp knytas, med personer som nomineras
+              av riksdagspartierna. Regeringen ska också tillsätta en kommitté
+              som utifrån ska följa FRA:s verksamhet generellt från ett integritetsperspektiv
+              fram till kontrollstationen. Kommittén ska bestå av parlamentariker.
+              Kommittén ska tillsätta ett integritetsombud, som har till uppgift
+              att vid tillståndsprövningen bevaka integriteten för personer
+              bosatta i Sverige.
+            </p>
+            <p rend="citat">
+              Vad utskottet anför om ytterligare rättssäkerhets- och kontrollmekanismer
+              bör riksdagen tillkännage för regeringen som sin mening.
+            </p>
+            <p rend="citat">
+              Därmed förstärks enligt utskottet skyddet för enskilda personer
+              ytterligare utöver regeringens förslag.
+            </p>
+            <p rend="citat">
+              Utskottet tillstyrker vidare regeringens lagförslag om nya regler
+              i lagen om elektronisk kommunikation och de delar i lagen om försvarsunderrättelseverksamhet
+              som hänger ihop med signalspaningslagen.
+            </p>
+            <p rend="citat">
+              Utskottet föreslår att lagarna träder i kraft den 1 januari 2009.
+              Bestämmelsen om skyldighet för operatörer som äger tråd att överföra
+              signaler till samverkanspunkter föreslås dock gälla fr.o.m. den
+              1 oktober 2009.
+            </p>
+            <p>
+              Riksdagen har således begärt att regeringen skulle återkomma
+              med kompletterande förslag till ändringar av signalspaningslagen
+              under hösten 2008. Utskottet noterar att regeringen har aviserat
+              att den ska lämna ett förslag till revidering av lagen i maj 2009.
+              Det är angeläget att förslaget får en noggrann beredning av riksdagens
+              utskott samt att det ges tillfälle att inhämta synpunkter. Utskottet
+              bedömer därför att tidpunkten för när signalspaning i kablar ska
+              starta behöver senareläggas till en senare tidpunkt än den 1 oktober
+              2009.
+            </p>
+            <p>
+              Ett utskott får enligt riksdagsordningen (RO 3:7) väcka förslag
+              hos riksdagen i ett ämne som hör till dess beredningsområde (utskottsinitiativ).
+              Ett utskottsinitiativ tas genom utskottsbetänkande.
+            </p>
+            <p>
+              Med stöd av den ovan angivna bestämmelsen i riksdagsordningen
+              föreslår utskottet att bestämmelsen i lagen om elektronisk kommunikation
+              om skyldighet för operatörer som äger tråd att överföra signaler
+              till samverkanspunkter föreslås gälla fr.o.m. den 1 december 2009.
+            </p>
+            <p xml:id="IDAXQQTC" rend="AvsnittsRubrik">
+              Särskilt yttrande
+            </p>
+          </div>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDA1QQTC">
+                  <p rend="ettsarskiltyttrande">
+                    Lagen om elektronisk kommunikation (s, v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    Anders Karlsson (s), Peter Jonsson (s), Michael Hagberg (s),
+                    Mats Berglind (s), Gunilla Wahlén (v), Inger Jarl Beck (s), Peter
+                    Rådberg (mp) och Peter Jeppsson (s) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Vi har tidigare framfört att signalspaningslagen, som kommer
+              att tillåta FRA att spana i kablar, bör rivas upp. Lagen har som
+              bekant mött en omfattande kritik för väldiga brister när det gäller
+              den personliga integriteten och rättssäkerheten.
+            </p>
+            <p>
+              Vi avstår från att delta i beslutet till det förslag som utskottet
+              lämnar i detta betänkande. Vi gör det eftersom vi anser att allianspartiernas
+              initiativ att skjuta på tidpunkten när kabelspaningen enligt deras
+              mening ska starta bara är ytterligare ett led i det plotter med
+              denna fråga som nu pågått i flera år.
+            </p>
+            <p>
+              Som vi framhållit tidigare bör i stället lagen upphävas och en
+              parlamentariskt sammansatt utredning tillsättas som börjar om
+              från grunden.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAFSQTC" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAISQTC" rend="BilageRubrik">
+              Utskottets lagförslag
+            </p>
+          </div>
+          <div type="html-lagforslagrubrik">
+            <p xml:id="IDAMSQTC" rend="Lagrubrik">
+              Förslag till lag om ändring i lagen (2003:389) om elektronisk
+              kommunikation
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Härigenom föreskrivs i fråga om lagen (2003:389) om elektronisk
+              kommunikation att punkt 2 i ikraftträdande- och övergångsbestämmelserna
+              till lagen (2008:719) om ändring i nämnda lag ska ha följande
+              lydelse.
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p rend="lagtextnuvarande grad2">
+                    Nuvarande lydelse
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextforslag grad2">
+                    Föreslagen lydelse
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2. Skyldigheten för operatörer som äger tråd att överföra signaler
+                    till samverkanspunkter enligt 6 kap. 19 a § ska tillämpas första
+                    gången den 1
+                    <seg rend="grad2">
+                      oktober
+                    </seg>
+                    2009.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    2. Skyldigheten för operatörer som äger tråd att överföra signaler
+                    till samverkanspunkter enligt 6 kap. 19 a § ska tillämpas första
+                    gången den 1
+                    <seg rend="grad2">
+                      december
+                    </seg>
+                    2009.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              _____________________
+            </p>
+            <p>
+              Denna lag träder i kraft den 1 september 2009.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

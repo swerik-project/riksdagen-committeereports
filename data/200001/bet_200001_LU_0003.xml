@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200001_LU_0003">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Utländska godkända organ i en annan EES-stat får fr.o.m. den 1 januari 2001 behörighet att företräda sitt lands konsumentintressen i svensk domstol, i första hand Marknadsdomstolen, gentemot en näringsidkare i Sverige.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Talerätt för utländska konsumentorgan (LU3)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen med lagteknisk justering. Avslag på motionerna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Bifall till utskottets hemställan</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GO090</idno>
+              <title>2000-12-07</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">0</biblScope>
+              <note type="display-reference">2000-12-07</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GO090</idno>
+              <title>2000-12-06</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">0</biblScope>
+              <note type="display-reference">2000-12-06</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GO0334</idno>
+              <title>Talerätt för vissa utländska konsumentmyndigheter och konsumentorganisationer</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">34</biblScope>
+              <note type="display-reference">proposition 2000/01:34 Talerätt för vissa utländska konsumentmyndigheter och konsumentorganisationer</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02L1</idno>
+              <title>med anledning av prop. 2000/01:34 Talerätt för vissa utländska konsumentmyndigheter och konsumentorganisationer</title>
+              <title type="sub">av Stig Rindborg m.fl. (m)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">L1</biblScope>
+              <note type="display-reference">motion 2000/01:L1 med anledning av prop. 2000/01:34 Talerätt för vissa utländska konsumentmyndigheter och konsumentorganisationer</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02L2</idno>
+              <title>med anledning av prop. 2000/01:34 Talerätt för vissa utländska konsumentmyndigheter och konsumentorganisationer</title>
+              <title type="sub">av Ana Maria Narti och Ulf Nilsson (fp)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">L2</biblScope>
+              <note type="display-reference">motion 2000/01:L2 med anledning av prop. 2000/01:34 Talerätt för vissa utländska konsumentmyndigheter och konsumentorganisationer</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2000-11-28">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2000-11-28">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2000-11-23">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2000-11-21">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2000-11-14">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2000-11-14">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="LAG" subtype="avgorande" n="12" when="2001-01-01">
+            <label>Planerat ikraftträdande</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2000-12-07">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2000-12-06">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2000-12-06">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2000-12-04">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2000-12-04">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Lagutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2000/01:LU03
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Talerätt för vissa utländska konsumentorgan
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <div type="section" subtype="h2">
+            <head>
+              Innehåll
+            </head>
+            <list type="unordered">
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bsam">
+                    Sammanfattning
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bprop">
+                    Propositionen
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bmot">
+                    Motionerna
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#btext">
+                    Utskottet
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bhemst">
+                    Hemställan
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bres">
+                    Reservationer
+                  </ref>
+                </p>
+              </item>
+            </list>
+            <p>
+              2000/01
+            </p>
+            <p>
+              LU3
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bsam">
+              Sammanfattning
+            </head>
+            <p>
+              I betänkandet behandlar utskottet regeringens proposition 2000/2001:34
+              om talerätt för vissa utländska konsumentmyndigheter och konsumentorganisationer
+              jämte två med anledning av propositionen väckta motioner.
+            </p>
+            <p>
+              I syfte att genomföra ett EG-direktiv (98/27/EG) om förbudsföreläggande
+              för att skydda konsumenternas intressen föreslås i propositionen
+              en lag som säkerställer att utländska godkända organ i en annan
+              EES-stat ges behörighet att företräda sitt lands konsumentintressen
+              i svensk domstol, i första hand Marknadsdomstolen, gentemot en
+              näringsidkare i Sverige. Den nya lagstiftningen föreslås träda
+              i kraft den 1 januari 2001.
+            </p>
+            <p>
+              I motionerna tas upp frågor om dels vilket lands lag som skall
+              tillämpas, dels vilka svenska organ som skall anmälas till kommissionen
+              som godkända organ.
+            </p>
+            <p>
+              Utskottet tillstyrker regeringens lagförslag med en lagteknisk
+              justering och avstyrker bifall till motionerna.
+            </p>
+            <p>
+              Till betänkandet har fogats två reservationer och ett särskilt
+              yttrande.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bprop">
+              Propositionen
+            </head>
+            <p>
+              I proposition 2000/01:34 föreslår regeringen (Finansdepartementet)
+              - efter hörande av Lagrådet - att riksdagen antar de i propositionen
+              framlagda förslagen till
+            </p>
+            <p>
+              1. lag om talerätt för vissa utländska konsumentmyndigheter och
+              konsumentorganisationer,
+            </p>
+            <p>
+              2. lag om ändring i lagen (1970:417) om marknadsdomstol m.m.
+              Lagförslagen har intagits som bilaga 1 till betänkandet.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bmot">
+              Motionerna
+            </head>
+            <p>
+              2000/01:L1 av Stig Rindborg m.fl. (m) vari föreslås att riksdagen
+              fattar följande beslut:
+            </p>
+            <p>
+              1. Riksdagen tillkännager för regeringen som sin mening vad i
+              motionen anförs om godkännande av organ.
+            </p>
+            <p>
+              2. Riksdagen tillkännager för regeringen som sin mening vad i
+              motionen anförs om att inte utesluta företag eller företagsorganisationer
+              som möjliga godkända organ.
+            </p>
+            <p>
+              3. Riksdagen tillkännager för regeringen som sin mening vad i
+              motionen anförs om sändarlandsprincipen.
+            </p>
+            <p>
+              2000/01:L2 av Ana Maria Narti m.fl. (fp) vari föreslås att riksdagen
+              fattar följande beslut:
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              i motionen anförs om kriterier för vilka myndigheter och organisationer
+              som kan anmälas som godkända organ.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="btext">
+              Utskottet
+            </head>
+            <p>
+              Inledning - direktivet
+            </p>
+            <p>
+              Inom EU har ett flertal direktiv tagits fram i syfte att skydda
+              konsumenter - både som enskilda och som kollektiv. Det har emellertid
+              visat sig att det inte alltid varit möjligt att få överträdelser
+              till skada för konsumenternas kollektiva intressen att upphöra
+              i tid. Anledningen härtill är bl.a. att ett rättsligt avgörande
+              på den kollektiva konsumenträttens område inte kan påräkna erkännande
+              och verkställighet i andra länder på samma sätt som domar på privaträttens
+              område (se Michael Bogdan, EU-direktivet om förbudsföreläggande
+              för att skydda konsumenternas intressen, Svensk Juristtidning,
+              1998, s. 532).
+            </p>
+            <p>
+              I maj 1998 antog Europaparlamentet och Europeiska unionens råd
+              direktiv (98/27/EG) om förbudsföreläggande för att skydda konsumenternas
+              intressen. Medlemsstaterna skall ha genomfört direktivet senast
+              den 1 januari 2001.
+            </p>
+            <p>
+              Direktivets syfte är att stärka konsumentskyddet vid sådana överträdelser
+              av bestämmelser som genomför vissa konsumentskyddsdirektiv när
+              överträdelserna har sitt ursprung i en medlemsstat men sina skadeverkningar
+              i en annan medlemsstat. Detta konsumentskydd kan enligt direktivet
+              åstadkommas genom ömsesidigt erkännande av s.k. godkända organ,
+              vilka ges rätt att vända sig till tillsynsorgan och domstol i
+              det land varifrån överträdelsen har sitt ursprung med yrkande
+              om att den fortsatta överträdelsen omedelbart skall stoppas. Härigenom
+              finns, enligt direktivet, goda utsikter för att tillsynsorganen
+              effektivt kan ingripa mot överträdelser inte bara i det egna landet
+              utan även i ett annat land inom EU. Direktivet syftar till att
+              stärka både konsumentskyddet vid gränsöverskridande överträdelser
+              och den inre marknadens funktion. I artikel 1 anges direktivets
+              tillämpningsområde. Syftet är att tillnärma medlemsstaternas lagar
+              och andra författningar till varandra när det gäller åtgärder
+              för förbudsföreläggande till skydd för de kollektiva konsumentintressen
+              som omfattas av de direktiv som anges i en förteckning som finns
+              i en bilaga till direktivet. Med överträdelse avses i direktivet
+              varje handling som strider mot de direktiv som anges i förteckningen,
+              så som de har införlivats i medlemsstaternas rättsordningar, och
+              som skadar de kollektiva konsumentintressena.
+            </p>
+            <p>
+              Direktivets genomförande - lagförslagen
+            </p>
+            <p>
+              I propositionen föreslås en ny lag, en allmän processuell speciallag,
+              som syftar till att genomföra direktivet. Alternativet - att genomföra
+              direktivet genom att komplettera de enskilda lagarna som i svensk
+              rätt genomfört de direktiv som anges i förbudsföreläggandedirektivets
+              bilaga - avvisas av lagtekniska skäl.
+            </p>
+            <p>
+              Flera av de lagar som genomför direktiven i bilagan till förbudsföreläggandedirektivet
+              omfattar även stater som är anslutna till Europeiska ekonomiska
+              samarbetsområdet (EES). Den nya lagen föreslås därför omfatta
+              även sådana stater. Genom den nya lagen säkerställs att utländska
+              godkända organ i en EES-stat ges behörighet att företräda sitt
+              lands konsumentintressen i svensk domstol, i första hand Marknadsdomstolen.
+              Talan får riktas mot en näringsidkare i Sverige och får avse föreläggande
+              om förbud eller åläggande att betala särskild avgift. Innan talan
+              väcks skall det godkända organet först genom samråd med motparten
+              ha gett denne möjlighet att frivilligt upphöra med överträdelsen.
+            </p>
+            <p>
+              Förutom den nya lagen föreslår regeringen en ändring i lagen
+              (1970:417) om marknadsdomstol m.m. Förslaget innebär att Marknadsdomstolen
+              ges behörighet att tillämpa den nya lagen om talerätt.
+            </p>
+            <p>
+              Den nya lagstiftningen föreslås träda i kraft den 1 januari 2001.
+            </p>
+            <p>
+              Till grund för förslagen ligger en inom Finansdepartementet utarbetad
+              promemoria (Ds 2000:32) Talerätt vid gränsöverskridande överträdelser
+              inom konsumenträtten - genomförande av förbudsföreläggandedirektivet.
+              Promemorian har remissbehandlats.
+            </p>
+            <p>
+              Några invändningar mot de i propositionen framlagda lagförslagen
+              har inte framställts motionsledes. Utskottet kan inte finna annat
+              än att vad som föreslås innebär att Sverige uppfyller vad som
+              åläggs medlemsstaterna genom förbudsföreläggandedirektivet, och
+              utskottet tillstyrker att lagförslagen genomförs.
+            </p>
+            <p>
+              När det gäller förslaget till lag om ändring i lagen om marknadsdomstol
+              m.m. (lagförslag 2) framlägger utskottet ett eget förslag till
+              ny lydelse av 1 § nämnda lag enligt vad som framgår av bilaga
+              2. Skälet härtill är att riksdagen nyligen har beslutat om en
+              viss annan ändring av paragrafen i fråga, vilken skall träda i
+              kraft den 1 januari 2001 (prop. 1999/2000:140, bet. NU4, rskr.
+              16, SFS 2000:1024).
+            </p>
+            <p>
+              Tillämplig lag - lagvalsfrågan
+            </p>
+            <p>
+              Enligt artikel 2.2 i förbudsföreläggandedirektivet skall direktivet
+              inte påverka internationellt privaträttsliga regler med avseende
+              på tillämplig lag. Detta leder således, enligt vad som anges i
+              artikeln, normalt till tillämpning av antingen lagen i den medlemsstat
+              där överträdelsen har sitt ursprung (ursprunglandsprincipen) eller
+              lagen i den medlemsstat där överträdelsen får effekt (effektlandsprincipen).
+            </p>
+            <p>
+              Europaparlamentet och rådets direktiv 2000/31/EG om vissa rättsliga
+              aspekter på informationssamhällets tjänster, särskilt elekronisk
+              handel, på den inre marknaden (direktivet om elektronisk handel)
+              har nyligen antagits och skall genomföras i svensk rätt. Direktivet
+              föreskriver som huvudregel en tillämpning av ursprungslandets
+              (sändarlandets lag) för informationssamhällets tjänster. I Regeringskansliet
+              bereds ett förslag till den reglering som behövs för genomförandet.
+            </p>
+            <p>
+              I propositionen gör regeringen bedömningen att någon bestämmelse
+              om vilket lands materiella regler om konsumentskyddet som skall
+              tillämpas inte bör införas. Formuleringen av artikel 2.2 i förbudsföreläggandedirektivet
+              är, enligt regeringens mening, så allmän och utan styrande effekt
+              att den knappast medför några förpliktelser för medlemsstaterna.
+              Det är uppenbart att man med enbart bestämmelsen som grund inte
+              kan träffa något bestämt val mellan ursprungslandets lag - som
+              också är domstolslandets lag - och effektlandets lag när det gäller
+              tillämplig kollektiv konsumenträtt.
+            </p>
+            <p>
+              När det gäller bestämmelser som har övervägande processrättslig
+              karaktär, exempelvis möjligheterna att förelägga och utdöma viten,
+              gör regeringen bedömningen, att det inte bör råda någon tvekan
+              om att svensk domstol har att tillämpa endast svenska bestämmelser.
+            </p>
+            <p>
+              Med anledning av att vissa remissinstanser påpekat att avsaknaden
+              av materiella lagvalsregler kan leda till rättsosäkerhet anför
+              regeringen att det naturligtvis vore tillfredsställande för den
+              svenske näringsidkaren att kunna förlita sig på att svensk rätt,
+              som får antas vara mer bekant än främmande rätt, kommer att tillämpas
+              på marknadsföringen. Häremot kan, enligt regeringens mening, ställas
+              konsumenternas intresse av att kunna förlita sig på att samma
+              regler gäller inom samma marknad oavsett var aktiviteten har sitt
+              ursprung. Från konkurrenssynpunkt kan det också ligga i näringsidkarens
+              intresse att marknadsföringsåtgärder som riktar sig till en viss
+              marknad behandlas på samma sätt och inte enligt olika rättsordningar.
+            </p>
+            <p>
+              I motion L1 av Stig Rindborg m.fl. (m) kritiseras att det framlagda
+              lagförslaget inte innefattar någon lagvalsregel. Enligt motionärernas
+              mening blir därför förutsebarheten i fråga om vilket lands lag
+              som kommer att tillämpas låg. På en alltmer internationaliserad
+              marknad är det, anför motionärerna, rimligt att företag kan förutse
+              vilka regler som kommer att tillämpas på deras marknadsföring.
+              I en tillvaro där marknadsföring och handel alltmer sker via Internet
+              blir, enligt motionärernas mening, situationen orimlig om effektlandsprincipen
+              tillämpas. I motionen pekas på att sändarlandsprincipen nu slagits
+              fast i det s.k. e-handelsdirektivet. För att uppnå klarhet och
+              förutsebarhet bör sändarlandsprincipen tillämpas även när det
+              gäller andra internationella handelsrättsliga företeelser. Mot
+              denna bakgrund föreslås i motionen att riksdagen tillkännager
+              för regeringen som sin mening vad i motionen anförs om sändarlandsprincipen
+              (yrkande 3).
+            </p>
+            <p>
+              I likhet med regeringen anser utskottet att det är svårt att
+              ge generella riktlinjer för i vilka situationer ursprungslandsprincipen
+              respektive effektlandsprincipen bör tillämpas på lagvalet. Den
+              omständigheten att direktivet om elektronisk handel som huvudregel
+              föreskriver tillämpning av ursprungslandets (sändarlandets) lag
+              kan inte läggas till grund för att generellt förorda ursprungslandsprincipen
+              i fråga om förbudsföreläggandedirektivet - i vart fall inte i
+              nuvarande beredningsläge. Som regeringen anfört kan det inte heller
+              ligga i svenska företags intressen att den svenska jämförelsevis
+              långtgående kollektiva konsumenträtten skall hindra dem från att
+              i ett annat EES-land vidta marknadsföringsåtgärder som är tillåtna
+              för inhemska företag. Till saken hör också att EG-domstolen kan
+              förväntas komma att ge vägledning till de inhemska domstolarna
+              i fråga om vilken lagvalsprincip som skall tillämpas. I enlighet
+              med vad bl.a. Juridiska fakultetsnämnden vid Stockholms universitet
+              påpekat i sitt remissvar över den promemoria som ligger till grund
+              för propositionen, torde det sålunda vara lämpligast att lämna
+              dessa frågor till rättstillämpningen. Enligt Juridiska fakultetsnämnden
+              är det emellertid en svaghet att direktivet inte innehåller någon
+              lagvalsregel. Om det skulle visa sig att avsaknaden av en lagvalsregel
+              medför olägenheter utgår utskottet från att regeringen i lämpligt
+              sammanhang agerar för att få till stånd en ändring eller tillägg
+              i direktivet.
+            </p>
+            <p>
+              Med det anförda avstyrker utskottet bifall till motion L1 yrkande
+              3.
+            </p>
+            <p>
+              Svenska behöriga organ - vem eller vilka skall anmälas?
+            </p>
+            <p>
+              I artikel 3 i förbudsföreläggandedirektivet definieras de i effektlandet
+              godkända organ som kan väcka talan mot ett företag i domstolslandet.
+              Det rör sig om varje organ eller organisation som verderbörligen
+              inrättas i enlighet med lagen i en medlemsstat och som har ett
+              berättigat intresse av att säkerställa att man följer de bestämmelser
+              som nationellt genomförts på grundval av de direktiv som finns
+              i en bilaga till förbudsföreläggandedirektivet. Som sådana organ
+              anges särskilt ett eller flera oberoende offentliga organ, med
+              särskilt ansvar för att skydda kollektiva konsumentintressen eller
+              organisationer vilkas syfte är att skydda sådana intressen. Respektive
+              medlemsstat skall anmäla godkända organ till kommissionen för
+              publicering i Europeiska gemenskapernas officiella tidning. Ett
+              publicerat organ har rättskapacitet till dess motsatsen publicerats.
+            </p>
+            <p>
+              Av propositionen (avsnitt 6) framgår att de svenska organen skall
+              anmälas till kommissionen efter beslut av regeringen. Enligt vad
+              regeringen uttalar bör endast sådana organ som har ekonomiska
+              förutsättningar och realistiska möjligheter att både initiera
+              och föra en process utomlands anmälas. I det avsnitt av propositionen
+              som behandlar frågan om vem som skall vara dömande instans (avsnitt
+              5.1) säger regeringen dock att det ligger nära till hands att
+              Konsumentombudsmannen kan ses som ett sådant godkänt organ som
+              för Sveriges del skall få föra talan i ett annat land.
+            </p>
+            <p>
+              Vad som anges i artikel 3 torde, enligt regeringens mening, utesluta
+              att exempelvis företag eller företagsorganisationer kan tillerkännas
+              status som godkänt organ. En annan begränsning är att det endast
+              kan komma i fråga att godkänna organ som har inrättats i enlighet
+              med lagen i en medlemsstat. Det betyder att världsomfattande organisationer
+              med säte utanför EU inte kan bli godkända organ. En annan fråga
+              beträffande företagsorganisationer och sist- nämnda slag av organisationer
+              är om domstolen ändå vill ge organisationen talerätt i ett enskilt
+              fall. Detta torde, enligt regeringens bedömning, knappast direktivet
+              eller den föreslagna lagen hindra.
+            </p>
+            <p>
+              Frågor som gäller vilka organ som lämpligen för svenskt vidkommande
+              bör anmälas till kommissionen som godkända organ tas upp i båda
+              de i ärendet aktuella motionerna.
+            </p>
+            <p>
+              Stig Rindborg m.fl. (m) anför i motion L1 att det är oklart vilka
+              kriterier som kommer att gälla för att ett svenskt organ skall
+              anmälas. Det enda klargörande som står att finna i propositionen
+              är, enligt motionärernas mening, att regeringen inte kommer att
+              acceptera vare sig företag eller företagsorganisationer. Motionärerna
+              anser att den knapphändiga information som regeringen gett i detta
+              avseende inte är tillfyllest när det gäller att avgöra vilka organ
+              som kan komma i fråga. Enligt motionärernas mening finns inte
+              någon anledning till att kategoriskt utestänga företag och företagsorganisationer
+              från möjligheten att föra talan för ett allmänt konsumentintresse.
+              Företag och branschorganisationer som arbetar för fri konkurrens
+              är, anser motionärerna, ofta de första som reagerar mot konkurrenternas
+              överträdelser. Motionärerna menar att självsanering är en metod
+              som skall uppmuntras också i förevarande sammanhang. Med hänsyn
+              till de svårigheter som föreligger i fråga om valet av godkända
+              organ bör lagen, enligt motionärernas mening, bli föremål för
+              bevakning och uppföljning. Därutöver bör riksdagen ge regeringen
+              i uppdrag att lägga fram förslag till riksdagen för beslut av
+              vilka organ som skall godkännas. I motionen föreslås att riksdagen
+              tillkännager för regeringen som sin mening vad i motionen anförts
+              dels om godkännande av organ (yrkande 1), dels om att inte utesluta
+              företag eller företagsorganisationer som möjliga godkända organ
+              (yrkande 2).
+            </p>
+            <p>
+              I motion L2 är också Ana Maria Narti m.fl. (fp) kritiska mot
+              att regeringen i förevarande proposition inte redovisat vilka
+              organisationer och myndigheter som regeringen avser att anmäla
+              till kommissionen. Inte heller framgår, framhåller motionärerna,
+              vilka kriterier som regeringen kommer att använda vid valet av
+              godkända organ. Motionärerna anser att regeringen brustit i tydlighet
+              beträffande beskrivningen av de organ som kommer att få företräda
+              de svenska konsumenternas intresse i internationella tvister.
+              Enligt motionärernas uppfattning bör konsumenternas företrädare
+              inte bestå av organ som samtidigt försvarar intressen hos grupper
+              av producenter eller distributörer av varor och tjänster. I motionen
+              namnges vissa fackliga organisationer och ekonomiska föreningar
+              som motionärerna anser inte bör komma i fråga som godkända organ
+              (LO, TCO och KF). Enligt motionärernas mening bör klargöras att
+              endast myndigheter och organisationer som uteslutande har till
+              uppgift att ta till vara konsumentintressen kan komma i fråga
+              som godkända organ. I motionen föreslås att riksdagen tillkännager
+              för regeringen som sin mening vad som i motionen anförts om kriterier
+              för vilka myndigheter och organisationer som kan anmälas som godkända
+              organ.
+            </p>
+            <p>
+              Utskottet delar regeringens bedömning att det med hänsyn till
+              vad som föreskrivs i direktivets artikel 3 torde vara uteslutet
+              att företag och företagsorganisationer kan utses till godkända
+              organ. Yrkande 2 i motion L1 bör därför inte föranleda någon riksdagens
+              vidare åtgärd, och utskottet avstyrker bifall till motionsyrkandet.
+            </p>
+            <p>
+              Enligt utskottets mening hade det varit ändamålsenligt om regeringen
+              i förevarande proposition tydligare hade redovisat sin syn på
+              frågan vilka svenska organ eller organisationer som i enlighet
+              med artikel 3 bör komma i fråga för anmälan till kommissionen
+              som godkända organ. Utskottet har emellertid, efter det att propositionen
+              överlämnats till riksdagen, erfarit att regeringen har för avsikt
+              att till kommissionen anmäla Konsumentombudsmannen som godkänt
+              organ. Önskemålen i motion L2 torde därmed, enligt utskottets
+              mening, till viss del vara tillgodosedda.
+            </p>
+            <p>
+              Utskottet har inte någon närmare kännedom om det föreligger intresse
+              hos någon svensk konsumentorganisation att bli anmält till kommissionen
+              som ett godkänt organ. Att väcka talan utomlands kan vara både
+              omständligt och dyrt med hänsyn till att man troligtvis blir tvungen
+              att anlita utländska advokater, översättare och andra experter.
+              Därtill kommer risken att slutligt bli ålagd att betala motpartens
+              rättegångskostnader eller i vart fall inte få ersättning för sina
+              egna. För det fall en svensk konsumentorganisation i framtiden
+              skulle framställa önskemål om att bli anmält som godkänt organ
+              förutsätter utskottet att regeringen kommer att pröva en sådan
+              ansökan med utgångspunkt i vad som föreskrivs i förbudsföreläggandets
+              artikel 3. Om organisationen i fråga uppfyller direktivets krav
+              och därtill har ekonomiska förutsättningar och realistiska möjligheter
+              att både initiera och föra processer utomlands kan utskottet inte
+              se några hinder mot att organisationen kan anmälas till kommissionen
+              som ett godkänt organ. Utskottet kan inte se att det för närvarande
+              finns behov av att ställa upp ytterligare kriterier för de organisationer
+              som eventuellt vill bli anmälda som godkända organ. De tankegångar
+              som förts fram i motion L1 att riksdagen skall godkänna de organ
+              som anmäls till kommissionen kan utskottet inte heller ställa
+              sig bakom.
+            </p>
+            <p>
+              Med det anförda avstyrker utskottet bifall till motionerna L1
+              yrkande 1 och L2.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bhemst">
+              Hemställan
+            </head>
+            <p>
+              Utskottet hemställer
+            </p>
+            <p>
+              1. beträffande lagförslagen
+            </p>
+            <p>
+              att riksdagen
+            </p>
+            <p>
+              dels antar regeringens förslag till lag om talerätt för vissa
+              utländska konsumentmyndigheter och konsumentorganisationer,
+            </p>
+            <p>
+              dels med anledning av regeringens förslag antar av utskottet
+              i bilaga 2 framlagt förslag till lag om ändring i lagen (2000:1024)
+              om ändring i lagen (1970:417) om marknadsdomstol m.m.,
+            </p>
+            <p>
+              2. beträffande tillämplig lag
+            </p>
+            <p>
+              att riksdagen avslår motion 2000/01:L1 yrkande 3,
+            </p>
+            <p>
+              res. 1 (m, kd, fp)
+            </p>
+            <p>
+              3. beträffande företag som godkända organ
+            </p>
+            <p>
+              att riksdagen avslår motion 2000/01:L1 yrkande 2,
+            </p>
+            <p>
+              4. beträffande organisationer som godkända organ
+            </p>
+            <p>
+              att riksdagen avslår motionerna 2000/01:L1 yrkande 1 och 2000/01:
+              L2.
+            </p>
+            <p>
+              res. 2 (m, kd, fp)
+            </p>
+            <p>
+              Stockholm den 21 november 2000
+            </p>
+            <p>
+              På lagutskottets vägnar
+            </p>
+            <p>
+              Tanja Linderborg
+            </p>
+            <p>
+              I beslutet har deltagit: Tanja Linderborg (v), Rolf Åbjörnsson
+              (kd), Marianne Carlström (s), Stig Rindborg (m), Rune Berglund
+              (s), Karin Olsson (s), Henrik S Järrel (m), Nikos Papadopoulos
+              (s), Elizabeth Nyström (m), Marina Pettersson (s), Christina Nenes
+              (s), Tasso Stafilidis (v), Kjell Eldensjö (kd), Berit Adolfsson
+              (m), Anders Berglöv (s), Agne Hansson (c) och Ulf Nilsson (fp).
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bres">
+              Reservationer
+            </head>
+            <p>
+              1. Tillämplig lag (mom. 2)
+            </p>
+            <p>
+              Rolf Åbjörnsson (kd), Stig Rindborg (m), Henrik S Järrel (m),
+              Elizabeth Nyström (m), Kjell Eldensjö (kd), Berit Adolfsson (m)
+              och Ulf Nilsson (fp) anser
+            </p>
+            <p>
+              dels att den del av utskottets yttrande som på s. 4 börjar med
+              "I likhet" och på s. 5 slutar med "yrkande 3" bort ha följande
+              lydelse:
+            </p>
+            <p>
+              Utskottet anser, i likhet med motionärerna, att det är en brist
+              att förbudsföreläggandedirektivet och det framlagda lagförslaget
+              inte innehåller någon materiell lagvalsregel. En grundprincip
+              inom den internationella privaträtten är att man skall försöka
+              förhindra att flera länders lagar blir tillämpliga på ett och
+              samma förfarande - en princip som inte upprätthållits i förevarande
+              ärende. För att tillgodose kravet på rättssäkerhet måste de som
+              skall efterleva den kollektiva konsumenträtten inom EES med någorlunda
+              lätthet kunna bedöma vilka kriterer som gäller.
+            </p>
+            <p>
+              Det finns också andra än rent juridiska invändningar mot avsaknaden
+              av en materiell lagvalsregel. I ett alltmer internationaliserat
+              samhälle där integration och handelsutbyte länderna emellan skall
+              stimuleras framstår behovet av en lagvalsregel som uppenbar. Den
+              omständigheten att företag inte kan förutse vilka regler som kommer
+              att tillämpas på deras marknadsföringsåtgärder i andra länder
+              är knappast ägnat att främja en sådan utveckling. Företag som
+              vill marknadsföra sina varor eller tjänster i flera olika länder
+              kommer att leva i ovisshet hur man i respektive land kommer att
+              bedöma marknadsföringen. En sådan ovisshet kan i värsta fall leda
+              till att man avstår från att marknadsföra sina varor och tjänster
+              på en internationell marknad och därmed inte tar till vara sina
+              utvecklingsmöjligheter.
+            </p>
+            <p>
+              I valet mellan ursprungslandsprincipen och effektlandsprincipen
+              framstår, enligt utskottets mening, den förstnämnda principen
+              som den mest ändamålsenliga. En enskild näringsidkare kan då,
+              med iakttagande av bestämmelserna i sitt eget hemlands lagstiftning,
+              vara säker på att hans marknadsföringsåtgärder inte kommer att
+              prövas enligt någon för honom okänd lagstiftning. Till saken hör
+              nämligen att det finns inte oväsentliga skillnader mellan lagstiftningen
+              på ifrågavarande område i de olika länderna. Det kan även finnas
+              skillnader i fråga om lagtillämpningen, trots att lagarna kan
+              synas identiska. Som redovisats i propositionen och i motionen
+              föreskriver direktivet om elektronisk handel ursprungslandsprincipen,
+              och enligt utskottets mening bör denna princip också få genomslag
+              på ifrågavarande område.
+            </p>
+            <p>
+              Enligt utskottets mening bör regeringen verka för att få till
+              stånd en ändring i förbudsföreläggandedirektivet som innebär att
+              urspungslandsprincipen skall tillämpas. I det sammhanget är det
+              angeläget att regeringen gör en översyn av den i Sverige gällande
+              kollektiva konsumenträtten och bedömer dess konsekvenser för svenskt
+              näringsliv i jämförelse med övriga EES- länder. En rimlig utgångspunkt
+              för ett sådant arbete är att konsumenträtten inom EES i så stor
+              utsträckning som möjligt skall vara harmoniserad.
+            </p>
+            <p>
+              Vad utskottet sålunda anfört bör riksdagen med bifall till motion
+              L1 yrkande 3 som sin mening ge regeringen till känna.
+            </p>
+            <p>
+              dels att utskottets hemställan under 2 bort ha följande lydelse:
+            </p>
+            <p>
+              2. beträffande tillämplig lag
+            </p>
+            <p>
+              att riksdagen med bifall till motion 2000/01:L1 yrkande 3 som
+              sin mening ger regeringen till känna vad utskottet anfört.
+            </p>
+            <p>
+              2. Organisationer som godkända organ (mom. 4)
+            </p>
+            <p>
+              Rolf Åbjörnsson (kd), Stig Rindborg (m), Henrik S Järrel (m),
+              Elizabeth Nyström (m), Kjell Eldensjö (kd), Berit Adolfsson (m)
+              och Ulf Nilsson (fp) anser
+            </p>
+            <p>
+              dels att den del av utskottets yttrande som på s. 7 börjar med
+              "Utskottet har" och slutar med "och L2" bort ha följande lydelse:
+            </p>
+            <p>
+              Enligt utskottets mening är det anmärkningsvärt att regeringen
+              i förevarande proposition inte redovisat några som helst kriterier
+              för de organisationer som vill och kan komma i fråga som svenska
+              godkända organ. Av propositionen att döma synes regeringen vilja
+              ha full frihet att helt på egen hand och utan insyn från riksdagens
+              sida välja den eller de organisationer som man vill anmäla till
+              kommissionen. En sådan ordning bör riksdagen inte godta.
+            </p>
+            <p>
+              Utskottet anser det nödvändigt att valet av organisationer som
+              godkända organ görs med stor omsorg och eftertanke. Som framhållits
+              i motion L2 bör de valda organisationerna inte ha några som helst
+              kopplingar till exempelvis fackliga eller kooperativa intressegrupper.
+              I enlighet med tankegångar som förts i motion L1 bör regeringen
+              återkomma till riksdagen och redovisa vilka organisationer man
+              har för avsikt att anmäla som godkända organ.
+            </p>
+            <p>
+              Vad utskottet sålunda anfört bör riksdagen med bifall till motionerna
+              L1 yrkande 1 och L2 som sin mening ge regeringen till känna.
+            </p>
+            <p>
+              dels att utskottets hemställan under 4 bort ha följande lydelse:
+            </p>
+            <p>
+              4. beträffande organisationer som godkända organ
+            </p>
+            <p>
+              att riksdagen med bifall till motionerna 2000/01:L1 yrkande 1
+              och 2000/01:L2 som sin mening ger regeringen till känna vad utskottet
+              anfört.
+            </p>
+            <p>
+              Särskilt yttrande
+            </p>
+            <p>
+              Direktivets genomförande - lagförslagen
+            </p>
+            <p>
+              Stig Rindborg, Henrik S Järrel, Elizabeth Nyström och Berit Adolfsson
+              (alla m) anför:
+            </p>
+            <p>
+              De i propositionen framlagda lagförslagen innebär att Marknadsdomstolen
+              ges behörighet att tillämpa den nya lagen om talerätt. Med anledning
+              härav vill vi peka på att vi i motion 1999/2000:Ju413, väckt under
+              den allmänna motionstiden, framfört den åsikten att Marknadsdomstolen
+              bör avskaffas. I motionen anser vi att det finns goda möjligheter
+              att föra över Marknadsdomstolens arbetsuppgifter till de allmänna
+              domstolarna.
+            </p>
+            <p>
+              Vi vidhåller denna ståndpunkt också i detta lagstiftningsärende
+              men har inte funnit skäl att nu återupprepa yrkandet.
+            </p>
+            <p>
+              Propositionens lagförslag
+            </p>
+            <p>
+              1 Förslag till lag om talerätt för vissa utländska konsumentmyndigheter
+              och konsumentorganisationer
+            </p>
+            <p>
+              2 Förslag till lag om ändring i lagen (1970:417) om marknadsdomstol
+              m.m.
+            </p>
+            <p>
+              Av utskottet framlagt förslag till lag om ändring i lagen (2000:1024)
+              om ändring i lagen (1970:417) om marknadsdomstol m.m.
+            </p>
+            <p>
+              Härigenom föreskrivs att 1 § lagen (1970:417) om marknadsdomstol
+              m.m. i paragrafens lydelse enligt lagen (2000:1024) om ändring
+              i nämnda lag skall ha följande lydelse.
+            </p>
+            <p>
+              ----------------------------------------------------- Nuvarande
+              lydelse Föreslagen lydelse -----------------------------------------------------
+              1 § ----------------------------------------------------- Marknadsdomstolen
+              handlägger mål och ärenden enligt
+            </p>
+            <p>
+              1. konkurrenslagen (1993:20),
+            </p>
+            <p>
+              2. lagen (1994:1845) om tillämpningen av Europeiska gemenskapernas
+              konkurrens- och statsstödsregler,
+            </p>
+            <p>
+              3. marknadsföringslagen (1995:450),
+            </p>
+            <p>
+              4. lagen (1994:1512) om avtalsvillkor i konsumentförhållanden,
+            </p>
+            <p>
+              5. lagen (1984:292) om avtalsvillkor mellan näringsidkare,
+            </p>
+            <p>
+              6. produktsäkerhetslagen (1988:1604), -----------------------------------------------------
+              7. lagen (1994:615) om 7. lagen (1994:615) om ingripande mot ingripande
+              mot otillbörligt beteende otillbörligt beteende avseende offentlig
+              avseende offentlig upphandling. upphandling,
+            </p>
+            <p>
+              8. lagen (2000:000) om talerätt för vissa utländska konsument-
+              myndigheter och konsumentorganisationer. -----------------------------------------------------
+              Bestämmelserna i 14, 15 och 16-22 §§ tillämpas inte i mål eller
+              ärenden enligt konkurrenslagen, lagen om tillämpningen av Europeiska
+              gemenskapernas konkurrens- och statsstödsregler eller marknadsföringslagen.
+              I mål enligt marknadsföringslagen tillämpas inte heller 13 a §.
+              I stället gäller vad som föreskrivs i dessa lagar.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

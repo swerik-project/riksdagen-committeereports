@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_FiU_0042">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Finansutskottet har granskat EU-kommissionens meddelande om den finansiella tillsynen i Europa. Kommissionen föreslår att det skapas ett nytt råd (European Systemic Risk Council, ESRC) med ansvar för att bevaka den finansiella stabiliteten i EU på ett övergripande plan. Utskottet framhåller i sin granskning att rådets rapporter ska vara offentliga i så stor utsträckning som möjligt. Kommissionen föreslår också att ett system med tre tillsynsmyndigheter inrättas på central nivå. Tanken är att myndigheterna ska kunna ta fram bindande tekniska standarder och icke-bindande tolkningsuttalanden som nationella tillsynsmyndigheter kan använda när de fattar sina beslut i enskilda fall. Utskottet anser att myndigheterna bör finansieras inom den befintliga EU-budgetens ramar och att systemet bör ses över inom två eller högst tre år. På längre sikt bör den finansiella tillsynen bedrivas av enbart en enda myndighet på EU-nivå. Vidare anser utskottet att det bör ytterligare övervägas om tillsynsmyndigheter på EU-nivå ska kunna utöva direkt tillsyn över enskilda institut. Detsamma gäller frågan om vilka befogenheter dessa EU-myndigheter ska ha i krissituationer. Riksdagen avslutade ärendet. Utlåtandet skickas till regeringen och för kännedom till EU-kommissionen.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">EU-förslag om finansiell tillsyn (FiU42)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Utlåtandet läggs till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW09137</idno>
+              <title>2009-06-23</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">137</biblScope>
+              <note type="display-reference">2009-06-23</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW09137</idno>
+              <title>2009-06-23</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">137</biblScope>
+              <note type="display-reference">2009-06-23</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2009-06-18">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2009-06-18">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-06-16">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-06-16">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-06-16">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-06-16">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-06-16">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-06-16">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-06-09">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-06-09">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-06-23">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-06-23">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-06-23">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-06-23">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-06-22">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-06-22">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-06-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-06-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets utlåtande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:FiU42
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Finansiell tillsyn
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACB0D" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I utlåtandet redovisar utskottet sin granskning av Europeiska
+            kommissionens meddelande om den finansiella tillsynen i Europa
+            (KOM(2009) 252 slutlig). Utskottet ger sin syn på de frågeställningar
+            som kommissionen tar upp i meddelandet och framhåller särskilt
+            vissa frågor som bör uppmärksammas i den fortsatta beredningen.
+          </p>
+          <p>
+            Utskottet framhåller bl.a. att rapporter från det föreslagna
+            EU-rådet för systemrisker ska vara offentliga i så stor utsträckning
+            som möjligt. Dessutom anser utskottet att det föreslagna systemet
+            med tre tillsynsmyndigheter på EU-nivå bör ses över inom två eller
+            högst tre år. Tillsynen på längre sikt bör bedrivas av enbart
+            en enda konsoliderad myndighet på EU-nivå.
+          </p>
+          <p>
+            Enligt utskottets mening bör frågan huruvida tillsynsmyndigheter
+            på EU-nivå ska kunna utöva direkt tillsyn över enskilda institut
+            bli föremål för ytterligare överväganden. Detsamma gäller frågan
+            om vilka befogenheter dessa EU-myndigheter ska ha i krissituationer.
+          </p>
+          <p>
+            De tre föreslagna tillsynsmyndigheterna på EU-nivå bör, enligt
+            utskottets mening, finansieras över EU-budgeten inom befintliga
+            budgetramar.
+          </p>
+          <p>
+            Utskottet föreslår att riksdagen lägger utlåtandet till handlingarna.
+          </p>
+          <p>
+            I betänkandet finns 2 motivreservationer (s) och (v).
+          </p>
+          <p xml:id="IDAYB0D" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Europeiska kommissionens meddelande om den finansiella tillsynen
+                  i Europa
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger utlåtandet till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 1 (s) motiveringen
+          </p>
+          <p rend="reservationsreferens_">
+            Reservation 2 (v) motiveringen
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 16 juni 2009
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Bertil Kjellberg (m), Anna Lilliehöök (m), Sonia Karlsson (s),
+            Lars Elinderson (m), Roger Tiefensee (c), Monica Green (s), Carl
+            B Hamilton (fp), Hans Hoff (s), Peder Wachtmeister (m), Göran
+            Pettersson (m), Ulla Andersson (v), Tommy Ternemar (s), Emma Henriksson
+            (kd), Mikaela Valtersson (mp), Jörgen Hellman (s) och Christina
+            Zedell (s).
+          </p>
+          <p xml:id="IDAEF0D" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAHF0D" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Europeiska kommissionens meddelande Europeisk finansiell tillsyn
+            (KOM (2009) 252 slutlig) hänvisades till finansutskottet för granskning
+            den 9 juni 2009 och är därmed föremål för ett utlåtande i enlighet
+            med bestämmelserna i riksdagsordningens 10 kap. 4 §.
+          </p>
+          <p>
+            Utskottet hade dessförinnan fått information om den finansiella
+            tillsynen i EU av statsrådet Mats Odell den 26 mars. Dessutom
+            fick utskottet information av statssekreteraren Urban Karlström,
+            Finansdepartementet, och av Finansinspektionen den 31 mars. Vidare
+            höll utskottet överläggningar om finansiell tillsyn med statsrådet
+            Mats Odell den 8 juni. Utskottet stödde regeringens upplägg inför
+            de fortsatta förhandlingarna med en avvikande mening från Vänsterpartiet.
+            Vid sitt sammanträde den 8 juni fick utskottet även information
+            från finansminister Anders Borg och statsrådet Mats Odell om bl.a.
+            behandlingen av frågor om finansiell tillsyn på det kommande ministerrådet
+            (Ekofin) den 9 juni. Utskottet fick dessutom information om finansiella
+            tillsynsfrågor från Riksbanken och Finansinspektionen vid sitt
+            sammanträde den 9 juni.
+          </p>
+          <p xml:id="IDAQF0D" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p xml:id="IDATF0D" rend="r4">
+            De Larosière-rapporten
+          </p>
+          <p>
+            Frågor om hur tillsynen över finansiella marknader och finansiella
+            institut i EU bör utformas har varit föremål för diskussion i
+            olika forum under lång tid. Den pågående finanskrisen har lett
+            till en intensifiering av denna debatt.
+          </p>
+          <p>
+            Under hösten 2008 tillsatte Europeiska kommissionens ordförande
+            Barroso en särskild grupp av vise män med uppdrag att analysera
+            och ta fram förslag på hur den finansiella tillsynen i EU bör
+            bedrivas. Gruppen, under ledning av förre chefen för Internationella
+            valutafonden (IMF) Jacques de Larosière, lade fram sin slutrapport
+            den 25 februari 2009.
+          </p>
+          <p>
+            Rapporten innehåller ett antal rekommendationer där gruppen föreslår
+            ändringar i tillsynsstrukturen. I rapporten föreslås att ett särskilt
+            råd (European Systemic Risk Council, ESRC) inrättas med ansvar
+            för att bevaka den finansiella stabiliteten i EU på ett övergripande,
+            makroekonomiskt plan. Dessutom föreslås att ett system för samordnad
+            finansiell tillsyn i EU skapas (European System of Financial Supervisors,
+            ESFS).
+          </p>
+          <p>
+            I det nu aktuella meddelandet tar kommissionen ställning till
+            de Larosière-gruppens förslag i denna del och presenterar sin
+            syn på hur den finansiella tillsynsstrukturen i EU bör se ut.
+          </p>
+          <p xml:id="IDACG0D" rend="rubrik2">
+            Meddelandets huvudsakliga innehåll
+          </p>
+          <p>
+            I meddelandet hänvisar kommissionen till de Larosière-rapporten
+            och framför att samråd med olika intressenter under våren 2009
+            har visat på en bred enighet om behovet av en reformerad finansiell
+            tillsyn i EU med utgångspunkt i de Larosière-rapportens förslag.
+            Vidare pekar kommissionen på behovet av en snabb hantering och
+            välkomnar synpunkter senast den 15 juli 2009. I meddelandet föreslås
+            i huvudsak två nya mekanismer för i) tillsyn på makro- eller systemnivå
+            och ii) tillsyn på mikro- eller institutnivå.
+          </p>
+          <p xml:id="IDAIG0D" rend="r3">
+            Europeiska rådet för systemrisker (ESRC)
+          </p>
+          <p>
+            Kommissionen föreslår liksom de Larosière-gruppen att det skapas
+            ett nytt råd för tillsyn på makronivå, Europeiska rådet för systemrisker
+            (European Systemic Risk Council, ESRC).
+          </p>
+          <p xml:id="IDAOG0D" rend="r4">
+            ESRC:s uppgifter
+          </p>
+          <p>
+            ESRC ska ha till uppgift att övervaka utvecklingen på de finansiella
+            marknaderna i stort och bedöma eventuella hot mot stabiliteten
+            i det finansiella systemet. ESRC:s uppgifter föreslås bli att
+            i) samla in nödvändig information för att övervaka systemet och
+            bedöma risker och hot mot stabiliteten, ii) varna när det uppstår
+            mer betydande risker, iii) vid behov avge rekommendationer om
+            vilka åtgärder som behövs för att motverka risker, iv) övervaka
+            och följa upp hur varningar och rekommendationer har mottagits
+            och vilka åtgärder som vidtagits och v) samverka och samråda med
+            internationella institutioner som IMF, finansiella stabilitetsbyrån
+            (Financial Stability Board) och myndigheter i länder utanför EU.
+          </p>
+          <p>
+            Kommissionen vill inte ge ESRC någon formell beslutsmakt gentemot
+            enskilda medlemsländer, centralbanker eller andra. Däremot menar
+            kommissionen att det i praktiken kommer att skapas en icke bindande
+            styrning genom s.k.
+            <seg rend="grad2">
+              agera eller förklara
+            </seg>
+            där de som uppmanas att vidta åtgärder antingen följer rådets
+            rekommendationer eller förklarar skälen till att de inte gör det.
+          </p>
+          <p xml:id="IDA1G0D" rend="r4">
+            ESRC:s uppbyggnad
+          </p>
+          <p>
+            När det gäller ESRC:s uppbyggnad menar kommissionen att centralbankerna
+            måste ha en ledande roll. Därför bör samtliga nationella centralbankschefer
+            i EU ingå, liksom ECB-chefen och ECB:s ställföreträdande chef
+            (Vice-President). ECB-chefen bör vara ordförande i ESRC, medan
+            ställföreträdande chefen för ECB:s talan i diskussionerna. Dessutom
+            föreslås att representanter för de tre nya tillsynsmyndigheterna
+            ska sitta med i rådet, och även en representant för kommissionen.
+            Däremot anser kommissionen inte att de nationella tillsynsmyndigheterna
+            ska beredas plats. I stället ska en representant för en nationell
+            tillsynsmyndighet i varje land få sitta med som observatör utan
+            rösträtt.
+          </p>
+          <p>
+            ESRC ska fatta beslut med enkel majoritet. Såvitt kan utläsas
+            av meddelandet skulle ECB i praktiken få två röster, såväl ordföranden
+            som ECB:s representant bland de övriga rådsmedlemmarna.
+          </p>
+          <p xml:id="IDAEH0D" rend="r3">
+            Europeiska systemet för finansiella tillsynsmyndigheter (ESFS)
+          </p>
+          <p>
+            På grundval av det befintliga samarbetet mellan nationella tillsynsmyndigheter
+            som enligt kommissionen har visat sig otillräckligt föreslås ett
+            nytt och avsevärt fördjupat samarbete inom ramen för ett europeiskt
+            system för finansiella tillsynsmyndigheter. På central nivå föreslås
+            tre nya tillsynsmyndigheter som tar över efter de befintliga s.k.
+            nivå 3-kommittéerna för bank-, värdepappers- och försäkringstillsyn.
+          </p>
+          <p>
+            Kommissionen understryker att tillsynen på mikronivå (över enskilda
+            institut) i första hand sköts av de nationella tillsynsmyndigheterna
+            eller, för de institut som finns i flera länder, av flera nationella
+            tillsynsmyndigheter tillsammans i ett s.k. tillsynskollegium.
+            Samtidigt menar kommissionen att det krävs mer harmonisering och
+            effektivare samarbete och att de tre nya EU-myndigheterna behövs
+            för att uppnå detta.
+          </p>
+          <p xml:id="IDANH0D" rend="r4">
+            De nya EU-myndigheternas uppgifter
+          </p>
+          <p>
+            Konkret föreslår kommissionen att de nya tillsynsmyndigheterna
+            ska kunna ta fram bindande tekniska standarder. Dessutom ska de
+            kunna ta fram icke-bindande tolkningsuttalanden som nationella
+            tillsynsmyndigheter kan använda när de fattar sina beslut i enskilda
+            fall.
+          </p>
+          <p>
+            De nya myndigheterna ska också kunna få vissa befogenheter att
+            ingripa för att säkerställa likformig tillämpning av reglerna.
+            De ska kunna fatta beslut i fall där olika nationella tillsynsmyndigheter
+            är oense om hur regler bör tillämpas. Om en nationell tillsynsmyndighet
+            inte följer det gemensamma regelverket ska den ansvariga europeiska
+            tillsynsmyndigheten kunna uppmana till bättre efterföljelse. Den
+            ansvariga EU-myndigheten ska även rekommendera kommissionen att
+            genom ett beslut ålägga en nationell tillsynsmyndighet att vidta
+            åtgärder. I meddelandet öppnar kommissionen även för att EU-myndigheterna
+            ska kunna fatta beslut som direkt träffar enskilda finansinstitut
+            när det handlar om t.ex. stabilitetstillsyn och värnande av det
+            finansiella systemets stabilitet.
+          </p>
+          <p>
+            Kommissionen föreslår också att vissa specifika typer av företag
+            med uttalat gränsöverskridande verksamhet, t.ex. kreditvärderingsinstitut
+            och vissa typer av värdepapperscentraler, ska ställas under direkt
+            tillsyn av EU-myndigheterna. Även företagsöverlåtelser inom EU
+            skulle kunna bli föremål för stabilitetstillsyn från EU-myndigheternas
+            sida. Dessutom vill kommissionen att EU-myndigheterna ska ha möjligheter
+            att vidta krisåtgärder och då fatta beslut som exempel nämns s.k.
+            blankning av värdepapper.
+          </p>
+          <p>
+            ESFS ska också innefatta insamlande av information från nationella
+            tillsynsmyndigheter till EU-myndigheterna i en central databas
+            och samarbete i form av t.ex. gemensamma utbildningar och personalutbyte
+            mellan tillsynsmyndigheterna. Dessutom ska de tre EU-myndigheterna
+            kunna upprätthålla kontakter och bedriva tekniskt samarbete med
+            internationella organisationer och tillsynsmyndigheter i tredjeland.
+          </p>
+          <p>
+            Kommissionen framhåller också att såväl kommissionens egna som
+            EU-myndigheternas beslut ska kunna överklagas och prövas i EG:s
+            domstolar.
+          </p>
+          <p xml:id="IDACA1D" rend="r4">
+            ESFS uppbyggnad och struktur
+          </p>
+          <p>
+            När det gäller ESFS uppbyggnad föreslår kommissionen alltså att
+            det ska skapas tre nya myndigheter på EU-nivå med sektorsansvar:
+            en myndighet för respektive bank-, försäkrings- och värdepapperstillsyn.
+            Kommissionen noterar att det finns olika modeller för hur tillsynsmyndigheter
+            är organiserade och att en annan lösning är att all finansiell
+            tillsyn samlas i en myndighet. Kommissionen menar dock att det
+            inte finns tydliga, vägande skäl som talar för någon annan modell
+            än den som hittills valts i EU, dvs. sektorsmodellen. Samtidigt
+            aviseras dock att den rådande modellen ska utvärderas efter några
+            år. För att främja samordning vill kommissionen också skapa en
+            styrkommitté med uppdrag att samordna de tre EU-myndigheternas
+            arbete på hög nivå.
+          </p>
+          <p>
+            Varje EU-myndighet ska enligt förslaget styras av en styrelse
+            bestående av myndighetschefen och en representant från varje nationell
+            tillsynsmyndighet. Som observatörer sitter kommissionen, en representant
+            för stabilitetsrådet (ESRC) och representanter för EES- och Eftaländerna.
+            Myndigheternas styrelser ska bl.a. kunna rösta om bindande tekniska
+            standarder med kvalificerad majoritet och, när det t.ex. gäller
+            att enas om hur regler ska tolkas och tillämpas, fatta beslut
+            med enkel majoritet.
+          </p>
+          <p xml:id="IDALA1D" rend="r3">
+            Fortsatt beredning avseende den finansiella tillsynsstrukturen
+            i EU
+          </p>
+          <p>
+            De förslag som framställs i meddelandet är inte skarpa lagförslag.
+            När det gäller strukturen för finansiell tillsyn i EU förutses
+            dock ett ovanligt snabbt lagstiftningsförfarande. Ekofinrådet
+            yttrade sig över kommissionens meddelande vid sitt möte den 9
+            juni och uttryckte då stöd för huvuddragen i förslagen. Frågan
+            kommer att behandlas av stats- och regeringscheferna i Europeiska
+            rådet den 1920 juni. Kommissionen kommer att ta emot remissynpunkter
+            t.o.m. den 15 juli och avser att lämna ett förslag till lagstiftning
+            i september. Den lagstiftning som kan komma att antas beslutas
+            med kvalificerad majoritet enligt medbeslutandeförfarandet (artikel
+            251 i EG-fördraget).
+          </p>
+          <p xml:id="IDASA1D" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAVA1D" rend="r4">
+            Inledning
+          </p>
+          <p>
+            På ett övergripande plan välkomnar utskottet de förslag som framställs
+            i kommissionens meddelande. Den finansiella krisen har visat på
+            behovet av en effektivare tillsyn över finansmarknadens aktörer.
+            Krisens förlopp har även åskådliggjort hur den ökade integrationen
+            på finansmarknaderna i EU ställer krav på snabba och samordnade
+            åtgärder för att komma till rätta med problem i finansiella företag
+            som driver verksamhet i flera medlemsländer. Utskottet instämmer
+            i bedömningen att det nu krävs snabba reformer och att det kommande
+            året kan visa sig avgörande för att åstadkomma en mer välfungerande
+            finansiell tillsyn i en union där finansiella aktörers verksamhet
+            blir alltmer gränsöverskridande. För att uppnå detta är det, enligt
+            utskottets mening, nödvändigt att de befintliga nationella tillsynsstrukturerna
+            knyts närmare till varandra än vad som är fallet i dag. Kommissionens
+            förslag är enligt utskottets mening en god grund för fortsatt
+            arbete inom den närmaste framtiden. Med detta sagt vill dock utskottet
+            framhålla vissa aspekter av kommissionens förslag som, enligt
+            utskottets mening, bör övervägas ytterligare.
+          </p>
+          <p xml:id="IDA1A1D" rend="r4">
+            Kopplingen mellan ESRC och ECB samt övriga centralbanker
+          </p>
+          <p>
+            Kommissionen föreslår att chefen för Europeiska centralbanken
+            ska vara ordförande i EU-rådet för systemrisker (ESRC) och att
+            rådet ska få administrativt stöd från Europeiska centralbanken
+            i Frankfurt am Main. Kommissionen föreslår vidare att samtliga
+            nationella centralbankschefer ges plats i rådet, medan representanter
+            för nationella tillsynsmyndigheter föreslås få observatörsplatser
+            utan rösträtt vid rådets sammanträden.
+          </p>
+          <p>
+            Enligt utskottets mening är det naturligt att centralbankerna
+            inom EU, som spelar en central roll i övervakningen av det finansiella
+            systemets stabilitet och den övergripande riskbilden på de finansiella
+            marknaderna, får en framträdande roll i rådet.
+          </p>
+          <p>
+            Samtidigt vill utskottet framhålla vikten av att makrotillsynens
+            inriktning inte begränsas av det faktum att centralbankerna, som
+            utgör en majoritet i det föreslagna rådet, även ansvarar för penningpolitiken.
+            Vid bedömningen av det finansiella systemets stabilitet är det
+            viktigt att även den penning- och finanspolitiska utvecklingen
+            med bäring på systemets stabilitet beaktas. Frågan om rådets sammansättning
+            bör enligt utskottets bedömning ses mot denna bakgrund. Det kan
+            finnas skäl att överväga hur rådet bör sättas samman för att säkerställa
+            att makrotillsynen utövas på ett så effektivt sätt som möjligt.
+            En viktig aspekt är huruvida ordförandeposten i rådet bör gå till
+            chefen för Europeiska centralbanken eller till en person som inte
+            direkt medverkar vid penningpolitiska beslut som rör en majoritet
+            av unionens medlemsländer och en stor del av unionens samlade
+            ekonomi. Utskottet noterar i denna del att det i Ekofin- rådets
+            slutsatser efter mötet den 9 juni framhålls att ordföranden i
+            EU-rådet för systemrisker (som här benämns European Systemic Risk
+            Board, ESRB) bör kunna vara en centralbankschef som väljs av medlemmarna
+            i EU-rådet för systemrisker.
+          </p>
+          <p xml:id="IDAHB1D" rend="r4">
+            Öppenhet i ESRC:s verksamhet
+          </p>
+          <p>
+            Enligt utskottets mening är det angeläget att de rekommendationer
+            som ges av ESRC i så stor utsträckning som möjligt och snarast
+            kommer till allmänhetens kännedom. Utskottet välkomnar särskilt
+            att kommissionen noterar att rekommendationernas effektivitet
+            ökar genom att de offentliggörs. Utskottet anser att detta ska
+            vara den grundläggande inställningen när ESRC tar fram rekommendationer.
+            Allmänheten måste kunna få god insyn i det tillsynsarbete som
+            bedrivs på makronivå, inte bara av effektivitetsskäl utan dessutom
+            eftersom en ökad öppenhet innebär att beslutsprocesserna får en
+            bättre legitimitet. Bristande öppenhet riskerar att skapa osäkerhet
+            om situationen på de finansiella marknaderna och kan i slutändan
+            skada allmänhetens förtroende för det finansiella systemet som
+            helhet. Samtidigt har utskottet förståelse för att enskilda rekommendationer
+            helt eller delvis kan innehålla information, t.ex. om situationen
+            i enskilda företag, som inte bör offentliggöras.
+          </p>
+          <p>
+            Sammanfattningsvis anser utskottet att dessa frågor bör belysas
+            i det fortsatta arbetet utifrån den grundläggande utgångspunkten
+            att ESRC:s rekommendationer ska vara allmänt tillgängliga i så
+            stor utsträckning som möjligt.
+          </p>
+          <p xml:id="IDAQB1D" rend="r4">
+            Den organisatoriska tillsynsstrukturen på EU- nivå
+          </p>
+          <p>
+            Inom ramen för det föreslagna EU-systemet för finansiell tillsyn
+            (ESFS) vill kommissionen se tre nya EU-myndigheter för tillsyn,
+            som utgår från de tre befintliga nivå 3-kommittéerna för bank-,
+            försäkrings- och värdepapperstillsyn. Denna struktur innebär att
+            tillsynsverksamheten bedrivs enligt en sektorsindelning. Samtidigt
+            noterar kommissionen att det även finns andra alternativa sätt
+            att utforma tillsynsstrukturen.
+          </p>
+          <p>
+            I denna del vill utskottet inledningsvis framhålla att flera
+            medlemsstater har förändrat sin tillsynsstruktur under de senaste
+            decennierna i riktning mot en modell där en konsoliderad tillsynsmyndighet
+            ansvarar för tillsyn av bank-, värdepappers- och försäkringsverksamhet.
+            Som argument för en sådan konsolidering har det framförts bl.a.
+            att många tillsynsobjekt som t.ex. finansiella konglomerat bedriver
+            verksamhet inom alla de tre sektorerna, att gränsen mellan sektorerna
+            blivit mer otydlig t.ex. avseende finansiella derivatinstrument
+            och försäkringsprodukter, att konsolidering av tillsynen ger skalfördelar,
+            effektivare resursanvändning och färre interna målkonflikter samt
+            att samlad tillsyn underlättar utvärdering och ansvarsutkrävande
+            från de politiker som i slutändan beslutar om hur tillsynen bör
+            utformas på en övergripande nivå.
+            <hi rend="superscript">
+              1 [
+              <seg type="html-hanvisning">
+                Se t.ex. Clive Briault,
+                <seg rend="grad2">
+                  The Rationale for a Single National Financial Services Regulator.
+                </seg>
+                Financial Services Authority, Occasional Paper Series No. 2 (May
+                1999).
+              </seg>
+              ]
+            </hi>
+            Vidare noterar utskottet att det i den akademiska debatten på
+            området framförts viss kritik mot den nu rådande strukturen med
+            tre sektorsindelade kommittéer i EU.
+            <hi rend="superscript">
+              2 [
+              <seg type="html-hanvisning">
+                Howard Davies, David Green.
+                <seg rend="grad2">
+                  Global Financial Regulation: The Essential Guide,
+                </seg>
+                s. 216 (Cambridge: Polity Press, 2008).
+              </seg>
+              ]
+            </hi>
+          </p>
+          <p>
+            Utskottet anser sammanfattningsvis att det finns goda skäl att
+            överväga om tillsynen på längre sikt bör bedrivas av enbart en
+            enda konsoliderad myndighet på EU-nivå. Samtidigt anser utskottet
+            att det är angeläget att nu, i det korta perspektivet, skapa strukturer
+            för en mer samordnad tillsyn på EU-nivå. Enligt utskottets mening
+            kan det därför vara lämpligt, av praktiska skäl, att inte genomföra
+            en genomgripande reform av tillsynsstrukturen i nuläget. Utskottet
+            vill dock särskilt framhålla vikten av att påbörja och slutföra
+            en översyn av tillsynsstrukturen på EU-nivå relativt snart, inom
+            två eller högst tre år, och därefter återkomma till frågan om
+            vilken tillsynsstruktur som är mest effektiv och ändamålsenlig
+            på lång sikt.
+          </p>
+          <p xml:id="IDANC1D" rend="r4">
+            Beslutsordningen i ESFS
+          </p>
+          <p>
+            Kommissionen föreslår att EU-myndigheternas styrelser ska kunna
+            rösta om bindande tekniska standarder med kvalificerad majoritet
+            och, när det t.ex. gäller att enas om hur regler ska tolkas och
+            tillämpas, fatta beslut med enkel majoritet. Detta framstår som
+            en lämplig ordning och utskottet välkomnar kommissionens förslag
+            i denna del.
+          </p>
+          <p xml:id="IDATC1D" rend="r4">
+            Direkt tillsyn över vissa företag
+          </p>
+          <p>
+            Utskottet noterar även att kommissionen vill ställa vissa företag
+            under direkt tillsyn av de tre föreslagna EU-myndigheterna. Enligt
+            utskottets mening är det viktigt att aktörer som bedriver gränsöverskridande
+            verksamhet även står under sammanhållen och effektiv tillsyn.
+            Direkt tillsyn av EU-myndigheterna kan, enligt utskottets bedömning,
+            vara ett tänkbart sätt att uppnå detta. Samtidigt innebär en sådan
+            tillsynsmodell att ett antal praktiska och rättsliga frågor måste
+            lösas.
+          </p>
+          <p>
+            Kommissionen lyfter fram två kategorier av företag som skulle
+            kunna bli föremål för direkt tillsyn av EU-myndigheterna: kreditvärderingsinstitut
+            och vissa clearinginstitut. Om kommissionens förslag i denna del
+            genomförs innebär detta att vissa företag med uttalat gränsöverskridande
+            verksamhet ställs under tillsyn direkt av gemenskapsorgan. Trots
+            att det rör sig om ett relativt litet antal tillsynsobjekt menar
+            utskottet att förslaget väcker vissa principiella frågor.
+          </p>
+          <p>
+            För det första innebär kommissionens förslag i denna del att
+            viss finansiell tillsyn över enskilda företag kommer att skötas
+            av gemenskapsinstitutioner och inte av nationella myndigheter.
+            Detta innebär att det blir mycket viktigt att tydligt fastslå
+            och avgränsa vilka tillsynsbefogenheter som ska ges till den eller
+            de EU-myndigheter som ges direkt tillsynsansvar. Särskilt angeläget
+            är att klargöra hur samverkan ska ske mellan EU-myndigheterna
+            och myndigheter i de länder där tillsynsobjekten har sina kontor
+            och i övrigt bedriver verksamhet. Detta gäller t.ex. frågor om
+            hur inspektioner på plats ska genomföras. Utskottet vill i detta
+            sammanhang framhålla vikten av att reglerna utformas med en tillräcklig
+            grad av både effektivitet i tillsynen och rättssäkerhet.
+          </p>
+          <p>
+            För det andra väcker förslaget att ställa vissa clearinginstitut
+            under direkt tillsyn frågor om hur ansvar ska fördelas vid fallissemang.
+            I en hypotetisk situation där ett clearinginstitut inte kan uppfylla
+            sina åtaganden kan det allmänna tvingas att skjuta till medel.
+            På en principiell nivå kan det diskuteras huruvida det då är lämpligt
+            att tillsynen över ett sådant företag utövas av en EU-myndighet
+            som inte är knuten till någon av de aktörer i detta fall enskilda
+            medlemsstater som kan tvingas att skjuta till medel i en krissituation.
+          </p>
+          <p>
+            För det tredje måste det, om man eftersträvar direkt tillsyn
+            över de två kategorier av företag som nu nämnts, fastställas vilken
+            av de tre EU-myndigheterna som ska utöva tillsyn över dem. Förutsatt
+            att tillsyn över clearinginstitut bör utövas direkt på EU-nivå
+            är det i första hand EU-myndigheten för tillsyn över värdepappersmarknaderna
+            som kan komma i fråga. När det gäller kreditvärderingsinstitut
+            är det mindre entydigt vilken myndighet som är mest lämpad att
+            utöva tillsyn.
+          </p>
+          <p>
+            För det fjärde måste en reglering av direkta tillsynsbefogenheter
+            för EU-myndigheterna stå i samklang med övrig lagstiftning på
+            finansmarknadsområdet. Enligt utskottet bör det noga utredas hur
+            regler om direkt tillsyn förhåller sig till befintlig lagstiftning
+            och hur sådana regler skulle kunna utformas inom ramen för det
+            gemenskapsrättsliga ramverket.
+          </p>
+          <p>
+            Sammanfattningsvis anser utskottet att det finns ett antal frågeställningar
+            som behöver belysas ytterligare innan det går att ta ställning
+            till huruvida tillsyn över vissa företag bör utövas direkt av
+            EU-myndigheterna. Enligt utskottets mening framstår det därför
+            som mest lämpligt att inte ta initiativ till sådan direkt tillsyn
+            i nuläget. Frågan bör utredas vidare i syfte att närmare belysa
+            bl.a. de frågeställningar som utskottet här har tagit upp. Utskottet
+            vill samtidigt understryka vikten av att fortsatt beredning i
+            denna del inte får förhindra reformer när det gäller andra aspekter
+            av tillsynsstrukturen i EU där behovet av snabba åtgärder är stort.
+          </p>
+          <p xml:id="IDALD1D" rend="r4">
+            EU-myndigheternas befogenheter i krissituationer
+          </p>
+          <p>
+            Kommissionen föreslår även att EU-myndigheterna ska kunna fatta
+            bindande beslut om åtgärder i krissituationer. På ett övergripande
+            plan kan utskottet instämma i att det i sällsynta fall, när förhållandena
+            på de finansiella marknaderna är exceptionella, kan vara påkallat
+            med olika typer av särskilda åtgärder som vidtas gemensamt på
+            europeisk nivå. Utskottet vill dock framhålla vikten av att ett
+            eventuellt regelverk som ger möjlighet till bindande beslut om
+            krisåtgärder utformas på ett mycket tydligt och väl avgränsat
+            sätt. Såväl kriterierna för vad som utgör en krissituation som
+            de närmare åtgärder som då får vidtas måste ha definierats i förväg.
+            Detta är enligt utskottet en förutsättning för att åtgärder ska
+            kunna vidtas på ett effektivt sätt när det behövs, utan att vålla
+            ytterligare oro på marknaderna i kristider. Mot denna bakgrund
+            anser utskottet att regler som ger EU-myndigheterna sådana särskilda
+            befogenheter t.ex. i fråga om blankningsförbud inte bör hastas
+            fram utan att först ha varit föremål för noggrann beredning. Utskottet
+            vill samtidigt understryka vikten av att fortsatt beredning i
+            denna del, liksom avseende frågan om direkt tillsyn, inte får
+            förhindra reformer när det gäller andra aspekter av tillsynsstrukturen
+            i EU där behovet av snabba åtgärder är stort.
+          </p>
+          <p xml:id="IDARD1D" rend="r4">
+            Europeiska kommissionens roll i ESRC och ESFS
+          </p>
+          <p>
+            Kommissionen, som har lämnat det nu aktuella meddelandet, har
+            en central roll i uppbyggnaden av en europeisk tillsyn på makro-
+            och mikronivå. Dessutom har kommissionen en särställning genom
+            sin exklusiva rätt att lägga fram förslag till ny lagstiftning.
+            Kommissionen har därutöver, inom ramen för den s.k. Lamfalussyprocessen,
+            ett särskilt ansvar för att övervaka att medlemsstaterna på nationell
+            nivå genomför gemensamt beslutade regler på finansmarknadsområdet.
+            Vidare har kommissionen i uppgift att övervaka efterlevnaden av
+            stabilitets- och tillväxtpaktens regler samt dessutom efterlevnaden
+            av det gemensamma regelverket avseende konkurrens och statsstöd.
+          </p>
+          <p>
+            I det förslag som nu lämnats kommer kommissionen att delta, med
+            rösträtt, i EU-rådet för systemrisker och i förvaltningsstyrelserna
+            för de tre EU-tillsynsmyndigheterna inom ESFS. Dessutom föreslås
+            att kommissionen ges observatörsplatser i styrelserna för de tre
+            EU-myndigheterna. Kommissionen tillförsäkras därigenom goda möjligheter
+            till insyn i myndigheternas löpande verksamhet.
+          </p>
+          <p>
+            Utskottet kan se ett värde i att kommissionen, med sin centrala
+            roll inom det europeiska samarbetet, kan följa och delta i det
+            finansiella tillsynsarbetet inom EU. Samtidigt vill utskottet
+            framhålla att det är Europaparlamentet och rådet som ytterst svarar
+            för att följa upp den verksamhet som kommer att bedrivas av de
+            nu föreslagna tillsynsorganen. Det är dessa två institutioner
+            som har att utkräva ansvar och vaka över att verksamheten bedrivs
+            på ett effektivt sätt. Enligt utskottet är det mycket viktigt
+            att återkommande rapportering sker till Europaparlamentet och
+            rådet. De förslag om sådan återrapportering som kommissionen framställer
+            i meddelandet är därför väl värda att ta fasta på i det fortsatta
+            arbetet.
+          </p>
+          <p xml:id="IDA3D1D" rend="r4">
+            Finansiering av EU-myndigheternas verksamhet
+          </p>
+          <p>
+            Utskottet noterar att kommissionen tar upp frågan om hur EU-myndigheternas
+            verksamhet bör finansieras och nämner två tänkbara lösningar:
+            dels finansiering via EU:s budget, dels genom bidrag från de nationella
+            myndigheterna. Enligt utskottets mening framstår det som mindre
+            lämpligt att skapa ett särskilt system för finansiering som är
+            beroende av medel från de nationella myndigheterna. En sådan lösning
+            kan komplicera arbetet med att fastställa hur mycket resurser
+            som krävs för tillsyn i varje medlemsland. De nationella tillsynsmyndigheterna,
+            som finansieras via nationella budgetar, skulle i en sådan finansieringsmodell
+            behöva ytterligare medel som i sin tur skulle kanaliseras vidare
+            till EU-myndigheterna. Detta riskerar att leda till ökad osäkerhet
+            om de nationella myndigheternas totala resursbehov, om inte tillskottet
+            från varje nationell myndighet till respektive EU-myndighet är
+            tydligt fastställt i förväg.
+          </p>
+          <p>
+            Utskottet anser, mot denna bakgrund, att tillsynsverksamheten
+            på europeisk nivå bör finansieras direkt via EU-budgeten och att
+            medel till detta bör tillföras de föreslagna EU-myndigheterna
+            inom befintliga budgetramar.
+          </p>
+          <p xml:id="IDAGE1D" rend="r4">
+            Det kommande arbetet
+          </p>
+          <p>
+            Utskottet vill avslutningsvis framhålla att frågor om finansiell
+            tillsyn i EU med stor sannolikhet kommer att vara föremål för
+            intensiv beredning under hösten 2009, då Sverige innehar ordförandeskapet
+            i Europeiska unionens råd. Den svenska regeringen kommer därmed
+            att bedriva arbete som avser finansiell tillsynsstruktur i EU
+            i sin roll som ordförandeland. Ordföranderollen innebär att Sverige
+            kommer att agera aktivt för att skapa en effektivare finansiell
+            tillsyn i EU.
+          </p>
+          <p>
+            I detta sammanhang vill utskottet särskilt framhålla att det
+            kommer att krävas samarbetsvilja och en förmåga att se till det
+            gemensamma europeiska intresset från samtliga medlemsländer för
+            att nå fram till en väl balanserad och långsiktigt hållbar tillsynsstruktur.
+            I detta utlåtande har utskottet pekat på ett antal frågeställningar
+            som väckts med anledning av meddelandet och bör övervägas vidare
+            i detta fortsatta, mycket viktiga arbete. Utskottet utgår från
+            att kommissionen även i det fortsatta arbetet kommer att verka
+            för att hitta väl avvägda lösningar som gör det möjligt att snabbt
+            och effektivt driva arbetet framåt under det svenska ordförandeskapet.
+          </p>
+          <p>
+            Med detta föreslår utskottet att riksdagen lägger utlåtandet
+            till handlingarna.
+          </p>
+          <p xml:id="IDATE1D" rend="AvsnittsRubrik">
+            Reservationer
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer. I rubriken anges vilken
+            punkt i utskottets förslag till riksdagsbeslut som behandlas i
+            avsnittet.
+          </p>
+          <table>
+            <row>
+              <cell xml:id="IDA0E1D">
+                <p rend="reservation">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="reservation">
+                  Europeiska kommissionens meddelande om den finansiella tillsynen
+                  i Europa motiveringen (s)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="reservanter">
+                  av Sonia Karlsson (s), Monica Green (s), Hans Hoff (s), Tommy
+                  Ternemar (s), Jörgen Hellman (s) och Christina Zedell (s).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p xml:id="IDATG1D" rend="r4">
+            Ställningstagande
+          </p>
+          <p>
+            Vi är ense med utskottets majoritet i fråga om synen på hur den
+            finansiella tillsynen i EU bör utvecklas och står bakom de överväganden
+            som utskottet gör i utlåtandet över Europeiska kommissionens meddelande.
+            På en punkt anser vi dock att utlåtandet borde ha haft en tydligare
+            inriktning, nämligen beträffande ordförandeskapet i European Systemic
+            Risk Council (ESRC). Enligt vår mening är det angeläget att ordföranden
+            i ESRC får en så oberoende ställning som möjligt. Eftersom även
+            penningpolitiska bedömningar kan behöva ingå i bilden när ESRC
+            utformar sina rekommendationer kan det ifrågasättas om det är
+            lämpligt att en centralbankschef är ordförande i rådet.
+          </p>
+          <table>
+            <row>
+              <cell xml:id="IDA0G1D">
+                <p rend="reservation">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="reservation">
+                  Europeiska kommissionens meddelande om den finansiella tillsynen
+                  i Europa motiveringen (v)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="reservanter">
+                  av Ulla Andersson (v).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p xml:id="IDAWI1D" rend="r4">
+            Ställningstagande
+          </p>
+          <p>
+            Finanskrisen har bl.a. visat på behovet av mer samverkan mellan
+            länder beträffande tillsyn av finansiella företag. Vänsterpartiet
+            välkomnar därför Europeiska kommissionens meddelande om ökad samverkan
+            avseende finansiell tillsyn inom EU. Än mer angeläget är det dock
+            att skärpa regleringen av såväl finansiella företag som deras
+            produkter samt att öka transparensen och öppenheten. Skärpta regleringar
+            på EU-nivå bör göras i form av s.k. minimiregler, dvs. enskilda
+            länder ska kunna formulera ett stramare regelverk om de så önskar.
+            Det aktuella meddelandet från kommissionen berör inte explicit
+            frågan om finansiell reglering, men det finns skrivningar som
+            tyder på att kommissionen önskar se en utveckling mot s.k. full
+            harmonisering av regleringarna inom den finansiella sektorn. Vänsterpartiet
+            avvisar denna ambition. Det är viktigt att länder som vill ha
+            en stark och välfungerande tillsyn över finansmarknaderna inte
+            begränsas av att det beslutats om mindre ambitiösa regler på EU-nivå.
+          </p>
+          <p>
+            Vänsterpartiet återkommer med synpunkter på delarna i kommissionens
+            förslag när det finns ett färdigt lagförslag att ta ställning
+            till. Men vi kan redan nu konstatera att vi ställer oss tveksamma
+            till den tänkta bemanningen av European Systemic Risk Council
+            (ESRC). Kommissionen föreslår att chefen för Europeiska Centralbanken
+            (ECB) ska vara ESRC:s ordförande. Vänsterpartiet menar att denna
+            bindning till ECB är olycklig och kan undergräva ESRC:s oberoende.
+            Enligt vår mening är det angeläget att ordföranden i ESRC får
+            en så oberoende ställning som möjligt. Eftersom även penningpolitiska
+            bedömningar kan behöva ingå i bilden när ESRC utformar sina rekommendationer,
+            och penningpolitiken kan påverka situationen på finansmarknaderna,
+            kan det ifrågasättas om det är lämpligt att en centralbankschef
+            är ordförande i rådet. Därutöver finns en mängd frågor som måste
+            redas ut innan man kan ta ställning till förslaget. Inte minst
+            måste ansvarsfördelningen mellan de tre myndigheterna inom European
+            System of Financial Supervisors (ESFS) och de nationella tillsynsmyndigheterna
+            tydligare definieras. Dessutom ser vi vissa problem med att tillsynen
+            blir sektorsindelad. Vi befarar att detta försvagar tillsynen.
+          </p>
+          <p>
+            Vänsterpartiet anser att de viktiga frågeställningar som tagits
+            upp här måste bli föremål för ytterligare överväganden innan ett
+            färdigt lagförslag kan presenteras. Med detta föreslår vi att
+            utlåtandet läggs till handlingarna.
+          </p>
+          <p xml:id="IDACJ1D" rend="Bilaga">
+            Bilaga
+          </p>
+          <p xml:id="IDAFJ1D" rend="BilageRubrik">
+            Förteckning över behandlade förslag
+          </p>
+          <p xml:id="IDAIJ1D" rend="r4">
+            Kommissionens vitbok KOM (2009) 252 slutlig om den finansiella
+            tillsynen i Europa.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

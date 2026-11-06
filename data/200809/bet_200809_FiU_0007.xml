@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_FiU_0007">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen har beslutat om ändringar i ersättningssystemet för viss mervärdesskatt som gäller för kommuner och landsting. Idag har ersättning för moms som kommuner och landsting betalat kunnat utgå två gånger. För att förhindra dubbel kompensation ändras nu lagen så att ersättning bara kan betalas en gång. Förändringarna börjar gälla den 1 januari 2009 men tillämpas från och med 1 maj 2008.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Förändringar i systemet för mervärdesskatt för kommuner och landsting (FiU7)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0926</idno>
+              <title>2008-11-12</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">26</biblScope>
+              <note type="display-reference">2008-11-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0926</idno>
+              <title>2008-11-12</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">26</biblScope>
+              <note type="display-reference">2008-11-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GW0K29</idno>
+              <title>2008/09:29</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">29</biblScope>
+              <note type="display-reference">2008/09:29</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2005:807</idno>
+              <note type="display-reference">2008:909</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GW0330</idno>
+              <title>Förslag till ändringar i ersättningssystemet för viss mervärdesskatt för kommuner och landsting</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">30</biblScope>
+              <note type="display-reference">proposition 2008/09:30 Förslag till ändringar i ersättningssystemet för viss mervärdesskatt för kommuner och landsting</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2008-11-07">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2008-11-07">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-11-04">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-11-04">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-11-04">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-10-30">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-10-30">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-10-23">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-10-23">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2008-11-12">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-11-12">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-11-12">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-11-12">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-11-12">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-11-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-11-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-11-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-11-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:FiU7
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Ersättningssystemet för mervärdesskatt för kommuner och landsting
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBQPC" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet regeringens förslag i proposition
+            2008/09:30 Förslag till ändringar i ersättningssystemet för viss
+            mervärdesskatt för kommuner och landsting. Inga motioner har väckts
+            med anledning av propositionen.
+          </p>
+          <p>
+            Propositionen innehåller förslag om lagändringar i syfte att
+            förhindra att det sker en dubbel kompensation för erlagd moms.
+            En kommun som har haft rätt till ersättning för ingående moms
+            ska således justera ersättningen om det senare blir möjligt att
+            återfå den ingående momsen genom jämkning enligt mervärdesskattelagen.
+            Propositionen syftar till att förhindra att systemet med kompensation
+            för mervärdesskatt till kommunerna används på ett sätt som inte
+            varit avsett.
+          </p>
+          <p>
+            Ändringarna föreslås träda i kraft den 1 januari 2009 och tillämpas
+            på överlåtelser och förvärv av investeringsvaror som sker fr.o.m.
+            den 1 maj 2008.
+          </p>
+          <p>
+            Utskottet tillstyrker regeringens förslag.
+          </p>
+          <p xml:id="IDASBQPC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Lagen om ersättning för viss mervärdesskatt för kommuner och
+                  landsting
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till lag om ändring i lagen
+                  (2005:807) om ersättning för viss mervärdesskatt för kommuner
+                  och landsting. Därmed bifaller riksdagen proposition 2008/09:30.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 30 oktober 2008
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Thomas Östros
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Thomas Östros (s),
+            Bertil Kjellberg (m), Anna Lilliehöök (m), Sonia Karlsson (s),
+            Lars Elinderson (m), Roger Tiefensee (c), Carl B Hamilton (fp),
+            Hans Hoff (s), Peder Wachtmeister (m), Agneta Gille (s), Göran
+            Pettersson (m), Ulla Andersson (v), Tommy Ternemar (s), Emma Henriksson
+            (kd), Mikaela Valtersson (mp), Jörgen Hellman (s) och Holger Gustafsson
+            (kd).
+          </p>
+          <p xml:id="IDAUEQPC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAXEQPC" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I proposition 2008/09:30 Förslag till ändringar i ersättningssystemet
+            för viss mervärdesskatt för kommuner och landsting föreslår regeringen
+            ändringar i lagen (2005:807) om ersättning för viss mervärdesskatt
+            för kommuner och landsting (ersättningslagen). En kommun som har
+            haft rätt till ersättning för ingående moms ska justera ersättningen
+            om det senare blir möjligt att återfå den ingående momsen genom
+            jämkning enligt mervärdesskattelagen. Propositionen syftar till
+            att förhindra att systemet med kompensation för mervärdesskatt
+            till kommunerna används på ett sätt som inte varit avsett.
+          </p>
+          <p>
+            Propositionen bygger på en promemoria (Ds 2008:31) som utarbetats
+            inom Regeringskansliet. Promemorian har remissbehandlats.
+          </p>
+          <p>
+            Inga motioner har väckts med anledning av propositionen.
+          </p>
+          <p>
+            I betänkandets
+            <seg rend="grad2">
+              bilaga 1 återges regeringens förslag till beslut och i bilaga
+              2
+            </seg>
+            regeringens lagförslag.
+          </p>
+          <p xml:id="IDAPFQPC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDASFQPC" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Kommuner, landsting och kommunalförbund har enligt en särskild
+            kompensationsordning möjlighet att få ersättning för ingående
+            skatt som inte får dras av enligt mervärdesskattelagen (1994:200)
+            (ML). Regler om detta finns i lagen (2005:807) om ersättning för
+            viss mervärdesskatt för kommuner och landsting, ersättningslagen.
+          </p>
+          <p>
+            I mervärdesskattelagen finns regler om jämkning av ingående skatt.
+            Reglerna går ut på att avdraget för ingående skatt för varor av
+            större värde, inklusive fastigheter, ska justeras om man ändrar
+            användningen eller säljer dem inom en viss tidsperiod från det
+            att de förvärvades. För fastigheter är tidsperioden tio år. Syftet
+            är att avdraget för ingående skatt ska stå i relation till hur
+            varan förbrukas i en verksamhet som medför rätt till avdrag. Enligt
+            bestämmelserna i 8 a kap. ML är det möjligt att överlåta jämkningsrätt
+            och jämkningsskyldighet till en köpare av t.ex. en fastighet.
+          </p>
+          <p>
+            Det har förekommit att kommuner vid försäljning av fastigheter
+            överlåtit rättigheter att jämka ingående skatt i syfte att en
+            förvärvare av fastigheten ska kunna återfå den ingående skatt
+            som kommunen redan tidigare fått ersättning för enligt den särskilda
+            kompensationsordningen. Tillvägagångssättet har således inneburit
+            att staten betalat ut i stort sett samma belopp två gånger.
+          </p>
+          <p>
+            Det har också visat sig förekomma att kommuner låter uppföra
+            byggnader och får kompensation för mervärdesskatt på byggkostnaderna
+            för att sedan omgående överlåta byggnaderna till föreningar eller
+            andra subjekt som inte själva har möjlighet att göra avdrag eller
+            få kompensation för mervärdesskatt.
+          </p>
+          <p>
+            Det kan således sägas finnas ett glapp mellan kommunmomssystemet
+            och mervärdesskattelagen. Kommuner, landsting och kommunalförbund
+            har å ena sidan enligt ersättningslagen möjlighet att få ersättning
+            för ingående skatt som inte får dras av enligt mervärdesskattelagen.
+            Enligt mervärdesskattelagen ska å andra sidan avdraget för ingående
+            skatt för varor av större värde jämkas, om man ändrar användningen
+            eller säljer dem inom en viss tidsperiod från det att de förvärvades.
+            Systemet med kompensation för mervärdesskatt till kommunerna har
+            kommit att användas på ett sätt som inte varit avsett, har och
+            syftet med reglerna förfelats.
+          </p>
+          <p>
+            För att åtgärda detta är det nödvändigt att i första hand ändra
+            ersättningslagen. Skulle det visa sig att den ändring i ersättningslagen
+            som regeringen nu föreslår inte är tillräcklig för att komma till
+            rätta med problemen kan ytterligare åtgärder behöva övervägas,
+            anför regeringen i propositionen.
+          </p>
+          <p xml:id="IDAIGQPC" rend="rubrik2">
+            Lagen om ersättning för viss mervärdesskatt för kommuner och
+            landsting
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAOGQPC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen antar regeringens lagförslag. Därmed bifalls propositionen.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA0GQPC" rend="r2">
+              Propositionen
+            </p>
+            <p xml:id="IDA3GQPC" rend="r3">
+              Allmänt
+            </p>
+            <p>
+              Mot bakgrund av problembeskrivningen, att staten har betalat
+              ut i stort sett samma belopp två gånger, föreslår regeringen en
+              skyldighet för kommuner (och landsting samt kommunalförbund) att
+              justera ersättning för ingående mervärdesskatt vid försäljning
+              av investeringsvaror inom viss tid, samt vid ändrad användning
+              av investeringsvaror (med investeringsvaror avses här i praktiken
+              fastigheter). Justering av ersättning enligt ersättningslagen
+              föreslås motsvara återstående möjligheter eller skyldigheter till
+              jämkningar enligt mervärdesskattelagen. Detta ska också gälla
+              ersättning om en kommun m.fl. har haft rätt till avdrag för ingående
+              skatt vid anskaffningen av en investeringsvara men till följd
+              av ändrad användning ska jämka den ingående skatten.
+            </p>
+            <p>
+              I propositionen föreslås vidare tydligare regler om kommuners
+              rätt till ersättning vid förvärv av investeringsvaror om en kommun
+              övertagit rättigheter och skyldigheter att jämka avdrag för ingående
+              moms. För att kommuner och landsting i en sådan situation inte
+              ska belastas med mer mervärdesskatt än om ombyggnaden utförts
+              under deras innehavstid bör ersättningen enligt ersättningslagen
+              beräknas på samma sätt som jämkningsbeloppet.
+            </p>
+            <p>
+              Dessutom föreslås i propositionen att alla betalningar som sker
+              enligt ersättningslagen i fortsättningen ska ske via skattekontosystemet.
+            </p>
+            <p>
+              Förslagen i propositionen genomförs genom ändringar i lagen (2005:807)
+              om ersättning för viss mervärdesskatt för kommuner och landsting
+              (ersättningslagen).
+            </p>
+            <p xml:id="IDAMHQPC" rend="r3">
+              Ikraftträdande
+            </p>
+            <p>
+              Ändringarna ska träda i kraft den 1 januari 2009. De nya bestämmelserna
+              ska tillämpas på överlåtelser och förvärv av investeringsvaror
+              som sker från och med den 1 maj 2008.
+            </p>
+            <p>
+              Regeringen anför att det är angeläget att det glapp som uppmärksammats
+              mellan mervärdesskattelagen och ersättningslagen och som utnyttjas
+              för att få dubbel kompensation undanröjs snarast möjligt. Utöver
+              statsfinansiella skäl talar också upprätthållandet av tilltron
+              till ersättnings- och skattesystemet för omedelbara åtgärder.
+              Utgångspunkten bör därför vara att de föreslagna ändringarna tillämpas
+              omgående.
+            </p>
+            <p>
+              I svensk rätt är retroaktiv lagstiftning förbjuden endast i fråga
+              om strafflag eller, som huvudregel, uttagande av skatter och statliga
+              avgifter (2 kap. 10 § regeringsformen). Retroaktiva effekter är
+              dock något som brukar undvikas. Först och främst gäller detta
+              emellertid retroaktiva effekter av betungande karaktär som träffar
+              enskilda.
+            </p>
+            <p>
+              De föreslagna ändringarna i ersättningslagen avser inte uttagande
+              av skatter eller statliga avgifter och utgör således inte en sådan
+              lagstiftning som avses i 2 kap. 10 § andra stycket regeringsformen.
+              Förslaget innebär att en skyldighet kan uppkomma för kommunen
+              att till staten betala viss del av vad kommunen haft rätt till
+              i ersättning från staten. En sådan skyldighet är visserligen av
+              betungande karaktär, men den träffar inte enskilda. De invändningar
+              som skulle kunna riktas mot att en sådan skyldighet får retroaktiv
+              verkan gör sig därför inte gällande med samma styrka som om skyldigheten
+              skulle ha gällt för enskilda.
+            </p>
+            <p>
+              Om de nya bestämmelserna skulle tillämpas endast på ersättning
+              för tiden efter den 1 januari 2009 skulle i praktiken möjligheterna
+              till dubbel kompensation i stor utsträckning kunna utnyttjas under
+              lång tid framöver. Det är väl känt bland berörda att ersättningssystemet
+              används för att få dubbel kompensation för ingående mervärdesskatt.
+              För att förhindra åtgärder som syftar till att ersättningar ska
+              undgå att träffas av de nya bestämmelserna bör bestämmelserna
+              tillämpas på överlåtelser som utlöser justeringsskyldighet redan
+              från och med den 1 maj 2008. Vid den tidpunkten hade promemorian,
+              med förslag som i allt väsentligt överensstämmer med regeringens
+              förslag inklusive tillämpandet från den 1 maj 2008 offentliggjorts.
+            </p>
+            <p xml:id="IDA4HQPC" rend="r3">
+              Ekonomiska och administrativa konsekvenser
+            </p>
+            <p>
+              De ekonomiska konsekvenserna av förslagen torde vara att utbetalningarna
+              av ersättning för mervärdesskattekostnader från staten till kommuner,
+              landsting och kommunalförbund kommer att bli lägre än om propositionens
+              förslag inte genomförs.
+            </p>
+            <p>
+              Skatteverket har uppskattat att myndighetens administrativa kostnader
+              med anledning av propositionens förslag ökar med 1,7 miljoner
+              kronor, varav 1,5 miljoner kronor avser IT-utveckling. Dessa kostnader
+              får tas inom befintligt myndighetsanslag.
+            </p>
+            <p xml:id="IDAKIQPC" rend="rubrik2">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet tillstyrker regeringens förslag.
+            </p>
+            <p xml:id="IDAQIQPC" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDATIQPC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAWIQPC" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2008/09:30 Förslag till ändringar i ersättningssystemet
+              för viss mervärdesskatt för kommuner och landsting:
+            </p>
+            <p>
+              Riksdagen antar regeringens förslag till lag om ändring i lagen
+              (2005:807) om ersättning för viss mervärdesskatt för kommuner
+              och landsting.
+            </p>
+            <p xml:id="IDADJQPC" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDAGJQPC" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{6D5AB5BD-C830-4F75-935C-F33704499FD4}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{4881E859-E46C-45E1-9F22-52E864469755}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{36C2ECB9-ADF4-4D69-9CDF-EC892F1BD752}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{7B131AC0-A17D-4588-8623-1D5F5A66CD5B}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{10071FA9-B322-4CF1-B8D3-D1A1BD24E1DB}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{F56375D0-76B7-459D-8510-E47E8090B45E}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{ABE258B5-2FF3-41DD-A0AF-6E5785DED701}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{1EEBEF99-0CC0-4F37-899C-C7C5647F3065}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{6B3E1708-858C-470C-9630-ADED3C80A5C7}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

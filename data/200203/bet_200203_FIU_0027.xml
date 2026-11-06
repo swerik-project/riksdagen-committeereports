@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200203_FIU_0027">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksrevisionen ska från den 1 juli 2003 få ta ut avgifter för den årliga revisionen av affärsverk, statliga myndigheter med hög grad av avgiftsfinansiering samt aktiebolag och stiftelser där Riksrevisionen utser revisorer. Från den 1 januari 2004 ska i princip all årlig revision vid Riksrevisionen vara avgiftsbelagd.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Avgifter vid Riksrevisionen (FiU27)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen. Avslag på motionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ09109</idno>
+              <title>2003-05-22</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">109</biblScope>
+              <note type="display-reference">2003-05-22</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ09109</idno>
+              <title>2003-05-22</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">109</biblScope>
+              <note type="display-reference">2003-05-22</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GQ0K189</idno>
+              <title>2002/03:189</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">189</biblScope>
+              <note type="display-reference">2002/03:189</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2003:264</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2002:1022</idno>
+              <note type="display-reference">2003:265</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GQ0363</idno>
+              <title>Avgifter vid Riksrevisionen</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">63</biblScope>
+              <note type="display-reference">proposition 2002/03:63 Avgifter vid Riksrevisionen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02Fi11</idno>
+              <title>med anledning av prop. 2002/03:63 Avgifter vid Riksrevisionen</title>
+              <title type="sub">av Per Rosengren och Mats Einarsson (V)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">Fi11</biblScope>
+              <note type="display-reference">motion 2002/03:Fi11 med anledning av prop. 2002/03:63 Avgifter vid Riksrevisionen</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2003-05-14">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2003-05-14">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2003-05-07">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2003-05-06">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2003-05-06">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-04-10">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-04-10">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2003-05-22">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2003-05-22">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2003-05-22">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2003-05-22">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2003-05-22">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2003-05-20">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2003-05-20">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Finansutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2002/03:FIU27
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Avgifter vid Riksrevisionen
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I betänkandet behandlar utskottet regeringens
+            förslag till lag om avgifter vid Riksrevisionen och lag om ändring
+            i lagen (2002:1022) om revision av statlig verksamhet m.m. Förslaget
+            till lag om avgifter vid Riksrevisionen innebär att Riksrevisionen
+            under det första verksamhetshalvåret ska få ta ut avgifter för
+            den årliga revisionen av affärsverk, statliga myndigheter med
+            hög grad av avgiftsfinansiering samt aktiebolag och stiftelser
+            där Riksrevisionen utser revisorer. Vidare föreslås en ändring
+            i lagen om revision av statlig verksamhet m.m. som innebär att
+            i princip all årlig revision vid Riksrevisionen fr.o.m. 2004 ska
+            vara avgiftsbelagd. Riksrevisionens inkomster från avgifter och
+            ersättningar ska samtidigt tillföras statskassan och redovisas
+            mot inkomsttitel. Lagen om avgifter vid Riksrevisionen föreslås
+            träda i kraft den 1 juli 2003. Lagändringen i lagen (2002:1022)
+            om revision av statlig verksamhet m.m. föreslås träda i kraft
+            den 1 januari 2004. Lagförslaget fogas som bilaga 2 till betänkandet.
+            I betänkandet behandlar utskottet också en motion som väckts med
+            anledning av propositionen. Utskottet tillstyrker regeringens
+            lagförslag och avstyrker motionen. I betänkandet finns en reservation.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut Avgifter vid Riksrevisionen
+            Riksdagen antar de av regeringen framlagda förslagen till 1. lag
+            om avgifter vid Riksrevisionen 2. lag om ändring i lagen (2002:1022)
+            om revision av statlig verksamhet m.m. Därmed bifaller riksdagen
+            proposition 2002/03:63 och avslår motion 2002/03:Fi11 yrkandena
+            1 och 2. Reservation (v) Stockholm den 6 maj 2003 På finansutskottets
+            vägnar Sven-Erik Österberg Följande ledamöter har deltagit i beslutet:
+            Sven-Erik Österberg (s), Fredrik Reinfeldt (m), Lars Bäckström
+            (v), Agneta Ringman (s), Gunnar Axén (m), Tommy Waidelich (s),
+            Christer Nylander (fp), Hans Hoff (s), Tomas Högström (m), Agneta
+            Gille (s), Bo Bernhardsson (s), Gunnar Nordmark (fp), Tommy Ternemar
+            (s), Jörgen Johansson (c), Per-Olof Svensson (s), Stefan Attefall
+            (kd) och Mikael Johansson (mp).
+          </p>
+          <p>
+            Utskottets överväganden Avgifter vid Riksrevisionen Utskottets
+            förslag i korthet Utskottet tillstyrker regeringens förslag som
+            innebär att Riksrevisionen under det första verksamhetshalvåret
+            ska få ta ut avgifter för den årliga revisionen av affärsverk,
+            statliga myndigheter med hög grad av avgiftsfinansiering samt
+            aktiebolag och stiftelser där Riksrevisionen utser revisorer.
+            Beträffande Riksrevisionens verksamhet fr.o.m. 2004 innebär förslaget
+            att i princip all årlig revision ska avgiftsbeläggas samt att
+            avgifter och ersättningar ska tillföras statskassan och redovisas
+            mot inkomsttitel. Jämför reservation (v). Bakgrund En enig riksdag
+            beslutade i december 2000 att en sammanhållen revisionsmyndighet,
+            Riksrevisionen, med ansvar för den statliga redovisnings- och
+            effektivitetsrevisionen ska inrättas under riksdagen den 1 juli
+            2003. De övergripande bestämmelserna om den statliga revisionen
+            har samlats i lagen (2002:1022) om revision av statlig verksamhet
+            m.m. Enligt denna lag ska myndigheten svara för granskningen av
+            den verksamhet som bedrivs av staten, men även annan än statlig
+            verksamhet kan granskas av Riksrevisionen. Lagen om revision av
+            statlig verksamhet innehåller i sin nuvarande lydelse inte några
+            bestämmelser om hur Riksrevisionens granskningsverksamhet ska
+            finansieras. I förslaget till denna lag (prop. 2001/02:190) framhöll
+            regeringen att det inte förelåg något remitterat utredningsförslag
+            som skulle kunna utgöra underlag för ett förslag om avgiftsbeläggning
+            i enlighet med de av riksdagsstyrelsen fastlagda principerna.
+            Därför återkommer regeringen i den aktuella propositionen med
+            de förslag som krävs för att det ska vara möjligt att avgiftsbelägga
+            den årliga revisionen i enlighet med riksdagsstyrelsens beslut.
+            På förslag av riksdagsstyrelsen föreslogs i budgetpropositionen
+            för 2003 att riksdagen för budgetåret 2003 skulle bemyndiga Riksrevisionen
+            att disponera avgiftsinkomster för årlig revision. I sina överväganden
+            angav riksdagsstyrelsen att av praktiska skäl bör under 2003 samma
+            ordning för finansiering av viss årlig revision tillämpas av Riksrevisionen
+            som av Riksrevisionsverket. Det innebär att Riksrevisionen under
+            det andra halvåret 2003, såsom Riksrevisionsverket under det första
+            halvåret 2003, till viss del finansieras med avgifter som myndigheten
+            disponerar. Riksdagsstyrelsen angav vidare att fr.o.m. 2004 kommer
+            all årlig revision att föreslås vara avgiftsbelagd och redovisas
+            mot statsbudgetens inkomstsida. Riksdagen beslutade i enlighet
+            med riksdagsstyrelsens förslag (bet. 2002/03:FiU2, rskr. 2002/03:85).
+            Någon erinran mot styrelsens överväganden beträffande avgiftsbeläggningen
+            av den årliga revisionen och dispositionen av avgiftsinkomsterna
+            framställdes inte under riksdagsbehandlingen. Propositionen I
+            propositionen föreslås en lagreglering av grundläggande föreskrifter
+            om avgifter vid den nya Riskrevisionen. Regeringen utgår i sina
+            lagförslag från de av riksdagsstyrelsen fastlagda principerna
+            för finansiering av Riksrevisionen, vilka riksdagen ställt sig
+            bakom genom behandlingen av propositionen Riksrevisionen (prop.
+            2001/02:190) och budgetpropositionen för 2003 (prop. 2002/03:1).
+            Propositionen innehåller ett förslag till lag om avgifter vid
+            Riksrevisionen. I enlighet med vad riksdagsstyrelsen förordat
+            föreslår regeringen i detta lagförslag att den årliga revisionen
+            som Riksrevisionen svarar för fr.o.m. den 1 juli 2003 ska vara
+            avgiftsfinansierad beträffande affärsverk och vissa myndigheter
+            vars verksamhet finansieras till minst hälften genom avgifter.
+            Vidare ska Riksrevisionen ta ut avgift för den revision m.m. som
+            sker med stöd av 10 kap. 8 § tredje stycket aktiebolagslagen (1975:1385)
+            och 4 kap. 1 § fjärde stycket stiftelselagen (1994:1220). Avgifterna
+            ska beräknas så att de motsvarar kostnaderna för granskningen
+            och tas ut som en tidtaxa baserad på den faktiska tid och kostnad
+            som belastar varje enskilt ärende. Regeringen bedömer att de av
+            Riksrevisionen tillämpade avgiftsnivåerna för det andra halvåret
+            2003 av praktiska skäl samt ur rättvisesynpunkt bör vara i allt
+            väsentligt desamma som de som Riksrevisionsverket avser att tillämpa
+            under det första halvåret 2003. I lagförslagets text anges de
+            högsta taxor som får användas för insatser av personal i olika
+            lönenivåer. Ersättningar för direkta kostnader för konsulter,
+            resor och liknande ska däremot bestämmas för sig. Lagen om avgifter
+            vid Riksrevisionen föreslås träda i kraft vid samma tidpunkt som
+            myndigheten bildas, alltså den 1 juli 2003. Regeringen föreslår
+            vidare en ändring i lagen (2002:1022) om revision av statlig verksamhet
+            m.m. som innebär att i princip all årlig revision fr.o.m. den
+            1 januari 2004 ska vara avgiftsbelagd. Avgifterna och ersättningarna
+            ska beräknas enligt samma principer som gäller för revision under
+            det andra halvåret 2003. Beträffande avgiftsnivåerna för 2004
+            saknas det i dag underlag för att närmare kunna fastställa storleken
+            på avgiftsbeloppen. Mot denna bakgrund och då riksdagsstyrelsen
+            uttalat som målsättning att nivåerna bör sättas så att de motsvarar
+            kostnaderna för granskningen på några års sikt, föreslår regeringen
+            oförändrade taxor för 2004. I enlighet med vad riksdagsstyrelsen
+            har förordat föreslås dessutom att de avgifter och ersättningar
+            som Riksrevisionen kommer att ta ut för den årliga revisionen
+            efter 2003 ska tillföras statskassan och redovisas mot en inkomsttitel.
+            Regeringen anser det vara lämpligt att dessa direktiv, som är
+            av mer permanent karaktär, regleras i lag. Ändringen i lagen (2002:1022)
+            om revision av statlig verksamhet m.m. föreslås träda i kraft
+            den 1 januari 2004. Lagförslagen beräknas inte medföra några ekonomiska
+            konsekvenser för 2003. Från och med 2004 innebär lagförslaget
+            att den avgiftsbelagda kretsen utvidgas till sådana myndigheter
+            som i dag inte betalar någon avgift för den årliga revisionen.
+            Anslagsbelastningen för dessa myndigheter kan därmed komma att
+            öka i jämförelse med dagens nivå. Regeringen aviserar att den
+            avser att i budgetpropositionen för 2004 återkomma till frågan
+            om kompensation till myndigheterna för det nya avgiftsuttaget.
+            Motionen I motion Fi11 av Per Rosengren och Mats Einarsson (v)
+            framhålls att det underlag som nu föreligger inte är tillräckligt
+            som grund för ett beslut om att i princip all årlig revision vid
+            Riksrevisionen fr.om. 2004 ska avgiftsbeläggas. Regeringens förslag
+            om ändring i lagen (2002:1022) om revision av statlig verksamhet
+            m.m. bör därmed avslås (yrkande 1). Motionärerna anser att frågan
+            om avgifter vid Riksrevisionen är komplicerad - den behöver utredas
+            vidare och därefter, på sedvanligt sätt, remissbehandlas. I avvaktan
+            på ett förslag baserat på en sådan utredning kan det förslag om
+            avgifter som regeringen lagt för andra halvåret 2003 enligt motionärerna
+            tillämpas tills vidare (yrkande 2). Utskottets ställningstagande
+            Utskottet delar regeringens bedömningar i propositionen angående
+            avgifter vid Riksrevisionen. Riksrevisionens årliga granskningar
+            ska enligt propositionens förslag avgiftsbeläggas. Detta medför
+            att avgifterna för den årliga revisionen kommer att fördelas på
+            de objekt som faktiskt kan påverka revisionens omfattning, vilket
+            ger revisionsobjekten ett tydligt incitament att förbättra sin
+            ekonomiska förvaltning. På motsvarande sätt betalar revisionsobjekten
+            på den privata sidan för sin revision, varför det kan framstå
+            som naturligt att även myndigheter ska betala för sin revision.
+            I de fall en myndighet bedriver konkurrensutsatt verksamhet är
+            det särskilt viktigt att myndigheten betalar för revisionen för
+            att inte erhålla kostnadsmässiga fördelar jämfört med konkurrenterna.
+            Enligt propositionen ska avgiftsbeläggningen gälla i princip all
+            årlig revision. Därmed kommer det föreslagna nya avgiftssystemet
+            att, till skillnad från de nuvarande godtyckliga kriterierna för
+            när myndigheten ska betala för revisionen, ge alla revisionsobjekt
+            lika kostnadsvillkor vid extern revision. Med den utvidgade avgiftsbelagda
+            kretsen följer dock kostnadsökningar för vissa myndigheter (de
+            som i dag inte betalar någon revisionsavgift). Som framgår av
+            propositionen avser regeringen att i budgetpropositionen för 2004
+            återkomma till frågan om kompensation till myndigheterna för denna
+            avgift. Avgiftsbeläggningen av den årliga revisionen medför också
+            att riksdagen ska besluta om avgiftsnivåer. I förslaget till lagtexten
+            uppmärksammas att avgiften ska beräknas så att full kostnadstäckning
+            uppnås, samtidigt som de i lagen angivna högsta taxorna ska sättas
+            på en nivå som säkrar full kostnadstäckning på några års sikt.
+            Riksdagen förväntas därför inte behöva ta ställning till nya avgiftsnivåer
+            varje år, utan endast när kostnaderna eller volymen påtagligt
+            förändrats. Utskottet vill i detta sammanhang påpeka att beslut
+            om taxor är att betrakta som föreskrifter enligt regeringsformen.
+            Myndigheter under riksdagen har en begränsad möjlighet att besluta
+            om föreskrifter. En möjlighet vore att - som utredningen Regler
+            för Riksrevisionen (SOU 2001:97) pekat på - i 8 kap. 14 § regeringsformen,
+            på liknande sätt som för Riksbanken, ta in en bestämmelse som
+            bemyndigar Riksrevisionen att meddela föreskrifter inom dess ansvarsområde.
+            En översyn av reglerna i regeringsformen om delegation hinner
+            dock inte genomföras i detta sammanhang. Den möjlighet som återstår
+            är, som föreslås i propositionen, att reglera grunderna för finansiering
+            av den årliga revisionen i lag. Avgifter och ersättningar från
+            den årliga revisionen föreslås vidare tillföras statskassan och
+            redovisas mot inkomsttitel (s.k. bruttoredovisning). Riksrevisionens
+            granskningsverksamhet ska då finansieras med anslagsmedel enligt
+            samma regler som gäller för skattefinansierad verksamhet. Detta
+            stämmer med huvudprincipen för styrning av avgiftsbelagd verksamhet
+            som bedrivs av statliga myndigheter, enligt vilken offentligrättsliga
+            avgifter normalt inte disponeras av myndigheten. Avgiftsinkomsterna
+            från den årliga revisionen anses utgöra offentligrättsliga avgifter
+            mot bakgrund av slutsatser från utredningen om regler för Riksrevisionen,
+            där man konstaterar att avgifter som tas ut för revision av bolag
+            och stiftelser måste ses som en offentligrättsligt reglerad pålaga
+            som drabbar enskilda. Även om statliga myndigheter inte kan anses
+            vara enskilda, slår utredningen fast att alla avgifter av administrativa
+            och praktiska skäl bör behandlas på samma sätt oavsett om de tas
+            ut av stiftelser och bolag eller av myndigheter. Bruttoredovisning
+            av Riksrevisionens avgiftsinkomster gör det möjligt att styra
+            och följa upp revisionsverksamheten på samma sätt som annan anslagsfinansierad
+            verksamhet. Inriktningen och dimensioneringen av Riksrevisionens
+            verksamhet kommer således att ha sin utgångspunkt i det anslag
+            som revisionen tilldelas för sin verksamhet. I och med detta kommer
+            den interna styrningen att kunna ske med enhetliga styrprinciper,
+            vilket är viktigt för att stimulera en samverkan mellan revisionsgrenarna.
+            Med anslagsfinansierad granskningsverksamhet kan myndigheten inte
+            misstänkas för att sätta ekonomiska intressen före syftet med
+            verksamheten, då myndigheten inte disponerar sina avgiftsinkomster.
+            Riksrevisionen kommer således inte att hamna i ett ekonomiskt
+            beroendeförhållande till revisionsobjekten. Enligt vad utskottet
+            i dagsläget kan konstatera leder anslagsfinansieringen av Riksrevisionen
+            till att statens utgifter under utgiftstaket fr.o.m. 2004 blir
+            - allt annat lika - högre jämfört med den beräknade utgiftsnivån
+            vid oförändrad organisation för den statliga revisionen. Samtidigt
+            ökar statsbudgetens inkomster genom att avgifterna för årlig revision
+            redovisas som inkomster på statsbudgeten samt att kretsen avgiftsbetalande
+            objekt ökar. Nettoeffekten bestäms av i vilken utsträckning myndigheterna
+            kompenseras för det nya avgiftsuttaget. I motion Fi11 (v) kritiserar
+            motionärerna, liksom Riksdagens revisorer och Riksdagens ombudsmän
+            i remissyttranden, den promemoria som låg till grund för lagstiftningsärendet.
+            Enligt deras mening borde frågan om avgiftsfinansiering av all
+            årlig revision utredas vidare. Utskottet vill erinra om att promemorian
+            utarbetades inom Finansdepartementet med utgångspunkt i de principer
+            för finansieringen av Riksrevisionen som riksdagsstyrelsen angett
+            och som riksdagen genom behandlingen av propositionen Riksrevisionen
+            och budgetpropositionen för 2003 ställt sig bakom. Utifrån detta
+            ansåg regeringen att förslagen i promemorian borde kunna läggas
+            till grund för lagstiftning i ärendet. I lagrådsremissen som utarbetades
+            efter lagstiftningspromemorian redovisades motiven för riksdagsstyrelsens
+            ställningstagande. Likaså utvecklades de formella förutsättningarna
+            för en myndighet under riksdagen att utfärda föreskrifter, vilket
+            utskottet redovisat tidigare. I lagrådsremissen föreslogs vidare
+            att bestämmelser om avgifter vid Riksrevisionen skulle tas in
+            i en särskild lag. Lagrådet accepterade detta för 2003, men för
+            tiden därefter ansåg Lagrådet att bestämmelserna om avgifter ska
+            sammanföras med övriga bestämmelser om revision i lagen (2002:1022)
+            om revision av statlig verksamhet m.m. Med vissa redaktionella
+            ändringar godtog Lagrådet förslaget i övrigt. Lagrådet har således
+            inte funnit anledning att ta fasta på de synpunkter som Riksdagens
+            revisorer och Riksdagens ombudsmän anfört om att förslaget inte
+            skulle kunna läggas till grund för lagstiftning. Mot bakgrund
+            av det ovan anförda tillstyrker utskottet regeringens förslag
+            och avstyrker motion Fi11 (v) yrkandena 1 och 2.
+          </p>
+          <p>
+            Reservation Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservation. Avgifter vid Riksrevisionen
+            (v) av Lars Bäckström (v). Förslag till riksdagsbeslut Jag anser
+            att förslaget till riksdagsbeslut under punkt 1 borde ha följande
+            lydelse: Riksdagen tillkännager för regeringen som sin mening
+            vad som anförs i reservationen. Därmed bifaller riksdagen motion
+            2002/03:Fi11 yrkandena 1 och 2 och avslår proposition 2002/03:63
+            i motsvarande del. Ställningstagande Jag anser att den lagstiftningspromemoria
+            som låg till grund för lagförslaget i regeringens proposition
+            om avgifter vid Riksrevisionen inte är tillräcklig som grund för
+            ett beslut om att all årlig revision ska avgiftsfinansieras. Promemorian
+            är utarbetad inom Regeringskansliet och har föranlett en väsentlig
+            kritik vid remissbehandlingen av Riksdagens ombudsmän, Riksdagens
+            revisorer samt juridiska fakulteten vid Lunds universitet. Kritiken
+            från dessa remissinstanser avser bl.a. det faktum att frågan om
+            finansieringen av den årliga revisionen inte blivit föremål för
+            en samlad utredning av det slag som normalt ligger till grund
+            för propositioner och riksdagsbeslut. De kritiska remissinstanserna
+            menar vidare att det i promemorian inte anförs några motiv för
+            förslaget utöver en hänvisning till riksdagsstyrelsens beslut.
+            Samtidigt är analysen av förväntade effekter ytterst summarisk,
+            medan en utvärdering av förväntade effekter hos revisionsobjekten
+            helt saknas. Vidare anförs att frågan om en eventuell reform vad
+            gäller finansieringen av den årliga revisionen bör skjutas upp
+            till dess att Riksrevisionen börjat verka och kan delta i lagstiftningsarbetet.
+            Jag menar att det finns goda skäl att noggrant överväga denna
+            kritik. Anslagsfinansieringen av Riksrevisionen leder också till
+            att statens utgifter under utgiftstaket fr.o.m. 2004 blir - allt
+            annat lika - högre jämfört med den beräknade utgiftsnivån vid
+            oförändrad organisation för den statliga revisionen. Samtidigt
+            ökar statsbudgetens inkomster genom att avgifterna för årlig revision
+            redovisas som inkomster på statsbudgeten samt att kretsen avgiftsbetalande
+            objekt ökar. Nettoeffekten bestäms av i vilken utsträckning myndigheterna
+            kompenseras för det nya avgiftsuttaget. Enligt min mening är detta
+            förhållande inte tillfredsställande. Avgifterna kommer att öka
+            den ekonomiska belastningen på revisionsobjekten utan att det
+            är klargjort om de kommer att kompenseras genom ökade anslag.
+            Inte heller är det klargjort om de ökade inkomsterna kommer att
+            leda till en teknisk uppjustering av utrymmet under utgiftstaket.
+            Mot bakgrund av det ovan anförda anser jag att regeringens förslag
+            om avgiftsfinansiering av all årlig revision bör avslås. De konstitutionella
+            aspekterna på en sådan ordning måste genomlysas och beaktas innan
+            man inför ett avgiftssystem av det slag som föreslås i propositionen.
+            Frågan är komplicerad och behöver utredas vidare. Jag förordar
+            därför att en sådan utredning genomförs och därefter, på sedvanligt
+            sätt, remissbehandlas. I avvaktan på ett förslag baserat på denna
+            utredning kan det förslag om avgifter vid Riksrevisionen som regeringen
+            lagt fram för andra halvåret 2003 enligt min mening tillämpas
+            tills vidare. Jag anser att riksdagen som sin mening ska tillkännage
+            för regeringen vad jag har framfört om avgifter vid Riksrevisionen.
+            Detta innebär att riksdagen bifaller motion Fi11 (v) yrkandena
+            1 och 2 och avslår propositionen i motsvarande del.
+          </p>
+          <p>
+            Bilaga 1 Förteckning över behandlade förslag Propositionen Proposition
+            2002/03:63 Avgifter vid Riksrevisionen: Regeringen föreslår att
+            riksdagen antar regeringens förslag till lag om avgifter vid Riksrevisionen,
+            lag om ändring i lagen (2002:1022) om revision av statlig verksamhet
+            m.m. Följdmotion 2002/03:Fi11 av Per Rosengren och Mats Einarsson
+            (v): 1. Riksdagen begär att regeringen avslår förslaget om att
+            i princip all årlig revision fr.o.m. år 2004 skall avgiftsbeläggas.
+            2. Riksdagen tillkännager för regeringen som sin mening att en
+            utredning om det föreslagna avgiftssystemet genomförs i enlighet
+            med vad som anförs i motionen.
+          </p>
+          <p>
+            Bilaga 2 Regeringens lagförslag
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

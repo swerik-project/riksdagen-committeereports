@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_NU_0023">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Den 1 juli 2009 införs en ny reglering av balansansvaret på elmarknaden och motsvarande reglering på naturgasmarknaden. Bakgrunden till beslutet är att riksdagen i juni 2006 sa nej till ett förslag om att upphäva skyldigheten för Svenska kraftnät att se till att elleverantörer har en balansansvarig (se 2005/06:NU18).</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Ändringar av balansansvaret på el- och naturgasmarknaderna (NU23)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW09122</idno>
+              <title>2009-05-20</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">122</biblScope>
+              <note type="display-reference">2009-05-20</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW09122</idno>
+              <title>2009-05-20</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">122</biblScope>
+              <note type="display-reference">2009-05-20</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GW0K268</idno>
+              <title>2008/09:268</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">268</biblScope>
+              <note type="display-reference">2008/09:268</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1997:857</idno>
+              <note type="display-reference">2009:580</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2005:403</idno>
+              <note type="display-reference">2009:581</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GW03168</idno>
+              <title>Vissa ändringar av balansansvaret på el- och naturgasmarknaderna</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">168</biblScope>
+              <note type="display-reference">proposition 2008/09:168 Vissa ändringar av balansansvaret på el- och naturgasmarknaderna</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2009-05-14">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2009-05-14">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-05-12">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-05-11">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-05-08">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-05-05">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-05-05">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-05-05">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-04-21">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-04-21">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2009-05-20">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-05-20">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-05-20">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-05-20">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-05-20">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-05-19">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-05-19">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-05-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-05-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Näringsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:NU23
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Vissa ändringar av balansansvaret på el- och naturgasmarknaderna
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACJR1E" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            Utskottet tillstyrker med vissa redaktionella ändringar de förslag
+            till ändringar i ellagen (1997:857) och naturgaslagen (2005:403)
+            som regeringen lagt fram i proposition 2008/09:168. Lagändringarna,
+            som ska träda i kraft den 1 juli 2009, innebär bl.a. en ny reglering
+            av balansansvaret på elmarknaden och motsvarande reglering på
+            naturgasmarknaden.
+          </p>
+          <p xml:id="IDAJJR1E" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Vissa ändringar av balansansvaret på el- och naturgasmarknaderna
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  1. lag om ändring i ellagen (1997:857), dock med ändringen att
+                  8 kap. 5 § ska ha lydelse enligt utskottets förslag i bilaga 3,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2. lag om ändring i naturgaslagen (2005:403), dock med ändringen
+                  att 7 kap. 9 och 10 §§ ska ha lydelse enligt utskottets förslag
+                  i bilaga 4.
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen delvis proposition 2008/09:168.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 5 maj 2009
+          </p>
+          <p>
+            På näringsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Karin Pilsäter
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Karin Pilsäter (fp),
+            Tomas Eneroth (s), Björn Hamilton (m), Hans Rothenberg (m), Carina
+            Adolfsson Elgestam (s), Maria Plass (m), Alf Eriksson (s), Krister
+            Örnfjäder (s), Marie Weibull Kornias (m), Mikael Oscarsson (kd),
+            Kent Persson (v), Liselott Hagberg (fp), Per Bolund (mp), Cecilie
+            Tenfjord-Toftby (m), Renée Jeryd (s), Åke Sandström (c) och Marie
+            Nordén (s).
+          </p>
+          <p xml:id="IDAUMR1E" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAXMR1E" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I detta betänkande behandlas proposition 2008/09:168 om vissa
+            ändringar av balansansvaret på el- och naturgasmarknaderna. I
+            propositionen föreslås ändringar i ellagen (1997:857) och naturgaslagen
+            (2005:403). Lagförslagen återges i bilaga 2. Lagändringarna föreslås
+            träda i kraft den 1 juli 2009.
+          </p>
+          <p>
+            Inga motioner har väckts med anledning av propositionen.
+          </p>
+          <p xml:id="IDAANR1E" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p xml:id="IDADNR1E" rend="rubrik3">
+            Elmarknaden
+          </p>
+          <p>
+            Regeringen föreslog våren 2006 bl.a. att systemet med anvisad
+            balansansvarig skulle upphöra (prop. 2005/06:158). Utskottet avstyrkte
+            detta förslag (bet. 2005/06:NU18) och föreslog att regeringen
+            skulle återkomma med ett nytt förslag. Riksdagen följde utskottet.
+            En promemoria med förslag till ny reglering av balansansvaret
+            på elmarknaden utarbetades i Näringsdepartementet, och promemorian
+            har remissbehandlats. På grundval av promemorians förslag och
+            inkomna remissynpunkter togs därefter fram ett utkast till lagrådsremiss
+            Vissa ändringar av balansansvaret på el- och naturgasmarknaderna
+            vilket också har remissbehandlats.
+          </p>
+          <p xml:id="IDAJNR1E" rend="rubrik3">
+            Naturgasmarknaden
+          </p>
+          <p>
+            El- och gasmarknadsutredningen, som hade fått i uppdrag av regeringen
+            att följa det pågående arbetet inom EU med att utforma gemensamma
+            regler för den inre marknaden för el och naturgas och att se över
+            behovet av ytterligare förändringar av lagstiftningen på området,
+            avlämnade i december 2003 delbetänkandet El- och naturgasmarknaderna
+            europeisk harmonisering (SOU 2003:113). Utredningen ansåg att
+            det borde övervägas att införa en funktion med anvisad gasleverantör
+            i samband med att den svenska naturgasmarknaden skulle öppnas
+            fullt ut den 1 juli 2007. Affärsverket svenska kraftnät (Svenska
+            kraftnät), som hade haft ett uppdrag av regeringen att lämna förslag
+            om organisering av systemansvaret för naturgas, lämnade i en rapport
+            i april 2005 ett lagförslag om anvisad gasleverantör. Verket anförde
+            bl.a. att erfarenheterna från elmarknaden visar att behov av en
+            anvisad leverantör finns inte bara av hänsyn till konsumentskyddet
+            utan också för att säkra systemets funktion. Regeringen ansåg
+            att frågan behövde analyseras ytterligare. Svenska kraftnät överlämnade
+            i juni 2006, enligt ett uppdrag i 2006 års regleringsbrev, ett
+            omarbetat förslag till anvisad gasleverantör. Detta förslag har
+            remissbehandlats. Regeringen inhämtade i december 2007 yttrande
+            av Lagrådet över ett lagförslag som hade utarbetats på grundval
+            av Svenska kraftnäts förslag och inkomna remissynpunkter. Regeringen
+            beslutade att avvakta med att lägga fram en proposition med det
+            aktuella förslaget. I stället utarbetades inom Näringsdepartementet
+            det utkast till lagrådsremiss som nämnts i föregående avsnitt.
+            Där föreslås att naturgaslagens regler om balansansvar utvidgas
+            och görs likformiga med ellagens motsvarande bestämmelser.
+          </p>
+          <p xml:id="IDAPNR1E" rend="rubrik3">
+            Lagrådet
+          </p>
+          <p>
+            Regeringen inhämtade i februari 2009 Lagrådets yttrande över
+            de aktuella lagförslagen. Regeringen har i huvudsak följt Lagrådets
+            synpunkter.
+          </p>
+          <p xml:id="IDAWNR1E" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDA0NR1E" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen antar regeringens förslag till ändringar i ellagen
+                och naturgaslagen, dock med vissa redaktionella ändringar. Lagändringarna,
+                som ska träda i kraft den 1 juli 2009, innebär bl.a. en ny reglering
+                av balansansvaret på elmarknaden och motsvarande reglering på
+                naturgasmarknaden.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDABOR1E" rend="rubrik2">
+              Propositionen
+            </p>
+            <p xml:id="IDAEOR1E" rend="rubrik3">
+              Elmarknaden
+            </p>
+            <p>
+              Regeringen föreslår när det gäller ellagen att den nuvarande
+              skyldigheten för den systemansvariga myndigheten, dvs. Svenska
+              kraftnät, att anvisa en balansansvarig till en elleverantör som
+              saknar eller kan befaras komma att sakna balansansvar för sina
+              elleveranser ska upphävas. Vidare ska en elanvändare som har en
+              elleverantör som saknar balansansvarig av berörd nätkoncessionshavare
+              anvisas en elleverantör som har en balansansvarig.
+            </p>
+            <p>
+              För att komma till rätta med de problem som kan uppstå om bestämmelsen
+              om anvisad balansansvarig skulle tas bort utan att några kompletterande
+              bestämmelser införs föreslår regeringen att en elleverantör som
+              med kort varsel står utan balansansvar för sina elleveranser ska
+              ha rätt till en tidsfrist för att återställa sitt balansansvar.
+              Tidsfristen ska uppgå till 10 vardagar, dock högst 15 kalenderdagar.
+              Bestämmelsen ska inte tillämpas då balansansvaret kommer att upphöra
+              efter en uppsägningstid som är lika lång som eller längre än tidsfristen
+              eller då elleverantören trätt i likvidation, ställt in betalningarna,
+              försatts i konkurs eller förklarat att man inte avser att återställa
+              sitt balansansvar då tidsfristen omedelbart ska upphöra att löpa.
+              Elleverantörens tidsfrist ska börja löpa dagen efter den dag då
+              leverantören har tagit del av eller haft möjlighet att ta del
+              av en underrättelse från nätkoncessionshavaren om att leverantörens
+              balansansvar har upphört. Om flera nätkoncessionshavare blir skyldiga
+              att avsända en underrättelse till elleverantören ska den underrättelse
+              som elleverantören först tagit del av eller haft möjlighet att
+              ta del av bilda utgångspunkt för tidsfristen.
+            </p>
+            <p>
+              Regeringen föreslår vidare att en elleverantör som står utan
+              balansansvar och har rätt till en tidsfrist för att återställa
+              balansansvaret ska ha rätt att fortsätta sina elleveranser under
+              tidsfristen. Om elleverantören under tidsfristen lyckas återställa
+              sitt balansansvar får leverantören fortsätta att leverera el.
+              Detta ska dock bara gälla i det fall att nätkoncessionshavaren
+              före tidsfristens utgång har mottagit en underrättelse från elleverantören
+              om vem som har åtagit sig balansansvaret för elleverantörens leveranser.
+              Det nya balansansvaret ska börja gälla fr.o.m. dagen efter det
+              att nätkoncessionshavaren har mottagit underrättelsen från elleverantören.
+              Nätkoncessionshavarna ska i sin tur underrätta Svenska kraftnät
+              om det nya balansansvaret. Om en elleverantör inte har återställt
+              sitt balansansvar senast vid tidsfristens utgång ska nätkoncessionshavaren
+              anvisa berörda elanvändare en ny elleverantör.
+            </p>
+            <p>
+              En elleverantör som ställs utan balansansvar ska, enligt regeringens
+              förslag, fortsätta att vara leveransskyldig tills en ny elleverantör
+              tar över leveranserna i de berörda uttagspunkterna. En elanvändare
+              ska betala till en anvisad leverantör för förbrukningen av el
+              under den tid som elanvändaren har saknat leveransavtal med en
+              elleverantör som är leveransskyldig i elanvändarens uttagspunkt.
+              Då en elanvändare anvisas en elleverantör ska nätkoncessionshavaren
+              också informera elanvändaren om vad anvisningen innebär.
+            </p>
+            <p xml:id="IDATOR1E" rend="rubrik3">
+              Naturgasmarknaden
+            </p>
+            <p>
+              När det gäller naturgaslagen föreslår regeringen att en gasförbrukare
+              som saknar avtal med en gasleverantör ska anvisas gasleverantör
+              av berörd ledningsinnehavare. Bestämmelserna om anvisad gasleverantör
+              får samma utformning som motsvarande bestämmelser i ellagen. Om
+              en gasleverantör inte har någon som är balansansvarig för dess
+              leveranser ska de berörda ledningsinnehavarna anvisa gasleverantörens
+              kunder nya gasleverantörer. Naturgaslagens bestämmelser om balansansvaret
+              utformas på i princip samma sätt som motsvarande bestämmelser
+              i ellagen.
+            </p>
+            <p xml:id="IDAZOR1E" rend="rubrik2">
+              Vissa kompletterande uppgifter
+            </p>
+            <p xml:id="IDA2OR1E" rend="rubrik3">
+              Utskottets ställningstagande våren 2006
+            </p>
+            <p>
+              Riksdagen avslog våren 2006, som tidigare redovisats, ett då
+              aktuellt förslag om att upphäva skyldigheten för Svenska kraftnät
+              att tillse att elleverantörer har en balansansvarig (prop. 2005/06:158,
+              bet. 2005/06:NU18). I sitt ställningstagande, som var enhälligt,
+              delade utskottet uppfattningen att funktionen med anvisad balansansvarig
+              borde tas bort då det visat sig att denna i praktiken inte fungerade.
+              Samtidigt hade utskottet uppmärksammat att det förslag till nyordning
+              som lämnades i den då aktuella propositionen skulle kunna få vissa
+              oönskade effekter. Som förslaget var utformat skulle en elleverantör
+              som anlitat ett annat företag för att hantera balansansvaret komma
+              att förlora samtliga sina kunder till en annan elleverantör om
+              det balansansvariga företaget inte kunde fullgöra sina skyldigheter.
+              Utskottet ansåg att detta inte var en rimlig ordning. Vidare riskerade
+              förslaget om det genomfördes i sin då aktuella form att begränsa
+              antalet aktörer inom elhandeln och därigenom bidra till en ökad
+              koncentration.
+            </p>
+            <p>
+              Utskottet menade, mot bakgrund av ovanstående redogörelse, att
+              riksdagen borde begära att regeringen skulle återkomma med ett
+              nytt förslag när det gäller balansansvaret som beaktar det problem
+              som utskottet uppmärksammat. En lösning på det nämnda problemet
+              skulle, enligt utskottet, kunna vara att en elleverantör som saknar
+              balansansvarig ges skälig tid att skaffa sig en ny balansansvarig.
+              Utskottet ansåg dock att frågan borde analyseras närmare och att
+              det i det sammanhanget även kunde finnas skäl att se över om det
+              finns behov av att klargöra vilken information som ska utbytas
+              mellan aktörerna på elmarknaden. I avvaktan på att regeringen
+              skulle återkomma med ett förslag borde de aktuella bestämmelserna
+              kvarstå med sin lydelse.
+            </p>
+            <p xml:id="IDAFPR1E" rend="rubrik3">
+              Redaktionella ändringar
+            </p>
+            <p>
+              Regeringen byter i alla förslag till ändringar i befintliga lagar
+              ut ordet skall till ordet ska i de paragrafer som berörs. Så har
+              också skett i de två här aktuella lagförslagen. I en paragraf
+              (8 kap. 5 § tredje stycket) i förslaget till lag om ändring i
+              ellagen har dock av förbiseende ordet skall inte ändrats.
+            </p>
+            <p>
+              Ett par ändringar bör även göras i förslaget till lag om ändring
+              i naturgaslagen. Det gäller 7 kap. 9 § första stycket och 7 kap.
+              10 §, där den nuvarande lydelsen av förbiseende återgetts med
+              några felaktiga ord. Motsvarande felaktigheter finns även i den
+              föreslagna lydelsen.
+            </p>
+            <p xml:id="IDAOPR1E" rend="rubrik2">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Riksdagen avslog för tre år sedan, på utskottets förslag, ett
+              då aktuellt förslag om att systemet med att Svenska kraftnät ska
+              anvisa en balansansvarig skulle avskaffas. Samtidigt uppmanade
+              riksdagen regeringen att återkomma med ett omarbetat förslag.
+              Så har nu skett genom den här aktuella propositionen.
+            </p>
+            <p>
+              Utskottet konstaterar att det förslag som nu föreligger hanterar
+              det problem som utskottet noterade våren 2006 med det då aktuella
+              förslaget. Detta åstadkoms genom att en elleverantör som med kort
+              varsel står utan balansansvar för sina elleveranser ges rätt till
+              en tidsfrist för att återställa sitt balansansvar. I propositionen
+              föreslås också vissa andra ändringar i ellagen. Därutöver föreslås
+              ändringar i naturgaslagen som innebär att bestämmelserna om balansansvar
+              anpassas till ellagens motsvarande bestämmelser. Utskottet tillstyrker
+              de lagändringar som regeringen föreslår. Dock bör, som redovisats,
+              vissa redaktionella ändringar göras i regeringens lagförslag.
+              De ändringar som utskottet föreslår framgår av bilagorna 3 och
+              4.
+            </p>
+            <p xml:id="IDAXPR1E" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDA0PR1E" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDA3PR1E" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2008/09:168 Vissa ändringar av balansansvaret på
+              el- och naturgasmarknaderna:
+            </p>
+            <p>
+              Riksdagen antar regeringens förslag till
+            </p>
+            <p>
+              1. lag om ändring i ellagen (1997:857),
+            </p>
+            <p>
+              2. lag om ändring i naturgaslagen (2005:403).
+            </p>
+            <p xml:id="IDA1QR1E" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDA4QR1E" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{0FDC4A29-D3B0-41A1-9B81-452767956ADC}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{8D9DA005-9732-4840-AC04-CB8C015C17D1}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{E8B93181-434B-44A0-824B-C9D983162A39}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{30E84106-0C01-4E73-89AA-3647F8DA39C8}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{70161BC8-D2AC-495C-8E96-A2C2466BE036}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{6FAAE3FD-D2F0-4CC8-8639-D784B8BFEABF}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{A871EFA3-EDB8-42BF-9DE4-244DEB99B70E}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{4E030328-81E5-4573-A8F8-18012AE05955}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{5D20F9C9-8E20-441F-B05F-49671A34AB0A}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{A365746F-E8BB-4890-9253-DC5EABFFE706}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{D62B7B8E-B66A-436C-B734-1B6154CAEC55}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{60273D86-222A-4F11-9F20-40A1EFFB8AE0}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{02C2E95F-4C10-4D00-A2FA-D1929AFEF166}.png"/>
+            </p>
+            <p xml:id="IDAJUR1E" rend="Bilaga">
+              Bilaga 3
+            </p>
+            <p xml:id="IDAMUR1E" rend="BilageRubrik">
+              Av utskottet föreslagen ändring i regeringens förslag till lag
+              om ändring i ellagen (1997:857)
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p rend="lagtextregering grad2">
+                    Regeringens förslag
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextutskott grad2">
+                    Utskottets förslag
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell cols="2">
+                  <p rend="lagtextparagraf">
+                    8 kap.
+                  </p>
+                  <p rend="lagtextparagraf">
+                    5 §
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell cols="2">
+                  <p rend="lagtext">
+                    En elleverantör som levererar el till en elanvändare i en viss
+                    uttagspunkt är, oavsett vad som avtalats, skyldig att fortsätta
+                    leverera el tills leveransskyldigheten upphör enligt andra stycket.
+                  </p>
+                  <p rend="lagtextindrag_">
+                    Leveransskyldigheten upphör om elanvändaren slutar att ta ut
+                    el i uttagspunkten, om någon annan elleverantör börjar leverera
+                    el till elanvändaren i uttagspunkten eller om överföringen av
+                    el enligt 11 kap. 3 eller 4 § eller enligt avtal får avbrytas
+                    på grund av att elanvändaren har försummat sina skyldigheter gentemot
+                    elleverantören.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    Den elleverantör som har ett tidsbestämt avtal med elanvändaren
+                    om leverans av el
+                    <seg rend="grad2">
+                      skall
+                    </seg>
+                    tidigast 90 dagar och senast 60 dagar före det att avtalet löper
+                    ut informera elanvändaren om
+                  </p>
+                  <p rend="lagtextindrag_">
+                    1. tidpunkten för avtalets upphörande, och
+                  </p>
+                  <p rend="lagtextindrag_">
+                    2. konsekvenserna av avtalets upphörande.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    Den elleverantör som har ett tidsbestämt avtal med elanvändaren
+                    om leverans av el
+                    <seg rend="grad2">
+                      ska
+                    </seg>
+                    tidigast 90 dagar och senast 60 dagar före det att avtalet löper
+                    ut informera elanvändaren om
+                  </p>
+                  <p rend="lagtextindrag_">
+                    1. tidpunkten för avtalets upphörande, och
+                  </p>
+                  <p rend="lagtextindrag_">
+                    2. konsekvenserna av avtalets upphörande.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell cols="2">
+                  <p rend="lagtextindrag_">
+                    Bestämmelserna i denna paragraf gäller inte de elleverantörer
+                    som avses i 7 §.
+                  </p>
+                  <p rend="lagtextindrag_">
+                    Regeringen eller den myndighet som regeringen bestämmer meddelar
+                    närmare föreskrifter om elleverantörernas informationsskyldighet
+                    enligt tredje stycket.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAPYR1E" rend="Bilaga">
+              Bilaga 4
+            </p>
+            <p xml:id="IDASYR1E" rend="BilageRubrik">
+              Av utskottet föreslagna ändringar i regeringens förslag till
+              lag om ändring i naturgaslagen (2005:403)
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p rend="lagtextregering grad2">
+                    Regeringens förslag
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextutskott grad2">
+                    Utskottets förslag
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell cols="2">
+                  <p rend="lagtextparagraf">
+                    7 kap.
+                  </p>
+                  <p rend="lagtextparagraf">
+                    9 §
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="lagtext">
+                    Den som övertar balansansvaret i en naturgasförbrukares uttagspunkt
+                    får bara göra det från och med den första dagen i en kalendermånad.
+                    Den leverantör som enligt 7 d § är leveransskyldig i uttagspunkten
+                    ska enligt de närmare föreskrifter som regeringen eller, efter
+                    regeringens bemyndigande, tillsynsmyndigheten meddelar underrätta
+                    <seg rend="grad2">
+                      berörd innehavare
+                    </seg>
+                    av naturgasledning om övertagandet senast en månad innan det
+                    ska
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtext">
+                    Den som övertar balansansvaret i en naturgasförbrukares uttagspunkt
+                    får bara göra det från och med den första dagen i en kalendermånad.
+                    Den leverantör som enligt 7 d § är leveransskyldig i uttagspunkten
+                    ska enligt de närmare föreskrifter som regeringen eller, efter
+                    regeringens bemyndigande, tillsynsmyndigheten meddelar underrätta
+                    <seg rend="grad2">
+                      innehavaren av naturgasledning om övertagandet senast en månad
+                      innan det ska.
+                    </seg>
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell cols="2">
+                  <p rend="lagtextindrag_">
+                    Den systemansvariga myndigheten får, om det finns särskilda skäl,
+                    i det enskilda fallet medge att balansansvaret i en uttagspunkt
+                    ska börja gälla tidigare än vad som följer av första stycket.
+                  </p>
+                  <p rend="lagtextindrag_">
+                    En innehavare av naturgasledning som tar emot en anmälan enligt
+                    första stycket ska sända underrättelser i anledning därav enligt
+                    de närmare föreskrifter som meddelas av regeringen eller, efter
+                    regeringens bemyndigande, tillsynsmyndigheten.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell cols="2">
+                  <p rend="lagtextparagraf">
+                    10 §
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="lagtext">
+                    Den som bedriver överföring av naturgas ska enligt de närmare
+                    föreskrifter som meddelas av regeringen eller av
+                    <seg rend="grad2">
+                      hans
+                    </seg>
+                    egna inköp.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtext">
+                    Den som bedriver överföring av naturgas ska enligt de närmare
+                    föreskrifter som meddelas av regeringen eller av den myndighet
+                    som regeringen bestämmer hålla den systemansvariga myndigheten
+                    underrättad om byte av balansansvarig enligt 7 b § första och
+                    tredje styckena, 7 c § första stycket och 9 §. Den som bedriver
+                    överföring av naturgas ska dessutom hålla den systemansvariga
+                    myndigheten underrättad om vem som har åtagit sig balansansvaret
+                    för
+                    <seg rend="grad2">
+                      dennes
+                    </seg>
+                    egna inköp.
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

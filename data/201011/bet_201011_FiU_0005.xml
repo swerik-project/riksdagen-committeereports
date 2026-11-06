@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_201011_FiU_0005">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sa till regeringens förslag i budgetpropositionen om knappt 30,6 miljarder kronor till Sveriges EU-avgift för 2011.</note>
+          <note type="notisrubrik" n="Beslut">Pengar till Sveriges EU-avgift (FiU5)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen. Avslag på motionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <note type="utsknotis" n="Utskottets förslag till beslut">Finansutskottet föreslår att riksdagen säger ja till regeringens förslag i budgetpropositionen om knappt 30,6 miljarder kronor till Sveriges EU-avgift för 2011. Finansutskottet framhåller att restriktivitet ska prägla budgetpolitiken i EU och att EU-budgeten bör reformeras och moderniseras.</note>
+          <note type="utsknotisrubrik" n="Utskottets förslag">Pengar till Sveriges EU-avgift (FiU5)</note>
+          <note type="statustext" n="statustext">Ärendet är avslutat</note>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GY031</idno>
+              <title>Budgetpropositionen för 2011</title>
+              <biblScope unit="riksdag-session">2010/11</biblScope>
+              <biblScope unit="document-number">1</biblScope>
+              <note type="document-name">Proposition</note>
+              <note type="display-reference">proposition 2010/11:1 Budgetpropositionen för 2011</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GY02Fi218</idno>
+              <title>Klimatsäkring av EU:s budget</title>
+              <title type="sub">av Ulf Holm (MP)</title>
+              <biblScope unit="riksdag-session">2010/11</biblScope>
+              <biblScope unit="document-number">Fi218</biblScope>
+              <note type="document-name">Motion</note>
+              <note type="display-reference">motion 2010/11:Fi218 Klimatsäkring av EU:s budget</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GY0939</idno>
+              <title>2010-12-21</title>
+              <biblScope unit="riksdag-session">2010/11</biblScope>
+              <biblScope unit="document-number">39</biblScope>
+              <note type="document-name">Protokoll</note>
+              <note type="display-reference">2010-12-21</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GY0939</idno>
+              <title>2010-12-21</title>
+              <biblScope unit="riksdag-session">2010/11</biblScope>
+              <biblScope unit="document-number">39</biblScope>
+              <note type="document-name">Protokoll</note>
+              <note type="display-reference">2010-12-21</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GY0K143</idno>
+              <title>Riksdagsskrivelse 2010/11:143</title>
+              <biblScope unit="riksdag-session">2010/11</biblScope>
+              <biblScope unit="document-number">143</biblScope>
+              <note type="document-name">Riksdagsskrivelse</note>
+              <note type="display-reference">2010/11:143</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="UBE" subtype="beredning" n="30" when="2010-11-30">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-12-09">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-12-10">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2010-12-13">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-12-13">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-12-17">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-12-20">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2010-12-21">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2010-12-21">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2010-12-21">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-12-21">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2010/11:FiU5
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Utgiftsområde 27 Avgiften till Europeiska unionen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACJMUC" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I detta betänkande behandlas utgiftsområde 27 Avgiften till Europeiska
+            unionen. Finansutskottet framhåller att restriktivitet ska prägla
+            budgetpolitiken i EU och att EU-budgeten bör reformeras och moderniseras.
+            Utskottet tillstyrker regeringens förslag i budgetpropositionen
+            om att anslaget 1:1
+            <seg rend="grad2">
+              Avgiften till Europeiska unionen
+            </seg>
+            ska uppgå till 30 637 317 000 kr 2011. Finansutskottet tillstyrker
+            också att regeringen ska bemyndigas att ikläda staten högst det
+            utgiftsåtagande som följer av den fastställda EU-budgeten för
+            budgetåret 2011.
+          </p>
+          <p>
+            I betänkandet finns en reservation från Miljöpartiet.
+          </p>
+          <p xml:id="IDAQJMUC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Anslag för 2011 inom utgiftsområde 27
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen anvisar anslag för 2011 inom utgiftsområde 27 Avgiften
+                  till Europeiska unionen i enlighet med bilaga 2. Därmed bifaller
+                  riksdagen proposition 2010/11:1 utgiftsområde 27 punkt 2.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Åtaganden som följer av EU-budgeten för 2011
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen bemyndigar regeringen att ikläda staten de åtaganden
+                  som följer av EU-budgeten för 2011 avseende åtagandebemyndiganden.
+                  Därmed bifaller riksdagen proposition 2010/11:1 utgiftsområde
+                  27 punkt 1.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  3.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Klimatsäkring av EU-budgeten
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2010/11:Fi218.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation (MP)
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 9 december 2010
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Anna Kinberg Batra
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Anna Kinberg Batra
+            (M), Thomas Östros (S), Elisabeth Svantesson (M), Jennie Nilsson
+            (S), Göran Pettersson (M), Jörgen Hellman (S), Ann-Charlotte Hammar
+            Johnsson (M), Monica Green (S), Carl B Hamilton (FP), Bo Bernhardsson
+            (S), Annie Johansson (C), Marie Nordén (S), Staffan Anger (M),
+            Mikaela Valtersson (MP), Anders Sellström (KD), Johnny Skalin
+            (SD) och Ulla Andersson (V).
+          </p>
+          <p xml:id="IDA5YNUC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            Riksdagen fastställde den 8 december 2010 ramen för utgiftsområde
+            27 Avgiften till Europeiska unionen till 30 637 317 000 kr (bet.
+            2010/11:FiU1). Utgiftsområdets anslag får enligt 5 kap. 12 § riksdagsordningen
+            inte överskrida den fastlagda ramen för utgiftsområdet.
+          </p>
+          <p>
+            I detta betänkande tar finansutskottet ställning till förslagen
+            i budgetpropositionen om medelsfördelning 2011 och om ett bemyndigande
+            för regeringen att ikläda staten de åtaganden som följer av EU-budgeten
+            för 2011 (prop. 2010/11:1 utg.omr. 27 om avgiften till Europeiska
+            unionen). En motion från allmänna motionstiden behandlas i betänkandet.
+            Förslagen i propositionen och motionen återges i bilaga 1.
+          </p>
+          <p>
+            Finansutskottet höll den 17 juni och den 26 oktober överläggningar
+            med statssekreterare Hans Lindblad om EU:s budget för 2011. Vidare
+            informerade statssekreterare Hans Lindblad utskottet den 25 november
+            i samma fråga.
+          </p>
+          <p>
+            Vid utskottets sammanträde den 11 november informerade Lars Heikensten,
+            ledamot av revisionsrätten, om revisionsrättens rapport om EU:s
+            budget för 2009.
+          </p>
+          <p xml:id="IDAPZNUC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDATZNUC" rend="rubrik2">
+            Anslag och åtagandebemyndiganden för 2011 inom utgiftsområde
+            27
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAZZNUC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen anvisar anslag inom utgiftsområde 27 enligt regeringens
+                förslag samt bemyndigar regeringen att ikläda staten det utgiftsåtagande
+                som följer av EU-budgeten för 2011.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAF0NUC" rend="r3">
+              Propositionen
+            </p>
+            <p xml:id="IDAI0NUC" rend="r4">
+              Mål
+            </p>
+            <p>
+              Riksdagen har beslutat ett mål för den svenska budgetpolitiken
+              i EU (prop. 1994/95:40, bet. 1994/95:FiU5, rskr. 1994/95:67).
+              Enligt beslutet ska Sverige verka för en effektiv och återhållsam
+              budgetpolitik inom EU samt för att belastningen på statsbudgeten
+              ska hanteras i linje med de principer för finansiering av EU-medlemskapet
+              som riksdagen fastslagit. Målet innebär även att Sverige ska verka
+              för en kostnadseffektiv användning av budgetmedel.
+            </p>
+            <p xml:id="IDAO0NUC" rend="r4">
+              Politikens inriktning
+            </p>
+            <p>
+              Den svenska EU-budgetpolitikens grundläggande mål ligger fast.
+              Regeringen avser att verka för en reformering och modernisering
+              av utgiftssidan med omprioriteringar mellan utgiftsrubrikerna
+              och en minskning av den totala utgiftsvolymen. I den mån tillräckliga
+              reformer inte uppnås på EU-budgetens utgiftssida, krävs även fortsättningsvis
+              korrigeringar, rabatter etc. på inkomstsidan. Regeringen anger
+              att vägledande för Sverige inför förhandlingarna om nästa fleråriga
+              budgetram är, liksom för arbetet med budgeten i stort, principerna
+              om subsidiaritet, europeiskt mervärde, proportionalitet och sund
+              ekonomisk förvaltning. Vad gäller EU:s årsbudget 2011 är restriktivitet
+              en utgångspunkt för regeringen vid den fortsatta behandlingen
+              av budgetförslaget.
+            </p>
+            <p xml:id="IDAU0NUC" rend="r4">
+              Resultatredovisning
+            </p>
+            <p>
+              <seg rend="grad2">
+                EU:s budget
+              </seg>
+              :
+            </p>
+            <p>
+              EU-budgeten 2010 innebar en ökning av betalningarna med knappt
+              10 miljarder euro jämfört med 2009. Ökningen är planenlig och
+              beror framför allt på genomförandet av de sjuåriga programmen
+              inom sammanhållningspolitiken. Jämfört med 2009 ökade åtagandena
+              med knappt 5 miljarder euro. Regeringen konstaterar att med hänsyn
+              till Europaparlamentets ståndpunkt om betydligt högre åtagande-
+              och betalningsnivåer bedöms detta som acceptabelt. Återhämtningsplanen
+              finansierades utan att den fleråriga budgetramens totala omslutning
+              ökade.
+            </p>
+            <p>
+              <seg rend="grad2">
+                Sveriges EU-avgift
+              </seg>
+              :
+            </p>
+            <p>
+              Utfallet för den svenska EU-avgiften blev 3 215 miljoner kronor
+              lägre än vad som anvisats för 2009. Avvikelsen förklaras framför
+              allt av att riksdagen anvisade 3 933 miljoner kronor på tilläggsbudget
+              våren 2009 (prop. 2009/10:99, bet. 2009/10:FiU21, rskr. 2009/10:348).
+              Skälen till att anslaget höjdes på tilläggsbudget 2009 var dels
+              en negativ ingående balans från 2008, dels den kraftigt försvagade
+              kronan. En viktig förklaring till de stora skillnaderna mellan
+              utfall och budget är den osäkerhet om den ekonomiska utvecklingen
+              i Sverige och övriga EU som fanns under 2009. Sveriges minskade
+              tullintäkter och en lägre andel av EU:s BNI bidrog också.
+            </p>
+            <p>
+              Utgifterna för 2010 uppgår enligt regeringens prognos till 28
+              142 miljoner kronor, vilket är ca 521 miljoner kronor lägre än
+              beräkningen i 2010 års ekonomiska vårproposition. Sammanlagt beräknas
+              värdet av Sveriges särskilda reduktioner 2011 uppgå till 5 014
+              miljoner kronor.
+            </p>
+            <p xml:id="IDAU1NUC" rend="r4">
+              Förslag till anslag och bemyndigande 2011
+            </p>
+            <p>
+              Anslaget 1:1
+              <seg rend="grad2">
+                Avgiften till Europeiska unionen
+              </seg>
+              används för betalning av Sveriges avgift till Europeiska unionens
+              allmänna budget. Anslaget får även användas för att finansiera
+              eventuella krav från Europeiska kommissionen för dröjsmålsränta
+              på grund av försenade inbetalningar.
+            </p>
+            <p>
+              Regeringen beräknar att Sveriges avgift till EU-budgeten 2011
+              uppgår till 30 637 miljoner kronor, vilket är ca 167 miljoner
+              kronor lägre än beräkningen i 2010 års ekonomiska vårproposition.
+              Inrättandet av EU:s gemensamma utrikestjänst (EEAS) kommer att
+              leda till ökade utgifter på EU-budgeten och därmed till en ökad
+              BNI-baserad avgift för Sverige. Regeringen föreslår därför att
+              anslaget tillförs 11,5 miljoner kronor 2011. För 2012 beräknar
+              regeringen att anslaget ökas med 15,3 och för 2013 och framåt
+              beräknas 15,6 miljoner kronor. Samtidigt föreslår regeringen att
+              anslaget 4:1
+              <seg rend="grad2">
+                Regeringskansliet m.m.
+              </seg>
+              under utgiftsområde 1 Rikets styrelse minskas med motsvarande
+              belopp.
+            </p>
+            <p>
+              Regeringen föreslår att riksdagen för budgetåret 2011 anvisar
+              30 637 317 000 kr till anslaget 1:1
+              <seg rend="grad2">
+                Avgiften till Europeiska unionen
+              </seg>
+              (yrkande 2). Anslagsutvecklingen inom utgiftsområdet redovisas
+              i tabell 1.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 1 Utgiftsutvecklingen inom utgiftsområdet
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell>
+                  <p rend="tabellhuvudvanster">
+                    År
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    Miljoner kronor
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2009 Utfall
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    19 192
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2010 Budget
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    29 680
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2010 Prognos
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    28 142
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2011 Förslag
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    30 637
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2012 Beräknat
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    32 602
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2013 Beräknat
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    33 428
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2014 Beräknat
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    33 888
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Regeringen föreslår vidare att den bemyndigas att ikläda staten
+              högst det utgiftsåtagande som följer av den fastställda EU-budgeten
+              för 2011 avseende åtagandebemyndiganden (yrkande 1).
+            </p>
+            <p>
+              De åtaganden som staten ingår på området avser EU-budgetens åtagandebemyndiganden
+              för innevarande år, vilka kan resultera i betalningar innevarande
+              eller kommande år. I Europeiska kommissionens budgetförslag för
+              2011 föreslås att åtaganden om 142 577 miljoner euro ska ställas
+              till förfogande för 2011. Av dessa åtaganden uppgår Sveriges andel
+              till ca 2,5 %, dvs. ca 3 582 miljoner euro.
+            </p>
+            <p xml:id="IDAYCOUC" rend="r3">
+              Kompletterande uppgifter
+            </p>
+            <p>
+              Förhandlingarna vid Ekofin Budget den 15 november 2010 strandade
+              då Europaparlamentet villkorade en överenskommelse om EU:s årsbudget
+              2011 med ett antal mer långsiktiga budgetrelaterade frågor. Kommissionen
+              presenterade ett nytt budgetförslag den 26 november. Det nya förslaget
+              till årsbudget är i stort sett identiskt med det utkast till överenskommelse
+              som diskuterades vid Ekofin Budget och som rådet och Europaparlamentet
+              i princip var beredda att ställa sig bakom. Förslaget ligger inom
+              utgiftsramarna i den fleråriga budgetramen och innebär besparingar
+              i förhållande till kommissionens första budgetförslag. Vid behandlingen
+              i Coreper hade medlemsstaterna inga invändningar mot förslaget.
+              Ordförandeskapet fortsatte förhandlingen med Europaparlamentet
+              vid trilogmötet i början av december. Budgetförslaget förväntas
+              bli antaget av Europaparlamentet senare i december.
+            </p>
+            <p>
+              En överenskommelse på de nivåer som nu diskuteras skulle, allt
+              annat lika, innebära en minskning av den svenska EU-avgiften med
+              ca 1 miljard kronor jämfört med prognosen i budgetpropositionen.
+              Om systemet med tillfälliga tolftedelar skulle bli nödvändiga
+              skulle det sannolikt inte påverka EU-avgiften sett på helår, förutsatt
+              att en överenskommelse om årsbudgeten nås senare under 2011. Om
+              det inte blir någon överenskommelse om EU:s årsbudget 2011, och
+              systemet med provisoriska tolftedelar skulle bli aktuellt, kommer
+              detta att innebära att kommissionen och rådet kommer att behöva
+              behålla ansvaret för den finansiella och administrativa förvaltningen
+              för Europeiska utrikestjänsten (EEAS) till dess en budget antagits.
+              EU-myndigheterna för finansiell kontroll kan komma att försenas
+              några månader.
+            </p>
+            <p xml:id="IDABDOUC" rend="r3">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              Finansutskottet stöder regeringens inriktning i budgetpolitiken
+              i EU, som innebär budgetrestriktivitet och en inriktning mot att
+              reformera och modernisera EU:s budget. Utskottet tillstyrker regeringens
+              förslag till medelstilldelning. När det gäller åtagandebemyndigandet
+              noterar utskottet att i svenska kronor räknat motsvarar bemyndigandet
+              drygt 33 miljarder kronor (räknat på en kurs på 9,35 kr/euro).
+              Utskottet konstaterar att det inte finns någon information i budgetpropositionen
+              om hur riksdagens bemyndigande ett enskilt år utnyttjats. Inte
+              heller framgår detta i regeringens skrivelse Årsredovisning för
+              staten 2009 (skr. 2009/10:101), eftersom bemyndigandet inte är
+              ett s.k. beställningsbemyndigande. Därför skulle det enligt utskottets
+              mening vara värdefullt med en närmare redovisning i vilken omfattning
+              som bemyndigandet utnyttjats. Med detta tillstyrker utskottet
+              regeringens förslag om åtagandebemyndigande.
+            </p>
+            <p xml:id="IDAIDOUC" rend="rubrik2">
+              Klimatsäkring av EU-budgeten
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAODOUC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen avslår ett motionsyrkande om klimatsäkring av EU-budgeten.
+                Utskottet hänvisar till den pågående översynen av EU-budgeten.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation (MP).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA1DOUC" rend="r3">
+              Motionen
+            </p>
+            <p>
+              I motion Fi218 av Ulf Holm (MP) anförs att regeringen nu i samband
+              med översynen av EU:s budget ska driva kravet på att klimatsäkra
+              EU:s budget, dvs. att budgeten inte ska gå till verksamhet som
+              förstör klimatet. Regeringen måste nu mycket konsekvent ta initiativ
+              till att EU:s budget anpassas så att framtidsfrågor som klimat-
+              och miljöpolitik prioriteras och får en ökad andel av EU:s budgetram.
+              Ett första steg kan vara att tillsätta en särskild arbetsgrupp
+              på EU-nivå för att se över EU:s budget utifrån klimatfrågan och
+              se på hur och inom vilka områden åtgärder krävs för att EU-budgeten
+              ska kunna klimatsäkras. Detta bör enligt motionen ges regeringen
+              till känna.
+            </p>
+            <p xml:id="IDABEOUC" rend="r3">
+              Tidigare behandling i finansutskottet
+            </p>
+            <p>
+              Utskottet har vid flera tillfällen behandlat liknande motionsyrkanden.
+              Vid behandlingen hösten 2008 (bet. 2008/09:FiU5) erinrade utskottet
+              om att det i mars 2008 lämnade ett utlåtande om översynen av EU:s
+              budget (bet. 2007/08:FiU14) där utskottet påtalade behovet av
+              att lägga mer resurser på bl.a. miljö- och klimatfrågor. I sitt
+              svar på finansutskottets utlåtande höll kommissionen med utskottet
+              om att medel bör omfördelas till bl.a. dessa områden. Det är därför,
+              anförde utskottet, rimligt att anta att kommissionen i sitt fortsatta
+              arbete med översynen av EU-budgeten under 2009 kommer att behandla
+              hur klimatfrågan ska beaktas i EU:s budget. Vid ett saksamråd
+              med dåvarande EU-minister Cecilia Malmström, i mars 2008, om översynen
+              av EU-budgeten framhöll utskottet vikten av att bl.a. miljö- och
+              klimatfrågor bör ges ökad prioritet i EU:s budget. Mot den bakgrunden
+              ansåg utskottet inte att någon åtgärd krävdes med anledning av
+              motionen och avstyrkte yrkandet. Miljöpartiet reserverade sig
+              till förmån för motionen. I yttrande 2008/09:FiU7y till utrikesutskottet
+              om kommissionens årliga politiska strategi för 2010 erinrade utskottet
+              återigen om sitt utlåtande om EU:s budgetöversyn. Miljöpartiet
+              framförde i en avvikande mening att miljö- och klimatfrågor måste
+              få en ökad andel av EU:s budgetram. Vid behandlingen hösten 2009
+              (bet. 2009/10:FiU5) avstyrktes motionsyrkandet mot bakgrund av
+              att utskottet förutsåg att frågorna skulle komma att aktualiseras
+              i det fortsatta arbetet med EU:s budgetöversyn. Miljöpartiet reserverade
+              sig till förmån för motionen.
+            </p>
+            <p xml:id="IDAHEOUC" rend="r3">
+              Kompletterande uppgifter
+            </p>
+            <p>
+              Regeringen anför i budgetpropositionen att vägledande för Sverige
+              i budgetöversynen, liksom för arbetet med budgeten i stort, är
+              principerna om subsidiaritet, europeiskt mervärde, proportionalitet
+              och sund ekonomisk förvaltning. År 2008 svarade regeringen på
+              kommissionens öppna konsultation om budgetöversynen. Regeringen
+              anförde i sitt svar att reformer och besparingar behövs på framför
+              allt jordbrukspolitikens och sammanhållningspolitikens områden.
+              Analysen visar vidare att områden där åtgärder kan påvisa europeiskt
+              mervärde är konkurrenskraft, miljö och klimat, rättsliga och inrikes
+              frågor samt externa åtgärder. En inriktning på dessa områden skapar
+              förutsättningar för en modern EU-budget som fokuserar på insatser
+              som ger ett tydligt europeiskt mervärde.
+            </p>
+            <p>
+              Den 19 oktober 2010 presenterade kommissionen sitt meddelande
+              om en översyn av EU:s budget (KOM(2010) 700). I meddelandet framhåller
+              kommissionen att budgeten framför allt bör utformas till ett av
+              de allra viktigaste instrumenten för att förverkliga Europa 2020-strategin
+              för en smart, hållbar tillväxt för alla. Utmaningarna kopplade
+              till hållbar tillväxt vill kommissionen tackla genom att föra
+              in energi- och klimataspekter i forsknings-, sammanhållnings,
+              jordbruks- och landsbygdspolitiken.
+            </p>
+            <p>
+              Den 2 december höll utskottet överläggningar om EU:s långtidsbudget
+              med statsrådet Birgitta Ohlsson.
+            </p>
+            <p xml:id="IDATEOUC" rend="r3">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              Som framgår ovan har finansutskottet redan tidigare framhållit
+              vikten av att bl.a. miljö- och klimatfrågor bör ges ökad prioritet
+              i EU:s budget. Utskottet förutser att frågorna kommer att aktualiseras
+              i det fortsatta arbetet med EU:s budgetöversyn, men anser inte
+              att någon åtgärd bör vidtas med anledning av motionen.
+            </p>
+            <p>
+              Utskottet avstyrker därmed motion Fi218 (MP).
+            </p>
+            <p xml:id="IDA3EOUC" rend="AvsnittsRubrik">
+              Reservation
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservation.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAEFOUC">
+                  <p rend="reservation">
+                    Klimatsäkring av EU-budgeten, punkt 3 (MP)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="reservanter">
+                    av Mikaela Valtersson (MP).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAFGOUC" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Jag anser att förslaget till riksdagsbeslut under punkt 3 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen. Därmed bifaller riksdagen motion 2010/11:Fi218.
+            </p>
+            <p xml:id="IDAMGOUC" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Regeringen bör i samband med översynen av EU:s budget driva kravet
+              på att klimatsäkra EU:s budget, dvs. säkerställa att budgeten
+              inte ska gå till verksamhet som förstör klimatet. Regeringen måste
+              nu mycket konsekvent ta initiativ till att EU:s budget anpassas
+              så att framtidsfrågor som klimat- och miljöpolitik prioriteras
+              och får en ökad andel av EU:s budgetram. Det betyder t.ex. mindre
+              ekonomiska resurser till motorvägar och flygplatser och mer pengar
+              till järnvägar. Ett första steg kan vara att tillsätta en särskild
+              arbetsgrupp på EU-nivå för att se över EU:s budget utifrån klimatfrågan,
+              som ett led i den påbörjade översynen, och se på hur och inom
+              vilka områden åtgärder krävs för att EU-budgeten ska kunna klimatsäkras.
+              Det borde ligga både i Sveriges och i EU:s intresse att försöka
+              vrida budgeten till en utveckling som inte påskyndar klimatförändringarna.
+              Detta bör ges regeringen till känna. Därmed bifaller riksdagen
+              motion 2010/11:Fi218 av Ulf Holm (MP).
+            </p>
+            <p xml:id="IDASGOUC" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAVGOUC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAYGOUC" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2010/11:1 Budgetpropositionen för 2011 utgiftsområde
+              27:
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen bemyndigar regeringen att ikläda staten de åtaganden
+                    som följer av EU-budgeten för budgetåret 2011 avseende åtagandebemyndiganden
+                    (avsnitt 3).
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen anvisar för budgetåret 2011 anslag under utgiftsområde
+                    27 Avgiften till Europeiska unionen enligt följande uppställning:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <table>
+              <row>
+                <cell cols="2">
+                  <p rend="tabellhuvudvanster">
+                    Anslag (ramanslag)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    Tkr
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    1:1
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Avgiften till Europeiska unionen
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    30 637 317
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="tabellkropptext grad1">
+                    Summa för utgiftsområdet
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad1">
+                    30 637 317
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAIMOUC" rend="rubrik2">
+              Motion från allmänna motionstiden hösten 2010
+            </p>
+            <p rend="behandlatdokument_">
+              2010/11:Fi218 av Ulf Holm (MP):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om att Sverige, i samband med den översyn av
+              EU-budgeten som nu påbörjats, ska arbeta för att EU:s budget ska
+              klimatsäkras.
+            </p>
+            <p xml:id="IDAVMOUC" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDAYMOUC" rend="BilageRubrik">
+              Utskottets anslagsförslag
+            </p>
+            <p xml:id="IDA1MOUC" rend="r2">
+              Utskottets förslag till anslag för 2011 under utgiftsområde 27
+              Avgiften till Europeiska unionen
+            </p>
+            <p>
+              Utskottets förslag överensstämmer med regeringens förslag till
+              anslagsfördelning.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellunderrubrik grad2">
+              Tusental kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell cols="2">
+                  <p rend="tabellhuvudvanster">
+                    Anslag (ramanslag)
+                  </p>
+                </cell>
+                <cell cols="2">
+                  <p rend="tabellhuvudhoger">
+                    Utskottets förslag
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    1:1
+                  </p>
+                </cell>
+                <cell cols="2">
+                  <p rend="tabellkropptext">
+                    Avgiften till Europeiska unionen
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    30 637 317
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell cols="2">
+                  <p rend="tabellkropptext grad1">
+                    Summa för utgiftsområdet
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad1">
+                    30 637 317
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

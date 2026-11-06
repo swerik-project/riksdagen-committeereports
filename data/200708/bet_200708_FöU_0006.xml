@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200708_FöU_0006">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sade nej till motioner från allmänna motionstiden 2007 om kärnteknisk säkerhet.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Nej till motioner om kärnteknisk säkerhet (FöU6)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Avslag på samtliga motioner.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GV0968</idno>
+              <title>2008-02-20</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">68</biblScope>
+              <note type="display-reference">2008-02-20</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GV0968</idno>
+              <title>2008-02-20</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">68</biblScope>
+              <note type="display-reference">2008-02-20</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GV02Fö245</idno>
+              <title>Bergets säkerhet vid slutförvaring</title>
+              <title type="sub">av Agneta Gille och Thomas Östros (S)</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">Fö245</biblScope>
+              <note type="display-reference">motion 2007/08:Fö245 Bergets säkerhet vid slutförvaring</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GV02Fö252</idno>
+              <title>Kärnavfallslagring i djupa borrhål</title>
+              <title type="sub">av Per Bolund (MP)</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">Fö252</biblScope>
+              <note type="display-reference">motion 2007/08:Fö252 Kärnavfallslagring i djupa borrhål</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GV02Fö263</idno>
+              <title>Upparbetningsanläggningen Sellafield</title>
+              <title type="sub">av Tina Ehn och Gunvor G Ericson (MP)</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">Fö263</biblScope>
+              <note type="display-reference">motion 2007/08:Fö263 Upparbetningsanläggningen Sellafield</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2008-02-18">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2008-02-18">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-02-12">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-02-12">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-02-12">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-02-12">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-02-12">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-01-29">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-01-29">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-01-22">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-02-20">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-02-20">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-02-20">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-02-20">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-02-20">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-02-19">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-02-19">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-02-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-02-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Försvarsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2007/08:FöU6
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Kärnteknisk säkerhet
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDAG01EF" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I detta betänkande behandlar utskottet fem motionsyrkanden från
+            den allmänna motionstiden 2007 som rör kärnteknisk verksamhet.
+            Samtliga motioner avstyrks av utskottet.
+          </p>
+          <p>
+            I ärendet finns reservationer från företrädare för Vänsterpartiet
+            och Miljöpartiet.
+          </p>
+          <p xml:id="IDAF11EF" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Plats för slutförvaring
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2007/08:Fö245.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Djupa borrhål
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2007/08:Fö252 yrkandena 1 och 2.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 1 (v, mp)
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  3.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Upparbetning av kärnavfall
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2007/08:Fö263 yrkandena 1 och 2.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 2 (v, mp)
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 12 februari 2008
+          </p>
+          <p>
+            På försvarsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Anders Karlsson
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Anders Karlsson (s),
+            Rolf Gunnarsson (m), Karin Enström (m), Peter Jonsson (s), Nils
+            Oskar Nilsson (m), Staffan Danielsson (c), Michael Hagberg (s),
+            Allan Widman (fp), Mats Berglind (s), Isabella Jernbeck (m), Åsa
+            Lindestam (s), Else-Marie Lindgren (kd), Rolf K Nilsson (m), Gunilla
+            Wahlén (v), Peter Rådberg (mp), Peter Jeppsson (s) och Annelie
+            Enochson (kd).
+          </p>
+          <p xml:id="IDAPJLPY" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            I detta betänkande behandlar utskottet fem motionsyrkanden från
+            den allmänna motionstiden 2007 som rör kärnteknisk verksamhet.
+            De behandlade motionerna återfinns i bilagan.
+          </p>
+          <p>
+            Under ärendets beredning har representanter från Kärnavfallsrådet,
+            Miljöorganisationernas kärnavfallsgranskning (MKG) och Svensk
+            Kärnbränslehantering AB (SKB) genomfört presentationer samt svarat
+            på frågor inför utskottet.
+          </p>
+          <p xml:id="IDAZJLPY" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDA3JLPY" rend="rubrik2">
+            Plats för slutförvaring
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDADKLPY" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen avslår motion 2007/08:Fö245 om att beakta bergets säkerhet
+                när plats för slutförvaring bestäms.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAPKLPY" rend="r3">
+              Motionen
+            </p>
+            <p>
+              I motion 2007/08:Fö245 av Agneta Gille och Thomas Östros (s)
+              begärs ett tillkännagivande om vikten av att beakta bergets säkerhet
+              när plats för slutförvaring bestäms. Motionärerna anför att när
+              det gäller placering av ett framtida slutförvar av använt kärnbränsle
+              måste bergets kvalitet vara avgörande. Platsundersökningen i Forsmark
+              har visat på ett extremt bra berg som är torrt och har mycket
+              få sprickor. Ett sprickfattigt och torrt berg ger enligt experterna
+              bra förutsättningar för ett slutförvar. Ett torrt berg är mycket
+              viktigt när det handlar om ett slutförvar eftersom det finns risk
+              att vatten för med sig radioaktiva partiklar vid ett eventuellt
+              läckage.
+            </p>
+            <p>
+              Vidare anför motionärerna att ett mycket bra berg i kombination
+              med erfarenhet av både underjordisk transport och hantering av
+              radioaktivt material samt övrig kärnteknisk verksamhet är viktiga
+              faktorer att beakta vid den slutgiltiga placeringen av slutförvaringen
+              av kärnavfall.
+            </p>
+            <p xml:id="IDAYKLPY" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Enligt 10 § 2 kärntekniklagen (1984:3) är de som har tillstånd
+              att bedriva kärnteknisk verksamhet ansvariga för att de åtgärder
+              vidtas som behövs för att på ett säkert sätt hantera och slutförvara
+              uppkommet kärnavfall. För att lösa bl.a. denna uppgift har reaktorägarna
+              bildat ett gemensamt ägt företag, Svensk Kärnbränslehantering
+              AB (SKB). SKB genomför platsundersökningar i Oskarshamns och Östhammars
+              kommuner med bl.a. provborrningar för att studera bergets beskaffenhet.
+              Resultatet av dessa undersökningar kommer att ligga till grund
+              för den ansökan SKB avser lämna under 2009 om metod och plats
+              för slutförvaret av det använda kärnbränslet. Ansökan kommer att
+              lämnas enligt kärntekniklagen och enligt miljöbalken och behandlas
+              av den nya strålskydds- och kärnsäkerhetsmyndigheten respektive
+              av miljödomstolen innan frågan överlämnas till regeringen för
+              avgörande respektive prövning av tillåtlighet.
+            </p>
+            <p>
+              Utskottet vill framhålla att det är viktigt att beslut om plats
+              för slutförvaring följer den process som är stadgat i lagen och
+              konstaterar samtidigt att platsundersökningar pågår för att finna
+              en lämplig plats för detta. Med det ovan anförda anser utskottet
+              att det inte finns någon anledning för riksdagen att vidta någon
+              åtgärd. Därmed avstyrks motion 2007/08:Fö245.
+            </p>
+            <p xml:id="IDACLLPY" rend="rubrik2">
+              Djupa borrhål
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAILLPY" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen avslår motion 2007/08:Fö252 yrkandena 1 och 2 om slutförvaringsmetoden
+                djupa borrhål.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation 1 (v, mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAVLLPY" rend="r3">
+              Motionen
+            </p>
+            <p>
+              I motion 2007/08:Fö252 yrkandena 1 och 2 av Per Bolund (mp) begärs
+              tillkännagivanden om att i regleringsbrevet till Statens kärnkraftinspektion
+              (SKI) ge myndigheten i uppdrag att genomföra provborrning av djupa
+              borrhål samt att de olika metoderna för kärnavfallslagring måste
+              jämföras på ett relevant sätt. Motionären anför att SKB under
+              1990-talet och 2000-talet har fått upprepade anmodanden av myndigheterna,
+              SKI och Statens strålskyddsinstitut (SSI) samt av regeringen att
+              undersöka den alternativa metoden djupa borrhål ytterligare. Trots
+              detta, anför motionären, har inte några relevanta fysiska försök
+              gjorts där man i ett uppborrat hål mäter vilka förhållanden som
+              råder mellan 2 och 5 km under jordytan. Under de år som gått har
+              en omfattande teknikutveckling skett när det gäller möjligheter
+              att borra så djupa hål som krävs.
+            </p>
+            <p>
+              För att kraven, i bl.a. miljöbalken, om att olika alternativ
+              ska utvärderas på ett likvärdigt sätt ska uppfyllas måste en provborrning
+              av ett djupt borrhål genomföras på en relevant plats i Sverige.
+              Antingen kan SKI och SSI själva genomföra en provborrning eller
+              så kan de avkräva av SKB att det gör provborrningen och visar
+              på relevanta jämförelsematerial för de olika metoderna för lagring
+              av kärnavfall. Att gå till beslut om ett lager för högaktivt avfall
+              som måste lagras i 100 000 år utan att ha utrett olika lagringsmetoder
+              på ett jämförbart sätt är att allvarligt svika vårt ansvar gentemot
+              kommande generationer.
+            </p>
+            <p xml:id="IDA4LLPY" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Enligt 11 § kärntekniklagen (1984:3) ska den som har tillstånd
+              att inneha eller driva en kärnkraftsreaktor svara för att den
+              allsidiga forsknings- och utvecklingsverksamhet bedrivs som behövs
+              för att på ett säkert sätt hantera och slutförvara i verksamheten
+              uppkommet kärnavfall eller däri uppkommet kärnämne som inte används
+              på nytt, och att på ett säkert sätt avveckla och riva anläggningar
+              i vilka verksamheten inte längre ska bedrivas. Enligt 12 § ska
+              den som har tillstånd att inneha eller driva en kärnkraftsreaktor
+              i samråd med övriga reaktorinnehavare upprätta eller låta upprätta
+              ett program för den allsidiga forsknings- och utvecklingsverksamhet
+              och de övriga åtgärder som anges ovan. Programmet ska dels innehålla
+              en översikt över samtliga åtgärder som kan bli behövliga, dels
+              närmare ange de åtgärder som avses bli vidtagna inom en tidrymd
+              om minst sex år. Programmet ska vart tredje år insändas till regeringen
+              eller den myndighet som regeringen bestämmer för att granskas
+              och utvärderas. I samband med granskningen och utvärderingen får
+              sådana villkor ställas upp som behövs avseende den fortsatta forsknings-
+              och utvecklingsverksamheten.
+            </p>
+            <p>
+              I september 2007 lämnade SKB det s.k. FUD-programmet 2007 till
+              SKI. Programmet ska nu granskas av SKI och SSI och har även skickats
+              ut på en bred remiss. SKI kommer senast den 30 juni 2008 att lämna
+              FUD-programmet med eget yttrande till regeringen för ställningstagande
+              om industrin uppfyller kraven i kärntekniklagen.
+            </p>
+            <p>
+              Huvudalternativet för Sverige är för närvarande att slutförvara
+              det använda kärnbränslet i berggrunden. Något beslut om detta
+              har dock ännu inte fattats. SKB arbetar efter en speciell metod
+              för slutförvaring av det använda kärnbränslet. Metoden kallas
+              för KBS-3 och innebär att det använda kärnbränslet först kapslas
+              in i koppar. Kopparkapslarna ska sedan deponeras i urberget på
+              ca 500 meters djup, inbäddade i bentonitlera. När deponeringen
+              är klar försluts tunnlar och bergrum.
+            </p>
+            <p>
+              När SKB:s kommande ansökningar om tillstånd till ett slutförvar
+              prövas av regeringen respektive miljödomstolen aktualiseras frågor
+              om val av plats och metod. En viktig del av denna process är den
+              miljökonsekvensbeskrivning som det åligger SKB att utföra och
+              i vilken t.ex. olika alternativa lösningar ska presenteras. För
+              det fall det finns brister kan SKB åläggas att komplettera miljökonsekvensbeskrivningen.
+              Vid prövningen av ansökan läggs miljökonsekvensbeskrivningen och
+              övrig utredning till grund för beslut i tillståndsfrågan. Därvid
+              görs en avvägning som bl.a. inkluderar krav på bästa möjliga teknik
+              och minsta möjliga intrång. Om utredningsmaterialet anses för
+              magert för att denna avvägning ska kunna göras på ett tillfredsställande
+              sätt, faller detta tillbaka på sökanden.
+            </p>
+            <p>
+              Utskottet har tidigare i betänkande 2006/07:FöU5 behandlat en
+              liknande motion. Utskottet anförde då bl.a. att det är kärnkraftsindustrin
+              som har det odelade ansvaret för att utreda olika slutförvaringsmetoder.
+              SKI:s, SSI:s och miljödomstolens roll är att granska och uttala
+              sig om det förslag till metod som kommer att föreslås och i det
+              sammanhanget vilka andra alternativ som övervägts. Utskottet står
+              fast vid denna bedömning och utgår från att de granskande myndigheterna
+              vid prövningen av kommande ansökningar om tillstånd till ett slutförvar
+              noga följer bestämmelserna i kärntekniklagen och miljöbalken.
+              Med det anförda avstyrks motion 2007/08:Fö252 yrkandena 1 och
+              2.
+            </p>
+            <p xml:id="IDARMLPY" rend="rubrik2">
+              Upparbetning av kärnavfall
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAXMLPY" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen avslår motion 2007/08:Fö263 yrkandena 1 och 2 om upparbetning
+                av kärnavfall respektive om anläggningen i Sellafield.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation 2 (v, mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAENLPY" rend="r3">
+              Motionen
+            </p>
+            <p>
+              I motion 2007/08:Fö263 yrkande 1 av Tina Ehn och Gunvor G Ericson
+              (mp) begärs att regeringen ska se över lagstiftningen avseende
+              kärnteknisk verksamhet så att utförsel av utbränt kärnbränsle
+              för upparbetning förbjuds. Motionärerna anför att det är mycket
+              utmanande när svenska kärnkraftverksbolag nu har ansökt och fått
+              lov att skicka utbränt kärnbränsle för upparbetning i Sellafield.
+              Bränslet är av en ovanlig typ som använts i forskningssammanhang.
+              Motionärerna anför vidare att kärnkraftsbolagen hävdar att en
+              upparbetning krävs för en säker förvaring. Sverige har tidigare
+              deklarerat att något svenskt använt kärnbränsle inte ska upparbetas
+              eftersom slutprodukten är plutonium, något som lämpar sig mycket
+              väl för tillverkning av kärnvapen. Dessutom är det ett faktum
+              att radioaktivt teknetium från Sellafield finns och anrikas i
+              växter och djur på den svenska och norska kusten. Sverige har
+              tidigare agerat mot dessa utsläpp. Det svenska ställningstagandet
+              borde vara att man säger nej till kärnkraftsbolagens ansökan om
+              att skicka utbränt kärnbränsle till Sellafield.
+            </p>
+            <p>
+              Det finns mot denna bakgrund anledning att i lagen om kärnteknisk
+              verksamhet införa ett förbud mot utförsel av utbränt kärnbränsle
+              för upparbetning.
+            </p>
+            <p>
+              I yrkande 2 i samma motion begärs ett tillkännagivande om att
+              Sverige måste arbeta för att anläggningen i Sellafield omedelbart
+              stängs och att saneringsarbetet inleds. I motionen anförs att
+              då det inte går att se konsekvenserna av utsläppen från upparbetningsanläggningen
+              i Sellafield måste försiktighetsprincipen gälla.
+            </p>
+            <p xml:id="IDAQNLPY" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              År 1954 startades Sveriges första reaktor, R1. R1-bränslet är
+              ett kärnbränsle om totalt 4,8 ton som kommer från denna forskningsreaktor
+              vid Kungl. Tekniska högskolan (KTH). Detta bränsle är ett arv
+              från 1950- och 1960-talen och det dåvarande svenska kärntekniska
+              forskningsprogram som AB Atomenergi bedrev tillsammans med Försvarets
+              forskningsanstalt (FOA) och KTH. Det svenska avfallsprogrammet
+              har inte kunnat ta hand om R1-bränslet i sin nuvarande form. Det
+              är heller ingen hållbar och långsiktig lösning att fortsätta mellanlagra
+              avfallet. SKI har i ett yttrande till regeringen påtalat det olämpliga
+              i en fortsatt lagring av bränslet. Regeringskansliet har tidigare
+              undersökt olika tänkbara möjligheter att slutligt ta om hand detta
+              historiska arv och kommit fram till att den enda säkerhetsmässigt
+              acceptabla lösningen är att skicka materialet för bearbetning
+              till Sellafield. AB Svafo, som ägs av Studsvik Nuclear AB, har
+              åtagit sig att omhänderta detta avfall åt staten. Under senhösten
+              2007 fraktades R1-bränslet till Sellafield för upparbetning. Motsvarande
+              mängd avfall kommer att återföras till Sverige för slutförvar.
+            </p>
+            <p>
+              Den svenska hållningen har sedan många år tillbaka varit att
+              vi inte ska upparbeta svenskt använt kärnbränsle samt att vi ska
+              ta hand om och slutförvara vårt eget kärnavfall. Dessa principer
+              har riksdagen vid flertalet tillfällen gett uttryck för och dessa
+              principer ligger fast. SOU 1983:9 Lagstiftning på kärnenergiområdet
+              behandlade denna fråga. Kommittén framförde flera olika skäl till
+              varför slutförvar utan upparbetning förordas, framför allt icke-spridningsskäl.
+              Dock motsatte sig kommittén att detta ska lagregleras. Frågan
+              har varit uppe till diskussion vid flertalet tillfällen sedan
+              dess men slutsatsen har varit att upparbetning inte bör förbjudas
+              i lag eftersom det kan finnas tillfällen då det finns skäl att
+              upparbeta använt kärnbränsle. Ett exempel på detta är det ovan
+              nämnda bränslet från den nedlagda R1-reaktorn.
+            </p>
+            <p>
+              Utskottet är av den uppfattningen att den svenska hållningen
+              även fortsättningsvis bör vara att svenskt använt kärnbränsle
+              ska tas om hand och slutförvaras i Sverige. Utskottet anser dock
+              inte att en lagreglering är nödvändig, särskilt mot bakgrund av
+              att det har visat sig att det i specifika fall kan finnas skäl
+              att kringgå denna princip. Utskottet noterar också att miljöministern
+              i en interpellationsdebatt den 2 oktober 2007 informerade om att
+              regeringen bett SKI och SSI att komma med en redovisning över
+              allt det radioaktiva material som finns i landet som på ett eller
+              annat sätt inte passar in i det svenska avfallsprogrammet och
+              därför kan komma att kräva särskild behandling. Mot bakgrund av
+              det ovan anförda avstyrks motion 2007/08:Fö263 yrkande 1.
+            </p>
+            <p>
+              Frågan om utsläppen från anläggningarna i Sellafield har engagerat
+              många länder under flera år. Frågan har diskuterats bl.a. inom
+              Osparkonventionen (konventionen för skydd av den marina miljön
+              i Nordostatlanten). I dessa sammanhang har Sverige och andra länder
+              vid flera tillfällen aktivt verkat för att utsläppen från Sellafield
+              ska minskas. Det svenska engagemanget inom Osparkonventionen fortsätter
+              och speciell bevakning görs av anläggningarna i Sellafield. Under
+              1990-talet rådde en speciell situation eftersom Sellafield då
+              tog hand om en stor mängd lagrat avfall och i samband med det
+              kraftigt ökade utsläppen av det radioaktiva ämnet teknetium-99.
+              Det väckte kraftiga reaktioner framför allt i Irland, Norge och
+              Sverige. Genom gemensamma insatser på ministernivå infördes en
+              reningsmetod som innebar att dessa utsläpp reducerades med ca
+              90 %.
+            </p>
+            <p>
+              Utskottet noterar att verksamheten i Sellafield följs inom ramen
+              för Osparkonventionen och utgår från att regeringen även fortsättningsvis
+              följer utvecklingen. Samtidigt vill utskottet framhålla att ansvaret
+              för säkerheten vid dessa anläggningar vilar helt på anläggningsägarna
+              och de ansvariga nationella myndigheterna. Med det anförda avstyrks
+              motion 2007/08:Fö263 yrkande 2.
+            </p>
+            <p xml:id="IDADOLPY" rend="AvsnittsRubrik">
+              Reservationer
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservationer. I rubriken anges vilken
+              punkt i utskottets förslag till riksdagsbeslut som behandlas i
+              avsnittet.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAKOLPY">
+                  <p rend="reservation">
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Djupa borrhål, punkt 2 (v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Gunilla Wahlén (v) och Peter Rådberg (mp).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAGQLPY" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 2 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen. Därmed bifaller riksdagen motion 2007/08:Fö252
+              yrkandena 1 och 2.
+            </p>
+            <p xml:id="IDANQLPY" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Svensk Kärnbränslehantering AB (SKB) har under 1990-talet och
+              2000-talet fått upprepade anmodanden av myndigheterna Statens
+              kärnkraftinspektion (SKI) och Statens strålskyddsinstitut (SSI)
+              samt av regeringen att undersöka den alternativa metoden djupa
+              borrhål ytterligare. Trots detta har inte några relevanta fysiska
+              försök gjorts där man i ett uppborrat hål mäter vilka förhållanden
+              som råder mellan 2 och 5 km under jordytan. Under de år som gått
+              har en omfattande teknikutveckling skett när det gäller möjligheter
+              att borra så djupa hål som krävs. För att kraven, i bl.a. miljöbalken,
+              om att olika alternativ ska utvärderas på ett likvärdigt sätt
+              ska uppfyllas måste en provborrning av ett djupt borrhål genomföras
+              på en relevant plats i Sverige. Antingen kan SKI och SSI själva
+              genomföra en provborrning eller så kan de avkräva av SKB att de
+              gör provborrningen och visar på relevanta jämförelsematerial för
+              de olika metoderna för lagring av kärnavfall. Att gå till beslut
+              om ett lager för högaktivt avfall som måste lagras i 100 000 år
+              utan att ha utrett olika lagringsmetoder på ett jämförbart sätt
+              är att allvarligt svika vårt ansvar gentemot kommande generationer.
+              Detta bör riksdagen som sin mening ge regeringen till känna.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAUQLPY">
+                  <p rend="reservation">
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Upparbetning av kärnavfall, punkt 3 (v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Gunilla Wahlén (v) och Peter Rådberg (mp).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDANSLPY" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 3 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen. Därmed bifaller riksdagen motion 2007/08:Fö263
+              yrkande 1 och avslår motion 2007/08:Fö263 yrkande 2.
+            </p>
+            <p xml:id="IDAUSLPY" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Det är mycket utmanande när svenska kärnkraftverksbolag nu har
+              ansökt och fått lov att skicka utbränt kärnbränsle för upparbetning
+              i Sellafield. Bränslet är av en ovanlig typ som använts i forskningssammanhang.
+              Kärnkraftsbolagen hävdar att en upparbetning krävs för en säker
+              förvaring. Sverige har tidigare deklarerat att något svenskt använt
+              kärnbränsle inte ska upparbetas eftersom slutprodukten är plutonium,
+              något som lämpar sig mycket väl för tillverkning av kärnvapen.
+              Dessutom är det ett faktum att radioaktivt teknetium från Sellafield
+              finns och anrikas i växter och djur på den svenska och norska
+              kusten. Sverige har tidigare agerat mot dessa utsläpp. Det svenska
+              ställningstagandet borde vara att man säger nej till kärnkraftsbolagens
+              ansökan om att skicka utbränt kärnbränsle till Sellafield. Det
+              finns mot denna bakgrund anledning att i lagen om kärnteknisk
+              verksamhet införa ett förbud mot utförsel av utbränt kärnbränsle
+              för upparbetning. Detta bör riksdagen som sin mening ge regeringen
+              till känna.
+            </p>
+            <p xml:id="IDA0SLPY" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDA3SLPY" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAATLPY" rend="rubrik2">
+              Motioner från allmänna motionstiden hösten 2007
+            </p>
+            <p rend="behandlatdokument_">
+              2007/08:Fö245 av Agneta Gille och Thomas Östros (båda s):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om vikten av att beakta bergets säkerhet när
+              plats för slutförvaring bestäms.
+            </p>
+            <p rend="behandlatdokument_">
+              2007/08:Fö252 av Per Bolund (mp):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om att i regleringsbrevet till SKI ge myndigheten
+                    i uppdrag att genomföra provborrning av djupa borrhål.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om att de olika metoderna för kärnavfallslagring
+                    måste jämföras på ett relevant sätt.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="behandlatdokument_">
+              2007/08:Fö263 av Tina Ehn och Gunvor G Ericson (båda mp):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen begär att regeringen låter se över lagstiftningen avseende
+                    kärnteknisk verksamhet så att utförsel av utbränt kärnbränsle
+                    för upparbetning förbjuds.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om upparbetningsanläggningen Sellafield.
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

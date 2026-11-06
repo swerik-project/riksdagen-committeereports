@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200910_CU_0019">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Konsumentskyddet ökar med en ny lag om om ansvaret för obehöriga transaktioner med ett betalningsinstrument, till exempel kontokort eller bankdosa. Vid obehöriga transaktioner där en personlig kod, till exempel en pinkod, har använts ska kontohavaren stå för en självrisk på högst 1 200 kronor. Om kontohavaren genom grov oaktsamhet har brutit mot sina skyldigheter ska han eller hon ansvara för hela beloppet. Är kontohavaren konsument ska ansvaret vara begränsat till 12 000 kronor, utom då han eller hon handlat särskilt klandervärt. En kontohavare ska också ansvara för hela beloppet om han eller hon inte inom en viss tid underrättar betaltjänstleverantören om den obehöriga transaktionen. Lagen ska börja gälla den 1 augusti 2010 i stället för den 1 juli 2010 som regeringen föreslagit.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Bättre konsumentskydd för kontokort och bankdosor (CU19)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Delvis bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskotetts förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GX09141</idno>
+              <title>2010-06-21</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">141</biblScope>
+              <note type="display-reference">2010-06-21</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GX09141</idno>
+              <title>2010-06-21</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">141</biblScope>
+              <note type="display-reference">2010-06-21</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GX0K365</idno>
+              <title>2009/10:365</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">365</biblScope>
+              <note type="display-reference">2009/10:365</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="SOU">
+            <bibl type="SOU">
+              <idno type="riksdagen">GTB3108</idno>
+              <title>SOU 2005:108</title>
+              <biblScope unit="riksdag-session">2005</biblScope>
+              <biblScope unit="document-number">108</biblScope>
+              <note type="display-reference">2005:108</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="Ds">
+            <bibl type="Ds">
+              <idno type="riksdagen">GWB486</idno>
+              <title>Ds 2008:86</title>
+              <biblScope unit="riksdag-session">2008</biblScope>
+              <biblScope unit="document-number">86</biblScope>
+              <note type="display-reference">2008:86</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2010:738</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1992:830</idno>
+              <note type="display-reference">2010:739</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GX03122</idno>
+              <title>Obehöriga transaktioner med betalningsinstrument</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">122</biblScope>
+              <note type="display-reference">proposition 2009/10:122 Obehöriga transaktioner med betalningsinstrument</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2010-06-14">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2010-06-14">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-06-11">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2010-06-10">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-06-10">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2010-06-08">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-06-08">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-06-08">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-04-08">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-04-08">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-04-08">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="LAG" subtype="avgorande" n="12" when="2010-08-01">
+            <label>Planerat ikraftträdande</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2010-06-21">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2010-06-21">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2010-06-21">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-06-21">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-06-21">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-06-18">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-06-18">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-06-17">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-06-17">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Civilutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2009/10:CU19
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Obehöriga transaktioner med betalningsinstrument
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACZSW" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet proposition 2009/10:122, vari
+            föreslås en ny lag om ansvaret för en obehörig transaktion med
+            ett betalningsinstrument, t.ex. ett kontokort eller en bankdosa.
+            Den nya lagen ersätter 34 § i 1992 års konsumentkreditlag. Lagen
+            omfattar fler fall än tidigare i och med att den gäller transaktioner
+            med alla typer av betalningsinstrument och inte endast med kontokort.
+            I lagen klargörs vilka skyldigheter en kontohavare har vid användningen
+            av ett betalningsinstrument och vad som gäller för betalningsansvaret
+            vid obehöriga transaktioner. När det gäller obehöriga transaktioner
+            där en personlig kod, t.ex. en pinkod, har använts, ska kontohavaren
+            stå för en självrisk om högst 1 200 kr. Om kontohavaren genom
+            grov oaktsamhet brutit mot sina skyldigheter, ska kontohavaren
+            ansvara för hela beloppet. Är kontohavaren konsument, ska ansvaret
+            dock vara begränsat till 12 000 kr, utom i de fall då han eller
+            hon handlat särskilt klandervärt. En kontohavare ska också ansvara
+            för hela beloppet om kontohavaren inte inom viss tid underrättar
+            betaltjänstleverantören om en obehörig transaktion.
+          </p>
+          <p>
+            Ingen motion har väckts med anledning av propositionen, och utskottet
+            föreslår att riksdagen antar regeringens lagförslag med den ändringen
+            att tidpunkten för ikraftträdandet bestäms till den 1 augusti
+            2010.
+          </p>
+          <p xml:id="IDAMZSW" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  En ny lag om obehöriga transaktioner med betalningsinstrument
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  1. lag om obehöriga transaktioner med betalningsinstrument med
+                  den ändringen att tidpunkten för ikraftträdandet bestäms till
+                  den 1 augusti 2010,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2. lag om ändring i konsumentkreditlagen (1992:830) med den ändringen
+                  att tidpunkten för ikraftträdandet bestäms till den 1 augusti
+                  2010.
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen delvis proposition 2009/10:122.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 8 juni 2010
+          </p>
+          <p>
+            På civilutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Carina Moberg
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Carina Moberg (s),
+            Inger René (m), Ewa Thalén Finné (m), Johan Löfstrand (s), Eva
+            Bengtson Skogsberg (m), Lennart Pettersson (c), Christina Oskarsson
+            (s), Jan Ertsborn (fp), Hillevi Larsson (s), Christine Jönsson
+            (m), Gunnar Sandberg (s), Yvonne Andersson (kd), Anti Avsan (m),
+            Egon Frid (v), Eva Sonidsson (s), Lars Tysklind (fp) och Jan Lindholm
+            (mp).
+          </p>
+          <p xml:id="IDAX2SW" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDA02SW" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Utredningen om obehörig användning av kontokort samt konsumentskydd
+            vid s.k. modemkapning hade i uppdrag att göra en översyn av bl.a.
+            de regler som gäller en kontohavares ekonomiska ansvar för förlust
+            av ett kort. Utredningen redovisade den delen av uppdraget i slutbetänkandet
+            Betalningsansvar vid obehörig användning av kontokort m.m. (SOU
+            2005:108). I slutbetänkandet föreslog utredningen en ny lag, lagen
+            om betalningsansvar vid obehörig användning av kontokort m.m.
+            Utredningens förslag har remissbehandlats.
+          </p>
+          <p>
+            Under arbetet med förslagen i betänkandet antog Europaparlamentet
+            och rådet den 13 november 2007 direktivet (2007/64/EG) om betaltjänster
+            på den inre marknaden och om ändring av direktiven 97/7/EG, 2002/65/EG,
+            2005/60/EG och 2006/48/EG samt upphävande av direktiv 97/5/EG
+            (betaltjänstdirektivet). Direktivet reglerar bl.a. en kontohavares
+            skyldigheter vid användningen av ett betalningsinstrument. Det
+            reglerar också vilka förluster en person ska stå för vid en obehörig
+            transaktion. Medlemsstaterna ska ha genomfört direktivet den 1
+            november 2009. Direktivet omfattas av avtalet om Europeiska ekonomiska
+            samarbetsområdet.
+          </p>
+          <p>
+            Finansinspektionen lämnade förslag på hur direktivet, förutom
+            artikel 61 som handlar om en kontohavares ansvar, bör genomföras.
+            Förslagen finns i rapporten Genomförande av betaltjänstdirektivet
+            2007/64/EG (se Finansdepartementets ärende Fi2008/2596).
+          </p>
+          <p>
+            Som ett led i arbetet med att genomföra direktivet utarbetades
+            även inom Justitiedepartementet departementspromemorian Betalningsansvar
+            vid obehöriga transaktioner (Ds 2008:86). I promemorian föreslås
+            vissa lagändringar som genomför artiklarna 56 och 61 i direktivet.
+            Promemorian har remissbehandlats.
+          </p>
+          <p>
+            Beredningsunderlaget har, särskilt med tanke på förslaget till
+            reklamationsregel, kompletterats genom att berörda myndigheter
+            och organisationer har beretts tillfälle att lämna synpunkter
+            på en promemoria med utkast till lagrådsremiss.
+          </p>
+          <p>
+            Propositionen innehåller bedömningar och förslag för att genomföra
+            direktivets bestämmelser om ansvaret för en obehörig transaktion
+            och därmed sammanhängande frågor (artiklarna 51, 53, 56 och 5861).
+          </p>
+          <p>
+            Under arbetet med förslagen har överläggningar hållits med företrädare
+            för berörda departement i de nordiska länderna. Vid överläggningarna
+            har man försökt enas om hur betaltjänstdirektivet bör tolkas och
+            hur det lämpligen kan genomföras.
+          </p>
+          <p>
+            Direktivet har också behandlats vid möten som EU-kommissionen
+            anordnat för sakkunniga inom medlemsstaternas regeringskanslier.
+            Vid mötena utbyttes erfarenheter av arbetet med genomförandet
+            av direktivet och diskuterades hur vissa bestämmelser kan tolkas.
+          </p>
+          <p>
+            Regeringen har inhämtat Lagrådets yttrande över lagförslagen.
+          </p>
+          <p>
+            Regeringens förslag till riksdagsbeslut finns i
+            <seg rend="grad2">
+              bilaga 1 och lagförslagen i bilaga 2
+            </seg>
+            . Ingen motion har väckts med anledning av propositionen.
+          </p>
+          <p>
+            I proposition 2009/10:220 Betaltjänster lämnas förslag för att
+            genomföra övriga delar av direktivet. Propositionen bereds för
+            närvarande av finansutskottet och kommer att behandlas i betänkande
+            2009/10:FiU30.
+          </p>
+          <p>
+            I det nu aktuella ärendet har två skrivelser från Svenska Bankföreningen
+            inkommit, i vilka kritik riktas mot utformningen av 7 och 8 §§
+            i lagförslaget. Svenska Bankföreningen har vidare framfört synpunkter
+            när det gäller lagens ikraftträdande och ansett att lagen bör
+            träda ikraft vid samma tidpunkt som den föreslagna lagen om betaltjänster.
+          </p>
+          <p xml:id="IDAK4SW" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAO4SW" rend="rubrik2">
+            En ny lag om obehöriga transaktioner med betalningsinstrument
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAU4SW" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen antar regeringens lagförslag med den ändringen att
+                tidpunkten för ikraftträdandet bestäms till den 1 augusti 2010.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAA5SW" rend="r4">
+              Nuvarande ordning
+            </p>
+            <p>
+              Enligt 34 § konsumentkreditlagen (1992:830) får ett avtalsvillkor
+              som innebär att en kontohavare ska vara betalningsskyldig för
+              ett belopp som har påförts kontot genom att ett kontokort har
+              använts av någon obehörig person göras gällande endast om kontohavaren
+              eller någon annan som enligt kontoavtalet är behörig att använda
+              kontokortet lämnat ifrån sig kortet till någon annan, genom grov
+              oaktsamhet förlorat kortet eller på något annat sätt förlorat
+              besittningen av kortet och inte snarast efter upptäckten anmält
+              förlusten hos kreditgivaren.
+            </p>
+            <p>
+              Om ett belopp har påförts kontot genom en obehörig transaktion
+              efter det att kreditgivaren har mottagit en anmälan om att kontohavaren
+              eller någon annan som enligt kontoavtalet är behörig att använda
+              kontokortet inte längre har detta i sin besittning, är kontohavaren
+              betalningsskyldig för beloppet endast om han har förfarit svikligt.
+            </p>
+            <p>
+              Paragrafen är direkt tillämplig endast på kontokort som är knutna
+              till krediter. Av förarbetena framgår dock att bestämmelsen förutsätts
+              kunna tillämpas analogiskt på andra kort (prop. 1991/92:83 s.
+              144). En sådan analogisk tillämpning är praxis hos Allmänna reklamationsnämnden.
+            </p>
+            <p>
+              När det gäller avtal avseende andra betalningsinstrument, t.ex.
+              bankdosa som möjliggör transaktioner via Internetbank, finns det
+              ingen särskild lagstiftning till skydd för konsumenter. Avtalslagen
+              och allmänna avtalsrättsliga principer gäller också för sådana
+              avtal. Det innebär att parterna i princip har frihet att avtala
+              om vilket betalningsansvar konsumenten ska ha för obehöriga transaktioner
+              med de begränsningar som följer av möjligheten att ingripa mot
+              oskäliga avtalsvillkor, framför allt med stöd av 36 § avtalslagen.
+            </p>
+            <p xml:id="IDAP5SW" rend="r4">
+              Betaltjänstdirektivet
+            </p>
+            <p>
+              En målsättning med betaltjänstdirektivet är en väl fungerande
+              inre marknad för betaltjänster (skäl 1). Det ska åstadkommas genom
+              en modern och konsekvent rättslig ram för betaltjänster, som är
+              neutral och garanterar lika regler för samtliga betalningssystem
+              (skäl 4). Avsikten är bl.a. att konsumenternas valfrihet ska upprätthållas
+              och att deras kostnader för betaltjänster ska sänkas.
+            </p>
+            <p>
+              Syftet med direktivet är bl.a. att fastställa bestämmelser om
+              krav på klara villkor för betaltjänster samt om betaltjänstanvändares
+              och betaltjänstleverantörers respektive rättigheter och skyldigheter
+              när betaltjänster tillhandahålls (artikel 1).
+            </p>
+            <p>
+              Enligt direktivet har en betaltjänstanvändare som innehar ett
+              betalningsinstrument vissa förpliktelser i förhållande till betaltjänstleverantören.
+              Användaren är skyldig att följa villkoren i avtalet, att skydda
+              sin personliga kod och att göra en spärranmälan vid vetskap om
+              att instrumentet kommit bort (artikel 56).
+            </p>
+            <p>
+              Godkännande att genomföra en betalningstransaktion ska lämnas
+              i den form som avtalats mellan betalaren och dennes betaltjänstleverantör.
+              Saknas ett sådant godkännande, ska betalningstransaktionen anses
+              vara obehörig (artikel 54.2). Leverantören har bevisbördan för
+              att transaktionen har godkänts, registrerats korrekt, kontoförts
+              och inte påverkats av ett tekniskt fel eller någon annan bristfällighet
+              (artikel 59).
+            </p>
+            <p>
+              Vem som ska stå för den ekonomiska förlusten vid en obehörig
+              transaktion regleras i artiklarna 60 och 61. Utgångspunkten är
+              att betaltjänstleverantören står för den ekonomiska förlusten
+              vid obehöriga transaktioner. Betaltjänstleverantören ska omedelbart
+              betala tillbaka beloppet till betalaren (artikel 60). En förutsättning
+              är dock att betaltjänstanvändaren anmäler förlusten till leverantören
+              utan onödigt dröjsmål efter det att han eller hon fått kännedom
+              om den obehöriga transaktionen och senast 13 månader efter debiteringsdagen
+              (artikel 58). Åsidosätter betalaren sina förpliktelser, kan detta
+              leda till att han eller hon får stå för det belopp som den obehöriga
+              transaktionen avser (artikel 61). Betalaren får enligt direktivet
+              stå för förluster upp till 150 euro om betalningsinstrument tappats
+              bort eller missbrukats (artikel 61.1). Betalaren får också stå
+              för hela beloppet om han eller hon brutit mot sina förpliktelser
+              genom grov oaktsamhet eller har handlat avsiktligen eller bedrägligt
+              (artikel 61.2). Förutom om betalaren handlat avsiktligen eller
+              bedrägligt, får medlemsstaterna välja att minska dennes ansvar
+              (artikel 61.3). Betalaren är inte ansvarig efter att denne förlustanmält
+              ett betalningsinstrument eller försökt göra detta, förutom vid
+              bedrägligt handlande (artikel 61.4 och 61.5).
+            </p>
+            <p>
+              Av direktivet följer att bestämmelserna är tvingande till en
+              konsuments förmån (artikel 51).
+            </p>
+            <p>
+              Betaltjänstdirektivet är i huvudsak ett fullharmoniseringsdirektiv.
+              I artikel 86 anges att medlemsstaterna inte, i den mån direktivet
+              innehåller harmoniserade bestämmelser, får behålla eller införa
+              andra bestämmelser än de som föreskrivs i direktivet.
+            </p>
+            <p>
+              När det gäller en betalares ansvar för förlust vid obehöriga
+              transaktioner, har medlemsstaterna viss valfrihet vid genomförandet.
+              Det finns möjlighet att införa bestämmelser som innebär ett högt
+              konsumentskydd. Samtidigt är en tanke med direktivet att användare
+              generellt ska ges starka incitament i lagstiftningen att vara
+              aktsamma om exempelvis sina kontokort och koder.
+            </p>
+            <p xml:id="IDANATW" rend="r4">
+              Propositionen
+            </p>
+            <p>
+              I propositionen föreslår regeringen att betaltjänstdirektivets
+              bestämmelser om en kontohavares ansvar för belopp som belastar
+              ett konto vid obehöriga transaktioner med ett betalningsinstrument
+              ska genomföras i en ny lag. Den nya lagen ska reglera skyldigheter
+              och ansvar både vid sådana kontoavtal som avser krediter och sådana
+              kontoavtal som gäller konton utan kreditutrymme. Den ska gälla
+              oberoende av om kontohavaren är en konsument eller en näringsidkare.
+              Lagen ska vara tvingande till konsumentens förmån. Lagen ersätter
+              34 § konsumentkreditlagen, som endast omfattar kontokort som är
+              knutna till krediter.
+            </p>
+            <p>
+              Enligt lagförslaget ska en kontohavare vara skyldig att skydda
+              en personlig kod som han eller hon fått, anmäla att ett betalningsinstrument
+              har kommit bort eller obehörigen använts och i övrigt följa de
+              villkor som enligt kontoavtalet gäller för användning av betalningsinstrumentet.
+            </p>
+            <p>
+              Om en obehörig transaktion har kunnat genomföras till följd av
+              att kontohavaren underlåtit att skydda den personliga koden, ska
+              kontohavaren ansvara för beloppet, dock högst 1 200 kr. Kontohavaren
+              ska ansvara för hela beloppet om en obehörig transaktion har kunnat
+              genomföras till följd av att kontohavaren av grov oaktsamhet har
+              brutit mot sina förpliktelser. I konsumentförhållanden ska ansvaret
+              vid grov oaktsamhet begränsas till sammanlagt 12 000 kr. Har konsumenten
+              handlat särskilt klandervärt, ska han eller hon dock ansvara för
+              hela beloppet. Kontohavaren ska inte stå för något belopp som
+              har belastat kontot efter det att kontohavaren har anmält att
+              betalningsinstrumentet ska spärras, utom om kontohavaren genom
+              svikligt handlande har bidragit till den obehöriga transaktionen.
+            </p>
+            <p>
+              I propositionen föreslås vidare att den nya lagen ska innehålla
+              en reklamationsregel som innebär att kontohavaren ska ansvara
+              för hela beloppet om han eller hon inte underrättar betaltjänstleverantören
+              utan onödigt dröjsmål efter att ha fått vetskap om den obehöriga
+              transaktionen och, om kontohavaren fått information om transaktionen,
+              inom 13 månader från det att beloppet belastat kontot.
+            </p>
+            <p>
+              Därutöver föreslås en bestämmelse om en kontohavares ansvar för
+              en annan behörig persons hantering av ett betalningsinstrument.
+              Om även någon annan än kontohavaren enligt kontoavtalet är behörig
+              att använda ett betalningsinstrument, ska, vid bedömningen av
+              om kontohavaren ansvarar för något belopp, den andra personens
+              handlande räknas som om kontohavaren själv hade handlat.
+            </p>
+            <p>
+              Den nya lagen föreslås träda i kraft den 1 juli 2010. Den ska
+              vara tillämplig på avtal som har ingåtts efter ikraftträdandet.
+              I fråga om avtal som har ingåtts före ikraftträdandet ska 34 §
+              konsumentkreditlagen tillämpas även fortsättningsvis.
+            </p>
+            <p xml:id="IDACBTW" rend="r4">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Förslagen i propositionen syftar till att i svensk rätt genomföra
+              betaltjänstdirektivets bestämmelser om en kontohavares ansvar
+              för belopp som belastar ett konto vid obehöriga transaktioner
+              med ett betalningsinstrument.
+            </p>
+            <p>
+              Svenska Bankförening har i ärendet riktat kritik mot utformningen
+              av 7 och 8 §§ i förslaget till lag om obehöriga transaktioner
+              med betalningsinstrument. Enligt Svenska Bankföreningen är formuleringen
+              belastat kontot i 7 § missvisande och kan tolkas så att en kontohavare
+              inte skulle bli betalningsansvarig för något belopp som har debiterats
+              kontot efter det att kontohavaren har anmält att betalningsinstrumentet
+              ska spärras, om inte kontohavaren genom svikligt handlande har
+              bidragit till den obehöriga transaktionen. När det gäller 8 §
+              invänder Svenska Bankföreningen mot formuleringen har lämnat kontohavaren
+              information och menar att regeringen med denna skrivning verkar
+              förutsätta att väsentlig information till bankkunder fortfarande
+              måste vara på papper. Information via t.ex. Internet skulle inte
+              vara tillräcklig. Enligt Svenska Bankföreningen står regeringens
+              förslag i strid med direktivets ordalydelse. Svenska Bankföreningen
+              anser också att ikraftträdandet av lagstiftningen bör samordnas
+              med den föreslagna lagen om betaltjänster.
+            </p>
+            <p>
+              Utskottet vill inledningsvis erinra om att ett EU-direktiv är
+              bindande för medlemsstaterna med avseende på det resultat som
+              ska uppnås men överlåter åt medlemsstaterna att bestämma form
+              och tillvägagångssätt för genomförandet (artikel 288 i fördraget
+              om Europeiska unionens funktionssätt). Detta innebär att medlemsstaterna
+              inte är bundna av t.ex. ett direktivs terminologi och systematik.
+              Avgörande är att nationell rätt uppnår det resultat i sak som
+              direktivet eftersträvar.
+            </p>
+            <p>
+              Som regeringen anför är direktivets bestämmelser om betalarens
+              ansvar för obehöriga transaktioner närmast utformade som modellregler,
+              som medlemsstaterna kan ta in i sin nationella rätt. Det bör dock
+              betonas att direktivet ändå ger viss frihet att anpassa såväl
+              terminologi och systematik som valda lagtekniska lösningar till
+              befintlig nationell lagstiftning. En utgångspunkt bör vara att
+              en sådan anpassning ska ske så långt det är möjligt och lämpligt.
+              Genomgående bör en enkel och klar svensk lagstiftning eftersträvas.
+            </p>
+            <p>
+              Regler om en kontohavares ansvar för en obehörig transaktion
+              finns i 5 och 6 §§ i lagförslaget. Bestämmelsen i 7 § innebär
+              ett undantag från dessa regler. I bestämmelsen anges att kontohavaren
+              inte ansvarar för något belopp som har belastat kontot efter det
+              att han eller hon anmält till betaltjänstleverantören att betalningsinstrumentet
+              ska spärras. I propositionen uttalas att om en transaktion har
+              genomförts efter det att en kontohavare har anmält att betalningsinstrumentet
+              ska spärras, slipper kontohavaren att stå för transaktionen (s.
+              29 f.). Syftet med bestämmelsen är således att kontohavaren efter
+              en spärranmälan inte ska belastas med några ekonomiska konsekvenser
+              på grund av att en obehörig transaktion genomförts. Den aktuella
+              bestämmelsen är i princip utformad som 34 § andra stycket konsumentkreditlagen
+              bortsett från att ordet "påförts" ändrats till "belastat". Under
+              arbetet med genomförandet av direktivet har inte framkommit att
+              utformningen av 34 § konsumentkreditlagen lett till några tillämpningsproblem
+              av de slag som nu tagits upp från Svenska Bankföreningens sida.
+              Enligt utskottets mening finns inte skäl att göra några ändringar
+              i bestämmelsen.
+            </p>
+            <p>
+              När det gäller de invändningar Svenska Bankföreningen riktat
+              mot formuleringen av reklamationsregeln i 8 § lagförslaget vill
+              utskottet först tydliggöra att frågor om när eller på vilket sätt
+              information ska lämnas eller göras tillgänglig vid betaltjänster
+              regleras i den föreslagna lagen om betaltjänster (prop. 2009/10:220).
+              Lagförslaget om obehöriga transaktioner med betalningsinstrument
+              innehåller inte några egna bestämmelser i frågan. Av övervägandena
+              i propositionen framgår att regeringen utgått från att informationen
+              enligt 8 § kan lämnas på olika sätt. Uttrycket lämnat information
+              i paragrafen kan enligt utskottets mening i detta sammanhang omfatta
+              både information som lämnas aktivt av betaltjänstleverantören
+              och information som lämnats efter det att kontohavaren vidtagit
+              en aktiv åtgärd för att få den. Någon ändring av lagtexten är
+              därför inte behövlig.
+            </p>
+            <p>
+              Utskottet kan sammantaget inte finna annat än att den föreslagna
+              lagstiftningen på ett ändamålsenligt sätt genomför betaltjänstdirektivets
+              bestämmelser om ansvaret för obehöriga transaktioner och därmed
+              sammanhängande frågor i svensk rätt. Lagförslagen har inte heller
+              mött några invändningar i motioner.
+            </p>
+            <p>
+              Utskottet utgår från att regeringen kommer att följa tillämpningen
+              av den nya lagstiftningen och om det skulle visa sig behövligt
+              återkomma till riksdagen med förslag till ändringar.
+            </p>
+            <p>
+              När det gäller tidpunkten för ikraftträdandet anser utskottet
+              dock att det är lämpligt att det sker en samordning med den föreslagna
+              lagen om betaltjänster som innehåller bestämmelser för att genomföra
+              övriga delar av direktivet. Regeringens lagförslag bör därför
+              träda i kraft den 1 augusti 2010.
+            </p>
+            <p>
+              Med det anförda föreslår således utskottet att riksdagen, med
+              den ändringen att tidpunkten för ikraftträdandet bestäms till
+              den 1 augusti 2010, antar de lagförslag som läggs fram i propositionen.
+            </p>
+            <p xml:id="IDADCTW" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAGCTW" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAJCTW" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2009/10:122 Obehöriga transaktioner med betalningsinstrument:
+            </p>
+            <p>
+              Riksdagen antar regeringens förslag till
+            </p>
+            <p>
+              1. lag om obehöriga transaktioner med betalningsinstrument,
+            </p>
+            <p>
+              2. lag om ändring i konsumentkreditlagen (1992:830).
+            </p>
+            <p xml:id="IDAEDTW" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDAHDTW" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{32421F2D-1473-44B7-B874-39FD70430ACF}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{45589E05-16B8-45E4-9D5A-0126AF2DCB97}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{D5906D7C-AB54-4355-8666-A3329F3DC622}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

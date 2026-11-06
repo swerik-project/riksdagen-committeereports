@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_NU_0017">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Näringsutskottet har granskat EU-kommissionens grönbok om ett tryggt, hållbart och konkurrenskraftigt europeiskt energinät. Syftet med grönboken är att försöka ta reda på hur EU bättre ska kunna främja de energinät Europa behöver. Näringsutskottet betonar bland annat att den grundläggande svenska hållningen måste vara att en bättre infrastruktur för distribution av el och gas fungerar som ett medel för att på ett effektivt sätt nå de klimatrelaterade målen för EU:s energipolitik. Utskottet framhåller att en utvidgad och väl fungerande inre marknad för el och gas är eftersträvansvärd av konkurrens-, försörjningstrygghets- och miljöskäl. Riksdagen avslutade ärendet. Därefter skickades utlåtandet till regeringen och för kännedom till EU-kommissionen.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">EU-dokument om Europeiska energinät (NU17)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Utlåtandet läggs till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0986</idno>
+              <title>2009-03-18</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">86</biblScope>
+              <note type="display-reference">2009-03-18</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0983</idno>
+              <title>2009-03-12</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">83</biblScope>
+              <note type="display-reference">2009-03-12</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2009-03-10">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2009-03-10">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-03-03">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-03-03">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-03-03">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-03-03">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-02-10">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-02-10">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-01-27">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-01-27">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-03-18">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-03-18">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-03-18">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-03-12">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-03-12">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-03-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-03-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-03-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-03-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Näringsutskottets utlåtande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:NU17
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Europeiska energinät
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBONB" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I detta utlåtande behandlar utskottet EU-kommissionens grönbok
+            om ett tryggt, hållbart och konkurrenskraftigt europeiskt energinät
+            (KOM(2008)782). Syftet med grönboken är att försöka utröna hur
+            EU bättre ska kunna främja de energinät Europa behöver genom att
+            använda alla tillgängliga instrument, däribland stödet till s.k.
+            transeuropeiska energinät (TEN-E). Grönboken innehåller också
+            förslag till större strategiska projekt som EU kan främja för
+            att stärka en trygg och solidarisk energiförsörjning inom ramen
+            för ett verkligt europeiskt energinät.
+          </p>
+          <p>
+            I sitt ställningstagande betonar utskottet att den grundläggande
+            svenska hållningen måste vara att en bättre infrastruktur för
+            distribution av el och gas fungerar som ett medel för att på ett
+            effektivt sätt nå de klimatrelaterade målen för EU:s energipolitik.
+            Härutöver framhåller utskottet att en utvidgad och väl fungerande
+            inre marknad för el och gas är eftersträvansvärd av konkurrens-,
+            försörjningstrygghets- och miljöskäl. En fortsatt ökad produktion
+            av förnybar energi förutsätter emellertid en modernisering av
+            distributionsinfrastrukturen på energiområdet.
+          </p>
+          <p>
+            Vidare anser utskottet att Sverige tydligare bör understryka
+            vikten av att de insatser som görs för förbättrad eldistribution
+            tar till vara de tekniska landvinningar som har gjorts under senare
+            år.
+          </p>
+          <p>
+            I två motivreservationer (s, v; mp) förespråkas andra ställningstaganden
+            än de utskottets majoritet förordar.
+          </p>
+          <p xml:id="IDASBONB" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Europeiska energinät
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger utlåtandet till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 1 (s, v) motiveringen
+          </p>
+          <p rend="reservationsreferens_">
+            Reservation 2 (mp) motiveringen
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 10 februari 2009
+          </p>
+          <p>
+            På näringsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Karin Pilsäter
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Karin Pilsäter (fp),
+            Tomas Eneroth (s), Björn Hamilton (m), Hans Rothenberg (m), Maria
+            Plass (m), Alf Eriksson (s), Krister Örnfjäder (s), Marie Weibull
+            Kornias (m), Karin Åström (s), Mikael Oscarsson (kd), Staffan
+            Anger (m), Kent Persson (v), Liselott Hagberg (fp), Per Bolund
+            (mp), Renée Jeryd (s), Eva-Lena Jansson (s) och Åke Sandström
+            (c).
+          </p>
+          <p xml:id="IDA4EONB" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDABFONB" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Kammaren har den 21 november 2008 hänvisat Europeiska kommissionens
+            grönbok om ett tryggt, hållbart och konkurrenskraftigt europeiskt
+            energinät (KOM(2008)782) till näringsutskottet. Utskottet har
+            mottagit Regeringskansliets faktapromemoria 2008/09:FPM49 om grönboken,
+            och näringsminister Maud Olofsson har den 27 januari 2009 informerat
+            utskottet om grönbokens innehåll samt redogjort för den svenska
+            ståndpunkten i ärendet.
+          </p>
+          <p>
+            Regeringen har skickat ut grönboken på remiss till ett sjuttiotal
+            instanser. Remisstiden löper t.o.m. den 27 februari 2009. Kommissionens
+            konsultation om grönboken pågår till den 31 mars 2009. Därefter
+            avser kommissionen att förbereda en revidering av riktlinjerna
+            för stöd till s.k. transeuropeiska energinät (TEN-E). Kommissionens
+            förslag på det området väntas våren 2010.
+          </p>
+          <p xml:id="IDAKFONB" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Vid Europeiska rådets möte i mars 2006 ställdes krav på att en
+            plan för sammanlänkning av prioriterade energinät skulle antas
+            som ett inslag i en strategisk översyn av EU:s energipolitik.
+            Kommissionen presenterade i januari 2007 meddelandet En energipolitik
+            för Europa (KOM(2007)1). Översynen omfattade bl.a. kommissionens
+            meddelande om en prioriterad sammanlänkningsplan (KOM(2006)846).
+            Infrastrukturfrågor ingick också i den handlingsplan för energi
+            som antogs av Euroepiska rådet i mars 2007 då kommissionen fick
+            i uppdrag att föreslå rationellare godkännandeprocedurer för energinätsprojekt.
+          </p>
+          <p>
+            Vid Europeiska rådets möte i oktober 2008 betonades försörjningstrygghet,
+            och kommissionen uppmanades att föreslå åtgärder för att stärka
+            den kritiska infrastrukturen på energiområdet. Rådet gav specifikt
+            stöd för sammanlänkningsplanen för Östersjöregionen.
+          </p>
+          <p>
+            I november 2008 presenterade kommissionen den andra strategiska
+            energiöversynen (KOM(2008)781). Denna har energiförsörjning som
+            tema och den här aktuella grönboken om europeiska energinät är
+            ett av ett tjugotal dokument som ingår i energiöversynen.
+          </p>
+          <p xml:id="IDAWFONB" rend="rubrik2">
+            Grönbokens huvudsakliga innehåll
+          </p>
+          <p xml:id="IDAZFONB" rend="r3">
+            Bakgrund och syfte
+          </p>
+          <p>
+            I grönboken framhåller kommissionen att Europas energinät måste
+            genomgå snabba och omfattande förändringar för att EU:s mål om
+            mer förnybar energi och mindre utsläpp ska kunna uppfyllas. Befintliga
+            nät håller på att bli föråldrade och är otillräckliga för att
+            möta tillkomsten av förnybar energi och för att förse EU med importerad
+            energi. Omfattande investeringar behövs för att säkra energiförsörjningen.
+            EU behöver stärka sin politik för att utveckla energinät. Nätpolitiken
+            måste bättre spegla de stora utmaningarna för den globala energiförsörjningen.
+            Nätpolitiken bör dra fördel av ny teknik, innebära en diversifiering
+            av energikällor och bidra till solidariteten vid energikriser.
+          </p>
+          <p>
+            Nya mål för andelen förnybar energi och klimatförändringar (de
+            s.k. 20-20-20-målen) måste avspeglas i nätplaneringen. En strategi
+            för hur mer förnybar energi ska kunna integreras i näten bör utarbetas
+            i samarbete med nationella och regionala myndigheter samt marknadens
+            aktörer.
+          </p>
+          <p>
+            Syftet med grönboken är att försöka utröna hur EU bättre ska
+            kunna främja de energinät Europa behöver genom att använda alla
+            tillgängliga instrument, däribland stödet till s.k. transeuropeiska
+            energinät (TEN-E). Grönboken innehåller också förslag till större
+            strategiska projekt som EU kan främja för att stärka en trygg
+            och solidarisk energiförsörjning inom ramen för ett verkligt europeiskt
+            energinät.
+          </p>
+          <p xml:id="IDAFGONB" rend="r3">
+            Administrativa hinder för energinät
+          </p>
+          <p>
+            Skillnader i nationella tillstånds- och planeringsbestämmelser
+            medför ofta förseningar i större nätprojekt. Kommissionen anser
+            att bättre harmonisering av sådana processer skulle avhjälpa situationen
+            men den konstaterar samtidigt att EU saknar befogenheter på området.
+            En annan typ av hinder för större projekt är att lokala opinioner
+            motsätter sig ingrepp i deras närmiljö, den s.k. NIMBY-effekten
+            (Not In My Backyard).
+          </p>
+          <p>
+            I grönboken resonerar kommissionen även om att prioriterade europeiska
+            projekt skulle kunna införlivas i nationella strategiplaner. Villkor
+            för att få TEN-E-stöd skulle kunna vara att medlemsstaterna vidtar
+            åtgärder för att hålla fastställda tidsplaner. Kommissionen anser
+            också att systemet med koordinator för större viktiga och svåra
+            projekt kan vara en lösning. En annan är den förbättrade planeringssamverkan
+            som väntas mellan bl.a. stamnätsansvariga aktörer när det tredje
+            inremarknadspaketet har trätt i kraft.
+          </p>
+          <p>
+            Kommissionen anser vidare att informationen till allmänheten
+            måste bli bättre för att därigenom öka förståelsen och stärka
+            solidariteten. Informationsutbytet om investeringsfrågor mellan
+            medlemsstater, offentliga och privata aktörer bör också förbättras.
+          </p>
+          <p xml:id="IDARGONB" rend="r3">
+            Ny teknik och innovationer
+          </p>
+          <p>
+            Ett flexibelt energinät med stor kapacitet som kan ta hand om
+            både konventionella och förnybara energikällor innebär tekniska
+            utmaningar och kräver ny teknik och innovationer. Ökad inriktning
+            på nätteknik i olika FoU-program är därför nödvändig. Till viss
+            del behandlas detta i den strategiska planen för energiteknik
+            (den s.k. SET-planen).
+          </p>
+          <p xml:id="IDAXGONB" rend="r3">
+            Internationella energinät
+          </p>
+          <p>
+            Nätpolitiken måste också omfatta externa förbindelser för att
+            trygga EU:s försörjning. EU bör kunna ingripa eller medla när
+            aktörer inte lyckas genomföra nyckelprojekt som är viktiga för
+            Europa.
+          </p>
+          <p>
+            EU:s internationella samarbetsram ska uppmuntra projekt för utveckling
+            av internationella energinät i syfte att trygga Europas energiförsörjning.
+            Ett långsiktigt politiskt ramverk behövs för att säkra privata
+            åtaganden och för bankgarantier från t.ex. Europeiska investeringsbanken
+            (EIB) och Europeiska banken för återuppbyggnad och utveckling
+            (EBRD).
+          </p>
+          <p>
+            Befintliga EU-grupperingar (t.ex. gasförsörjningsgruppen) skulle
+            kunna utnyttjas för att i ett tidigt skede diskutera förslag till
+            internationella energiprojekt. Detta skulle bidra till att bygga
+            upp en solidaritet mellan medlemsstaterna och förebygga konflikter
+            i politiskt känsliga frågor.
+          </p>
+          <p>
+            Kommissionen framhåller dock att slutliga beslut om rörledningar
+            för import är en handelsfråga. Den konstaterar också att det i
+            vissa fall kan vara befogat att ge tredjeländer politiska garantier
+            om långsiktigt samarbete. Vikt kan också läggas vid att stödja
+            projekt där en privat investerare bedömer att de icke-kommersiella
+            riskerna är för stora.
+          </p>
+          <p xml:id="IDAGHONB" rend="r3">
+            Revidering av programmet Transeuropeiska energinät (TEN-E)
+          </p>
+          <p xml:id="IDAJHONB" rend="r4">
+            Mål och räckvidd
+          </p>
+          <p>
+            Transeuropeiska nätverk Energi (TEN-E) är gemenskapens viktigaste
+            instrument för infrastrukturutveckling på energiområdet. Kommissionen
+            anser att TEN-E måste bli mer effektivt och därför ersättas med
+            ett nytt instrument EU:s instrument för energitrygghet och energiinfrastruktur
+            med syfte att fullborda den inre energimarknaden, utveckla nät
+            som fyller EU:s krav om förnybar energi samt trygga energiförsörjningen
+            genom stöd till projekt i och utanför unionen. I grönboken anges
+            i vilken riktning kommissionen vill revidera riktlinjerna för
+            TEN-E.
+          </p>
+          <p>
+            Målen för det nya instrumentet ska baseras på de s.k. 20-20-20-målen
+            och i övrigt på EU:s energipolitiska mål. Det ska omfatta all
+            ledningsburen energi, som hittills el och gas, men även terminaler
+            för flytande naturgas (Liquefied Natural Gas, LNG) och infrastruktur
+            för lagring av LNG. Därutöver vill kommissionen utöka räckvidden
+            till att omfatta även oljeledningar. Ett arbetsdokument (SEK(2008)2869)
+            om oljeledningar finns bilagt grönboken. Räckvidden skulle också
+            kunna utvidgas till att omfatta koldioxidavskiljning och lagring.
+            Ett alternativ skulle, enligt kommissionen, kunna vara att anpassa
+            biogasnät så att de lämpar sig för fordon som drivs med komprimerad
+            naturgas.
+          </p>
+          <p>
+            Planeringen av energinät bör vara marknadsdriven med tydligt
+            ansvar för systemansvariga och tillsynsmyndigheter.
+          </p>
+          <p xml:id="IDAVHONB" rend="r4">
+            Prioriterade projekt
+          </p>
+          <p>
+            Antalet prioriterade projekt som hanteras i programmet ska vara
+            litet och de ska vara gränsöverskridande. Det kan handla om sådana
+            som ansluter isolerade medlemsstater till det europeiska nätet
+            eller projekt som rör flera stater.
+          </p>
+          <p>
+            Kommissionen tar upp ett antal satsningar som kan fylla de strategiska
+            kraven. Projekten som även nämns i den andra strategiska energiöversynen
+            är:
+          </p>
+          <p>
+            ·. En sammanlänkningsplan för Östersjöregionen
+          </p>
+          <p>
+            ·. En ny sydlig gaskorridor
+          </p>
+          <p>
+            ·. Terminaler och lagring för LNG
+          </p>
+          <p>
+            ·. Energiring kring Medelhavet
+          </p>
+          <p>
+            ·. Sammanlänkning av el- och gasförsörjningen i centrala och
+            östra Europa
+          </p>
+          <p>
+            ·. Nät för havsbaserad vindkraft i Nordsjön
+          </p>
+          <p>
+            Beträffande sammanlänkningsplanen för Östersjöregionen anges
+            det att denna kommer att utvecklas som en del av den strategi
+            för Östersjöområdet som kommissionen ska presentera i juni 2009.
+          </p>
+          <p xml:id="IDAORONB" rend="r4">
+            Finansiering
+          </p>
+          <p>
+            TEN-E-programmet har en relativt begränsad budget och stöder
+            i dagsläget nästan enbart förstudier och liknande. Kommissionen
+            menar att finansieringsfrågan måste diskuteras för att möta kraven
+            på stora nyinvesteringar. Behov av en viss budgetökning för TEN-E
+            indikeras, men kommissionen ser i första hand att gemenskapens
+            övriga instrument kopplas in i betydligt högre grad. Europeiska
+            investeringsbanken (EIB), Europeiska banken för återuppbyggnad
+            och utveckling (EBRD), sammanhållnings- och strukturfonder, ramprogrammet
+            för forskning och utveckling är exempel på sådana finansieringskällor.
+          </p>
+          <p xml:id="IDAVRONB" rend="AvsnittsRubrik">
+            Utskottets granskning
+          </p>
+          <p xml:id="IDAYRONB" rend="rubrik3">
+            Den svenska ståndpunkten
+          </p>
+          <p>
+            Av Regeringskansliets faktapromemoria framgår den preliminära
+            svenska ståndpunkten till de frågor som behandlas i grönboken.
+            Det slås fast att regeringen välkomnar förslagen avseende nya
+            riktlinjer för TEN-E. Sverige inser behovet av ny infrastruktur
+            för att möta kraven på trygg energiförsörjning och på en fungerande
+            energimarknad. Regeringen är positiv till att fokus läggs på ett
+            litet antal prioriterade projekt och har redan ställt sig bakom
+            sammanlänkningsplanen för Östersjöregionen. Vidare understöder
+            regeringen att projekt som bidrar till de energipolitiska målen
+            prioriteras, t.ex. sådana satsningar som resulterar i ökad användning
+            av förnybar energi. Regeringen är positiv till mera samordnad
+            planering av nät och till förenkling av tillståndsprocesser. Den
+            anger att den nationellt strävar efter att förenkla tillståndsprocesser,
+            men ser potentiella kompetensproblem med en gemenskapsstyrd process.
+            Det kan exempelvis vara svårt att inom en begränsad tidsram inrymma
+            överklagandemöjligheter och skyldigheter att ta miljöhänsyn. Enligt
+            regeringen är det dock för tidigt att säga något bestämt om detta
+            då det inte är känt vilket regelverk som kommer att föreslås.
+          </p>
+          <p>
+            Regeringen ställer sig bakom förslaget om att riktlinjerna för
+            TEN-E utvidgas till att även omfatta annan infrastruktur än el-
+            och gasledningar och hänvisar i sammanhanget till att den har
+            drivit frågan om ett regelverk för infrastruktur för koldioxidlagring.
+            I faktapromemorian anges det att regeringen inte har tagit ställning
+            till om oljeledningar bör ingå i riktlinjerna.
+          </p>
+          <p xml:id="IDABSONB" rend="rubrik3">
+            Vissa kompletterande uppgifter
+          </p>
+          <p>
+            Den 28 januari 2009 presenterade kommissionen meddelandena Investera
+            nu i morgondagens Europa (KOM(2009)36) och Förslag till förordning
+            om inrättande av ett program för hjälp till ekonomisk återhämtning
+            genom finansiellt stöd till projekt på energiområdet (KOM(2009)35).
+            Meddelandena är ett led i genomförandet av den återhämtningsplan
+            för Europa som antogs av Europeiska rådet i december 2008. Kommissionen
+            föreslår ett paket som bl.a. innefattar sammankopplingsprojekt
+            för att bidra till att åtgärda en del av bristerna i dagens infrastruktur
+            på energiområdet samt satsningar på havsbaserad vindkraft. Förslaget
+            innebär bl.a. att 1,52 miljarder euro av det stimulanspaket som
+            fastställdes i återhämtningsplanen ska användas för viktiga strategiska
+            sammankopplingar av gas- och elnät. Stöd ska ges till ett tjugotal
+            projekt där kommissionen har använt den strategiska energiöversynen
+            som vägledning vid urvalet. Bland projekten, och inom ramen för
+            sammanlänkningsplanen för Östersjöområdet, finns följande med
+            mer direkt svensk anknytning:
+          </p>
+          <p>
+            ·. Gas: Skanled (Polen, Danmark, Sverige). Uppskattat stöd från
+            EU: 150 miljoner euro.
+          </p>
+          <p>
+            ·. El: Sammankoppling av Sverige och de baltiska staterna samt
+            förstärkning av elnätet i de baltiska staterna. Uppskattat stöd
+            från EU: 175 miljoner euro.
+          </p>
+          <p>
+            Av en promemoria från Näringsdepartementet framgår att Sverige
+            ställer sig positivt till att dessa projekt finns på listan. Meddelandena
+            kommer att behandlas av rådet och Europaparlamentet genom ett
+            s.k. medbeslutandeförfarande under våren 2009.
+          </p>
+          <p xml:id="IDAYSONB" rend="r3">
+            Utskottets ställningstagande
+          </p>
+          <p>
+            Energi- och klimatfrågorna kommer att finnas högt på de politiska
+            dagordningarna under lång tid så väl på den globala arenan som
+            i EU och i Sverige. Förmågan att under de närmaste åren nå långtgående
+            politiska överenskommelser och kapacitet att omsätta dessa och
+            redan fattade beslut i praktisk handling kommer att ha stor betydelse
+            för hur väl mänskligheten lyckas tackla den utmaning som klimathotet
+            utgör.
+          </p>
+          <p>
+            EU är en viktig aktör på området, och den nu aktuella grönboken
+            kan betraktas som en bit i det klimat- och energipolitiska pussel
+            som för närvarande läggs inom unionen.
+          </p>
+          <p>
+            Utskottet vill betona vikten av att Sverige i det fortsatta arbetet
+            tydligt poängterar de s.k. 20-20-20-målens betydelse för de insatser
+            som görs för att förstärka de europeiska energinäten. En utvidgad
+            och väl fungerande inre marknad för el och gas är eftersträvansvärd
+            av konkurrens-, försörjningstrygghets- och miljöskäl. Den grundläggande
+            svenska hållningen måste vara att en bättre infrastruktur för
+            distribution av el och gas fungerar som ett medel för att på ett
+            effektivt sätt nå de klimatrelaterade målen för energipolitiken.
+            Produktionen av förnybar energi ökar visserligen kraftigt inom
+            EU men en fortsatt ökning i syfte att nå ambitiösa klimatmål förutsätter
+            en modernisering av distributionsinfrastrukturen på energiområdet.
+          </p>
+          <p>
+            Utskottet anser vidare att Sverige tydligare bör framhålla vikten
+            av att de insatser som görs för förbättrad eldistribution tar
+            till vara de tekniska landvinningar som har gjorts under senare
+            år. Användning av ny teknik kan bl.a. göra att det krävs mindre
+            ingrepp i landskapet och i människors livsmiljöer.
+          </p>
+          <p>
+            Utskottet vill avslutningsvis framhålla att förslagen i grönboken
+            och regeringens ståndpunkt i förhållande till dessa förslag inte
+            påverkar regeringens pågående legala prövning av en gasledning
+            i Östersjön.
+          </p>
+          <p xml:id="IDALTONB" rend="AvsnittsRubrik">
+            Reservationer
+          </p>
+          <table>
+            <row>
+              <cell xml:id="IDAPTONB">
+                <p rend="reservation">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="reservation">
+                  Europeiska energinät motiveringen (s, v)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="reservanter">
+                  av Tomas Eneroth (s), Alf Eriksson (s), Krister Örnfjäder (s),
+                  Karin Åström (s), Kent Persson (v), Renée Jeryd (s) och Eva-Lena
+                  Jansson (s).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p xml:id="IDAIVONB" rend="r4">
+            Ställningstagande
+          </p>
+          <p>
+            Energi- och klimatfrågorna kommer att finnas högt på de politiska
+            dagordningarna under lång tid såväl på den globala arenan som
+            i EU och i Sverige. Förmågan att under de närmaste åren nå långtgående
+            politiska överenskommelser och kapacitet att omsätta dessa och
+            redan fattade beslut i praktisk handling kommer att ha stor betydelse
+            för hur väl mänskligheten lyckas tackla den utmaning som klimathotet
+            utgör.
+          </p>
+          <p>
+            Vi vill betona vikten av att Sverige i det fortsatta arbetet
+            tydligt poängterar de s.k. 20-20-20-målens betydelse för de insatser
+            som görs för att förstärka de europeiska energinäten. Den grundläggande
+            svenska hållningen måste vara att en bättre infrastruktur för
+            distribution av el och biogas i första hand ska fungera som ett
+            medel för att på ett effektivt sätt nå de klimatrelaterade målen
+            för energipolitiken.
+          </p>
+          <p>
+            Vi befarar att den vikt som läggs vid att säkerställa försörjningstrygghet
+            genom att sammankoppla Europas energinät, som kommer till uttryck
+            i grönboken, kan innebära att vissa medlemsstater underlåter att
+            investera i inhemsk energiproduktion från förnybara källor. Utökade
+            möjligheter till billig import av naturgas från länder utanför
+            EU kommer exempelvis att hämma många medlemsstaters vilja att
+            bidra till EU:s gemensamma strävan att minska användningen av
+            fossila bränslen. Egen basproduktion baserad på förutsättningarna
+            i respektive land ska, enligt vår uppfattning, eftersträvas.
+          </p>
+          <p>
+            Vi anser också att infrastrukturinvesteringar som syftar till
+            att utvidga den europeiska elmarknaden kan få negativ effekt på
+            elpriserna i Sverige. Vi ser en risk i att en utvidgning kan innebära
+            att efterfrågan på el ökar samtidigt som det blir svårt att på
+            kort sikt möta denna efterfrågeökning med nödvändiga ökningar
+            av elproduktionen. Följden blir att elpriserna i Sverige stiger,
+            vilket kan påverka den elintensiva svenska basindustrins konkurrenskraft
+            negativt. Vi befarar också att brister i konkurrensen på Kontinentaleuropas
+            elmarknader kan inverka negativt på elpriserna vid en sammankoppling.
+            De insatser för förbättrade konkurrensförhållanden som föreslås
+            inom ramen för det s.k. tredje inremarknadspaketet måste visa
+            sig ha eftersträvad effekt innan Sverige kan ställa sig bakom
+            en mer omfattande utvidgning av den inre elmarknaden. Väl fungerande
+            regionala marknader liknande den nordiska elmarknaden bör prioriteras
+            i första hand.
+          </p>
+          <p>
+            Avslutningsvis konstaterar vi att regeringen tydligen svävar
+            på målet när det gäller om oljeledningar ska omfattas av det nya
+            instrumentet för investeringar i energiinfrastruktur. Mot bakgrund
+            av att Sverige bör lägga stor vikt vid 20-20-20-målen är det,
+            enligt vår uppfattning, givet att så inte bör vara fallet.
+          </p>
+          <table>
+            <row>
+              <cell xml:id="IDA1VONB">
+                <p rend="reservation">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="reservation">
+                  Europeiska energinät motiveringen (mp)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="reservanter">
+                  av Per Bolund (mp).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p xml:id="IDAUXONB" rend="r4">
+            Ställningstagande
+          </p>
+          <p>
+            Framtidens energipolitik såväl inom EU som i Sverige måste ha
+            lösningen på det globala klimathotet som den starkast lysande
+            ledstjärnan. Alla energipolitiska insatser bör således granskas
+            mot bakgrund av hur väl de bidrar till att utsläppen av växthusgaser
+            minskar.
+          </p>
+          <p>
+            Jag anser att de ambitioner att utveckla och knyta samman det
+            europeiska energinätet som skisseras i grönboken inte beaktar
+            denna grundläggande utgångspunkt i nödvändig utsträckning. I stället
+            genomsyras grönboken av ett försörjningstrygghetsperspektiv som
+            i huvudsak tycks innebära att tillkommande infrastruktur ska främja
+            ökad användning av fossila energikällor som olja och gas. Jag
+            ser en betydande risk i att satsningar på förnybar energi och
+            en effektivare energianvändning får stå tillbaka för storskaliga
+            infrastrukturprojekt som innebär att Europa låser sig än hårdare
+            fast i ett fossilbränsleberoende. De signaler dylika satsningar
+            sänder till omvärlden när det gäller EU:s syn på de globala klimatproblemen
+            försvagar onekligen unionens trovärdighet som självpåtagen frontaktör
+            inför de kommande förhandlingarna om ett nytt globalt klimatavtal.
+            Regeringen bör tydligt klargöra att Sverige inte är intresserat
+            av projekt som innebär ökad användning av fossila bränslen.
+          </p>
+          <p>
+            I stället för att som i grönboken propagera för infrastruktursatsningar
+            som bl.a. syftar till att främja ökad import av gas och olja borde
+            EU säkerställa såväl försörjningstrygghet som miljöambitioner
+            genom att på olika sätt främja produktion och distribution av
+            förnybar energi. Investeringar som finansieras från EU:s budget
+            eller från andra finansiärer som omnämns i grönboken (exempelvis
+            Europeiska investeringsbanken) måste styras över mot att främja
+            framväxten av ett decentraliserat eldistributionssystem och mot
+            att gynna energiproduktion från förnybara energikällor. Användning
+            av ny teknik som minskar energiproduktionens och energidistributionens
+            inverkan på miljö och hälsa bör prioriteras särskilt.
+          </p>
+          <p xml:id="IDADYONB" rend="Bilaga">
+            Bilaga
+          </p>
+          <p xml:id="IDAGYONB" rend="BilageRubrik">
+            Förteckning över behandlade dokument
+          </p>
+          <p rend="grad2">
+            Europeiska kommissionens grönbok Mot ett tryggt och konkurrenskraftigt
+            europeiskt energinät (KOM(2008)782)
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

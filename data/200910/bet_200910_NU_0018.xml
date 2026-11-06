@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200910_NU_0018">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen har beslutat om en ny lag om ursprungsgarantier för el. Syftet med lagen är att slutkunden tydligt ska kunna se varifrån elen kommer. Hur stor andel som till exempel kommer från förnybara energikällor, som vatten- eller vindkraft. Riksdagen beslutade dessutom om vissa ändringar i ellagen och naturgaslagen. Ändringarna handlar om åtkomsten till och driften av el- och gasnät. Bakgrunden till besluten finns i ett EU-direktiv om främjandet av användningen av energi från förnybara energikällor. Där sätts ramarna för medlemsländernas arbete med att öka andelen förnyelsebar energi. I Sverige är mycket redan gjort för att genomföra direktivet. Men det krävs ytterligare insatser. Lagändringarna ska börja gälla den 1 december 2010.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Ny lag om ursprungsgarantier för el (NU18)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GX09126</idno>
+              <title>2010-05-26</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">126</biblScope>
+              <note type="display-reference">2010-05-26</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GX09122</idno>
+              <title>2010-05-20</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">122</biblScope>
+              <note type="display-reference">2010-05-20</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GX0K280</idno>
+              <title>2009/10:280</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">280</biblScope>
+              <note type="display-reference">2009/10:280</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2010:601</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2005:403</idno>
+              <note type="display-reference">2010:603</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1997:857</idno>
+              <note type="display-reference">2010:602</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GX03128</idno>
+              <title>Genomförande av direktiv om förnybar energi</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">128</biblScope>
+              <note type="display-reference">proposition 2009/10:128 Genomförande av direktiv om förnybar energi</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2010-05-14">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2010-05-14">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2010-05-10">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-05-10">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-05-10">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2010-05-04">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-05-04">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-05-04">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-04-20">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-04-20">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2010-05-26">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2010-05-26">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2010-05-26">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2010-05-26">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-05-20">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-05-20">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-05-19">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-05-19">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-05-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-05-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Näringsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2009/10:NU18
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Genomförande av direktiv om förnybar energi
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACZUW4" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlas proposition 2009/10:128 om genomförande
+            av direktiv om förnybar energi. För att genomföra artikel 15 om
+            ursprungsgarantier för el och artikel 16 om åtkomst till och drift
+            av el- och gasnäten i det s.k. förnybartdirektivet föreslår regeringen
+            en ny lag om ursprungsgarantier för el och ändringar i ellagen
+            och i naturgaslagen. Lagförslaget om ursprungsgarantier för el
+            innebär att elproducenter på begäran kan få ursprungsgarantier
+            utfärdade för att visa den producerade elens ursprung, oavsett
+            vilket energislag som använts vid produktionen. Lagändringarna
+            föreslås träda i kraft den 1 december 2010. Inga motioner har
+            väckts med anledning av propositionen.
+          </p>
+          <p>
+            Utskottet föreslår att riksdagen bifaller propositionen.
+          </p>
+          <p xml:id="IDAMZUW4" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Genomförande av direktiv om förnybar energi
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  a) lag om ursprungsgarantier för el,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  b) lag om ändring i ellagen (1997:857), och
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  c) lag om ändring i naturgaslagen (2005:403).
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen proposition 2009/10:128 punkterna 13.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 4 maj 2010
+          </p>
+          <p>
+            På näringsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Carl B Hamilton
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Carl B Hamilton (fp),
+            Tomas Eneroth (s), Björn Hamilton (m), Hans Rothenberg (m), Carina
+            Adolfsson Elgestam (s), Maria Plass (m), Jan Andersson (c), Alf
+            Eriksson (s), Krister Örnfjäder (s), Marie Weibull Kornias (m),
+            Mikael Oscarsson (kd), Staffan Anger (m), Kent Persson (v), Börje
+            Vestlund (s), Liselott Hagberg (fp), Per Bolund (mp) och Renée
+            Jeryd (s).
+          </p>
+          <p xml:id="IDA02UW4" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDA32UW4" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I detta betänkande behandlas proposition 2009/10:128 om genomförande
+            av direktiv om förnybar energi.
+          </p>
+          <p>
+            Inga motioner har väckts med anledning av propositionen.
+          </p>
+          <p xml:id="IDAG3UW4" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Europaparlamentets och rådets direktiv 2009/28/EG om främjande
+            av användningen av energi från förnybara energikällor och om ändring
+            och ett senare upphävande av direktiven 2001/77/EG och 2003/30/EG
+            (förnybartdirektivet) antogs i april 2009. Förnybartdirektivet
+            ska vara genomfört i medlemsstaterna senast den 5 december 2010.
+            Direktivet är ett medel för att uppnå EU:s mål att 20 % av unionens
+            bruttoenergianvändning ska tillgodoses genom energi från förnybara
+            energikällor senast 2020 och att andelen energi från förnybara
+            energikällor när det gäller alla former av transporter 2020 ska
+            uppgå till minst 10 % av den slutliga energianvändningen i transporter
+            i varje medlemsstat.
+          </p>
+          <p>
+            I artikel 15 i direktivet finns bestämmelser om ursprungsgarantier
+            för el, värme och kyla som produceras från förnybara energikällor.
+            I september 2009 redovisade Statens energimyndighet (Energimyndigheten)
+            ett uppdrag från regeringen att i samråd med Energimarknadsinspektionen
+            och Affärsverket svenska kraftnät (Svenska kraftnät) ta fram förslag
+            till författningsändringar för att genomföra direktivets regler
+            för ursprungsgarantier. Rapporten har remissbehandlats.
+          </p>
+          <p>
+            I artikel 16 i direktivet finns bestämmelser om åtkomst till
+            och drift av el- och gasnäten. Energimarknadsinspektionen redovisade
+            i rapporten Förnybara energikällor Åtkomst till och drift av näten
+            (EI R2009:10) ett uppdrag från regeringen att efter samråd med
+            Svenska kraftnät presentera en analys av behovet av författningsändringar
+            till följd av reglerna om nättillträde i direktivet och föreslå
+            eventuella författningsändringar. Även den rapporten har remissbehandlats.
+          </p>
+          <p>
+            Svenska kraftnät redovisade i april 2009 ett uppdrag från regeringen
+            att, efter samråd med Energimarknadsinspektionen och Energimyndigheten,
+            lämna förslag till utformning av ett förändrat regelverk om ansvar
+            för elnätsförstärkningar av nationell betydelse och nätanslutning
+            av stora elproduktionsanläggningar i syfte att minska tröskeleffekterna
+            för utbyggnad av förnybar elproduktion. Utifrån den redovisade
+            rapporten fick Svenska kraftnät i uppdrag att lämna förslag till
+            författningsändringar och andra åtgärder för att kunna genomföra
+            förslaget. Uppdraget, som genomfördes i samråd med Energimarknadsinspektionen
+            och efter samråd med Energimyndigheten, redovisades i oktober
+            2009. Rapporterna har remissbehandlats.
+          </p>
+          <p>
+            Regeringen har inhämtat Lagrådets yttrande över regeringens förslag
+            till lag om ursprungsgarantier för el och förslag till ändringar
+            i ellagen (1997:857) och naturgaslagen (2005:403).
+          </p>
+          <p xml:id="IDAY3UW4" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            I propositionen behandlas genomförandet av förnybartdirektivet.
+          </p>
+          <p>
+            Huvuddelen av direktivets bestämmelser är enligt regeringens
+            bedömning redan genomförda i svensk lagstiftning. De delar av
+            direktivet som rör hållbarhetskriterier behandlas i proposition
+            2009/10:164 om hållbarhetskriterier för biodrivmedel och flytande
+            biobränslen, som i riksdagen bereds av miljö- och jordbruksutskottet
+            (bet. 2009/10:MJU26).
+          </p>
+          <p>
+            Propositionen innehåller lagförslag som syftar till att genomföra
+            artikel 15 om ursprungsgarantier för el och artikel 16 om åtkomst
+            till och drift av el- och gasnäten.
+          </p>
+          <p>
+            För att genomföra artikel 15 föreslår regeringen en ny lag om
+            ursprungsgarantier för el och en ändring i ellagen. Lagförslaget
+            om ursprungsgarantier för el innebär att elproducenter på begäran
+            kan få ursprungsgarantier utfärdade för att visa den producerade
+            elens ursprung.
+          </p>
+          <p>
+            För att genomföra artikel 16 föreslår regeringen ändringar i
+            ellagen och i naturgaslagen. Bestämmelserna som föreslås i ellagen
+            innebär dels att elnätsföretagen ska ange tidsplaner för anslutning
+            av elproduktionsanläggningar, dels att företagen ska offentliggöra
+            principer för hur kostnaderna för teknisk anpassning ska fördelas
+            vid anslutning till elnätet. Ändringarna i naturgaslagen innebär
+            att innehavaren av en naturgasledning ska offentliggöra de metoder
+            som används för att utforma avgifter för anslutning.
+          </p>
+          <p>
+            Lagändringarna föreslås träda i kraft den 1 december 2010.
+          </p>
+          <p>
+            Regeringen bedömer i propositionen att vissa delar av artikel
+            13 om administrativa förfaranden, regler och normer och av artikel
+            14 om information och utbildning inte är genomförda i svensk lagstiftning.
+            När det gäller dessa delar avser regeringen att återkomma med
+            författningsförslag efter det att den inhämtat ytterligare underlag
+            från berörda myndigheter.
+          </p>
+          <p>
+            Vidare bedömer regeringen att staten bör kunna utnyttja ett eventuellt
+            statistiskt överskott av förnybar energi. I propositionen redovisas
+            också regeringens bedömning i frågan om hur s.k. tröskeleffekter
+            vid anslutning av storskaliga produktionsanläggningar för förnybar
+            el till elnätet ska hanteras.
+          </p>
+          <p xml:id="IDAU4UW4" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAY4UW4" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen antar regeringens förslag till lag om ursprungsgarantier
+                för el och ändringar i ellagen och i naturgaslagen.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAE5UW4" rend="rubrik2">
+              Propositionen
+            </p>
+            <p xml:id="IDAH5UW4" rend="r3">
+              Övergripande om förnybartdirektivet
+            </p>
+            <p>
+              Förnybartdirektivet syftar till att öka EU:s andel förnybar energi
+              från 8,5 till 20 % under perioden 20052020. Genom direktivet upprättas
+              en gemensam ram för främjande av energi från förnybara energikällor.
+              För varje medlemsstat anges i direktivet ett nationellt övergripande
+              mål för andelen energi från förnybara energikällor som medlemsstaten
+              ska ha uppnått senast 2020. Sveriges bindande mål enligt direktivet
+              är att uppnå en andel om 49 % förnybar energi 2020. Om det övergripande
+              målet inte kan uppnås med inhemsk energianvändning ges i direktivet
+              möjlighet att använda de samarbetsmekanismer som finns i direktivet.
+              Alla medlemsstater ska dock klara ett mål om 10 % förnybar energi
+              i transportsektorn till 2020, utan att använda sig av samarbetsmekanismerna.
+            </p>
+            <p>
+              De biodrivmedel som får tillgodoräknas för måluppfyllelsen måste
+              uppfylla de hållbarhetskriterier som anges i direktivet för biodrivmedel
+              och andra flytande biobränslen. Genomförandet av de artiklar som
+              berör hållbarhetskriterierna (artiklarna 1721) hanteras i proposition
+              2009/10:164 om hållbarhetskriterier för biodrivmedel och flytande
+              biobränslen.
+            </p>
+            <p>
+              Regeringen bedömer att direktivets övriga bestämmelser till stor
+              del redan är genomförda i svensk lagstiftning. Artikel 15 om ursprungsgarantier
+              för el och artikel 16 om åtkomst till och drift av el- och gasnäten
+              kräver dock författningsändringar.
+            </p>
+            <p>
+              Vidare bedömer regeringen att vissa delar av artikel 13 om administrativa
+              förfaranden, regler och normer och av artikel 14 om information
+              och utbildning inte är genomförda i svensk lagstiftning. Regeringen
+              avser att återkomma med författningsförslag i dessa delar efter
+              det att den inhämtat ytterligare underlag från berörda myndigheter.
+            </p>
+            <p>
+              Medlemsstaterna ska lämna en nationell handlingsplan för energi
+              från förnybara energikällor till kommissionen senast den 30 juni
+              2010. I handlingsplanen ska medlemsstaterna sätta upp nationella
+              mål för andelen energi från förnybara energikällor som används
+              för transporter, för el samt för värme och kyla 2020. Planen ska
+              även innehålla en beskrivning av de åtgärder som medlemsstaten
+              tänker vidta för att nå målen.
+            </p>
+            <p>
+              I direktivet finns förslag till åtgärder som ska främja en ökad
+              användning av förnybar energi.
+            </p>
+            <p>
+              Vartannat år ska medlemsstaterna lämna en rapport till kommissionen
+              om bl.a. utvecklingen av förnybar energi, styrmedel och åtgärder.
+              Kommissionen ska i sin tur rapportera till ministerrådet och Europaparlamentet
+              om utvecklingen.
+            </p>
+            <p>
+              Kommissionen ska vid en kontrollstation 2014 presentera en rapport
+              som bl.a. ska innehålla en allmän översyn om huruvida direktivets
+              samarbetsmekanismer och åtgärder är tillräckliga för att målet
+              på 20 % förnybar energi i EU ska nås. Kommissionen ska 2018 presentera
+              en färdplan för förnybar energi efter 2020. År 2021 ska kommissionen
+              utvärdera hur direktivet genomförts.
+            </p>
+            <p xml:id="IDAFIVW4" rend="r3">
+              Samarbetsmekanismer
+            </p>
+            <p>
+              I direktivet ingår en möjlighet till flexibilitet mellan medlemsstaterna
+              för att uppfylla de nationella målen i direktivet. Flexibiliteten
+              bygger antingen på
+              <seg rend="grad2">
+                statistiska överföringar (artikel 6) mellan medlemsstaterna eller
+                på att stater genomför gemensamma projekt (artiklarna 710) för
+                produktion av förnybar energi. Dessutom finns möjligheten till
+                gemensamma stödsystem
+              </seg>
+              (artikel 11) för två eller flera medlemsstater.
+            </p>
+            <p>
+              Regeringen bedömer i propositionen att staten bör kunna utnyttja
+              ett eventuellt statistiskt överskott av förnybar energi för överföring
+              till andra medlemsstater. Regeringen avser att analysera vidare
+              de juridiska och statsfinansiella aspekterna av ett sådant utnyttjande.
+            </p>
+            <p>
+              Vidare gör regeringen bedömningen att staten bör öppna för möjligheten
+              för andra medlemsstater att finansiera investeringar inom Sveriges
+              gränser och Sveriges ekonomiska zon genom s.k. gemensamma projekt.
+              Fortsatt arbete bör bedrivas med att ta fram metoder och riktlinjer
+              för användningen av samarbetsmekanismer både inom ramen för Nordiska
+              ministerrådet och nationellt, anser regeringen.
+            </p>
+            <p xml:id="IDA3IVW4" rend="r3">
+              Ursprungsgarantier
+            </p>
+            <p>
+              Enligt artikel 15 i förnybartdirektivet är syftet med en ursprungsgaranti
+              att för slutkunderna visa hur stor andel eller mängd energi från
+              förnybara energikällor som ingår i energileverantörens energimix
+              i enlighet med artikel 3.6 i elmarknadsdirektivet
+              <hi rend="superscript">
+                1 [
+                <seg type="html-hanvisning">
+                  Europaparlamentets och rådets direktiv 2003/54/EG av den 26 juni
+                  2003 om gemensamma regler för den inre marknaden för el och om
+                  upphävande av direktiv 96/92/EG.
+                </seg>
+                ]
+              </hi>
+              . Genom förnybartdirektivet kopplas ursprungsgarantin tydligt
+              ihop med det krav på ursprungsmärkning som finns i elmarknadsdirektivet.
+              När elleverantören ska uppfylla det kravet får ursprungsgarantier
+              användas. Medlemsstaterna ska säkerställa att hanteringen av ursprungsgarantierna
+              kan ske elektroniskt och på ett tillförlitligt sätt. Förnybartdirektivet
+              reglerar även storleken på en ursprungsgaranti, och i direktivet
+              anges att endast en ursprungsgaranti får utfärdas för varje producerad
+              energienhet. En ursprungsgaranti ska användas inom tolv månader
+              fr.o.m. produktionen av motsvarande energienhet och annulleras
+              efter det att den använts. Överföring av ursprungsgarantier mellan
+              medlemsstaterna ska kunna ske. I direktivet anges vilka uppgifter
+              en ursprungsgaranti måste innehålla samt att medlemsstaterna,
+              med vissa undantag, är skyldiga att erkänna ursprungsgarantier
+              som utfärdats av andra medlemsstater.
+            </p>
+            <p>
+              Artikel 5 i Europaparlamentets och rådets direktiv 2004/8/EG
+              av den 11 februari 2004 om främjande av kraftvärme på grundval
+              av efterfrågan på nyttiggjord värme på den inre marknaden för
+              energi och om ändring av direktiv 92/42/EEG (kraftvärmedirektivet)
+              reglerar på motsvarande sätt rätten för en producent att få en
+              ursprungsgaranti för el som produceras genom högeffektiv kraftvärme
+              <hi rend="superscript">
+                2 [
+                <seg type="html-hanvisning">
+                  Med högeffektiv kraftvärme menas samtidig framställning av el
+                  och värme som medför en bränslebesparing med minst 10 % jämfört
+                  med separat produktion av el och värme.
+                </seg>
+                ]
+              </hi>
+              .
+            </p>
+            <p>
+              Enligt regeringens förslag om en ny lag om ursprungsgarantier
+              för el ska en elproducent ha rätt att få ursprungsgarantier utfärdade
+              som visar den producerade elens ursprung. Lagförslaget är avsett
+              att tillgodose kraven på ursprungsgarantier i både kraftvärmedirektivet
+              och förnybartdirektivet. Regeringen föreslår att den får ett bemyndigande
+              att meddela föreskrifter om definitioner av energikällor och sätt
+              att producera el. I Sverige är det bara producenter av förnybar
+              el och högeffektiv kraftvärmeel som hittills har kunnat få en
+              ursprungsgaranti. Enligt regeringen uppfyller det elektroniska
+              systemet för ursprungsgarantier som föreslås mycket höga krav
+              på tillförlitlighet. En förutsättning för ett bra konsumentskydd
+              är dock även att det går att fastställa ursprunget på så stor
+              del av den producerade elen som möjligt. Regeringen har för avsikt
+              att se över hur systemen för ursprungsgarantier och ursprungsmärkning
+              ska kunna samordnas vid framtagandet av mer detaljerade bestämmelser
+              om hur kraven på ursprungsmärkning ska uppfyllas. Förnybartdirektivet
+              tar sin utgångspunkt i märkning av el från förnybara energikällor.
+              Det kan finnas ett intresse på marknaden att sälja eller köpa
+              el från andra energikällor. Regeringen går därför genom lagförslaget
+              längre än vad förnybartdirektivet kräver. Regeringen vill möjliggöra
+              en bredare användning av ursprungsgarantier och därigenom skapa
+              en plattform för tillförlitlig ursprungsmärkning av all el.
+            </p>
+            <p>
+              Enligt förslaget ska en ursprungsgaranti endast få utfärdas för
+              sådan el som har mätts och rapporterats till kontoföringsmyndigheten.
+              Varje ursprungsgaranti ska ha ett unikt identifieringsnummer och
+              endast en ursprungsgaranti får utfärdas per energienhet. En energienhet
+              omfattar en megawattimme el. En ursprungsgaranti kommer att vara
+              ett elektroniskt dokument med information om den producerade elen,
+              som ska utfärdas, överföras och annulleras elektroniskt. Förnybartdirektivet
+              och kraftvärmedirektivet ställer krav på medlemsstaterna att inrätta
+              mekanismer så att ursprungsgarantierna ska vara korrekta, tillförlitliga
+              och skyddade mot bedrägeri. Ursprungsgarantier kommer därför att
+              endast kunna utfärdas för el som har mätts och rapporterats till
+              kontoföringsmyndigheten. På varje ursprungsgaranti ska finnas
+              uppgift om från vilken energikälla och i vilken typ av anläggning
+              som elen har producerats, start- och slutdatum för produktion,
+              anläggningens kapacitet, datum då den togs i drift, namnet på
+              anläggningen där energin produceras och var den är belägen, om
+              anläggningen har fått något stöd och, i sådant fall, uppgift om
+              vilket stöd samt datum och land för utfärdande av ursprungsgarantin.
+              Kraftvärmedirektivet innehåller också krav på vilka uppgifter
+              som ska anges. Bland annat ställs krav på att energikällans lägre
+              värmevärde när det gäller elproduktionen ska anges samt hur den
+              värme som framställts samtidigt som elen har använts. Som ett
+              skydd mot dubbelräkning ska en ursprungsgaranti annulleras när
+              den har använts. Vid utfärdandet får samma energienhet bara beaktas
+              en gång.
+            </p>
+            <p>
+              Enligt regeringens lagförslag är en ursprungsgaranti ett elektroniskt
+              dokument som tagits fram enligt lagen och vars syfte är att garantera
+              ursprunget på den el som en elleverantör ska lämna uppgift om
+              enligt 8 kap. 12 § ellagen. En ursprungsgaranti ska annulleras
+              när den har använts eller, om den inte har använts, inom tolv
+              månader fr.o.m. produktionen av den energienhet som ursprungsgarantin
+              avser.
+            </p>
+            <p>
+              Kontoföringsmyndigheten ska enligt regeringens förslag föra ett
+              elektroniskt register över ursprungsgarantier. Regeringen föreslår
+              att tillsynsmyndigheten ska utöva tillsyn över efterlevnaden av
+              lagen och av de föreskrifter som meddelats i anslutning till lagen.
+              Tillsynsmyndigheten får återkalla ett beslut om rätt till tilldelning
+              av ursprungsgarantier på vissa grunder. En ursprungsgaranti från
+              en annan medlemsstat ska erkännas, om det inte finns skäl att
+              tvivla på dess riktighet. Om en ursprungsgaranti inte erkänns,
+              ska tillsynsmyndigheten underrätta Europeiska kommissionen och
+              ange skälet till varför ursprungsgarantin inte kan erkännas. Regeringen
+              anser att den bör få meddela föreskrifter om avgifter för att
+              täcka kostnaderna för kontoföringsmyndighetens arbetsuppgifter.
+              Beslut om rätt till tilldelning av ursprungsgarantier och om återkallelse
+              av sådana beslut ska kunna överklagas till allmän förvaltningsdomstol.
+            </p>
+            <p>
+              Regeringen föreslår att om en elleverantör överför ursprungsgarantier
+              som avser energi från förnybara energikällor till en annan innehavare,
+              ska den mängd energi som motsvarar ursprungsgarantierna dras från
+              andelen energi från förnybara energikällor när uppgifter lämnas
+              till elanvändare. Regeringen eller, efter regeringens bemyndigande,
+              nätmyndigheten får enligt förslaget meddela närmare föreskrifter
+              om hur sådana uppgifter ska beräknas och redovisas för elanvändarna.
+            </p>
+            <p xml:id="IDA3JVW4" rend="r3">
+              Åtkomst till och drift av näten
+            </p>
+            <p>
+              I artikel 16 i förnybartdirektivet finns bestämmelser om åtkomst
+              till och drift av näten.
+            </p>
+            <p>
+              Enligt artikel
+              <seg rend="grad2">
+                16.2
+              </seg>
+              i förnybartdirektivet om garanterad transmission och distribution
+              m.m. av el från förnybara energikällor ska de systemansvariga
+              rapportera vissa åtgärder till de behöriga tillsynsmyndigheterna.
+              Artikeln föranleder enligt regeringen att en bestämmelse om rapporteringsskyldighet
+              för Svenska kraftnät bör föras in i förordningen (1994:1806) om
+              systemansvaret för el.
+            </p>
+            <p>
+              Det finns i
+              <seg rend="grad2">
+                artikel 16.3
+              </seg>
+              i direktivet ett krav på att nätföretagen ska åläggas att utarbeta
+              och offentliggöra standardregler för hur kostnaderna för teknisk
+              anpassning ska bäras och fördelas. Det finns inget sådant krav
+              i den svenska ellagstiftningen. Regeringen föreslår därför att
+              en bestämmelse om detta förs in i ellagen. Med uttrycket standardregler
+              bör enligt regeringen förstås principerna för hur kostnaderna
+              för teknisk anpassning ska fördelas vid anslutning till elnätet.
+            </p>
+            <p>
+              Av
+              <seg rend="grad2">
+                artikel 16.5 första stycket
+              </seg>
+              i förnybartdirektivet framgår att medlemsstaterna ska kräva att
+              de systemansvariga för transmissions- och distributionssystemen
+              ger de nya producenter av energi från förnybara energikällor som
+              vill ansluta sig till systemet de omfattande och detaljerade uppgifter
+              som krävs, däribland omfattande och detaljerade uppskattningar
+              av anslutningskostnaderna, en rimlig och exakt tidsplan för mottagande
+              och handläggning av ansökan om anslutning till nätet samt en rimlig
+              vägledande tidsplan för föreslagen anslutning till nätet. Artikeln
+              kräver enligt regeringen lagstiftning endast i fråga om skyldigheten
+              för nätföretagen att lämna uppgifter om tidsplaner. När det gäller
+              kravet på omfattande och detaljerade uppskattningar av anslutningskostnaderna
+              gör regeringen bedömningen att bestämmelsen redan är genomförd
+              i svensk lagstiftning genom 4 kap. 11 § ellagen. Enligt regeringens
+              förslag ska en nätkoncessionshavare som har tagit emot en ansökan
+              om anslutning av en elproduktionsanläggning ange en tidsplan för
+              handläggningen av ansökan. En nätkoncessionshavare som lämnar
+              uppgift om avgiften för nätanslutning av en elproduktionsanläggning
+              ska även ange en tidsplan för anslutningen.
+            </p>
+            <p>
+              Enligt
+              <seg rend="grad2">
+                artikel 16.10 andra meningen ska medlemsstaterna kräva att systemansvariga
+                för transmissions- och distributionssystemen offentliggör avgifterna
+                för anslutning till förnybara gaskällor på grundval av transparenta
+                och icke-diskriminerande kriterier. Naturgaslagen innehåller inte
+                någon bestämmelse om offentliggörande av anslutningsavgifter.
+                Regeringen föreslår att innehavaren av en naturgasledning ska
+                offentliggöra de metoder
+              </seg>
+              som används för att utforma avgifter för anslutning. En föreskrift
+              som endast uttalar att den som innehar en naturgasledning ska
+              offentliggöra avgifterna för anslutning kan antas bli svår att
+              tillämpa i praktiken, eftersom kostnaden för en anslutning varierar
+              från fall till fall. Regeringen bedömer att det är förenligt med
+              direktivets krav att föreskriva att ledningsinnehavaren ska offentliggöra
+              metoderna för beräkning av anslutningsavgift.
+            </p>
+            <p xml:id="IDADLVW4" rend="r3">
+              Tröskeleffekter vid anslutning av större produktionsanläggningar
+              för förnybar el till elnätet
+            </p>
+            <p>
+              Med tröskeleffekt avses det förhållandet att den kraftproducent
+              som ansluter sig till ett elnät som saknar ledig kapacitet tvingas
+              betala hela nätförstärkningskostnaden inklusive tillkommande kapacitet
+              som producenten själv inte kan nyttja. Producenter som därefter
+              ansluter till nätet kan ta denna lediga kapacitet i anspråk utan
+              särskild kostnad. Många producenter tvekar därför att vara först
+              med att ansluta sig till ett sådant nät. Nätföretagen vill inte
+              heller ta risken att göra nätförstärkningar, om de inte är säkra
+              på att de kommer att nyttja den tillkommande kapaciteten fullt
+              ut.
+            </p>
+            <p>
+              Regeringen bedömer att ett vidareutvecklat system med s.k. förtida
+              delning av nätförstärkningskostnaden för storskaliga produktionsanläggningar
+              för förnybar el bör införas i syfte att en elproducent endast
+              ska betala en sådan del av den totala kostnaden för den nödvändiga
+              nätförstärkningen som motsvarar varje producents andel av den
+              totala anslutningskapaciteten. Åtgärder och förslag bör utredas
+              vidare av en arbetsgrupp inom Regeringskansliet.
+            </p>
+            <p xml:id="IDAMLVW4" rend="rubrik2">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Det är viktigt att EU:s medlemsländer tar ett gemensamt ansvar
+              för att klara klimatutmaningen. Utskottet ser positivt på förnybartdirektivets
+              grundläggande syften och ställer sig bakom de lagförslag som syftar
+              till att genomföra artikel 15 om ursprungsgarantier för el och
+              artikel 16 om åtkomst till och drift av el- och gasnäten i förnybartdirektivet.
+              Utskottet tillstyrker även förslaget i propositionen om att samtliga
+              elproducenter ska ha rätt att begära ursprungsgarantier, oavsett
+              vilket energislag som använts vid produktionen. Genom denna utformning
+              av bestämmelserna möjliggörs ett heltäckande system för ursprungsmärkning
+              av el med hjälp av ursprungsgarantier. Det ligger i konsumenternas
+              intresse att få uppgifter om ursprunget på så stor del av den
+              producerade elen som möjligt. På så sätt ökar deras möjligheter
+              att göra aktiva val av profil på den el de köper.
+            </p>
+            <p>
+              Med det anförda tillstyrker utskottet propositionen.
+            </p>
+            <p xml:id="IDAVLVW4" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAYLVW4" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDA1LVW4" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2009/10:128 Genomförande av direktiv om förnybar
+              energi:
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen antar regeringens förslag till lag om ursprungsgarantier
+                    för el.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen antar regeringens förslag till lag om ändring i ellagen
+                    (1997:857).
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen antar regeringens förslag till lag om ändring i naturgaslagen
+                    (2005:403).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAXOVW4" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDA0OVW4" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{F496CD18-B845-4F9C-B43A-67E246125258}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{5E800EFB-6FF0-4940-AD07-EA32366D6934}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{336A9563-DF89-4E10-9EF8-8E20FABEEE13}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{C2F424A0-B67F-4D57-B2A7-51885E7B4978}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{B1A33320-B07C-4146-B751-3FFA404457B1}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{01A1FA19-F5C3-40CB-A1EC-0CE6979F8982}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{A5B0903D-34AE-4CFB-83CA-5103BB2BE7DF}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

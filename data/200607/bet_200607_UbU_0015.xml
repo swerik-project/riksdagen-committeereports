@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200607_UbU_0015">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Gymnasieelever får ökad möjlighet att tas emot till en utbildning i en annan kommun, även om utbildningen finns i hemkommunen. Lagändringarna börjar gälla den 1 januari 2008 och ska tillämpas på utbildningar som påbörjas efter den 1 juli 2008.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Ökade valmöjligheter till gymnasieskolan (UbU15)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen. Avslag på motionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren beslöt bifalla utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GU09111</idno>
+              <title>2007-05-23</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">111</biblScope>
+              <note type="display-reference">2007-05-23</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GU09111</idno>
+              <title>2007-05-23</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">111</biblScope>
+              <note type="display-reference">2007-05-23</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GU0K163</idno>
+              <title>2006/07:163</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">163</biblScope>
+              <note type="display-reference">2006/07:163</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1985:1100</idno>
+              <note type="display-reference">2007:304</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GU0371</idno>
+              <title>Frisökning - ökade valmöjligheter till gymnasieskolan, m.m.</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">71</biblScope>
+              <note type="display-reference">proposition 2006/07:71 Frisökning - ökade valmöjligheter till gymnasieskolan, m.m.</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GU02Ub11</idno>
+              <title>Frisökning - ökade valmöjligheter till gymnasieskolan, m.m.</title>
+              <title type="sub">av Rossana Dinamarca m.fl. (V)</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">Ub11</biblScope>
+              <note type="display-reference">motion 2006/07:Ub11 Frisökning - ökade valmöjligheter till gymnasieskolan, m.m.</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="B1" subtype="avgorande" n="1" when="2007-05-21">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2007-05-21">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-05-22">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-05-22">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-05-23">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-05-23">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2007-05-23">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2007-05-23">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2007-05-23">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-04-17">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-04-17">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-05-10">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-05-10">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2007-05-10">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2007-05-14">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2007-05-14">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2007-05-14">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2007-05-21">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="DEL" subtype="beredning" n="90" when="2007-05-21">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Utbildningsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2006/07:UbU15
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Frisökning ökade valmöjligheter till gymnasieskolan, m.m.
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDAQMCGL" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet proposition 2006/07:71 Frisökning
+            ökade valmöjligheter till gymnasieskolan, m.m. samt en motion
+            som väckts med anledning av propositionen. I propositionen föreslås
+            ändringar i skollagens (1985:1100) bestämmelser om gymnasieskolan.
+            Eleverna ges en utsträckt möjlighet att tas emot till en utbildning
+            i en annan kommun, även om utbildningen finns i hemkommunen. Lagförslagen
+            föreslås i denna del träda i kraft den 1 januari 2008 för att
+            tillämpas på utbildning som påbörjas efter den 1 juli 2008.
+          </p>
+          <p>
+            Dessutom föreslås vissa ändringar i skollagens bestämmelser om
+            beslut om riksrekrytering. Dessa ändringar föreslås träda i kraft
+            den 1 juli 2007.
+          </p>
+          <p>
+            Utskottet tillstyrker regeringens lagförslag och avstyrker motionen.
+          </p>
+          <p>
+            I betänkandet finns en motivreservation från företrädare för
+            Socialdemokraterna och en reservation från företrädaren för Vänsterpartiet.
+          </p>
+          <p xml:id="IDACNCGL" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Frisökning m.m.
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till lag om ändring i skollagen
+                  (1985:1100). Därmed bifaller riksdagen proposition 2006/07:71.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 1 (s) motiveringen
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Närhetsgaranti vid intagning till gymnasieskolan
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2006/07:Ub11.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 2 (v)
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 10 maj 2007
+          </p>
+          <p>
+            På utbildningsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Sofia Larsen
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Sofia Larsen (c),
+            Marie Granlund (s), Margareta Pålsson (m), Mats Gerdau (m), Mikael
+            Damberg (s), Gustav Blix (m), Agneta Lundberg (s), Ulf Nilsson
+            (fp), Louise Malmström (s), Betty Malmberg (m), Ibrahim Baylan
+            (s), Gunilla Tjernberg (kd), Lars Hjälmered (m), Peter Hultqvist
+            (s), Ulrika Carlsson i Skövde (c), Mats Pertoft (mp) och Eva Olofsson
+            (v).
+          </p>
+          <p xml:id="IDA0PCGL" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDA2NCGL" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Regeringen lägger i proposition 2006/07:71 Frisökning ökade valmöjligheter
+            till gymnasieskolan, m.m. fram förslag om att eleverna ska ges
+            en utsträckt möjlighet att tas emot i en annan kommun, även om
+            utbildningen finns i hemkommunen.
+          </p>
+          <p>
+            Den 10 januari 2003 överlämnade Gymnasiekommittén sitt betänkande
+            Åtta vägar till kunskap en ny struktur för gymnasieskolan (SOU
+            2002:120). I betänkandet föreslog kommittén att en behörig elev
+            ska kunna söka utbildning även utanför sin hemkommun eller samverkansområdet
+            s.k. frisökning. Betänkandet har remissbehandlats.
+          </p>
+          <p>
+            Efter förslag från den tidigare regeringen beslutade riksdagen
+            om ändringar i skollagen (1985:1100) som innefattade bl.a. bestämmelser
+            om frisökning (prop. 2003/04:140, bet. 2003/04:UbU13, rskr. 2004/05:4).
+            Regeringen föreslog i proposition 2006/07:1 utgiftsområde 16 bl.a.
+            att dessa bestämmelser skulle utgå. Riksdagen beslutade i enlighet
+            med regeringens förslag (bet. 2006/07:UbU3, rskr. 2006/07:8).
+          </p>
+          <p>
+            Förslaget om skollagens bestämmelser om beslut om riksrekrytering
+            har utarbetats i Utbildningsdepartementet (U2007/751/G). Förslaget
+            har remissbehandlats av Statens skolverk och Sveriges Kommuner
+            och Landsting.
+          </p>
+          <p>
+            Regeringen har bedömt att lagförslagen i propositionen inte innehåller
+            en sådan reglering som kräver Lagrådets hörande.
+          </p>
+          <p>
+            Det motionsyrkande som väckts med anledning av propositionen
+            återges i
+            <seg rend="grad2">
+              bilaga 1.
+            </seg>
+          </p>
+          <p>
+            Regeringens lagförslag finns i
+            <seg rend="grad2">
+              bilaga 2.
+            </seg>
+          </p>
+          <p xml:id="IDANAEJJ" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            I propositionen föreslås ändringar i skollagens (1985:1100) bestämmelser
+            om gymnasieskolan. Eleverna ges en utsträckt möjlighet att tas
+            emot till en utbildning i en annan kommun, även om utbildningen
+            finns i hemkommunen.
+          </p>
+          <p>
+            Lagförslagen föreslås i denna del träda i kraft den 1 januari
+            2008 för att tillämpas på utbildning som påbörjas efter den 1
+            juli 2008.
+          </p>
+          <p>
+            Dessutom föreslås vissa ändringar i skollagens bestämmelser om
+            beslut om riksrekrytering. Dessa ändringar föreslås träda i kraft
+            den 1 juli 2007.
+          </p>
+          <p xml:id="IDA0AEJJ" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDA4AEJJ" rend="rubrik2">
+            Frisökning m.m.
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAEBEJJ" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen bör anta regeringens förslag till lag om ändring i
+                skollagen (1985:1100).
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation 1 (s).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDARBEJJ" rend="r4">
+              Bakgrund
+            </p>
+            <p>
+              I dag har behöriga elever en lagstadgad rätt att tas emot som
+              sökande till utbildning på annan ort och hemkommunen skyldighet
+              att betala om
+            </p>
+            <p>
+              ·. det nationella programmet eller den nationella inriktningen
+              inte finns i hemkommunen/samverkansområdet,
+            </p>
+            <p>
+              ·. den sökande med hänsyn till sina personliga förhållanden har
+              särskilda skäl att få gå i den gymnasieskola dit han eller hon
+              sökt eller
+            </p>
+            <p>
+              ·. det är en riksrekryterande utbildning.
+            </p>
+            <p>
+              Dessutom är hemkommunen alltid skyldig att lämna bidrag för en
+              elev som mottagits i en fristående gymnasieskola som av Skolverket
+              förklarats vara berättigad till bidrag. Vidare är lokala inriktningar
+              inom industriprogrammet och livsmedelsprogrammet som omfattar
+              minst 400 gymnasiepoäng riksrekryterande.
+            </p>
+            <p>
+              För närvarande har en elev rätt att välja både bland 17 nationella
+              program och bland 35 nationella inriktningar. I dag är emellertid
+              inte rätten att söka till en inriktning tydlig för alla elever,
+              dvs. alla elever är inte medvetna om hur systemet fungerar. Det
+              nuvarande systemet medför vissa inlåsningseffekter som i sin tur
+              kan leda till att elever gör taktiska val. Läsåret 2005/06 gick
+              35,4 % av Sveriges gymnasieelever i en annan gymnasieskola än
+              hemkommunens. Av samtliga elever gick 13,2 % i en fristående gymnasieskola.
+            </p>
+            <p xml:id="IDASCEJJ" rend="r4">
+              Propositionen
+            </p>
+            <p>
+              I propositionen framhåller regeringen att valmöjligheterna bör
+              öka i den offentliga gymnasieskolan. Elever ska också i fortsättningen
+              ha rätt till gymnasieutbildning i hemkommunen eller inom samverkansområdet.
+              Härutöver bör eleven ges en utsträckt möjlighet att tas emot på
+              en utbildning i en annan kommun, trots att utbildningen finns
+              i hemkommunen. Frisökningen bidrar enligt regeringens bedömning
+              till att i viss utsträckning minska skillnaden i valbarhet mellan
+              fristående och kommunala skolor.
+            </p>
+            <p>
+              I propositionen föreslås att behöriga sökande ges möjlighet att
+              inför år 1 och år 2 söka en utbildning på ett nationellt program
+              i en annan kommun, även om den erbjuds i hemkommunen eller samverkansområdet
+              (frisökning). En sådan sökande ska kunna tas emot i mån av plats,
+              sedan alla behöriga sökande tagits emot från anordnarkommunen
+              eller samverkansområdet och från andra kommuner som inte erbjuder
+              denna utbildning samt behöriga sökande med särskilda skäl. Genom
+              att frisökning blir möjlig även till år 2 ökar möjligheterna att
+              gå det första året i hemkommunens gymnasieskola, även om eleven
+              senare vill gå på en nationell inriktning som inte anordnas eller
+              erbjuds av hemkommunen.
+            </p>
+            <p>
+              Förslaget om frisökning innebär enligt propositionen en ökad
+              möjlighet, men inte en rättighet, att som elev i mån av plats
+              tas emot i en annan kommuns gymnasieskola. Frisökning innebär
+              inte att någon kommun tvingas att utöka sin verksamhet. Tvärtom
+              kan frisökning innebära en kostnadsfördel för kommunsektorn totalt
+              sett eftersom den ger möjligheter för fler kommunala gymnasieskolor
+              att, på samma sätt som fristående gymnasieskolor, optimera sina
+              gruppstorlekar och därmed bli mer kostnadseffektiva. I kombination
+              med en ökad kommunal samverkan bör detta bidra till en gymnasieplanering
+              som blir mer kostnadseffektiv. En kommun som i dag inte ger eleverna
+              möjlighet att söka utbildning i någon annan kommun måste i sin
+              planering räkna med att elever kan söka en fristående skola eller
+              en annan utbildning som medför kostnader för elevens utbildning.
+              Eftersom ersättningen ska motsvara och därmed inte överstiga hemkommunens
+              egen kostnad för motsvarande utbildning gör regeringen i propositionen
+              bedömningen att förslaget inte kommer att ha kostnadsdrivande
+              effekter.
+            </p>
+            <p>
+              När det gäller frågan om ersättning från en elevs hemkommun till
+              en annan kommun inom ett samverkansområde bör den enligt propositionen
+              i första hand regleras i avtal mellan berörda kommuner. Även i
+              övriga fall anser regeringen i propositionen att reglerna om ersättningsbeloppen
+              mellan kommuner inte får leda till orimligt höga kostnader. Därför
+              föreslås att den interkommunala ersättningen från elevens hemkommun
+              till en anordnande kommun i de fall utbildningen, dvs. det nationella
+              programmet eller den nationella inriktningen, inte finns i hemkommunen
+              beräknas enligt anordnande kommuns självkostnad. Denna princip
+              föreslås i propositionen även tillämpas i följande fall:
+            </p>
+            <p>
+              ·. för elever som av särskilda skäl får sin gymnasieutbildning
+              i en annan kommun och
+            </p>
+            <p>
+              ·. för elever som flyttar och utnyttjar sin rätt att fullfölja
+              utbildningen.
+            </p>
+            <p>
+              Regeringen gör i propositionen bedömningen att förslaget bör
+              bidra till ett mer kostnadseffektivt utbud och utnyttjande av
+              utbildningar. Kommunernas skyldighet att betala ersättning utökas
+              endast i de fall en elev söker och i mån av plats antas till en
+              utbildning i en annan kommun eller landsting, trots att studievägen
+              erbjuds i hemkommunen eller samverkansområdet. Detta kan jämföras
+              med vad som gäller när eleven i stället väljer en fristående gymnasieskola.
+              Då är kommunen alltid skyldig att betala en ersättning som motsvarar
+              kommunens egen kostnad för en elev på motsvarande utbildning.
+              Någon ökad kostnad torde inte uppstå för kommunen som har kostnaden
+              antingen för elevens utbildning i den egna gymnasieskolan eller
+              som ersättning till en annan anordnare.
+            </p>
+            <p>
+              De eventuella kostnadsökningar som övergångsvis kan inträffa
+              i enstaka fall till följd av kommunens utökade skyldighet att
+              betala interkommunal ersättning bör enligt propositionen väl kompenseras
+              av att systemet stimulerar till en ökad samverkan mellan kommuner
+              och regionalt.
+            </p>
+            <p>
+              När det gäller stöd till elever vid inackordering gör regeringen
+              i propositionen bedömningen att nuvarande rätt till inackorderingsstöd
+              inte bör utvidgas till att omfatta frisökning för att inte öka
+              hemkommunernas kostnader.
+            </p>
+            <p>
+              Propositionen innehåller även ett förslag om förändring i skollagen
+              som syftar till att göra det tydligt att beslut om riksrekrytering
+              fortsättningsvis alltid ska fattas genom förvaltningsbeslut.
+            </p>
+            <p xml:id="IDA1DEJJ" rend="r4">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet föreslår att riksdagen antar regeringens förslag till
+              lag om ändring i skollagen. Därmed tillstyrker utskottet propositionen
+              i dess helhet.
+            </p>
+            <p>
+              I likhet med de flesta remissinstanser som yttrat sig om förslaget
+              om frisökning är utskottet positivt till att eleverna i gymnasieskolan
+              genom förslaget ges ökade möjligheter att söka utbildning utanför
+              hemkommunen. Enligt utskottets uppfattning är förslaget ett välkommet
+              första steg, men dock inte tillräckligt för att ge eleverna möjlighet
+              att fullt ut välja kommunal gymnasieskola utanför hemkommunen.
+              Hemkommunen blir, enligt förslaget, inte skyldig att betala interkommunal
+              ersättning för en elev som genom frisökning antas till ett nationellt
+              program där den anordnande kommunen har en lokal inriktning. Denna
+              restriktion gör att många program stängs i flera kommuner för
+              frisök. De flesta större kommuner har lokala inriktningar på framför
+              allt de studieförberedande programmen. Detta medför att dessa
+              program stängs för frisök på samtliga kommunala skolor i kommunen,
+              även på de skolor som endast har nationella inriktningar. I kommunerna
+              Stockholm, Göteborg och Malmö kommer därmed uppskattningsvis endast
+              2030 % av det totala antalet gymnasieplatser att vara öppna för
+              frisök.
+            </p>
+            <p>
+              Utskottet anser att de utbildningar som erbjuds på gymnasiet
+              bör vara sökbara för alla elever i hela landet som uppfyller adekvata
+              behörighetskrav och att hemkommunen ska vara skyldig att betala
+              interkommunal ersättning om de tas in. Därmed ges de kommunala
+              gymnasieskolorna bättre möjligheter att rekrytera elever utanför
+              hemkommunen, vilket innebär att de får mer likartade förutsättningar
+              jämfört med de fristående skolorna, samtidigt som eleverna får
+              större möjlighet att välja utbildning. Regeringen har gett utredningen
+              om en reformerad gymnasieskola i uppdrag att se över hur de lokala
+              inriktningarna ska kunna omfattas av frisökning (dir. 2007:8).
+              Utskottet utgår därför ifrån att regeringen i samband med förslag
+              till reformerad gymnasieskola återkommer till riksdagen med förslag
+              om vidgat frisök enligt denna grundprincip.
+            </p>
+            <p xml:id="IDAIEEJJ" rend="rubrik2">
+              Närhetsgaranti vid intagning till gymnasieskolan
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAOEEJJ" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen bör avslå motionsyrkandet om en närhetsgaranti vid
+                intagning till kommunala gymnasieskolor.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation 2 (v).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA1EEJJ" rend="r4">
+              Motionen
+            </p>
+            <p>
+              Vänsterpartiet anser i motion 2006/07:Ub11 att en närhetsgaranti
+              ska införas vid intagningen till den kommunala gymnasieskolan.
+              Närhetsgarantin ska garantera plats åt eleven i den geografiskt
+              närmaste gymnasieskolan som har det program som eleven sökt. Enligt
+              motionärerna syftar förslaget till att motverka etnisk och socioekonomisk
+              segregering som uppstår genom den betygsintagning som vissa kommuner
+              tillämpar vid intagningen till gymnasiet.
+            </p>
+            <p xml:id="IDABFEJJ" rend="r4">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              I dag kan kommunerna, inom de ramar som bl.a. skollagen (1985:1100)
+              och gymnasieförordningen (1992:394) uppställer, välja intagningssystem
+              till de kommunala gymnasieskolorna. Särskilt i större städer eller
+              kommuner finns det behov av att vid urvalet av sökande göra prioriteringar
+              mellan skolor. Detta urval kan ske utifrån t.ex. betyg, bostadsort,
+              kvotering eller lottning. Utskottet anser att den rådande ordningen
+              ska bestå, dvs. att de kommunala huvudmännen själva ska bestämma
+              urvalskriterium eller en kombination av urvalskriterier vid antagningen
+              till den kommunala gymnasieskolan. På det lokala planet finns
+              de bästa förutsättningarna att hitta ett intagningssystem som
+              vinner legitimitet bland föräldrar och elever och som i så liten
+              utsträckning som möjligt är orättvist eller segregerande i något
+              avseende. Något uttalande från riksdagen med anledning av motionsyrkandet
+              är därför inte påkallat.
+            </p>
+            <p xml:id="IDAIFEJJ" rend="AvsnittsRubrik">
+              Reservationer
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservationer. I rubriken anges vilken
+              punkt i utskottets förslag till riksdagsbeslut som behandlas i
+              avsnittet.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAPFEJJ">
+                  <p rend="reservation">
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Frisökning m.m., punkt 1 motiveringen (s)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Marie Granlund (s), Mikael Damberg (s), Agneta Lundberg (s),
+                    Louise Malmström (s), Ibrahim Baylan (s) och Peter Hultqvist (s).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAIHEJJ" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Socialdemokraterna anser att det är viktigt att ge ungdomarna
+              goda möjligheter att både välja utbildning och skola. Att få gå
+              en utbildning på den skola man önskar ökar motivationen och kan
+              därför ge bättre studieresultat. Därför ställer vi oss generellt
+              positiva till förslaget om frisökning. Frisökning kan öka samverkan
+              mellan kommuner kring gymnasieskolan och stärka utbildningsutbudet
+              i en region
+              <seg rend="grad2">
+                .
+              </seg>
+            </p>
+            <p>
+              I den gymnasiereform som den förra regeringen avsåg att genomföra
+              under hösten 2007 ingick frisökning till gymnasieskolan. Den nuvarande
+              regeringen valde att dra tillbaka den reformen. I stället utreds
+              nu återigen en ny gymnasiereform som inte kommer att träda i kraft
+              förrän 2010. Det medför att en hel generation ungdomar missar
+              de förbättringar som gymnasieskolan är i starkt behov av. För
+              att kompensera för denna onödiga fördröjning väljer regeringen
+              att genomföra vissa enskilda åtgärder, t.ex. frisökning. Vi anser
+              att frisökning till gymnasieskolan måste ingå i en större kontext
+              för att uppnå önskad effekt.
+            </p>
+            <p>
+              Att införa frisökning till gymnasieskolan utan att samtidigt
+              förbättra övriga brister i gymnasieskolan befarar vi leder till
+              kvalitetsförsämringar. I dagens gymnasieskola håller t.ex. många
+              lokala kurser alltför låg kvalitet. Kurserna måste vara nationellt
+              likvärdiga och godkännas av Skolverket för att få förekomma i
+              gymnasieskolan. Det är viktigt ur ett rättssäkerhetsperspektiv.
+              Vidare måste förslag som motverkar taktikval i gymnasieskolan
+              genomföras samtidigt som frisökning, annars riskerar man att taktikvalen
+              i stället ökar.
+            </p>
+            <p>
+              Förslaget om frisökning till gymnasieskolan bör enligt Socialdemokraterna
+              snarast sättas in i ett sammanhang där kursutbudet i gymnasieskolan
+              kvalitetssäkras och taktikvalen minimeras. Vi vill se en modern
+              gymnasieskola där fler elever når de gemensamma målen och därmed
+              får de kunskaper som krävs för ett bra liv när det gäller såväl
+              arbete som fritid. Framtidens gymnasieskola måste bättre än i
+              dag svara upp mot de krav som det moderna samhället ställer på
+              såväl breda kunskaper som hög specialisering. Det är i detta sammanhang
+              frisökning till gymnasieskolan ska ses, inte som ett enskilt initiativ.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDA4HEJJ">
+                  <p rend="reservation">
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Närhetsgaranti vid intagning till gymnasieskolan, punkt 2 (v)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Eva Olofsson (v).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDA0REJJ" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Jag anser att förslaget till riksdagsbeslut under punkt 2 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen. Därmed bifaller riksdagen motion 2006/07:Ub11.
+            </p>
+            <p xml:id="IDABSEJJ" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Flera storstadskommuner har infört system med betygsintagning
+              till den kommunala gymnasieskolan. Betygsintagningen innebär att
+              elever med höga betyg har förtur till de mest populära skolorna.
+              Förutom att betygsintagningen stärker betygens negativa roll i
+              grundskoleundervisningen skapar den starka segregationseffekter
+              mellan elever med höga respektive låga betyg. Till detta ska läggas
+              att elever med utländsk bakgrund av sociala och klassmässiga skäl
+              generellt har lägre betyg än infödda svenska elever. Vänsterpartiet
+              avvisar således argumentet som framförts från vissa håll att betygsintagningen
+              skulle minska den etniska segregationen genom att elever från
+              storstädernas förorter ges möjlighet att studera på populära gymnasieskolor
+              i innerstaden. Aktuell forskning visar också att både den etniska
+              och den socioekonomiska segregeringen har ökat sedan betygsintagningen
+              infördes i Stockholms stads gymnasieskolor.
+            </p>
+            <p>
+              Jag vill därför understryka behovet av att införa en närhetsgaranti
+              vid antagningsförfarandet till de kommunala gymnasieskolorna.
+              Alla elever som söker till ett nationellt program skulle härigenom,
+              så långt platserna räcker, garanteras plats i den närmaste gymnasieskolan
+              som har det program som eleven sökt. Det måste införas en närhetsgaranti
+              i syfte att motverka segregering och därigenom skapa en gymnasieskola
+              med mångfald som är en mötesplats för elever med olika bakgrund,
+              förutsättningar och intressen.
+            </p>
+            <p>
+              Regeringen bör återkomma till riksdagen med ett lagförslag med
+              den inriktning jag nu har anfört.
+            </p>
+            <p xml:id="IDANSEJJ" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAQSEJJ" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDATSEJJ" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2006/07:71 Frisökning ökade valmöjligheter till gymnasieskolan,
+              m.m.:
+            </p>
+            <p>
+              Riksdagen antar regeringens förslag till lag om ändring i skollagen
+              (1985:1100).
+            </p>
+            <p xml:id="IDAATEJJ" rend="rubrik2">
+              Följdmotion
+            </p>
+            <p rend="behandlatdokument_">
+              2006/07:Ub11 av Rossana Dinamarca m.fl. (v):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad i motionen
+              anförs om närhetsgaranti i gymnasieskolan.
+            </p>
+            <p xml:id="IDANTEJJ" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDAQTEJJ" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p xml:id="IDATTEJJ" rend="r2">
+              Förslag till lag om ändring i skollagen (1985:1100)
+            </p>
+            <p>
+              <graphic url="shape{7F51F5EC-097B-4529-91C6-15DA63F82501}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{3374825C-BC4C-4F5C-A7E9-718DBD4568CD}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{26399C3F-CDA1-43A4-B781-2A8E1E9A24E9}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

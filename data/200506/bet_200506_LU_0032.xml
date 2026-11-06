@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200506_LU_0032">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen godkände en överenskommelse i den europeiska patentkonventionen som ska minska patenthavares översättningskostnader. Därmed försvinner kravet på fullständig översättning till svenska som förutsättning för ett europeiskt patents giltighet i Sverige.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Ändringar i patentlagen (LU32)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen och godkännande av en internationell överenskommelse (initiativärende).</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GT09126</idno>
+              <title>2006-05-18</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">126</biblScope>
+              <note type="display-reference">2006-05-18</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GT09126</idno>
+              <title>2006-05-18</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">126</biblScope>
+              <note type="display-reference">2006-05-18</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GT0K284</idno>
+              <title>2005/06:284</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">284</biblScope>
+              <note type="display-reference">2005/06:284</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="SOU">
+            <bibl type="SOU">
+              <idno type="riksdagen">GRB366</idno>
+              <title>SOU 2003:66</title>
+              <biblScope unit="riksdag-session">2003</biblScope>
+              <biblScope unit="document-number">66</biblScope>
+              <note type="display-reference">2003:66</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1967:837</idno>
+              <note type="display-reference">2006:625</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GT03189</idno>
+              <title>Ändringar i patentlagen</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">189</biblScope>
+              <note type="display-reference">proposition 2005/06:189 Ändringar i patentlagen</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2006-05-16">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2006-05-16">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2006-05-11">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2006-05-10">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2006-05-10">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2006-05-09">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-05-09">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-05-09">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-04-20">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-04-20">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-04-20">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2006-05-18">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2006-05-18">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2006-05-18">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-05-18">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-05-18">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-05-17">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-05-17">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-05-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-05-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Lagutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2005/06:LU32
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Ändringar i patentlagen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDABZ2MC" rend="AvsnittsRubrik">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet regeringens proposition 2005/06:189
+            Ändringar i patentlagen. Propositionen avser frågan om ett svenskt
+            tillträde till överenskommelsen om tillämpning av artikel 65 i
+            den europeiska patentkonventionen, den s.k. Londonöverenskommelsen.
+            Denna överenskommelse syftar till att minska patenthavares översättningskostnader
+            för europeiska patent, dvs. sådana patent som har meddelats med
+            stöd av den europeiska patentkonventionen. Regeringen anser att
+            riksdagen skall godkänna Londonöverenskommelsen. Som en följd
+            härav föreslår regeringen ändringar i patentlagen (1967:837) som
+            innebär bl.a. att kravet på fullständig översättning till svenska
+            som förutsättning för ett europeiskt patents giltighet i Sverige
+            tas bort.
+          </p>
+          <p>
+            Lagändringarna föreslås träda i kraft den dag regeringen bestämmer.
+          </p>
+          <p>
+            Ingen motion har väckts med anledning av propositionen. Utskottet
+            föreslår att riksdagen godkänner Londonöverenskommelsen och antar
+            det av regeringen framlagda lagförslaget.
+          </p>
+          <p xml:id="IDAWZ2MC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Godkännande av Londonöverenskommelsen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen godkänner överenskommelsen om tillämpning av artikel
+                  65 i Europeiska patentkonventionen (Londonöverenskommelsen).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Lagförslaget
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till lag om ändring i patentlagen
+                  (1967:837).
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen proposition 2005/06:189.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 9 maj 2006
+          </p>
+          <p>
+            På lagutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Inger René
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Inger René (m), Christina
+            Nenes (s), Hillevi Larsson (s), Tasso Stafilidis (v), Maria Hassan
+            (s), Bertil Kjellberg (m), Rezene Tesfazion (s), Viviann Gerdin
+            (c), Anneli Särnblad (s), Henrik von Sydow (m), Pia Nilsson (s),
+            Johan Löfstrand (s), Mia Franzén (fp), Ingemar Vänerlöv (kd) och
+            Rune Berglund (s).
+          </p>
+          <p xml:id="IDAH52MC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAK52MC" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Regeringen föreslår i propositionen - efter att ha hört Lagrådet
+            - att riksdagen antar framlagt förslag till ändring i patentlagen
+            (1967:837). Bakgrunden till förslaget är följande.
+          </p>
+          <p>
+            Genom beslut i februari 2002 gav regeringen en särskild utredare
+            i uppdrag att bl.a. ta fram underlag för en bedömning av om Sverige
+            bör tillträda överenskommelsen om tillämpning av artikel 65 i
+            den europeiska patentkonventionen, den s.k. Londonöverenskommelsen.
+            I uppdraget ingick även att utarbeta förslag till de lagändringar
+            som behövs för att Londonöverenskommelsen skall kunna tillträdas.
+          </p>
+          <p>
+            I juli 2003 överlämnade utredningen betänkandet (SOU 2003:66)
+            Harmoniserad patenträtt. Betänkandet har remissbehandlats. De
+            delar av betänkandet som avser frågan om Sveriges tillträde till
+            Londonöverenskommelsen och därmed sammanhängande lagändringar
+            ligger till grund för förslagen i propositionen.
+          </p>
+          <p>
+            Regeringens förslag finns i
+            <seg rend="grad2">
+              bilaga 1 och lagförslaget i bilaga 2
+            </seg>
+            .
+          </p>
+          <p xml:id="IDAJI3MC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDANI3MC" rend="rubrik2">
+            Ändringar i patentlagen
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAUI3MC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <p rend="textiruta_">
+              Riksdagen godkänner Londonöverenskommelsen och antar regeringens
+              lagförslag.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA2I3MC" rend="r4">
+              Bakgrund
+            </p>
+            <p>
+              Den som har gjort en uppfinning kan under vissa förutsättningar
+              få patent på uppfinningen. Det innebär att uppfinnaren får ensamrätt
+              att under viss tid utnyttja uppfinningen yrkesmässigt. Patent
+              hör till det slags privata förmögenhetsrätter som benämns immateriella.
+              Sådana immateriella rättigheter är nationella, dvs. det skydd
+              som svensk rätt ger omfattar endast Sverige. Ensamrätten är med
+              andra ord territoriellt begränsad. Trots den nationella begränsningen
+              är föremålen för immaterialrätten internationella på så sätt att
+              de kan användas över hela världen. För viktiga uppfinningar söker
+              man därför ofta patentskydd på många marknader.
+            </p>
+            <p>
+              Uppfinningars internationella karaktär har resulterat i ett flertal
+              internationella konventioner och avtal där Sverige är part. Redan
+              år 1883 tillkom Pariskonventionen för internationellt rättsskydd
+              som administreras av WIPO (World Intellectual Property Organization),
+              en internationell organisation med säte i Genève. År 1978 trädde
+              konventionen om patentsamarbete (Patent Cooperation Treaty, PCT)
+              i kraft. Den ger möjlighet att samtidigt ansöka om patent i flera
+              av de anslutna länderna genom att ge in en s.k. internationell
+              patentansökan. Den europeiska patentkonventionen (European Patent
+              Convention, EPC) trädde i kraft år 1977. Denna konvention har
+              lett till inrättandet av ett europeiskt patentverk (EPO) med säte
+              i München. EPO prövar europeiska patentansökningar enligt konventionen
+              och beviljar europeiska patent som omfattar de konventionsländer
+              som sökanden angett (designerat).
+            </p>
+            <p>
+              De svenska bestämmelserna om patent finns i patentlagen (1967:837).
+              I Sverige meddelas patent av Patent- och registreringsverket (PRV).
+            </p>
+            <p>
+              Det finns tre olika sätt att uppnå patent som har verkan i Sverige.
+              För det första kan en nationell, svensk patentansökan prövas av
+              PRV och leda till svenskt patent. Ett annat alternativ är en internationell
+              patentansökan som granskas av något av de patentverk som getts
+              en sådan kompetens (bl.a. PRV). En sådan ansökan kan, om den omfattar
+              Sverige och fullföljs hit, leda till svenskt patent. Den slutliga
+              prövningen av en internationell ansökan görs av respektive lands
+              behöriga myndighet. Slutligen finns alternativet med en europeisk
+              patentansökan som uteslutande prövas av EPO och som kan leda till
+              europeiskt patent. De tre nämnda möjligheterna kan delvis kombineras.
+              Vilket ansökningsförfarande som väljs är framför allt beroende
+              av vilka länder som är aktuella för patentskydd i det enskilda
+              fallet samt kostnaderna för ombud och översättningar. Kostnaderna
+              för patenteringen måste vägas mot det ekonomiska utbyte man förväntar
+              sig av uppfinningen.
+            </p>
+            <p>
+              Som nämnts inledningsvis gäller svenska lagbestämmelser om verkan
+              av ett patent endast i Sverige, oavsett om patentet meddelats
+              av PRV eller EPO eller haft sitt ursprung i en internationell
+              patentansökan. Önskas skydd utanför Sverige måste patent sökas
+              även för det landet. Trots det internationella patentsamarbetet
+              finns det inte något s.k. världspatent.
+            </p>
+            <p xml:id="IDAOJ3MC" rend="r4">
+              Den europeiska patentkonventionen
+            </p>
+            <p>
+              Den europeiska patentkonventionen (EPC) är öppen för alla europeiska
+              länder. Samtliga EU:s medlemsstater och ytterligare sju stater
+              är anslutna till EPC.
+            </p>
+            <p>
+              Ett av syftena med EPC är att centralisera och göra utfärdandet
+              av patent billigare. Systemet innebär att det europeiska patentverket
+              (EPO) meddelar samtliga patent genom ett samordnat ansöknings-
+              och prövningsförfarande. Härigenom kan patent uppnås i alla de
+              till konventionen anslutna länder som sökanden önskar. Ett europeiskt
+              patent är emellertid inte ett enda odelbart patent. Det kan sägas
+              bestå av ett knippe nationella patent, vars omfattning beror på
+              antalet av sökanden designerade länder. I varje sådant land får
+              patentet samma rättsställning som om det vore meddelat av den
+              nationella patentmyndigheten med rättsverkningar enligt den nationella
+              lagstiftningen.
+            </p>
+            <p>
+              EPO har tre officiella handläggningsspråk - engelska, franska
+              och tyska. Sökanden kan välja vilket av de tre handläggningsspråken
+              som han eller hon vill använda sig av. För att ett europeiskt
+              patent skall få giltighet i Sverige krävs att sökanden inom tre
+              månader från EPO:s kungörande av beslutet till PRV ger in en svensk
+              översättning av den text med vilken patentet meddelats samt inom
+              samma tid betalar en särskild avgift. Rätten för en konventionsstat
+              att kräva översättning av patenttexten i de fall patentet meddelats
+              på annat än konventionsstatens språk framgår av artikel 65 i EPC.
+              Flertalet konventionsstater, däribland Sverige, har valt att utnyttja
+              denna möjlighet att kräva översättning som villkor för s.k. nationell
+              validering.
+            </p>
+            <p xml:id="IDA0J3MC" rend="r4">
+              Londonöverenskommelsen
+            </p>
+            <p>
+              Patentskydd behöver som tidigare nämnts ofta omfatta flera länder,
+              och kostnaden för att uppnå patentskydd är hög. Av den totala
+              kostnaden för ett europeiskt patent av genomsnittlig omfattning
+              utgör översättningskostnaderna en väsentlig del. I syfte att minska
+              patentkostnaderna tillsatte de länder som är anslutna till EPC
+              vid en regeringskonferens i juni 1999 en arbetsgrupp (Working
+              Party on Cost Reduction, WPR) med uppgift att ta fram förslag
+              för att minska översättningskostnaderna för europeiska patent.
+              Texten till en överenskommelse om tillämpning av artikel 65 EPC
+              antogs sedan vid en regeringskonferens i London i oktober 2000
+              - Londonöverenskommelsen.
+            </p>
+            <p>
+              Londonöverenskommelsen innebär i korthet att de medlemsstater
+              som har något av EPO:s tre handläggningsspråk (engelska, franska
+              eller tyska) som ett av sina officiella språk avstår från att
+              i fortsättningen kräva översättning av patentskriften för att
+              patentet skall bli giltigt. Patentkraven översätts dock - som
+              tidigare - alltid till alla tre EPO-språken. Patentkraven är den
+              del av patentansökningen där sökanden genom bestämda uppgifter
+              har preciserat vad som skall skyddas med patentet. De medlemsstater
+              som inte har ett officiellt språk som också är handläggningsspråk
+              i EPO skall peka ut ett av de tre språken och avstå från översättning
+              till sitt nationella språk, om patentskriften finns på det utpekade
+              språket. Dessa stater har möjlighet att alltid kräva att patentkraven
+              översätts till det nationella språket. Londonöverenskommelsen
+              utgör inte hinder för anslutna stater att kräva översättning av
+              hela patentskriften om en tvist om patentintrång uppstår.
+            </p>
+            <p>
+              Londonöverenskommelsen är öppen för samtliga konventionsstater
+              som vill ansluta sig till den. Vid regeringskonferensen år 2000
+              undertecknades den av ett antal stater, däribland Sverige. För
+              att överenskommelsen skall träda i kraft krävs att minst åtta
+              EPC-länder tillträder den. Bland dessa åtta måste finnas Frankrike,
+              Storbritannien och Tyskland.
+            </p>
+            <p xml:id="IDAGK3MC" rend="r4">
+              Propositionen
+            </p>
+            <p>
+              I propositionen pekar regeringen på att Londonöverenskommelsen
+              tillkommit som svar på den europeiska industrins växande kritik
+              av att gällande krav på översättning av europeiska patent medför
+              alltför höga kostnader. Kritiken går ut på att patenttexter på
+              nationella språk mer eller mindre saknar betydelse och att nyttan
+              av översättningarna därmed inte står i rimlig proportion till
+              vad det kostar att framställa dem. Det har hävdats att dessa kostnader
+              i viss mån verkar hämmande på framför allt mindre företags benägenhet
+              att ansöka om patent eller i vart fall inverkar återhållande på
+              deras beslut om vilka och hur många stater som patentet skall
+              valideras i. I diskussionen har också framhållits att kostnaderna
+              för ett europeiskt patent är väsentligt högre än motsvarande kostnader
+              för att få patentskydd i USA och Japan.
+            </p>
+            <p>
+              Regeringen framhåller att åtgärder för att nedbringa patenteringskostnaderna
+              i Europa till vad som faktiskt krävs för ett väl fungerande patentsystem
+              är starkt motiverade och att Sverige i patentsammanhang bör verka
+              för reducerade översättningskrav om det kan ske utan att viktiga
+              skyddsintressen skadas. I propositionen framhåller regeringen
+              också att Sverige var en av de drivande krafterna i de förhandlingar
+              som resulterade i Londonöverenskommelsen.
+            </p>
+            <p>
+              Londonöverenskommelsen syftar till att förbättra villkoren för
+              europeiska företag. Genom de reducerade översättningskrav som
+              följer av överenskommelsen kan kostnaderna för europeiska patent,
+              enligt regeringens bedömning, minskas radikalt. Härigenom stimuleras
+              forskning, teknikutveckling och tillväxt - inte minst för små
+              och nystartade företag. Enligt regeringens mening föreligger det
+              därför mycket starka skäl för att Sverige bör ansluta sig till
+              de europeiska länder som redan har valt att tillträda eller ansluta
+              sig till överenskommelsen.
+            </p>
+            <p>
+              Mot denna bakgrund anser regeringen att Sverige bör tillträda
+              Londonöverenskommelsen om inte starka motstående intressen talar
+              mot detta. Regeringen har funnit att varken språkpolitiska aspekter
+              eller rättssäkerhetsintressen hindrar ett tillträde till överenskommelsen.
+              Detta under förutsättning att engelska pekas ut som det språk
+              från vilket översättning av patentskrifter inte behöver ske och
+              att Sverige alltjämt kräver översättning av patentkraven som villkor
+              för validering. Inte heller andra intressen som gjorts gällande
+              mot en anslutning, t.ex. intresset av teknikspridning, har av
+              regeringen bedömts vara av tillräcklig styrka för att hindra ett
+              tillträde.
+            </p>
+            <p>
+              Sammanfattningsvis anser regeringen således att Sverige skall
+              tillträda Londonöverenskommelsen. Regeringen föreslår att Sverige
+              skall välja engelska som det språk från vilket översättning av
+              patentbeskrivningen inte behöver ske, men att Sverige även fortsättningsvis
+              skall kräva översättning till svenska av patentkraven som villkor
+              för validering.
+            </p>
+            <p>
+              Regeringen föreslår i propositionen, som en följd av ett tillträde
+              till Londonöverenskommelsen, ändringar i bl.a. 82 § patentlagen.
+              Lagförslaget innebär att patentkraven vid validering av europeiska
+              patent i Sverige skall ges in i översättning till svenska. Om
+              patentbeskrivningen i det av EPO meddelade patentet är på engelska,
+              behöver beskrivningen inte ges in till PRV. I annat fall skall
+              patentbeskrivningen ges in i översättning till svenska eller engelska.
+            </p>
+            <p>
+              Vidare föreslås i propositionen en ny bestämmelse i vilken anges
+              att en domstol i patentmål får förelägga rättsinnehavaren att
+              ge in en fullständig översättning av patentskriften till svenska.
+              Om föreläggandet inte följs av rättsinnehavaren i egenskap av
+              kärande, får talan avvisas. Är rättsinnehavaren svarande får domstolen
+              i stället ombesörja översättning på dennes bekostnad.
+            </p>
+            <p>
+              Regeringen föreslår också en ändring i patentlagen som innebär
+              att skyldigheten för PRV att tillhandahålla översättningar av
+              europeiska patent i tryckt form tas bort.
+            </p>
+            <p>
+              I propositionen föreslås att ändringarna i patentlagen skall
+              träda i kraft den dag regeringen bestämmer. Förslagen är direkt
+              föranledda av Londonöverenskommelsen, och regeringen har gjort
+              bedömningen att lättnader i nuvarande översättningskrav beträffande
+              europeiska patent för närvarande bara är aktuella efter det att
+              denna överenskommelse har trätt i kraft. Som tidigare nämnts krävs
+              att minst åtta stater, däribland Frankrike, Storbritannien och
+              Tyskland, tillträder överenskommelsen för att den skall träda
+              i kraft. I februari 2006 hade sex stater tillträtt överenskommelsen.
+              Någon dag för ikraftträdande av lagändringarna kan alltså inte
+              bestämmas nu.
+            </p>
+            <p xml:id="IDAEL3MC" rend="r4">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Propositionen har inte föranlett något motionsyrkande, och utskottet
+              har för sin del inget att erinra mot de föreslagna lagändringarna.
+              Riksdagen bör därför anta lagförslaget. Utskottet anser att Londonöverenskommelsen
+              bör godkännas av riksdagen och lägger därför på eget initiativ
+              fram ett sådant förslag.
+            </p>
+            <p rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAPL3MC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDASL3MC" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2005/06:189 Ändringar i patentlagen:
+            </p>
+            <p type="html-endastettyrkande">
+              Riksdagen antar det i propositionen framlagda förslaget till
+              lag om ändring i patentlagen (1967:837).
+            </p>
+            <p rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDACM3MC" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{B0F7C81C-3E0A-4DC9-AADF-6BD963586C37}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{F239E34D-084D-417C-8D1A-C35B6F92CCD4}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{D11D0D61-5548-44F3-90EE-BCF63B156626}.tif"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

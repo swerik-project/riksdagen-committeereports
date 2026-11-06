@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200506_JuU_0015">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Regeringen har rapporterat till riksdagen om tillämpningen i Sverige av den europeiska arresteringsordern. Riksdagen avslutade ärendet utan att besluta något mer.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Den europeiska arresteringsordern (JuU15)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Skrivelsen till handlingarna. Avslag på motionerna</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag till beslut</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GT0997</idno>
+              <title>2006-03-29</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">97</biblScope>
+              <note type="display-reference">2006-03-29</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GT0997</idno>
+              <title>2006-03-29</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">97</biblScope>
+              <note type="display-reference">2006-03-29</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GT0K193</idno>
+              <title>2005/06:193</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">193</biblScope>
+              <note type="display-reference">2005/06:193</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="skr">
+              <idno type="riksdagen">GT0362</idno>
+              <title>Tillämpningen i Sverige av den europeiska arresteringsordern</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">62</biblScope>
+              <note type="display-reference">regeringsskrivelse 2005/06:62 Tillämpningen i Sverige av den europeiska arresteringsordern</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GT02Ju16</idno>
+              <title>med anledning av skr. 2005/06:62 Tillämpningen i Sverige av den europeiska arresteringsordern</title>
+              <title type="sub">av Leif Björnlod m.fl. (MP)</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">Ju16</biblScope>
+              <note type="display-reference">motion 2005/06:Ju16 med anledning av skr. 2005/06:62 Tillämpningen i Sverige av den europeiska arresteringsordern</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2006-03-24">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2006-03-24">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2006-03-22">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2006-03-22">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2006-03-22">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2006-03-21">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-03-21">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-03-21">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-03-07">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-03-07">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2006-03-29">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2006-03-29">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2006-03-29">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-03-29">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-03-29">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-03-28">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-03-28">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-03-27">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-03-27">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Justitieutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2005/06:JuU15
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Tillämpningen i Sverige av den europeiska arresteringsordern
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDABJTIC" rend="AvsnittsRubrik">
+            Sammanfattning
+          </p>
+          <p>
+            I detta ärende behandlar utskottet regeringens skrivelse 2005/06:62
+            Tillämpningen i Sverige av den europeiska arresteringsordern.
+            I ärendet behandlar utskottet också en motion som väckts med anledning
+            av skrivelsen.
+          </p>
+          <p>
+            Utskottet föreslår att skrivelsen läggs till handlingarna samt
+            att riksdagen avslår motionsyrkandena.
+          </p>
+          <p>
+            I ärendet finns två reservationer (mp) och ett särskilt yttrande
+            (v).
+          </p>
+          <p xml:id="IDAQJTIC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Regeringens skrivelse
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger regeringens skrivelse 2005/06:62 till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Upphävande av lagen om överlämnande från Sverige enligt en europeisk
+                  arresteringsorder
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2005/06:Ju16 yrkande 1.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 1 (mp)
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  3.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Rambeslut och följdlagstiftning
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2005/06:Ju16 yrkande 2.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 2 (mp)
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 21 mars 2006
+          </p>
+          <p>
+            På justitieutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Johan Pehrson
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Johan Pehrson (fp),
+            Britta Lejon (s), Rolf Olsson (v), Margareta Persson (s), Beatrice
+            Ask (m), Lennart Nilsson (s), Helena Frisk (s), Peter Althin (kd),
+            Elisebeht Markström (s), Jeppe Johnsson (m), Göran Norlander (s),
+            Johan Linander (c), Joe Frans (s), Cecilia Magnusson (m), Kerstin
+            Andersson (s), Leif Björnlod (mp) och Jan Ertsborn (fp).
+          </p>
+          <p xml:id="IDAHRTIC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAKRTIC" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Sedan den 1 januari 2004 gäller i Sverige lagen (2003:1156) om
+            överlämnande från Sverige enligt en europeisk arresteringsorder
+            och två förordningar i samma ämne. Författningarna grundar sig
+            på rådets rambeslut av den 13 juni 2002 om en europeisk arresteringsorder
+            och överlämnande mellan medlemsstaterna (EGT L 190, 18.7.2002,
+            s. 1).
+          </p>
+          <p>
+            I samband med att riksdagen godkände att Sverige antog rambeslutet
+            begärde riksdagen att regeringen i sin kommande proposition med
+            förslag till lagstiftning med anledning av rambeslutet skulle
+            lämna en redogörelse för hur en uppföljning av rambeslutets tillämpning
+            skulle ske (bet. 2001/02:JuU29, rskr. 256). Regeringen uttalade
+            i propositionen med förslag till ny lagstiftning (prop. 2003/04:7
+            s. 164) att den under år 2005 avsåg att återkomma till riksdagen
+            med en redogörelse för hur de berörda myndigheterna i Sverige
+            har tillämpat och berörts av den nya lagstiftningen. En utvärdering
+            har därefter genomförts, och regeringen presenterar i nu aktuell
+            skrivelse resultatet av den.
+          </p>
+          <p xml:id="IDATRTIC" rend="rubrik2">
+            Skrivelsens huvudsakliga innehåll
+          </p>
+          <p>
+            I skrivelsen lämnar regeringen en redovisning av tillämpningen
+            av den svenska lagstiftningen med anledning av rambeslutet om
+            en europeisk arresteringsorder och överlämnande mellan medlemsstaterna.
+            Redogörelsen omfattar tiden den 1 januari 2004 t.o.m. den 30 juni
+            2005.
+          </p>
+          <p>
+            Vidare lämnar regeringen sin bedömning av de frågor som har uppmärksammats
+            vid utvärderingen.
+          </p>
+          <p xml:id="IDA3RTIC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDABSTIC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div rend="ruta_">
+              <p rend="textiruta_">
+                I regeringens skrivelse redogörs för tillämpningen av den svenska
+                lagstiftningen med anledning av rambeslutet om en europeisk arresteringsorder
+                och överlämnande mellan medlemsstaterna under perioden den 1 januari
+                2004 t.o.m. den 30 juni 2005. Utskottet föreslår att riksdagen
+                lägger skrivelsen till handlingarna. Utskottet föreslår vidare
+                att riksdagen avslår dels ett motionsyrkande om att lagen om överlämnande
+                från Sverige enligt en europeisk arresteringsorder skall upphävas,
+                dels ett motionsyrkande om att godkännande av rambeslut och efterföljande
+                lagstiftningsåtgärder bör behandlas i ett sammanhang.
+              </p>
+              <p rend="textiruta_">
+                Jämför reservationerna 1 och 2 (båda mp) samt det särskilda yttrandet
+                (v).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAGSTIC" rend="rubrik3">
+              Inledning
+            </p>
+            <p>
+              Den 1 januari 2004 trädde systemet med överlämnande enligt en
+              europeisk arresteringsorder i kraft mellan EU:s medlemsstater.
+              Syftet var främst att skapa ett bättre, enklare och snabbare förfarande
+              än det som gäller för utlämning. Flera av medlemsstaterna hade
+              emellertid inte genomfört rambeslutet vid dess ikraftträdande.
+              Det innebar att överlämnande enligt en europeisk arresteringsorder
+              och äldre bestämmelser om utlämning kom att tillämpas parallellt
+              inom EU. Som sista stat genomförde Italien rambeslutet i maj 2005.
+              I juli 2005 ogiltigförklarade den tyska författningsdomstolen
+              den tyska lagstiftning som avsåg att genomföra rambeslutet i Tyskland.
+              För Sveriges del innebär det att i förhållande till Tyskland tillämpas
+              äldre bestämmelser om utlämning.
+            </p>
+            <p>
+              De svenska bestämmelserna om arresteringsordern finns främst
+              i lagen (2003:1156) om överlämnande från Sverige enligt en europeisk
+              arresteringsorder, förordningen (2003:1179) om överlämnande från
+              Sverige enligt en europeisk arresteringsorder och förordningen
+              (2003:1178) om överlämnande till Sverige enligt en europeisk arresteringsorder.
+              Dessa trädde i kraft den 1 januari 2004 (prop. 2003/04:7, bet.
+              JuU8, rskr. 107).
+            </p>
+            <p>
+              Förfarandet vid överlämnande enligt en europeisk arresteringsorder
+              motsvarar till stora delar vad som gäller vid utlämning. Det finns
+              dock några betydande skillnader. En av de viktigare skillnaderna
+              är att det övergripande beslutsansvaret flyttas från regeringen
+              till de allmänna domstolarna. En annan stor skillnad är att den
+              verkställande medlemsstaten inte skall göra någon prövning av
+              om den dom eller det beslut som meddelats i den utfärdande medlemsstaten
+              är korrekt utan skall godta den bedömning som har gjorts i den
+              staten. Detta är en konsekvens av principen om ömsesidigt erkännande.
+              Som huvudregel gäller ett krav på att det brott som ligger till
+              grund för arresteringsordern skall vara straffbart också i den
+              verkställande staten (dubbel straffbarhet), men detta har frångåtts
+              i fråga om 32 brottstyper som anges i en bilaga till rambeslutet
+              (s.k. listbrott).
+            </p>
+            <p xml:id="IDASSTIC" rend="rubrik3">
+              Skrivelsen
+            </p>
+            <p>
+              I skrivelsen redogörs för tillämpningen av den svenska lagstiftningen
+              med anledning av rambeslutet om en europeisk arresteringsorder
+              och överlämnande mellan medlemsstaterna under perioden den 1 januari
+              2004 t.o.m. den 30 juni 2005. Vidare analyseras om överlämnandeförfarandet
+              möter de krav på såväl effektivitet som rättssäkerhet som måste
+              ställas.
+            </p>
+            <p>
+              Nedan redogörs först kortfattat för vad som anförs i skrivelsen
+              om tillämpningen av lagstiftningen såvitt avser arresteringsorder
+              utfärdade i Sverige och överlämnande hit. Därefter redogörs på
+              motsvarande sätt för tillämpningen av lagstiftningen såvitt avser
+              arresteringsorder utfärdade av annan medlemsstat och överlämnande
+              från Sverige. Slutligen redovisar utskottet sin bedömning av vad
+              som anförs i skrivelsen.
+            </p>
+            <p xml:id="IDA1STIC" rend="rubrik4">
+              Arresteringsorder utfärdade i Sverige och överlämnande hit
+            </p>
+            <p>
+              Enligt skrivelsen har Rikspolisstyrelsen genom Nationella sambandskontoret
+              (NSK) redovisat att fr.o.m. januari 2004 t.o.m. juni 2005 utfärdade
+              svenska åklagare 115 arresteringsorder för
+              <seg rend="grad2">
+                lagföring
+              </seg>
+              , 74 år 2004 och 41 första halvåret 2005. Tio av dessa har utfärdats
+              vid Ekobrottsmyndigheten. Av utfärdade arresteringsorder har 16
+              återkallats, i flertalet fall därför att den eftersökte har återfunnits
+              i Sverige. De eftersökta personerna har efterlysts internationellt,
+              regelmässigt för verkställighet av arresteringsordern i de stater
+              där den gäller och i övrigt för utlämning från antingen övriga
+              världen eller från vissa länder eller områden.
+            </p>
+            <p>
+              De vanligaste brottstyperna i svenska arresteringsorder för lagföring
+              är grovt narkotikabrott och grov narkotikasmuggling, egenmäktighet
+              med barn, grovt brott, och mord. En stor majoritet av de eftersökta
+              personerna är män och medborgare i Sverige. Såvitt framkommit
+              har endast två arresteringsorder utfärdats för eftersökta som
+              kan ha varit under 18 år.
+            </p>
+            <p>
+              Sammanlagt har 32 personer överlämnats för lagföring till Sverige
+              under den aktuella tidsperioden. I två fall har överlämnande till
+              Sverige vägrats.
+            </p>
+            <p>
+              Med ett fåtal undantag har de i rambeslutet uppställda tidsfristerna
+              iakttagits.
+            </p>
+            <p>
+              När det gäller arresteringsorder utfärdade i Sverige och överlämnande
+              hit för
+              <seg rend="grad2">
+                verkställighet av påföljd
+              </seg>
+              har det enligt NSK fr.o.m. januari 2004 t.o.m. juni 2005 utfärdats
+              89 internationella efterlysningar för överlämnande eller utlämning
+              för verkställighet av påföljd (ärenden om överlämnande särredovisas
+              inte från ärenden om utlämning).
+            </p>
+            <p>
+              37 utfärdade arresteringsorder har återkallats, i regel sedan
+              den eftersökte har påträffats i Sverige. NSK hade den 15 september
+              2005 redovisat 18 fall där eftersökta personer har påträffats
+              i en stat där den europeiska arresteringsordern varit tillämplig,
+              och Kriminalvårdsstyrelsen har i en separat redovisning angett
+              att 9 internationellt efterlysta personer återförts till kriminalvården
+              med tillämpning av sådana regler.
+            </p>
+            <p>
+              I de 66 fall som kontrollerats i utvärderingen har 41 arresteringsorder
+              utfärdats avseende dömda som inte inställt sig i anstalt enligt
+              inställelsebeslut. I 25 fall har arresteringsorder utfärdats under
+              pågående verkställighet på grund av avvikelse från anstalt eller
+              efter permission. De vanligaste registrerade huvudbrotten är narkotikabrott,
+              misshandel, rån eller grovt rån och mord eller dråp.
+            </p>
+            <p>
+              De eftersökta för verkställighet av påföljd har i majoriteten
+              av fallen varit vuxna, men det finns några fall där personer i
+              åldersgruppen 17-20 år har efterlysts på begäran av Statens institutionsstyrelse.
+              En stor majoritet av de eftersökta personerna i svenska arresteringsorder
+              för verkställighet av påföljd är män och medborgare i Sverige.
+              I ett fall har överlämnande till Sverige vägrats.
+            </p>
+            <p>
+              I allt väsentligt synes tidsfristerna enligt rambeslutet ha iakttagits.
+            </p>
+            <p>
+              I skrivelsen görs bedömningen att syftet med den europeiska arresteringsordern
+              - kortare handläggningstider och ökade möjligheter att beivra
+              brott - har uppnåtts när Sverige är utfärdande stat. De kortare
+              handläggningstiderna innebär bl.a. kortare frihetsberövande för
+              enskilda. Några negativa aspekter som skiljer förfarandet med
+              överlämnande till Sverige från utlämning hit, t.ex. i rättssäkerhetshänseende,
+              har inte framkommit under utvärderingen. Tillämpningen i Sverige
+              i ärenden om överlämnande hit har enligt regeringen fungerat bra.
+              Regeringen anser i sammanhanget att det ändå finns behov av att
+              se över bl.a. kraven på underlaget för att en svensk arresteringsorder
+              för lagföring skall få utfärdas. Frågan kommer att övervägas i
+              samband med beredningen inom Regeringskansliet av en inom ramen
+              för det nordiska samarbetet framförhandlad konvention om ett nytt
+              utlämningsförfarande inom Norden (en nordisk arresteringsorder).
+            </p>
+            <p xml:id="IDAEUTIC" rend="rubrik4">
+              Arresteringsorder utfärdade av annan medlemsstat och överlämnande
+              från Sverige
+            </p>
+            <p>
+              Under år 2004 har 19 ärenden anhängiggjorts vid domstol och under
+              första halvåret 2005 22 ärenden. Av dem har 2 ärenden avsett överlämnande
+              av eftersökta såväl för lagföring som för verkställighet. Övriga
+              har avsett överlämnande för straffverkställighet i 4 fall och
+              för lagföring i 35 fall. Svenska domstolar har under år 2004 och
+              första halvåret 2005 beslutat om överlämnande i 35 ärenden.
+            </p>
+            <p>
+              Merparten av de ärenden som anhängiggjorts i domstolarna har
+              inletts sedan en person som varit internationellt efterlyst i
+              Schengens informationssystem (SIS) eller genom Interpol har påträffats
+              i Sverige. De vanligaste brottsrubriceringarna i arresteringsorder
+              som avsett överlämnande från Sverige har varit grova brott som
+              mord, våldtäkt och rån i ett tiotal ärenden samt i drygt tio fall
+              bedrägeri eller grovt bedrägeri och stöld eller grov stöld. I
+              alla fall utom två var de personer som överlämnades 21 år eller
+              äldre. Majoriteten av de personer som överlämnats har varit svenska
+              medborgare och män.
+            </p>
+            <p>
+              I de ärenden som inkom under år 2004 och under första halvåret
+              2005 har offentlig försvarare förordnats i alla fall utom ett.
+              I det sistnämnda fallet var det uppenbart att det begärda överlämnandet
+              skulle vägras. Den genomsnittliga handläggningstiden uppgick till
+              16 dagar. Om man undantar tre ärenden i vilka inga frister var
+              tillämpliga har den genomsnittliga totala handläggningstiden uppgått
+              till 11 dagar.
+            </p>
+            <p>
+              I skrivelsen görs bedömningen att syftet med den europeiska arresteringsordern
+              - kortare handläggningstider och ökad förutsebarhet - har uppnåtts
+              när Sverige är verkställande stat. Det har inte framkommit några
+              belägg för att de farhågor i rättssäkerhetshänseende som tidigare
+              framförts skulle ha besannats i den praktiska tillämpningen. Tillämpningen
+              har enligt regeringen i allt väsentligt fungerat väl. I några
+              delar finns det emellertid anledning att överväga mindre justeringar.
+              Det rör bl.a. efterlysningar som gjorts på annat sätt än genom
+              SIS, utlämning till övriga nordiska EU-stater, utgångspunkten
+              för beräkning av tidsfristen inom vilken tingsrätten skall fatta
+              beslut om överlämnande, frågan om ett muntligt samtycke till överlämnande
+              skall jämställas med ett skriftligt samtycke samt möjlighet till
+              omedelbar verkställighet av beslut om överlämnande av beslagtagna
+              föremål. Regeringen uppger att den avser att överväga dessa frågor
+              i andra sammanhang, främst i samband med det tidigare beskrivna
+              arbetet med en nordisk arresteringsorder. Vidare bör enligt regeringen
+              övervägas och diskuteras internationellt om möjligheterna till
+              ersättning i samband med utlämning och överlämnande bör utökas.
+            </p>
+            <p xml:id="IDATUTIC" rend="rubrik4">
+              Utskottets bedömning
+            </p>
+            <p>
+              Utskottet har inte något att erinra mot vad som framkommit genom
+              redovisningen. När det gäller de frågor som har uppmärksammats
+              vid utvärderingen finner utskottet inte anledning att göra någon
+              annan bedömning än regeringen. Utskottet, som förutsätter att
+              regeringen även i fortsättningen noga följer tillämpningen av
+              den europeiska arresteringsordern, föreslår att skrivelsen läggs
+              till handlingarna.
+            </p>
+            <p xml:id="IDAZUTIC" rend="rubrik3">
+              Lagen om överlämnande från Sverige enligt en europeisk arresteringsorder
+            </p>
+            <p>
+              I motion Ju16 (mp) yrkar motionärerna att lagen om överlämnande
+              från Sverige enligt en europeisk arresteringsorder bör upphävas.
+              Enligt motionärerna är förfarandet inte rättssäkert.
+            </p>
+            <p>
+              Utskottet behandlade liknande motionsyrkanden i december 2003,
+              i samband med införandet av lagen om överlämnande från Sverige
+              enligt en europeisk arresteringsorder (prop. 2003/04:7, bet. JuU8
+              s. 14). I de då aktuella motionerna yrkade motionärerna avslag
+              på propositionen främst på den grund att lagförslaget inte uppfyllde
+              de höga krav på rättssäkerhet som bör ställas i en rättsstat.
+              Utskottet noterade inledningsvis att rambeslutet om en europeisk
+              arresteringsorder och överlämnande mellan medlemsstaterna, efter
+              dess antagande den 13 juni 2002, är bindande för Sverige och att
+              det därmed föreligger en skyldighet att uppfylla de åtaganden
+              som följer av rambeslutet. I samband med riksdagens godkännande
+              av utkastet till rambeslut delade utskottet regeringens bedömning
+              att de fördelar som den europeiska arresteringsordern erbjuder
+              överväger de svårigheter och nackdelar som kan finnas. Bland annat
+              framhölls att rambeslutet på ett bra sätt utvecklar det rättsliga
+              samarbetet och ger avsevärt bättre möjligheter att utreda och
+              beivra brott. Vidare framhölls att rambeslutet innebär ett större
+              inslag av rättslig prövning i förfarandet och tvingar medlemsstaterna
+              att kraftigt minska handläggningstiderna för prövning av framställningar
+              (bet. 2001/02:JuU29 s. 9 f.). Utskottet hade inte någon annan
+              uppfattning i december 2003 utan delade regeringens bedömning
+              att det borde införas en ny lag som reglerar bestämmelserna om
+              överlämnande från Sverige enligt en europeisk arresteringsorder.
+              Lagen borde i huvudsak ges den lydelse som regeringen hade föreslagit.
+              Utskottet ville härvid anmärka att det, om tillämpningen av lagen
+              skulle visa att förtydliganden krävs eller att möjligheterna till
+              avslag respektive rätten att ställa villkor bör utvidgas, alltid
+              finns en möjlighet för riksdagen att ändra lagen. Detta förutsätter
+              självklart att de i sådana fall aktuella lagändringarna är förenliga
+              med rambeslutet. Utskottet ville i sammanhanget även tillägga
+              att domstolarna vid tillämpningen av den nya lagen har att beakta
+              bestämmelserna i grundlag om bl.a. tryckfrihet och yttrandefrihet.
+              Domstolarna skall även beakta bestämmelserna i Europakonventionen
+              jämte tilläggsprotokoll, t.ex. diskrimineringsförbudet samt rätten
+              till en rättvis rättegång. Mot den bakgrunden ansåg utskottet
+              att de rättssäkerhetskrav som måste ställas på en lagstiftning
+              av förevarande slag är uppfyllda, och utskottet avstyrkte de då
+              aktuella motionsyrkandena.
+            </p>
+            <p>
+              Utskottets uppfattning i frågan kvarstår. Som anförts tidigare
+              har det inte heller framkommit några belägg för att de farhågor
+              i rättssäkerhetshänseende som tidigare framförts skulle ha besannats
+              i den praktiska tillämpningen av arresteringsordern. Utskottet
+              avstyrker motion Ju16 i nu behandlad del.
+            </p>
+            <p xml:id="IDAFVTIC" rend="rubrik3">
+              Rambeslut och följdlagstiftning
+            </p>
+            <p>
+              I motion Ju16 (mp) tas upp en mer principiell fråga rörande riksdagens
+              behandling av godkännande av rambeslut. Motionärerna anför att
+              godkännande av rambeslut och efterföljande lagstiftning bör behandlas
+              i ett sammanhang.
+            </p>
+            <p>
+              Utskottet har vid flera tillfällen tidigare behandlat motionsyrkanden
+              liknande det nu aktuella, senast våren 2005 (bet. 2004/05:Ju25
+              s. 10 f.). För en utförlig redogörelse av formerna för godkännande
+              av rambeslut m.m. hänvisas till detta betänkande. Sammanfattningsvis
+              anförde utskottet i huvudsak följande. Utskottet delade motionärernas
+              uppfattning att riksdagen skulle få ett bättre underlag för sitt
+              ställningstagande om ärenden om godkännande av rambeslut samtidigt
+              kunde åtföljas av ett förslag till svensk följdlagstiftning. Det
+              har emellertid visat sig att det sällan finns tid till ett sådant
+              förfarande inom de tidsramar som gäller för EU:s antagande av
+              rambeslut. Att avvakta med godkännande av rambeslutet till dess
+              att ett tillfredsställande beredningsunderlag hämtats in och ett
+              lagförslag såvitt avser följdlagstiftning hunnit utarbetas skulle
+              ofta innebära betydande förseningar av antagande av rambeslutet.
+              Då antagandet kräver enhällighet skulle förseningen drabba samtliga
+              övriga medlemsstater. Ett sådant förfarande skulle motverka syftet
+              med institutet rambeslut och i viss mån innebära en återgång till
+              den ordning som gällde tidigare. En anledning till att rambeslut
+              började användas som rättsligt instrument på det rättsliga området
+              var just ett missnöje med denna ordning. En avvägning måste i
+              regel göras mellan intresset av att anta rambeslutet inom de tidsramar
+              som ställts upp av EU och intresset av att en proposition om godkännande
+              av rambeslut innehåller förslag till följdlagstiftning. Sverige
+              bör inte fördröja antagandet av rambeslut annat än om det finns
+              mycket starka skäl i det enskilda fallet. Utskottet ansåg att
+              någon åtgärd i denna principiella fråga då inte var erforderlig
+              och avstyrkte bifall till motionsyrkandet.
+            </p>
+            <p>
+              Utskottets uppfattning i frågan kvarstår. Riksdagen bör avslå
+              motion Ju16 i här behandlad del.
+            </p>
+            <p xml:id="IDAUVTIC" rend="AvsnittsRubrik">
+              Reservationer
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservationer. I rubriken anges vilken
+              punkt i utskottets förslag till riksdagsbeslut som behandlas i
+              avsnittet.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDA3VTIC">
+                  <p rend="reservation">
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Upphävande av lagen om överlämnande från Sverige enligt en europeisk
+                    arresteringsorder, punkt 2 (mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Leif Björnlod (mp).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAWXTIC" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Jag anser att förslaget till riksdagsbeslut under punkt 2 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen om upphävande av lagen om överlämnande
+              från Sverige enligt en europeisk arresteringsorder. Därmed bifaller
+              riksdagen motion 2005/06:Ju16 yrkande 1.
+            </p>
+            <p xml:id="IDAEYTIC" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Rambeslutet om en europeisk arresteringsorder och överlämnande
+              mellan medlemsstaterna tillkom i stor hast och utan möjlighet
+              till normal remissbehandling och debatt. Detta var mycket olyckligt
+              eftersom rambeslutet innehåller flera bestämmelser som påverkar
+              den enskildes rättssäkerhet. Jag är t.ex. mycket kritisk till
+              att kravet på dubbel straffbarhet delvis togs bort. I och med
+              detta minskade förutsebarheten och därmed rättssäkerheten för
+              den enskilde, särskilt som det för flera av de brott som omfattas
+              av den s.k. listan saknas samsyn inom EU. Vissa handlanden, t.ex.
+              att gömma en flykting eller att göra abort, kan av vissa medlemsstater
+              anses utgöra ett brott enligt listan, medan det för andra medlemsstater
+              är helt otänkbart att kriminalisera en sådan gärning. Enligt min
+              mening är det en grundläggande princip i en rättsstat att den
+              enskilde skall kunna förutse om han eller hon begår en brottslig
+              gärning.
+            </p>
+            <p>
+              Jag är vidare mycket kritisk till att rambeslutet och lagen gör
+              det möjligt att överlämna barn mellan 15 och 18 år för lagföring
+              eller verkställighet och att det inte finns någon möjlighet att
+              avslå en sådan begäran t.ex. om den unge riskerar att ställas
+              inför rätta som vuxen i en annan medlemsstat. Inte heller finns
+              några humanitära avslagsgrunder vare sig i rambeslutet eller i
+              lagstiftningen. Detta är enligt min mening otillfredsställande.
+            </p>
+            <p>
+              Sammantaget anser jag att lagen om överlämnande från Sverige
+              enligt en europeisk arresteringsorder inte uppfyller de rättssäkerhetskrav
+              som måste ställas på en lagstiftning av förevarande slag. Lagen
+              bör därför upphävas. Regeringen bör återkomma med ett lagförslag
+              som tillgodoser vad jag här anfört.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAVYTIC">
+                  <p rend="reservation">
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Rambeslut och följdlagstiftning, punkt 3 (mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Leif Björnlod (mp).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAO0TIC" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Jag anser att förslaget till riksdagsbeslut under punkt 3 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen om rambeslut och följdlagstiftning. Därmed
+              bifaller riksdagen motion 2005/06:Ju16 yrkande 2.
+            </p>
+            <p xml:id="IDAX0TIC" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Enligt min mening är den beslutsordning som tillämpas i fråga
+              om rambeslut inte en acceptabel lagstiftningsteknik. För att kunna
+              garantera rättssäkerheten för den enskilde bör det innan riksdagen
+              fattar beslut om att godkänna ett rambeslut stå helt klart vilka
+              konsekvenser beslutet kommer att få för den svenska lagstiftningen.
+              Det bör därför vara ett krav att riksdagen i samband med antagande
+              av rambeslut även får ta ställning till de lagändringar som kommer
+              att bli nödvändiga till följd av rambeslutet. Bara genom ett sådant
+              förfarande ges utrymme för såväl ett ordentligt remissförfarande
+              som lagrådsgranskning. Härigenom ges också tid och möjlighet till
+              debatt och analys av förslagens innehåll och konsekvenser för
+              svensk del.
+            </p>
+            <p>
+              Det får ankomma på regeringen att beakta vad jag nu anfört i
+              arbetet med framtida rambeslut.
+            </p>
+            <p xml:id="IDAF1TIC" rend="AvsnittsRubrik">
+              Särskilda yttranden
+            </p>
+          </div>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDAL1TIC">
+                  <p rend="ettsarskiltyttrande">
+                    Upphävande av lagen om överlämnande från Sverige enligt en europeisk
+                    arresteringsorder, punkt 2 (v)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    Rolf Olsson (v) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Rambeslutet om en europeisk arresteringsorder och överlämnande
+              mellan medlemsstaterna tillkom i stor hast och utan möjlighet
+              till normal remissbehandling och debatt. Detta var mycket olyckligt
+              eftersom rambeslutet innehåller flera bestämmelser som påverkar
+              den enskildes rättssäkerhet. Jag är t.ex. mycket kritisk till
+              att kravet på dubbel straffbarhet delvis togs bort. I och med
+              detta minskade förutsebarheten och därmed rättssäkerheten för
+              den enskilde, särskilt som det för flera av de brott som omfattas
+              av den s.k. listan saknas samsyn inom EU. Vissa handlanden, t.ex.
+              att gömma en flykting eller att göra abort, kan av vissa medlemsstater
+              anses utgöra ett brott enligt listan, medan det för andra medlemsstater
+              är helt otänkbart att kriminalisera en sådan gärning. Enligt min
+              mening är det en grundläggande princip i en rättsstat att den
+              enskilde skall kunna förutse om han eller hon begår en brottslig
+              gärning.
+            </p>
+            <p>
+              Jag är vidare mycket kritisk till att rambeslutet och lagen gör
+              det möjligt att överlämna barn mellan 15 och 18 år för lagföring
+              eller verkställighet och att det inte finns någon möjlighet att
+              avslå en sådan begäran t.ex. om den unge riskerar att ställas
+              inför rätta som vuxen i en annan medlemsstat. Inte heller finns
+              några humanitära avslagsgrunder vare sig i rambeslutet eller i
+              lagstiftningen. Detta är enligt min mening otillfredsställande.
+            </p>
+            <p>
+              Mot bakgrund av det anförda är det viktigt att regeringen noga
+              följer tillämpningen av reglerna med beaktande av rättssäkerhetsaspekterna.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAY2TIC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDA12TIC" rend="rubrik2">
+              Skrivelsen
+            </p>
+            <p type="html-endastettyrkande">
+              Regeringens skrivelse 2005/06:62 Tillämpningen i Sverige av den
+              europeiska arresteringsordern.
+            </p>
+            <p xml:id="IDA52TIC" rend="rubrik2">
+              Följdmotion
+            </p>
+            <p rend="behandlatdokument_">
+              2005/06:Ju16 av Leif Björnlod m.fl. (mp):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad i motionen
+                    anförs om att lagen om den europeiska arresteringsordern bör avskaffas.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad i motionen
+                    anförs om att beslutsordningen vid godkännande av s.k. rambeslut
+                    och efterföljande lagstiftningsåtgärder bör behandlas i ett sammanhang.
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

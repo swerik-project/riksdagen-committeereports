@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200405_JUU_0002">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">En ny lag om luftfartsskydd ersätter den 1 januari 2005 lagen om särskild kontroll på flygplats. Lagen om luftfartsskydd innehåller kompletterande bestämmelser till en EG-förordning om skyddsregler för den civila luftfarten. Den nya lagen innebär att den som driver en flygplats ska ha ansvaret, inklusive det ekonomiska ansvaret, för att det finns tillräckligt med personal, lokaler och utrustning för luftfartsskyddet på den egna flygplatsen. Säkerhetskontrollerna ska även i fortsättningen ske under en polismans ledning, och polisen ska ha det yttersta ansvaret för denna kontroll. Företag som godkänts av myndigheterna får dock själva svara för säkerhetskontrollen av den egna personalen. Det ska finnas ett särskilt avgiftssystem för att finansiera säkerhetskontrollerna av passagerarna och deras bagage.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Ny lag om luftfartsskydd (JuU2)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Delvis bifall till propositionen med den ändringen att lagen i sin helhet skall träda i kraft den 1 januari 2005.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GS0921</idno>
+              <title>2004-10-27</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">21</biblScope>
+              <note type="display-reference">2004-10-27</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GS0921</idno>
+              <title>2004-10-27</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">21</biblScope>
+              <note type="display-reference">2004-10-27</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GS0K21</idno>
+              <title>2004/05:21</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">21</biblScope>
+              <note type="display-reference">2004/05:21</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2004:1100</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GR03154</idno>
+              <title>Lag om luftfartsskydd</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">154</biblScope>
+              <note type="display-reference">proposition 2003/04:154 Lag om luftfartsskydd</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GR02Ju26</idno>
+              <title>med anledning av prop. 2003/04:154 Lag om luftfartsskydd</title>
+              <title type="sub">av Elizabeth Nyström m.fl. (M)</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">Ju26</biblScope>
+              <note type="display-reference">motion 2003/04:Ju26 med anledning av prop. 2003/04:154 Lag om luftfartsskydd</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GR02Ju27</idno>
+              <title>med anledning av prop. 2003/04:154 Lag om luftfartsskydd</title>
+              <title type="sub">av Johan Pehrson m.fl. (FP, C)</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">Ju27</biblScope>
+              <note type="display-reference">motion 2003/04:Ju27 med anledning av prop. 2003/04:154 Lag om luftfartsskydd</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GR02Ju28</idno>
+              <title>med anledning av prop. 2003/04:154 Lag om luftfartsskydd</title>
+              <title type="sub">av Beatrice Ask m.fl. (M)</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">Ju28</biblScope>
+              <note type="display-reference">motion 2003/04:Ju28 med anledning av prop. 2003/04:154 Lag om luftfartsskydd</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2004-10-22">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2004-10-22">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2004-10-19">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2004-10-19">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2004-10-19">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2004-10-14">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2004-10-14">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2004-10-14">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2004-09-30">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2004-09-30">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2004-10-27">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2004-10-27">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2004-10-27">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2004-10-27">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2004-10-27">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2004-10-26">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2004-10-26">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2004-10-22">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2004-10-22">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Justitieutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2004/05:JUU2
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Lag om luftfartsskydd
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I detta betänkande behandlar utskottet proposition
+            2003/04:154 Lag om luftfartsskydd jämte tre motioner som väckts
+            med anledning av propositionen. I propositionen föreslås att en
+            ny lag om luftfartsskydd införs och att lagen om särskild kontroll
+            på flygplats skall upphöra att gälla. Lagen om luftfartsskydd
+            innehåller kompletterande bestämmelser till en EG-förordning om
+            införande av gemensamma skyddsregler för den civila luftfarten.
+            Förslaget innebär att den som driver en flygplats skall ha ansvaret,
+            inklusive det ekonomiska ansvaret, för att det finns tillräckligt
+            med personal, lokaler och utrustning för luftfartsskyddet på den
+            egna flygplatsen. Säkerhetskontrollerna skall även fortsättningsvis
+            ske under polismans ledning, och polisen skall ha det yttersta
+            ansvaret för denna kontroll. Företag som godkänts av behörig myndighet
+            får dock själva svara för säkerhetskontrollen av den egna personalen.
+            För finansieringen av säkerhetskontrollerna av passagerarna och
+            deras bagage föreslås att ett särskilt avgiftssystem skapas. Utskottet
+            tillstyrker propositionen med den ändringen att lagen i sin helhet
+            skall träda i kraft den 1 januari 2005, då lagen (1970:926) om
+            särskild kontroll på flygplats skall upphöra att gälla. I ärendet
+            finns fem reservationer (m, fp, kd, c).
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Företags säkerhetskontroll
+            av den egna personalen Riksdagen antar regeringens förslag till
+            lag om luftfartsskydd såvitt avser 2 § tredje stycket. Därmed
+            bifaller riksdagen proposition 2003/04:154 i denna del och avslår
+            motion 2003/04:Ju27 yrkandena 1 och 2. Reservation 1 (m, fp, kd,
+            c) 2. Lag om luftfartsskydd Riksdagen antar regeringens förslag
+            till lag om luftfartsskydd i den mån det inte omfattas av utskottets
+            förslag ovan med den ändringen att tidpunkten för ikraftträdandet
+            av 1-10 §§ bestäms till den 1 januari 2005, då lagen (1970:926)
+            om särskild kontroll på flygplats skall upphöra att gälla. Därmed
+            bifaller riksdagen delvis proposition 2003/04:154 i denna del.
+            3. Kroppsvisitation utanför behörighetsområden Riksdagen avslår
+            motion 2003/04:Ju28 yrkande 2. Reservation 2 (m, fp) 4. Skadeståndsansvar
+            vid bristande säkerhetskontroll Riksdagen avslår motion 2003/04:Ju28
+            yrkande 3. Reservation 3 (m, fp) 5. Finansieringen av säkerhetskontrollerna
+            Riksdagen avslår motionerna 2003/04:Ju26, 2003/04:Ju27 yrkande
+            3 och 2003/04:Ju28 yrkande 1. Reservation 4 (m) Reservation 5
+            (fp, c) Stockholm den 14 oktober 2004 På justitieutskottets vägnar
+            Johan Pehrson Följande ledamöter har deltagit i beslutet: Johan
+            Pehrson (fp), Susanne Eberstein (s), Rolf Olsson (v), Margareta
+            Sandgren (s), Beatrice Ask (m), Lennart Nilsson (s), Helena Frisk
+            (s), Peter Althin (kd), Elisebeht Markström (s), Jeppe Johnsson
+            (m), Yilmaz Kerimo (s), Torkild Strandberg (fp), Johan Linander
+            (c), Göran Norlander (s), Cecilia Magnusson (m) och Joe Frans
+            (s).
+          </p>
+          <p>
+            Redogörelse för ärendet Ärendet och dess beredning Inom Näringsdepartementet
+            upprättades våren 2003 departementspromemorian Avgiftsutjämningssystem
+            för luftfartsskydd (Ds 2003:37). I promemorian föreslås en ny
+            lag om luftfartsskydd och ett system för utjämning av de avgifter
+            som tas ut för att täcka kostnaderna för luftfartsskyddet vid
+            de svenska flygplatserna. Den nya lagen föreslås ersätta lagen
+            (1970:926) om särskild kontroll på flygplats. Lagen om luftfartsskydd
+            innehåller kompletterande bestämmelser till Europaparlamentets
+            och rådets förordning (EG) nr 2320/2002 av den 16 december 2002
+            om införande av gemensamma skyddsregler för den civila luftfarten
+            (EGT L 355, 30.12.2002, s. 1, Celex 32002R2320). EG-förordningen
+            finns i bilaga 3. EG-förordningen har ändrats genom förordning
+            nr 849/2004 av den 29 april 2004 (EUT L 158, 30.4.2004, s.1, Celex
+            32004R0849). Ändringsförordningen finns i bilaga 4. Departementspromemorian
+            har remissbehandlats. En sammanställning av remissyttrandena finns
+            tillgänglig i Näringsdepartementet (dnr N2003/4717/TP). Lagrådet
+            har granskat regeringens förslag och därvid lämnat det utan erinran.
+            Regeringens lagförslag finns i bilaga 2. Justitieutskottet har
+            berett trafikutskottet tillfälle att yttra sig över propositionen
+            jämte följdmotioner. Trafikutskottets yttrande finns i bilaga
+            5. Propositionens huvudsakliga innehåll I propositionen föreslås
+            att en ny lag om luftfartsskydd införs och att lagen om särskild
+            kontroll på flygplats skall upphöra att gälla. Lagen om luftfartsskydd
+            innehåller kompletterande bestämmelser till en EG-förordning om
+            införande av gemensamma skyddsregler för den civila luftfarten.
+            Förslaget innebär att den som driver en flygplats skall ha ansvaret,
+            inklusive det ekonomiska ansvaret, för att det finns tillräckligt
+            med personal, lokaler och utrustning för luftfartsskyddet på den
+            egna flygplatsen, såvida inte annat följer av särskilt meddelade
+            bestämmelser om luftfartsskydd. Den som driver en flygplats skall
+            se till att flygplatsen är inrättad och utrustad enligt EG-förordningens
+            regler och svenska nationella tillämpningsbestämmelser. Säkerhetskontrollerna
+            skall enligt förslaget även fortsättningsvis ske under polismans
+            ledning, och polisen skall ha det yttersta ansvaret för denna
+            kontroll. För finansieringen av säkerhetskontrollerna av passagerarna
+            och deras bagage föreslås att ett särskilt avgiftssystem skapas.
+            De faktiska kostnaderna för kontrollerna varierar betydligt mellan
+            olika flygplatser beroende på bl.a. storleken på passagerarflödena.
+            I propositionen föreslås därför ett system för utjämning, så att
+            en enhetlig avgift tas ut för alla resande. Avgiften, som skall
+            beräknas per passagerare, tas ut av flygföretagen. Den skall täcka
+            de samlade kostnaderna för säkerhetskontroller av passagerare
+            och deras bagage vid svenska flygplatser. De närmare principerna
+            för hur systemet för utjämning skall förvaltas bör enligt förslaget
+            fastställas av regeringen eller den myndighet regeringen bestämmer.
+            Den nya lagen föreslås träda i kraft den 1 oktober 2004, utom
+            såvitt gäller bestämmelserna om den enhetliga avgiften för säkerhetskontroll
+            av passagerare och deras bagage, som skall träda i kraft den 1
+            januari 2005.
+          </p>
+          <p>
+            Utskottets överväganden Lag om luftfartsskydd Utskottets förslag
+            i korthet Utskottet föreslår att riksdagen antar regeringens förslag
+            till lag om luftfartsskydd med den ändringen att lagen i sin helhet
+            skall träda i kraft den 1 januari 2005, då lagen (1970:926) om
+            särskild kontroll på flygplats skall upphöra att gälla. Utskottet
+            föreslår också att riksdagen avslår tre motioner som väckts med
+            anledning av propositionen. Motionerna tar upp frågor om företags
+            säkerhetskontroll av den egna personalen, kroppsvisitation utanför
+            behörighetsområden, skadeståndsansvar vid bristande säkerhetskontroll
+            samt principer för finansieringen av säkerhetskontrollerna. Jämför
+            reservationerna 1-5. Inledning Säkerhetskontroller på flygplatser
+            regleras i dag främst av EG-förordningen nr 2320/2002 om införande
+            av gemensamma skyddsregler för den civila luftfarten. Av förordningen
+            framgår bl.a. att kontroller skall ske fortlöpande samt att varje
+            medlemsstat skall anta ett nationellt säkerhetsprogram för civil
+            luftfart. De gemensamma grundläggande standarderna för åtgärder
+            avseende luftfartsskydd skall grundas på gällande rekommendationer
+            i Europeiska civila luftfartskonferensens (ECAC) dokument 30.
+            Dessa rekommendationer anges närmare i bilagan till EG-förordningen
+            (artikel 4.1). Kompletterande bestämmelser, t.ex. hur kroppsvisitation
+            skall ske, finns i lagen om särskild kontroll på flygplats. Den
+            nu föreslagna lagen om luftfartsskydd är avsedd att ersätta denna
+            lag. I EG-förordningen finns bestämmelser som kräver kompletterande
+            nationella regler. För att få en samlad lagstiftning på området
+            bör dessa nya regler samlas i en ny lag. Lagen bör dock inte behandla
+            frågor som redan tagits om hand på myndighetsnivå med stöd av
+            EG-förordningen. Lagen om luftfartsskydd innehåller bestämmelser
+            bl.a. om vem som skall ansvara för säkerhetskontroller på flygplatser
+            samt hur dessa skall gå till. Det föreskrivs bl.a. att Rikspolisstyrelsen,
+            efter att ha hört Luftfartsverket, får besluta om strängare åtgärder
+            än vad som följer av EG-förordningen. Vidare är det i fortsättningen
+            den som driver en flygplats (flygplatshavaren) som ansvarar för
+            att det finns tillräckligt med personal, lokaler och utrustning
+            för luftfartsskyddet. Lagen innehåller också bestämmelser om att
+            flygplatshavarna skall ha rätt att ta ut en enhetlig avgift för
+            säkerhetskontroller av passagerare och deras bagage samt att ett
+            avgiftsutjämningssystem skall införas. Säkerhetskontroll av egen
+            personal I motion 2003/04:Ju27 (fp, c) yrkas att företag vid flygplatser
+            inte skall få kontrollera sin egen personal, utan samtliga säkerhetskontroller
+            på en flygplats skall utövas under polismans ledning samt av personer
+            som förordnats av polismyndighet. Säkerhetskontroller som följer
+            av EG-förordningen om införande av gemensamma skyddsregler för
+            den civila luftfarten skall utföras av personer som godkänts eller
+            certifierats för detta i enlighet med bestämmelserna i punkt 12.2.3
+            i bilagan till förordningen. Enligt förordningen (bilagan punkt
+            2.3) skall all personal, inklusive flygbesättningar, tillsammans
+            med de föremål som den medför säkerhetskontrolleras innan den
+            släpps in på behörighetsområdena. Om detta inte är praktiskt genomförbart
+            skall personer och föremål genomgå fortlöpande och lämpliga stickprovskontroller
+            med en frekvens som grundar sig på riskbedömningar som skall utföras
+            av den behöriga myndigheten i varje medlemsstat. Stickprovskontrollerna
+            skall omfatta alla föremål som förs ombord på luftfartyg av alla
+            organisationer som tillhandahåller tjänster, bl.a. städning och
+            leverans av skattefria varor, och av andra parter som har tillträde
+            till luftfartyget. Genom säkerhetskontrollen skall det säkerställas
+            att inget förbjudet föremål medförs, och den använda metoden skall
+            vara densamma som vid säkerhetskontroll av passagerare och kabinbagage.
+            Vidare skall all personal som måste få tillträde till behörighetsområden
+            genomgå en säkerhetsprövning som omfattar åtminstone de senaste
+            5 åren. Kontrollen skall upprepas med jämna mellanrum som inte
+            får överstiga 5 år (bilagan punkt 2.2.1.ii). Säkerhetsprövningen
+            skall i enlighet med 14 § säkerhetsskyddsförordningen (1996:633)
+            grundas bl.a. på uppgifter som har kommit fram vid registerkontroll
+            och särskild personutredning (se Luftfartsverkets föreskrifter
+            om luftfartsskydd, LFS 2003:53, Säkerhetsprövning av personer,
+            BCL-SEC 1.2). Regeringen föreslår i 2 § första stycket lagen om
+            luftfartsskydd att säkerhetskontrollen på en flygplats skall utföras
+            av polis eller av annan särskilt utsedd person som förordnats
+            av polismyndighet. Enligt andra stycket skall kontroll som utförs
+            av en sådan särskilt utsedd person utföras under polismans ledning.
+            I tredje stycket föreslås ett undantag från dessa regler. Ett
+            företag som godkänts av behörig myndighet skall få svara för säkerhetskontrollen
+            av den egna personalen. Förslaget i 2 § avseende säkerhetskontroller
+            enligt EG-förordningen motsvarar det system för säkerhetskontroller
+            som i dag tillämpas på de statliga flygplatserna. När det gäller
+            säkerhetskontrollen av den egna personalen har ett flertal flygrelaterade
+            företag på flygplatserna sina egna kontrollanordningar. Som exempel
+            kan nämnas att Scandinavian Airlines System (SAS) har egna kontrollanordningar
+            vid de ingångar som personalen är behöriga att använda. Det finns
+            dock inget som hindrar att ett företag avtalar med flygplatshavaren
+            om att personalen skall använda sig av de kontrollstationer som
+            flygplatsen har för passagerare. Detta torde främst vara aktuellt
+            vid mindre flygplatser. Den personal i ett företag som skall utföra
+            säkerhetskontrollerna måste vara godkända, eller certifierade,
+            enligt EG-förordningen. Däremot kommer dessa kontrollanter inte
+            att ha ett förordnande av polismyndighet och därmed inte ha samma
+            befogenheter som de av polisen förordnade kontrollanterna. Inte
+            heller kommer de att stå under polismans ledning. I propositionen
+            anförs (s. 36) att det inte finns tillräckligt underlag för att
+            nu lämna förslag till en ordning som skulle innebära att samtliga
+            kontroller på en flygplats skall utövas under polismans ledning
+            samt av personer som förordnats av polismyndighet. Även om det
+            system som tillämpas i dag har visat sig fungera tämligen väl
+            i praktiken, finns det enligt regeringens mening dock skäl som
+            talar för att all säkerhetskontroll som utövas på en flygplats
+            bör ske under polismans ledning och av kontrollanter som har alla
+            de befogenheter som följer av ett förordnande av polismyndighet.
+            Regeringen anför vidare att den avser att närmare utreda denna
+            fråga och att den kommer att presentera sitt ställningstagande
+            i ett annat sammanhang. Utskottet anser att det finns anledning
+            att överväga om även säkerhetskontroller av personal alltid skall
+            utföras under polismans ledning och av personer som förordnats
+            av polismyndighet. En sådan ordning skulle dock sannolikt medföra
+            ökade kostnader för polisen. Utskottet vill i sammanhanget påpeka
+            att det finns ett anställningsförhållande mellan det företag som
+            utför kontrollen och den personal som kontrolleras. Ett flertal
+            frågor, t.ex. vad som händer om någon vägrar att låta sig kontrolleras,
+            kan regleras i anställningsavtalet. Det är vidare självklart så
+            att polisen har möjlighet att agera om det i samband med säkerhetskontrollen
+            skulle uppkomma misstanke om brott. Det finns med andra ord skäl
+            som talar för och skäl som talar mot den i motionen föreslagna
+            ordningen. Det aviserade utredningsarbetet bör avvaktas. Vad som
+            nu anförts innebär att utskottet tillstyrker propositionen i här
+            aktuell del. Motion 2003/04:Ju27 i motsvarande del avstyrks. Kroppsvisitation
+            utanför behörighetsområden I motion 2003/04:Ju28 (m) yrkas att
+            regeringen skall återkomma till riksdagen med ett förslag som
+            tydligt reglerar inom vilka områden på en flygplats som en person
+            kan bli föremål för säkerhetskontroll och således bli kroppsvisiterad
+            samt få sitt bagage genomsökt. Enligt 2 kap. 6 § regeringsformen
+            är varje medborgare gentemot det allmänna skyddad mot kroppsvisitation
+            samt husrannsakan och liknande ingrepp. Detta skydd får enligt
+            12 § samma kapitel begränsas endast för att tillgodose ändamål
+            som är godtagbart i ett demokratiskt samhälle. Begränsningen får
+            dock aldrig gå utöver vad som är nödvändigt med hänsyn till det
+            ändamål som har föranlett den. Husrannsakan och kroppsvisitation
+            får ske i syfte att utreda brott. För sådana fall finns regler
+            i 28 kap. rättegångsbalken. Det finns också vissa regler i polislagen
+            (1984:387) som ger möjlighet till kroppsvisitation och undersökningar
+            för att förebygga vissa allvarliga brott, se 23 §. Bestämmelserna
+            om kroppsvisitation i lagen om luftfartsskydd, liksom motsvarande
+            bestämmelser i lagen om särskild kontroll på flygplats, tar emellertid
+            sikte på situationer där det inte finns någon konkret brottsmisstanke.
+            Dessa bestämmelser innebär således en ytterligare inskränkning
+            av skyddet mot kroppsvisitation samt husrannsakan och liknande
+            ingrepp i 2 kap. 6 § regeringsformen. Enligt EG-förordningen skall
+            personal och passagerare samt deras bagage säkerhetskontrolleras
+            innan de släpps in på en flygplats behörighetsområde (bilagan
+            punkterna 2.3, 4.1 och 4.3). Med behörighetsområde avses en flygplats
+            flygsidor, till vilka tillträdet kontrolleras för att garantera
+            säkerheten för den civila luftfarten (bilagan punkt 1.21). När
+            det gäller övriga områden på en flygplats, t.ex. terminalområden,
+            parkeringsplatser och andra allmänna områden, skall de övervakas.
+            Terminaler skall patrulleras, och passagerare och andra personer
+            skall övervakas av säkerhetspersonal. Åtgärder skall också vidtas
+            för att se till att det i situationer av ökat hot går att stänga
+            av t.ex. parkeringsplatser och tillfartsvägar till terminaler
+            med kort varsel (bilagan punkterna 2.2. 2 och 2.2.3). Enligt lagen
+            om särskild kontroll på flygplats får passagerare eller annan
+            som uppehåller sig inom flygplatsens område kroppsvisiteras samt
+            hans bagage undersökas (3 § andra stycket). Området omfattar byggnader
+            och andra anläggningar samt t.ex. parkeringsplats inom området.
+            I förarbetena till gällande lagstiftning framgår att avsikten
+            är att kroppsvisitation i allmänhet bör komma i fråga endast beträffande
+            flygpassagerare. Möjligheten att företa kroppsvisitation i fråga
+            om personer som uppehåller sig på sådan plats som är tillgänglig
+            för allmänheten bör utnyttjas endast när särskild anledning föreligger
+            (prop. 1970:204 s. 13 f.). Enligt uppgift från Näringsdepartementet
+            har denna rätt att kontrollera alla som uppehåller sig på en flygplats
+            sannolikt aldrig utnyttjats hittills. I propositionen föreslås
+            att den ordning som gäller enligt lagen om särskild kontroll på
+            flygplats skall behållas. Den som uppehåller sig inom flygplatsens
+            område skall således få kroppsvisiteras samt hans väskor m.m.
+            undersökas (3 §). Utskottet anser att det i regel torde saknas
+            anledning att kroppsvisitera personer som t.ex. endast uppehåller
+            sig i en terminalbyggnad utan avsikt att gå in i ett behörighetsområde.
+            En sådan möjlighet bör utnyttjas endast när särskild anledning
+            föreligger. Det kan dock inte uteslutas att det i vissa situationer
+            av ökat hot kan finnas ett behov av en sådan kontroll, t.ex. vid
+            ett bombhot mot flygplatsen. Den föreslagna bestämmelsen möjliggör
+            i ett sådant fall bl.a. kroppsvisitation av alla som passerar
+            in till eller befinner sig på flygplatsområdet och undersökning
+            av deras väskor. Utskottet anser mot denna bakgrund att den gällande
+            ordningen bör behållas. Utskottet avstyrker bifall till motion
+            2003/04:Ju28 i nu behandlad del. Ansvar för skador på grund av
+            brister i säkerhetskontrollen I motion 2003/04:Ju28 (m) yrkas
+            att regeringen skall återkomma till riksdagen med förslag till
+            lagstiftning som reglerar vem som skall bära ansvaret för skador
+            som uppkommer på grund av brister i säkerhetskontrollen. Flygföretag
+            har ett strikt ansvar för skador som uppkommer till följd av flygtrafik.
+            Den som drabbas kan således vända sig mot ett flygbolag och kräva
+            ersättning. Flygbolaget kan i sin tur kräva ersättning av den
+            som vållat skadan. Flygbolaget kan även vända sig mot den som
+            varit ansvarig för säkerhetskontrollen. Eventuell skadeståndsskyldighet
+            kan därvid vara grundad på avtal, på ansvar för fel eller försummelse
+            vid myndighetsutövning eller på ansvar för eget och anställd personals
+            vållande. I propositionen anför regeringen (s. 26) att det torde
+            vara möjligt att införa lagstiftning som innebär att staten ansvarar
+            för skador på grund av terroristverksamhet som orsakas av bristfällig
+            säkerhetskontroll som vållats av exempelvis en kommuns myndighetsutövning
+            eller en kommuns anställda. En sådan lagstiftning skulle dock
+            strida mot principerna för ansvarsfördelning mellan myndigheter.
+            Att utforma en lagstiftning för att uppnå detta syfte skulle även
+            kräva omfattande överväganden. Samma resultat torde dessutom kunna
+            uppnås även genom avtal mellan staten och de icke-statliga flygplatserna.
+            Det framstår enligt regeringen därför inte som lämpligt att införa
+            någon lagreglering med sådan innebörd. Trafikutskottet har i sitt
+            yttrande uttryckt förståelse för det syfte som ligger till grund
+            för motionsyrkandet, nämligen att den skadelidande alltid skall
+            kunna påräkna skadestånd och att kostnaderna för säkerhetsföretag
+            och flygplatser bättre skall kunna förutses. Trafikutskottet är
+            dock tveksamt till att införa lagstiftning som innebär att staten
+            ansvarar för skador som inom ett visst område vållats inom ramen
+            för t. ex. en kommuns myndighetsutövning eller av kommunens anställda.
+            Det främsta skälet är risken att en icke-statlig flygplatshållare
+            frestas till underlåtenhet i säkerhetskontrollen - just eftersom
+            det är staten som får bära ansvaret om något skulle inträffa.
+            Trafikutskottet kan instämma i att frågan torde behöva en ytterligare
+            belysning än den som redovisats i propositionen men anser att
+            något särskilt uttalande härom inte synes motiverat. Trafikutskottet
+            avstyrker motionen i denna del. Justitieutskottet delar regeringens
+            uppfattning att det inte är lämpligt att införa en lagreglering
+            av innebörden att staten skall ansvara för skador som vållats
+            t.ex. av en kommuns myndighetsutövning. Det har inte heller i
+            övrigt framkommit någon omständighet som ger anledning att införa
+            lagstiftning om vem som skall ansvara för skador som uppkommer
+            på grund av bristande säkerhetskontroll. I stället får allmänna
+            skadeståndsrättsliga regler tillämpas. Utskottet avstyrker bifall
+            till motion 2003/04:Ju28 i nu behandlad del. Finansieringen av
+            säkerhetskontrollerna I motionerna 2003/04:Ju26 och 2003/04:Ju28
+            (båda m) yrkas att regeringen skall återkomma till riksdagen med
+            förslag på ändrade finansieringsprinciper. Motionärerna efterlyser
+            en djupare analys av konsekvenserna av att kostnaderna för säkerhetskontrollen
+            läggs på passagerare vad gäller dels konkurrenssituationen gentemot
+            andra länder, dels gränsdragningen gent-emot vad som är att betrakta
+            som sådana skyddsåtgärder som bör bekostas av staten. I motion
+            2003/04:Ju27 (fp, c) begär motionärerna att frågan om konsekvenserna
+            av att finansieringen av säkerhetskontrollerna överförs från rättsväsendet
+            till privata aktörer skall utredas. I propositionen föreslås att
+            flygplatshavarna skall ha verksamhetsansvaret, inklusive det ekonomiska
+            ansvaret, för luftfartsskyddet. Det innebär bl.a. att flygplatshavaren
+            är ansvarig för att det finns tillräckligt med personal, lokaler
+            och utrustning för luftfartsskyddet på den egna flygplatsen, såvida
+            inte annat följer av särskilt meddelade bestämmelser om luftfartsskydd.
+            De kostnader som polismyndigheten har för polismans ledning av
+            säkerhetskontrollerna liksom för övrigt arbete som polisen själv
+            utför på en flygplats skall emellertid betalas av polisen (8 §).
+            Flygplatshavarnas kostnader för säkerhetskontroll av passagerare
+            och deras bagage skall enligt förslaget finansieras genom att
+            en enhetlig avgift tas ut för varje avresande passagerare av de
+            företag som transporterar passagerarna. Dessa företag har i sin
+            tur möjlighet att ta ut en motsvarande avgift av passagerarna.
+            Avgiften skall tas ut av alla flygplatser som är säkerhetsgodkända
+            i enlighet med EU-förordningen. Då de faktiska kostnaderna för
+            säkerhetskontrollen varierar mellan olika flygplatser föreslås
+            ett avgiftsutjämningssystem, som går ut på att avgiften per passagerare
+            skall vara enhetlig för alla flygplatser i landet som ingår i
+            systemet (11 §). Regeringen eller den myndighet regeringen bestämmer
+            får meddela föreskrifter om avgiftens storlek och om hur influtna
+            avgifter skall fördelas för att täcka skäliga kostnader för luftfartsskyddet
+            (13 §). Enligt propositionen kan polisens årliga merkostnader
+            för bevakningen på icke-statliga flygplatser beräknas till ca
+            150 miljoner kronor. Trafikutskottet anför i sitt yttrande att
+            utskottet är av samma uppfattning som motionärerna om det angelägna
+            i att så långt det är möjligt undvika snedvridningar av konkurrensen.
+            Enligt trafikutskottet är det dock rimligt att den som skyddas
+            och drar nytta av säkerhetsskyddet också bör stå för uppkomna
+            kostnader. Mot den bakgrunden har riksdagen tidigare lagt fast
+            att sjöfartsskyddet bör vara självfinansierande, dvs. att den
+            som skyddas också skall stå för kostnaderna (prop. 2003/04:106,
+            bet. 2003/04:TU13). Det är enligt trafikutskottet rimligt att
+            flygbranschen tar på sig kostnaderna för luftfartsskyddet och
+            att endast de kostnader som polisen har för polismans ledning
+            av kontrollerna samt polisiära insatser på en flygplats finansieras
+            med allmänna medel. Med ledning av de uppgifter som trafikutskottet
+            inhämtat från Luftfartsverket gör trafikutskottet bedömningen
+            att den avgift för luftfartsskyddet som passagerarna kan komma
+            att få betala blir ca 35-45 kr per resa. Mot denna bakgrund delar
+            trafikutskottet regeringens bedömning att eventuella ökningar
+            av biljettpriserna på grund av ändrad finansiering av säkerhetsskyddet
+            torde vara acceptabelt för de flesta flygpassagerare. Slutligen
+            understryker trafikutskottet vikten av att det nya avgiftssystemet
+            noga följs upp med avseende på bl.a. eventuella konkurrenssnedvridningar
+            mellan flygplatser och mellan olika transportslag. Därutöver är
+            det nödvändigt att motverka att utjämningssystemet blir kostnadsdrivande
+            hos de berörda flygplatserna. Mot denna bakgrund bör även avgifternas
+            effekter för passagerare och flygtrafiken i stort ingå i en sådan
+            utvärdering. Det gäller även angelägenheten att finna konkurrensneutrala
+            lösningar över landgränserna. Trafikutskottet utgår från att regeringen
+            vidtar åtgärder i detta syfte och återkommer till riksdagen med
+            en redovisning härav. Trafikutskottet tillstyrker propositionen
+            och avstyrker motionerna 2003/04:Ju26 och 2003/04:Ju28 i dessa
+            delar. Justitieutskottet anser att en utgångspunkt bör vara att
+            polisen endast skall belastats med uppgifter där ett ordnings-
+            och säkerhetstänkandet är av dominerande betydelse när uppgiften
+            utförs. Uppgifter där det kan antas att det krävs våld eller tvångsmedel
+            för att utföra uppgiften skall alltså åligga polisen. Polisen
+            bör dessutom endast ha att utföra uppgifter som ligger inom ramen
+            för polisens utbildning och kompetens. Huvuddelen av de uppgifter
+            som polisen i nuläget ansvarar för på kommunala och privata flygplatser
+            kan inte anses vara av sådan beskaffenhet att de kräver polisiär
+            kompetens. Att överlåta verksamhetsansvaret för dessa säkerhetskontroller
+            till flygplatshavaren ligger i linje med det pågående arbetet
+            med att renodla polisens verksamhet. Genom förslaget placeras
+            såväl den traditionella kontrollverksamheten som kostnadsansvaret
+            för denna på flygplatshavaren, samtidigt som säkerhetskontrollerna
+            även i fortsättningen kommer att ske under polismans ledning och
+            polisen ha det yttersta ansvaret för denna kontroll. Utskottet
+            anser vidare, i likhet med trafikutskottet, att luftfartsskyddet
+            i princip bör vara självfinansierande, dvs. att den som skyddas
+            också bör stå för kostnaderna. Det är således rimligt att flygbranschen
+            tar på sig kostnaderna för luftfartsskyddet och att endast de
+            kostnader som polisen har för polismans ledning av kontrollerna
+            samt polisiära insatser på en flygplats finansieras med allmänna
+            medel. Utskottet utgår från att regeringen kommer att följa upp
+            vilka följder förändringarna av finansieringen av luftfartsskyddet
+            kommer att få när det gäller t.ex. risken för snedvridningar av
+            konkurrensen. Något särskilt uttalande härom synes inte motiverat.
+            Utskottet avstyrker motionerna 2003/04:Ju26, 2003/04:Ju27 och
+            2003/04:Ju28 i nu behandlade delar. Ikraftträdande I propositionen
+            föreslås att lagen om luftfartsskydd skulle trätt i kraft såvitt
+            gäller 1-10 §§ den 1 oktober 2004, då lagen om särskild kontroll
+            på flygplats skulle upphört att gälla, och i övrigt den 1 januari
+            2005. Utskottet noterar att detta skulle ha inneburit att flygplatshavarna
+            i enlighet med 8 § övertog verksamhetsansvaret, inklusive det
+            ekonomiska ansvaret, den 1 oktober 2004, samtidigt som någon avgift
+            inte kunde tas ut för att täcka kostnaderna för säkerhetskontrollen
+            förrän den 1 januari 2005, då bestämmelserna om avgift för säkerhetskontroll
+            (11-14 §§) avsågs träda i kraft. Denna fråga är inte närmare belyst
+            i propositionen. Riksdagen kommer emellertid att fatta beslut
+            först efter den 1 oktober 2004. Det är därför nödvändigt att senarelägga
+            ikraftträdandet såvitt avser 1-10 §§. Mot denna bakgrund, och
+            då utskottet anser det lämpligt att hela lagen träder i kraft
+            vid samma tidpunkt, föreslår utskottet att hela lagen träder i
+            kraft den 1 januari 2005 samt att lagen om särskild kontroll på
+            flygplats då upphör att gälla. Uppdelning av Luftfartsverket Den
+            1 januari 2005 skall det nuvarande Luftfartsverket delas upp i
+            två myndigheter, Luftfartsverket och Luftfartsstyrelsen. Luftfartsverket
+            skall i fortsättningen driva statens flygplatser och bedriva flygtrafiktjänst,
+            och Luftfartsstyrelsen skall ta hand om de myndighetsuppgifter
+            som idag ligger på Luftfartsverket. Regeringen har i proposition
+            2004/05:10 En ny luftfartsmyndighet - lagstiftning lämnat förslag
+            till de lagändringar som denna uppdelning kräver. Ändringar i
+            förslaget till lag om luftfartsskydd som föranleds av uppdelningen
+            i två myndigheter bör göras i samband med behandlingen av den
+            propositionen. Propositionen i övrigt I övrigt har utskottet ingenting
+            att anföra med anledning av propositionen, och utskottet tillstyrker
+            bifall till den.
+          </p>
+          <p>
+            Reservationer Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer. I rubriken anges vilken
+            punkt i utskottets förslag till riksdagsbeslut som behandlas i
+            avsnittet. 1. Företags säkerhetskontroll av den egna personalen,
+            punkt 1 (m, fp, kd, c) av Johan Pehrson (fp), Beatrice Ask (m),
+            Peter Althin (kd), Jeppe Johnsson (m), Torkild Strandberg (fp),
+            Johan Linander (c) och Cecilia Magnusson (m). Förslag till riksdagsbeslut
+            Vi anser att förslaget till riksdagsbeslut under punkt 1 borde
+            ha följande lydelse: Riksdagen avslår regeringens förslag till
+            lag om luftfartsskydd såvitt avser 2 § tredje stycket. Därmed
+            bifaller riksdagen motion 2003/04:Ju27 yrkandena 1 och 2 samt
+            avslår proposition 2003/04:154 i denna del. Ställningstagande
+            Det är en orimlig ordning att företag vid flygplatser, efter godkännande
+            av behörig myndighet, själva skall få ansvara för säkerhetskontrollerna
+            av den egna personalen. Säkerhetskontroller som genomförs av flygplatskontrollanter
+            under polisens ledning borgar för en rättssäker, effektiv och
+            säker kontroll. Skärpt säkerhet på flygplatserna, med ett tydligt
+            myndighetsansvar genom polisens ledning, bör omfatta samtliga
+            personer och föremål på området - utan undantag för anställda
+            vid vissa företag. Vi anser därför att 2 § tredje stycket i den
+            föreslagna lagen om luftfartsskydd skall strykas. I stället bör
+            samtliga säkerhetskontroller vid flygplatser genomföras under
+            polisens ledning och av poliser eller särskilt utsedda personer
+            som förordnats av polismyndighet. Mot bakgrund av det sagda föreslår
+            vi att propositionen avslås i denna del. 2. Kroppsvisitation utanför
+            behörighetsområden, punkt 3 (m, fp) av Johan Pehrson (fp), Beatrice
+            Ask (m), Jeppe Johnsson (m), Torkild Strandberg (fp) och Cecilia
+            Magnusson (m). Förslag till riksdagsbeslut Vi anser att förslaget
+            till riksdagsbeslut under punkt 3 borde ha följande lydelse: Riksdagen
+            tillkännager för regeringen som sin mening vad som anförs i reservationen
+            om kroppsvisitation utanför behörighetsområden. Därmed bifaller
+            riksdagen motion 2003/04:Ju28 yrkande 2. Ställningstagande Enligt
+            regeringens förslag, och enligt nu gällande regler, kan den som
+            åker till flygplatsen för att lämna av en resenär komma att utsättas
+            för krav på kroppsvisitation samt genomsökning av fordon och väskor.
+            Förslaget innebär en risk för att ett säkerhetsföretag mer eller
+            mindre godtyckligt kan kräva kroppsvisitationer och genomsökning
+            i fordon utan att någon misstanke om brott föreligger. Utvecklingen
+            av flygplatser till mer allmänna köpcentrum etc. innebär att även
+            andra personer än resenärer besöker och vistas i området. Inte
+            minst denna utveckling motiverar en modernisering av nuvarande
+            regelverk, och frågan borde ha behandlats mer ingående i propositionen.
+            Ett ytterligare problem i detta sammanhang är att flygplatsområdet
+            inte ges någon tydlig definition i lagen om luftfartsskydd. Regeringen
+            bör därför, med beaktande av vad som ovan anförts, återkomma med
+            förslag som tydligt reglerar inom vilka områden på en flygplats
+            som en person kan bli föremål för säkerhetskontroll. 3. Skadeståndsansvar
+            vid bristande säkerhetskontroll, punkt 4 (m, fp) av Johan Pehrson
+            (fp), Beatrice Ask (m), Jeppe Johnsson (m), Torkild Strandberg
+            (fp) och Cecilia Magnusson (m). Förslag till riksdagsbeslut Vi
+            anser att förslaget till riksdagsbeslut under punkt 4 borde ha
+            följande lydelse: Riksdagen tillkännager för regeringen som sin
+            mening vad som anförs i reservationen om skadeståndsansvar vid
+            bristande säkerhetskontroll. Därmed bifaller riksdagen motion
+            2003/04:Ju28 yrkande 3. Ställningstagande Vi anser att det bör
+            regleras i lag vem som skall bära ansvaret för skador som uppstår
+            i luftfarten på grund av bristande säkerhetskontroll. Frånvaron
+            av sådana bestämmelser innebär svårigheter för säkerhetsföretag
+            och flygplatser att förutse sitt kostnadsansvar för brister i
+            säkerhetskontrollen. Regeringen bör därför återkomma till riksdagen
+            med förslag på sådan lagstiftning. 4. Finansieringen av säkerhetskontrollerna,
+            punkt 5 (m) av Beatrice Ask (m), Jeppe Johnsson (m) och Cecilia
+            Magnusson (m). Förslag till riksdagsbeslut Vi anser att förslaget
+            till riksdagsbeslut under punkt 5 borde ha följande lydelse: Riksdagen
+            tillkännager för regeringen som sin mening vad som anförs i reservationen
+            om finansieringen av säkerhetskontrollerna. Därmed bifaller riksdagen
+            motionerna 2003/04:Ju26 och 2003/04:Ju28 yrkande 1 och bifaller
+            delvis motion 2003/04:Ju27 yrkande 3. Ställningstagande Vi ställer
+            oss bakom regeringens förslag till lag om luftfartsskydd men anser
+            att regeringen bör återkomma till riksdagen med förslag på ändrade
+            finansieringsprinciper. Finansieringen av luftfartsskyddet aktualiserar
+            åtminstone två viktiga principiella frågeställningar. För det
+            första är det relevant att ta hänsyn till övriga berörda länders
+            finansieringsmodeller för att undvika snedvridning av konkurrenssituationen.
+            För det andra bör en diskussion föras om gränsdragningar gentemot
+            vad som är att betrakta som skyddsinsatser som bör bekostats av
+            staten. Denna andra fråga är främst intressant vad gäller kostnader
+            för personal som utför uppgifter som närmar sig det polisiära
+            ansvaret. De skyddsinsatser som sätts in har till uppgift att
+            minimera risken för terrorhandlingar. Målet för dessa terrorhandlingar
+            är inte i första hand passagerare och flygplan utan det öppna
+            demokratiska samhället. I takt med att regleringar syftande till
+            att öka säkerheten införs inom alltfler områden finns det anledning
+            att fråga sig om inte detta skydd bör vara en naturlig del av
+            det skydd varje stat bör hålla sina medborgare med. Utvecklingen
+            går i ovan nämnda riktning vad gäller säkerheten inom sjöfarten.
+            Det är inte otänkbart att frågan kommer att aktualiseras inom
+            fler områden, kanske kommer det att gälla järnvägstransporter
+            eller busstransporter. När en allt större del av kostnadsansvaret
+            läggs över på passagerarna innebär detta, förutom att gränsdragningarna
+            för rikets inre säkerhet tänjs ut, också att kostnadsbilden förändras
+            för det kollektiva resandet. Vi anser därför att en djupare analys
+            av ovanstående problem bör genomföras. Detta bör riksdagen ge
+            regeringen till känna. 5. Finansieringen av säkerhetskontrollerna,
+            punkt 5 (fp, c) av Johan Pehrson (fp), Torkild Strandberg (fp)
+            och Johan Linander (c). Förslag till riksdagsbeslut Vi anser att
+            förslaget till riksdagsbeslut under punkt 5 borde ha följande
+            lydelse: Riksdagen tillkännager för regeringen som sin mening
+            vad som anförs i reservationen om finansieringen av säkerhetskontrollerna.
+            Därmed bifaller riksdagen motion 2003/04:Ju27 yrkande 3 och bifaller
+            delvis motionerna 2003/04:Ju26 och 2003/04:Ju28 yrkande 1. Ställningstagande
+            Regeringens förslag innebär att polisens budget avlastas från
+            kostnaderna för säkerhetskontrollerna och att det system som i
+            dag tillämpas vid de statliga flygplatserna lagfästs och kommer
+            att gälla lika för samtliga flygplatshavare enligt ett avgiftsutjämningssystem.
+            Vi ser med viss oro på utvecklingen mot en privatisering av uppgifter
+            som torde ankomma på rättsväsendet, i detta fall polisen, att
+            utföra och ha det finansiella ansvaret för. Det handlar om svåra
+            avvägningar där det dock även är viktigt att renodla polisens
+            uppgifter och ansvar samt att kunna friställa resurser för poliser
+            till direkt brottsförebyggande, brottsbekämpande och effektivt
+            arbete. Vi menar att det är av vikt att på ett sammanhållet sätt
+            utreda och belysa hur uppgifter som tidigare har ålegat rättsväsendet
+            överförts till privata aktörer samt konsekvenserna av detta ur
+            ekonomiska aspekter och rättssäkerhetsaspekter. Det får åligga
+            regeringen att tillsätta en utredning som bl.a. skall se över
+            finansieringen av säkerhetskontrollerna.
+          </p>
+          <p>
+            Bilaga 1 Förteckning över behandlade förslag Propositionen Proposition
+            2003/04:154 Lag om luftfartsskydd: Riksdagen antar regeringens
+            förslag till lag om luftfartsskydd. Följdmotioner 2003/04:Ju26
+            av Elizabeth Nyström m.fl. (m): Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om att regeringen bör återkomma
+            till riksdagen med förslag på ändrade finansieringsprinciper.
+            2003/04:Ju27 av Johan Pehrson m.fl. (fp, c): 1. Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om att företag
+            vid flygplatser inte skall få ansvara för säkerhetskontrollerna
+            av den egna personalen och att 2 § tredje stycket därmed stryks.
+            2. Riksdagen tillkännager för regeringen som sin mening vad i
+            motionen anförs om att regeringen bör återkomma med ett lagförslag
+            som innebär att samtliga kontroller på flygplats skall utövas
+            under polismans ledning samt av personer som förordnats av polismyndighet.
+            3. Riksdagen tillkännager för regeringen som sin mening vad i
+            motionen anförs om finansieringen av säkerhetskontrollerna. 2003/04:Ju28
+            av Beatrice Ask m.fl. (m): 1. Riksdagen begär att regeringen återkommer
+            till riksdagen med förslag på ändrade finansieringsprinciper.
+            2. Riksdagen tillkännager för regeringen som sin mening vad i
+            motionen anförs om kroppsvisitation utanför behörighetsområden.
+            3. Riksdagen begär att regeringen återkommer till riksdagen med
+            förslag på lagstiftning avseende skadeståndsansvar.
+          </p>
+          <p>
+            Bilaga 2 Regeringens lagförslag Bilaga 3 Europaparlamentets och
+            rådets förordning (EG) nr 2320/2002 Bilaga 4 Europaparlamentets
+            och rådets förordning (EG) nr 849/2004 Bilaga 5 Trafikutskottets
+            yttrande 2004/05:TU1y
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

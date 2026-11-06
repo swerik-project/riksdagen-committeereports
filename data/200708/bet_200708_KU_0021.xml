@@ -1,0 +1,3026 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200708_KU_0021">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Regeringen har lämnat en redogörelse till riksdagen för vilka åtgärder den har vidtagit med anledning av riksdagens olika beslut. Riksdagen avslutar ärendet utan att besluta något mer.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Regeringens åtgärder med anledning av riksdagens beslut (KU21)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Skrivelsen läggs till handlingarna</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GV09129</idno>
+              <title>2008-06-16</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">129</biblScope>
+              <note type="display-reference">2008-06-16</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GV09127</idno>
+              <title>2008-06-12</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">127</biblScope>
+              <note type="display-reference">2008-06-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GV0K243</idno>
+              <title>2007/08:243</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">243</biblScope>
+              <note type="display-reference">2007/08:243</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="skr">
+              <idno type="riksdagen">GV0375</idno>
+              <title>Redogörelse för behandlingen av riksdagens skrivelser till regeringen</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">75</biblScope>
+              <note type="display-reference">regeringsskrivelse 2007/08:75 Redogörelse för behandlingen av riksdagens skrivelser till regeringen</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2008-06-03">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2008-06-03">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-06-02">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-05-29">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-05-29">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-05-20">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-05-20">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-05-20">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-05-13">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-05-13">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-05-06">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-04-17">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2008-06-16">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-06-16">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-06-16">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-06-16">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-06-12">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-06-12">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-06-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-06-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-06-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-06-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Konstitutionsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2007/08:KU21
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Redogörelse för behandlingen av riksdagens skrivelser till regeringen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBKUL" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I detta betänkande behandlas regeringens redogörelse för behandlingen
+            av riksdagens skrivelser (skr. 2007/08:75). Utskottet föreslår
+            att riksdagen lägger regeringens skrivelse till handlingarna.
+            Ett särskilt yttrande (s, v, mp) finns.
+          </p>
+          <p xml:id="IDAJBKUL" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Behandlingen av riksdagens skrivelser till regeringen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger skrivelse 2007/08:75 till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 20 maj 2008
+          </p>
+          <p>
+            På konstitutionsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Berit Andnor
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Berit Andnor (s),
+            Per Bill (m), Morgan Johansson (s), Eva Bengtson Skogsberg (m),
+            Stefan Tornberg (c), Yilmaz Kerimo (s), Mauricio Rojas (fp), Helene
+            Petersson i Stockaryd (s), Björn Leivik (m), Ingvar Svensson (kd),
+            Anna Bergkvist (m), Marianne Berg (v), Phia Andersson (s), Annie
+            Johansson (c), Mikael Johansson (mp), Karl Sigfrid (m) och Sinikka
+            Bohlin (s).
+          </p>
+          <p xml:id="IDALEKUL" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAOEKUL" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Regeringens skrivelse 2007/08:75 med redogörelse för behandlingen
+            av riksdagens skrivelser till regeringen har inte föranlett någon
+            motion. Konstitutionsutskottet har berett övriga utskott tillfälle
+            att yttra sig över skrivelsen. Yttranden har inkommit från finans-,
+            skatte-, socialförsäkrings, trafik- och arbetsmarknadsutskotten,
+            <seg rend="grad2">
+              bilagorna 26. Justitieutskottet har konstaterat att det saknas
+              anledning att ifrågasätta de av regeringen redovisade åtgärderna
+              och kulturutskottet finner inte anledning att framföra några synpunkter
+              till konstitutionsutskottet. Försvars- och utbildningsutskotten
+            </seg>
+            har meddelat att de inte har något att erinra mot regeringens
+            skrivelse i de delar som avser utskottens beredningsområden. Övriga
+            utskott har avstått från att yttra sig.
+          </p>
+          <p xml:id="IDAIFKUL" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Sedan år 1961 har regeringen lämnat redogörelser till riksdagen
+            för vilka åtgärder regeringen har vidtagit med anledning av riksdagens
+            olika beslut. Redogörelsen är knuten till riksdagsskrivelserna
+            där riksdagen meddelar regeringen sina beslut. Redogörelsen upptar
+            samtliga riksdagsskrivelser från det senaste kalenderåret som
+            är ställda till regeringen och därtill samtliga äldre riksdagsskrivelser
+            som inte tidigare har rapporterats som slutbehandlade.
+          </p>
+          <p xml:id="IDAOFKUL" rend="rubrik2">
+            Skrivelsens huvudsakliga innehåll
+          </p>
+          <p>
+            Den nu aktuella redogörelsen avser huvudsakligen sådana åtgärder
+            som vidtagits under tiden den 1 januari31 december 2007. Redovisningen
+            omfattar också vissa senare regeringsbeslut om riksdagsskrivelserna
+            därigenom har kunnat rapporteras som slutbehandlade.
+          </p>
+          <p>
+            I skrivelsen redovisas också information om regelbeståndet samt
+            arbetet med regelförenkling, språkvård och det offentliga rättsinformationssystemet.
+          </p>
+          <p xml:id="IDAYFKUL" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDA2FKUL" rend="rubrik2">
+            Behandlingen av riksdagens skrivelser till regeringen
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDACGKUL" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Utskottet, som framhåller att det ofta tar lång tid innan riksdagsskrivelser
+                redovisas som slutbehandlade, föreslår att riksdagen lägger regeringsskrivelsen
+                till handlingarna.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför särskilt yttrande (s, v, mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAPGKUL" rend="rubrik3">
+              Regeringens redogörelse
+            </p>
+            <p xml:id="IDASGKUL" rend="r4">
+              Regelbeståndet, regelförenkling, språkvård och det offentliga
+              informationssystemet
+            </p>
+            <p>
+              Antalet gällande grundförfattningar per den 1 mars 2008 var 3
+              865, en ökning med 186 sedan den 1 mars 2007. Antalet lagar per
+              den 1 mars 2008 var 1313, en ökning med sju sedan föregående år.
+              Antalet kungjorda grund- och ändringsförfattningar i SFS under
+              2007 var 1 475. Av dessa var 347 grundförfattningar (28 lagar
+              och 319 förordningar m.m.). Åren 20042006 var antalet kungjorda
+              grund- och ändringsförfattningar 1 377, 1 257 respektive 1 592.
+            </p>
+            <p>
+              Under 2007 har EG-direktiv genomförts i 114 ändringsförfattningar
+              (42 lagar och 72 förordningar) och i 76 grundförfattningar (12
+              lagar och 64 förordningar).
+            </p>
+            <p>
+              Antalet rubriker i myndigheternas regelförteckningar den sista
+              december 2007 har beräknats till ca 7 800, en minskning med ca
+              300 sedan föregående årsskifte.
+            </p>
+            <p>
+              I budgetpropositionen för 2007 (prop. 2006/07:1 utg. omr. 24
+              avsnitt 3.10.2) angavs som mål att de svenska företagens administrativa
+              kostnader för samtliga statliga regelverk ska minska med minst
+              25 % under en fyraårsperiod. Regeringskansliet fick i november
+              2006 regeringens uppdrag att ta fram underlag för en handlingsplan
+              för regelförenkling och 52 myndigheter fick i uppdrag att bistå
+              Regeringskansliet i detta arbete. Europeiska rådet har som mål
+              att den administrativa bördan hänförlig till EU:s regelverk ska
+              minska med 25 % till 2012. OECD har i en slutrapport om Sveriges
+              regelförenklingsarbete lämnat rekommendationer om hur arbetet
+              skulle kunna förbättras. Ett flertal av rekommendationerna har
+              hörsammats. Regelförenklingsarbetet har intensifierats och det
+              har blivit bättre fokus, organisation och ledarskap i regelförenklingsarbetet
+              genom bl.a. inrättandet av nya samrådsgrupper och genom förordningen
+              (2007:1244) om konsekvensutredning vid regelgivning.
+            </p>
+            <p>
+              I Regeringskansliet finns sedan många år språkexperter knutna
+              till granskningsverksamheten i Justitiedepartementet. De arbetar
+              med språklig granskning av bl.a. lag- och förordningstexter, med
+              rådgivning och utbildning i textarbetet och medverkar i arbetet
+              med handböcker och promemorior från Statsrådsberedningen där språk-
+              och textfrågor ingår. Några av språkexperterna ägnar sig också
+              åt EU-språkvården. Den svenska ståndpunkten att regelförbättringsarbetet
+              generellt involverar även språkliga och redaktionella frågor medför
+              att strävan att påverka EU:s institutioner när det gäller den
+              språkliga och redaktionella utformningen av rättsakter fortsätter.
+            </p>
+            <p>
+              Sedan den 1 juli 2000 är i huvudsak all information som ska ingå
+              i det offentliga rättssystemet tillgänglig genom en gemensam ingångssida
+              på Internet: www.lagrummet.se. Systemet innehåller föreskrifter
+              av olika slag, förarbeten, rättspraxis och visst internationellt
+              material. Även kommuner och landsting har möjlighet att ansluta
+              sig till rättsinformationssystemet, men detta har ännu inte skett.
+              Som ett led i den fortsatta utvecklingen av systemet utreds f.n.
+              om det är lämpligt och möjligt att kungöra författningar elektroniskt
+              i Sverige (dir. 2007:107). Uppdraget ska redovisas senast den
+              30 september 2008. Ett rättsinformationsprojekt arbetar med att
+              ta fram en standard för att märka information som regleras i rättsinformationsförordningen
+              (1999:75). Standarden bygger på en märkning som gör det möjligt
+              att strukturera informationen så att den blir sökbar och sammanhållen
+              med hjälp av länkar.
+            </p>
+            <p xml:id="IDAHHKUL" rend="r4">
+              Riksdagsskrivelserna
+            </p>
+            <p>
+              I regeringsskrivelsen finns 391 riksdagsskrivelser till regeringen
+              förtecknade. I föregående års redogörelse var motsvarande antal
+              457. Som slutbehandlade redovisas 238 medan 153 kvarstår som inte
+              slutbehandlade. Motsvarande antal föregående år var 283 respektive
+              173.
+            </p>
+            <p>
+              Den äldsta inte slutbehandlade skrivelsen är fortfarande en riksdagsskrivelse
+              från riksmötet 1994/95, nämligen rskr. 232 som gäller
+              <seg rend="grad2">
+                återinförande av det statliga fritidsbåtsregistret (bet. 1994/95:TU12
+                mom. 20). Regeringen hänvisar till att ett ställningstagande till
+                ett promemorieförslag från 2003 bereds i Regeringskansliet. Också
+                en riksdagsskrivelse från riksmötet 1995/96 kvarstår som inte
+                slutbehandlad. Det gäller rskr. 229 om direktutbetalning av bostadsbidrag
+                m.m.
+              </seg>
+              (bet. 1995/96:BoU11 mom. 14). Regeringen hänvisar till att man
+              avser att lämna en proposition under 2008. En annan riksdagsskrivelse
+              från riksmötet 1995/96 redovisas som slutbehandlad med hänvisning
+              till arbetet i en utredning (bet. 1995/96:LU11 mom. 6, rskr. 279).
+            </p>
+            <p>
+              Fyra av fem riksdagsskrivelser från riksmötet 1997/98 kvarstår
+              som inte slutbehandlade. De gäller tillkännagivanden om
+              <seg rend="grad2">
+                kostnader för preventivmedel (bet. 1997/98:SoU2 mom. 9, rskr.3),
+                tilläggsavgift (bet. 1997/98:BoU5 mom. 18, rskr. 141), medicinska
+                krav (bet. 1997/98:TU9 mom. 10, rskr. 192) och övriga konkurrensfrågor
+                (
+              </seg>
+              bet. 1997/98:SoU25 mom. 10, rskr. 289). Regeringen hänvisar till
+              utrednings- och beredningsarbete.
+            </p>
+            <p>
+              Tre riksdagsskrivelser från riksmötet 1998/99 redovisas. Två
+              av dem, rsk. 1998/988:32, bet 1998/99:MJU3 mom. 18 om
+              <seg rend="grad2">
+                förvärv av skogsfastigheter m.m, samt rskr. 1998/99:185, bet.
+                juridiskt biträde för barn kvarstår som inte slutbehandlade, och
+                regeringen hänvisar till genomfört utredningsarbete och fortsatt
+                beredning inom Regeringskansliet. En riksdagsskrivelse om historiska
+                arrenden
+              </seg>
+              (bet. 1998/99:LU12, rskr. 159) redovisas som slutbehandlad med
+              hänvisning till proposition 2007/08:54 Den nya inskrivningsmyndigheten.
+            </p>
+            <p>
+              Sex riksdagsskrivelser från riksmötet 1999/2000 kvarstår som
+              inte slutbehandlade. Det gäller ett tillkännagivande om
+              <seg rend="grad2">
+                anslag på utgiftsområde 14 för år 2000 såvitt avser delmoment
+                j) (bet. 1999/2000:AU1 mom. 37, rskr. 83) och ett tillkännagivande
+                om frågans fortsatta beredning (bet. 1999/2000:KU14 Upphovsrätten
+                och offentlighetsprincipen mom. 3, rskr. 134). En annan riksdagsskrivelse
+                gäller inrättande av trafikofferjourer respektive ansvaret för
+                lastsäkring (bet. 1999/2000:TU15 mom. 6 och 48, rskr. 166). Den
+                fjärde riksdagsskrivelsen från detta riksmöte gäller skyddet för
+                kyrkstäder (bet. 1999/2000:KrU7 mom. 17, rskr. 196). En riksdagsskrivelse
+                från 1999/2000 gäller ett effektivt påföljdssystem (bet. 1999/2000:TU11
+                Ändrad verksamhetsform för SJ m.m. mom. 9, rskr. 238). Regeringen
+                hänvisar till genomfört utredningsarbete och redovisar sin avsikt
+                att återkomma i frågorna till riksdagen år 2008 respektive 2009.
+                Den sista inte slutbehandlade riksdagsskrivelsen från riksmötet
+                1999/2000 gäller samlad redovisning av jaktfrågor
+              </seg>
+              (bet. 1999/2000:MJU17 mom. 24, rskr. 253). Regeringen hänvisar
+              till att tre utredningsbetänkanden från år 2005 bereds inom Regeringskansliet.
+            </p>
+            <p>
+              Som inte slutbehandlade kvarstår 7 riksdagsskrivelser från riksmötet
+              2000/01, 11 från riksmötet 2001/02, 8 från riksmötet 2002/03,
+              11 från riksmötet 2003/04, 23 från riksmötet 2004/05, 45 från
+              riksmötet 2005/06 och 19 från riksmötet 2006/07.
+            </p>
+            <p xml:id="IDAO0KUL" rend="rubrik4">
+              Konstitutionsutskottets område
+            </p>
+            <p>
+              I skrivelsen redovisas 17 riksdagsskrivelser med 23 tillkännagivanden
+              som grundar sig på betänkanden från konstitutionsutskottet från
+              riksmötena 1999/20002005/06. Av dessa redovisas tre riksdagsskrivelser
+              med fyra tillkännagivanden som slutbehandlade och 20 tillkännagivanden
+              kvarstår som inte slutbehandlade.
+            </p>
+            <p>
+              Beträffande åtta tillkännagivanden om
+              <seg rend="grad2">
+                folkomröstningsutredning, lagprövningsfrågor, riksdagsledamöternas
+                skydd mot åtal, folkinitiativ om folkomröstning, folkomröstningsinitiativ,
+                kommunala extraval respektive tillsättning av högre statliga tjänster
+              </seg>
+              (bet. 2000/01:KU11 mom. 9, 18 och 14, rskr 149, bet. 2001/02:KU14
+              mom. 42, rskr. 190, bet. 2003/04:KU3 mom. 9 och 11, rskr. 3334,
+              och bet. 2003/04:KU11 mom. 5, rskr 173) hänvisas till Grundlagsutredningen.
+            </p>
+            <p>
+              Beträffande tillkännagivanden om
+              <seg rend="grad2">
+                ett utvidgat grundlagsskydd för ny kommunikation som sker med
+                elektromagnetiska vågor, om skyddet för den personliga integriteten
+                och om utvärdering av brottskatalogen till tryckfrihetsförordningen
+              </seg>
+              (bet. 2001/02:KU21 mom. 1, 3 och 6, rskr. 233) hänvisar regeringen
+              bl.a. till det fortsatta arbetet i den parlamentariska kommitté
+              som Tryck- och yttrandefrihetsberedningen ombildats till.
+            </p>
+            <p>
+              I flera fall hänvisas till förestående propositioner. Det gäller
+              den äldsta inte slutbehandlade riksdagsskrivelsen (bet.1999/2000:KU14
+              Upphovsrätten och offentlighetsprincipen mom. 3, rskr. 134) om
+              <seg rend="grad2">
+                frågans fortsatta hantering som man avser att redovisa i en proposition
+                om vissa sekretessfrågor våren 2009 samt tillkännagivande om rätten
+                att inneha förtroendeuppdrag (bet. 2005/06:KU15 mom. 2, rskr 152153)
+                och om minoritetsåterremiss (bet. 2005/06:KU26 mom. 2 (res), rskr.,
+                283) som man avser att behandla i en proposition våren 2008. Beträffande
+                ett tillkännagivande om handläggningen av ärenden om bortförda
+                barn
+              </seg>
+              (bet. 2006/07:KU1 mom. 13, rskr. 45) hänvisar regeringen till
+              att resultatet av regeringens ansträngningar kommer att redovisas
+              under 2008.
+            </p>
+            <p>
+              Regeringen hänvisar till fortsatt beredning respektive utredning
+              när det gäller tillkännagivanden om
+              <seg rend="grad2">
+                dröjsmål hos myndigheter (bet. 2004/05:KU14 mom. 6, rskr. 153)
+                och om ny utredning om en oberoende kommunal revision (bet. 2005/06:KU27
+                mom. 2, rskr. 227 ). När det gäller tillkännagivanden om driftsstödet
+                till storstadstidningar, eget redaktionellt material m.m
+              </seg>
+              . (bet. 2005/06:KU40 mom. 24, rskr. 367) hänvisar regeringen
+              till pågående dialog med Europeiska kommissionens generaldirektorat
+              för konkurrens.
+            </p>
+            <p>
+              Regeringen avser att lägga riksdagsskrivelsen (rskr. 2001/02:212)
+              som gäller
+              <seg rend="grad2">
+                konsekvenser av ramlagstiftningen
+              </seg>
+              (bet. 2001/02:KU29) till handlingarna eftersom syftet med tillkännagivandet
+              anses uppnått genom ett seminarium om en OECD-rapport med ett
+              regelreformeringsperspektiv, genom pågående regelförenklingsarbete
+              samt genom Grundlagsutredningens uppdrag och det allmänna kvalitetsarbetet
+              med lagstiftning.
+            </p>
+            <p>
+              Beträffande riksdagsskrivelserna 2007/08:7580 kan noteras att
+              redovisningarna av punkterna i betänkande 2007/08:KU1 inte är
+              fullständiga när det gäller fördelningen av anslagen inom utgiftsområde
+              1 (mom. 1 g, bilaga 2).
+            </p>
+            <p xml:id="IDAS2KUL" rend="rubrik3">
+              Yttranden från andra utskott
+            </p>
+            <p>
+              <seg rend="grad2">
+                Finansutskottet
+              </seg>
+              framhåller i sitt yttrande (yttr. 2007/08:FiU1y) att dess granskning
+              visar att riksdagens beslut till övervägande del fullföljts på
+              det sätt som riksdagen avsåg vid beslutstillfället och genomförts
+              inom rimlig tid (bilaga 2).
+            </p>
+            <p>
+              I likhet med föregående år vill finansutskottet framföra kritik
+              när det gäller ett tillkännagivande angående
+              <seg rend="grad2">
+                kreditupplysningar om mindre belopp m.m.
+              </seg>
+              (bet. 2000/01:FiU21 mom. 8, rskr. 184). Regeringen har för riksdagen
+              upprepade gånger angivit att en departementspromemoria med en
+              redovisning av en översyn av kreditupplysningslagen innevarande
+              år kommer att slutföras och skickas på remiss. Så även i årets
+              skrivelse där regeringen anger att arbetet är inriktat på att
+              en de partementspromemoria ska kunna remitteras under våren 2008.
+              Mot bakgrund av att regeringen upprepade gånger i sin redovisning
+              för riksdagen ställt i utsikt att en promemoria inom kort ska
+              kunna remitteras utan att detta har genomförts har utskottet övervägt
+              om det finns skäl att ta ytterligare initiativ. Utskottet har
+              emellertid valt att återigen avvakta och se om regeringen denna
+              gång kommer att remittera den utlovade promemorian.
+            </p>
+            <p>
+              <seg rend="grad2">
+                Skatteutskottet
+              </seg>
+              (yttr. 2007/08:SkU5y) ser det som angeläget att regeringen alltid
+              vinnlägger sig om en så snabb beredning som möjligt av de tillkännagivanden
+              som riksdagen har beslutat (bilaga 3). Om det tar lång tid innan
+              regeringen vidtar åtgärder för att tillgodose riksdagens beslut
+              skapas nämligen en osäkerhet som ofta leder till att ämnet för
+              tillkännagivandet kommer upp på nytt, t.ex. i motioner som väcks
+              under allmän motionstid eller i anslutning till propositioner
+              eller i frågor och interpellationer till finansministern. Exempel
+              är tillkännagivandena om skattereglerna för allmännyttiga stiftelser
+              och om folkbokföringens koppling till kyrkliga församlingar som
+              nu redovisats som slutbehandlade och där det dröjt omkring två
+              år innan regeringen beslutat om utredning. Skatteutskottet förutsätter
+              att regeringen nu kommer att se till att utredningarna kan slutföras
+              inom utsatt tid och att återkoppling till riksdagen sedan sker
+              snabbt.
+            </p>
+            <p>
+              Ett beslut som också det ligger flera år tillbaka i tiden är
+              ett tillkännagivande om avveckling av reklamskatten med beaktande
+              av de budgetpolitiska målen som riksdagen gjorde våren 2002. Som
+              ett led i avvecklingen har skatteuttaget minskats, och regeringen
+              uttalar i den nu förevarande redogörelsen på nytt ambitionen att
+              avskaffa reklamskatten så snart som möjligt. Samtidigt konstaterar
+              regeringen att en finansiering till slopandet saknas. Skatteutskottet
+              utgår ifrån att möjligheten till ett slopande av reklamskatten
+              tas upp inom ramen för prövningen av budgeten för 2009.
+            </p>
+            <p>
+              Skatteutskottet betonar angelägenheten av att den fortsatta beredningen
+              av de frågor som riksdagen aktualiserade i tillkännagivanden våren
+              2007 inte tillåts att dra ut ytterligare på tiden. Frågan om tonnageskatt
+              som omfattas av ett tillkännagivande våren 2007 var redan våren
+              2004 föremål för ett tillkännagivande med anledning av motioner
+              från företrädare för flera partier. Det gällde då en begäran om
+              utredning (bet. 2003/04:SkU21). Tonnageskatteutredningen var klar
+              i början av 2006 och remissbehandlades under hösten samma år.
+              Med hänsyn tagen till den sammanlagt långa tid som beredningen
+              har pågått anser skatteutskottet att det hade varit motiverat
+              att få ett tydligare besked om beredningsläget i ärendet.
+            </p>
+            <p>
+              <seg rend="grad2">
+                Socialförsäkringsutskottet
+              </seg>
+              framhåller (yttr. 2007/08:SfU2y) att regeringens redovisning
+              tyder på att flera ärenden inte kommer att kunna slutredovisas
+              på ännu ett tag och på att i något fall har de planerade åtgärderna
+              inte ens påbörjats (bilaga 4). Socialförsäkringsutskottet understryker
+              vikten av att konkreta behandlingsåtgärder med anledning av riksdagsbeslut
+              påbörjas så snart som möjligt. Socialförsäkringsutskottet pekar
+              också på att inte heller i år har redovisats en delfråga (rskr.
+              2003/04:102) om omvandling av tidigare förmåner för vissa personer
+              med aktivitetsersättning.
+            </p>
+            <p>
+              <seg rend="grad2">
+                Trafikutskottet
+              </seg>
+              pekar på (yttr. 2007/08:TU2y) att beredningsläget inte har förbättrats
+              efter det att utskottet tidigare vänt sig mot att flertalet tillkännagivanden
+              varit obehandlade ännu efter flera år (bilaga 5). Den genomsnittliga
+              beredningstiden för tillkännagivanden inom trafikutskottets område
+              är nu närmare fem. Samtidigt gäller dock att regeringen beträffande
+              flertalet tillkännagivanden meddelat att ärendena kommer att slutbehandlas
+              under 2008 och i några fall senare under mandatperioden. Trafikutskottet
+              välkomnar denna information. Enligt trafikutskottets mening bör
+              det inte förekomma att riksdagsskrivelser med tillkännagivanden
+              inte är slutbehandlade efter flera år utan att uppgifter redovisas
+              om beredningsläget och bedömning om när tillkännagivandena är
+              slutbehandlade. När det gäller regeringens redovisning av ett
+              tillkännagivande om Arlandabanan anser trafikutskottet att tillkännagivandet
+              i viktiga delar får anses vara omsorgsfullt beaktat. Trafikutskottet
+              ifrågasätter dock om tillkännagivandet till fullo beaktats och
+              redovisats för riksdagen eftersom beredningsarbete fortfarande
+              pågår för viktiga frågor när det gäller Arlandabanan. Trafikutskottet
+              förutsätter att regeringen i enlighet med tidigare ställningstagande
+              från riksdagens sida återkommer under hösten med närmare redovisning
+              av frågan om Arlandabanan och statens styrning av projektbolaget
+              A-Banan Projekt AB.
+            </p>
+            <p>
+              <seg rend="grad2">
+                Arbetsmarknadsutskottet
+              </seg>
+              (bilaga 6) hänvisar i sitt yttrande (yttr. 2007/08:AU2y) inledningsvis
+              till ett tidigare yttrande där arbetsmarknadsutskottet poängterat
+              den stora principiella betydelsen av att regeringen följer riksdagens
+              beslut och tillgodoser de önskemål som omfattas av tillkännagivandena,
+              varför det bör vara en prioriterad uppgift för regeringen att
+              se till att riksdagsskrivelserna kan avslutas. Arbetsmarknadsutskottet
+              hade vidare framhållit att i de särskilda fall då regeringen inte
+              anser sig kunna efterkomma riksdagsbeslutet bör regeringen utan
+              dröjsmål redovisa sin inställning till riksdagen på det sätt som
+              konstitutionsutskottet tidigare angett.
+            </p>
+            <p>
+              Arbetsmarknadsutskottet konstaterar nu att det gått åtta sedan
+              ett tillkännagivande om lönebidrag i bestående anställningsförhållanden
+              gjordes (1999/2000:AU1 mom. 37 j, rskr. 83) och hänvisar till
+              att utskottet för tre år sedan kraftigt betonat vikten av att
+              riksdagsskrivelsen kunde slutbehandlas utan ytterligare dröjsmål.
+              Arbetsmarknadsutskottet utgår från att regeringen återkommer till
+              riksdagen så snart som möjligt. När det gäller tillkännagivanden
+              om
+              <seg rend="grad2">
+                företagares rätt till A-kassa (bet. 2003/04:AU6 mom. 9, rskr.
+                185), om A-kassa vid förtroendeuppdrag (bet. 2004/05:AU4 mom.
+                7, rskr, 181), om kringgående av lagen om anställningsskydd
+              </seg>
+              (bet. 2004/05:AU18 mom. 9, rskr. 225) framhåller arbetsmarknadsutskottet
+              att det är angeläget att regeringen återkommer till riksdagen
+              så snart som möjligt. Arbetsmarknadsutskottet konstaterar också
+              att samtliga delmoment i riksdagsskrivelse 2007/08:72 om budgetpropositionen
+              inte ansetts behöva återrapporteras när riksdagsskrivelsen redovisats
+              som slutbehandlad.
+            </p>
+            <p>
+              Beträffande riksdagsskrivelserna 2005/06:174175 (bet. 2005/06:AU3)
+              som gäller ett tillkännagivande om ratificering av ILO-konventionen
+              nr 94 redovisar arbetsmarknadsutskottet det beredningsarbete som
+              pågår bl.a. i frågan om förenligheten med EU:s upphandlingsdirektiv.
+              Arbetsmarknadsutskottet har ingen invändning mot att skrivelsen
+              kvarstår som inte slutbehandlad.
+            </p>
+            <p>
+              I en avvikande mening (s, v, mp) i denna del framförs att regeringen
+              bör verka för att hinder på EU-nivå för ratificering av konventionen
+              undanröjs och att de aktuella riksdagsskrivelserna bör slutbehandlas
+              utan dröjsmål.
+            </p>
+            <p>
+              <seg rend="grad2">
+                Justitieutskottet har konstaterat att det saknas anledning att
+                ifrågasätta de av regeringen redovisade åtgärderna och kulturutskottet
+                finner inte anledning att framföra några synpunkter till konstitutionsutskottet.
+                Försvars- och utbildningsutskotten
+              </seg>
+              har meddelat att de inte har något att erinra mot regeringens
+              skrivelse i de delar som avser respektive utskotts beredningsområden.
+            </p>
+            <p xml:id="IDAH5KUL" rend="rubrik3">
+              Tidigare behandling
+            </p>
+            <p>
+              Våren 2006 gjordes inom konstitutionsutskottets kansli en genomgång
+              av riksdagens tillkännagivanden till regeringen (bet. 2005/06:KU34).
+              Utskottet redovisade därvid de synpunkter på regeringens redogörelser
+              av behandlingen av riksdagens skrivelser som utskottet framfört
+              under årens lopp. År 1995 hade konstitutionsutskottet understrukit
+              att utgångspunkten måste vara att de önskemål som tillkännagivandena
+              avser bör tillgodoses (bet. 1994/95:KU30 s. 42). Om det visar
+              sig föreligga omständigheter som hindrar ett genomförande eller
+              om regeringen gör en annan bedömning än riksdagen, måste dock
+              regeringen kunna underlåta att vidta de åtgärder tillkännagivandet
+              avser. En förutsättning borde då vara att regeringens bedömningar
+              redovisas för riksdagen. År 2003 framhöll utskottet (bet. 2002/03:KU30)
+              att utskottet förutsatte att regeringen hörsammar riksdagens tillkännagivanden
+              och att regeringen redovisar sina bedömningar för riksdagen om
+              de begärda åtgärderna inte vidtas. Om regeringen inte avser att
+              vidta en begärd åtgärd i enlighet med riksdagsbeslutet, måste
+              detta enligt utskottets mening redovisas för riksdagen inom tidsramen,
+              om en sådan uppställts av riksdagen. Även skälen för att riksdagsbeslutet
+              inte följs bör tas upp i sammanhanget. Om en redovisning inte
+              kan ges i en skrivelse eller proposition till riksdagen, borde
+              den, enligt utskottets mening, lämnas till riksdagen i annan form
+              som gör den tillgänglig för samtliga ledamöter.
+            </p>
+            <p>
+              År 2004 underströk utskottet vikten av att regeringen gör ansträngningar
+              för att undvika onödig tidsutdräkt (bet. 2003/04:KU21). Utskottet
+              framhöll också vikten av att det särskilt vid längre tidsutdräkter
+              ges fullgod information om orsakerna och att informationen självfallet
+              kunde ges också i andra sammanhang än i skrivelse 75. Våren 2005
+              förutsatte utskottet att rutinerna i Regeringskansliet skulle
+              ses över som ett led i ansträngningarna att komma till rätta med
+              onödiga tidsutdräkter (bet. 2004/05:KU24). Utskottet pekade också
+              på vikten av att regeringens information inte är för knapphändig.
+              Informationen borde svara mot de krav som uppställts genom tillkännagivandena.
+            </p>
+            <p>
+              Vid behandlingen våren 2006 av regeringens skrivelse med redogörelse
+              för behandlingen av riksdagens skrivelser framhöll utskottet beträffande
+              ett tillkännagivande om konsekvenser av ramlagstiftning (bet.
+              2001/02:KU29 mom 2, rskr. 212) att den tid som då förflutit borde
+              ha räckt till för att överväga hur frågan borde behandlas.
+            </p>
+            <p>
+              Utskottet framhöll våren 2007 att regeringens redogörelse för
+              behandlingen av riksdagens skrivelser under senare år har förbättrats
+              påtagligt (bet. 2006/07:KU17). Den hade blivit mer lättillgänglig
+              och gav en utförligare information om beredningsläget i skilda
+              ärenden. Det fanns dock enligt utskottets mening utrymme för ytterligare
+              förbättringar. Särskilt gällde det information om vilka åtgärder
+              som planeras och bedömningar om när riksdagsskrivelser kan antas
+              bli slutbehandlade, i vart fall om tillkännagivandena är mer än
+              ett år gamla. Utskottet underströk behovet av att sedvanliga beredningsåtgärder
+              inte onödigtvis fördröjs och framhöll vikten av att en riksdagsskrivelse
+              inte redovisas som slutbehandlad utan att samtliga delar av tillkännagivandet
+              redovisats.
+            </p>
+            <p xml:id="IDAW5KUL" rend="rubrik3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Regeringens redogörelse för behandlingen av riksdagens skrivelser
+              har fortsatt att förbättras. Information om vilka åtgärder som
+              planeras och bedömningar om när riksdagsskrivelser antas bli slutbehandlade
+              förekommer nu i större utsträckning än tidigare. Utskottet välkomnar
+              denna utveckling och förutsätter att sådana uppgifter kommer att
+              redovisas genomgående i kommande redogörelser.
+            </p>
+            <p>
+              Socialförsäkringsutskottet och trafikutskottet har framhållit
+              att redovisningen i vissa avseenden inte är fullständig. Konstitutionsutskottet
+              förutsätter liksom dessa utskott att regeringen kommer att återkomma
+              när det gäller de aktuella tillkännagivandena.
+            </p>
+            <p>
+              Flera utskott har pekat på tidsutdräkterna när det gäller behandlingen
+              av riksdagsskrivelserna. Bland annat har trafikutskottet framhållit
+              att den genomsnittliga beredningstiden för tillkännagivanden inom
+              utskottets område är fem år och arbetsmarknadsutskottet har pekat
+              på ett tillkännagivande som är åtta år gammalt. Konstitutionsutskottet
+              delar skatteutskottets bedömning att långa tidsutdräkter skapar
+              en osäkerhet som ofta leder till att ämnet för tillkännagivandet
+              kommer upp på nytt i olika sammanhang i riksdagen. Det är självfallet
+              också, som finansutskottet angett, angeläget att en åtgärd som
+              aviseras till en viss tidpunkt verkligen kommer till stånd och
+              inte återkommande skjuts upp. Utskottet noterar dock att den departementspromemoria
+              som finansutskottet efterfrågat i sitt yttrande numera har publicerats
+              (Ds 2008:34 Ett starkare skydd för den enskildes integritet vid
+              kreditupplysning). Konstitutionsutskottet vill åter understryka
+              behovet av att beredningsåtgärder inte onödigtvis fördröjs.
+            </p>
+            <p xml:id="IDAGALUL" rend="AvsnittsRubrik">
+              Särskilt yttrande
+            </p>
+          </div>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDAKALUL">
+                  <p rend="ettsarskiltyttrande">
+                    Behandlingen av riksdagens skrivelser till regeringen (s, v,
+                    mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    Berit Andnor (s), Morgan Johansson (s), Yilmaz Kerimo (s), Helene
+                    Petersson i Stockaryd (s), Marianne Berg (v), Phia Andersson (s),
+                    Mikael Johansson (mp) och Sinikka Bohlin (s) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              ILO-konventionen 94 slår fast att offentliga myndigheters upphandling
+              ska innehålla klausuler som garanterar löntagare villkor som inte
+              är mindre fördelaktiga än de som finns i kollektivavtal för arbete
+              av samma sort i den bransch och i den sektor som arbetet utförs.
+              Vi anser att konventionen ska ratificeras eftersom det skulle
+              innebära en förstärkning av möjligheterna att förhindra social
+              dumpning. Företag som har undermåliga villkor för sin personal
+              kan då utestängas från offentliga upphandlingar. Sverige bör verka
+              för att hinder på EU-nivå för svensk ratificering av konventionen
+              undanröjs. Det är enligt vår mening angeläget att riksdagsskrivelserna
+              2005/06:174 och 175 slutbehandlas utan ytterligare dröjsmål.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAOBLUL" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDARBLUL" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAUBLUL" rend="rubrik2">
+              Skrivelsen
+            </p>
+            <p>
+              Regeringens skrivelse 2007/08:75 Redogörelse för behandlingen
+              av riksdagens skrivelser till regeringen.
+            </p>
+          </div>
+          <div type="html-yttrandebilaga">
+            <p xml:id="IDA0BLUL" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <div rend="betankande_">
+              <table>
+                <row>
+                  <cell>
+                    <p rend="HuvudRubrik_">
+                      Finansutskottets betänkande
+                    </p>
+                    <p rend="HuvudRubrikRad2_">
+                      2007/08:FiU1
+                    </p>
+                  </cell>
+                  <cell/>
+                </row>
+                <row>
+                  <cell>
+                    <p rend="DokumentRubrik_">
+                      Regeringens behandling av riksdagens skrivelser
+                    </p>
+                  </cell>
+                </row>
+                <row>
+                  <cell cols="2"/>
+                </row>
+                <row>
+                  <cell cols="2"/>
+                </row>
+              </table>
+              <div type="html-tillxutskottet">
+                <p xml:id="IDAYCLUL" rend="AvsnittsRubrik">
+                  Till konstitutionsutskottet
+                </p>
+                <p>
+                  Konstitutionsutskottet uppmanade den 27 mars 2008 samtliga utskott
+                  att senast den 24 april yttra sig över regeringens skrivelse 2007/08:75
+                  Redogörelse för behandlingen av riksdagens skrivelser till regeringen
+                  och motioner.
+                </p>
+              </div>
+              <div type="html-continuation">
+                <p xml:id="IDA5CLUL" rend="AvsnittsRubrik">
+                  Utskottets överväganden
+                </p>
+                <p>
+                  I skrivelsen redogör regeringen för behandlingen av riksdagens
+                  skrivelser till regeringen. Utskottet har granskat regeringens
+                  redovisning av de 40 skrivelser som tillkommit efter att ärendena
+                  beretts i finansutskottet. Granskningen visar att riksdagens beslut
+                  till övervägande delen har fullföljts på det sätt som riksdagen
+                  avsåg vid beslutstillfället och genomförts inom rimlig tid.
+                </p>
+                <p>
+                  I likhet med föregående år vill emellertid utskottet framföra
+                  kritik när det gäller punkten Ju7 från riksmötet 2000/01 (yttr.
+                  2006/07:FiU2y). På förslag från finansutskottet i betänkande 2000/01:
+                  FiU21 gjorde riksdagen ett tillkännagivande angående kreditupplysningar
+                  om mindre belopp. Innebörden var att om den lag som utskottet
+                  behandlade inte skulle visa sig ge ett tillräckligt skydd för
+                  individen så skulle regeringen överväga andra metoder för att
+                  förhindra kreditupplysningsföretagen att i kreditupplysningar
+                  lämna uppgifter om enstaka mindre betalningsförsummelser och överväga
+                  att förkorta gallringstiden för uppgifter om sådana försummelser.
+                  Saken har sedan beretts inom Regeringskansliet, och regeringen
+                  har upprepade gånger angivit för riksdagen att en departementspromemoria
+                  med en redovisning av en översyn av kreditupplysningslagen kommer
+                  att slutföras innevarande år och skickas på remiss. Så även i
+                  årets skrivelse där regeringen anger att arbetet är inriktat på
+                  att en departementspromemoria ska kunna remitteras under våren
+                  2008. Enligt muntliga uppgifter från Regeringskansliet kan en
+                  remittering förväntas i maj 2008.
+                </p>
+                <p>
+                  Mot bakgrund av att regeringen upprepade gånger i sin redovisning
+                  för riksdagen ställt i utsikt att en promemoria inom kort ska
+                  kunna remitteras utan att detta har genomförts har utskottet övervägt
+                  om det finns skäl att ta ytterligare initiativ. Utskottet har
+                  emellertid valt att återigen avvakta och se om regeringen denna
+                  gång kommer att remittera den utlovade promemorian.
+                </p>
+                <p rend="justeringsdatum">
+                  Stockholm den 24 april 2008
+                </p>
+                <p>
+                  På finansutskottets vägnar
+                </p>
+                <p rend="ordforanden_">
+                  Stefan Attefall
+                </p>
+                <p rend="deltagare_">
+                  Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+                  Anna Lilliehöök (m), Sonia Karlsson (s), Lars Elinderson (m),
+                  Monica Green (s), Hans Hoff (s), Peder Wachtmeister (m), Göran
+                  Pettersson (m), Tommy Ternemar (s), Emma Henriksson (kd), Ann-Charlotte
+                  Hammar Johnsson (m), Jörgen Hellman (s) och Per Åsling (c).
+                </p>
+              </div>
+            </div>
+          </div>
+          <div type="html-yttrandebilaga">
+            <p xml:id="IDA2ELUL" rend="Bilaga">
+              Bilaga 3
+            </p>
+            <div rend="betankande_">
+              <table>
+                <row>
+                  <cell>
+                    <p rend="HuvudRubrik_">
+                      Skatteutskottets betänkande
+                    </p>
+                    <p rend="HuvudRubrikRad2_">
+                      2007/08:SkU5
+                    </p>
+                  </cell>
+                  <cell/>
+                </row>
+                <row>
+                  <cell>
+                    <p rend="DokumentRubrik_">
+                      Redogörelse för behandlingen av riksdagens skrivelser till regeringen
+                    </p>
+                  </cell>
+                </row>
+                <row>
+                  <cell cols="2"/>
+                </row>
+                <row>
+                  <cell cols="2"/>
+                </row>
+              </table>
+              <div type="html-tillxutskottet">
+                <p xml:id="IDA0FLUL" rend="AvsnittsRubrik">
+                  Till konstitutionsutskottet
+                </p>
+                <p>
+                  Konstitutionsutskottet har gett skatteutskottet och övriga utskott
+                  tillfälle att yttra sig över regeringens skrivelse 2007/08:75
+                  Redogörelse för behandlingen av riksdagens skrivelser till regeringen.
+                </p>
+                <p>
+                  Av de skrivelser som tas upp i regeringens redogörelse avser
+                  32 riksdagens beslut i ärenden där skatteutskottet haft beredningsansvaret.
+                  I de allra flesta fall gäller det skrivelser som har samband med
+                  lagstiftningsärenden som utskottet har berett under 2007. Åtta
+                  beslut är tillkännagivanden till regeringen. Fem av dessa tillkännagivanden
+                  redovisas som inte slutbehandlade och tre som slutbehandlade under
+                  2007.
+                </p>
+                <p xml:id="IDADGLUL" rend="r3">
+                  Skrivelser med tillkännagivanden som inte är slutbehandlade
+                </p>
+                <p xml:id="IDAGGLUL" rend="r4">
+                  Skadlig skattekonkurrens i Europeiska unionen
+                </p>
+                <p>
+                  Riksdagens skrivelse den 5 december 2000 med anledning av motion
+                  Sk8 yrkande 3 (mp) avser ett tillkännagivande om att regeringen
+                  i samband med en översyn inom EG-kommissionen av uppförandekoden
+                  för företagsbeskattning bör arbeta för en utvidgning av tillämpningsområdet
+                  för koden till att omfatta även skadlig skattekonkurrens som avser
+                  löntagare (rskr. 2000/01:70, prop. 2000/01:12, bet. 2000/01:SkU6
+                  mom. 3).
+                </p>
+                <p>
+                  Enligt redogörelsen (Fi 2, s. 65) har den planerade översynen
+                  inom EU av uppförandekoden ännu inte kommit till stånd, och skrivelsen
+                  har därför inte kunnat slutbehandlas.
+                </p>
+                <p xml:id="IDAPGLUL" rend="r4">
+                  Avskaffande av reklamskatten
+                </p>
+                <p>
+                  Riksdagens skrivelse den 10 april 2002 med anledning av yrkanden
+                  i motioner (s, m, v, kd, c, fp och mp) avser ett tillkännagivande
+                  om att en avveckling av reklamskatten bör prioriteras i den kommande
+                  budgetberedningen, dock med beaktande av de budgetpolitiska målen
+                  (rskr. 2001/02:201, bet. 2001/02:SkU20).
+                </p>
+                <p>
+                  Enligt tidigare redogörelser har frågan prioriterats för budgetåren
+                  20032005 utan att förutsättningar bedömts föreligga för finansiering
+                  av ett avskaffande av reklamskatten med beaktande av de budgetpolitiska
+                  målen.
+                </p>
+                <p>
+                  I redogörelsen för 2005 redovisades att regeringen i den närmast
+                  föregående budgetberedningen funnit att förutsättningar fanns
+                  för att finansiera ett första steg i avskaffandet av den resterande
+                  reklamskatten (prop. 2005/06:1 finansplan m.m. avsnitt 5.6.3)
+                  fr.o.m. den 1 januari 2006. Skatten på annonser i allmänna nyhetstidningar
+                  sänktes från 4 till 3 % och reklamskatten i övrigt från 11 till
+                  8 %. Samtidigt höjdes gränsen för när skatt måste betalas från
+                  12 till 50 miljoner kronor. Skattesänkningen beräknades motsvara
+                  drygt 300 miljoner kronor. I redogörelsen för 2006 hänvisade regeringen
+                  till vad den framhållit i budgetpropositionen för 2007, nämligen
+                  att det är viktigt att den resterande reklamskatten kan avskaffas
+                  så snart som möjligt men att finansiering saknas.
+                </p>
+                <p>
+                  I den nu förevarande redogörelsen (Fi 4, s. 66) hänvisas till
+                  att regeringen i budgetpropositionen för 2008 (prop. 2007/08:1
+                  finansplan m.m. avsnitt 5.7.3) aviserade ett ytterligare steg
+                  i avskaffandet av den resterande reklamskatten, vilket också har
+                  genomförts (prop. 2007/08:18 Sänkt reklamskatt för vissa periodiska
+                  publikationer). Samtliga periodiska publikationer, även gratisutdelade,
+                  som inte är annonsblad, katalog eller program har fått samma lägre
+                  reklamskatt som sedan den 1 januari 2006 gäller för allmänna nyhetstidningar.
+                  Lagändringarna ska tillämpas retroaktivt fr.o.m. den 1 januari
+                  2007.
+                </p>
+                <p xml:id="IDA4GLUL" rend="r4">
+                  Beskattning av barnpension
+                </p>
+                <p>
+                  Riksdagens skrivelse den 15 mars 2006 med bifall till motion
+                  2005/06:Sk216 (m) avser ett tillkännagivande om att regeringen
+                  bör se över reglerna om beskattning av barnpension i kombination
+                  med ytterligare inkomster som kan medföra att barn med en avliden
+                  förälder får en högre inkomstskatt än andra ungdomar vid feriearbete
+                  (rskr. 2006/07:61, bet. 2005/06:SkU16 mom. 2).
+                </p>
+                <p>
+                  Enligt redogörelsen (Fi 25, s. 82) bereds ärendet inom Regeringskansliet,
+                  och ett ställningstagande planeras under 2008.
+                </p>
+                <p xml:id="IDAHHLUL" rend="r4">
+                  Förmån av fri bil
+                </p>
+                <p>
+                  Riksdagens skrivelse den 15 mars 2007 med bifall till motionerna
+                  2006/07:Sk204 (m), 2006/07:Sk209 (fp) och 2006/07:Sk224 (s) avser
+                  ett tillkännagivande om att alkolås inte bör påverka bilförmånens
+                  värde och att regeringen bör se över reglerna på detta område
+                  och återkomma till riksdagen (rskr. 2006/07:114, bet. 2006/07:SkU10
+                  punkt 4).
+                </p>
+                <p>
+                  Enligt redogörelsen (Fi 29, s. 73) bereds ärendet inom Regeringskansliet.
+                </p>
+                <p xml:id="IDAQHLUL" rend="r4">
+                  Tonnageskatt
+                </p>
+                <p>
+                  Riksdagens skrivelse den 15 mars 2007 med bifall till motion
+                  2006/07:T241 yrkande 4 (c) avser ett tillkännagivande om att regeringen
+                  ska påskynda beredningen av en tonnageskatt för sjöfartsnäringen
+                  och återkomma till riksdagen med förslag till lagstiftning (rskr.
+                  2006/07:115, bet. 2006/07:SkU11 punkt 2).
+                </p>
+                <p>
+                  Enligt redogörelsen (Fi 30, s. 73) bereds ärendet inom Regeringskansliet.
+                </p>
+                <p xml:id="IDAZHLUL" rend="r3">
+                  Skrivelser med tillkännagivanden som har slutbehandlats under
+                  2007
+                </p>
+                <p xml:id="IDA2HLUL" rend="r4">
+                  Filialregeln m.m.
+                </p>
+                <p>
+                  Riksdagens skrivelse den 4 december 2003 avser ett tillkännagivande
+                  om att regeringen skulle pröva om utformningen av den s.k. filialregeln
+                  i CFC-reglerna är ändamålsenlig och redovisa resultatet av denna
+                  prövning till riksdagen (rskr. 2003/04:78, prop. 2003/04:10, bet.
+                  2004/05:SkU6 punkt 3).
+                </p>
+                <p>
+                  Regeringen anför i redogörelsen (Fi 6, s. 67) att den redovisat
+                  sitt ställningstagande i propositionen Ändrade regler för CFC-beskattning,
+                  m.m. (prop. 2007/08:16) och att ställningstagandet innebär att
+                  regeln inte behöver ändras. Skrivelsen är därmed slutbehandlad.
+                </p>
+                <p xml:id="IDAIILUL" rend="r4">
+                  Stiftelsen Anna Lindhs Minnesfond m.m.
+                </p>
+                <p>
+                  Riksdagens skrivelse den 24 november 2004 avser ett tillkännagivande
+                  om att regeringen bör se över de regler som anger omfattningen
+                  av skattebefrielse för vissa allmännyttiga stiftelser och andra
+                  juridiska personer som bedriver allmännyttig verksamhet (rskr.
+                  2004/05:61, prop. 2003/04:33, motionerna 2003/04:Sk26 [m] och
+                  Sk27 [c], bet. 2004/05:SkU11 punkt 3). I skrivelsen redovisas
+                  (Fi 7, s. 67) att regeringen den 20 juni 2007 beslutade att tillkalla
+                  en särskild utredare med uppgift att göra en översyn av bestämmelserna
+                  om inkomstbeskattning av stiftelser, ideella föreningar, registrerade
+                  trossamfund och vissa andra juridiska personer (dir. 2007:97).
+                  Uppdraget ska redovisas senast den 30 juni 2009. Skrivelsen är
+                  därmed slutbehandlad.
+                </p>
+                <p xml:id="IDAOILUL" rend="r4">
+                  Folkbokföringens koppling till kyrkliga församlingar
+                </p>
+                <p>
+                  Riksdagens skrivelse den 14 december 2005 avser ett tillkännagivande
+                  om att regeringen ånyo bör se över frågan om folkbokföringen även
+                  i fortsättningen bör knytas till de kyrkliga församlingarna eller
+                  om någon annan lösning ska väljas. Det förutsattes att förslagen
+                  i motionerna och remissyttrandena över motionerna skulle prövas
+                  närmare i denna översyn (rskr. 2005/06:117, motion 2004/05:Sk231
+                  m.fl. [m, fp, kd och c], bet. 2005/06:SkU13). I skrivelsen (Fi
+                  11, s. 68) redovisas att regeringen den 6 september 2007 beslutade
+                  att tillkalla en särskild utredare med uppgift att göra en översyn
+                  av 1991 års folkbokföringslag (dir. 2007:123). I översynen ingår
+                  att utreda om folkbokföringen även i fortsättningen ska knytas
+                  till de kyrkliga församlingarna eller om någon annan lösning ska
+                  väljas. Uppdraget ska slutredovisas senast den 1 september 2009.
+                  Skrivelsen är därmed slutbehandlad.
+                </p>
+              </div>
+              <div type="html-continuation">
+                <p xml:id="IDAVILUL" rend="AvsnittsRubrik">
+                  Utskottets överväganden
+                </p>
+                <p>
+                  Utskottet ser det som angeläget att regeringen alltid vinnlägger
+                  sig om en så snabb beredning som möjligt av de tillkännagivanden
+                  som riksdagen har beslutat. Om det tar lång tid innan regeringen
+                  vidtar åtgärder för att tillgodose riksdagens beslut skapas nämligen
+                  en osäkerhet som ofta leder till att ämnet för tillkännagivandet
+                  kommer upp på nytt, t.ex. i motioner som väcks under allmän motionstid
+                  eller i anslutning till propositioner eller i frågor och interpellationer
+                  till finansministern. Ett exempel är det nu som slutbehandlat
+                  redovisade tillkännagivandet om skattereglerna för allmännyttiga
+                  stiftelser där det dröjt över två år innan en utredning tillsattes.
+                  Utskottet förutsätter att regeringen nu kommer att se till att
+                  utredningen kan slutföras inom utsatt tid och att en återkoppling
+                  till riksdagen sedan sker snabbt. Detsamma gäller utredningen
+                  om huruvida folkbokföringen även i fortsättningen ska knytas till
+                  de kyrkliga församlingarna eller om någon annan lösning ska väljas.
+                  Som framgår av tillkännagivandet om detta förutsätter utskottet
+                  att förslagen i de motioner som ligger till grund för tillkännagivandet
+                  och remissyttrandena över motionerna bör prövas närmare.
+                </p>
+                <p>
+                  Av de övriga tillkännagivanden som skatteutskottet medverkat
+                  till, och som ännu inte är slutbehandlade, härrör det äldsta från
+                  hösten 2000. Det är frågan om en översyn av EU:s uppförandekod
+                  för företagsbeskattning. Naturligtvis råder inte regeringen över
+                  denna fråga på samma sätt som när det t.ex. gäller att genomföra
+                  en utredning. Utskottet utgår emellertid från att regeringen i
+                  arbetet inom EU agerar för att föra frågan framåt.
+                </p>
+                <p>
+                  Ett beslut som också det ligger flera år tillbaka i tiden är
+                  det tillkännagivande om avveckling av reklamskatten med beaktande
+                  av de budgetpolitiska målen som riksdagen gjorde våren 2002. Som
+                  ett led i avvecklingen har skatteuttaget minskats, och regeringen
+                  uttalar i den nu förevarande redogörelsen på nytt ambitionen att
+                  avskaffa reklamskatten så snart som möjligt. Samtidigt konstaterar
+                  regeringen att en finansiering till slopandet saknas. Utskottet
+                  utgår ifrån att möjligheten till ett slopande av reklamskatten
+                  tas upp inom ramen för prövningen av budgeten för 2009.
+                </p>
+                <p>
+                  Det framgår av redogörelsen att regeringen planerar ett ställningstagande
+                  i frågan om beskattningen av barnpension under 2008. Utskottet
+                  förutsätter att regeringen redovisar resultatet för riksdagen
+                  så snart som möjligt därefter.
+                </p>
+                <p>
+                  Med hänvisning till vad utskottet inledningsvis har anfört om
+                  de olägenheter som uppstår om åtgärder med anledning av riksdagens
+                  tillkännagivanden hålls svävande under längre tid vill utskottet
+                  betona angelägenheten av att den fortsatta beredningen av de frågor
+                  som riksdagen aktualiserade i tillkännagivanden våren 2007 inte
+                  tillåts att dra ut ytterligare på tiden. Frågan om tonnageskatt
+                  var redan våren 2004 föremål för ett tillkännagivande med anledning
+                  av motioner från företrädare för flera partier. Det gällde då
+                  en begäran om utredning (bet. 2003/04:SkU21). Tonnageskatt har
+                  aktualiserats vid upprepade tillfällen genom frågor till finansministern
+                  och i motioner och debatter i riksdagen. Tonnageskatteutredningen
+                  var klar i början av 2006 och remissbehandlades under hösten samma
+                  år. Under utredningsförslagets fortsatta beredning i Finansdepartementet
+                  aktualiserades vissa frågor som borde beredas vidare, bl.a. för
+                  att få en klarare bild av de offentligfinansiella effekterna av
+                  ett tonnageskattesystem. Utskottet har vid behandlingen av motioner
+                  uttryckt en förståelse för att regeringen kan behöva utreda vissa
+                  frågor ytterligare och bedöma närliggande frågor som har samband
+                  med rederinäringens arbetsförutsättningar. Bakgrunden till tillkännagivandet
+                  2007 är emellertid att en tonnageskatt har bedömts vara av vikt
+                  för rederinäringens utveckling i Sverige och därvidlag inte minst
+                  för att undvika att utflaggningar av nya fartyg kommer att aktualiseras
+                  i brist på besked. Med hänsyn tagen till den sammanlagt långa
+                  tid som beredningen har pågått anser utskottet att det hade varit
+                  motiverat att få ett tydligare besked om beredningsläget i ärendet.
+                </p>
+                <p rend="justeringsdatum">
+                  Stockholm den 24 april 2008
+                </p>
+                <p>
+                  På skatteutskottets vägnar
+                </p>
+                <p rend="ordforanden_">
+                  Lennart Hedquist
+                </p>
+                <p rend="deltagare_">
+                  Följande ledamöter har deltagit i beslutet: Lennart Hedquist
+                  (m), Lars Johansson (s), Annicka Engblom (m), Laila Bjurling (s),
+                  Ulf Berg (m), Jörgen Johansson (c), Raimo Pärssinen (s), Christin
+                  Hagberg (s), Lena Asplund (m), Lennart Sacrédeus (kd), Fredrik
+                  Schulte (m), Marie Engström (v), Åke Sandström (c), Helena Leander
+                  (mp), Hans Olsson (s), Birgitta Eriksson (s) och Agneta Berliner
+                  (fp).
+                </p>
+              </div>
+            </div>
+          </div>
+          <div type="html-yttrandebilaga">
+            <p xml:id="IDAELLUL" rend="Bilaga">
+              Bilaga 4
+            </p>
+            <div rend="betankande_">
+              <table>
+                <row>
+                  <cell>
+                    <p rend="HuvudRubrik_">
+                      Socialförsäkringsutskottets betänkande
+                    </p>
+                    <p rend="HuvudRubrikRad2_">
+                      2007/08:SfU2
+                    </p>
+                  </cell>
+                  <cell/>
+                </row>
+                <row>
+                  <cell>
+                    <p rend="DokumentRubrik_">
+                      Redogörelse för behandlingen av riksdagens skrivelser till regeringen
+                    </p>
+                  </cell>
+                </row>
+                <row>
+                  <cell cols="2"/>
+                </row>
+                <row>
+                  <cell cols="2"/>
+                </row>
+              </table>
+              <div type="html-tillxutskottet">
+                <p xml:id="IDACMLUL" rend="AvsnittsRubrik">
+                  Till konstitutionsutskottet
+                </p>
+                <p>
+                  Konstitutionsutskottet har den 27 mars 2008 anmodat övriga utskott
+                  att yttra sig över regeringens skrivelse 2007/08:75 Redogörelse
+                  för behandlingen av riksdagens skrivelser till regeringen. Regeringens
+                  redogörelse omfattar huvudsakligen regeringsbeslut under tiden
+                  den 1 januari31 december 2007. Ingen motion har väckts med anledning
+                  av skrivelsen.
+                </p>
+                <p>
+                  Socialförsäkringsutskottet redovisar i detta yttrande sina överväganden
+                  rörande behandlingen av de riksdagsskrivelser som gäller socialförsäkringsutskottets
+                  beredningsområde.
+                </p>
+                <p xml:id="IDALMLUL" rend="r1">
+                  Utskottets överväganden
+                </p>
+                <p>
+                  I skrivelsen redovisas behandlingen av 19 riksdagsskrivelser
+                  i ärenden som beretts av socialförsäkringsutskottet. Elva av dessa
+                  anges som slutbehandlade medan åtta fortfarande inte är slutbehandlade
+                  under perioden. Sju av de icke slutbehandlade skrivelserna är
+                  från riksmötet 2005/06 och en är från riksmötet 2003/04. Redovisningen
+                  av vilka beredningsåtgärder som pågår i de olika ärendena tyder
+                  på att flera av ärendena inte kommer att kunna slutredovisas på
+                  ännu ett tag. I något fall har de planerade beredningsåtgärderna
+                  inte ens påbörjats. Utskottet vill därför understryka vikten av
+                  att konkreta beredningsåtgärder med anledning av ett riksdagsbeslut
+                  påbörjas så snart som möjligt, inte minst när det gäller så angelägna
+                  frågor som det här är fråga om.
+                </p>
+                <p>
+                  Utskottet vill dessutom påpeka att regeringen beträffande riksdagsskrivelse
+                  2003/04:102 inte heller i år har redovisat delfrågan som gäller
+                  omvandlingen av tidigare förmåner för vissa personer med aktivitetsersättning.
+                  Utskottet har emellertid inhämtat från Socialdepartementet att
+                  ärendet fortfarande bereds och att man avser att nu lämna ett
+                  myndighetsuppdrag i frågan.
+                </p>
+                <p rend="justeringsdatum">
+                  Stockholm den 17 april 2008
+                </p>
+                <p>
+                  På socialförsäkringsutskottets vägnar
+                </p>
+                <p rend="ordforanden_">
+                  Gunnar Axén
+                </p>
+                <p rend="deltagare_">
+                  Följande ledamöter har deltagit i beslutet: Gunnar Axén (m),
+                  Veronica Palm (s), Ronny Olander (s), Lars-Arne Staxäng (m), Solveig
+                  Zander (c), Siw Wittgren-Ahl (s), Mats G Nilsson (m), Göte Wahlström
+                  (s), Lars Gustafsson (kd), Mikael Cederbratt (m), Kalle Larsson
+                  (v), Matilda Ernkrans (s), Gunvor G Ericson (mp), Marianne Watz
+                  (m), Magdalena Streijffert (s) och Tobias Krantz (fp).
+                </p>
+              </div>
+            </div>
+          </div>
+          <div type="html-yttrandebilaga">
+            <p xml:id="IDAOOLUL" rend="Bilaga">
+              Bilaga 5
+            </p>
+            <div rend="betankande_">
+              <table>
+                <row>
+                  <cell>
+                    <p rend="HuvudRubrik_">
+                      Trafikutskottets betänkande
+                    </p>
+                    <p rend="HuvudRubrikRad2_">
+                      2007/08:TU2
+                    </p>
+                  </cell>
+                  <cell/>
+                </row>
+                <row>
+                  <cell>
+                    <p rend="DokumentRubrik_">
+                      Redogörelse för behandlingen av riksdagens skrivelser till regeringen
+                    </p>
+                  </cell>
+                </row>
+                <row>
+                  <cell cols="2"/>
+                </row>
+                <row>
+                  <cell cols="2"/>
+                </row>
+              </table>
+              <div type="html-tillxutskottet">
+                <p xml:id="IDAMPLUL" rend="AvsnittsRubrik">
+                  Till konstitutionsutskottet
+                </p>
+                <p>
+                  Konstitutionsutskottet har den 27 mars 2008 anmodat övriga utskott
+                  att yttra sig över regeringens skrivelse 2007/08:75 Redogörelse
+                  för behandlingen av riksdagens skrivelser till regeringen samt
+                  motioner. I skrivelsen redovisas de beslut som regeringen fattat
+                  med anledning av de riksdagsbeslut som meddelats i riksdagens
+                  skrivelser till regeringen. Redogörelsen omfattar huvudsakligen
+                  regeringsbeslut fram till den 31 december 2007. Med anledning
+                  härav har trafikutskottet granskat de skrivelser som riktats till
+                  regeringen med anledning av utskottets betänkanden.
+                </p>
+              </div>
+              <div type="html-continuation">
+                <p xml:id="IDATPLUL" rend="AvsnittsRubrik">
+                  Trafikutskottets överväganden
+                </p>
+                <p xml:id="IDAWPLUL" rend="rubrik2">
+                  Skrivelsen
+                </p>
+                <p>
+                  I skrivelsen redovisas beslut och beredningsläge för sammanlagt
+                  31 riksdagsskrivelser till regeringen med anledning av trafikutskottets
+                  betänkanden. Som framgår av följande sammanställning redovisas
+                  7 av dessa riksdagsskrivelser som slutbehandlade medan beredningen
+                  ännu inte är avslutad för 24 riksdagsskrivelser.
+                </p>
+              </div>
+              <div rend="tabellrubrikavsnitt_">
+                <p rend="tabellrubrik">
+                  Riksdagsskrivelser till regeringen med anledning av trafikutskottets
+                  betänkanden
+                </p>
+              </div>
+              <div type="html-continuation">
+                <table>
+                  <row>
+                    <cell>
+                      <p rend="tabellhuvudvanster">
+                        Riksmöte
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellhuvudvanster">
+                        Antal skrivelser
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellhuvudvanster">
+                        Slutbehandlade
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellhuvudvanster">
+                        Inte slutbehandlade
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1994/95
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1
+                      </p>
+                    </cell>
+                    <cell/>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1997/98
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1
+                      </p>
+                    </cell>
+                    <cell/>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1999/2000
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2
+                      </p>
+                    </cell>
+                    <cell/>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2000/01
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1
+                      </p>
+                    </cell>
+                    <cell/>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2001/02
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1
+                      </p>
+                    </cell>
+                    <cell/>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2002/03
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1
+                      </p>
+                    </cell>
+                    <cell/>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2003/04
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        3
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2004/05
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        4
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2005/06
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        6
+                      </p>
+                    </cell>
+                    <cell/>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        6
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2006/07
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        8
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        7
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2007/08
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        3
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Summa
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        31
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        7
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        24
+                      </p>
+                    </cell>
+                  </row>
+                </table>
+              </div>
+              <div rend="tabellfotavsnitt_">
+                <p rend="tabellfot">
+                  Källa: Skrivelse 2007/08:75 Redogörelse för behandlingen av riksdagens
+                  skrivelser till regeringen.
+                </p>
+              </div>
+              <div type="html-continuation">
+                <p>
+                  Regeringens redogörelse lämnar vidare uppgifter om vilka riksdagsskrivelser
+                  som innehåller tillkännagivanden där riksdagen angett något som
+                  sin mening. Som framgår av följande förteckning anges att med
+                  anledning av trafikutskottets betänkande har 18 tillkännagivanden
+                  riktats till regeringen. Av dessa är merparten, eller 17 stycken,
+                  ännu inte slutbehandlade.
+                </p>
+              </div>
+              <div rend="tabellrubrikavsnitt_">
+                <p rend="tabellrubrik">
+                  Riksdagsskrivelser till regeringen som innehåller beslut om tillkännagivanden
+                  med anledning av trafikutskottets betänkanden
+                </p>
+              </div>
+              <div type="html-continuation">
+                <table>
+                  <row>
+                    <cell>
+                      <p rend="tabellhuvudvanster">
+                        Riksdagsskrivelse
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellhuvudvanster">
+                        Innebörd
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellhuvudvanster">
+                        Behandlingsläge
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1994/95:232
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Återinförande av det statliga fritidsbåt-registret
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1997/98:192
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Medicinska krav för taxiförare
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1999/2000:166
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Inrättande av trafikofferjour
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1999/2000:166
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ansvaret för lastsäkring
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1999/2000:238
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Effektivt påföljdssystem
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2000/01:249
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ökad säkerhet för barn i trafiken
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2002/03:161
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Körkort för deltagare i försöksverksamhet med alkolås m.m.
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2002/03:161
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        EU-moped och terrängskoter
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2003/04:161
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Regelverk för fordonsvikter
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2003/04:182
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Påföljdssystemet inom åkerinäringen
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2004/05:178
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Kompetensbevis och hastighetsbegränsning avseende fritidsbåtar
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2004/05:213
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Styrning, redovisning och utvärdering av Arlandabanan
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Slutbehandlad
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2004/05:244
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Stickprovskontroll av kabinpersonal
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2005/06:134
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Främjandet av förnybara bränslen
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2005/06:222
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Kvalitetsbedömning av alkolås
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2005/06:222
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Synskadade i trafiken
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2005/06:223
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Miljö- och säkerhetsfrågor i Östersjön
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2005/06:259
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ekonomisk brottslighet inom taxinäringen
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ärendet bereds
+                      </p>
+                    </cell>
+                  </row>
+                </table>
+              </div>
+              <div rend="tabellfotavsnitt_">
+                <p rend="tabellfot">
+                  Källa: Skrivelse 2007/08:75 Redogörelse för behandlingen av riksdagens
+                  skrivelser till regeringen.
+                </p>
+              </div>
+              <div type="html-continuation">
+                <p xml:id="IDA2VMUL" rend="r2">
+                  Trafikutskottets ställningstagande
+                </p>
+                <p>
+                  Trafikutskottet konstaterar att riksdagens beslut inom utskottets
+                  beredningsområde avspeglas på ett fullständigt sätt i regeringens
+                  redovisning. Utskottet har därmed inga invändningar mot regeringens
+                  redovisning av de beslut som riksdagen fattat.
+                </p>
+                <p>
+                  När det gäller regeringens beredning av riksdagens beslut har
+                  utskottet tidigare år uppmärksammat att ett flertal tillkännagivanden
+                  ännu inte är färdigbehandlade trots att flera år gått sedan vissa
+                  av de aktuella riksdagsbesluten fattades. Även om utskottet hyst
+                  förståelse för att riksdagens tillkännagivanden kräver en omsorgsfull
+                  beredning har utskottet i sitt yttrande till konstitutionsutskottet
+                  understrukit betydelsen av att riksdagsskrivelser med tillkännagivanden
+                  hanteras skyndsamt. Att tillkännagivanden inte är slutbehandlade
+                  efter flera år är enligt vad utskottet sagt tidigare inte något
+                  som bör förekomma annat än i undantagsfall. Konstitutionsutskottet
+                  har i sitt betänkande inte gjort någon bedömning och understrykt
+                  att behovet av sedvanliga beredningsåtgärder inte onödigtvis fördröjs
+                  (bet. 2006/07:KU17).
+                </p>
+                <p>
+                  Trafikutskottet konstaterar att enligt årets redovisning har
+                  beredningsläget inte förbättrats då samtliga tillkännagivanden
+                  utom ett fortfarande bereds. Den genomsnittliga beredningstiden
+                  för riksdagens tillkännagivanden inom utskottets beredningsområde
+                  är nu nära fem år. Samtidigt gäller, som framgår av nedanstående
+                  sammanställning, att regeringen för flertalet tillkännagivanden
+                  meddelat att ärendena kommer att slutbehandlas i flertalet fall
+                  under år 2008 eller i några fall senare under mandatperioden.
+                  Redovisningen har vidare utvecklats i enlighet med vad såväl trafikutskottet
+                  som konstitutionsutskottet efterlyste våren 2007 om att redovisningen
+                  bör innehålla information om vilka åtgärder som planeras och bedömningar
+                  om när riksdagsskrivelser kan antas bli slutbehandlade, i vart
+                  fall om tillkännagivandena är mer än ett år gamla.
+                </p>
+                <p>
+                  Trafikutskottet välkomnar mot denna bakgrund regeringens information
+                  i årets redovisning om att man förutsätter att flertalet tillkännagivanden
+                  slutbehandlas under år 2008. Enligt utskottets mening bör det
+                  inte förekomma att riksdagsskrivelser med tillkännagivanden inte
+                  är slutbehandlade efter flera år utan att uppgifter redovisas
+                  om pågående beredningsläge och bedöming när dessa kan bli slutbehandlade.
+                </p>
+              </div>
+              <div rend="tabellrubrikavsnitt_">
+                <p rend="tabellrubrik">
+                  Riksdagsskrivelser med tillkännagivanden med uppgift om beräknad
+                  sluttidpunkt för behandlingen
+                </p>
+              </div>
+              <div type="html-continuation">
+                <table>
+                  <row>
+                    <cell>
+                      <p rend="tabellhuvudvanster">
+                        Riksdagsskrivelse
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellhuvudvanster">
+                        Innebörd
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellhuvudvanster">
+                        Beräknad sluttidpunkt
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1994/95:232
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Återinförande av det statliga fritidsbåtregistret
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Anges ej
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1997/98:192
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Medicinska krav för taxiförare
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Anges ej
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1999/2000:166
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Inrättande av trafikofferjour
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2008
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1999/2000:166
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ansvaret för lastsäkring
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2008
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        1999/2000:238
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Effektivt påföljdssystem
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Våren 2008
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2000/01:249
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ökad säkerhet för barn i trafiken
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2008
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2002/03:161
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Körkort för deltagare i försöksverksamhet med alkolås m.m.
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Våren 2009 tidigast
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2002/03:161
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        EU-moped och terrängskoter
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2008
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2003/04:161
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Regelverk för fordonsvikter
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Anges ej
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2003/04:182
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Påföljdssystemet inom åkerinäringen
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Våren 2008
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2004/05:178
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Kompetensbevis och hastighetsbegränsning avseende fritidsbåtar
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Hösten 2008
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2004/05:244
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Stickprovskontroll av kabinpersonal
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2008
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2005/06:134
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Främjandet av förnybara bränslen
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Anges ej
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2005/06:222
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Kvalitetsbedömning av alkolås
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Anges ej
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2005/06:222
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Synskadade i trafiken
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Under mandatperioden
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2005/06:223
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Miljö- och säkerhetsfrågor i Östersjön
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Anges ej
+                      </p>
+                    </cell>
+                  </row>
+                  <row>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        2005/06:259
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Ekonomisk brottslighet inom taxinäringen
+                      </p>
+                    </cell>
+                    <cell>
+                      <p rend="tabellkropptext">
+                        Under mandatperioden
+                      </p>
+                    </cell>
+                  </row>
+                </table>
+              </div>
+              <div rend="tabellfotavsnitt_">
+                <p rend="tabellfot">
+                  Källa: Skrivelse 2007/08:75 Redogörelse för behandlingen av riksdagens
+                  skrivelser till regeringen.
+                </p>
+              </div>
+              <div type="html-continuation">
+                <p>
+                  Trafikutskottet granskar i enlighet med tidigare konstitutionell
+                  praxis särskilt de tillkännagivanden som redovisas som slutbehandlade
+                  i regeringens redovisning. När det gäller årets redovisning är
+                  det ett tillkännagivande som anges som slutbehandlat, nämligen
+                  om
+                  <seg rend="grad2">
+                    Arlandabanan
+                  </seg>
+                  från riksmötet 2004/05. Som bakgrund för tillkännagivandet kan
+                  nämnas att det var våren 2005 som riksdagen, efter förslag från
+                  trafikutskottet, beslöt om ett tillkännagivande på grundval av
+                  en framställning från Riksrevisionen. Trafikutskottet efterlyste
+                  i tillkännagivandet dels en utveckling av regeringens styrning
+                  av Arlandabanan, dels en tydligare redovisning av statliga åtaganden
+                  i projektet och dels en samlad utvärdering av projektet. Här kan
+                  konstateras att regeringen i höstens budgetproposition återkommit
+                  till riksdagen med redovisning av vilka åtgärder som vidtagits
+                  med anledning av tillkännagivandet. I sammanhanget kan vidare
+                  nämnas att trafikutskottet under januari 2008 informerats särskilt
+                  av företrädare för projektbolaget om den samhällsekonomiska studie
+                  som A-Banan Projekt AB låtit utföra om Arlandabanan.
+                </p>
+                <p>
+                  Trafikutskottet kan konstatera att såväl den tidigare som nuvarande
+                  regeringen vidtagit åtgärder med anledning av riksdagens tillkännagivande
+                  om Arlandabanan. Tillkännagivandet får därför i viktiga delar
+                  anses vara omsorgsfullt beaktat. Vad gäller den del av ställningstagandet
+                  från riksdagens sida om att regeringen även bör utveckla sin styrning
+                  av A-Banan Projekt AB samt återkomma till riksdagen med en redovisning
+                  av hur styrningen av A-Banan går till kan ifrågasättas om tillkännagivandet
+                  till fullo har beaktats och redovisats för riksdagen.
+                </p>
+                <p>
+                  Av årets budgetproposition framgår att regeringen avser att överföra
+                  förvaltningen av A-Banan Projekt AB från Banverket och LFV till
+                  regeringen. Enligt vad utskottet erfarit genomfördes denna överföring
+                  den 1 januari 2008 då Banverkets och Luftfartsverkets aktier,
+                  om vardera 5 000 stycken, överfördes till Regeringskansliet. Någon
+                  närmare beskrivning av hur regeringen avser utveckla sin styrning
+                  utöver den ägarmässiga förändringen av Arlandabanan redovisas
+                  inte.
+                </p>
+                <p>
+                  I sammanhanget kan vidare nämnas att regeringens förhandlingsman
+                  Carl Cederschiöld i december 2007 presenterat rapporten
+                  <seg rend="grad2">
+                    Samlad trafiklösning Stockholmsregionen för miljö och tillväxt
+                    - till 2020 med utblick mot 2030.
+                  </seg>
+                  I rapportens förslag till trafiklösningar för Stockholmsregionen
+                  behandlas särskilt frågan om Arlandabanans integrering i transportsystemet.
+                  Enligt förhandlingsmannens bedömning kan en önskvärd utveckling
+                  av tågtrafiken på Arlanda inte ske inom ramen för gällande avtal
+                  om Arlandabanan. Staten bör därför enligt förhandlingsmannen genom
+                  A-banan Projekt AB med A-Train AB förhandla fram och gemensamt
+                  komma överens om förändringar i avtalet. Om sådana förhandlingar
+                  inte leder till resultat bör staten enligt Carl Cederschiöld utnyttja
+                  den option som finns om att avbryta avtalet. Enligt vad utskottet
+                  erfarit bereds förhandlingsmannens förslag inom Regeringskansliet
+                  och utgör en utgångspunkt för den aviserade propositionen hösten
+                  2008 om trafikens infrastruktur.
+                </p>
+                <p>
+                  Vidare kan nämnas att statsrådet Åsa Torstensson i ett interpellationssvar
+                  tidigare i vår angett att ett aktivt arbete pågår i Arlanda forum
+                  och Kraftsamling Stockholm mellan Banverket, trafikoperatörer
+                  och berörda kommuner om hur spårkapaciteten till Arlanda kan utnyttjas
+                  bättre. Statsrådet Åsa Torstensson har vidare i en interpellationsdebatt
+                  den 11 april 2008 klargjort att i avtalet om Arlandabanan finns
+                  det en option som möjliggör en eventuell inlösen av Arlandabanan
+                  2010 och angett att det för närvarande pågår en översyn mellan
+                  A-banan Projekt AB och A-Train AB av detta avtal.
+                </p>
+                <p>
+                  Utskottet, som anser att samtliga delar av ett tillkännagivande
+                  bör redovisas omsorgsfullt, konstaterar att ett beredningsarbete
+                  pågår för viktiga frågor när det gäller Arlandabanan. Vidare gäller
+                  att regeringen avser att förelägga riksdagen förslag under hösten
+                  2008 om långsiktiga planer för trafikens infrastruktur. Mot denna
+                  bakgrund förutsätter trafikutskottet att regeringen, i enlighet
+                  med tidigare ställningstagande från riksdagens sida, återkommer
+                  i propositionen aviserad till hösten om trafikens infrastruktur
+                  med en närmare redovisning av frågan om Arlandabanan och statens
+                  styrning av projektbolaget A-Banan Projekt AB.
+                </p>
+                <p rend="justeringsdatum">
+                  Stockholm den 17 april 2008
+                </p>
+                <p>
+                  På trafikutskottets vägnar
+                </p>
+                <p rend="ordforanden_">
+                  Ibrahim Baylan
+                </p>
+                <p rend="deltagare_">
+                  Följande ledamöter har deltagit i beslutet: Ibrahim Baylan (s),
+                  Jan-Evert Rådhström (m), Ulla Löfgren (m), Christina Axelsson
+                  (s), Sten Nordin (m), Sven Bergström (c), Hans Stenberg (s), Nina
+                  Larsson (fp), Claes-Göran Brandin (s), Marie Nordén (s), Annelie
+                  Enochson (kd), Eliza Roszkowska Öberg (m), Peter Pedersen (v),
+                  Pia Nilsson (s), Ingemar Vänerlöv (kd), Karin Svensson Smith (mp)
+                  och Sten Bergheden (m).
+                </p>
+              </div>
+            </div>
+          </div>
+          <div type="html-yttrandebilaga">
+            <p xml:id="IDADMNUL" rend="Bilaga">
+              Bilaga 6
+            </p>
+            <div rend="betankande_">
+              <table>
+                <row>
+                  <cell>
+                    <p rend="HuvudRubrik_">
+                      Arbetsmarknadsutskottets betänkande
+                    </p>
+                    <p rend="HuvudRubrikRad2_">
+                      2007/08:AU2
+                    </p>
+                  </cell>
+                  <cell/>
+                </row>
+                <row>
+                  <cell>
+                    <p rend="DokumentRubrik_">
+                      Redogörelse för behandlingen av riksdagens skrivelser till regeringen
+                    </p>
+                  </cell>
+                </row>
+                <row>
+                  <cell cols="2"/>
+                </row>
+                <row>
+                  <cell cols="2"/>
+                </row>
+              </table>
+              <div type="html-tillxutskottet">
+                <p xml:id="IDABNNUL" rend="AvsnittsRubrik">
+                  Till konstitutionsutskottet
+                </p>
+                <p>
+                  Konstitutionsutskottet har den 27 mars 2008 beslutat anmoda övriga
+                  utskott att yttra sig över regeringens skrivelse 2007/08:75 Redogörelse
+                  för behandlingen av riksdagens skrivelser till regeringen och
+                  eventuella motioner.
+                </p>
+                <p>
+                  Inga motioner har väckts med anledning av skrivelsen.
+                </p>
+                <p>
+                  Konstitutionsutskottets anmodan föranleder följande yttrande
+                  från arbetsmarknadsutskottet.
+                </p>
+                <p xml:id="IDANNNUL" rend="r2">
+                  Skrivelsen
+                </p>
+                <p>
+                  Totalt redovisas 16 riksdagsskrivelser under Arbetsmarknadsutskottet
+                  i det register som ingår i skrivelsen. Av dessa rapporteras 8
+                  skrivelser som slutbehandlade och 8 som inte slutbehandlade.
+                </p>
+              </div>
+              <div type="html-continuation">
+                <p xml:id="IDAUNNUL" rend="AvsnittsRubrik">
+                  Utskottets överväganden
+                </p>
+                <p xml:id="IDAXNNUL" rend="r2">
+                  Inledande kommentar
+                </p>
+                <p>
+                  I sitt yttrande till konstitutionsutskottet våren 2006 (2005/06:AU3y)
+                  framförde arbetsmarknadsutskottet följande:
+                </p>
+                <p rend="citat">
+                  Utskottet vill ( ) poängtera den stora principiella betydelsen
+                  av att regeringen följer riksdagens beslut och tillgodoser de
+                  önskemål som omfattas av tillkännagivandena. Därför bör det enligt
+                  arbetsmarknadsutskottets mening vara en prioriterad uppgift för
+                  regeringen att se till att riksdagsskrivelserna kan avslutas.
+                  I de särskilda fall då regeringen inte anser sig kunna efterkomma
+                  riksdagsbeslutet bör regeringen utan dröjsmål redovisa sin inställning
+                  till riksdagen på det sätt som konstitutionsutskottet tidigare
+                  angett.
+                </p>
+                <p>
+                  Utskottet vidhåller denna uppfattning.
+                </p>
+                <p xml:id="IDADONUL" rend="r2">
+                  Inte slutbehandlade skrivelser
+                </p>
+                <p>
+                  När det gäller de skrivelser som anges som inte slutbehandlade
+                  kan följande nämnas. Den punkt under vilken redovisningen sker
+                  i regeringens skrivelse återfinns inom parentes.
+                </p>
+                <p xml:id="IDAJONUL" rend="r3">
+                  1. Lönebidrag i bestående anställningsförhållanden
+                </p>
+                <p xml:id="IDAMONUL" rend="r4">
+                  Regeringens skrivelse
+                </p>
+                <p>
+                  (A1) Riksdagsskrivelse 1999/2000:83, betänkande 1999/2000:AU1,
+                  avser behandlingen av budgetpropositionen för år 2000, anslag
+                  för utgiftsområdena 13 och 14. Skrivelsen är inte slutbehandlad
+                  i en del. Moment 37 om anslag på utgiftsområde 14 för 2000, delmoment
+                  j, avser ett tillkännagivande om lönebidrag i bestående anställningsförhållanden.
+                  Enligt regeringens skrivelse beslutade regeringen i december 2005
+                  om tilläggsdirektiv till Utredningen om översyn av vissa delar
+                  av arbetsgivarens rehabiliteringsansvar (dir. 2005:127). Utredningen
+                  lämnade betänkandet
+                  <seg rend="grad2">
+                    Fokus på åtgärder En plan för effektiv rehabilitering i arbetslivet
+                  </seg>
+                  (SOU 2006:107) den 6 december 2006. Vissa delar av utredningens
+                  förslag har beretts i Regeringskansliet och promemorian Arbetsgivarens
+                  rehabiliteringsutredning har remissbehandlats. Regeringen avser
+                  att återkomma till riksdagen i frågan under 2008.
+                </p>
+                <p xml:id="IDAWONUL" rend="r4">
+                  Arbetsmarknadsutskottets kommentar
+                </p>
+                <p>
+                  När det gäller frågan om att bevilja lönebidrag i bestående anställningsförhållanden
+                  uttalade utskottet i det berörda betänkandet att man bör överväga
+                  om det finns situationer när detta kan vara befogat. Utskottet
+                  underströk samtidigt att en sådan möjlighet inte får innebära
+                  att arbetsgivarens allmänna ansvar för arbetstagarens rehabilitering
+                  minskar.
+                </p>
+                <p>
+                  Frågan har också omfattats av Lönebidragsutredningen. I utredningens
+                  betänkande
+                  <seg rend="grad2">
+                    ArbetsKraft
+                  </seg>
+                  (SOU 2003:95) övervägdes för- och nackdelarna med att bevilja
+                  lönebidrag för redan anställda. I budgetpropositionen för 2006
+                  redovisade regeringen sin bedömning att det kan finnas negativa
+                  effekter som t.ex. inskränkningar i arbetsgivarens rehabiliteringsansvar,
+                  vilket enligt regeringen innebar att det för närvarande inte bör
+                  göras några förändringar i denna del. Utskottet ansåg i sitt budgetbetänkande
+                  (bet. 2005/06:AU1) att resultatet av den ovan nämnda översynen
+                  borde avvaktas.
+                </p>
+                <p>
+                  Enligt förra årets skrivelse (skr. 2006/07:75) avsåg regeringen
+                  att under våren 2007 lämna en proposition till riksdagen.
+                </p>
+                <p>
+                  Enligt nu inhämtad underhandsuppgift från Arbetsmarknadsdepartementet
+                  planeras att ärendet ska beredas inför budgetpropositionen för
+                  år 2009.
+                </p>
+                <p>
+                  Utskottet konstaterar nu att det är mer än 8 år sedan tillkännagivandet
+                  gjordes. Utskottet har tidigare (2004/05:AU3y) med kraft betonat
+                  vikten av att regeringen skulle återkomma till riksdagen så att
+                  skrivelsen kunde slutbehandlas utan ytterligare dröjsmål. Utskottet
+                  utgår nu från att regeringen återkommer till riksdagen så snart
+                  som möjligt.
+                </p>
+                <p xml:id="IDAMPNUL" rend="r3">
+                  2. Företagares rätt till a-kassa
+                </p>
+                <p xml:id="IDAPPNUL" rend="r4">
+                  Regeringens skrivelse
+                </p>
+                <p>
+                  (N17) Riksdagsskrivelse 2003/04:185, betänkande 2003/04:AU6,
+                  avser ett tillkännagivande om företagares rätt till a-kassa. Enligt
+                  skrivelsen tillkallade regeringen den 30 mars 2006 en särskild
+                  utredare med uppdrag att se över företagarnas försäkringsvillkor
+                  i trygghetssystemen (dir. 2006:37). Den 14 december 2006 beslutade
+                  regeringen om tilläggsdirektiv till utredningen (dir. 2006:129).
+                  Den 22 november 2007 beslutade regeringen om ytterligare tilläggsdirektiv
+                  till utredningen (dir. 2007:156). Utredaren ska enligt skrivelsen
+                  redovisa hela sitt uppdrag senast den 29 augusti 2008.
+                </p>
+                <p xml:id="IDAVPNUL" rend="r4">
+                  Arbetsmarknadsutskottets kommentar
+                </p>
+                <p>
+                  Det nu berörda tillkännagivandet i april 2004 avsåg en begäran
+                  om en parlamentarisk utredning för att skyndsamt se över företagares
+                  ekonomiska situation vid arbetslöshet. Regeringen tillsatte, som
+                  framgått, en särskild utredare eftersom utredningen fick ett betydligt
+                  bredare uppdrag än enbart frågan om arbetslöshetsförsäkringen.
+                  Det senaste tilläggsdirektivet innebär att den särskilda utredaren,
+                  utöver sitt tidigare uppdrag, bl.a. ska lämna förslag om hur sjukförsäkringen
+                  för företagare bättre kan anpassas till företagarnas behov och
+                  möjlighet att vara täckta av försäkringen. Utskottet vill betona
+                  vikten av att frågan om företagarnas försäkringsvillkor vid arbetslöshet
+                  blir övervägd och utgår från att regeringen efter det att utredningen
+                  lämnat sitt slutbetänkande återkommer till riksdagen så snart
+                  som möjligt.
+                </p>
+                <p xml:id="IDA1PNUL" rend="r3">
+                  3. A-kassa vid förtroendeuppdrag
+                </p>
+                <p xml:id="IDA4PNUL" rend="r4">
+                  Regeringens skrivelse
+                </p>
+                <p>
+                  (A2) Riksdagsskrivelse 2004/05:181, betänkande 2004/05:AU4, avser
+                  ett tillkännagivande om a-kassa vid förtroendeuppdrag. Enligt
+                  skrivelsen bereds ärendet med avsikt att återkomma till riksdagen
+                  under 2008.
+                </p>
+                <p xml:id="IDAHQNUL" rend="r4">
+                  Arbetsmarknadsutskottets kommentar
+                </p>
+                <p>
+                  I betänkandet menade utskottet att möjligheten att ha politiska
+                  uppdrag är en viktig del i demokratin. Utskottet ansåg att det
+                  fanns skäl att närmare överväga frågan om ersättningsrätt m.m.
+                  för personer med förtroendeuppdrag och att regeringen borde återkomma
+                  till riksdagen om detta. Vid behandlingen av regeringens skrivelse
+                  våren 2006 (yttr. 2005/06:AU3y) utgick utskottet från att regeringen
+                  skulle återkomma i enlighet med tillkännagivandet så snart som
+                  möjligt. Utskottet hade därmed ingen invändning mot att skrivelsen
+                  kvarstod som inte slutbehandlad.
+                </p>
+                <p>
+                  Det har nu gått tre år sedan tillkännagivandet gjordes. Utskottet
+                  anser att det är angeläget att regeringen återkommer till riksdagen
+                  så snart som möjligt.
+                </p>
+                <p xml:id="IDAQQNUL" rend="r3">
+                  4. Kringgående av lagen om anställningsskydd
+                </p>
+                <p xml:id="IDATQNUL" rend="r4">
+                  Regeringens skrivelse
+                </p>
+                <p>
+                  (A3) Riksdagsskrivelse 2004/05:225, betänkande 2004/05:AU8, avser
+                  ett tillkännagivande om kringgående av lagen om anställningsskydd.
+                  Enligt skrivelsen bereds ärendet med avsikt att återkomma till
+                  riksdagen under 2008.
+                </p>
+                <p xml:id="IDAZQNUL" rend="r4">
+                  Arbetsmarknadsutskottets kommentar
+                </p>
+                <p>
+                  När det gäller frågan om kringgående av lagen om anställningsskydd
+                  anförde utskottet att man genom att bryta upp verksamheter i olika
+                  bolag, bilda dotterbolag och genomföra omorganisationer kan kringgå
+                  turordningsreglerna. Utskottet ansåg att det är helt oacceptabelt
+                  om företag på detta sätt handlar i strid med intentionerna bakom
+                  lagstiftningen. Utskottet förutsatte att regeringen uppmärksammar
+                  detta problem och återkommer till riksdagen med förslag till åtgärder
+                  om det skulle visa sig behövligt.
+                </p>
+                <p>
+                  Även när det gäller denna riksdagsskrivelse utgår utskottet från
+                  att regeringen återkommer till riksdagen så snart som möjligt.
+                </p>
+                <p xml:id="IDACRNUL" rend="r3">
+                  5. Lönebidrag efter 65 år
+                </p>
+                <p xml:id="IDAFRNUL" rend="r4">
+                  Regeringens skrivelse
+                </p>
+                <p>
+                  (A4) Riksdagsskrivelse 2005/06:109, betänkande 2005/06:AU1, avser
+                  behandlingen av budgetpropositionen för 2006. Skrivelsen är inte
+                  slutbehandlad i en del. Moment 16 avser ett tillkännagivande om
+                  lönebidrag efter 65 år. Enligt skrivelsen har åtgärder för personer
+                  med funktionshinder som medför nedsatt arbetsförmåga inom arbetsmarknadspolitiken
+                  varit föremål för översyn. Regeringen avser att återkomma till
+                  riksdagen under 2008.
+                </p>
+                <p xml:id="IDALRNUL" rend="r4">
+                  Arbetsmarknadsutskottets kommentar
+                </p>
+                <p>
+                  Tillkännagivandet om lönebidrag efter 65 år innebär att utskottet
+                  i betänkandet vidhöll den uppfattning som framfördes i betänkande
+                  2000/01:AU10 att en lönebidragsanställning bör kunna fortsätta
+                  även efter fyllda 65 år om detta är befogat. Utskottet konstaterade
+                  att lagen om anställningsskydd (LAS) numera ger arbetstagaren
+                  rätt att stanna kvar i arbetslivet till 67 år. Då lönebidragsanställda
+                  omfattas av LAS ansåg utskottet att de tankar som låg bakom lagändringen
+                  borde få ett tydligt genomslag vid bedömningen av om fortsatt
+                  lönebidrag ska lämnas.
+                </p>
+                <p>
+                  Enligt underhandsuppgift från Arbetsmarknadsdepartementet planeras
+                  att ärendet ska beredas inför budgetpropositionen för år 2009.
+                  Mot denna bakgrund har utskottet inget att invända mot att skrivelsen
+                  kvarstår som inte slutbehandlad.
+                </p>
+                <p xml:id="IDAURNUL" rend="r3">
+                  6. ILO-konvention nr 94
+                </p>
+                <p xml:id="IDAXRNUL" rend="r4">
+                  Regeringens skrivelse
+                </p>
+                <p>
+                  (A5 och Fi16) Riksdagsskrivelser 2005/06:174 och 175, betänkande
+                  2005/06:AU3, avser ett tillkännagivande om ratificering av ILO-konventionen
+                  nr 94.
+                </p>
+                <p>
+                  Av regeringens skrivelse framgår att Upphandlingsutredningen
+                  2004 har haft i uppdrag att utreda om ILO:s konvention nr 94 är
+                  förenlig med de nya EG-upphandlingsdirektiven (2004/17/EG och
+                  2004/18/EG). Utredningen, som sett det som motiverat att belysa
+                  även andra frågor som aktualiseras i sammanhanget, anförde i slutbetänkandet
+                  <seg rend="grad2">
+                    Nya upphandlingsregler 2
+                  </seg>
+                  (SOU 2006:28) att det i dagsläget får anses osäkert om en tillämpning
+                  av de krav konventionen ställer är förenliga med upphandlingsdirektiven
+                  och andra gemenskapsrättsliga regler. Enligt utredningen är det
+                  en annan sak om en ratifikation ändå kan vara lämplig. EG-domstolen
+                  har i dom den 18 december 2007 i mål C-341/05 (Laval un Partneri
+                  Ltd mot Svenska Byggnadsarbetareförbundet, Svenska Byggnadsarbetareförbundets
+                  avdelning 1, Byggettan och Svenska Elektrikerförbundet) funnit
+                  att krav på anslutning till svenskt kollektivavtal med det innehåll
+                  som Byggnadsarbetareförbundets avtal hade i domen inte får ställas
+                  i ett upphandlingsförfarande. Mot den bakgrunden fortsätter beredningen
+                  inom Regeringskansliet.
+                </p>
+                <p xml:id="IDAESNUL" rend="r4">
+                  Arbetsmarknadsutskottets kommentar
+                </p>
+                <p>
+                  ILO:s konvention nr 94 om arbetsklausuler i kontrakt där en offentlig
+                  myndighet är part innebär i korthet att samhället ska ställa sociala
+                  krav på sina leverantörer av varor och tjänster. Konventionen
+                  har inte ratificerats av Sverige. I betänkandet betonade utskottet
+                  för sin del vikten av att ILO-konventionen nr 94 kan ratificeras.
+                  Av artikel 3 i konventionen framgår att lämpliga åtgärder ska
+                  vidtas för att tillförsäkra arbetstagarna rimliga och rättvisa
+                  skydds- och välfärdsförhållanden i sådana fall där föreskrifter
+                  om arbetarskydd och välfärdsåtgärder inte redan följer av lag,
+                  kollektivavtal eller skiljedom. Konventionen ger också möjlighet
+                  att ställa kontraktsvillkor som går ut på att gängse lönenivå
+                  enligt kollektivavtalet ska tillämpas. Utskottet såg detta som
+                  en mycket angelägen fråga.
+                </p>
+                <p>
+                  Frågan har också tagits upp i finansutskottets betänkande 2007/08:FiU7
+                  där utskottet hänvisar till den beredning som pågår i Regeringskansliet.
+                </p>
+                <p>
+                  Enligt underhandsuppgift från Finansdepartementet behöver domen
+                  i det s.k. Lavalmålet analyseras för att se vad den innebär bl.a.
+                  för en eventuell ratifikation. Regeringen tillsatte den 10 april
+                  2008 en särskild utredare för utredning av konsekvenser och åtgärder
+                  med anledning av EG-domstolens dom (dir. 2008:38).
+                </p>
+                <p>
+                  Utskottet noterar att även den nyligen meddelade domen i målet
+                  Dirk Rüffert mot Land Niedersachsen (C-346/06) kan komma att uppmärksammas
+                  i sammanhanget.
+                </p>
+                <p>
+                  Utskottet har ingen invändning mot att skrivelsen kvarstår som
+                  inte slutbehandlad.
+                </p>
+                <p xml:id="IDAWSNUL" rend="r3">
+                  7. Statliga insatser för nyanlända invandrare
+                </p>
+                <p xml:id="IDAZSNUL" rend="r4">
+                  Regeringens skrivelse
+                </p>
+                <p>
+                  (IJ7) Riksdagsskrivelse 2006/07:100, betänkande 2006/07:AU6,
+                  avser ett tillkännagivande om statliga insatser för nyanlända
+                  invandrare. Tillkännagivandet i moment 1, uppdelat i tre delmoment,
+                  anges som icke slutbehandlat i skrivelsen.
+                </p>
+                <p>
+                  I skrivelsen anges följande för de olika delmomenten:
+                </p>
+                <p>
+                  a) Den 8 mars 2007 beslutade regeringen om uppdrag till Migrationsverket
+                  och länsstyrelserna att vidta de åtgärder som krävs för att myndigheterna
+                  från och med den 1 juli 2007 ska ha en fungerande organisation
+                  för att kunna utföra nya uppgifter till följd av Integrationsverkets
+                  avveckling den 30 juni 2007. Den 7 juni 2007 beslutade regeringen
+                  om ändring i instruktionen för Migrationsverket, och om ändringar
+                  i förordningen om den arbetsmarknadspolitiska verksamheten respektive
+                  förordningen med länsstyrelseinstruktion. I november 2007 beslutade
+                  regeringen om ändring i instruktionerna för Statens skolverk och
+                  Arbetsförmedlingen. Den 6 december 2007 beslutade regeringen om
+                  förordning med instruktion för Försäkringskassan. I förordningarna
+                  har, enligt skrivelsen, ansvar och uppdrag avseende insatser för
+                  nyanlända invandrare inom respektive verksamhetsområde tydliggjorts
+                  för myndigheterna.
+                </p>
+                <p>
+                  b) Den 3 april 2007 beslutade regeringen att tillkalla en särskild
+                  utredare med uppgift att se över och lämna förslag om ansvar,
+                  utformning och finansiering av flyktingmottagande samt andra insatser
+                  som sammantaget påskyndar och ökar möjligheterna till etablering
+                  på arbetsmarknaden för nyanlända flyktingar och skyddsbehövande
+                  i övrigt samt deras anhöriga (dir. 2007:52).
+                </p>
+                <p>
+                  c) Regeringen har i budgetpropositionen för 2008 (prop. 2007/08:1)
+                  redovisat vissa förändringar i det statliga åtagandet som rör
+                  introduktionen för nyanlända. Regeringen avser att återkomma med
+                  en beskrivning av på vilket sätt det statliga åtagandet rörande
+                  introduktionen för nyanlända i övrigt har förändrats i anslutning
+                  till budgetpropositionen för 2009.
+                </p>
+                <p xml:id="IDALTNUL" rend="r4">
+                  Arbetsmarknadsutskottets kommentar
+                </p>
+                <p>
+                  Tillkännagivandet innebar bifall till framställning 2006/07:RRS13
+                  från Riksrevisionens styrelse om statliga insatser för nyanlända
+                  invandrare.
+                </p>
+                <p>
+                  Enligt underhandsuppgift från Integrations- och jämställdhetsdepartementet
+                  är momenten a) och b) slutbehandlade och c) inte slutbehandlat.
+                </p>
+                <p>
+                  Utskottet har mot bakgrund av redovisningen i regeringens skrivelse
+                  ingen invändning mot att riksdagsskrivelsen i den berörda delen
+                  kvarstår som inte slutbehandlad.
+                </p>
+                <p xml:id="IDAXTNUL" rend="r2">
+                  Slutbehandlade skrivelser
+                </p>
+                <p>
+                  Utskottet vill till sist göra följande kommentar. En av de riksdagsskrivelser
+                  som redovisas som slutbehandlad, 2007/08:72, bet. 2007/08:AU1,
+                  momenten 3 delmoment a, 21, 22 och 25, avser godkännanden av förslag
+                  i budgetpropositionen om hemutrustningslån, mål för integrationspolitiken,
+                  statsbidrag för organisationer bildade på etnisk grund respektive
+                  mål för Urban utvecklingspolitik och upphävande av det nuvarande
+                  målet för politikområdet. Enligt underhandsuppgift från Integrations-
+                  och jämställdhetsdepartementet, som ansvarar för behandlingen
+                  av momenten, har man gjort bedömningen att dessa moment inte behöver
+                  återrapporteras till riksdagen.
+                </p>
+                <p>
+                  Utskottet anser att jämförelse kan göras med de nya mål för jämställdhetspolitiken
+                  som föreslogs i proposition 2005/06:155 och godkändes av riksdagen,
+                  bet. 2005/06:AU11, rskr. 2005/06:257. I den efterföljande skrivelsen
+                  (skr. 2006/07:75) redovisade regeringen att riksdagsskrivelsen
+                  lagts till handlingarna.
+                </p>
+                <p rend="justeringsdatum">
+                  Stockholm den 17 april 2008
+                </p>
+                <p>
+                  På arbetsmarknadsutskottets vägnar
+                </p>
+                <p rend="ordforanden_">
+                  Hillevi Engström
+                </p>
+                <p rend="deltagare_">
+                  Följande ledamöter har deltagit i beslutet: Hillevi Engström
+                  (m), Sven-Erik Österberg (s), Tomas Tobé (m), Sylvia Lindgren
+                  (s), Elisabeth Svantesson (m), Lars Lilja (s), Maria Stenberg
+                  (s), Jan Ericson (m), Désirée Pethrus Engström (kd), Anna König
+                  Jerlmyr (m), Josefin Brink (v), Ann-Christin Ahlberg (s), Hans
+                  Backman (fp), Ulf Holm (mp), Patrik Björck (s), Lennart Levi (c)
+                  och Solveig Hellquist (fp).
+                </p>
+              </div>
+              <div type="html-avvikandemeningar">
+                <p xml:id="IDA4VNUL" rend="AvsnittsRubrik">
+                  Avvikande mening
+                </p>
+                <div type="html-rubrikavvikandemening">
+                  <table>
+                    <row>
+                      <cell xml:id="IDACWNUL">
+                        <p rend="enavvikandemening">
+                          ILO-konvention nr 94 (s, v, mp)
+                        </p>
+                      </cell>
+                    </row>
+                    <row>
+                      <cell>
+                        <p>
+                          Sven-Erik Österberg (s), Sylvia Lindgren (s), Lars Lilja (s),
+                          Maria Stenberg (s), Josefin Brink (v), Ann-Christin Ahlberg (s),
+                          Ulf Holm (mp) och Patrik Björck (s) anför:
+                        </p>
+                      </cell>
+                    </row>
+                  </table>
+                  <p>
+                    Socialdemokraterna, Vänsterpartiet och Miljöpartiet anser att
+                    Sverige snarast ska ratificera ILO:s konvention 94, som slår fast
+                    att offentliga myndigheters upphandling ska innehålla klausuler
+                    som garanterar löntagare villkor som inte är mindre förmånliga
+                    än de som finns i kollektivavtal för arbete av samma sort i den
+                    bransch och i den sektor som arbetet utförs.
+                  </p>
+                  <p>
+                    Vi menar att en ratificering skulle förbättra möjligheterna att
+                    motverka social dumpning, eftersom företag som konkurrerar med
+                    undermåliga villkor för sin personal då kan utestängas från offentliga
+                    upphandlingar. Mot bakgrund av EG-domstolens beslut i Lavalmålet
+                    bör regeringen verka för att hinder på EU-nivå för en svensk ratificering
+                    av ILO nr 94 undanröjs. Därmed anser vi att riksdagsskrivelserna
+                    2005/06:174 och 175 bör slutbehandlas utan ytterligare dröjsmål.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200203_FIU_0004">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen godkände regeringens förslag i budgetpropositionen om 54,5 miljarder kronor i anslag till bl.a. räntor på statsskulden.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Anslag till statsskuldsräntor (FiU4)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen. Avslag på motionerna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0941</idno>
+              <title>2002-12-20</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">41</biblScope>
+              <note type="display-reference">2002-12-20</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0941</idno>
+              <title>2002-12-20</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">41</biblScope>
+              <note type="display-reference">2002-12-20</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GQ0K89</idno>
+              <title>2002/03:89</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">89</biblScope>
+              <note type="display-reference">2002/03:89</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GQ031</idno>
+              <title>Budgetpropositionen för 2003</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">1</biblScope>
+              <note type="display-reference">proposition 2002/03:1 Budgetpropositionen för 2003</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02Fi263</idno>
+              <title>Statsskuldräntor m.m., utgiftsområde 26</title>
+              <title type="sub">av Lena Ek m.fl. (C)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">Fi263</biblScope>
+              <note type="display-reference">motion 2002/03:Fi263 Statsskuldräntor m.m., utgiftsområde 26</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02Fi267</idno>
+              <title>Statsskuldsräntor m.m, utgiftsområde 26</title>
+              <title type="sub">av Mats Odell m.fl. (KD)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">Fi267</biblScope>
+              <note type="display-reference">motion 2002/03:Fi267 Statsskuldsräntor m.m, utgiftsområde 26</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02Fi287</idno>
+              <title>Vissa skattefrågor</title>
+              <title type="sub">av Lennart Hedquist m.fl. (M)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">Fi287</biblScope>
+              <note type="display-reference">motion 2002/03:Fi287 Vissa skattefrågor</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2003-12-17">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-12-12">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-12-12">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-12-11">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-12-10">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-12-10">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-12-05">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-12-05">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-12-03">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2002-12-20">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-12-20">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-12-20">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-12-20">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-12-20">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-12-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-12-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Finansutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2002/03:FIU4
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Utgiftsområde 26 Statsskuldsräntor m.m.
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I betänkandet tillstyrker utskottet regeringens
+            förslag till fördelning av anslag inom utgiftsområde 26 Statsskuldsräntor
+            m.m. Utskottet tillstyrker också att regeringen bemyndigas att
+            överskrida dels anslaget för Räntor på statsskulden, dels anslaget
+            för Riksgäldskontorets provisionskostnader om det är nödvändigt
+            för att regeringen ska kunna fullgöra statens betalningsåtaganden.
+            I betänkandet finns fyra särskilda yttranden.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut Med hänvisning till de
+            motiveringar som framförs under Utskottets överväganden föreslår
+            utskottet att riksdagen fattar följande beslut: 1. Anslagen inom
+            utgiftsområde 26 under budgetåret 2003 Riksdagen anvisar för budgetåret
+            2003 anslag inom utgiftsområde 26 Statsskuldsräntor m.m. på det
+            sätt som framgår av efterföljande specifikation. Därmed bifaller
+            riksdagen propositionen 2002/03:1 utgiftsområde 26 punkt 3 samt
+            avslår motionerna 2002/03:Fi263 av Lena Ek m.fl. (c) 2002/03:Fi267
+            av Mats Odell m.fl. (kd) 2002/03:Fi287 av Lennart Hedquist m.fl.
+            (m) yrkande 41. 2. Bemyndigande att överskrida vissa anslag Riksdagen
+            bemyndigar regeringen att, om så erfordras för att kunna fullgöra
+            statens betalningsåtaganden under 2003, överskrida ramanslagen
+            Räntor på statsskulden och Riksgäldskontorets provisionskostnader
+            i samband med upplåning och skuldförvaltning. Därmed bifaller
+            riksdagen proposition 2002/03:1 utgiftsområde 26 punkterna 1 och
+            2. Stockholm den 10 december 2002 På finansutskottets vägnar Sven-Erik
+            Österberg Följande ledamöter har deltagit i beslutet: Sven- Erik
+            Österberg (s), Fredrik Reinfeldt (m), Carin Lundberg (s), Karin
+            Pilsäter (fp), Sonia Karlsson (s), Agneta Ringman (s), Gunnar
+            Axén (m), Tommy Waidelich (s), Hans Hoff (s), Tomas Högström (m),
+            Agneta Gille (s), Bo Bernhardsson (s), Gunnar Nordmark (fp), Olle
+            Sandahl (kd), Jörgen Johansson (c) och Rolf Olsson (v). Förslag
+            till beslut om anslag inom utgiftsområde 26 Statsskuldsräntor
+            m.m. Utskottets förslag överensstämmer med regeringens förslag
+            till anslagsfördelning. Företrädarna för (m), (fp), (kd) och (c)
+            har avgivit särskilda yttranden.
+          </p>
+          <p>
+            2002/03 FiU4 Redogörelse för ärendet I budgetpropositionen föreslår
+            regeringen för utgiftsområde 26 Statsskuldsräntor m.m. att riksdagen
+            dels godkänner den föreslagna medelsanvisningen för de tre ramanslag
+            som finns uppförda på utgiftsområdet, dels bemyndigar regeringen
+            att överskrida två av dessa anslag i den utsträckning som är nödvändig
+            för att fullgöra statens betalningsåtaganden. Propositionens förslag
+            återges i bilaga. I tre motioner väckta under allmänna motionstiden
+            framförs yrkanden om att två av anslagen på utgiftsområdet ska
+            föras upp med lägre belopp. Även motionernas förslag återges i
+            bilaga.
+          </p>
+          <p>
+            Utskottets överväganden Anslagen inom utgiftsområde 26 under
+            budgetåret 2003 Utskottets förslag i korthet Utskottet föreslår
+            att riksdagen bifaller regeringens förslag till medelsanvisning
+            på utgiftsområde 26 (punkt 3). Utskottet avslår därmed motionerna
+            Fi263 (c), Fi267 (kd) och Fi287 (m) yrkande 41. Anslag 92:1 Räntor
+            på statsskulden Budgetpropositionen I den prognos som redovisas
+            i budgetpropositionen räknar regeringen med att utgifterna för
+            räntor på statsskulden fram t.o.m. 2004 ska utvecklas enligt följande:
+            Beräknade utgiftsmässiga räntor på statsskulden 2001-2004 Belopp
+            i miljarder kronor Anm. Beloppen är avrundade och stämmer därför
+            inte alltid med summorna. 1 Posten ingår inte längre i redovisningen
+            av de kostnadsmässiga räntorna då den inte påverkar det finansiella
+            sparandet. Den utgiftsmässiga redovisningen återspeglar den väntade
+            belastningen på statsbudgeten. Om utgifterna i stället periodiseras
+            får man en redovisning som återger statsskuldsräntornas kostnadsmässiga
+            utveckling. Vid en kostnadsmässig redovisning periodiseras utgifter
+            och inkomster till den period resursförbrukningen sker. Så t.ex.
+            ger nollkupongobligationer med nuvarande redovisningsprinciper
+            inte någon belastning på statsbudgeten förrän lånet förfaller
+            till inlösen, då å andra sidan samtliga ränteutgifter under lånets
+            hela löptid betalas ut. Så länge nollkuponglånen inte har förfallit
+            till inlösen kommer därför den faktiska räntebelastningen att
+            underskattas. På mot- svarande sätt kan över- och underkurser
+            i samband med emissioner av s.k. benchmarklån - dvs. lån där kupongräntan
+            avviker från marknadsräntan - ge en skev bild av den verkliga
+            räntebelastningen. Vid en kostnadsmässig redovisning däremot anses
+            räntan uppkomma under lånets hela löptid och fördelas därför ut
+            jämnt över denna. Justeras utgifterna för statsskuldsräntor med
+            hänsyn till dels över- och underkurser vid emissioner, dels olika
+            typer av nollkupongräntor erhålls enligt propositionen i stället
+            följande beräknade kostnadsmässiga räntor på statsskulden. Beräknade
+            utgifts- och kostnadsmässiga räntor på statsskulden 2001-2004
+            Belopp i miljarder kronor 1 Innefattar inte någon periodisering
+            av valutavinster/förluster. Motionerna Centerpartiet förordar
+            i motion Fi263 att anslaget Räntor på statsskulden för budgetåret
+            2003 förs upp med ett belopp som är 1 076 miljoner kronor lägre
+            än vad regeringen föreslagit. Motionärernas förslag är en följd
+            av att Centerpartiet i annat sammanhang har föreslagit att statliga
+            företag nästa år ska säljas för ytterligare 30 miljarder kronor
+            utöver vad regeringen räknar med för 2003. Detta förutsätts kunna
+            ge en räntevinst på 1,1 miljarder kronor samma år. Kristdemokraterna
+            föreslår i motion Fi267 att samma anslag ska minskas med 811 miljoner
+            kronor. Även Kristdemokraterna har en omfattande plan för försäljning
+            av statliga företag, vilket i likhet med de andra oppositionspartiernas
+            budgetalternativ för 2003 beräknas inbringa 30 miljarder kronor
+            mer i försäljningsinkomster än vad regeringen räknar med för samma
+            år. I kombination med de övriga sammantagna budgetsaldoförändringarna
+            till följd av Kristdemokraternas budgetpolitik leder detta enligt
+            motionärerna till minskade räntekostnader med 0,8 miljarder kronor
+            samma år. Moderata samlingspartiets och Folkpartiet liberalernas
+            budgetalternativ bygger på att statsskuldsräntorna nästa år ska
+            bli lägre till följd av inkomster från företagsförsäljningar som
+            för respektive parti, liksom för de övriga oppositionspartierna,
+            är 30 miljarder kronor högre än i regeringens budgetalternativ.
+            Dessa båda partier har dock inga formella yrkanden om att anslaget
+            till statsskuldsräntor ska begränsas. Anslag 92:2 Oförutsedda
+            utgifter Budgetpropositionen På statsbudgeten har sedan länge
+            funnits ett särskilt anslag för oförutsedda utgifter. Anslaget
+            får tas i anspråk efter beslut av regeringen i varje särskilt
+            fall för vissa närmare angivna ändamål. Utgifterna ska därvid
+            i princip vara av så brådskande art att ett förslag inte hinner
+            underställas riksdagen, och de ska inte heller kunna täckas av
+            andra medel som står till regeringens förfogande. I propositionen
+            redovisas vilka ändamål anslaget Oförutsedda utgifter bör få användas
+            till under nästa budgetår. Där föreslås också att regeringen i
+            efterhand ska anmäla till riksdagen vilka utgifter som har belastat
+            anslaget. Under 2001 belastades anslaget med 35 000 kr avseende
+            förlikningsersättning med anledning av ärende vid Europadomstolen
+            för mänskliga rättigheter. Vidare har 600 000 kr betalats ut avseende
+            ersättning för hur anställningsförhållanden påverkats då uppgifterna
+            lämnats ut ur Säkerhetspolisens register. Ett skadestånd i enlighet
+            med en dom rörande mervärdesskattelagstiftningen har föranlett
+            en utbetalning på 751 479 kr. Dessutom har 1 356 364 kr betalats
+            ut gällande förlikningsersättning med anledning av ärende rörande
+            oförenlighet mellan de svenska avgasbestämmelserna och EG-rätten.
+            I år har fram t.o.m. juli sammanlagt 200 000 kr betalats ut från
+            anslaget. Utbetalningarna avser ersättning för hur anställningsförhållanden
+            påverkats då uppgifterna lämnats ut ur Säkerhetspolisens register.
+            Regeringen föreslår att anslaget Oförutsedda utgifter förs upp
+            oförändrat med 10 miljoner kronor under 2003. Anslag 92:3 Riksgäldskontorets
+            provisionskostnader Budgetpropositionen Anslaget avser provisionskostnader
+            som har samband med upplåning och förvaltning av statsskulden.
+            Samtliga provisionskostnader i samband med upplåning och skuldförvaltning
+            redovisas utanför utgiftstaket, vilket innebär att de behandlas
+            på samma sätt som räntekostnaderna på statsskulden. Merparten
+            av provisionskostnaderna utgörs av försäljningsprovisioner till
+            de banker som agerar som mellanhänder vid försäljningen av kontorets
+            lån. Dessa mellanhänder, som består av en eller flera banker,
+            köper ett lån av Riksgäldskontoret och säljer det vidare till
+            investerare. De tar därmed på sig en risk som de kompenseras för
+            genom provisionerna. I provisionskostnaderna ingår också utgifter
+            för provisioner i samband med inlösen av lån, förvaltningsprovisioner
+            till externa förvaltare samt kreditavgifter. Belastningen på anslaget
+            under 2002 beräknas till 216,7 miljoner kronor. För 2003 respektive
+            2004 beräknas anslaget uppgå till 140 miljoner kronor. Motionen
+            Moderata samlingspartiet föreslår i motion Fi287 att anslaget
+            för provisionskostnader ska föras upp med 135 miljoner kronor,
+            vilket är 5 miljoner kronor lägre jämfört med vad regeringen har
+            föreslagit (yrkande 41). Motionärerna uppger att de tidigare har
+            ansett att detta anslag kan minskas med 5 miljoner kronor om upplåningens
+            sammansättning ändras. Denna uppfattning vidhåller de i den nu
+            aktuella motionen. Utskottets syn på anslagsfördelningen inom
+            utgiftsområde 26 På förslag från finansutskottet har riksdagen
+            den 4 december 2002 ställt sig bakom regeringens förslag till
+            utgiftsramar för 2003 (bet. 2002/03:FiU1, rskr. 24). Riksdagen
+            har därmed beslutat att utgifterna på utgiftsområde 26 Statsskuldsräntor
+            m.m. inte får överstiga 54 450 miljoner kronor. Finansutskottet
+            har alltså tidigare tillstyrkt regeringens förslag till beräkning
+            av ramnivån. Utskottet har i övrigt inte något att erinra mot
+            regeringens förslag till medelsberäkning på utgiftsområdet, ej
+            heller mot de villkor som enligt regeringen bör förknippas med
+            utnyttjandet av anslaget för oförutsedda utgifter. Utskottet tillstyrker
+            således den av regeringen föreslagna anslagsfördelningen inom
+            utgiftsområdet. Riksgäldskontoret har i en skrivelse till utskottet
+            från november 2002 genomfört en ingående analys av ränteeffekter
+            vid förbättrat budgetsaldo. Analysen utnyttjar kontorets låneplaneringssystem,
+            där ränteprognoser normalt görs, och beaktar dels vilka instrument
+            som kontoret emitterar vid var tid, dels vilka egenskaper som
+            avkastningskurvan har vid prognostidpunkten. Riksgäldskontorets
+            analys visar att en förbättring av budgetsaldot för 2003 med 30
+            miljarder kronor skulle minska statsskuldsräntorna med ca 1,6
+            miljarder kronor först under 2004. Året innan, alltså det år som
+            förbättringen sker, beräknas ränteutgifterna öka i stället med
+            ca 0,8 miljarder kronor till följd av lägre realiserade överkurser
+            vid emission. Riksgäldskontoret har för närvarande en lånepolicy
+            som innebär koncentration på två-, fem- och tioårsobligationer.
+            Under 2003 har samtliga dessa obligationer höga kupongräntor och
+            ger därmed stora överkurser. Under 2004 ersätts de av obligationer
+            som förfaller ett kalenderår senare, vilka har lägre kuponger.
+            Det gör att överkursernas betydelse för utvecklingen av statsskuldsräntor
+            vid ökade försäljningar av statliga företag under de två kommande
+            åren minskar med tiden. En stor del av de nytillkommande besparingarna
+            påverkar dock räntebetalningarna först under 2005 och framåt.
+            Därmed begränsas besparingen under 2004 till ca 1,6 miljarder
+            kronor, varav huvuddelen hänför sig till den bestående effekten
+            från utförsäljningarna under 2003. Det bör understyrkas att även
+            Riksgäldskontorets beräkningar är approximativa. Utfallet för
+            statsskuldsräntor påverkas av ändringar i ränteläget i förhållande
+            till de antaganden som används för att göra beräkningar, liksom
+            av eventuella beslut att introducera nya obligationslån. Trots
+            dessa osäkerhetsfaktorer delar utskottet Riksgäldskontorets uppfattning
+            att dessa beräkningar ger en rimlig indikation på storleksordningar
+            och - framför allt - tecken på ränteeffekterna. Enligt vad utskottet
+            erfarit från Riksgäldskontoret tyder storleksordningen på de av
+            oppositionspartierna föreslagna besparingarna inom anslaget för
+            statsskuldsräntor på att partierna baserar sina ränteberäkningar
+            på en modell för reguljära banklån. Kalkylmetoden för banklån
+            måste emellertid anses missvisande vid beräkningar av effekter
+            på statsskuldsräntorna eftersom den inte beaktar statsskuldens
+            strukturella egenskaper, med ränteutbetalningar som sker med betydande
+            eftersläpning samt över- och underkurser som uppstår vid en aktiv
+            statsskuldsförvaltning. Riksgäldskontorets analys påvisar enligt
+            utskottets mening att betydelsen av överkurser i den nuvarande
+            upplåningsstrukturen är så stor att oppositionspartiernas förslag
+            att under 2003 sälja statliga företag för 30 miljarder kronor
+            utöver de i budgetpropositionen upptagna försäljningsinkomsterna
+            inte kan resultera i någon omedelbar ränteminskning. Moderata
+            samlingspartiet föreslår vidare att anslaget för Riksgäldskontorets
+            provisionskostnader minskas med 5 miljoner kronor om upplåningens
+            sammansättning ändras. Den moderata motionen innehåller dock inte
+            någon information om vilka förändringar i upplåningens sammansättning
+            som bör genomföras, utan hänvisar i stället till partiets tidigare
+            ställningstaganden i fråga. Detta tyder på att den förespråkade
+            effektiviseringen av Riksgälskontorets upplåningsverksamhet förväntas
+            ske genom avveckling av Riksgäldsspar. Riksgäldskontoret har enligt
+            tidigare beslut av riksdag och regering i uppdrag att tillhandahålla
+            instrument för upplåning direkt från hushållssektorn. Kravet är
+            att lånekostnaderna är lägre än för motsvarande upplåning i statspappersmarknaden.
+            Målet för hushållsupplåningen är således direkt härlett från det
+            överordnade målet om kostnadsminimering. Riksgäldsspar är i detta
+            sammanhang ett viktigt instrument. Upplåningen via Riksgäldsspar
+            har också ökat kraftigt på senare år. Produkten uppfyller därigenom
+            det kravet att ge lägre lånekostnader och bidrar på så sätt till
+            att uppnå det lagstadgade målet för stats- skuldsförvaltningen.
+            Mot den bakgrunden anser utskottet att det inte finns anledning
+            att tillstyrka förslag att avveckla Riksgäldsspar. Därtill vill
+            utskottet uppmärksamma att anslaget för provisioner inte belastas
+            med några kostnader för Riksgäldsspar. Enligt information från
+            Riksgäldskontoret beror detta på att kontoret sköter distributionen
+            av denna tjänst i egen regi. De direkta kostnaderna täcks av Riksgäldskontorets
+            förvaltningsanslag, medan räntebetalningar kopplade till Riksgäldsspar
+            belastar det vanliga ränteanslaget. Följaktligen ger avveckling
+            av Riksgäldsspar inte i sig utrymme att minska anslaget till provisionskostnader.
+            Med hänsyn till det ovan anförda kan utskottet inte ställa sig
+            bakom motionärernas förslag till anslagsfördelning inom utgiftsområde
+            26. Den i detta sammanhang föreslagna anpassningen av nivån på
+            statsskuldsräntorna och Riksgäldskontorets provisionskostnader
+            ingår dessutom som delar i Moderata samlingspartiets, Kristdemokraternas
+            och Centerpartiets budgetalternativ. Dessa partiers budgetförslag
+            avvisades redan när riksdagen tidigare fastställde vilka utgiftsramar
+            som skall gälla för 2003. Utskottet tillstyrker alltså propositionens
+            förslag (punkt 3) samt avstyrker motionerna Fi263 (c), Fi267 (kd)
+            och Fi287 (m) yrkande 41. Bemyndigande att överskrida vissa anslag
+            Utskottets förslag i korthet Utskottet föreslår att riksdagen
+            bifaller regeringens förslag om bemyndiganden att överskrida ramanslagen
+            för statsskuldsräntor respektive Riksgäldskontorets provisionskostnader
+            om så erfordras för att kunna fullgöra statens betalningsåtaganden
+            under 2003 (punkterna 1 och 2). Gällande bestämmelser Regeringen
+            får enligt ett nyligen lämnat bemyndigande (bet. 2002/03:FiU1,
+            avsnitt 4.5) överskrida de ramanslag riksdagen har anvisat för
+            2003, förutsatt att vissa villkor är uppfyllda. Bland annat ska
+            riksdagsbeslut om anslag på tilläggsbudget inte hinna inväntas
+            och överskridandet ska rymmas inom det fastställda utgiftstaket
+            för staten. Detta bemyndigande omfattar inte anslaget för räntor
+            på statsskulden, ej heller anslaget för Riksgäldskontorets provisionskostnader,
+            vilka båda ligger utanför utgiftstaket. Enligt den ordning som
+            gäller fr.o.m. 1997 har i stället ett särskilt bemyndigande knutits
+            till anslaget för statsskuldsräntor. För att säkerställa att regeringen
+            alltid kan fullgöra sina åtaganden gentemot långivarna är därvid
+            rätten att överskrida detta anslag beloppsmässigt obegränsad.
+            Budgetpropositionen I budgetpropositionen föreslås att regeringen
+            på motsvarande sätt ska bemyndigas att överskrida anslaget Räntor
+            på statsskulden även under 2003 (punkt 1). Ett motsvarande bemyndigande
+            föreslås också bli lämnat för anslaget Riksgäldskontorets provisionskostnader
+            (punkt 2). Utskottets ställningstagande Finansutskottet biträder
+            regeringens förslag (punkterna 1 och 2). Särskilda yttranden Utskottets
+            beredning av ärendet har föranlett följande särskilda yttranden.
+            I rubriken anges vilken punkt i utskottets förslag till riksdagsbeslut
+            som behandlas i avsnittet. 1. Anslagen inom utgiftsområde 26 under
+            budgetåret 2003 - punkt 1 (m) av Fredrik Reinfeldt, Gunnar Axén
+            och Tomas Högström (alla m). Riksdagen har den 4 december 2002
+            i första steget av budgetprocessen ställt sig bakom regeringens,
+            Vänsterpartiets och Miljöpartiet de grönas budgetförslag för 2003.
+            Det innebär att riksdagen för detta år nu har låst såväl utgiftstak
+            som ramar för de 27 utgiftsområdena samt fattat beslut om de skatte-
+            och avgiftsförändringar som ska träda i kraft nästa år. För budgetåret
+            2003 gäller därmed att de samlade utgifterna för utgiftsområde
+            26 inte får överstiga 54 450 miljoner kronor under riksdagens
+            fortsatta behandling. Moderata samlingspartiets förslag på utgiftsområdet
+            understiger denna nivå och kan således formellt tas upp till behandling.
+            Eftersom riksdagsmajoriteten i första steget av budgetprocessen
+            givit budgetpolitiken en helt annan inriktning än den vi önskat,
+            avstår vi från att redovisa något formellt motförslag till anslagsfördelning
+            inom utgiftsområde 26. Vårt budgetalternativ - med våra förslag
+            till utgiftstak, anslagsfördelning och skatteförändringar - bör
+            nämligen ses som ett sammanhållet paket där någon eller några
+            delar inte kan brytas ut och behandlas isolerat från de andra.
+            Vi vidhåller emellertid vår uppfattning och anser att anslagen
+            inom utgiftsområde 26 borde ha begränsats med 750 miljoner kronor
+            på det sätt som framgår av Moderata samlingspartiets motion Fi231.
+            I vårt budgetalternativ föreslår vi nämligen att statliga företag
+            under 2003 ska säljas ut för netto 30 miljarder kronor mer än
+            vad regeringen räknar med, vilket vi förutsätter ska ge en räntevinst
+            på 0,8 miljarder kronor samma år. Den av oss, och av de övriga
+            oppositionspartierna, föreslagna saldoförbättringen beräknas alltså
+            leda till minskade räntekostnader för den svenska statsskulden
+            redan nästa år. Det förslag som vi lägger fram för riksdagen blir,
+            om riksdagen ställer sig bakom vårt förslag, känt över ett halvår
+            innan försäljningen av statliga företag planeras äga rum. Därmed
+            behöver inte någon överupplåning uppstå. Den aktuella låneplanen
+            bör kunna ta detta i beaktande vid all upplåning och refinansiering
+            som äger rum fram till dess att utförsäljningen genomförs. Detta
+            anser vi är möjligt eftersom så mycket som en knapp tredjedel
+            av hela statsskulden omsätts per år. Riksgäldskontoret bör dessutom
+            även ha möjlighet till kortsiktig flexibilitet i sammansättningen
+            av sin totala portfölj. Risken att behöva realisera kostnader
+            för överupplåning torde således vara obefintlig i den modell vi
+            angett för utförsäljning av statliga aktier. Samtidigt håller
+            vi fast vid vårt förslag om att avveckla Riksgäldsspar. Ny information
+            från Riksgäldskontoret visar emellertid att förslagets effekter,
+            som framgår av Moderata samlingspartiets motion Fi287, påverkar
+            kontorets förvaltningsanslag. Därför tar vi upp den beräknade
+            besparingen under utgiftsområde 2 Samhällsekonomi och finansförvaltning.
+            Vårt ställningstagande i denna fråga presenteras därmed i Moderata
+            samlingspartiets reservation till punkt 5 i finansutskottets betänkande
+            2002/03:FiU2. 2. Anslagen inom utgiftsområde 26 under budgetåret
+            2003 - punkt 1 (fp) av Karin Pilsäter och Gunnar Nordmark (båda
+            fp). Riksdagen har den 4 december 2002 i första steget av budgetprocessen
+            ställt sig bakom regeringens, Vänsterpartiets och Miljöpartiet
+            de grönas budgetförslag för 2003. Det innebär att riksdagen för
+            detta år nu har låst såväl utgiftstak som ramar för de 27 utgiftsområdena
+            samt fattat beslut om de skatte- och avgiftsförändringar som ska
+            träda i kraft nästa år. För budgetåret 2003 gäller därmed att
+            de samlade utgifterna för utgiftsområde 26 inte får överstiga
+            54 450 miljoner kronor under riksdagens fortsatta behandling.
+            Folkpartiets förslag på utgiftsområdet understiger denna nivå
+            och kan således formellt tas upp till behandling. Eftersom riksdagsmajoriteten
+            i första steget av budgetprocessen givit budgetpolitiken en helt
+            annan inriktning än den vi önskat, avstår vi från att redovisa
+            något formellt motförslag till anslagsfördelning inom utgiftsområde
+            26. Vårt budgetalternativ - med våra förslag till utgiftstak,
+            anslagsfördelning och skatteförändringar - bör nämligen ses som
+            ett sammanhållet paket där någon eller några delar inte kan brytas
+            ut och behandlas isolerat från de andra. Vi vidhåller emellertid
+            vår uppfattning och anser att anslagen inom utgiftsområde 26 borde
+            ha begränsats med 1 200 miljoner kronor på det sätt som framgår
+            av Folkpartiets motion Fi232. I vårt budgetalternativ föreslår
+            vi nämligen att statliga företag under 2003 ska säljas ut för
+            netto 30 miljarder kronor mer än vad regeringen räknar med, vilket
+            vi förutsätter, tillsammans med andra skillnader i budgetsaldot
+            i jämförelse med regeringens förslag, ska ge en räntevinst av
+            angiven omfattning samma år. Den av oss, och av de övriga oppositionspartierna,
+            föreslagna saldoförbättringen beräknas alltså leda till minskade
+            räntekostnader för den svenska statsskulden redan nästa år. Det
+            förslag som vi lägger fram för riksdagen blir, om riksdagen ställer
+            sig bakom vårt förslag, känt över ett halvår innan försäljningen
+            av statliga företag planeras äga rum. Därmed behöver inte någon
+            överupplåning uppstå. Den aktuella låneplanen bör kunna ta detta
+            i beaktande vid all upplåning och refinansiering som äger rum
+            fram till dess att utförsäljningen genomförs. Detta anser vi är
+            möjligt eftersom så mycket som en knapp tredjedel av hela statsskulden
+            omsätts per år. Riksgäldskontoret bör dessutom även ha möjlighet
+            till kortsiktig flexibilitet i sammansättningen av sin totala
+            portfölj. Risken att behöva realisera kostnader för överupplåning
+            torde således vara obefintlig i den modell vi angett för utförsäljning
+            av statliga aktier. 3. Anslagen inom utgiftsområde 26 under budgetåret
+            2003 - punkt 1 (kd) av Olle Sandahl (kd). Riksdagen har den 4
+            december 2002 i första steget av budgetprocessen ställt sig bakom
+            regeringens, Vänsterpartiets och Miljöpartiet de grönas budgetförslag
+            för 2003. Det innebär att riksdagen för detta år har låst såväl
+            utgiftstak som ramar för de 27 utgiftsområdena samt fattat beslut
+            om de skatte- och avgiftsförändringar som ska träda i kraft nästa
+            år. För budgetåret 2003 gäller därmed att de samlade utgifterna
+            för utgiftsområde 26 inte får överstiga 54 450 miljoner kronor
+            under riksdagens fortsatta behandling. Kristdemokraternas förslag
+            på utgiftsområdet understiger denna nivå och kan således formellt
+            tas upp till behandling. Eftersom riksdagsmajoriteten i första
+            steget av budgetprocessen givit budgetpolitiken en helt annan
+            inriktning än den vi önskat, avstår vi från att redovisa något
+            formellt motförslag till anslagsfördelning inom utgiftsområde
+            26. Vårt budgetalternativ - med våra förslag till utgiftstak,
+            anslagsfördelning och skatteförändringar - bör nämligen ses som
+            ett sammanhållet paket där någon eller några delar inte kan brytas
+            ut och behandlas isolerat från de andra. Vi vidhåller emellertid
+            vår uppfattning och anser att anslagen inom utgiftsområde 26 borde
+            ha begränsats med 811 miljoner kronor på det sätt som framgår
+            av den kristdemokratiska motionen Fi267. I vårt budgetalternativ
+            föreslår vi nämligen att statliga företag under 2003 ska säljas
+            ut för netto 30 miljarder kronor mer än vad regeringen räknar
+            med, vilket vi förutsätter ska ge en räntevinst av angiven omfattning
+            samma år. Den av oss, och av de övriga oppositionspartierna, föreslagna
+            saldoförbättringen beräknas alltså leda till minskade räntekostnader
+            för den svenska statsskulden redan nästa år. Det förslag som vi
+            lägger fram för riksdagen blir, om riksdagen ställer sig bakom
+            vårt förslag, känt över ett halvår innan försäljningen av statliga
+            företag planeras äga rum. Därmed behöver inte någon överupplåning
+            uppstå. Den aktuella låneplanen bör kunna ta detta i beaktande
+            vid all upplåning och refinansiering som äger rum fram till dess
+            att utförsäljningen genomförs. Detta anser vi är möjligt eftersom
+            så mycket som en knapp tredjedel av hela statsskulden omsätts
+            per år. Riksgäldskontoret bör dessutom även ha möjlighet till
+            ökad kortsiktig flexibilitet i sammansättningen av sin totala
+            portfölj. Risken att behöva realisera kostnader för överupplåning
+            torde således vara obefintlig i den modell vi angett för utförsäljning
+            av statliga aktier. 4. Anslagen inom utgiftsområde 26 under budgetåret
+            2003 - punkt 1 (c) av Jörgen Johansson (c). Riksdagen har den
+            4 december 2002 i första steget av budgetprocessen ställt sig
+            bakom regeringens, Vänsterpartiets och Miljöpartiet de grönas
+            budgetförslag för 2003. Det innebär att riksdagen för detta år
+            nu har låst såväl utgiftstak som ramar för de 27 utgiftsområdena
+            samt fattat beslut om de skatte- och avgiftsförändringar som ska
+            träda i kraft nästa år. För budgetåret 2003 gäller därmed att
+            de samlade utgifterna för utgiftsområde 26 inte får överstiga
+            54 450 miljoner kronor under riksdagens fortsatta behandling.
+            Centerpartiets förslag på utgiftsområdet understiger denna nivå
+            och kan således formellt tas upp till behandling. Eftersom riksdagsmajoriteten
+            i första steget av budgetprocessen givit budgetpolitiken en helt
+            annan inriktning än den vi önskat, avstår vi från att redovisa
+            något formellt motförslag till anslagsfördelning inom utgiftsområde
+            26. Vårt budgetalternativ - med våra förslag till utgiftstak,
+            anslagsfördelning och skatteförändringar - bör nämligen ses som
+            ett sammanhållet paket där någon eller några delar inte kan brytas
+            ut och behandlas isolerat från de andra. Vi vidhåller emellertid
+            vår uppfattning och anser att anslagen inom utgiftsområde 26 borde
+            ha begränsats med 1 075,9 miljoner kronor på det sätt som framgår
+            av Centerpartiets motion Fi263. I vårt budgetalternativ föreslår
+            vi nämligen att statliga företag under 2003 ska säljas ut för
+            netto 30 miljarder kronor mer än vad regeringen räknar med, vilket
+            vi förutsätter ska ge en räntevinst av angiven omfattning samma
+            år. Den av oss, och av de övriga oppositionspartierna, föreslagna
+            saldoförbättringen beräknas alltså leda till minskade räntekostnader
+            för den svenska statsskulden redan nästa år. Det förslag som vi
+            lägger fram för riksdagen blir, om riksdagen ställer sig bakom
+            vårt förslag, känt över ett halvår innan försäljningen av statliga
+            företag planeras äga rum. Därmed behöver inte någon överupplåning
+            uppstå. Den aktuella låneplanen bör kunna ta detta i beaktande
+            vid all upplåning och refinansiering som äger rum fram till dess
+            att utförsäljningen genomförs. Detta anser vi är möjligt eftersom
+            så mycket som en knapp tredjedel av hela statsskulden omsätts
+            per år. Riksgäldskontoret bör dessutom även ha möjlighet till
+            kortsiktig flexibilitet i sammansättningen av sin totala portfölj.
+            Risken att behöva realisera kostnader för överupplåning torde
+            således vara obefintlig i den modell vi angett för utförsäljning
+            av statliga aktier. Bilaga Förteckning över behandlade förslag
+          </p>
+          <p>
+            Propositionen I proposition 2002/03:1 Budgetpropositionen för
+            2003, utgiftsområde 26 Statsskuldsräntor m.m., föreslår regeringen
+            1. att riksdagen bemyndigar regeringen att 2003 besluta att ramanslaget
+            92:1 Räntor på statsskulden får överskridas om det är nödvändigt
+            för att full-göra statens betalningsåtaganden (avsnitt 3.1), 2.
+            att riksdagen bemyndigar regeringen att 2003 besluta att ramanslaget
+            92:3 Riksgäldskontorets provisionskostnader i samband med upplåning
+            och skuldförvaltning får överskridas om det är nödvändigt för
+            att fullgöra statens betalningsåtaganden (avsnitt 5.1), 3. att
+            riksdagen för budgetåret 2003 anvisar anslagen under utgiftsområde
+            26 Statsskuldsräntor m.m. enligt följande uppställning: ----------------------------------------------------------
+            Anslag AnslagstypAnslagsbelopp (tusental kronor) ----------------------------------------------------------
+            ---------------------------------------------------------- 92:1
+            Räntor på statsskulden (ram) 54 300 000 ----------------------------------------------------------
+            92:2 Oförutsedda utgifter (ram) 10 000 ----------------------------------------------------------
+            92:3 Riksgäldskontorets provisionskostnader i samband med (ram)
+            140 000 upplåning och skuldförvaltning ----------------------------------------------------------
+            ---------------------------------------------------------- Summa
+            54 450 000 ----------------------------------------------------------
+          </p>
+          <p>
+            Motioner från allmänna motionstiden 2002/03:Fi263 av Lena Ek
+            m.fl. (c): Riksdagen anvisar med följande ändringar i förhållande
+            till regeringens förslag anslagen under utgiftsområde 26 Statsskuldsräntor
+            m.m. enligt följande uppställning: ----------------------------------------------------------
+            Anslag Regeringens Anslagsförändring förslag ----------------------------------------------------------
+            ---------------------------------------------------------- 92:1
+            Räntor på statsskulden 54 300 000 -1 075 900 ----------------------------------------------------------
+            92:2 Oförutsedda utgifter 10 000 ----------------------------------------------------------
+            92:3 Riksgäldskontorets provisionskostnader i samband 140 000
+            med upplåning och skuldförvaltning ----------------------------------------------------------
+            ---------------------------------------------------------- Summa
+            54 450 000 -1 075 900 ----------------------------------------------------------
+            2002/03:Fi267 av Mats Odell m.fl. (kd): Riksdagen anvisar till
+            anslaget 92:1 Räntor på statsskulden för budgetåret 2003 811 000
+            000 kr mindre än vad regeringen föreslagit eller således 53 489
+            000 000 kr. 2002/03:Fi287 av Lennart Hedquist m.fl. (m): 41. Riksdagen
+            anvisar för år 2003 i enlighet med vad i motionen anförs till
+            utgiftsområde 26 Statsskuldsräntor m.m. anslag 92:3 Riksgäldens
+            provisionskostnader i samband med upplåning och skuldförvaltning
+            för år 2003 135 000 000 kr.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

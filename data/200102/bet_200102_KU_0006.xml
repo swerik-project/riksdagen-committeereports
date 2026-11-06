@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_KU_0006">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen lade till handlingarna regeringens redogörelse för vilka åtgärder regeringen har vidtagit med anledning av riksdagens olika beslut.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Regeringens åtgärder med anledning av riksdagens beslut (KU6)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0933</idno>
+              <title>2001-11-23</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">33</biblScope>
+              <note type="display-reference">2001-11-23</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0932</idno>
+              <title>2001-11-22</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">32</biblScope>
+              <note type="display-reference">2001-11-22</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K42</idno>
+              <title>2001/02:42</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">42</biblScope>
+              <note type="display-reference">2001/02:42</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="skr">
+              <idno type="riksdagen">GO0375</idno>
+              <title>Redogörelse för behandlingen av riksdagens skrivelser till regeringen</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">75</biblScope>
+              <note type="display-reference">regeringsskrivelse 2000/01:75 Redogörelse för behandlingen av riksdagens skrivelser till regeringen</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2001-11-15">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2001-11-15">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2001-11-15">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2001-11-15">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2001-11-15">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2001-11-13">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="YTT" subtype="beredning" n="2" when="2001-10-26">
+            <label>Yttranden inkomna</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2001-09-25">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2001-09-25">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2001-11-23">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2001-11-23">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2001-11-23">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2001-11-22">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2001-11-22">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2001-11-21">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2001-11-20">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2001-11-20">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Konstitutionsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:KU6
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Redogörelse för behandlingen av riksdagensskrivelser till regeringen
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I betänkandet behandlar utskottet regeringens
+            skrivelse 2000/01:75 Redogörelse för behandlingen av riksdagens
+            skrivelser till regeringen.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut Riksdagen lägger regeringens
+            skrivelse 2000/01:75 till handlingarna. Stockholm den 15 november
+            2001 På konstitutionsutskottets vägnar Per Unckel Följande ledamöter
+            har deltagit i beslutet: Per Unckel (m), Göran Magnusson (s),
+            Barbro Hietala Nordlund (s), Pär Axel Sahlberg (s), Kenneth Kvist
+            (v), Ingvar Svensson (kd), Inger René (m), Lars Hjertén (m), Kerstin
+            Kristiansson Karlstedt (s), Kenth Högström (s), Mats Einarsson
+            (v), Nils Fredrik Aurelius (m), Per Lager (mp), Åsa Torstensson
+            (c), Helena Bargholtz (fp), Britt-Marie Lindkvist (s) och Inger
+            Strömbom (kd).
+          </p>
+          <p>
+            2001/02 KU6 Redogörelse för ärendet Sedan år 1961 lämnar regeringen
+            en redogörelse till riksdagen för vilka åtgärder regeringen har
+            vidtagit med anledning av riksdagens olika beslut. Redogörelsen
+            är knuten till de skrivelser i vilka riksdagen meddelar regeringen
+            sina beslut. Årets redogörelse Inom Regeringskansliet har upprättats
+            en ny redogörelse för behandlingen av riksdagens skrivelser till
+            regeringen, regeringens skrivelse 2000/01:75. Den nu aktuella
+            redogörelsen avser huvudsakligen sådana åtgärder som vidtagits
+            under tiden den 1 januariden 31 december 2000. För att underlätta
+            riksdagsutskottens möjligheter att vid sitt utvärderings- och
+            uppföljningsarbete få en så aktuell bild som möjligt har redovisningen
+            fått omfatta även vissa regeringsbeslut från tiden efter den egentliga
+            redovisningsperiodens utgång. Detta förfarande har använts om
+            riksdagsskrivelserna därigenom har kunnat rapporteras som slutbehandlade.
+            Redovisningen omfattar 393 riksdagsskrivelser ställda till regeringen,
+            varav 120 avgetts under riksmötet 2000/01, 154 under riksmötet
+            1999/2000, 33 under riksmötet 1998/99 och 86 under tidigare riksmöten.
+            Konstitutionsutskottet Konstitutionsutskottet har anmodat övriga
+            utskott att yttra sig över regeringens skrivelse i de delar som
+            har samband med respektive utskotts beredningsområde. Yttranden
+            har inkommit från finansutskottet, skatteutskottet, lagutskottet,
+            utrikesutskottet, trafikutskottet, miljö- och jordbruksutskottet
+            och arbetsmarknadsutskottet, se bilagorna 17. Övriga utskott har
+            inte haft något att erinra mot regeringens redogörelse. Konstitutionsutskottet
+            får inledningsvis för egen del anföra följande. Redogörelsen omfattar
+            34 riksdagsskrivelser om beslut på grundval av betänkanden från
+            konstitutionsutskottet. Enligt regeringens redogörelse var 15
+            av dessa inte slutbehandlade när redogörelsen avlämnades, av dessa
+            är tre äldre än två år och tre härrör från 1998/99. Den äldsta
+            inte slutbehandlade skrivelsen, 1994/95:243, handlar om åtgärder
+            mot våldsskildringar m.m. Konstitutionsutskottet gav, med anledning
+            av ett tiotal motioner om biografcensur m.m., regeringen till
+            känna att de ämnen som togs upp i motionerna borde kunna bli föremål
+            för en samlad analys och bedömning i regeringens brett upplagda
+            arbete mot våldet i samhället. Den 17 december 1998 utfärdade
+            regeringen en lag om ändring i radio- och TV-lagen (1996:844)
+            som riksdagen antagit. Lagändringen innebär bl.a. att TV-program
+            med ingående våldsskildringar eller med pornografiska bilder skall
+            föregås av en varningssignal. Den 22 december 1998 beslutade regeringen
+            tilläggsdirektiv till Rådet mot skadliga våldsskildringar. Rådet
+            har fått i uppdrag att bl.a. informera industrin för audiovisuella
+            tjänster och informationstjänster om innhehållet i EU- rekommendationen
+            (98/560/EG) om skydd av minderåriga och den mänskliga värdigheten.
+            Rådet skall följa branschernas självreglerande arbete med dessa
+            frågor och fungera som stöd och samtalspartner om branscherna
+            så önskar. Den 8 juni 2000 beslutade regeringen om direktiv till
+            en utredare som bl.a. skall överväga olika sätt att förbättra
+            möjligheten att skydda barn mot olämpligt programinnehåll (dir.
+            2000:43). I december 2000 färdigställdes en promemoria inom Regeringskansliet
+            där bl.a. uppdraget att göra en översyn av 4 § lagen (1990:886)
+            om granskning och kontroll av filmer och videogram redovisades
+            (Ds 2001:5). Promemorian har remissbehandlats. Enligt vad konstitutionsutskottet
+            inhämtat från Kulturdepartementet avser regeringen att behandla
+            de censurfrågor som tas upp i promemorian i en proposition som
+            skall avlämnas senast i januari 2002. Riksdagsskrivelse 1997/98:214
+            gäller ett tillkännagivande beträffande Statens biografbyrå. Framställningen
+            i en film eller ett videogram skall vara granskad och godkänd
+            av Statens biografbyrå innan den får visas vid allmän sammankomst
+            eller offentlig tillställning. Biografbyrån skall enligt lagen
+            om granskning och kontroll av filmer och videogram endast bevara
+            sådana delar av en framställning som inte godkänts. Det blir aldrig
+            fråga om att hela framställningar sparas utan endast vissa delar.
+            Konstitutionsutskottet ansåg i betänkande 1997/98:KU19 att det
+            borde införas en inskränkning i rätten att få kopior av de delar
+            av en film eller ett videogram som inte godkänts för visning.
+            Regeringen borde enligt utskottet överväga denna fråga och återkomma
+            med förslag. Frågan behandlas i departementspromemorian Sekretessen
+            för passfoton m.m. (Ds 2000:57). I promemorian läggs inte något
+            förslag till lagändring fram. Enligt vad konstitutionsutskottet
+            inhämtat från Justitiedepartementet avser regeringen att behandla
+            frågan i en proposition som skall avlämnas till riksdagen under
+            hösten 2001. Riksdagsskrivelse 1997/98:280 gäller ett tillkännagivande
+            beträffande lydelsen av 2 kap. 18 § regeringsformen (RF). Enligt
+            utskottet borde regeringen i lämpligt sammanhang och under parlamentarisk
+            medverkan utreda frågan om lydelsen av 2:18 RF och i god tid före
+            valet år 2002 återkomma till riksdagen med förslag i detta avseende.
+            Regeringen beslutade den 2 september 1999 att tillkalla en parlamentarisk
+            kommitté. Kommittén, som antagit namnet 1999 års författningsutredning,
+            behandlar frågan i delbetänkandet Vissa grundlagsfrågor (SOU 2001:19).
+            Kommittén konstaterar att ett flertal lösningar har prövats i
+            syfte att nå bred uppslutning. Med beklagande konstaterar kommittén
+            att den har misslyckats. Mot bakgrund av att ett förslag till
+            ändring bör ha ett brett parlamentariskt stöd och att ett sådant
+            stöd inte har kunnat uppnås, har kommittén beslutat att avstå
+            från att lägga fram något förslag till ändrad lydelse av 2 kap.
+            18 § RF. Betänkandet remissbehandlades under våren 2001. Enligt
+            vad utskottet inhämtat från Justitiedepartementet avser regeringen
+            att i en proposition som skall avlämnas i december 2001 behandla
+            de frågor som tas upp i delbetänkandet. Riksdagskrivelse 1998/99:147
+            gäller dels ett tillkännagivande om revidering av EG-direktivet
+            om skydd för enskilda personer med avseende på behandling av personuppgifter
+            och om det fria flödet av sådana uppgifter (mom. 1), dels ett
+            tillkännagivande om lagstiftning mot missbruk av personuppgifter
+            (mom. 2). Konstitutionsutskottet framhöll i betänkande 1998/99:KU15
+            Personuppgiftslagen att EG-direktivet fick anses omodernt och
+            att en revidering av direktivet måste ske. Enligt utskottet är
+            det av stor vikt att den svenska regeringen inom EU med kraft
+            verkar för att en revidering av direktivet sker. Utskottet uttalade
+            vidare att intensifierade åtgärder bör vidtas för att åstadkomma
+            en lagstiftning som syftar till att ingripa mot missbruk av personuppgifter
+            och inte mot själva hanteringen av sådana uppgifter. Senast hösten
+            2001 skall kommissionen avge en rapport om genomförandet av direktivet,
+            eventuellt försedd med lämpliga ändringsförslag. Enligt regeringen
+            är dess föresats att använda tiden fram till dess för att främja
+            att ett förslag till revidering läggs fram och för att öka förståelsen
+            för de förändringar som enligt svensk uppfattning är önskvärda.
+            Som ett led i detta arbete har det inom Justitiedepartementet
+            bl.a. utarbetats ett förslag till en s.k. missbruksinriktad regleringsmodell.
+            Personuppgiftslagens överföringsregler och straffbestämmelser
+            har ändrats från den 1 januari 2000. Ändringarna innebär att lagstiftningen
+            närmar sig den missbruksinriktade regleringsmodell som riksdagen
+            uttalat sig för. Regeringen avser att noga överväga vilka ytterligare
+            inslag av en mer missbruksinriktad reglering som kan genomföras
+            inom ramen för EG-direktivet. Justitiedepartementet har bl.a.
+            tillsatt en samrådsgrupp med representanter för samtliga riksdagspartier.
+            I samarbete med denna grupp har departementet utarbetat en enkät
+            om EG- direktivet och personuppgiftslagen som alla intresserade
+            inbjudits att svara på. Syftet är att få reda på konkreta praktiska
+            problem som enskilda mött med nuvarande lagstiftning. Dessa erfarenheter
+            skall ligga till grund för en utvärdering av såväl EG-direktivet
+            som personuppgiftslagen. Enligt vad konstitutionsutskottet inhämtat
+            från Justitiedepartementet förväntas kommissionens rapport tidigast
+            under hösten 2001. Riksdagsskrivelse 1998/99:163 gäller två tillkännagivanden
+            från riksdagen till regeringen om kommundelningar (mom. 1) och
+            om folkinitiativ till kommunala folkomröstningar (mom. 5). Konstitutionsutskottet
+            uttalade i betänkande 1998/99:KU21 att en möjlighet att öka den
+            demokratiska vitaliteten och delaktigheten är att dela upp större
+            kommuner i mindre. Utskottet framhöll att det bör bli lättare
+            att dela kommuner genom att procedurerna som har samband med kommundelningar
+            underlättas. Regeringen borde återkomma med förslag till riksdagen
+            med detta syfte. Vidare uttalade utskottet att de hittillsvarande
+            erfarenheterna av bestämmelserna om folkinitiativ i fråga om kommunala
+            folkomröstningar var nedslående. Med få undantag har fullmäktige
+            avvisat de initiativ som kommit fram, något som enligt utskottets
+            mening är ägnat att misskreditera idén om folkinitiativ. Det finns
+            enligt utskottet skäl att vidare utreda en förstärkning av medborgarnas
+            inflytande i initiativärenden. En möjlighet som därvid bör utredas
+            är enligt utskottet att en kommunal folkomröstning skall komma
+            till stånd när en viss procentandel, t.ex. 10 % av de röstberättigade
+            i kommunen, står bakom initiativet. Andra frågor som bör övervägas
+            i sammanhanget är hur och av vem frågeställningen för folkomröstningen
+            skall formuleras vid ett folkinitiativ. Den 25 november 1999 bemyndigade
+            regeringen statsrådet Lejon att tillkalla en kommitté med uppgift
+            att föreslå åtgärder för att stärka den medborgerliga insynen
+            och deltagandet i den kommunala demokratin. Enligt direktiven
+            skall kommittén bl.a. se över hur de procedurer som har samband
+            med kommundelningar kan underlättas samt överväga behovet av folkinitiativet
+            som sådant och dess fortsatta utformning. Kommundemokratikommittén
+            avlämnade i juni 2001 betänkandet Att vara med på riktigt demokratiutveckling
+            i kommuner och landsting (SOU 2001:48). Betänkandet har remissbehandlats.
+            Enligt vad konstitutionsutskottet inhämtat från Justitiedepartementet
+            avser regeringen att behandla de aktuella frågorna i en proposition
+            som planeras avlämnas i december 2001. Riksdagsskrivelse 1998/99:176
+            gäller den kyrkoantikvariska ersättningens storlek under åren
+            20002009. Konstitutionsutskottet gjorde i betänkande 1998/99:KU18
+            bedömningen att det finns goda förutsättningar för att Svenska
+            kyrkans kyrkobyggnader och de kyrkliga kulturminnena i övrigt
+            skall vara i gott skick vid relationsändringen och ett antal år
+            därefter. Mot denna bakgrund ansåg utskottet att regeringens förslag
+            om kyrkoantikvarisk ersättning borde godtas och lämnas fr.o.m.
+            år 2002 t.o.m. år 2009. En övergripande redovisning av hur regeringen
+            kommer att hantera den kyrkoantikvariska ersättningen och angivande
+            av villkor m.m. kommer enligt regeringens redogörelse att ske
+            i budgetproposition och regleringsbrev för 2002. Finansutskottet,
+            bilaga 1, anför i yttrande bl.a. följande. Det går inte att utläsa
+            ur regeringens skrivelse hur många moment från en riksdagsskrivelse
+            som totalt sett har behandlats, eller hur många moment som återstår
+            innan hela riksdagsskrivelsen är slutbehandlad. Våren 1998 behandlade
+            finansutskottet en proposition om statlig fastighetsförvaltning
+            och statliga myndigheters lokalförsörjning (prop. 1997/98:137,
+            bet. 1997/98:FiU25). I regeringens skrivelse 1998/99:75 anmäldes
+            att man vidtagit åtgärder avseende två av de fem momenten i betänkandet
+            och att riksdagsskrivelsen därmed var slutbehandlad. Finansutskottet
+            påpekade i betänkande 2000/01:FiU2 att någon återrapportering
+            av de tre återstående momenten inte hade gjorts. I årets skrivelse
+            anmäler regeringen åtgärder avseende de tre saknade momenten.
+            Risken för denna typ av luckor i regeringens återrapportering
+            skulle troligen minska om regeringen angav i skrivelsen vilka
+            moment som återstår att behandla. I likhet med vad finansutskottet
+            tidigare framhållit är det därför önskvärt att redogörelsen kompletteras
+            på denna punkt. I det följande redovisas ett antal punkter där
+            finansutskottet funnit brister i regeringens redovisning. Utgiftsområde
+            25 Allmänna bidrag till kommuner (punkt Fi91, mom. 5). Regeringen
+            redovisar att riksdagens tillkännagivande om hivpreventivt arbete
+            i storstadsregionerna är under beredning. Utskottet erfar dock
+            att regeringen den 22 februari 2001 beviljade bidrag på 84 miljoner
+            kronor med anledning av riksdagens tillkännagivande. Utgiftsområde
+            26 Statsskuldsräntor m.m. (punkt Fi92, mom. 2). Momentet handlar
+            om rätten för regeringen att överskrida anslaget för statsskuldsräntor
+            2001. Skrivelsen borde inte ha rapporterats som slutbehandlad
+            eftersom regeringen inte kan veta om bemyndigandet utnyttjats
+            eller inte förrän efter årets slut. Någon återrapportering av
+            utnyttjandet av motsvarande bemyndigande för 2000 görs inte i
+            regeringens skrivelse trots att anslaget för statsskuldsräntor
+            det året överskreds med mer än 8 miljarder kronor, vilket framgår
+            av årsredovisningen för staten 2000 i avsnitt 4.4. Rapporteringen
+            av det generella bemyndigandet för regeringen att överskrida ramanslag
+            (punkt 69, mom. 13) skulle kunna tjäna som exempel för statsskuldsräntorna.
+            Utvärdering av statsskuldens upplåning och förvaltning 1994/951999
+            (punkt Fi57). I sin återrapportering hänvisar regeringen tillbaka
+            till sitt beslut om skrivelse 1999/2000:104 om utvärdering av
+            statsskuldens upplåning och förvaltning 1994/951999, dvs. den
+            skrivelse som riksdagen behandlat, och hänvisar på så sätt i cirkel.
+            Lämpligare hade varit att hänvisa till regeringens beslut i november
+            om riktlinjer för statsskuldens förvaltning. I förra årets skrivelse
+            (skr. 1999/2000:75, punkt Fi59) använde sig regeringen av samma
+            cirkelresonemang vilket finansutskottet då påpekade i sitt yttrande.
+            Statsbudget för budgetåren 2000 och 2001 (punkterna Fi34 och Fi95).
+            Fram t.o.m. 1999 har praxis varit att regeringen överlämnat den
+            av riksdagen fastställda statsbudgeten till Ekonomistyrningsverket
+            (tidigare till Riksrevisionsverket) inför det nya budgetåret.
+            Enligt vad utskottet erfarit har regeringen den 21 april 2001
+            beslutat att lägga statsbudgeten för 2000 och statsbudgeten för
+            2001 till handlingarna. Regeringen rapporterar dock i skrivelsen
+            under punkt Fi95 att statsbudgeten för 2001, betänkande 2000/01:FiU10,
+            kommer att överlämnas till Ekonomistyrningsverket (ESV) för kännedom
+            och beaktande. Under punkt Fi34 redovisar regeringen att också
+            statsbudgeten för 2000, betänkande 1999/2000:FiU10, kommer att
+            lämnas över till ESV för kännedom och beaktande. Även i förra
+            årets skrivelse skrev regeringen att statsbudgeten för 2000 skulle
+            överlämnas till ESV (skr. 1999/2000:75, punkt Fi89). Om regeringen
+            avsett att överlämna FiU10 till ESV borde detta lämpligen ha gjorts
+            så snabbt som möjligt, före budgetårets början. Vissa ekonomisk-politiska
+            åtgärder m.m. (punkt Fi2, mom. 44). Momentet handlar om ett tillkännagivande
+            angående den begränsade uppräkningen av basbeloppet (bet. 1994/95:FiU1)
+            i samband med besparingarna hösten 1994. Regeringen redovisar
+            ärendet som slutbehandlat och hänvisar till budgetpropositionen
+            för 2001, utgiftsområde 11, anslag 20:1. Ärendet behandlas dock
+            inte där utan i stället i avsnitt 3.6.1 under samma utgiftsområde.
+            Skatteutskottet, bilaga 2, anför i yttrande bl.a. följande. Finansdepartementets
+            ärende 3 gäller bl.a. ett tillkännagivande som gjordes år 1995
+            av riksdagen till regeringen om att regeringen i samband med de
+            överväganden som skall göras beträffande ett fritidsbåtsregister
+            också bör pröva frågan om en båtskatt (bet. 1994/95:SkU28 mom.
+            49, rskr. 1994/95:439). Enligt redogörelsen har skrivelsen slutbehandlats
+            med hänvisning till budgetpropositionen för 2001 (prop. 2000/01:1,
+            utg.omr. 22, 4.12.4). Av det anförda avsnittet i den aktuella
+            budgetpropositionen (s. 76) framgår att regeringen har fortsatt
+            den dialog med försäkringsbranschen som inleddes under 1999 och
+            att den därvid har stärkts i sin uppfattning att Stöldskyddsföreningens
+            frivilliga register bör ligga till grund för ett allmänt fritidsbåtsregister.
+            En särskild utredare kommer att ges i uppdrag att utreda de särskilda
+            förutsättningarna för en obligatorisk ansvarsförsäkring för ägare
+            av fritidsbåtar och hur ett allmänt fritidsbåtsregister bör vara
+            utformat, anför regeringen i budgetpropositionen. Ännu (maj 2001)
+            har emellertid någon utredare inte tillsatts och några direktiv
+            inte utfärdats. Skatteutskottet konstaterar att regeringen har
+            ansett att ärendet om att pröva frågan om båtskatt är slutbehandlat
+            utan att regeringen har redovisat för riksdagen någon annan åtgärd
+            än att avisera en utredning om förutsättningarna för en obligatorisk
+            ansvarsförsäkring och utformningen av ett allmänt fritidsbåtsregister.
+            På grund av den passivitet som regeringen enligt skatteutskottets
+            uppfattning har visat i frågan om båtskatt vill skatteutskottet
+            med skärpa framhålla vikten av att regeringen så snart som möjligt
+            och i lämpligt sammanhang lämnar en redovisning till riksdagen
+            om sina hittills vidtagna åtgärder i ärendet om båtskatt, sitt
+            planerade framtida agerande i frågan och över huvud taget vilka
+            bedömningar den gjort rörande införandet av en båtskatt. Enligt
+            skatteutskottets uppfattning bör konstitutionsutskottet föreslå
+            att riksdagen riktar ett tillkännagivande härom till regeringen.
+            Finansdepartementets ärende 33 gäller ett tillkännagivande som
+            gjordes i december år 1999 om att regeringen bör följa produktionsmetoder
+            m.m. vad gäller etanolinblandning i drivmedel samt pröva möjligheten
+            att av EU-kommissionen få dispens från det aktuella direktivets
+            bestämmelser om högsta tillåtna volymhalt etanol i bensin (prop.
+            1999/2000:9, bet. 1999/2000:SkU11 mom. 2, rskr. 1999/2000:110).
+            Skrivelsen redovisades som öppen i förra redogörelsen men anmäls
+            nu som slutbehandlad. Några vidtagna åtgärder med anledning av
+            tillkännagivandet redovisas dock inte. Liksom i det förra ärendet
+            har regeringen ansett att det ifrågavarande ärendet angående inblandning
+            av etanol i bensin är slutbehandlat utan att några särskilda åtgärder
+            eller bedömningar med avseende på det aktuella tillkännagivandet
+            har redovisats för riksdagen. Skatteutskottet anser därför att
+            regeringen även i detta fall där regeringen också enligt skatteutskottets
+            mening har visat prov på passivitet så snart som möjligt och i
+            lämpligt sammanhang bör redovisa för riksdagen sina hittillsvarande
+            åtgärder, vilka bedömningar den gjort och hur den planerar sitt
+            framtida agerande i frågan. Även beträffande denna fråga förordar
+            skatteutskottet att konstitutionsutskottet skall föreslå att riksdagen
+            gör ett tillkännagivande till regeringen. Enligt den information
+            som konstitutionsutskottet senare erhållit från skatteutskottets
+            kansli har regeringen lämnat de redogörelser om båtskatt och etanolinblandning,
+            som skatteutskottet efterlyst, i budgetpropositionen för 2002,
+            finansplanen s. 203204. Lagutskottet, bilaga 3, anför i yttrande
+            bl.a. följande. Lagutskottet har inte funnit anledning att rikta
+            någon kritik mot handläggningen av något enskilt ärende men vill
+            dock göra konstitutionsutskottet uppmärksamt på vissa förhållanden
+            som gäller äldre riksdagsskrivelser. Av de sammanlagt 24 riksdagsskrivelserna
+            som redovisas som ännu inte avslutade i den nu aktuella skrivelsen
+            är 17 tillkännagivanden äldre än två år. Som ett exempel på en
+            äldre ännu inte slutbehandlad riksdagsskrivelse kan nämnas riksdagsskrivelse
+            1988/89:174, som gäller ett tillkännagivande från riksdagen våren
+            1989 om försäkringsbolags informationsplikt i förhållande till
+            dödsbon. I sitt av riksdagen godkända betänkande 1988/89:LU22
+            uttalade lagutskottet, med anledning av ett motionsyrkande, att
+            det skäligen kan krävas av försäkringsbolag att de rutinmässigt
+            underrättar dödsboet efter en försäkringstagare om utfallande
+            personförsäkringar, men att de närmare förutsättningarna för en
+            sådan underrättelseskyldighet lämpligen borde prövas i samband
+            med regeringens överväganden rörande förslagen i Försäkringsrättskommitténs
+            betänkande (SOU 1986:56) Personförsäkringslag ett våren 1989 aktuellt
+            lagstiftningsärende inom Justitiedepartementet. Mot bakgrund av
+            den snabba utvecklingen på det försäkringsrättsliga området kunde
+            dock Försäkringsrättskommitténs betänkande inte utan vidare läggas
+            till grund för en proposition. På grundval av bl.a. kommittébetänkandet
+            utarbetades därför inom Justitiedepartementet under år 1993 departementspromemorian
+            (Ds 1993:39) Ny försäkringsavtalslag. Inte heller de i departementspromemorian
+            framlagda förslagen kunde leda till ny lagstiftning. Fortfarande
+            pågår beredning i Regeringskansliet av förslag till en ny försäkringsavtalslag
+            som skall ersätta 1927 års försäkringsavtalslag och konsumentförsäkringslagen.
+            I regeringens nu aktuella skrivelse upplyser regeringen att frågan
+            om försäkringsbolags informationsplikt i förhållande till dödsbon
+            behandlats i departementspromemorian (Ds 1993:39) Ny försäkringsavtalslag,
+            att det är fråga om ett mycket omfattande ärende och att en lagrådsremiss
+            kan förväntas tidigast under år 2003. Slutsatsen av vad som nu
+            redovisats är att det kommer att gå närmare 15 år innan regeringen
+            återkommer till riksdagen i den sakfråga tillkännagivandet våren
+            1989 avsåg försäkringsbolags informationsplikt i förhållande till
+            dödsbon. Lagutskottet vill framhålla att det kan finnas olika
+            omständigheter som föranleder att regeringen gör bedömningen att
+            det inte är lämpligt, möjligt eller meningsfullt att vidta ytterligare
+            åtgärder i enlighet med ett riksdagsbeslut. Ett sådant skäl kan
+            vara att saken kommit i ett helt annat läge än vad som var fallet
+            vid riksdagens beslut, exempelvis genom utvecklingen inom EU eller
+            till följd av internationella åtaganden. Det kan också föreligga
+            omständigheter som gör att regeringen finner att åtgärder med
+            anledning av ett riksdagsbeslut måste anstå under en längre tid.
+            Ett sådant skäl kan såsom i det tidigare redovisade exemplet vara
+            att frågan har anknytning till ett annat större lagstiftningsärende
+            som, enligt regeringens bedömning, först bör avvaktas innan någon
+            åtgärd kommer till stånd. I sådana och liknande situationer kan,
+            enligt lagutskottets mening, en ändamålsenlig ordning vara att
+            regeringen inom rimlig tid återkommer till riksdagen också i annat
+            lämpligt sammanhang än i den årliga skrivelsen och därvid redovisar
+            skälen för sina ställningstaganden. På så sätt får riksdagen via
+            det berörda utskottet tillfälle att pröva om tillkännagivandet
+            fortfarande är relevant eller om regeringens redovisning skall
+            leda till ett förnyat eller uppdaterat tillkännagivande. Utrikesutskottet,
+            bilaga 4, anför i yttrande bl.a. följande. Den skrivelse från
+            1999/2000 som inte slutbehandlats avser två moment i utskottets
+            betänkande 1999/2000:UU2, utgiftsområde 7 Internationellt bistånd.
+            I enlighet med betänkandets moment 68 tillkännagav riksdagen för
+            regeringen att en översyn borde göras av det nuvarande systemet
+            med bemyndiganden inom biståndet. Däri borde även formerna för
+            förbättrad information till riksdagen studeras. Regeringen meddelar
+            att en redovisning redan skett för det multilaterala biståndet
+            i budgetpropositionen för 2001 och att budgetpropositionen för
+            2002 beräknas innehålla en redovisning för det bilaterala biståndet.
+            Utskottet kan nu konstatera att det i budgetpropositionen för
+            nästa budgetår, utgiftsområde 7, s. 66, framgår att bemyndiganderamen
+            inom det bilaterala utvecklingssamarbetet fr.o.m. 2002 kommer
+            att baseras på de förpliktelser som förväntas bli ingångna. Med
+            andra ord avskaffas de tidigare använda multiplikatorerna, som
+            var anledningen till att riksdagen begärde en översyn. Enligt
+            vad utskottet erfarit pågår en fortsatt översyn av hur informationen
+            till riksdagen skall kunna förbättras i de avseenden utskottet
+            efterlyst. Riksdagen menade även, i enlighet med betänkandets
+            moment 73, att regeringen borde ges i uppdrag att se över formerna
+            för hur den utvärderingsverksamhet som finns utanför biståndsförvaltningen
+            kan stärkas. Regeringen svarar i skrivelsen samt i budgetpropositionen
+            för år 2002 att resultatet av en sådan översyn beräknas kunna
+            redovisas under hösten 2001. Vid beredningen av detta yttrande
+            har utskottet dock erfarit att redovisningen troligen ej kommer
+            att göras förrän våren 2002. Utskottet kan vidare konstatera att
+            moment 75 i samma betänkande betecknas som slutbehandlat med motiveringen
+            att regeringen i december 2000 uppdragit åt Sida att utarbeta
+            kriterier för ett urval av ramorganisationer. I utskottets betänkande
+            framhålls emellertid att man utöver en studie kring kriterier
+            för urvalet även bör göra en mer övergripande översyn över de
+            enskilda organisationernas roll i utvecklingssamarbetet och att
+            denna också bör innehålla en utvärdering av Sidas samarbete med
+            enskilda organisationer. I utskottets betänkande anges att översynen
+            bör ske i former som regeringen bedömer vara lämpliga (bet. 1999/2000:UU2
+            s. 116). Utskottet har inhämtat att arbete inletts också vad avser
+            tillkännagivandets andra del. Utskottet måste dock konstatera
+            att momentet, med den redogörelse som ges i regeringens skrivelse,
+            inte till fullo kan anses vara slutbehandlat och utgår därför
+            ifrån att regeringen återkommer med en kompletterande redovisning.
+            Trafikutskottet, bilaga 5, anför i yttrande bl.a. följande. Den
+            inom utskottets beredningsområde äldsta inte slutbehandlade skrivelsen
+            med tillkännagivande är från riksmötet 1994/95. Den gäller frågan
+            om återinförande av det statliga fritidsbåtsregistret. I redovisningen
+            av beredningsläget hänvisas till budgetpropositionen för år 2001
+            där det anges att regeringen avser att ge en särskild utredare
+            i uppdrag att utreda de närmare förutsättningarna för hur ett
+            allmänt fritidsbåtsregister bör vara utformat. Motsvarande avsiktsförklaring
+            återkommer i budgetpropositionen för år 2002 (prop. 2000/01:1
+            utg.omr. 22, s. 82). Enligt vad utskottet erfarit planeras det
+            aviserade utredningsarbetet påbörjas under senare delen av år
+            2001. Utskottet konstaterar därmed att ännu efter drygt sex år
+            är denna skrivelse inte slutbehandlad. Trafikutskottet konstaterar
+            vidare att beträffande några tillkännagivanden redovisas att beredning
+            pågår sedan en längre tid utan att uppgift lämnas om vad som återstår
+            att göra eller orsaken till dröjsmålet. Enligt trafikutskottet
+            är det viktigt att riksdagsskrivelser med tillkännagivanden bereds
+            utan onödig tidsutdräkt. Om det föreligger omständighet som hindrar
+            ett genomförande av beslutet, bör detta snarast redovisas för
+            riksdagen. Utskottet anser vidare att redovisningen av planerade
+            åtgärder är viktig för utskottet vid dess arbete med uppföljning
+            och utvärdering av de äldre riksdagsskrivelserna. För riksdagens
+            tillkännagivanden är det angeläget med en redovisning av när ärendet
+            bedöms komma att slutbehandlas eller när regeringen avser att
+            återkomma till riksdagen i frågan. Riksdagen skall i ökad utsträckning
+            följa upp och utvärdera fattade beslut för att åstadkomma ett
+            bättre berednings- och beslutsunderlag. Utskottsarbetet skall
+            mot denna bakgrund förskjutas mer mot uppföljning och utvärdering.
+            En viktig del i detta arbete är regeringens årliga redovisning
+            av hur riksdagens skrivelser har behandlats. Med hänsyn till att
+            denna sammanställning huvudsakligen redovisar åtgärder som vidtagits
+            under föregående kalenderår ger dock redovisningen oftast inte
+            någon aktuell bild av vidtagna åtgärder. Vid sitt uppföljningsarbete
+            tvingas därför utskottet ofta att ta fram kompletterande information.
+            Enligt trafikutskottets mening skulle uppföljningsarbetet underlättas
+            om det fanns tillgång till en kompletterande informationskälla
+            som innehåller aktuella uppgifter om vilka åtgärder som regeringen
+            vidtar med anledning av riksdagens ställningstaganden. Med ett
+            IT-baserat informationssystem med sökmöjlighet på enskilda riksdagsskrivelser
+            i Regeringskansliets diariesystem skulle redovisningen vinna i
+            såväl aktualitet som tillgänglighet och därmed främja riksdagens
+            granskningsverksamhet. Det är sålunda önskvärt att komplettera
+            regeringens redovisning med en utförlig beskrivning av beredningsläget
+            och redovisning av planerade åtgärder beträffande de ärenden som
+            inte är slutbehandlade. För en sådan förändring talar också att
+            den nuvarande utformningen av regeringens redogörelse inte är
+            helt lättillgänglig. Enligt trafikutskottets mening bör prövas
+            om uppföljningen av riksdagsskrivelsernas behandling kan vidareutvecklas.
+            Även formerna för regeringens redovisning till riksdagen bör övervägas
+            i detta sammanhang. Regeringens skrivelse blir som redan nämnts
+            förhållandevis snabbt inaktuell. Det har därför varit nödvändigt
+            att datera upp regeringens redovisning av behandlingen av enskilda
+            skrivelser. För att uppnå en mer aktuell behandling bör det övervägas
+            att genomföra riksdagsbehandlingen under våren. Därmed skulle
+            även en tidsmässig samordning kunna ske med den fördjupade resultatredovisning
+            från regeringen till riksdagen som avses införas successivt med
+            början våren 2002. Slutligen vill utskottet framhålla att redogörelsens
+            register över riksdagsskrivelserna fördelade på olika utskott
+            fyller en viktig funktion. Med hänsyn till att beslut inom trafikutskottets
+            beredningsområde i vissa fall redovisas under andra utskott, t.ex.
+            riksdagens beslut om tilläggsbudget, krävs dock ytterligare insatser
+            för att klarlägga vilka moment som ingår i utskottets ansvarsområde.
+            Det bör mot denna bakgrund övervägas hur skrivelsens register
+            kan vidareutvecklas. Miljö- och jordbruksutskottet, bilaga 6,
+            anför i yttrande bl.a. följande. Miljö- och jordbruksutskottets
+            granskning föranleder ett påpekande avseende Jordbruksdepartementets
+            ärende 11 som gäller riksdagsskrivelse 2000/01:86 (bet. 2000/01:MJU2).
+            Enligt regeringens redogörelse är skrivelsen slutbehandlad. I
+            redogörelsen saknas dock moment 3 i utskottets hemställan. Momentet
+            innehåller ett tillkännagivande angående fortsatt stöd till omarrondering.
+            Eftersom ifrågavarande ärende saknas i årets redogörelse anser
+            miljö- och jordbruksutskottet att regeringen i kommande redogörelse
+            för behandlingen av riksdagens skrivelser till regeringen bör
+            redovisa om ifrågavarande ärende har slutbehandlats eller ej.
+            Arbetsmarknadsutskottet, bilaga 7, anför i yttrande bl.a. följande.
+            Riksdagsskrivelse 1993/94:257 avser JO:s och JK:s roller. Tillkännagivandet
+            gjordes i anslutning till behandlingen av propositionen om en
+            ny lagstiftning för statsanställda. Arbetsmarknadsutskottet har
+            tidigare kommenterat skrivelsen i yttrande till konstitutionsutskottet
+            för två år sedan. Arbetsmarknadsutskottet konstaterade vid denna
+            tidpunkt att regeringen inte, mer än fem år efter att tillkännagivandet
+            gjordes, hade slutbehandlat riksdagsskrivelsen eller mer utförligt
+            redovisat skälen till dröjsmålet med detta. Utskottet fann detta
+            mycket anmärkningsvärt. Konstitutionsutskottet instämde i denna
+            kritik och underströk starkt vikten av att regeringen utan ytterligare
+            dröjsmål skulle slutbehandla skrivelsen (1999/2000:KU10). Efter
+            att arbetsmarknadsutskottet för ett år sedan tagit del av regeringens
+            redovisning av den berörda skrivelsen hade utskottet ingen erinran
+            mot att ärendet kvarstod som icke slutbehandlat. Utskottet förutsatte
+            dock att de av regeringen aviserade åtgärderna skulle vidtas och
+            att skrivelsen kunde slutbehandlas utan ytterligare dröjsmål.
+            Utöver vad som framkommer av den nu aktuella skrivelsen har arbetsmarknadsutskottet
+            inhämtat att en departementspromemoria utarbetats på uppdrag av
+            Justitiedepartementet (PM 2001-06-07 Statens ansvarsnämnds funktion
+            och kompetensområde, m.m., dnr Ju1999/205/PP) där bl.a. förslag
+            om JO:s och JK:s roller vid arbetsrättsliga ingripanden läggs
+            fram. Promemorian remissbehandlas för närvarande. Utskottet förutsätter
+            att regeringen efter den nu pågående remissbehandlingen utan ytterligare
+            dröjsmål slutbehandlar skrivelsen.
+          </p>
+          <p>
+            Utskottets överväganden Konstitutionsutskottet vill även i år
+            framhålla att regeringens skrivelse med en redogörelse för behandlingen
+            av riksdagens skrivelser till regeringen fyller en viktig funktion
+            i riksdagens uppföljnings- och utvärderingsarbete. Finansutskottet
+            anser inte att det ur regeringens skrivelse går att utläsa hur
+            många moment från en riksdagsskrivelse som totalt sett har behandlats,
+            eller hur många moment som återstår innan hela riksdagsskrivelsen
+            är slutbehandlad. Konstitutionsutskottet har tidigare uttalat
+            att det, när det gäller momentindelade utskottsbetänkanden, är
+            viktigt att det av regeringens redogörelse framgår vilka moment
+            som har föranlett eller skall föranleda åtgärder från regeringens
+            sida. I betänkande 1999/2000:KU10 underströk konstitutionsutskottet
+            vikten av att redovisa moment och i förekommande fall också delmoment.
+            Konstitutionsutskottet vill åter betona vikten av att regeringen
+            redovisar samtliga aktuella moment samt anger huruvida regeringen
+            anser att respektive moment är slutbehandlat. Finansutskottet,
+            utrikesutskottet och miljö- och jordbruksutskottet har påtalat
+            att regeringen har redovisat vissa riksdagsskrivelser som slutbehandlade
+            trots att redogörelse saknas för vissa moment. Konstitutionsutskottet
+            finner inte anledning att göra någon annan bedömning än den respektive
+            utskott gjort. Med anledning av vad lagutskottet anfört om vissa
+            förhållanden som gäller äldre riksdagsskrivelser vill konstitutionsutskottet
+            åter understryka att utgångspunkten måste vara att det önskemål
+            som ett tillkännagivande avser bör tillgodoses. Om det visar sig
+            föreligga omständigheter som hindrar ett genomförande eller om
+            regeringen gör en annan bedömning än riksdagen måste regeringen
+            kunna underlåta att vidta de åtgärder tillkännagivandet avser.
+            En förutsättning bör dock enligt konstitutionsutskottet vara att
+            regeringens bedömningar i detta avseende redovisas för riksdagen.
+            I betänkande 1999/2000:KU10 och 2000/01:KU10 gjorde konstitutionsutskottet
+            när det gäller redogörelsens utformning bedömningen att det inte
+            var berett att föreslå någon förändring. Utskottet gör inte i
+            dag någon annan bedömning men anser, i likhet med trafikutskottet,
+            att det vore en fördel i aktualitets- och effektivitetshänseende
+            om utskotten och riksdagen kunde behandla regeringens skrivelse
+            under den vår som skrivelsen avlämnas. Utskottet strävar efter
+            att kunna behandla regeringens skrivelse tidigare. Konstitutionsutskottet
+            avser därför att i samråd med Regeringskansliet och riksdagens
+            utskott diskutera förutsättningarna för detta. Vad i övrigt gäller
+            de ärenden som utskotten kommenterat i sina yttranden finner konstitutionsutskottet
+            inte anledning att göra någon annan bedömning än den som respektive
+            utskott gjort. Regeringens skrivelse 2000/01:75 föranleder inte
+            något annat uttalande från konstitutionsutskottets sida. Skrivelsen
+            bör läggas till handlingarna. bilaga 1 Finansutskottets yttrande
+            2001/02:FiU1y Behandlingen av riksdagens skrivelser till regeringen
+            (skr. 2000/01:75) Till konstitutionsutskottet Konstitutionsutskottet
+            beslutade den 15 maj 2001 att bereda samtliga utskott tillfälle
+            att i de delar som har samband respektive utskotts beredningsområde
+            yttra sig över regeringens skrivelse 2000/01:75 med redogörelse
+            för behandlingen av riksdagens skrivelser till regeringen. Utskottets
+            överväganden Bakgrund Regeringens skrivelse redogör huvudsakligen
+            för sådana åtgärder som regeringen vidtagit under kalenderåret
+            2000 med anledning av riksdagens skrivelser. För att underlätta
+            riksdagsutskottens möjligheter att få en så aktuell bild som möjligt
+            vid sitt uppföljningsarbete, har redovisningen även fått omfatta
+            vissa regeringsbeslut från år 2001 dvs. efter den egentliga redovisningsperiodens
+            utgång. Detta förfarande har använts om riksdagsskrivelserna därigenom
+            har kunnat rapporteras som slutbehandlade. Redogörelsen är som
+            tidigare år uppställd departementsvis. Inom varje departements
+            område har materialet grupperats i fyra huvudgrupper, alltefter
+            åldern på de behandlade riksdagsskrivelserna. Vid uppföljningen
+            av riksdagens beslut tilldrar sig regeringens åtgärder med anledning
+            av riksdagens tillkännagivanden till regeringen ett särskilt intresse.
+            Sammantaget 54 skrivelser redovisas i årets redogörelse inom finansutskottets
+            ansvarsområde, vilket är lika många som i motsvarande skrivelse
+            förra året. Av de 54 skrivelserna rapporteras 36 som slutbehandlade
+            och 18 som inte slutbehandlade. Det kan också noteras att finansutskottet
+            i sina betänkanden enligt den gällande budgetordningen numera
+            behandlar samtliga ärenden på tilläggsbudget. Vissa skrivelser
+            omfattar bl.a. av detta skäl ett stort antal moment. En närmare
+            uppföljning av regeringens åtgärder har gjorts för de moment i
+            tilläggsbudgetbetänkandena som faller inom utskottets eget ansvarsområde.
+            Åtta av sammanlagt 54 riksdagsskrivelser som redovisas i regeringens
+            återrapportering avser frågor som tillhör andra utskotts ansvarsområden
+            men som behandlats av finansutskottet i samband med tilläggsbudgetar.
+            Av riksdagsskrivelserna är 14 stycken äldre än två år och 8 stycken
+            äldre än tre år. Av dessa senare 8 redovisas 5 som inte slutbehandlade.
+            Det äldsta inte slutbehandlade ärendet avser riksmötet 1995/96.
+            Generella synpunkter Allmänt kan sägas att riksdagens beslut inom
+            utskottets ansvarsområde till övervägande delen fullföljts på
+            det sätt som riksdagen avsåg vid beslutstillfället och genomförts
+            i rimlig tid. När det gäller återrapporteringen finns det dock
+            uppenbara brister. Som framgår av några exempel nedan förekommer
+            både rena misstag i rapporteringen och att synpunkter som riksdagen
+            tidigare lämnat inte beaktats. Utskottets uppfattning är mot bakgrund
+            av dessa brister att återrapporteringen av vidtagna åtgärder bör
+            förbättras. I regeringens skrivelse anges vilka åtgärder regeringen
+            vidtagit med anledning av riksdagens beslut, men inte tidigare
+            rapporterat till riksdagen. Där framgår också när regeringen tidigare
+            lämnade återrapportering om en viss riksdagsskrivelse, samt om
+            riksdagsskrivelsen är slutbehandlad eller inte. Det går dock inte
+            att utläsa ur regeringens skrivelse hur många moment från en riksdagsskrivelse
+            som totalt sett har behandlats, eller hur många moment som återstår
+            innan hela riksdagsskrivelsen är slutbehandlad. Våren 1998 behandlade
+            utskottet en proposition om statlig fastighetsförvaltning och
+            statliga myndigheters lokalförsörjning (prop. 1997/98:137, bet.
+            1997/98:FiU25). I regeringens skrivelse 1998/99:75 anmäldes att
+            man vidtagit åtgärder avseende två av de fem momenten i betänkandet
+            och att riksdagsskrivelsen därmed var slutbehandlad. Finansutskottet
+            påpekade i betänkande 2000/01:FiU2 att någon återrapportering
+            av de tre återstående momenten inte hade gjorts. I årets skrivelse
+            2000/01:75 anmäler regeringen åtgärder avseende de tre saknade
+            momenten. Risken för denna typ av luckor i regeringens återrapportering
+            skulle troligen minska om man angav i skrivelsen vilka moment
+            som återstår att behandla. I likhet med vad utskottet tidigare
+            framhållit är det därför önskvärt att redogörelsen kompletteras
+            på denna punkt. Synpunkter på enskilda punkter i regeringens skrivelse
+            I det följande redovisas ett antal punkter där utskottet funnit
+            brister i regeringens redovisning. Utgiftsområde 25 Allmänna bidrag
+            till kommuner (punkt Fi91, mom. 5) Regeringen redovisar att riksdagens
+            tillkännagivande om hivpreventivt arbete i storstadsregionerna
+            är under beredning. Utskottet erfar dock att regeringen den 22
+            februari 2001 beviljade bidrag på 84 miljoner kronor med anledning
+            av riksdagens tillkännagivande. Utgiftsområde 26 Statsskuldsräntor
+            m.m. (punkt Fi92, mom. 2) Momentet handlar om rätten för regeringen
+            att överskrida anslaget för statsskuldsräntor 2001. Skrivelsen
+            borde inte rapporterats som slutbehandlad eftersom regeringen
+            inte kan veta om bemyndigandet utnyttjats eller inte förrän efter
+            årets slut. Någon återrapportering av utnyttjandet av motsvarande
+            bemyndigande för 2000 görs inte i regeringens skrivelse trots
+            att anslaget för statsskuldsräntor det året överskreds med mer
+            än 8 miljarder kronor, vilket framgår av årsredovisningen för
+            staten 2000 i avsnitt 4.4. Rapporteringen av det generella bemyndigandet
+            för regeringen att överskrida ramanslag (punkt 69, mom. 13) skulle
+            kunna tjäna som exempel för statsskuldsräntorna. Utvärdering av
+            statsskuldens upplåning och förvaltning 1994/951999 (punkt Fi57)
+            I sin återrapportering hänvisar regeringen tillbaka till sitt
+            beslut om skrivelse 1999/2000:104 om utvärdering av statsskuldens
+            upplåning och förvaltning 1994/951999, dvs. den skrivelse som
+            riksdagen behandlat, och hänvisar på så sätt i cirkel. Lämpligare
+            hade varit att hänvisa till regeringens beslut i november om riktlinjer
+            för statsskuldens förvaltning. I förra årets skrivelse (skr. 1999/2000:75,
+            punkt Fi59) använde sig regeringen av samma cirkelresonemang vilket
+            finansutskottet då påpekade i sitt yttrande. Statsbudget för budgetåren
+            2000 och 2001 (punkterna Fi34 och Fi95) Fram t.o.m. 1999 har praxis
+            varit att regeringen överlämnat den av riksdagen fastställda statsbudgeten
+            till Ekonomistyrningsverket (tidigare till Riksrevisionsverket)
+            inför det nya budgetåret. Enligt vad utskottet erfarit har regeringen
+            den 21 april 2001 beslutat att lägga statsbudgeten för 2000 och
+            statsbudgeten för 2001 till handlingarna. Regeringen rapporterar
+            dock i skrivelsen under punkt Fi95 att statsbudgeten för 2001,
+            betänkande 2000/01:FiU10, kommer att överlämnas till Ekonomistyrningsverket
+            (ESV) för kännedom och beaktande. Under punkten Fi34 redovisar
+            regeringen att också statsbudgeten för 2000, betänkande 1999/2000:FiU10,
+            kommer att lämnas över till ESV för kännedom och beaktande. Även
+            i förra årets skrivelse skrev regeringen att statsbudgeten för
+            2000 skulle överlämnas till ESV (skr. 1999/2000:75, punkt Fi89).
+            Om regeringen avsett att överlämna FiU10 till ESV borde detta
+            lämpligen ha gjorts så snabbt som möjligt, före budgetårets början.
+            Vissa ekonomisk-politiska åtgärder m.m. (punkt Fi2, mom. 44) Momentet
+            handlar om ett tillkännagivande angående den begränsade uppräkningen
+            av basbeloppet (bet. 1994/95:FiU1) i samband med besparingarna
+            hösten 1994. Regeringen redovisar ärendet som slutbehandlat och
+            hänvisar till budgetpropositionen för 2001, utgiftsområde 11,
+            anslag 20:1. Ärendet behandlas dock inte där utan i stället i
+            avsnitt 3.6.1 under samma utgiftsområde. Stockholm den 16 oktober
+            2001 På finansutskottets vägnar Jan Bergqvist Följande ledamöter
+            har deltagit i beslutet: Jan Bergqvist (s), Mats Odell (kd), Gunnar
+            Hökmark (m), Bengt Silfverstrand (s), Lisbet Calner (s), Johan
+            Lönnroth (v), Lennart Hedquist (m), Sonia Karlsson (s), Carin
+            Lundberg (s), Kjell Nordström (s), Siv Holma (v), Per Landgren
+            (kd), Gunnar Axén (m), Yvonne Ruwaida (mp), Lena Ek (c), Karin
+            Pilsäter (fp) och Carl-Axel Johansson (m).
+          </p>
+          <p>
+            Bilaga 2 Skatteutskottets yttrande 2000/01:SkU8y Redogörelse
+            våren 2001 för behandlingen av riksdagens skrivelser till regeringen
+            Till konstitutionsutskottet Konstitutionsutskottet har berett
+            övriga utskott tillfälle att yttra sig över regeringens skrivelse
+            2000/01:75 med redogörelse för behandlingen av riksdagens skrivelser
+            till regeringen. Redogörelsen omfattar huvudsakligen regeringsbeslut
+            under tiden 1 januari 31 december 2000. Skatteutskottet har granskat
+            de riksdagsskrivelser som gäller åtgärder med anledning av ärenden
+            som beretts av skatteutskottet och vill med anledning härav anföra
+            följande. Sammanfattning av utskottets ställningstaganden Utskottet
+            anser att regeringen bör redovisa sina åtgärder och sina bedöm-ningar
+            med anledning av två riksdagsskrivelser som gäller tillkännagivanden
+            om båtskatt respektive etanolinblandning i bensin och som båda
+            anmälts som slutbehandlade i redogörelsen. Utskottet anser att
+            konstitutionsutskottet bör föreslå att riksdagen riktar tillkännagivanden
+            härom till regeringen. I övrigt föranleder redogörelsen inte några
+            kommentarer från utskottets sida. Båtskatt Regeringens redogörelse
+            Finansdepartementets ärende 3 (regeringens skrivelse s. 6465)
+            gäller bl.a. ett tillkännagivande som gjordes år 1995 av riksdagen
+            till regeringen om att regeringen i samband med de överväganden
+            som skall göras beträffande ett fritidsbåtsregister också bör
+            pröva frågan om en båtskatt (bet. 1994/95:SkU28 mom. 49, rskr.
+            1994/95:439). Enligt redogörelsen har skrivelsen slutbe-handlats
+            med hänvisning till budgetpropositionen för 2001 (prop. 2000/01:1,
+            utgiftsområde 22, 4.12.4). Av det anförda avsnittet i den aktuella
+            budgetpropositionen (s. 76) framgår att regeringen har fortsatt
+            den dialog med försäkringsbranschen som inleddes under 1999 och
+            att den därvid har stärkts i sin uppfattning att Stöldskydds-föreningens
+            frivilliga register bör ligga till grund för ett allmänt fritidsbåts-register.
+            En särskild utredare kommer att ges i uppdrag att utreda de särskilda
+            förutsättningarna för en obligatorisk ansvarsförsäkring för ägare
+            av fritids-båtar och hur ett allmänt fritidsbåtsregister bör vara
+            utformat, anför regeringen i budgetpropositionen. Samtidigt redovisas
+            på andra ställen i redogörelsen de ärenden som uppkommit i och
+            med riksdagens tillkännagivanden om dels obligatorisk ansvarsförsäkring
+            för fritidsbåtar (Justitiedepartementet, riksmötet 1986/87, ärende
+            2, s. 15), dels återinförande av det statliga fritidsbåtsregistret
+            (Närings-departementet, riksmötet 1994/95, ärende 1, s. 114).
+            Båda dessa ärenden anmäls i redogörelsen som ännu inte slutbehandlade.
+            I bägge ärendena hänvisar regeringen till sin nyss nämnda avsikt
+            enligt budgetpropositionen att tillkalla en utredare och ge denne
+            i uppgift att utreda dessa frågor. På fråga i riksdagen om särskild
+            skatt på lyxbåtar har finansministern svarat att frågan om båtskatt
+            kan övervägas först efter det att utredaren är klar med sitt uppdrag
+            om ett fritidsbåtsregister (svar på fråga 2000/01:621 om båtskatt
+            den 7 februari 2001). Olika motioner från allmänna motionstiden
+            om båtskatt avslogs av riksdagen i våras, också med hänvisning
+            till att frågan om båtregister måste utredas först (bet. 2000/01:SkU17).
+            Ännu (maj 2001) har emellertid någon utredare inte tillsatts och
+            några direktiv inte utfärdats. Till saken hör också att en tidigare
+            utredning, som övervägt frågan om båtskatt under hösten 1996 i
+            betänkandet SOU 1996:170 Fritidsbåten och samhället, ansåg att
+            det inte fanns anledning att införa en allmän båtskatt. Utskottets
+            ställningstagande Utskottet konstaterar att regeringen har ansett
+            att ärendet om att pröva frågan om båtskatt är slutbehandlat utan
+            att regeringen har redovisat för riksdagen någon annan åtgärd
+            än att avisera en utredning om förutsättningarna för en obligatorisk
+            ansvarsförsäkring och utformningen av ett allmänt fritidsbåts-register.
+            Däremot har regeringen anmält vissa tidigare riksdagsskrivelser
+            avseende en sådan ansvarsförsäkring och ett sådant register som
+            ännu icke slutbehandlade. På grund av den passivitet som regeringen
+            enligt utskottets uppfattning har visat i frågan om båtskatt vill
+            utskottet med skärpa framhålla vikten av att regeringen så snart
+            som möjligt och i lämpligt sammanhang lämnar en redovisning till
+            riksdagen om sina hittills vidtagna åtgärder i ärendet om båtskatt,
+            sitt planerade framtida agerande i frågan och över huvud taget
+            vilka bedömningar den gjort rörande införandet av en båtskatt.
+            Enligt utskottets uppfattning bör konstitutionsutskottet föreslå
+            att riksdagen riktar ett tillkännagivande härom till regeringen.
+            Inblandning av etanol i bensin Regeringens redogörelse Finansdepartementets
+            ärende 33 (s. 7273) gäller ett tillkännagivande som gjordes i
+            december år 1999 om att regeringen bör följa produktionsmetoder
+            m.m. vad gäller etanolinblandning i drivmedel samt pröva möjligheten
+            att av EU-kommissionen få dispens från det aktuella direktivets
+            bestämmelser om högsta tillåtna volymhalt etanol i bensin (prop.
+            1999/2000:9, bet. 1999/2000:SkU11 mom. 2, rskr. 1999/2000:110).
+            Skrivelsen redovisades som öppen i förra redogörelsen (skrivelse
+            1999/2000:75 s. 79) men nu anmäls den som slutbehandlad. Några
+            vidtagna åtgärder med anledning av tillkännagivandet redovisas
+            dock inte. På Regeringskansliet upplyser man att förhandlingar
+            inom EU om bl.a. en högre etanolinblandning i bensin beräknas
+            påbörjas under hösten 2001. Utskottets ställningstagande Liksom
+            i det förra ärendet finner utskottet att regeringen har ansett
+            att det ifrågavarande ärendet angående inblandning av etanol i
+            bensin är slut- behandlat utan att några särskilda åtgärder eller
+            bedömningar med avseende på det aktuella tillkännagivandet har
+            redovisats för riksdagen. Utskottet anser därför att regeringen
+            även i detta fall där regeringen också enligt utskottets mening
+            har visat prov på passivitet så snart som möjligt och i lämpligt
+            sammanhang bör redovisa för riksdagen sina hittillsvarande åtgärder,
+            vilka bedömningar den gjort och hur den planerar sitt framtida
+            agerande i frågan. Även beträffande denna fråga förordar utskottet
+            att konstitutionsutskottet skall föreslå att riksdagen gör ett
+            tillkännagivande till regeringen. Övriga frågor Beträffande övriga
+            riksdagsskrivelser som skatteutskottet varit upphov till och som
+            enligt den aktuella redogörelsen ännu inte är slutbehandlade vill
+            utskottet anföra följande. Finansdepartementets ärende 6 angående
+            yrkesfiskare gäller ett tillkännagivande i december 1996 om att
+            regeringen borde återkomma till riksdagen med förslag som tillgodoser
+            kravet på bättre konkurrens- neutralitet för svenska yrkesfiskare
+            i förhållande till vissa konkurrent-länder som tillåter s.k. yrkesfiskaravdrag
+            (mot. 1996/97:Fi210 yrkande 11 m.fl., bet. 1996/97:SkU13 mom.
+            11, rskr. 1996/97:133). I ärendet pågår enligt redogörelsen beredning.
+            Ärendet behandlas i regeringens senaste vårproposition (prop.
+            2000/01:100 s. 144) som nyligen har varit föremål för behandling
+            i skatteutskottet (yttr. 2000/01:SkU5y). Enligt vårpropositionen
+            har man inom Regeringskansliet nu tagit fram ett förslag som regeringen
+            avser att lägga fram i år under förutsättning att EU- kommissionen
+            godkänner förslaget. Finansdepartementets ärende 11 angående ekonomisk
+            ersättning till personer som erhållit fingerade personuppgifter
+            gäller ett tillkänna-givande i december 1997 som går ut på att
+            den som förföljs på grund av att han eller hon uppfyllt sin vittnesplikt
+            inte bara skall vara hänvisad till ersättning i form av skadestånd,
+            brottsskadeersättning eller bistånd enligt socialtjänstlagen (prop.
+            1997/98:9, mot. 1997/98:Sk14 yrkande 8 m.fl., bet. 1997/98:SkU5
+            mom. 10, rskr. 1997/98:76). Frågan behandlas i regeringens proposition
+            2000/01:79 Stöd till brottsoffer som överlämnats i vår till riksdagen.
+            Propositionen behandlas av justitieutskottet i betänkande 2000/01:JuU20.
+            Regeringen och justitieutskottet menar att frågan bör fortsätta
+            att beredas inom ramen för det s.k. nationella handlingsprogrammet
+            som är ett förslag av Rikspolisstyrelsen m.fl. myndigheter. En
+            slutlig behandling av skrivelsen bör därför anstå. Skrivelsen
+            är alltså ännu inte slutbehandlad. Finansdepartementets ärende
+            25 angående förfarandet vid beskattning gäller egentligen åtgärder
+            för att stimulera användningen av deponigas för energiutvinning.
+            Med anledning av vissa motioner med yrkande om avdragsrätt för
+            deponigas gjordes i juni 1999 ett tillkännagivande om att regeringen
+            skyndsamt skulle återkomma till riksdagen med förslag som syftade
+            till att stimulera användningen av deponigas för energiutvinning
+            (prop. 1998/99:84, mot. 1998/99:Sk28 yrkande 5 m.fl., bet. 1998/99:
+            SkU20 mom. 2, rskr. 1998/99:258). Frågan behandlas i proposition
+            2000/01:130 Svenska miljömål delmål och åtgärdsstrategier (s.
+            188189). I propositionen redovisas rådets direktiv 1999/31/EG
+            av den 26 april 1999 om deponering av avfall (EGT L 182, 16.7.1999,
+            s. 1 Celex 31999L0031) som skall vara genomfört i den nationella
+            lagstiftningen senast den 16 juli 2001. Genom att direktivet bl.a.
+            innebär att deponigasen kommer att omhändertas och utnyttjas om
+            möjligt genom energiutvinning anser regeringen att riksdagens
+            önskemål kommer att tillgodoses i och med att direktivet inom
+            kort genomförs. Enligt vad utskottet erfarit kommer riksdagsskrivelsen
+            därigenom att anses som slutbehandlad. Finansdepartementets ärende
+            37 om ökade levnadskostnader vid dubbel bosättning gäller ett
+            tillkännagivande i mars 2000 om att regeringen bör genomföra en
+            kompletterande utredning för att belysa effekterna för rörligheten
+            på arbetsmarknaden och boende och arbetande i glesbygd vid ett
+            slopande av tvåårsgränsen för avdrag för ökade levnadskostnader
+            vid dubbel bosättning (mot. 1999/2000:Sk748, bet. 1999/2000:SkU13
+            mom. 8, rskr. 1999/2000:143). Enligt regeringens redogörelse bereds
+            ärendet för närvarande tillsammans med förslagen i utredningsbetänkandet
+            SOU 1999:94 (det står felaktigt 97 i redogörelsen) Förmåner och
+            ökade levnadskostnader. Utskottet har inhämtat att betänkandet
+            för närvarande remissbehandlas och att en proposition förbereds,
+            antingen till hösten eller till nästa vår. Finansdepartementets
+            ärende 42 om uppskov med reavinstbeskattningen gäller ett tillkännagivande
+            i april 2000 om att regeringen bör se över reglerna om reavinstuppskov
+            vid bostadsbyte för att komma till rätta med problemet att den
+            som avyttrar en bostad för att uppföra en ny bostad på en obebyggd
+            tomt som han eller hon redan äger inte medges uppskov med reavinstbeskattningen
+            (mot. 1999/2000:Sk713, bet. 1999/2000: SkU17 mom. 10, rskr. 1999/2000:175).
+            Enligt regeringens redogörelse bereds ärendet. På Finansdepartementet
+            upplyser man att en promemoria om frågan kommer att ges ut inom
+            kort. Finansdepartementets ärende 53 angående reglerna i skattebetalnings-lagen
+            om betalningsansvar för företrädare för juridiska personer gäller
+            ett tillkännagivande i juni 2000 om att regeringen bör utföra
+            en analys och eventuellt lägga fram förslag om omformulering av
+            de aktuella bestämmelserna om betalningsansvar för företrädare
+            för juridiska personer, om de nya bestämmelserna inneburit en
+            skärpning i förhållande till vad som gällde tidigare (bet. 1999/2000:SkU24,
+            rskr. 1999/2000: 248). Regeringen har tillkallat en särskild utredare
+            som beräknas avsluta sitt arbete senast den 1 november 2001 (Fi
+            2000:09, dir. 2000:89). Finansdepartementets ärende 76 angående
+            skadlig skattekonkurrens i Europeiska unionen gäller ett tillkännagivande
+            i december 2000 om att regeringen bör arbeta för att tillämpningsområdet
+            för uppförandekoden för företagsbeskattning skall utvidgas till
+            att omfatta även skadlig skattekonkurrens som avser löntagare
+            och för att frågan skall behandlas i samband med en översyn av
+            uppförandekoden (prop. 2000/01:12, bet. 2000/01:SkU6 mom. 3, rskr.
+            2000/01:70). Enligt regeringens redogörelse bereds ärendet. Enligt
+            information från Finansdepartementet har EU:s granskning kommit
+            att bli mer omfattande än vad som först antogs, och EU- kommissionen
+            har ännu inte bestämt hur översynen skall hanteras. Beslut härom
+            är att vänta tidigast hösten 2002. Dessförinnan kan Sverige inte
+            agera i den här frågan. Skatteutskottet anser att de nu behandlade
+            ärendena inte kräver några ytterligare kommentarer. Stockholm
+            den 31 maj 2001 På skatteutskottets vägnar Arne Kjörnsberg Följande
+            ledamöter har deltagit i beslutet: Arne Kjörnsberg (s), Carl Fredrik
+            Graf (m), Lisbeth Staaf-Igelström (s), Per Rosengren (v), Helena
+            Höij (kd), Carl Erik Hedlund (m), Per Erik Granström (s), Marietta
+            de Pourbaix-Lundin (m), Ulla Wester (s), Lena Sandlin-Hedman (s),
+            Marie Engström (v), Kenneth Lantz (kd), Rolf Kenneryd (c), Per-Olof
+            Svensson (s) och Stefan Hagfeldt (m). bilaga 3 Lagutskottets yttrande
+            2001/02:LU1y Redogörelse för behandlingen av riksdagens skrivelser
+            till regeringen Till konstitutionsutskottet Konstitutionsutskottet
+            har den 15 maj 2001 beslutat anmoda övriga utskott att senast
+            den 26 oktober 2001 yttra sig över regeringens skrivelse 2000/01:75
+            Redogörelse för behandlingen av riksdagens skrivelser till regeringen.
+            Ingen motion har väckts med anledning av skrivelsen. Konstitutionsutskottets
+            anmodan föranleder följande yttrande från lagutskottet. Utskottet
+            I skrivelse 2000/01:75 lämnar regeringen en redovisning av de
+            åtgärder regeringen vidtagit med anledning av de riksdagsbeslut
+            som meddelats i riksdagens skrivelser till regeringen. Redogörelsen
+            omfattar huvudsakligen åtgärder som vidtagits under tiden den
+            1 januari 2000den 31 december 2000. Vidare lämnar regeringen vissa
+            uppgifter om antalet gällande författningar samt arbetet med regelreformering
+            och språkvård. I 1999 års skrivelse (skr. 1999/2000:75) redovisades
+            för lagutskottets del sammanlagt 27 skrivelser, varav 7 som slutbehandlade.
+            Av de riksdagsbeslut som redovisas i årets skrivelse från regeringen
+            faller sammanlagt 37 ärenden under lagutskottets beredningsområde,
+            varav 13 ärenden anges som slutbehandlade under redovisningsperioden.
+            Inom lagutskottets kansli har på samma sätt som tidigare år genomförts
+            en granskning av de i årets skrivelse upptagna riksdagsbesluten
+            som rör utskottet. Granskningen har avsett dels redovisningen
+            i formell mening, dels de åtgärder som regeringen vidtagit och
+            avser att vidta med anledning av skrivelserna. Utskottet har inte
+            funnit anledning att rikta någon kritik mot handläggningen av
+            något enskilt ärende men vill dock göra konstitutionsutskottet
+            uppmärksamt på vissa förhållanden som gäller äldre riksdagsskrivelser.
+            I samband med granskningen har nämligen konstaterats att förevarande
+            skrivelse liksom motsvarande tidigare skrivelser innehåller ett
+            flertal äldre riksdagsskrivelser på lagutskottets beredningsområde
+            som ännu inte slutbehandlats. Vid behandlingen av 1998 års skrivelse
+            noterade utskottet särskilt att den äldsta då ännu inte slutbehandlade
+            skrivelsen, ett tillkännagivande från riksdagens sida rörande
+            producentskydd för sceniska och musikaliska verk, härrörde från
+            maj 1986 (bet. LU 1985/86:32, rskr. 293). Denna riksdagsskrivelse
+            har genom ett regeringsbeslut hösten 2000 numera lagts till handlingarna.
+            Av de sammanlagt 24 riksdagsskrivelserna som redovisas som ännu
+            inte avslutade i den nu aktuella skrivelsen är 17 tillkännagivanden
+            äldre än två år. Som ett exempel på en äldre ännu inte slutbehandlad
+            riksdagsskrivelse kan nämnas riksdagsskrivelse 1988/89:174, som
+            gäller ett tillkännagivande från riksdagen våren 1989 om försäkringsbolags
+            informationsplikt i förhållande till dödsbon. I sitt av riksdagen
+            godkända betänkande 1988/89:LU22 uttalade lagutskottet, med anledning
+            av ett motionsyrkande, att det skäligen kan krävas av försäkringsbolag
+            att de rutinmässigt underrättar dödsboet efter en försäkringstagare
+            om utfallande personförsäkringar, men att de närmare förutsättningarna
+            för en sådan underrättelseskyldighet lämpligen borde prövas i
+            samband med regeringens överväganden rörande förslagen i Försäkringsrättskommitténs
+            betänkande (SOU 1986:56) Personförsäkringslag ett våren 1989 aktuellt
+            lagstiftningsärende inom Justitiedepartementet. Mot bakgrund av
+            den snabba utvecklingen på det försäkringsrättsliga området kunde
+            dock Försäkringsrättskommitténs betänkande inte utan vidare läggas
+            till grund för en proposition. På grundval av bl.a. kommittébetänkandet
+            utarbetades därför inom Justitiedepartementet under år 1993 departementspromemorian
+            (Ds 1993:39) Ny försäkringsavtalslag. Inte heller de i departementspromemorian
+            framlagda förslagen kunde leda till ny lagstiftning. Fortfarande
+            pågår beredning i Regeringskansliet av förslag till en ny försäkringsavtalslag
+            som skall ersätta 1927 års försäkringsavtalslag och konsumentförsäkringslagen.
+            I den nu aktuella skrivelsen 2000/01:75 upplyser regeringen att
+            frågan om försäkringsbolags informationsplikt i förhållande till
+            dödsbon behandlats i departementspromemorian (Ds 1993:39) Ny försäkringsavtalslag,
+            att det är fråga om ett mycket omfattande ärende och att en lagrådsremiss
+            kan förväntas tidigast under år 2003. Slutsatsen av vad som nu
+            redovisats är att det kommer att gå närmare 15 år innan regeringen
+            återkommer till riksdagen i den sakfråga tillkännagivandet våren
+            1989 avsåg försäkringsbolags informationsplikt i förhållande till
+            dödsbon. Konstitutionsutskottet har vid flera tidigare tillfällen
+            uttalat att utgångspunkten måste vara att det önskemål som tillkännagivandet
+            avser bör tillgodoses, men att om det skulle visa sig föreligga
+            omständigheter som hindrar ett genomförande eller om regeringen
+            gör en annan bedömning än riksdagen, regeringen måste kunna underlåta
+            att vidta de åtgärder tillkännagivandet avser, under förutsättning
+            att regeringens bedömning i detta avseende redovisas för riksdagen
+            (se bl.a. bet. 1994/95:KU30, bet. 1995/96:KU30 och bet. 1998/99:KU10).
+            I fråga om mer än ett år gamla riksdagsskrivelser som inte har
+            slutbehandlats har konstitutionsutskottet uttalat att orsakerna
+            till att regeringen inte vidtagit någon åtgärd bör redovisas för
+            riksdagen med uppgift om när åtgärderna beräknas vidtas och att
+            en sådan redovisning fyller ett angeläget behov i utskottens uppföljnings-
+            och utvärderingsarbete (se bl.a. bet. 1998/99:KU10 och bet. 1999/2000:KU10).
+            Lagutskottet vill för sin del framhålla att det kan finnas olika
+            omständigheter som föranleder att regeringen gör bedömningen att
+            det inte är lämpligt, möjligt eller meningsfullt att vidta ytterligare
+            åtgärder i enlighet med ett riksdagsbeslut. Ett sådant skäl kan
+            vara att saken kommit i ett helt annat läge än vad som var fallet
+            vid riksdagens beslut, exempelvis genom utvecklingen inom EU eller
+            till följd av internationella åtaganden. Det kan också föreligga
+            omständigheter som gör att regeringen finner att åtgärder med
+            anledning av ett riksdagsbeslut måste anstå under en längre tid.
+            Ett sådant skäl kan såsom i det tidigare redovisade exemplet vara
+            att frågan har anknytning till ett annat större lagstiftningsärende
+            som, enligt regeringens bedömning, först bör avvaktas innan någon
+            åtgärd kommer till stånd. I sådana och liknande situationer kan,
+            enligt lagutskottets mening, en ändamålsenlig ordning vara att
+            regeringen inom rimlig tid återkommer till riksdagen också i annat
+            lämpligt sammanhang än i den årliga skrivelsen och därvid redovisar
+            skälen för sina ställningstaganden. På så sätt får riksdagen via
+            det berörda utskottet tillfälle att pröva om tillkännagivandet
+            fortfarande är relevant eller om regeringens redovisning skall
+            leda till ett förnyat eller uppdaterat tillkännagivande. I övrigt
+            föranleder regeringens redogörelse för behandlingen av riksdagens
+            skrivelser till regeringen såvitt avser de ärenden som omfattas
+            av lagutskottets beredningsområde inga ytterligare kommentarer
+            från utskottets sida. Stockholm den 25 oktober 2001 På lagutskottets
+            vägnar Tanja Linderborg Följande ledamöter har deltagit i beslutet:
+            Tanja Linderborg (v), Rolf Åbjörnsson (kd), Marianne Carlström
+            (s), Christel Anderberg (m), Henrik S Järrel (m), Nikos Papadopoulos
+            (s), Marina Pettersson (s), Christina Nenes (s), Tasso Stafilidis
+            (v), Kjell Eldensjö (kd), Berit Adolfsson (m), Anders Berglöv
+            (s), Viviann Gerdin (c), Ana Maria Narti (fp), Raimo Pärssinen
+            (s), Lars Lilja (s) och Anders Sjölund (m). bilaga 4 Utrikesutskottets
+            yttrande 2001/02:UU3y Redogörelse för behandlingen av riksdagens
+            skrivelser till regeringen Till konstitutionsutskottet Konstitutionsutskottet
+            har den 15 maj 2001 anmodat samtliga utskott att, i de delar som
+            faller inom respektive utskotts beredningsområde, yttra sig över
+            regeringens skrivelse 2000/01:75 Redogörelse för behandlingen
+            av riksdagens skrivelser till regeringen. Ingen motion har väckts
+            på utrikesutskottets beredningsområde med anledning av skrivelsen.
+            Med anledning av konstitutionsutskottets anmodan vill utrikesutskottet
+            anföra följande. Utskottet Regeringen redovisar i skrivelse 2000/01:75
+            de åtgärder den vidtagit med anledning av 13 riksdagsskrivelser
+            från riksmötena 1999/2000 samt 2000/01, vilka rör utrikesutskottets
+            beredning. Av de åtta skrivelser som avlämnades under riksmötet
+            1999/2000 rapporterar regeringen att samtliga, med ett undantag,
+            har slutbehandlats. Även vad gäller de fem skrivelser som avlämnades
+            under riksmötet 2000/01 återstår en att slutbehandla. Den skrivelse
+            från 1999/2000 som inte slutbehandlats avser två moment i utskottets
+            betänkande 1999/2000:UU2, utgiftsområde 7 Internationellt bistånd.
+            I enlighet med betänkandets moment 68 tillkännagav riksdagen för
+            regeringen att en översyn borde göras av det nuvarande systemet
+            med bemyndiganden inom biståndet. Däri borde även formerna för
+            förbättrad information till riksdagen studeras. Regeringen meddelar
+            i skrivelse 2000/01:75 att en redovisning redan skett för det
+            multilaterala biståndet i budgetpropositionen för 2001 och att
+            budgetpropositionen för 2002 beräknas innehålla en redovisning
+            för det bilaterala biståndet. Utskottet kan nu konstatera att
+            det i budgetpropositionen för nästa budgetår, utgiftsområde 7,
+            s. 66, framgår att bemyndiganderamen inom det bilaterala utvecklingssamarbetet
+            fr.o.m. 2002 kommer att baseras på de förpliktelser som förväntas
+            bli ingångna. Med andra ord avskaffas de tidigare använda multiplikatorerna,
+            som var anledningen till att riksdagen begärde en översyn. Enligt
+            vad utskottet erfarit pågår en fortsatt översyn av hur informationen
+            till riksdagen skall kunna förbättras i de avseenden utskottet
+            efterlyst. Riksdagen menade även, i enlighet med betänkandets
+            moment 73, att regeringen borde ges i uppdrag att se över formerna
+            för hur den utvärderingsverksamhet som finns utanför biståndsförvaltningen
+            kan stärkas. Regeringen svarar i skrivelse 2000/01:75 samt i budgetpropositionen
+            för år 2002 att resultatet av en sådan översyn beräknas kunna
+            redovisas under hösten 2001. Vid beredningen av detta yttrande
+            har utskottet dock erfarit att redovisningen troligen ej kommer
+            att göras förrän våren 2002. Utskottet kan vidare konstatera att
+            moment 75 i samma betänkande betecknas som slutbehandlat med motivering
+            att regeringen i december 2000 uppdragit åt Sida att utarbeta
+            kriterier för ett urval av ramorganisationer. I utskottets betänkande
+            framhålls emellertid att man utöver en studie kring kriterier
+            för urvalet även bör göra en mer övergripande översyn över de
+            enskilda organisationernas roll i utvecklingssamarbetet och att
+            denna också bör innehålla en utvärdering av Sidas samarbete med
+            enskilda organisationer. I utskottets betänkande anges att översynen
+            bör ske i former som regeringen bedömer vara lämpliga (bet. 1999/2000:UU2
+            s. 116). Utskottet har inhämtat att arbete inletts också vad avser
+            tillkännagivandets andra del. Utskottet måste dock konstatera
+            att med den redogörelse som ges i skrivelse 2000/01:75 kan momentet
+            inte till fullo anses vara slutbehandlat och utgår därför ifrån
+            att regeringen återkommer med en kompletterande redovisning. Den
+            skrivelse som återstår att slutbehandla från riksmötet 2000/01
+            gäller Sveriges medlemskap i det interamerikanska investeringsbolaget
+            (IIC). Regeringen aviserar att man avser ratificera anslutningsavtalet
+            under 2001. Stockholm den 25 oktober 2001 På utrikesutskottets
+            vägnar Viola Furubjelke Följande ledamöter har deltagit i beslutet:
+            Viola Furubjelke (s), Sören Lekberg (s), Berndt Ekholm (s), Lars
+            Ohly (v), Holger Gustafsson (kd), Bertil Persson (m), Carina Hägg
+            (s), Agneta Brendt (s), Marianne Jönsson (s), Murad Artin (v),
+            Sten Tolgfors (m), Marianne Samuelsson (mp), Marianne Andersson
+            (c), Karl-Göran Biörsmark (fp), Karin Enström (m), Hans Hjortzberg-Nordlund
+            (m) och Rosita Runegrund (kd). bilaga 5 Trafikutskottets yttrande
+            2001/02:TU1y Redogörelse för behandlingen av riksdagens skrivelser
+            till regeringen Till konstitutionsutskottet Inledning Konstitutionsutskottet
+            har den 15 maj 2001 anmodat övriga utskott att yttra sig över
+            regeringens skrivelse 2000/01:75 Redogörelse för behandlingen
+            av riksdagens skrivelser till regeringen. I skrivelsen redovisar
+            regeringen vilka åtgärder som vidtagits med anledning av de riksdagsbeslut
+            som meddelats i riksdagens skrivelser till regeringen. Redogörelsen
+            omfattar samtliga riksdagsskrivelser från det senaste kalenderåret
+            som är ställda till regeringen samt äldre riksdagsskrivelser som
+            inte tidigare har rapporterats som slutbehandlade. I yttrandet
+            behandlas riksdagsskrivelser med anledning av betänkanden från
+            trafikutskottet. Överväganden Redovisning av riksdagsskrivelser
+            I regeringens skrivelse redovisas sammanlagt 28 riksdagsskrivelser
+            som avser frågor som behandlas i betänkanden från trafikutskottet.
+            Som framgår av följande sammanställning redovisas 12 av dessa
+            som slutbehandlade. -----------------------------------------------------
+            ----------------------------------------------------- |Riksmöte
+            |Antal |Slutbehandlade|Inte | | |skrivelser | |slutbehandlade
+            | ----------------------------------------------------- |1994/95
+            | 1 | 0 | 1 | -----------------------------------------------------
+            |1995/96 | 0 | 0 | 0 | -----------------------------------------------------
+            |1996/97 | 1 | 0 | 1 | -----------------------------------------------------
+            |1997/98 | 6 | 0 | 6 | -----------------------------------------------------
+            |1998/99 | 2 | 1 | 1 | -----------------------------------------------------
+            |1999/2000 | 10 | 4 | 6 | -----------------------------------------------------
+            |2000/01[1] | 8 | 7 | 1 | -----------------------------------------------------
+            |Totalt | 28 | 12 | 16 | -----------------------------------------------------
+            1 Avser perioden den 19 september31 december 2000 Trafikutskottet
+            anser att regeringens skrivelse ger en god bild av de åtgärder
+            som regeringen vidtagit och beredningsläget för de ärenden som
+            inte är slutbehandlade. Riksdagsskrivelser med tillkännagivanden
+            Trafikutskottet har särskilt granskat regeringens handläggning
+            och de åtgärder som vidtagits med anledning av riksdagens tillkännagivanden
+            till regeringen. Utskottet har enligt redogörelsen gjort 16 tillkännagivanden
+            till regeringen i 14 skrivelser, varav 1 tillkännagivande hanteras
+            i två departement. Som framgår av följande sammanställning är
+            enligt regeringen 4 tillkännagivanden slutbehandlade. -----------------------------------------------------
+            **FOOTNOTES** [1]: -----------------------------------------------------
+            |Riksdagsskrivelse|Tillkännagivande |Beslutsläge| -----------------------------------------------------
+            |1994/95:232 |Återinförande av det |Inte | | |statliga | slutbehandlad
+            | | |fritidsbåtsregistret | | -----------------------------------------------------
+            |1997/98:11 |Minskning av antalet |Inte | | |mottagningsorter
+            för | slutbehandlad | | |förarprov | | -----------------------------------------------------
+            |1997/98:161 |Kontroll av lastsäkring |Inte | | | | slutbehandlad
+            | ----------------------------------------------------- |1997/98:192
+            |Medicinska krav för |Inte | | |taxiförare | slutbehandlad | -----------------------------------------------------
+            |1997/98:266 |Energi- och |Inte | | |koldioxidskatt | slutbehandlad
+            | ----------------------------------------------------- |1998/99:197
+            |Övergripande |Inte | | |trafiksäkerhetsåtgärder | slutbehandlad
+            | | |(Inrättande av en | | | |vägtrafikinspektion) | | -----------------------------------------------------
+            |1998/99:237 |Adressändring | Slutbehandlad | | | | | | |Definitionen
+            i postlagen | Slutbehandlad | | |av begreppet postal | | | |infrastruktur
+            | | ----------------------------------------------------- |1999/2000:147|Planeringsprocessen
+            för |Inte | | |vägar och järnvägar | slutbehandlad | | |(avser
+            | | | |Näringsdepartementets | | | |ansvarsområde) | | -----------------------------------------------------
+            |1999/2000:148|Planeringsprocessen för |Inte | | |vägar och järnvägar
+            | slutbehandlad | | |(avser | | | |Miljödepartementets | | | |ansvarsområde)
+            | | ----------------------------------------------------- |1999/2000:166|Inrättande
+            av en |Inte | | |trafikofferjour | slutbehandlad | | | | | | |Ansvaret
+            för lastsäkring |Inte | | | | slutbehandlad | -----------------------------------------------------
+            |1999/2000:189|Tillsynsmyndighetens |Inte | | |roll på teleområdet
+            | slutbehandlad | -----------------------------------------------------
+            |1999/2000:238|Påföljdssystem för |Inte | | |utländska fordons-förare
+            | slutbehandlad | -----------------------------------------------------
+            |1999/2000:256|Ökad konkurrens på | Slutbehandlad | | |accessnäten
+            | | ----------------------------------------------------- |2000/01:80
+            |Vidgade statliga |Inte | | |insatser för | slutbehandlad | |
+            |sjöfartsnäringen | | | | | Slutbehandlad | | |Motorflygklubbarnas
+            | | | |verksamhetsförutsättningar| | -----------------------------------------------------
+            Enligt vad utskottet erfarit har regeringen sedan skrivelsen färdigställdes
+            vidtagit ytterligare åtgärder som berör flera av ovanstående ärenden.
+            Fortfarande räknar dock regeringen med att flertalet riksdagsskrivelser
+            med tillkännagivanden inte kommer att bli slutbehandlade under
+            innevarande riksmöte. Den inom utskottets beredningsområde äldsta
+            inte slutbehandlade skrivelsen med tillkännagivande är från riksmötet
+            1994/95. Den gäller frågan om återinförande av det statliga fritidsbåtsregistret.
+            I redovisningen av beredningsläget hänvisas till budgetpropositionen
+            för år 2001 där det anges att regeringen avser att ge en särskild
+            utredare i uppdrag att utreda de närmare förutsättningarna för
+            hur ett allmänt fritidsbåtsregister bör vara utformat. Motsvarande
+            avsiktsförklaring återkommer i budgetpropositionen för år 2002
+            där det meddelas att regeringen ämnar ge en särskild utredare
+            i uppdrag att bl.a. belysa möjligheterna att införa en obligatorisk
+            ansvarsförsäkring för ägare av fritidsbåtar och hur ett allmänt
+            fritidsbåtsregister bör vara utformat (prop. 2000/01:1 utg.omr.
+            22, s. 82). Enligt vad utskottet erfarit planeras det aviserade
+            utredningsarbetet påbörjas under senare delen av år 2001. Utskottet
+            konstaterar därmed att ännu efter drygt sex år är denna skrivelse
+            inte slutbehandlad. Trafikutskottet konstaterar vidare att beträffande
+            några tillkännagivanden redovisas att beredning pågår sedan en
+            längre tid utan att uppgift lämnas om vad som återstår att göra
+            eller orsaken till dröjsmålet. Enligt utskottets mening är det
+            viktigt att riksdagsskrivelser med tillkännagivanden bereds utan
+            onödig tidsutdräkt. Om det föreligger omständighet som hindrar
+            ett genomförande av beslutet bör detta snarast redovisas för riksdagen.
+            Utskottet anser vidare att redovisningen av planerade åtgärder
+            är viktig för utskottet vid dess arbete med uppföljning och utvärdering
+            av de äldre riksdagsskrivelserna. För riksdagens tillkännagivanden
+            är det angeläget med en redovisning av när ärendet bedöms komma
+            att slutbehandlas eller när regeringen avser att återkomma till
+            riksdagen i frågan. Uppföljning av riksdagsskrivelser Riksdagen
+            skall enligt Riksdagskommittén i ökad utsträckning följa upp och
+            utvärdera fattade beslut för att åstadkomma ett bättre berednings-
+            och beslutsunderlag. Utskottsarbetet skall mot denna bakgrund
+            förskjutas mer mot uppföljning och utvärdering. En viktig del
+            i detta arbete är regeringens årliga redovisning av hur riksdagens
+            skrivelser har behandlats. Med hänsyn till att denna sammanställning
+            huvudsakligen redovisar åtgärder som vidtagits under föregående
+            kalenderår ger dock redovisningen oftast inte någon aktuell bild
+            av vidtagna åtgärder. Den nu aktuella sammanställningen avser
+            exempelvis huvudsakligen åtgärder som regeringen vidtagit under
+            tiden den 1 januari 31 december 2000.Vid sitt uppföljningsarbete
+            tvingas därför utskottet ofta att ta fram kompletterande information.
+            Enligt trafikutskottets mening skulle uppföljningsarbetet underlättas
+            om det fanns tillgång till en kompletterande informationskälla
+            som innehåller aktuella uppgifter om vilka åtgärder som regeringen
+            vidtar med anledning av riksdagens ställningstaganden. Detta behov
+            skulle kunna tillgodoses genom utveckling av ett IT-baserat informationssystem
+            som löpande redovisar de åtgärder som vidtagits med anledning
+            av olika riksdagsbeslut. Informationssystemet Rixlex ger bra information
+            när det gäller att följa ett ärende från förslag till riksdagsbeslut.
+            Däremot är det ofta svårare att klarlägga vilka åtgärder som vidtas
+            med anledning av olika riksdagsbeslut. Med ett IT-baserat informationssystem
+            med sökmöjlighet på enskilda riksdagsskrivelser i Regeringskansliets
+            diariesystem skulle redovisningen vinna såväl i aktualitet som
+            tillgänglighet och därmed främja riksdagens granskningsverksamhet.
+            Det är sålunda önskvärt att komplettera regeringens redovisning
+            med en utförlig beskrivning av beredningsläget och redovisning
+            av planerade åtgärder beträffande de ärenden som inte är slutbehandlade.
+            För en sådan förändring talar också att den nuvarande utformningen
+            av regeringens redogörelse inte är helt lättillgänglig. Detta
+            torde förklara varför det nästan aldrig väcks någon motion med
+            anledning av redovisningen. Inte heller brukar redogörelsen ge
+            upphov till någon offentlig debatt trots att skrivelsen beskriver
+            regeringens hantering av viktiga politiska frågor. Enligt trafikutskottets
+            mening bör mot denna bakgrund prövas om uppföljningen av riksdagsskrivelsernas
+            behandling kan vidareutvecklas. Även formerna för regeringens
+            redovisning till riksdagen bör övervägas i detta sammanhang. Regeringens
+            skrivelse blir som redan nämnts förhållandevis snabbt inaktuell.
+            Den nu aktuella skrivelsen överlämnades av regeringen i april
+            2001 och avser huvudsakligen åtgärder som vidtagits under tiden
+            1 januari31 december 2000. Konstitutionsutskottet har därefter
+            den 15 maj 2001 anmodat övriga utskott att yttra sig över skrivelsen
+            senast den 26 oktober 2001. Det har därför varit nödvändigt att
+            datera upp regeringens redovisning av behandlingen av enskilda
+            skrivelser. För att uppnå en mer aktuell behandling bör det övervägas
+            att genomföra riksdagsbehandlingen under våren. Därmed skulle
+            även en tidsmässig samordning kunna ske med den fördjupade resultatredovisning
+            från regeringen till riksdagen som avses införas successivt med
+            början våren 2002. Slutligen vill utskottet framhålla att redogörelsens
+            register över riksdagsskrivelserna fördelade på olika utskott
+            fyller en viktig funktion. Med hänsyn till att beslut inom trafikutskottets
+            beredningsområde i vissa fall redovisas under andra utskott, t.ex.
+            riksdagens beslut om tilläggsbudget, krävs dock ytterligare insatser
+            för att klarlägga vilka moment som ingår i utskottets ansvarsområde.
+            Det bör mot denna bakgrund övervägas hur skrivelsens register
+            kan vidareutvecklas. Sammanfattning Trafikutskottet anser att
+            regeringens skrivelse ger en god bild av de åtgärder som regeringen
+            vidtagit och beredningsläget för de ärenden som inte är slutbehandlade.
+            För riksdagsskrivelser med tillkännagivanden till regeringen konstateras
+            att behandlingen av vissa ärenden har pågått sedan en längre tid
+            utan att uppgift lämnas om när ärendena beräknas kunna bli slutbehandlade.
+            Enligt utskottets mening är det viktigt att riksdagsskrivelser
+            med tillkännagivanden bereds utan onödig tidsutdräkt. Slutligen
+            anser trafikutskottet att uppföljningen av riksdagsskrivelserna
+            bör utvecklas. Det gäller bl.a. hur regeringens redovisning kan
+            vidareutvecklas och om ett IT-baserat informationsstöd kan tas
+            fram som stöd för granskning av hur riksdagens beslut genomförs.
+            Stockholm den 16 oktober 2001 På trafikutskottets vägnar Monica
+            Öhman Följande ledamöter har deltagit i beslutet: Monica Öhman
+            (s), Sven Bergström (c), Per-Richard Molén (m), Jarl Lander (s),
+            Hans Stenberg (s), Karin Svensson Smith (v), Johnny Gylling (kd),
+            Tom Heyman (m), Krister Örnfjäder (s), Monica Green (s), Inger
+            Segelström (s), Stig Eriksson (v), Tuve Skånberg (kd), Birgitta
+            Wistrand (m), Mikael Johansson (mp), Jeppe Johnsson (m) och Elver
+            Jonsson (fp). bilaga 6 Protokollsutdrag från miljö- och jordbruksutskottet
+            Bilaga till protokoll 2001/02:2 § 3 Utskottet beslutar avge följande
+            yttrande till konstitutionsutskottet över regeringens skrivelse
+            med redogörelse för behandlingen av riksdagens skrivelser till
+            regeringen. Utskottet har granskat redogörelsen i skrivelse 2000/01:75
+            i de delar som omfattar Jordbruksdepartementets, Miljödepartementets
+            och delvis Näringsdepartementets verksamhetsområden. Granskningen
+            föranleder ett påpekande avseende Jordbruksdepartementets ärende
+            11 (regeringens skrivelse s. 101- 102) . Påpekandet gäller riksdagsskrivelse
+            2000/01:86 (bet. 2000/0l :MJU2). Enligt regeringens redogörelse
+            är skrivelsen slutbehandlad. F redogörelsen saknas dock moment
+            3 i utskottets hemställan. Momentet innehåller ett tillkännagivande
+            angående fortsatt stöd till omarrondering. Eftersom ifrågavarande
+            ärende saknas i årets redogörelse anser utskottet att regeringen
+            i kommande skrivelse till riksdagen med redogörelse för behandlingen
+            av riksdagens skrivelser till regeringen bör redovisa om ifrågavarande
+            ärende har slutbehandlats eller ej. Skrivelsen föranleder i övrigt
+            inga kommentarer från utskottets sida. bilaga 7 Protokollsutdrag
+            från arbetsmarknadsutskottet Bilaga 5 till arbetsmarknadsutskottets
+            protokoll 200l/02:4 Till konstitutionsutskottet Yttrande med anledning
+            av regeringens skrivelse 2000/01:75 Redogörelse för behandlingen
+            av riksdagens skrivelser till regeringen Konstitutionsutskottet
+            har den 15 maj 2001 beslutat anmoda övriga utskott att yttra sig
+            över skrivelsen. Totalt redovisas 19 skrivelser under arbetsmarknadsutskottet
+            i det register som ingår i skrivelsen. En av skrivelserna, 1997/98:204,
+            avser regionalpolitik som numera bereds i näringsutskottet och
+            två av dem, 2000/01:104 och 2000/01:105, avser anslag för Arbetsgivarverket
+            respektive Statens pensionsverk vilka numera bereds i finansutskottet.
+            När det gäller de skrivelser som anges som inte: slutbehandlade
+            kan följande kommentarer lämnas. Den punkt under vilken redovisning
+            sker i skrivelsen återfinns inom parentes. :1. (Juli) Riksdagsskrivelsen
+            härrör från 1993/94 och avser JO:s och JK: s roller. Tillkännagivandet
+            gjordes i anslutning till behandlingen av propositionen om en
+            ny lagstiftning för statsanställda. Arbetsmarknadsutskottet har
+            tidigare kommenterat denna skrivelse (bilaga 2 till arbetsmarknadsutskottets
+            protokoll 1999/2000:6) i sitt yttrande till konstitutionsutskottet
+            med anledning av motsvarande regeringsskrivelse för två år sedan
+            (skr. 1998/99:75). Arbetsmarknadsutskottet konstaterade vid denna
+            tidpunkt att regeringen inte, mer än fem år efter det att tillkännagivandet
+            gjordes, hade slutbehandlat riksdagsskrivelsen eller mer utförligt
+            redovisat skälen till dröjsmålet med detta. Utskottet fann detta
+            mycket anmärkningsvärt. Konstitutionsutskottet instämde i denna
+            kritik och underströk starkt vikten av att regeringen utan ytterligare
+            dröjsmål skulle slutbehandla skrivelsen (1999/2000:KU10). Efter
+            det att arbetsmarknadsutskottet för ett år sedan tagit del av
+            regeringens redovisning av den berörda skrivelsen hade utskottet
+            ingen erinran mot att ärendet kvarstod som icke slutbehandlat.
+            Utskottet förutsatte dock att de av regeringen aviserade åtgärderna
+            skulle vidtas och att skrivelsen kunde slutbehandlas utan ytterligare
+            dröjsmål (bilaga 7 till arbetsmarknadsutskottets protokoll 2000/2001:5).
+            Utöver vad som framkommer av den nu aktuella skrivelsen har arbetsmarknadsutskottet
+            inhämtat att en departementspromemoria utarbetats på uppdrag av
+            Justitiedepartementet (PM 2001- 06-07 Statens ansvarsnämnds funktion
+            och kompetensområde, m.m., dnr Ju1999/205/PP) där bl.a. förslag
+            om JO:s och JK:s roller vid arbetsrättsliga ingripanden läggs
+            fram. Promemorian remissbehandläs för närvarande. Utskottet förutsätter
+            att regeringen efter den nu pågående remissbehandlingen utan ytterligare
+            dröjsmål slutbehandlar skrivelsen. 2. (N15) Riksdagsskrivelsen
+            härrör från l998/99 och avser anslagen på utgiftsområde 14 för
+            1999. I den del av skrivelsen som inte är slutbehandlad och som
+            avser hemställans mom. 49 delmoment g godkänner riksdagen införande
+            av ett flyttningsbidrag till de övriga nordiska länderna för dem
+            som är eller riskerar att bli arbetslösa. Enligt den nu aktuella
+            skrivelsen pågår förhandlingar i frågan efter det att Nordiska
+            ministerrådets ämbetsmannakommitte för arbetsmarknad och arbetsliv
+            (ÄK- A) mottagit ett yttrande från EG-kommissionen, enligt vilket
+            flyttstödet är förenligt med Romfördragets artikel 39. Enligt
+            vad utskottet inhämtat har frågan om nordiskt flyttstöd under
+            hösten 2001, alltså efter det att regeringsskrivelsen avlämnats,
+            behandlats i Nordiska ministerrådets ämbetsmannakommitte för arbetsmarknadsfrågor.
+            Avsikten är att de nordiska samarbetsministrarna vid ett gemensamt
+            möte i slutet av oktober 2001 skall informeras om den aktuella
+            frågan. Arbetsmarknadsutskottet har ingen erinran mot att skrivelsen
+            kvarstår som inte slutbehandlad. 3. (N16) Riksdagsskrivelsen härrör
+            från 1998199 och avser ny lagstiftning mot diskriminering i arbetslivet.
+            I den del av skrivelsen som inte är slutbehandlad avser den ett
+            tillkännagivande om samordnad lagstiftning: I detta sammanhang
+            erinrar arbetsmårknadsutskottet:om att konstitutionsutskottet
+            uttalat att en utredning borde tillsättas med uppgift att undersöka
+            om det finns förutsättningar att slå samman några eller samtliga
+            ombudsmän som är underställda regeringen till en institution (bet.
+            2000/0l :KU3). Frågan om huvudmannaskapet för dessa ombudsmän
+            måste enligt konstitutionsutskottet ses i ljuset av, de uppgifter
+            ombudsmännen, tilldelas. Riksdagen beslutade efter förslag från
+            konstitutionsutskottet att ställa sig bakom ett tillkännagivande
+            till regeringen med denna innebörd (rskr. 2000/01:35). Upplysningsvis
+            kan nämnas att denna fråga behandlas under punkt N58 i den nu
+            aktuella riksdagsskrivelsen. Enligt skrivelsen har regeringen
+            för avsikt att låta utreda möjligheterna till en generell lagstiftning
+            mot diskriminering som omfattar alla eller flertalet diskrimineringsgrunder
+            och samhällsområden. Av budgetpropositionen för år 2002 (grop.
+            200l/02:1 utgiftsområde 14) framgår att regeringen har för avsikt
+            att tillsätta en utredning inom kort. Ärendet bereds således vidare.
+            Arbetsmarknadsutskottet har ingen erinran mot att skrivelsen kvarstår
+            som inte slutbehandlad. 4. (N22) Riksdagsskrivelsen härrör från
+            1999/2000 och avser behandling av budgetpropositionen för år 2000,
+            anslag för utgiftsområdena 13 och 14. Riksdagsskrivelsen är inte
+            slutbehandlad i tre olika delar. Hemställans mom. 9 avser ett
+            tillkännagivande om behovet av en översyn av bemanningsföretagen.
+            I skrivelsen anges att regeringen under våren 2001 kommer att
+            fatta beslut om en översyn. Enligt vad arbetsmarknadsutskottet
+            erfarit är avsikten att ett beslut om översynen skall fattas under
+            hösten 2001. Hemställans mom. 32 avser ett tillkännagivande om
+            försäkring av arbetshjälpmedel. I det betänkande som låg till
+            grund för tillkännagivandet gjorde utskottet bedömningen att kostnaderna
+            för försäkring av arbetshjälpmedel i vissa fall kan utgöra ett
+            hinder i synnerhet för allmännyttiga organisationer och små företag.
+            Utskottet ansåg därför att det borde övervägas vilka möjliga åtgärder
+            som kan vidtas för att undanröja detta problem. I skrivelsen redovisar
+            regeringen att den uppdragit åt Arbetsmarknadsstyrelsen att i
+            samråd med Riksförsäkringsverket och Kammarkollegiet genomföra
+            en utredning. Vidare anges att frågan skall behandlas i budgetpropositionen
+            för år 2002. Av budgetpropositionen framgår att AMS i sin redovisning
+            av utredningsuppdraget konstaterat att frågan om försäkring av
+            arbetshjälpmedel inte uppfattas som ett problem som motiverar
+            ett avtal för skadehantering. Regeringen avser därför inte att
+            vidta några åtgärder i den aktuella frågan. Hemställans mom. 37
+            om anslag på utgiftsområde 14 för 2000, delmoment j, avser ett
+            tillkännagivande om lönebidrag i bestående anställningsförhållanden.
+            I det betänkande som låg till grund för det aktuella tillkännagivandet
+            uttalade utskottet att man bör överväga om det finns situationer
+            när det kan vara befogat med lönebidrag även i ett bestående anställningsförhållande
+            men underströk samtidigt att en sådan möjlighet inte får innebära
+            att arbetsgivarens allmänna ansvar för arbetstagarens rehabilitering
+            minskar. Regeringen anger i skrivelsen att den avser att behandla
+            frågan i budgetpropositionen för 2002. Av budgetpropositionen
+            framgår att regeringen avser att göra en samlad översyn av hur
+            de arbetshandikappades ställning skall stärkas på framtidens arbetsmarknad.
+            Enligt vadutskottet erfarit är avsikten att frågan om lönebidrag
+            i bestående anställningsförhållanden skall behandlas i en sådan
+            översyn: Arbetsmarknadsutskottet har ingen erinran mot att skrivelsen
+            i de aktuella delarna tills vidare kvarstår som inte slutbehandlad.
+            S. (N30) Riksdagsskrivelsen härrör från 1999/2000 och avser i
+            den del som inte är slutbehandlad etttillkännagivande om en utredning
+            av arbetsrätten mm. Av skrivelsen framgår att ett översynsuppdrag
+            lämnats till Arbetslivsinstitutet och att detta skall redovisas
+            senast den 31 december 2001. Enligt vad utskottet erfarit har
+            regeringen efter det att skrivelsen avlämnades förlängt tidsramen
+            för översynsuppdraget som skall avslutas senast den 31 oktober
+            2002 och därvid även givit institutet i uppdrag att överväga om
+            det finns behov av att förstärka skyddet för föräldralediga. Utskottet
+            har mot denna bakgrund ingen erinran mot att skrivelsen tills
+            vidare kvarstår som inte slutbehandlad. 6.. (N66) Riksdagsskrivelsen
+            härrör från 2000/01 och avser i den nu berörda delen, hemställans
+            mom. 34, ett tillkännagivande om en översyn av regelverket med
+            anledning av användandet av elektroniska ansökningar till arbetslöshetskassorna.
+            Av regeringens skrivelse framgår att ärendet bereds. Arbetsmarknadsutskottet
+            har ingen erinran mot att skrivelsen tills vidare kvarstår som
+            inte slutbehandlad. 7. (N67) Riksdagsskrivelsen härrör från 2000/01
+            och avser i nu berörd del, hemställans mom. 44, ett tillkännagivande
+            om det samlade stödet till arbetshandikappade. Tillkännagivandet
+            gjordes i anslutning till behandlingen av budgetpropositionen
+            för år 2001. I det utskottsbetänkande som låg till grund för tillkännagivandet
+            underströk arbetsmarknadsutskottet behovet av ett samlat grepp
+            över insatserna för stöd till arbetshandikappade och förutsatte
+            att regeringen skulle komma att beakta de synpunkter som framförts
+            av bl.a. RRV. Utskottet ansåg att regeringen vid behov skulle
+            återkomma till riksdagen med förslag på åtgärder. Av regeringens
+            skrivelse framgår att regeringen avser att behandla frågan i budgetpropositionen
+            för 2002. Som nämnts aviserar regeringen i budgetpropositionen
+            en samlad översyn av hur de arbetshandikappades ställning skall
+            stärkas på framtidens arbetsmarknad. Arbetsmarknadsutskottet har
+            ingen erinran mot att skrivelsen tills vidare kvarstår som inte
+            slutbehandlad. Sammanlagt redovisas elva skrivelser som slutbehandlade,
+            varav två är äldre än fyra år. I åtta fall är det fråga om utfärdande
+            av lagar, i två fall utfärdande av regleringsbrev och i ett fall
+            redovisas hur ett tillkännagivande har behandlats av regeringen.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

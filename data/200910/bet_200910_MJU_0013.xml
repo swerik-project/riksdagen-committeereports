@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200910_MJU_0013">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sa nej till sju motioner gällande jakt och viltvård. Förslagen, som lämnades in under den allmänna motionstiden 2009, berör bland annat frågor om jakt ovan odlingsgränsen, jakt inom EU och jakttider för vissa fågelarter.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Nej till motioner om jakt- och viltvård (MJU13)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Avslag på samtliga motioner.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GX0964</idno>
+              <title>2010-01-27</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">64</biblScope>
+              <note type="display-reference">2010-01-27</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GX0964</idno>
+              <title>2010-01-27</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">64</biblScope>
+              <note type="display-reference">2010-01-27</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02MJ279</idno>
+              <title>Nationell viltvård</title>
+              <title type="sub">av Alf Eriksson m.fl. (S)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">MJ279</biblScope>
+              <note type="display-reference">motion 2009/10:MJ279 Nationell viltvård</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02MJ365</idno>
+              <title>Utökad jakt</title>
+              <title type="sub">av Cecilia Widegren (M)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">MJ365</biblScope>
+              <note type="display-reference">motion 2009/10:MJ365 Utökad jakt</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02MJ396</idno>
+              <title>Avskaffande av s.k. dubbelregistrering vid älgjakt</title>
+              <title type="sub">av Krister Hammarbergh (M)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">MJ396</biblScope>
+              <note type="display-reference">motion 2009/10:MJ396 Avskaffande av s.k. dubbelregistrering vid älgjakt</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02MJ415</idno>
+              <title>Fjälljakt</title>
+              <title type="sub">av Karl Gustav Abramsson m.fl. (S)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">MJ415</biblScope>
+              <note type="display-reference">motion 2009/10:MJ415 Fjälljakt</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02MJ453</idno>
+              <title>Fällor vid vildsvinsjakt</title>
+              <title type="sub">av Ulrika Carlsson i Skövde och Karin Nilsson (C)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">MJ453</biblScope>
+              <note type="display-reference">motion 2009/10:MJ453 Fällor vid vildsvinsjakt</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2010-01-18">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="DEL" subtype="beredning" n="90" when="2010-01-07">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2010-01-07">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-12-18">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-12-18">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-12-10">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-12-10">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-12-10">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-11-19">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-11-19">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2010-01-27">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2010-01-27">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-01-27">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-01-27">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-01-26">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-01-26">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-01-25">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-01-25">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Miljö- och jordbruksutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2009/10:MJU13
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Jakt och viltvård
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACJ0X" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlas sju motionsyrkanden från den allmänna
+            motionstiden 2009 om jakt och viltvård. Yrkandena berör bl.a.
+            frågor om jakt ovan odlingsgränsen, jakt inom EU och jakttider
+            för vissa fågelarter. Flertalet motionsyrkanden rör frågor där
+            riksdagen delegerat beslutanderätten till regeringen och till
+            de myndigheter som har särskild sakkunskap på området. Utskottet
+            föreslår att samtliga motionsyrkanden avstyrks, i huvudsak med
+            hänvisning till gällande regelverk och det arbete som pågår på
+            området. I betänkandet finns 2 reservationer och 1 särskilt yttrande.
+          </p>
+          <p xml:id="IDAJJ0X" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Jakt och viltvård på EU-nivå
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2009/10:MJ279.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 1 (s)
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Allmän jakt m.m.
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motionerna 2009/10:MJ365 yrkandena 24 och 2009/10:MJ453
+                  yrkande 1.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  3.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Fjälljaktsreformen m.m.
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motionerna 2009/10:MJ396 och 2009/10:MJ415.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 2 (s, v, mp)
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 10 december 2009
+          </p>
+          <p>
+            På miljö- och jordbruksutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Anders Ygeman
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Anders Ygeman (s),
+            Claes Västerteg (c), Ola Sundell (m), Carina Ohlsson (s), Sofia
+            Arkelsten (m), Bo Bernhardsson (s), Anita Brodén (fp), Ann-Kristine
+            Johansson (s), Lars Hjälmered (m), Jan-Olof Larsson (s), Irene
+            Oskarsson (kd), Rune Wikström (m), Wiwi-Anne Johansson (v), Erik
+            A Eriksson (c), Tina Ehn (mp), Staffan Appelros (m) och Aleksander
+            Gabelic (s).
+          </p>
+          <p xml:id="IDA4Q1X" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDABR1X" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I betänkandet behandlas motionsyrkanden från den allmänna motionstiden
+            2008 om jakt och viltvård. Yrkandena omfattar frågor om bl.a.
+            jakt ovan odlingsgränsen, jakt inom EU och jakttider för vissa
+            fågelarter. Nu aktuella yrkanden har tidigare under mandatperioden
+            behandlats av utskottet i betänkandena 2006/07:MJU10, 2007/08:MJU11,
+            2007/08:MJU14 och 2008/09:MJU11.
+          </p>
+          <p xml:id="IDAIR1X" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAMR1X" rend="rubrik2">
+            Jakt och viltvård på EU-nivå
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDASR1X" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen avslår en motion (s) om att subsidiaritetsprincipen
+                ska gälla för jakt- och viltvårdsfrågor huvudsakligen med hänvisning
+                till gällande regelverk och pågående arbete inom EU.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation 1 (s).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA5R1X" rend="r3">
+              Motionen
+            </p>
+            <p>
+              Enligt motion MJ279 (s) diskuteras viltvårdsfrågorna allt oftare
+              i EU-sammanhang, och det ställs krav på gemensamma åtgärder utan
+              hänsyn till geografiska förutsättningar eller mångåriga traditioner.
+              Sådana åtgärder väcker stor irritation bland breda grupper av
+              den naturintresserade befolkningen och skadar förtroendet för
+              hela EU-samarbetet. Motionärerna anser därför att regeringen under
+              ministerrådsmöten och vid kontakter med EU-kommissionen ska framhålla
+              att dessa frågor är nationella och ska lämnas utanför den gemensamma
+              lagstiftningen. Subsidiaritetsprincipen och den nationella rätten
+              i lagstiftningsfrågor om jakt och viltvård måste hävdas.
+            </p>
+            <p xml:id="IDAFS1X" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              I maj 2006 antog EU-kommissionen meddelandet Att stoppa förlusten
+              av biologisk mångfald till 2010 och därefter. Att upprätthålla
+              ekosystemtjänster för mänskligt välbefinnande. Enligt meddelandet
+              är skyddet av den biologiska mångfalden en förutsättning för en
+              hållbar utveckling. Meddelandet innehåller också en detaljerad
+              handlingsplan för hur detta ska uppnås. EU-kommissionens meddelande
+              om gemenskapens politik för den biologiska mångfalden 20072013
+              och handlingsplanen är ett svar på Europeiska rådets åtagande
+              i Göteborg 2001 att hejda förlusten av biologisk mångfald inom
+              EU till 2010 och på EU:s åtagande vid toppmötet om hållbar utveckling
+              i Johannesburg 2002 att avsevärt minska den globala förlusten
+              av biologisk mångfald. Vid Europeiska rådets vårmöte 2008 upprepades
+              rådets fasta vilja att intensifiera ansträngningarna för att stoppa
+              förlusten av biologisk mångfald till 2010 och därefter. I handlingsplanen
+              ingår genomförandet av de s.k. naturvårdsdirektiven (art- och
+              habitatdirektivet 92/43/EEG respektive fågeldirektivet 79/409/EEG),
+              som enligt EU-kommissionen är själva kärnan i EU:s politik för
+              biologisk mångfald och som även utgör den rättsliga grunden för
+              Natura 2000-nätet av skyddade områden. Enligt artikel 17.1 i art-
+              och habitatdirektivet ska medlemsstaterna vart sjätte år rapportera
+              om genomförandet av de åtgärder som har vidtagits till följd av
+              direktivet. Därefter ska EU-kommissionen enligt artikel 17.2 utarbeta
+              en sammanfattande rapport på grundval av medlemsländernas rapporter.
+              Enligt vad utskottet inhämtat från Miljödepartementet redovisade
+              kommissionen sin första sammanfattande rapport den 13 juli 2009
+              avseende tiden 20012006, KOM (2009)358. Frågan om eventuella åtgärder
+              med anledning av rapporten bereds för närvarande i kommissionens
+              samordningsgrupp för biologisk mångfald.
+            </p>
+            <p>
+              Vidare bör det uppmärksammas att rådsslutsatserna från miljörådet
+              i mars 2009 underströk behovet av att etablera, senast vid mitten
+              av 2010, en vision och mål bortom 2010 för bevarande och hållbart
+              nyttjande av biologisk mångfald inom EU, som bygger på och bidrar
+              till det globala målet för biologisk mångfald bortom 2010. Enligt
+              vad utskottet erfarit planerar kommissionen med anledning av detta
+              att ta fram ett meddelande som berör förslag till ett EU-internt
+              mål för biologisk mångfald efter 2010. Viktiga aspekter som det
+              finns planer på att ta upp i meddelandet är brister i måluppfyllelse
+              vad gäller befintligt mål samt integrering av klimatfrågor och
+              ekosystemtjänster. Mätbarhet i målet och kommunicerbarhet är andra
+              viktiga aspekter som planeras att tas upp. Frågorna kommer sedan
+              att behandlas av arbetsgrupper och tas upp i rådsslutsatser under
+              det spanska ordförandeskapet. Man siktar på att vara klar med
+              detta i mitten av 2010. Processen med det internationella målet
+              kommer att pågå parallellt med processen med EU-målet under det
+              spanska ordförandeskapet och vidare in i det belgiska med sikte
+              på beslut i CBD COP 10 i oktober 2010 samt att det tas upp vid
+              FN:s generalförsamlings möte i slutet av samma år.
+            </p>
+            <p>
+              Enligt Miljödepartementet utvärderar kommissionen nu utfallet
+              av genomförandet av BAP (Biodiversity Action Plan). Denna utvärdering
+              kommer att bli mer rigorös än tidigare utvärderingar. EU:s medlemsstater
+              har i uppdrag att redovisa genomförda aktiviteter senast den 19
+              februari 2010. Kommissionen planerar att redovisa resultatet under
+              våren 2010, och detta kommer att vara ett viktigt underlag vid
+              formuleringen av EU-interna mål.
+            </p>
+            <p>
+              Senast våren 2009 behandlade utskottet frågan om subsidiaritetsprincipens
+              tillämpning när det gäller jakt och viltvård. Då framhölls bl.a.
+              följande. Subsidiaritetsprincipen gäller på de områden där EU
+              och medlemsländerna delar rätten att fatta beslut. Principen innebär
+              att en åtgärd ska vidtas på gemenskapsnivå endast om EU kan agera
+              mer effektivt än varje medlemsstat för sig. Alla institutioner
+              inom gemenskapen måste följa principen när de utövar sina befogenheter.
+              EU-kommissionen måste företa omfattande samråd innan den lägger
+              fram lagförslag. Dessutom måste den i motiveringen till varje
+              lagförslag ange på vilket sätt förslaget är förenligt med subsidiaritetsprincipen
+              samt ta hänsyn till den börda som läggs på gemenskapen, medlemsstaternas
+              regeringar, de lokala myndigheterna, näringslivet och medborgarna.
+              Utskottet erinrade vidare om beredningen av kommissionens förslag
+              till förordning om handel med sälprodukter. Enligt den svenska
+              ståndpunkten var den rättsliga grunden tveksam. Det framhölls
+              vidare att förslaget att kommissionen ska godkänna ländernas lagstiftning
+              på ytterst detaljerad nivå gick stick i stäv med subsidiaritetsprincipen
+              och den princip om förenklingar som för närvarande bedrivs inom
+              EU (bet. 2008/09:MJU11).
+            </p>
+            <p>
+              Den 27 juli 2009 fattade Gaerc (ministerrådsmötet för allmänna
+              frågor och yttre förbindelser) formellt beslut om att anta "sälförordningen"
+              med syfte att förbjuda handeln med sälprodukter i EU. Som redovisats
+              ovan motarbetade Sverige förordningen eftersom det bl.a. ansågs
+              som orimligt att inte kunna ta till vara viltresurser från hållbar
+              jakt, där sälarna dödats med vetenskapligt godkända metoder. Sverige
+              röstade till slut för förslaget (med röstförklaring) eftersom
+              svenska önskemål om undantag ansågs tillgodosedda.
+            </p>
+            <p>
+              Med det anförda föreslås att motion MJ279 (s) lämnas utan vidare
+              åtgärd i den mån den inte kan anses tillgodosedd.
+            </p>
+            <p xml:id="IDA1S1X" rend="rubrik2">
+              Allmän jakt m.m.
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDABT1X" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen avslår en motion (m) om jakt och skyddsjakt på korp,
+                jakt på morkulla och en översyn av jakttiderna för gäss med hänvisning
+                till gällande regelverk. Riksdagen avslår vidare en motion om
+                tillgång på fällor för jakt på vildsvin (c).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAIT1X" rend="r3">
+              Motionerna
+            </p>
+            <p>
+              Enligt motion MJ365 (m) yrkande 2 behöver Sverige se över möjligheterna
+              till undantag från fågeldirektivet men också hänvisa till vår
+              tradition och därmed återigen möjliggöra jakt på korp. Som ett
+              komplement till att förbättra direktiven bör man också se över
+              möjligheten att göra villkoren för skyddsjakt mer generösa. Vidare
+              uppmärksammas att morkullejakt har varit tillåtet i Sverige innan
+              vi gick med i Europeiska unionen. Finland med liknande tradition
+              har lyckats förhandla till sig ett undantag. Så gjorde inte Sverige.
+              Enligt motionären är det nu viktigt att se till att se över EU:s
+              gemensamma fågeldirektiv men också att hänvisa till vår tradition
+              och därmed återigen möjliggöra morkullejakt (yrkande 3). Vidare
+              framhålls att jakttiderna för gäss bör ses över (yrkande 4). Jordbrukare
+              tar sitt ensilage, djurfoder, under våren. Jakt på gäss tillåts
+              under sommaren och hösten, men inte på våren då det behövs som
+              mest för våra jordbrukare. I motion MJ453 (c) betonas vikten av
+              att underlätta användandet av fällor vid vildsvinsjakt. Det är
+              stor investering att köpa en vildsvinsfälla, därför borde de finnas
+              att låna till en rimlig kostnad. Om det finns fällor att låna
+              skulle det underlätta jakten för många jägare.
+            </p>
+            <p xml:id="IDAOT1X" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Rådets direktiv om bevarandet av vilda fåglar (79/409/EEG), det
+              s.k. fågeldirektivet, föreskriver att samtliga fågelarter som
+              naturligt förekommer inom den europeiska gemenskapens territorium
+              ska bevaras. Det innebär bl.a. att det finns ett generellt förbud
+              mot att avsiktligt döda sådana fåglar. Undantag medges dock för
+              arter som anges i direktivets bilaga 2. Dessa arter får jagas
+              i enlighet med nationell lagstiftning förutsatt att hänsyn tas
+              till populationsnivå, geografisk spridning och reproduktion inom
+              gemenskapen. Korp är inte en art som tas upp i bilaga 2. Således
+              medger inte fågeldirektivet att korpen omfattas av allmän jakt
+              enligt nationella regler. Det ovan beskrivna beslutsförfarandet
+              för genomförande av ändringar i art- och habitatdirektivet gäller
+              även fågeldirektivet. Utöver undantaget för arter som tas upp
+              i bilaga 2 kan undantag från jaktförbudet även medges till skydd
+              för vissa, utpekade intressen, förutsatt att det inte finns någon
+              annan lämplig lösning. Sådana särskilda intressen är t.ex. människors
+              hälsa och säkerhet, flygsäkerhet, att förhindra allvarlig skada
+              på gröda, boskap, skog, fiske och vatten samt att skydda flora
+              och fauna.
+            </p>
+            <p>
+              Fågeldirektivets regler är införda i den svenska jaktlagstiftningen.
+              Jakt på myndighets initiativ som syftar till att förebygga skador
+              av vilt regleras i 7 § jaktlagen (1987:259) och i 24 § jaktförordningen
+              (1987:905). Enligt dessa bestämmelser får länsstyrelsen besluta
+              om s.k. tvångsjakt på korp, om det finns påtagliga risker för
+              allvarliga skador orsakade av korp på grund av beståndets storlek.
+              Generella bestämmelser om skyddsjakt på enskilds initiativ finns
+              i 26 § jaktförordningen och bilaga 4 till denna förordning. Vad
+              gäller skyddsjakt på korp föreskrivs bl.a. följande. Jakträttshavare
+              får under hela året bedriva jakt på korp i en anläggning för att
+              där förhindra skada eller annan olägenhet, på mark med jordbruksgrödor
+              eller som används till yrkesmässig trädgårdsodling om djuren där
+              orsakar skada på grödor och odling samt om jakten sker på särskilt
+              uppdrag av den eller de kommunala nämnder som fullgör uppgifter
+              inom miljö- och hälsoskyddsområdet. Korp som uppträder vid flygplatser
+              får jagas under hela året. Korp får även jagas under hela året
+              om det behövs för att skydda ungar av tamdjur inom områden för
+              uppfödning av tamdjur och i renskötselområdets kalvningsland.
+            </p>
+            <p>
+              Genom en ändring i jaktförordningen tillåts fr.o.m. den 1 juli
+              2009 skyddsjakt på korp hela året även inom områden för viltuppfödning,
+              hönsgårdar eller liknande anläggningar samt inom ett avstånd av
+              200 meter från sådana anläggningar, om det behövs för att förhindra
+              skada inom anläggningarna.
+            </p>
+            <p>
+              Slutligen kan länsstyrelsen enligt 31 § 2 jaktförordningen ge
+              tillstånd till en selektiv jakt på ett litet antal djur under
+              strängt kontrollerade förhållanden, om det behövs för att tillgodose
+              viltförvaltningen, s.k. licensjakt. Ytterligare förutsättningar
+              för licensjakt är att det inte finns någon annan lämplig lösning
+              och att jakten inte försvårar upprätthållandet av en gynnsam bevarandestatus
+              hos artens bestånd i dess naturliga utbredningsområde.
+            </p>
+            <p>
+              Med det anförda föreslår utskottet att motion MJ365 (m) yrkande
+              2 lämnas utan vidare åtgärd.
+            </p>
+            <p>
+              När det gäller jakt på morkulla vill utskottet anföra följande.
+              I jaktförordningen föreskrivs att i de sex nordligaste länen löper
+              den allmänna jakttiden för morkulla under perioden från den 21
+              augusti till den 31 oktober. I övriga delar av landet får morkulla
+              jagas under tiden den 21 augusti till den 30 november. Som utskottet
+              redovisade senast våren 2008 (bet. 2007/08:MJU11) beslutade regeringen
+              den 17 juni 1999 att pågående försök med sommarjakt på morkulla
+              inte skulle förlängas. En utvärdering av försöken, som hade pågått
+              under en tvåårsperiod, uppfattades då inte uppfylla vare sig svenska
+              krav eller bestämmelserna i EU:s fågeldirektiv. Vidare bör uppmärksammas
+              att riksdagen har delegerat normgivningsmakten i dessa frågor
+              till regeringen. Utskottet avstyrker med det anförda motion MJ365
+              (m) yrkande 3.
+            </p>
+            <p>
+              När det gäller jakt på gäss har regeringen genom en ändring i
+              jaktförordningen (1987:905), som trätt i kraft den 1 juli 2009,
+              utökat jakttiden på grågås och kanadagås. Vidare har möjligheten
+              till skyddsjakt på kanadagäss utvidgats till hela året. Utskottet
+              anser med det anförda att motion MJ365 (m) yrkande 4 därmed kan
+              lämnas utan vidare åtgärd.
+            </p>
+            <p>
+              Utskottet föreslår vidare att motion MJ453 (c) yrkande 1 lämnas
+              utan vidare åtgärd. Enligt utskottets mening kan det inte vara
+              en statlig uppgift att bekosta vildsvinsfällor. Eftersom skadorna
+              av vildsvin minskar ju fler som fångas torde det vara en lönsam
+              investering för berörda parter att köpa fällor.
+            </p>
+            <p xml:id="IDAKU1X" rend="rubrik2">
+              Fjälljaktsreformen m.m.
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAQU1X" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen avslår motioner om att rennäringsförordningen bör omprövas
+                i syfte att långsiktigt trygga fjälljaktsreformen (s) och om ett
+                avskaffande av dubbelregistreringen vid älgjakt (m).
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation 2 (s, v, mp) och särskilt yttrande (mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA3U1X" rend="r3">
+              Motionerna
+            </p>
+            <p>
+              I motion MJ415 (s) yrkas att
+            </p>
+            <p>
+              I motion MJ396 (m) yrkas att dubbelregistrering vid älgjakt ska
+              avskaffas. Enligt motionären skapar systemet stora och onödiga
+              konflikter mellan renägande samer och annan ortsbefolkning i vissa
+              områden. Det får även som konsekvens att en planerad förvaltning
+              av naturresursen älg omöjliggörs inom renskötselområdet. En medveten
+              älgförvaltning måste bygga på kunskap om både älgstam och avskjutning.
+              För att denna resurs ska kunna skötas uthålligt är det enda praktiska
+              alternativet att endast ett jaktlag jagar på varje område. Därför
+              måste dubbelregistreringen avskaffas och registreringen av älgjaktsområdet
+              förbehållas markägaren eller den till vilken markägaren upplåtit
+              sin jakträtt.
+            </p>
+            <p xml:id="IDAKV1X" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Våren 2007 infördes en ändring i rennäringsförordningen (1993:348)
+              som innebär att rätt till småviltsjakt på statens mark ovanför
+              odlingsgränsen och på renbetesfjällen inte längre är begränsad
+              enbart till personer bosatta i Sverige.
+            </p>
+            <p>
+              Av jordbruksministerns svar på interpellation 2008/09:28 den
+              14 november 2008 framgår i huvudsak följande. Ändringen i 3 §
+              rennäringsförordningen gjordes efter en grundlig analys av såväl
+              Kommerskollegium som Regeringskansliet om bestämmelsens förenlighet
+              med artiklarna 12 och 49 i EG-fördraget. Regeringen konstaterade
+              att bestämmelsen inte kunde behållas eftersom den utgjorde ett
+              indirekt handelshinder genom att tjänster knutna till jakten inte
+              på lika villkor kunde erbjudas till personer bosatta utomlands.
+              Det var således inte själva upplåtelsen av jakträtten som ansågs
+              vara en tjänst, utan det indirekta handelshindret gällde sådana
+              jakttjänster som exempelvis logi och transport. I en anmälan till
+              EU-kommissionen mot Finland gjordes gällande att utfärdandet av
+              jaktlicenser utgjorde en inskränkning av friheten att tillhandahålla
+              tjänster. Generaldirektoratet för inre marknaden och tjänster
+              uttalade med anledning av anmälan att statens försäljning av jaktkort
+              inte är att betrakta som en tjänst i fördragets mening. Detta
+              ärende är emellertid, enligt jordbruksministern, inte att jämställa
+              med det svenska ärendet som gäller begränsningar i möjligheten
+              för företag att tillhandahålla jakttjänster åt jägare som inte
+              är folkbokförda i Sverige. Jordbruksministern har därför inte
+              någon avsikt att enbart mot bakgrund av det finska ärendet föreslå
+              regeringen en ändring av bestämmelserna. Jordbruksministern framhöll
+              att det finns möjlighet för länsstyrelserna att beakta regionalpolitiska
+              hänsyn vid bedömningen av om det t.ex. är lämpligt med årskort
+              som kan köpas av länsinnevånarna, s.k. länskort. Jordbruksverket
+              har sedan tidigare getts i uppdrag att övervaka effekterna av
+              ändringen av den aktuella bestämmelsen i rennäringsförordningen.
+            </p>
+            <p>
+              Mot denna bakgrund avstyrkte utskottet våren 2009 motioner om
+              att rennäringsförordningen skulle ändras när det gäller fjälljakten.
+              Utskottet, som vidhåller sitt tidigare ställningstagande, avstyrker
+              motion 415 (s).
+            </p>
+            <p>
+              Frågan om den framtida älgförvaltningen bereds för närvarande
+              inom Regeringskansliet. Utskottet föreslår därför att motion MJ396
+              (m) lämnas utan vidare åtgärd.
+            </p>
+            <p xml:id="IDA0V1X" rend="AvsnittsRubrik">
+              Reservationer
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservationer. I rubriken anges vilken
+              punkt i utskottets förslag till riksdagsbeslut som behandlas i
+              avsnittet.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDABW1X">
+                  <p rend="reservation">
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Jakt och viltvård på EU-nivå, punkt 1 (s)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Anders Ygeman (s), Carina Ohlsson (s), Bo Bernhardsson (s),
+                    Ann-Kristine Johansson (s), Jan-Olof Larsson (s) och Aleksander
+                    Gabelic (s).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDA0X1X" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 1 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen. Därmed bifaller riksdagen motion 2009/10:MJ279.
+            </p>
+            <p xml:id="IDAEY1X" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Viltvårdsfrågorna diskuteras allt oftare i EU-sammanhang, och
+              det ställs krav på gemensamma åtgärder utan hänsyn till geografiska
+              förutsättningar eller mångåriga traditioner. Sådana åtgärder väcker
+              stor irritation bland breda grupper av den naturintresserade befolkningen
+              och skadar förtroendet för hela EU-samarbetet. Vi anser därför
+              att regeringen under ministerrådsmöten och vid kontakter med EU-kommissionen
+              ska framhålla att dessa frågor är nationella och ska lämnas utanför
+              den gemensamma lagstiftningen. Subsidiaritetsprincipen och den
+              nationella rätten i lagstiftningsfrågor om jakt och viltvård måste
+              hävdas. Detta bör ges regeringen till känna.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDALY1X">
+                  <p rend="reservation">
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Fjälljaktsreformen m.m., punkt 3 (s, v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Anders Ygeman (s), Carina Ohlsson (s), Bo Bernhardsson (s),
+                    Ann-Kristine Johansson (s), Jan-Olof Larsson (s), Wiwi-Anne Johansson
+                    (v), Tina Ehn (mp) och Aleksander Gabelic (s).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAE01X" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 3 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen. Därmed bifaller riksdagen motion 2009/10:MJ415
+              och avslår motion 2009/10:MJ396.
+            </p>
+            <p xml:id="IDAL01X" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Fjälljaktsreformens fortbestånd måste långsiktigt tryggas. Bestämmelserna
+              i rennäringsförordningens 3 § bör därför omprövas i syfte att
+              återgå till regleringen så som den var utformad före den ändring
+              som regeringen beslutade om våren 2007. Den ändringen gjorde vår
+              svenska fjällvärld till en jaktmark öppen för alla EU-medborgare.
+              Därmed beslutade regeringen att på samma villkor ge såväl svenska
+              som utländska jägare tillgång till småviltsjakten i den svenska
+              fjällvärlden. Detta beslut innebär ett stort hot inte bara mot
+              den framtida jakten utan också mot hela den svenska fjällvärlden.
+              Detta bör ges regeringen till känna.
+            </p>
+            <p xml:id="IDAS01X" rend="AvsnittsRubrik">
+              Särskilt yttrande
+            </p>
+          </div>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDAW01X">
+                  <p rend="ettsarskiltyttrande">
+                    Fjälljaktsreformen m.m., punkt 3 (mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    Tina Ehn (mp) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Jag har ställt mig bakom reservation 2 i betänkandet då jag ser
+              detta förslag som ett första steg mot att reformera rennäringslagstiftningen
+              i aktuellt avseende. Med EU-medlemskapet sägs följa krav att låta
+              utländska jägare jaga på samma villkor som svenska jägare. Samtidigt
+              ser vi att utvecklingen med jägare från hela EU i vissa fall skapar
+              problem som inte förutsågs tillräckligt i den förändring av rennäringsförordningen
+              som skedde 2007.
+            </p>
+            <p>
+              I det fortsatta arbetet ser Miljöpartiet ett behov av ytterligare
+              reformering av småviltsjaktens förvaltning. Grundproblemet är
+              att den fria småviltsjakten på samiska marker över huvud taget
+              släpptes helt fri, inte vilken nationalitet som jägaren har. Fjälljaktsreformen,
+              som den dåvarande borgerliga regeringen beslutade 1993, är upprinnelsen
+              till en försämring för fjälljakten. Miljöpartiet förespråkar det
+              som kallas Tåssåsensmodellen. Detta är en lösning som går ut på
+              att låta samebyarna själva administrera och upplåta jakten med
+              ett begränsat antal jägare åt gången på markerna enligt det system
+              som Tåssåsens sameby praktiserade 19871995 och 20032008. Men vi
+              ser också fungerande bra lösningar där lokala jakt- och fiskeföreningar
+              sköter förvaltningen.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA311X" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAA21X" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAD21X" rend="rubrik2">
+              Motioner från allmänna motionstiden hösten 2009
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:MJ279 av Alf Eriksson m.fl. (s):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om att hävda subsidiaritetsprincipen och den
+              nationella rätten i lagstiftningsfrågor om jakt och viltvård.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:MJ365 av Cecilia Widegren (m):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om allmän jakttid på korp.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om morkullejakt.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    4.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om jakt på gäss.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="behandlatdokument_">
+              2009/10:MJ396 av Krister Hammarbergh (m):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om ett avskaffande av dubbelregistrering vid
+              älgjakt.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:MJ415 av Karl Gustav Abramsson m.fl. (s):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om att långsiktigt trygga fjälljaktsreformens
+              fortbestånd samt att i anslutning till detta ompröva bestämmelserna
+              i 3 § rennäringsförordningen i syfte att återgå till regleringen
+              så som den var utformad före den ändring som regeringen beslutade
+              om våren 2007.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:MJ453 av Ulrika Carlsson i Skövde och Karin Nilsson (båda
+              c):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om vikten av att underlätta användandet av fällor
+                    vid vildsvinsjakt.
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

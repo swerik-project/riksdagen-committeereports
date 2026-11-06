@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_SFU_0013">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen uppmanar, med anledning av förslag från Riksdagens revisorer, regeringen att redovisa ett förbättrat underlag för bedömning av behovet av och utnyttjandet av resurser för asylprocessen. Regeringen bör själv ta ställning till hur ofta och i vilken form den bör lämna en sådan fördjupad analys till riksdagen.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Fördjupad analys av asylfrågor (SfU13)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09107</idno>
+              <title>2002-05-16</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">107</biblScope>
+              <note type="display-reference">2002-05-16</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09107</idno>
+              <title>2002-05-16</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">107</biblScope>
+              <note type="display-reference">2002-05-16</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K252</idno>
+              <title>2001/02:252</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">252</biblScope>
+              <note type="display-reference">2001/02:252</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K251</idno>
+              <title>2001/02:251</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">251</biblScope>
+              <note type="display-reference">2001/02:251</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="frsrdg">
+              <idno type="riksdagen">GP04RR16</idno>
+              <title>Riksdagens revisorers förslag angående uppehållstillstånd för asylsökande</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">RR16</biblScope>
+              <note type="display-reference">forslag 2001/02:RR16 Riksdagens revisorers förslag angående uppehållstillstånd för asylsökande</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Sf23</idno>
+              <title>med anledning av förs. 2001/02:RR16 Riksdagens revisorers förslag angående uppehållstillstånd för asylsökande</title>
+              <title type="sub">av Per Bill m.fl. (M)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Sf23</biblScope>
+              <note type="display-reference">motion 2001/02:Sf23 med anledning av förs. 2001/02:RR16 Riksdagens revisorers förslag angående uppehållstillstånd för asylsökande</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2002-04-29">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-04-29">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-04-18">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-04-18">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-03">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-03">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2002-05-16">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-05-16">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-05-16">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-05-16">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-05-16">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2002-05-15">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-05-14">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-05-14">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Socialförsäkringsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:SFU13
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Riksdagens revisorers förslag omuppehållstillstånd för asylsökande
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning Utskottet behandlar i detta betänkande Riksdagens
+            revisorers förslag 2001/02:RR16 angående uppehållstillstånd för
+            asylsökande jämte en motion väckt med anledning av förslaget.
+            Riksdagens revisorer har granskat tidsåtgången i asylprocessen
+            och därmed sammanhängande frågor. Granskningen har omfattat den
+            administrativa hanteringen av ärenden om uppehållstillstånd för
+            asylsökande och syftat till att beskriva och förklara asylprocessen,
+            att mäta tidsåtgången i denna process samt att söka förstå orsakerna
+            till fördröjningar av handläggningen och finna möjliga åtgärder
+            som kan förbättra situationen. Resultatet av granskningen presenteras
+            i rapporten Uppehållstillstånd för asylsökande tidsåtgång, kostnader,
+            reformarbete. Revisorerna lämnar förslag rörande tidsåtgång, resursfrågor,
+            anslagsstruktur och en årlig rapport om asylfrågorna. Utskottet
+            föreslår att riksdagen gör ett tillkännagivande till regeringen
+            om ett förbättrat underlag för bedömning av behovet av och utnyttjandet
+            av resurser för asylprocessen. Utskottet tillstyrker därmed delvis
+            Riksdagens revisorers förslag. Motionen får anses i viss mån tillgodosedd
+            och avstyrks.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut Riksdagens revisorers
+            förslag Riksdagen tillkännager för regeringen som sin mening vad
+            utskottet anfört om ett förbättrat underlag för bedömning av behovet
+            av och utnyttjandet av resurser för asylprocessen. Därmed bifaller
+            riksdagen delvis Riksdagens revisorers förslag och avslår motion
+            2001/02:Sf23. Stockholm den 18 april 2002 På socialförsäkringsutskottets
+            vägnar Berit Andnor Följande ledamöter har deltagit i beslutet:
+            Berit Andnor (s), Maud Björnemalm (s), Rose-Marie Frebran (kd),
+            Gustaf von Essen (m), Göran Lindblad (m), Lennart Klockare (s),
+            Ronny Olander (s), Sven-Erik Sjöstrand (v), Kerstin-Maria Stalin
+            (mp), Birgitta Carlsson (c), Mona Berglund Nilsson (s), Margareta
+            Cederfelt (m), Göte Wahlström (s), Björn Leivik (m), Kalle Larsson
+            (v) och Désirée Pethrus Engström (kd).
+          </p>
+          <p>
+            2001/02 SfU13
+          </p>
+          <p>
+            Utskottets överväganden Riksdagens revisorers förslag Utskottets
+            förslag i korthet Riksdagen bör göra ett tillkännagivande till
+            regeringen om ett förbättrat underlag för bedömning av behovet
+            av och utnyttjandet av resurser för asylprocessen. Därmed bifalles
+            delvis revisorernas förslag. Motionen är i viss mån tillgodosedd
+            och bör avslås. Revisorerna Den granskning som ligger till grund
+            för revisorernas förslag har redovisats i rapporten Uppehållstillstånd
+            för asylsökande tidsåtgång, kostnader, reformarbete (rapport 2001/02:6).
+            Rapporten, som publicerats i oktober 2001, innehåller bl.a. en
+            systematisk beskrivning av asylprocessen, en statistisk analys
+            av tidsåtgången i asylprocessen och ett antal fallstudier. Rapporten
+            har remissbehandlats. Syftet med granskningen har varit att beskriva
+            och förklara asylprocessen, att mäta tidsåtgången i denna process
+            samt att försöka förstå orsakerna till fördröjningar av handläggningen
+            och finna möjliga åtgärder som kan förbättra situationen. Revisorerna
+            har i granskningen funnit att tidsåtgången i asylprocessen fortfarande
+            är långt från målet på sex månaders handläggningstid i både första
+            och andra instans. Faktorer som har påverkat utvecklingen är enligt
+            revisorerna bl.a. att antalet asylsökande ökat kraftigt liksom
+            svårighetsgraden i ärendena, att resurstillskotten har varit mindre
+            än ökningen av antalet asylsökande och att förändringar i det
+            internationella regelverket har komplicerat handläggningen. Emellertid
+            har omorganisationer och utvecklingsarbete inom Migrationsverket
+            enligt revisorerna verkat för ökad effektivitet i handläggningen.
+            Den ökade produktiviteten har dock inte varit tillräcklig för
+            att uppväga både de ökade svårigheterna och en förkortning av
+            handläggningstiderna. Inledningsvis påpekar revisorerna att regeringen
+            bör försöka lösa frågan om handläggningstiderna i asylprocessen
+            på ett mera aktivt sätt än hittills. Bland annat anser revisorerna
+            att systemet med ny ansökan i utlänningsärenden, där antalet möjliga
+            nya ansökningar inte är begränsat, i sig medför en tendens till
+            utdragna förlopp. Revisorerna utgår från att denna fråga uppmärksammas
+            av regeringen i det nu pågående beredningsarbetet rörande ny instans-
+            och processordning i utlänningsärenden. När det gäller tidsåtgången
+            vid verkställandet av avvisningsbeslut anser revisorerna att snabbare
+            verkställighet i vissa fall är en förutsättning för att asylprocessen
+            skall kunna avslutas inom rimlig tid. Revisorerna anser att det
+            finns möjligheter att förenkla och förbättra nuvarande handläggningsrutiner.
+            Därutöver menar revisorerna att lagstiftningen kan behöva ses
+            över, bl.a. när det gäller reglerna för asylsökande som inte kan
+            återvända hem på grund av att hemlandet inte tar emot sina egna
+            medborgare. Revisorerna anför att inom det migrationspolitiska
+            området är kortsiktigheten i resurstilldelningen det största problemet.
+            Begränsningar i anslagstilldelningen till asylprövning får kostnadsdrivande
+            effekter på flera andra anslag under flera år framåt. Revisorerna
+            anser att anslagskonstruktion, anslagstilldelning och statsmakternas
+            kontroll bör stödja ett långsiktigt och effektivt resursutnyttjande
+            i statsförvaltningen. Revisorerna är kritiska till att begreppen
+            förvaltningsanslag och sakanslag används på ett missvisande sätt
+            och anser att begreppet förvaltningsanslag bör renodlas till att
+            avse administrativa uppgifter. Asylprövning kan inte sägas utgöra
+            administration och borde därför enligt revisorerna inte finansieras
+            över förvaltningsanslaget. Revisorerna rekommenderar i stället
+            att ett nytt sakanslag för asylprövning införs för Migrationsverket.
+            Detta sakanslag skall användas uteslutande för de s.k. asylenheterna
+            och medelstilldelningen utökas så att en nödvändig förstärkning
+            av asylenheternas verksamhet kan äga rum. Förslaget, som syftar
+            till att nedbringa handläggningstiderna för asylärenden och därmed
+            den tid de asylsökande tillbringar i mottagningssystemet, skulle
+            möjliggöra så god kontroll att en tillräcklig ökning av anslaget
+            kan bli möjlig. Minskar antalet ej avgjorda asylärenden kan anslaget
+            åter minskas. Revisorerna anser att verksamhetens omfattning genom
+            särredovisning kan styras i bägge riktningarna. Ett nytt sakanslag
+            till asylprövning kan även enligt revisorerna öka riksdagens möjligheter
+            att följa utgiftsutvecklingen inom migrationsområdet. Revisorerna
+            anför att en formell invändning mot förslaget är att den innebär
+            en återgång till ett äldre system med ett större inslag av öronmärkta
+            anslag. Revisorerna anser dock att en sådan återgång i detta fall
+            är befogad. Revisorerna anser att en samlad årlig rapport om asylfrågorna
+            från Migrationsverket är av mycket stor betydelse, både för asylfrågornas
+            behandling i Regeringskansliet och för riksdagens möjligheter
+            att följa och bedöma dessa frågor. Regeringens rapportering till
+            riksdagen är enligt revisorerna beroende av det underlag som tillhandahålls
+            av Migrationsverket, varför verket har ett mycket stort ansvar
+            för att genomföra, förklara och presentera kvalificerade analyser
+            på sitt verksamhetsområde. Antalet asylsökande per årgång bör
+            redovisas, liksom tidsåtgången i olika delar av asylprocessen
+            per årgång asylsökande med fördelning på kvartiler. En analys
+            av orsakerna till fördröjningar och en redovisning av arbetet
+            för effektivisering av handläggningen är också angelägen. Arbetet
+            med kvalitetsutveckling av asylutredningarna bör också enligt
+            revisorerna beskrivas i detta sammanhang. Revisorerna anser att
+            regeringen bör begära en årlig rapport från Migrationsverket med
+            en samlad analys fem år bakåt i tiden av frågor rörande asylprocessen
+            och att regeringen för riksdagen bör redovisa en fördjupad analys
+            av asylfrågorna i samband med sin årliga resultatskrivelse till
+            riksdagen för det aktuella utgiftsområdet. Motion I motion Sf23
+            av Per Bill m.fl. (m) anförs att en lång väntetid är till men
+            för den enskilde och försvårar inträdet i det svenska samhället.
+            Målet om sex månaders handläggningstid har inte uppnåtts. Enligt
+            motionärerna har de långa handläggningstiderna orsakats av att
+            antalet asylsökande har ökat kraftigt samt att resurstilldelningen
+            till Migrationsverket har varit otillräcklig och verksamheten
+            därmed underfinansierad. Även dagens regler för anslagsanvändning
+            är enligt motionärerna en anledning till de långa handläggningstiderna.
+            Motionärerna anser att det krävs ökad flexibilitet för Migrationsverket
+            och en mindre byråkratisk syn på anslagsanvändningen men att man
+            inte nu bör låsa sig för en specifik modell. Det krävs enligt
+            motionärerna mer resurser till Migrationsverket och det bör finnas
+            en hög beredskap att skjuta till mer pengar vid behov. Utskottets
+            ställningstagande Utskottet ser positivt på den genomgång som
+            Riksdagens revisorer gjort av hanteringen av asylärendena i syfte
+            att beskriva och förklara asylprocessen, att mäta tidsåtgången
+            i denna process samt att söka förstå orsakerna till fördröjningar
+            av handläggningen och finna möjliga åtgärder som kan förbättra
+            situationen och förkorta handläggningstiderna. Revisorerna lämnar
+            förslag på vissa områden, bl.a. gällande tidsåtgången, resursfrågor,
+            anslagsstruktur och en årlig rapport om asylfrågorna. Långa handläggningstider
+            i utlänningsärenden har länge varit ett problem, och utskottet
+            har därför i samband med budgetbehandlingen hösten 2000 (bet.
+            2000/01:SfU2) särskilt granskat utvecklingen av handläggningstiderna
+            inom såväl Migrationsverket som Utlänningsnämnden. Vad gäller
+            asylärenden kunde utskottet konstatera att handläggningstiderna
+            hos båda myndigheterna i många fall låg över de mål som angivits
+            i regleringsbreven. Med utgångspunkt i Migrationsverkets bedömning
+            av bl.a. antalet asylsökande nödgades utskottet konstatera att
+            handläggningstiderna för, i första hand, asylärenden skulle komma
+            att öka ytterligare, men även att andra ärendegrupper kunde bli
+            drabbade med längre väntetider som följd. I betänkandet angavs
+            emellertid att Migrationsverket och Utlänningsnämnden föreslogs
+            få en förstärkning av anslagen för att upprätthålla målen vad
+            gäller handläggningstiderna. Därtill angavs att det förväntade
+            antalet asylsökande dock var osäkert och att olika händelser,
+            i första hand i omvärlden men även i Sverige t.ex. i form av praxisbeslut,
+            kraftigt kan påverka antalet ansökningar. Särskilt vid ett ökat
+            antal ansökningar måste frågan om tilläggsbudget aktualiseras,
+            vilket emellanåt också sker. Även i den då aktuella budgetpropositionen
+            föreslogs ytterligare medel på tilläggsbudget i syfte att bl.a.
+            förkorta handläggningstiderna. Utskottet ansåg emellertid att
+            det fanns anledning att analysera huruvida de medel som anvisas
+            för migrationspolitiken används rationellt. Långa handläggningstider
+            blir särskilt kostsamma i asylärenden, inte bara på grund av att
+            de sökande under tiden vistas i Migrationsverkets mottagningssystem,
+            utan också på grund av den psykiska press som sökandena under
+            tiden tvingas leva under. Även personalen vid Migrationsverket
+            påverkas av detta och den stress som det för med sig. Vad gäller
+            de direkta utgifterna som lång handläggningstid medför nämndes
+            att för varje dag som tiden för boende i anläggning eller s.k.
+            eget boende kan förkortas görs en besparing på medlen inom anslaget
+            12:2 Mottagande av asylsökande med 200 kr, vilket var den beräknade
+            dygnsmedelkostnaden år 2001 för personer i mottagningssystemet.
+            Med utgångspunkt från att i genomsnitt 6 000 asylsökande väntar
+            på beslut skulle detta medföra en besparing på nämnda anslag,
+            senast följande år, med 1,2 miljoner kronor för varje dags förkortning.
+            Migrationsverket hade uppgivit att om anslagskonstruktionen så
+            medgav skulle resurser, främst i form av personal, från mottagningssystemet
+            kunna användas vid ökad inströmning av asylsökande varvid kostnaderna
+            för mottagandet då skulle kunna minska, även om besparingen uppkommer
+            med någon tidsförskjutning. Utskottet ansåg att det borde vidtas
+            åtgärder för att få till stånd ett bättre utnyttjande av de medel
+            som anvisas för migrationspolitiken. I en verksamhet som kan fluktuera
+            snabbt och där det är av stor vikt med tidiga insatser måste den
+            ansvariga myndigheten kunna utnyttja de samlade resurserna på
+            bästa möjliga sätt. Utskottet ansåg att regeringen i samband med
+            den ekonomiska vårpropositionen 2001 borde redovisa ett sätt att
+            möjliggöra ett flexiblare utnyttjande av anslagen på migrationsområdet,
+            då i första hand anslagen 12:1 och 12:2. Detta gav riksdagen som
+            sin mening regeringen till känna. I vårpropositionen 2001 (prop.
+            2000/01:100 s. 122) redovisade regeringen att flexibilitet i första
+            hand finns inom anslagen genom möjligheten att utnyttja anslagskredit
+            respektive anslagssparande samt att regeringen två gånger per
+            år i tilläggsbudgeten kan föreslå omprövningar. För det andra
+            är det en viktig princip att förvaltningsanslag och sakanslag
+            skall hållas åtskilda. Syftet med detta är att underlätta styrningen
+            av förvaltningen och att anslagets ändamål skall vara tydliga
+            för såväl riksdag som regering. Regeringen angav vidare att anslagsstrukturen
+            inom migrationsområdet är konstruerad så att myndigheternas förvaltningsutgifter
+            och övriga utgifter hålls isär. Regeringen ansåg att det då inte
+            fanns behov av att lägga fram förslag till särskilda åtgärder
+            med anledning av utskottets nämnda initiativ. I sitt yttrande
+            till finansutskottet över vårpropositionen (yttr. 2000/01: SfU5y)
+            konstaterade utskottet att, eftersom ett flexiblare utnyttjande
+            av medlen för området rymdes inom den föreslagna utgiftsramen,
+            de närmare villkoren för anslagen 12:1 och 12:2 skulle bli aktuella
+            först i samband med budgeten för 2002. Utskottet underströk dock
+            att prioriteringar inom andra områden också kan få betydelse för
+            detta utgiftsområde. I samband med behandlingen av budgeten för
+            2002 angavs i betänkande 2001/02:SfU2 att Migrationsverkets förvaltningsanslag
+            skulle ökas med ca 50 miljoner kronor från år 2002, något som
+            utskottet välkomnade. Utskottet uttalade att Migrationsverket
+            genom denna längre planeringsram fick bättre förutsättningar att
+            korta handläggningstiderna och därigenom påverka även kostnaderna
+            i mottagandesystemet. Utskottet ansåg emellertid, mot bakgrund
+            av det markant ökade antalet öppna ärenden och det ökade antalet
+            asylsökande, att ett eventuellt behov av ytterligare medel genom
+            tilläggsbudget borde övervägas redan under våren för att på så
+            sätt underlätta Migrationsverkets planeringsmöjligheter. Utskottet
+            såg även positivt på ökningen av Utlänningsnämndens anslag med
+            5 miljoner kronor och noterade att nämnden under de senaste åren
+            kunnat minska balansen av äldre ärenden. Därutöver uppmärksammade
+            utskottet bl.a. tidsåtgången för verkställighetsärenden som överlämnats
+            till polisen. Utskottet ansåg det emellertid svårt att dra några
+            slutsatser av de inhämtade uppgifterna om verkställighet. Utskottet
+            har i betänkande 2001/02:SfU2 även uttalat att handläggningen
+            av asylärenden under en lång följd av år har kritiserats ur rättssäkerhetssynpunkt,
+            inte bara för att handläggningstiderna varit långa, utan även
+            för att insynen i processen från såväl parter som allmänhet varit
+            dålig. Utskottet ansåg det mycket angeläget att förbättringar
+            i asylprocessen snarast genomförs. Utskottet föreslog ett tillkännagivande
+            om att regeringen snarast bör återkomma till riksdagen med ett
+            förslag till en ny instans- och processordning i utlänningsärenden,
+            vilket också blev riksdagens beslut. Utskottet har informerats
+            om att regeringen avser att förelägga riksdagen propositionen
+            om en ny instans- och processordning under hösten 2002. Utskottet
+            noterar att regeringen i tilläggsbudget för 2002 för utgiftsområde
+            8 föreslår att bl.a. anslagen 12:1 Migrationsverket, 12:2 Mottagande
+            av asylsökande respektive 12:5 Utlänningsnämnden ökas med 60 miljoner,
+            560 miljoner respektive 20 miljoner kronor. Regeringen anför att
+            enligt aktuella prognoser kommer antalet asylsökande att överstiga
+            tidigare gjorda bedömningar främst på grund av Sveriges operativa
+            inträde i Schengensamarbetet, men också på grund av andra faktorer
+            som ligger utanför Schengensamarbetet (prop. 2001/02:100). Utskottet
+            vill framhålla att antalet asylsökande i högsta grad beror på
+            omvärldsfaktorer, dvs. händelser i andra länder som medför att
+            människor behöver söka skydd i vårt land. Detta medför i sin tur
+            att antalet asylsökande snabbt kan förändras. Förändringar i omvärlden
+            kan också medföra förändringar avseende från vilka länder de nya
+            asylsökandena kommer och de skäl för skydd som åberopas. Omvärldsfaktorer
+            kommer således i hög grad att avgöra behovet av resurser för att
+            ta emot de asylsökande och behandla deras asylansökningar. Utskottet
+            vill härvid understryka att även vid en kraftig ökning av antalet
+            asylsökande är det viktigt att de alla får ett bra och värdigt
+            mottagande och att deras ärenden behandlas med högt ställda krav
+            på rättssäkerhet. Av det anförda framgår att det är viktigt men
+            också mycket svårt att göra prognoser över utvecklingen av i första
+            hand antalet asylsökande. De analyser som behöver göras för att
+            på bästa sätt anpassa anvisade medel till den fortsatta verksamheten
+            måste så långt som möjligt även avse en värdering av omvärldsfaktorer.
+            Även om prognoserna förbättras kommer Migrationsverket dock även
+            fortsättningsvis att löpande behöva redovisa den aktuella arbetssituationen
+            samt nya prognoser för regeringen. Revisorernas förslag avser
+            bl.a. att Migrationsverket årligen skall redovisa detaljerade
+            uppgifter för de senaste fem åren. Sådana uppgifter torde enligt
+            utskottets mening vara av större intresse när det gäller att följa
+            upp och utvärdera verksamheten än när det gäller att göra bedömningar
+            för framtiden. Utskottet anser i likhet med revisorerna att det
+            är nödvändigt att anlägga ett flerårigt synsätt på resursfördelningen
+            till migrationspolitiken. Inte minst i asylprövningen, där det
+            måste ställas höga krav på personalens kompetens, finns det gränser
+            för hur mycket verksamheten med kort varsel kan utökas. När det
+            gäller revisorernas förslag om ett nytt sakanslag för just asylprövning
+            är utskottet inte övertygat om att det är rätt väg. En renodling
+            av Migrationsverkets förvaltningsanslag till att avse administration
+            borde medföra att all ärendeprövning bryts ut till separata anslag.
+            Hur detta skulle medföra en ökad flexibilitet är svårt att se.
+            Möjligheterna för riksdag och regering att granska effektiviteten
+            i resursutnyttjandet skall inte behöva vara sämre om ett anslag
+            avser såväl sedvanlig administration som ärendehandläggning. Utskottet
+            noterar att även motionärerna i motion Sf23 anser att man inte
+            nu bör låsa sig för en specifik modell. Utskottet vill tillägga
+            att det inom statsförvaltningen också pågår ett förändringsarbete
+            när det gäller ekonomisk styrning. Det s.k. VESTA-projektet, som
+            syftar till att skapa förutsättningar för en effektivare styrning
+            av den statliga verksamheten, har lämnat en rad förslag rörande
+            budgetering, redovisning och anslagskonstruktion. Utskottet delar
+            revisorernas bedömning att såväl regering som riksdag måste kunna
+            kontrollera att statsförvaltningen hanterar anslagna medel på
+            ett effektivt sätt. Utskottet anser emellertid att det får ankomma
+            på regeringen att i dialog med Migrationsverket avgöra vilket
+            underlag som Migrationsverket bör ta fram. När det gäller det
+            underlag riksdagen behöver för att ta ställning till kommande
+            resursbehov men även för att följa upp och utvärdera redan fattade
+            beslut kan anföras följande. Information om Migrationsverkets
+            och Utlänningsnämndens hantering av asylärenden lämnas i dag i
+            budgetpropositionen och den skrivelse om asyl- och migrationspolitiken
+            som regeringen årligen i anslutning till budgetpropositionen lämnar
+            till riksdagen. Riksdagen kan även få information om mål- och
+            resultatuppfyllelsen genom bl.a. Migrationsverkets och Utlänningsnämndens
+            årsredovisningar och budgetunderlag samt Migrationsverkets kvartalsrapporter.
+            Riksdagen har beslutat att regeringen årligen skall lämna en resultatskrivelse
+            för varje utgiftsområde till riksdagen i syfte att förbättra riksdagens
+            möjligheter att arbeta med uppföljning och utvärdering i budgetsammanhang
+            (bet. 2000/01:KU23, rskr. 2001/01:273276). Skrivelserna behöver
+            inte innehålla en heltäckande redovisning av utgiftsområdet utan
+            det kan vara fråga om en fördjupad redovisning och analys av vissa
+            av verksamheterna inom utgiftsområdet. I skrivelserna bör resultaten
+            för olika verksamheter under de senaste åren redovisas och ställas
+            i relation till målen för verksamheterna och till förbrukade resurser.
+            Revisorerna anser att regeringen bör redovisa en fördjupad analys
+            av asylfrågorna i samband med sin årliga resultatskrivelse till
+            riksdagen för det aktuella utgiftsområdet. Utskottet anser att
+            det vore mycket värdefullt med en sådan redovisning men att det
+            i första hand får ankomma på regeringen att bedöma om en sådan
+            fördjupad analys bör ske årligen. Den information som behövs för
+            att ta ställning till budgeten måste regeringen naturligtvis redovisa
+            för riksdagen senast i samband med budgetpropositionen. Skulle
+            det därutöver blir fråga om en årlig redovisning kan en sådan
+            enligt utskottet ske i form av en utvidgning och fördjupning av
+            den nuvarande migrationsskrivelsen som lämnas i anslutning till
+            budgetpropositionen. När det gäller asylområdet är det enligt
+            utskottets mening viktigt att informationen återspeglar helheten
+            i asylprocessen, från ansökan till verkställighet och återvändande,
+            och därmed täcker verksamheten vid Migrationsverket och Utlänningsnämnden
+            men så långt möjligt även övriga berörda myndigheter som polisen
+            och utlandsmyndigheterna. Vad utskottet anfört om ett förbättrat
+            underlag för bedömning av behovet av och utnyttjandet av resurser
+            för asylprocessen bör riksdagen som sin mening ge regeringen till
+            känna. I helhetssynen ingår således även verkställighet av beslut
+            om avvisning och utvisning. Revisorerna påtalar att en snabbare
+            verkställighet i vissa fall är en förutsättning för att asylprocessen
+            skall kunna avslutas inom rimlig tid. Utskottet vill understryka
+            vikten av att finna en lösning när det gäller utlänningar som
+            inte kan återvända hem därför att hemlandet inte tar emot sina
+            egna medborgare. Utskottet har tidigare behandlat motioner som
+            tagit upp detta (se senast bet. 1997/98:SfU9) och då bl.a. erinrat
+            om att det enligt Europakonventionen innebär en kränkning av de
+            mänskliga rättigheterna att vägra en medborgare att komma till
+            sitt land. Utskottet ansåg att det därför fanns anledning för
+            regeringen och de tillämpande myndigheterna att särskilt uppmärksamma
+            den besvärliga situation som uppkommer även för den som skall
+            avlägsnas. Som revisorerna anger finns ett samband mellan frågan
+            om s.k. nya ansökningar och möjligheten att verkställa ett beslut
+            om avvisning. Detta är också en fråga som Kommittén om ny instans-
+            och processordning i utlänningsärenden (NIPU) har behandlat i
+            sitt slutbetänkande Ökad rättssäkerhet i asylärenden (SOU 1999:16).
+            Av betänkandet, som för närvarande bereds inom Regeringskansliet,
+            framgår att det kan finnas praktiska hinder för verkställighet,
+            exempelvis när det land dit avvisning eller utvisning skall ske
+            vägrar att ta emot utlänningen. Kommittén, som anför att denna
+            situation i dag inte är klart reglerad i lag, föreslår vissa ändringar
+            i utlänningslagen. Regeringen har just beslutat att tillkalla
+            en särskild utredare med uppgift att redovisa hur bestämmelserna
+            om avvisning till annat land i 8 kap. 5 § andra stycket utlänningslagen
+            har tillämpats och vid behov lägga fram förslag så att lagen blir
+            tydligare (dir. 2002:43). En fördjupad granskning av gällande
+            rutiner skall också genomföras. Utredningen skall redovisa sitt
+            uppdrag senast den 20 december 2002. Riksdagens revisorer har
+            även upprättat en informationsrapport, Avvisningar och utvisningar
+            (2001/02:2), i syfte att belysa hur myndigheterna normalt genomför
+            och verkställer avvisningar och utvisningar samt hur kontrollen
+            och uppföljningen av denna myndighetsutövning genomförs. Revisorerna
+            har inte funnit stöd för att myndigheterna normalt verkställer
+            avvisnings- och utvisningsbeslut på ett sätt som avviker från
+            uppsatta regler och normer. Revisorerna har inte heller funnit
+            indikationer på att kontrollen av verkställigheten är otillräcklig.
+            Utskottet anser sammanfattningsvis att revisorernas granskningsrapport
+            innebär ett värdefullt underlag för det fortsatta arbetet. Som
+            framgått ovan instämmer utskottet i många avseenden med de bedömningar
+            revisorerna gjort. Vad utskottet ovan anfört om ett förbättrat
+            underlag för bedömning av behovet av och utnyttjandet av resurser
+            för asylprocessen bör, som redan nämnts, riksdagen som sin mening
+            ge regeringen till känna. Något tillkännagivande i övrigt med
+            anledning av revisorernas förslag är inte påkallat. Därmed bifalles
+            delvis revisorernas förslag. Med vad utskottet anfört är motion
+            Sf23 i viss mån tillgodosedd. Något tillkännagivande i enlighet
+            med motionen bör däremot inte göras, varför motionen avstyrks.
+            Bilaga Förteckning över behandlade förslag Förslaget I Riksdagens
+            revisorers förslag 2001/02:RR16 Uppehållstillstånd för asylsökande
+            föreslås att riksdagen fattar följande beslut: 1. Riksdagen tillkännager
+            för regeringen som sin mening vad revisorerna anfört under avsnitt
+            4.1 Tidsåtgång och reformaktiviteter. 2. Riksdagen tillkännager
+            för regeringen som sin mening vad revisorerna anfört under avsnitt
+            4.2 Resursfrågor och anslagsstruktur. 3. Riksdagen tillkännager
+            för regeringen som sin mening vad revisorerna anfört under avsnitt
+            4.3.5 En årlig rapport om asylfrågorna.
+          </p>
+          <p>
+            Följdmotion 2001/02:Sf23 av Per Bill m.fl. (m): 1. Riksdagen
+            tillkännager för regeringen som sin mening vad i motionen anförs
+            om kortare handläggningstider i asylprocessen. 2. Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om ökad flexibilitet
+            i anslagsanvändningen på asylområdet.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

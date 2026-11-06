@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_KU_0025">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen godkände de ändringar i regeringsformen som behövs för att genomföra riksdagens beslut om en ny revisionsmyndighet under riksdagen, Riksrevisionen (se 2000/01:KU8 ). Vissa ändringar har gjorts i lagtexten i förhållande till regeringens förslag. Lagen träder i kraft den 1 juli 2003 och en övergångsbestämmelse införs som bl.a. innebär att riksrevisorerna kan väljas före detta datum och delta i förberedelsearbetet. Detta i enlighet med förslag från utskottet. Vidare beslutades på utskottets initiativ om en följdändring i tryckfrihetsförordningen. Eftersom förslagen handlar om grundlagsändringar kommer riksdagen efter höstens val att behandla förslagen igen.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Ny revisionsmyndighet - ändringar i regeringsformen (KU25)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09123</idno>
+              <title>2002-06-12</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">123</biblScope>
+              <note type="display-reference">2002-06-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09123</idno>
+              <title>2002-06-12</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">123</biblScope>
+              <note type="display-reference">2002-06-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K328</idno>
+              <title>2001/02:328</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">328</biblScope>
+              <note type="display-reference">2001/02:328</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2002-06-05">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-06-04">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-05-30">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-05-30">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-05-30">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-05-28">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-05-28">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-05-23">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-05-21">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-05-14">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-02">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-03-21">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-03-19">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2002-06-12">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-06-12">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-06-12">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-06-12">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-06-12">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2002-06-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-06-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-06-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Konstitutionsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:KU25
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Riksrevisionen - ändringar i regeringsformen
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I detta betänkande behandlas proposition 2001/02:73
+            Riksrevisionen - ändringar i regeringsformen. I propositionen
+            föreslås de ändringar i regeringsformen som behövs för att genomföra
+            riksdagens beslut om inrättandet av en myndighet benämnd Riksrevisionen.
+            Inga motioner har väckts med anledning av propositionen. Utskottet
+            tillstyrker i allt väsentligt regeringens förslag men föreslår
+            vissa ändringar i lagtexten. Utskottet föreslår också att lagen
+            skall träda i kraft den 1 juli 2003 och en övergångsbestämmelse
+            som medger bl.a. att riksrevisorerna kan väljas före ikraftträdandet
+            och delta i förberedelsearbetet. Utskottet föreslår på eget initiativ
+            en följdändring i tryckfrihetsförordningen.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Riksrevisionen Riksdagen
+            antar som vilande regeringens förslag till lag om ändring i regeringsformen
+            med de ändringarna att 12 kap. 7 § och ikraftträdande- och övergångsbestämmelserna
+            får den lydelse som utskottet föreslår i bilaga 3. Därmed bifaller
+            riksdagen delvis proposition 2001/02:73. 2. Tryckfrihetsförordningen
+            Riksdagen antar som vilande det förslag till lag om ändring i
+            tryckfrihetsförordningen som utskottet föreslår i bilaga 3. 3.
+            Det fortsatta förberedelsearbetet Riksdagen godkänner de förutsättningar
+            för det fortsatta förberedelsearbetet som utskottet redovisat.
+            Stockholm den 30 maj 2002 På konstitutionsutskottets vägnar Per
+            Unckel Följande ledamöter har deltagit i beslutet: Per Unckel
+            (m), Göran Magnusson (s), Barbro Hietala Nordlund (s), Pär Axel
+            Sahlberg (s), Kenneth Kvist (v), Ingvar Svensson (kd), Inger René
+            (m), Mats Berglind (s), Lars Hjertén (m), Kerstin Kristiansson
+            Karlstedt (s), Kenth Högström (s), Mats Einarsson (v), Björn von
+            der Esch (kd), Nils Fredrik Aurelius (m), Per Lager (mp) och Åsa
+            Torstensson (c).
+          </p>
+          <p>
+            2001/02 KU25 Redogörelse för ärendet Ärendet och dess beredning
+            Riksdagen har beslutat att det under första halvåret 2003 skall
+            inrättas en ny myndighet under riksdagen, Riksrevisionen (förs.
+            1999/2000:RS1, bet. 2000/01:KU8, rskr. 2000/01:116-119). Inom
+            Regeringskansliet har det utarbetats en promemoria med förslag
+            till de ändringar i regeringsformen som krävs för att reformen
+            skall kunna genomföras (Ds 2001:11). Promemorian, som har remissbehandlats,
+            ligger tillsammans med remissvaren till grund för regeringens
+            förslag. Regeringens förslag finns i bilagorna 2 och 3. Jämställdhetsombudsmannen
+            har inkommit med en skrivelse, vari begärs att beteckningen "denne"
+            i lagförslaget ändras i syfte att uppnå könsneutralitet. Bakgrund
+            Riksdagskommittén fick i december 1998 i uppdrag att göra en allmän
+            översyn av riksdagens kontrollmakt på det ekonomiska området.
+            Kommittén föreslog att en sammanhållen revisionsmyndighet under
+            riksdagen med ansvar för den statliga redovisnings- och effektivitetsrevisionen
+            skulle bildas den 1 januari 2003 och att bestämmelser om revisionsmyndigheten
+            och dess verksamhet skulle finnas i regeringsformen, riksdagsordningen,
+            i en lag med instruktion för den nya myndigheten samt i en särskild
+            revisionslag. Vidare föreslogs att revisionsverksamheten skulle
+            ledas av en riksrevisor, som väljs av riksdagen och att den nya
+            myndighetens ledning tillsätts och skiljs från ämbetet av riksdagen
+            i enlighet med föreskrifter i regeringsformen och riksdagsordningen.
+            Bestämmelser i regeringsformen och riksdagsordningen föreslogs
+            säkerställa myndighetsledningens integritet. Sedan konstitutionsutskottet
+            remissbehandlat frågan ställde sig ett enigt utskott i huvudsak
+            bakom de riktlinjer Riksdagskommittén föreslagit och riksdagsstyrelsen
+            ställt sig bakom. Utskottet förordade emellertid att Riksrevisionen
+            skall ledas av tre ämbetsmän valda av riksdagen. De tre ledande
+            ämbetsmännen skall av riksdagen kunna skiljas från tjänsten endast
+            om det framstår som uppenbart att de är olämpliga att fortsätta
+            sin tjänstgöring. I utskottets förslag till riktlinjer ingick
+            också att de tre ledande ämbetsmännen var för sig skall besluta
+            om granskningsplan samt om innehållet och slutsatserna i revisionsrapporterna
+            från både redovisnings- och effektivitetsrevisionen. Vidare angavs
+            i riktlinjerna bl.a. att riksdagen skall välja styrelse för Riksrevisionen
+            och att styrelsens uppgifter skall vara att avge skrivelser och
+            förslag till riksdagen med anledning av granskningsrapporter och
+            besluta om budgetframställan och årsredovisning för myndigheten.
+            Inom ramen för det fortsatta utredningsarbetet borde vidare, enligt
+            utskottet, övervägas bl.a. frågor som gäller regeringens behov
+            av egna granskningsresurser, behovet av en kvalificerad beslutsordning
+            för att skilja de ledande ämbetsmännen från anställningen, den
+            närmare sammansättningen av revisionsmyndighetens styrelse samt
+            ansvaret för revision av riksdagens organ. Utskottet föreslog
+            att riksdagen skulle 1. godkänna de av Riksdagskommittén förordade
+            riktlinjerna för en förändrad revision under riksdagen med de
+            ändringar utskottet förordade, 2. 3. begära att regeringen lägger
+            fram förslag till riksdagen om de grundlagsändringar och den övriga
+            lagstiftning som krävs för att reformen av den statliga revisionens
+            organisation och ledning skall kunna genomföras under det första
+            halvåret 2003, 4. 5. begära att regeringen tillsätter en organisationskommitté
+            med uppgift att vidta de förberedande åtgärder som krävs för att
+            en ny statlig revisionsmyndighet skall kunna bildas under första
+            halvåret 2003 i enlighet med vad utskottet anfört, 6. 7. uppdra
+            åt riksdagsstyrelsen att efter utredning återkomma till riksdagen
+            med förslag som i enlighet med vad utskottet anfört tillgodoser
+            riksdagens eget behov av revisionsliknande insatser. 8. Riksdagen
+            biföll utskottets hemställan. Propositionens huvudsakliga innehåll
+            I propositionen hänvisas till att riksdagen har beslutat att det
+            skall inrättas en ny myndighet under riksdagen, benämnd Riksrevisionen.
+            I propositionen behandlas de ändringar i regeringsformen som är
+            nödvändiga för att riksdagens beslut skall kunna genomföras. Regeringens
+            förslag innebär att Riksrevisionen skall vara en myndighet under
+            riksdagen med uppgift att i enlighet med föreskrifter som meddelas
+            i lag svara för granskning av i huvudsak den verksamhet som bedrivs
+            av staten, att Riksrevisionen leds av tre riksrevisorer, som väljs
+            av riksdagen samt att det vid myndigheten också finns en styrelse,
+            som utses av riksdagen. Enligt förslaget beslutar riksrevisorerna
+            själva, med beaktande av de bestämmelser som finns i lag, vad
+            som skall granskas och hur granskningen skall bedrivas och de
+            bedömer självständigt resultatet av sin granskning. Förslaget
+            innebär också att riksdagen får skilja en riksrevisor från uppdraget
+            endast om denne inte längre uppfyller de krav som gäller för uppdraget
+            eller om riksrevisorn har gjort sig skyldig till allvarlig försummelse.
+            Ändringarna föreslås träda i kraft den dag som bestäms i särskild
+            lag.
+          </p>
+          <p>
+            Utskottets överväganden Propositionen Regeringen föreslår en
+            ändring av 12 kap. 7 § regeringsformen. 12 kap. regeringsformen
+            innehåller bestämmelser om kontrollmakten. De nu gällande bestämmelserna
+            i 7 § avser Riksdagens revisorer. Regeringen föreslår att dessa
+            regler upphävs och att nya regler med den samlade konstitutionella
+            grunden för Riksrevisionen i stället införs. Enligt den föreslagna
+            lydelsen skall Riksrevisionen granska den verksamhet som bedrivs
+            av staten. Enligt vad som föreskrivs i lag kan Riksrevisionens
+            granskning avse också annan än statlig verksamhet. I detta sammanhang
+            kan nämnas att, enligt 2 § lagen (1987:518) med instruktion för
+            Riksdagens revisorer, får revisorernas granskning omfatta också
+            sådan verksamhet som staten bedriver i form av aktiebolag eller
+            stiftelse, om verksamheten är reglerad i lag eller någon annan
+            författning eller om staten som ägare eller genom tillskott av
+            statliga anslagsmedel eller genom avtal eller på något annat sätt
+            har ett bestämmande inflytande över verksamheten. Vidare gäller
+            att om statsmedel har tagits emot som bistånd till en viss verksamhet
+            får revisorerna granska hur dessa medel används, i den mån redovisningsskyldighet
+            för medlen föreligger gentemot staten eller särskilda föreskrifter
+            har meddelats om medlens användning. Revisorerna skall också utföra
+            årlig revision av bl.a. Riksbankens Jubileumsfond och Kungliga
+            Djurgårdens Förvaltning. Vidare föreslås i enlighet med riksdagens
+            beslut en bestämmelse om att Riksrevisionen leds av tre riksrevisorer
+            som väljs av riksdagen. Riksrevisionens självständiga ställning
+            uttrycks genom en bestämmelse om att riksrevisorerna själva, med
+            beaktande av de bestämmelser som finns i lag, skall besluta vad
+            som skall granskas och hur granskningen skall bedrivas. De skall
+            också självständigt bedöma resultatet av sin granskning. Vid Riksrevisionen
+            skall det finnas en styrelse, som utses av riksdagen. Styrelsens
+            uppgifter skall uttömmande anges i regeringsformen. Styrelsen
+            skall följa granskningsverksamheten, vid behov avge förslag och
+            redogörelser till riksdagen med anledning av de granskningsrapporter
+            som riksrevisorerna lämnar samt besluta om förslag till anslag
+            på statsbudgeten och om årsredovisning för myndigheten. Det utmärkande
+            draget för Riksrevisionen skall enligt propositionen vara dess
+            självständiga ställning i verksamheten. Myndigheten - genom var
+            och en av de tre riksrevisorerna - måste i sin granskning agera
+            helt självständigt i förhållande till riksdagen, granskningsobjekten,
+            regeringen, andra myndigheter och Riksrevisionens egen styrelse.
+            Regeringen anser i likhet med några remissinstanser att den stora
+            vikt som måste läggas vid myndighetens självständighet i den granskande
+            verksamheten bör anges särskilt och att detta inte minst är viktigt
+            för förhållandet mellan revisorerna och myndighetens styrelse.
+            Förslaget innehåller också en bestämmelse om att riksdagen får
+            skilja en riksrevisor från uppdraget endast om denne inte längre
+            uppfyller de krav som gäller för uppdraget eller om riksrevisorn
+            har gjort sig skyldig till allvarlig försummelse. Bestämmelsen
+            är utformad efter förebild av bestämmelsen i 9 kap. 12 § tredje
+            stycket sista meningen regeringsformen om skiljande från uppdrag
+            som ledamot av Riksbankens direktion. Regeringens förslag innebär
+            att ändringarna i regeringsformen skall träda i kraft den dag
+            som bestäms i särskild lag. Det går enligt regeringens bedömning
+            inte att nu med säkerhet säga att Riksrevisionen verkligen kommer
+            att kunna inleda sin verksamhet redan den 1 januari 2003 och det
+            är inte möjligt att nu ange vilken dag ändringen av 12 kap. 7
+            § regeringsformen skall träda i kraft. Risken finns nämligen att
+            det praktiska genomförandearbetet inte kommer att kunna vara klart
+            vid ikraftträdandetidpunkten. Detta skulle innebära att riksdagen
+            kommer att stå helt utan revisionskompetens. En sådan konsekvens
+            måste undvikas. Det är därför enligt regeringen nödvändigt att
+            i stället välja en ordning enligt vilken ändringen i regeringsformen
+            träder i kraft först den dag som kommer att anges i en särskild
+            lag. Stiftandet av den lagen måste anstå till dess det är helt
+            klart när Riksrevisionen verkligen kommer att kunna inrättas.
+            Regeringen kan inte finna att en sådan ordning inte skulle vara
+            förenlig med regeringsformens föreskrifter om stiftande av lag.
+            Om det redan under riksdagsbehandlingen av detta ärende skulle
+            gå att med säkerhet säga när alla förutsättningar för bildandet
+            av Riksrevisionen föreligger, kan riksdagen då naturligtvis anpassa
+            ikraftträdandebestämmelsen med hänsyn till detta. Oavsett när
+            reformen träder i kraft kommer riksdagen att behöva välja riksrevisorer
+            och utse ledamöter i Riksrevisionens styrelse före ikraftträdandet,
+            så att verksamheten kan påbörjas omedelbart vid ikraftträdandet.
+            Utskottets ställningstagande Riksdagen har beslutat att det under
+            första halvåret 2003 skall inrättas en ny sammanhållen revisionsmyndighet,
+            Riksrevisionen, under riksdagen. De föreslagna bestämmelserna,
+            som ersätter de nu gällande bestämmelserna i 12 kap. 7 § regeringsformen
+            om Riksdagens revisorer, slår i första stycket fast att Riksrevisionen
+            är en myndighet under riksdagen och anger myndighetens uppgifter.
+            I andra stycket finns bestämmelser om riksrevisorerna och i tredje
+            stycket om styrelsen och dess uppgifter. Fjärde stycket reglerar
+            skiljandet av riksrevisor från uppdraget. I propositionen föreslås
+            att lagen skall träda i kraft den dag som bestäms i särskild lag.
+            Utskottet ställer sig i allt väsentligt bakom regeringens förslag.
+            Utskottet vill emellertid på några punkter förorda andra formuleringar.
+            Paragrafens andra stycke innehåller enligt förslaget bestämmelser
+            om riksrevisorerna och deras självständighet. Genom bestämmelsen
+            i andra meningen understryks riksrevisorernas självständighet
+            i fråga om vad som skall granskas och hur granskningen skall bedrivas.
+            I styckets sista mening föreskrivs att de självständigt bedömer
+            resultatet av sin granskning. I konstitutionsutskottets betänkande
+            2000/01:KU8 formulerades detta så att de tre ledande ämbetsmännen
+            var för sig skall besluta om slutsatserna i revisionsrapporterna
+            från både redovisnings- och effektivitetsrevision. Det är enligt
+            utskottets mening angeläget att riksrevisorernas självständighet
+            gentemot utomstående och styrelsen understryks. Utskottet anser
+            att detta tydligare bör komma till uttryck i lagtexten. Utskottet
+            föreslår därför att de två sista meningarna i andra stycket formuleras
+            enligt följande. Riksrevisorerna beslutar självständigt, med beaktande
+            av de bestämmelser som finns i lag, vad som skall granskas. De
+            beslutar självständigt och var för sig hur granskningen skall
+            bedrivas och om slutsatserna av sin granskning. I tredje stycket
+            regleras styrelsens uppgifter. Det är styrelsen som kan väcka
+            ärenden hos riksdagen genom att lägga fram riksrevisorernas granskningsrapporter
+            och revisionsberättelser. Någon motsvarande möjlighet finns inte
+            för riksrevisorerna. Det finns enligt utskottets mening anledning
+            att i lagtexten begreppsmässigt särskilja granskningsrapporter
+            och revisionsberättelser. I styrelsens uppgifter skall sålunda
+            ligga att lämna bl.a. revisionsberättelse för Riksbanken till
+            riksdagen. För att detta tveklöst skall inrymmas i bestämmelsen
+            bör föreskrivas att styrelsens uppgifter är att följa granskningsverksamheten,
+            lämna de förslag och redogörelser till riksdagen som riksrevisorernas
+            granskningsrapporter och revisionsberättelser ger anledning till
+            samt att besluta om förslag till anslag på statsbudgeten och årsredovisning
+            till staten. I propositionen anges att uppgifterna för styrelsen
+            är uttömmande reglerade i lagförslaget. Utskottet vill i detta
+            sammanhang understryka vikten av den beslutade rollfördelningen
+            mellan styrelsen och revisorerna. Det får enligt utskottets mening
+            således inte komma i fråga att styrelsen tar på sig uppgifter
+            som riskerar att förändra den roll som riksdagen avsett för den.
+            Det är emellertid inte möjligt att i minsta detalj ange de uppgifter
+            som styrelsen kan ta på sig. Bland annat gäller enligt riksdagens
+            beslut att styrelsen skall yttra sig över riksrevisorernas förslag
+            till granskningsplaner. Utskottet anser att denna uppgift, som
+            inte är särskilt reglerad i lagförslaget, får anses innefattas
+            i begreppet "följa verksamheten". Det är enligt utskottets mening
+            naturligt att detta tydligare kommer till uttryck i den lagstiftning
+            som närmare kommer att reglera riksrevisionens verksamhet. Det
+            kan också finnas mer detaljbetonade uppgifter som inte uttryckligt
+            anges i bestämmelserna i regeringsformen och som styrelsen har
+            ett uppenbart behov av att kunna utföra inom ramen för den roll
+            riksdagen beslutat om. När det gäller styrelsens uppgifter vill
+            utskottet också ta upp frågan om styrelsen skall kunna väcka förslag
+            till riksdagen om skiljande av riksrevisor från uppdraget. Frågan
+            berördes inte särskilt av konstitutionsutskottet i betänkande
+            2000/01:KU8 som låg till grund för riksdagens beslut om inrättande
+            av Riksrevisionen. Riksdagskommittén berörde frågan i samband
+            med att behovet av kvalificerad majoritet för sådana beslut om
+            skiljande diskuterades (förs. 1999/2000:RS1 s. 42). Enligt kommittén
+            borde det införas bestämmelser om hur styrelsen och riksdagsledamöter
+            skall kunna väckan frågan. Kommittén hänvisade till att när det
+            gäller Riksdagens ombudsmän kan riksdagen - enligt 8 kap. 10 §
+            riksdagsordningen - på hemställan av konstitutionsutskottet entlediga
+            ombudsman eller ställföreträdande ombudsman som ej åtnjuter riksdagens
+            förtroende. Enligt 9 kap. 12 § regeringsformen får Riksbankens
+            fullmäktige skilja en ledamot av direktionen från hans anställning.
+            En fullmäktig är skild från uppdraget om riksdagen vägrar honom
+            ansvarsfrihet. För Riksdagens revisorer finns inte några särskilda
+            bestämmelser om skiljande från uppdraget. Enligt utskottets mening
+            ligger det nära till hands att det organ som bereder frågan om
+            val av riksrevisor också får väcka frågan om skiljande av en riksrevisor
+            från uppdraget. Enligt riksdagens riktlinjer skall riksrevisor
+            väljas av riksdagen på förslag av konstitutionsutskottet. Utskottet
+            anser mot denna bakgrund att också uppgiften att lägga fram förslag
+            om att skilja en riksrevisor från uppdraget bör åvila konstitutionsutskottet.
+            En reglering i detta avseende kan senare införas i riksdagsordningen.
+            Utskottet anser vidare att ordet "denne" i sista stycket bör ersättas
+            av ordet "riksrevisorn". Utskottet anser att det nu är möjligt
+            att avgöra när lagen om ändring i regeringsformen skall träda
+            i kraft. Utskottet föreslår att lagen skall träda i kraft den
+            1 juli 2003. Enligt utskottets mening är det angeläget att de
+            första riksrevisorerna skall kunna väljas på ett tidigt stadium
+            och ha ett avgörande inflytande vid uppbyggnaden av den nya myndigheten.
+            Också styrelsen bör kunna utses före ikraftträdandet för att kunna
+            medverka i budgetarbetet. Det behövs därför en övergångsbestämmelse
+            som medger att lagen tillämpas före ikraftträdandet när det gäller
+            val av riksrevisorer, utseende av styrelse och andra förberedande
+            åtgärder som är nödvändiga för att de nya bestämmelserna i 12
+            kap. 7 § regeringsformen skall kunna tillämpas i sin helhet från
+            den dagen. Utskottet vill i detta sammanhang också föreslå en
+            ändring i tryckfrihetsförordningen till följd av att Riksdagens
+            revisorer upphör. I 2 kap. 7 § tryckfrihetsförordningen anges
+            i fråga om myndighets protokoll och därmed jämförliga anteckningar
+            att de skall anses upprättade när handlingen har justerats av
+            myndigheten eller på annat sätt färdigställts, dock ej protokoll
+            hos bl.a. riksdagens utskott och Riksdagens revisorer. Enligt
+            utskottets mening bör hänvisningen till Riksdagens revisorer tas
+            bort. Mot bakgrund av vikten av öppenhet och med hänsyn till den
+            roll som är avsedd för styrelsen är utskottet inte berett att
+            nu föreslå att bestämmelsen i stället skall gälla Riksrevisionens
+            styrelse. Riksdagens beslut om Riksrevisionen innebar bl.a. ett
+            uppdrag till regeringen att tillsätta en organisationskommitté
+            med uppgift att vidta de förberedande åtgärder som krävs för att
+            en ny statlig revisionsmyndighet skall bildas under första halvåret
+            2003. Regeringen utfärdade direktiv för en kommitté som i februari
+            2002 lade fram en rapport. Uppdraget är nu fullgjort i vad som
+            ankommit på regeringen, och riksdagsstyrelsen har den 15 maj 2002
+            beslutat tillkalla en kommitté för det avslutande förberedelsearbetet
+            inför bildandet av Riksrevisionen. I denna uppgift ingår att vidta
+            nödvändiga förberedelser inför bildandet senast den 1 juli 2003
+            av den nya myndigheten. Kommittén skall bl.a. utarbeta underlag
+            för senare beslut av riksrevisorerna i fråga om bl.a. myndighetens
+            organisation, bemanning och chefer för revisionsverksamheten och
+            efter samråd med riksdagsstyrelsens beredningsdelegation fatta
+            beslut om lokaler och vissa personalfrågor. Kommittén skall också
+            utarbeta förslag till anslagsdirektiv, föreskrifter för verksamheten
+            och mål för verksamhetsgrenarna samt utarbeta och förbereda vissa
+            praktiska lösningar. En kommitté bestående av tre ledamöter, av
+            vilka en skall vara ordförande, samt sakkunniga och experter skall
+            svara för arbetet. Riksdagsstyrelsen gav riksdagsdirektören i
+            uppdrag att dels efter samråd med riksdagsstyrelsens beredningsdelegation
+            återkomma till styrelsen med förslag på kommitténs sammansättning
+            och förslag till delegationsordning för beslut som skall fattas
+            av kommittén kollektivt eller av enskild ledamot, dels svara för
+            den övergripande samordningen av kommitténs och beredningsdelegationens
+            arbete. Mot bakgrund av riksdagens tidigare beslut om uppdrag
+            till regeringen i fråga om förberedelsearbetet anser utskottet
+            att riksdagen nu bör ställa sig bakom de nya förutsättningar som
+            gäller för det fortsatta förberedelsearbetet. Utskottet föreslår
+            således att riksdagen godkänner de nya förutsättningarna. Bilaga
+            1 Förteckning över behandlade förslag
+          </p>
+          <p>
+            Propositionen I proposition 2001/02:73 föreslås att riksdagen
+            antar regeringens förslag till lag om ändring i regeringsformen.
+          </p>
+          <p>
+            Bilaga 2 Regeringens lagförslag Förslag till lag om ändring i
+            regeringsformen Härigenom föreskrivs att 12 kap. 7 § regeringsformen[1]
+            skall ha följande lydelse. -----------------------------------------------------
+            Nuvarande lydelse Föreslagen lydelse -----------------------------------------------------
+            12 kap. 7 § -----------------------------------------------------
+            Riksdagen väljer Riksrevisionen är en revisorer att granska den
+            myndighet under riksdagen statliga verksamheten. med uppgift att
+            granska Riksdagen kan besluta att den verksamhet som revisorernas
+            granskning bedrivs av staten. skall omfatta också annan Närmare
+            bestämmelser om verksamhet. Riksdagen Riksrevisionen finns i fastställer
+            instruktion riksdagsordningen och i för revisorerna. annan lag.
+            Enligt vad som föreskrivs i sådan lag Revisorerna får enligt kan
+            Riksrevisionens bestämmelser i lag granskning avse också infordra
+            handlingar, annan än statlig uppgifter och yttranden verksamhet.
+            som behövs för granskningen. Riksrevisionen leds av tre riksrevisorer,
+            som Närmare bestämmelser om väljs av riksdagen. revisorerna finns
+            i Riksrevisorerna beslutar riksdagsordningen. själva, med beaktande
+            av de bestämmelser som finns i lag, vad som skall granskas och
+            hur granskningen skall bedrivas. De bedömer självständigt resultatet
+            av sin granskning. Vid myndigheten finns också en styrelse, som
+            utses av riksdagen. Styrelsens uppgift är att följa granskningsverksamheten,
+            lämna de förslag och redogörelser till riksdagen som riksrevisorernas
+            granskningsrapporter kan ge anledning till samt att besluta om
+            förslag till anslag på statsbudgeten och om årsredovisning för
+            myndigheten. Riksdagen får skilja en riksrevisor från uppdraget
+            endast om denne inte längre uppfyller de krav som gäller för uppdraget
+            eller om riksrevisorn har gjort sig skyldig till allvarlig försummelse.
+            ----------------------------------------------------- ____________
+            Denna lag träder i kraft den dag som bestäms i särskild lag. **FOOTNOTES**
+            [1]: Regeringsformen omtryckt 1998:1437. Bilaga 3 Utskottets lagförslag
+            Av utskottet föreslagen ändring i regeringens förslag till lag
+            om ändring i regeringsformen -----------------------------------------------------
+            Regeringens förslag Utskottets förslag -----------------------------------------------------
+            12 kap. 7 § -----------------------------------------------------
+            Riksrevisionen är en myndighet under riksdagen med uppgift att
+            granska den verksamhet som bedrivs av staten. Närmare bestämmelser
+            om Riksrevisionen finns i riksdagsordningen och i annan lag. Enligt
+            vad som föreskrivs i sådan lag kan Riksrevisionens granskning
+            avse också annan än statlig verksamhet. -----------------------------------------------------
+            Riksrevisionen leds av Riksrevisionen leds av tre riksrevisorer,
+            som tre riksrevisorer, som väljs av riksdagen. väljs av riksdagen.
+            Riksrevisorerna beslutar Riksrevisorerna beslutar själva, med
+            beaktande av självständigt med de bestämmelser som finns beaktande
+            av de i lag, vad som skall bestämmelser som finns i granskas och
+            hur lag, vad som skall granskningen skall granskas. De beslutar
+            bedrivas. De bedömer självständigt och var för självständigt resultatet
+            sig hur granskningen av sin granskning. skall bedrivas och om
+            slutsatserna av sin Vid myndigheten finns granskning. också en
+            styrelse, som utses av riksdagen. Vid myndigheten finns Styrelsens
+            uppgift är att också en styrelse, som följa utses av riksdagen.
+            granskningsverksamheten, Styrelsens uppgift är att lämna de förslag
+            och följa redogörelser till granskningsverksamheten, riksdagen
+            som lämna de förslag och riksrevisorernas redogörelser till granskningsrapporter
+            kan riksdagen som ge anledning till samt riksrevisorernas att
+            besluta om förslag granskningsrapporter och till anslag på revisionsberättelser
+            ger statsbudgeten och om anledning till samt att årsredovisning
+            för besluta om förslag till myndigheten. anslag på statsbudgeten
+            och om årsredovisning för Riksdagen får skilja en myndigheten.
+            riksrevisor från uppdraget endast om denne Riksdagen får skilja
+            en inte längre uppfyller de riksrevisor från krav som gäller för
+            uppdraget endast om uppdraget eller om riksrevisorn inte längre
+            riksrevisorn har gjort uppfyller de krav som sig skyldig till
+            gäller för uppdraget allvarlig försummelse eller om riksrevisorn
+            har gjort sig skyldig till allvarlig försummelse. -----------------------------------------------------
+            ____________ ____________ Denna lag träder i Denna lag träder
+            i kraft den dag som bestäms kraft den 1 juli 2003. i särskild
+            lag. 2. Riksdagen får före ikraftträdandet välja riksrevisorer
+            och utse styrelse för Riksrevisionen. 3. Riksrevisorerna och styrelsen
+            får, i den utsträckning riksdagsstyrelsen bestämmer, före ikraftträdandet
+            vidta de åtgärder som behövs för att Riksrevisionens verksamhet
+            skall kunna påbörjas vid ikraftträdandet. -----------------------------------------------------
+            2. Lag om ändring i tryckfrihetsförordningen Härigenom föreskrivs
+            att 2 kap. 7 § tryckfrihetsförordningen[2]1 skall ha följande
+            lydelse. -----------------------------------------------------
+            Nuvarande lydelse Föreslagen lydelse -----------------------------------------------------
+            2 kap. 7 §[3]2 -----------------------------------------------------
+            Handling anses upprättad hos myndighet, när den har expedierats.
+            Handling som ej har expedierats anses upprättad när det ärende
+            till vilket den hänför sig har slutbehandlats hos myndigheten
+            eller, om handlingen ej hänför sig till visst ärende, när den
+            har justerats av myndigheten eller på annat sätt färdigställts.
+            I stället för vad som föreskrives i första stycket gäller att
+            handling anses upprättad, 1. diarium, journal samt sådant register
+            eller annan förteckning som föres fortlöpande, när handlingen
+            har färdigställts för anteckning eller införing, 2. dom och annat
+            beslut, som enligt vad därom är föreskrivet skall avkunnas eller
+            expedieras, samt protokoll och annan handling i vad den hänför
+            sig till sådant beslut, när beslutet har avkunnats eller expedierats,
+            ----------------------------------------------------- 3. annat
+            myndighets 3. annat myndighets protokoll och därmed protokoll
+            och därmed jämförliga anteckningar, jämförliga anteckningar, när
+            handlingen har när handlingen har justerats av myndigheten justerats
+            av myndigheten eller på annat sätt eller på annat sätt färdigställts,
+            dock ej färdigställts, dock ej protokoll hos riksdagens protokoll
+            hos riksdagens utskott, riksdagens eller utskott, kommuns kommuns
+            revisorer eller revisorer eller statliga statliga kommittéer eller
+            kommittéer eller hos hos kommunal myndighet i kommunal myndighet
+            i ärende som denna endast ärende som denna endast bereder till
+            avgörande. bereder till avgörande. -----------------------------------------------------
+            ____________ Denna lag träder i kraft den 1 juli 2003. **FOOTNOTES**
+            [2]:1Tryckfrihetsförordningen omtryckt 1998:1438 [3]:2 Senaste
+            lydelse 1998:1701
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

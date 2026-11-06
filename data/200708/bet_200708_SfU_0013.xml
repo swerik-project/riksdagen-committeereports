@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200708_SfU_0013">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sade nej till Riksrevisionens styrelses förslag om att regeringen ska få i uppdrag att säkra att hanteringen av arbetsskadeförsäkringen blir mer effektiv och rättssäker. Styrelsens förslag grundade sig på en granskning som visar att det finns skillnader i Försäkringskassans arbetsskadebedömningar. Styrelsen framhåller bland annat att det är viktigt att regeringen och Försäkringskassan ingående analyserar orsakerna till skillnaderna och överväger hur forskning bättre kan tas till vara i hanteringen. En systematisk uppföljning av arbetsskadebedömningar är grundläggande för att hanteringen ska bli mer rättssäker och effektiv, tycker styrelsen. Riksdagen konstaterar att regeringen ska ta itu med de problem som har uppmärksammats och säger därför nej till styrelsens förslag.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Försäkringskassans bedömningar av arbetsskador (SfU13)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Avslag på Riksrevisionens styrelses framställning. Avslag på motionerna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GV09126</idno>
+              <title>2008-06-11</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">126</biblScope>
+              <note type="display-reference">2008-06-11</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GV09124</idno>
+              <title>2008-06-09</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">124</biblScope>
+              <note type="display-reference">2008-06-09</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GV0K235</idno>
+              <title>2007/08:235</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">235</biblScope>
+              <note type="display-reference">2007/08:235</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="frsrdg">
+              <idno type="riksdagen">GV04RRS28</idno>
+              <title>Riksrevisionens styrelses framställning angående Försäkringskassans hantering av arbetsskadeförsäkringen</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">RRS28</biblScope>
+              <note type="display-reference">forslag 2007/08:RRS28 Riksrevisionens styrelses framställning angående Försäkringskassans hantering av arbetsskadeförsäkringen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GV02Sf25</idno>
+              <title>Riksrevisionens styrelses framställning angående Försäkringskassans hantering av arbetsskadeförsäkringen</title>
+              <title type="sub">av Veronica Palm m.fl. (S)</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">Sf25</biblScope>
+              <note type="display-reference">motion 2007/08:Sf25 Riksrevisionens styrelses framställning angående Försäkringskassans hantering av arbetsskadeförsäkringen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GV02Sf26</idno>
+              <title>Riksrevisionens styrelses framställning angående Försäkringskassans hantering av arbetsskadeförsäkringen</title>
+              <title type="sub">av Kalle Larsson m.fl. (V)</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">Sf26</biblScope>
+              <note type="display-reference">motion 2007/08:Sf26 Riksrevisionens styrelses framställning angående Försäkringskassans hantering av arbetsskadeförsäkringen</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2008-06-03">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2008-06-03">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-05-30">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-05-22">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-05-22">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-05-22">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-05-22">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-05-22">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-05-13">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-05-13">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2008-06-11">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-06-11">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-06-11">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-06-11">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-06-09">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-06-09">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-06-05">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-06-05">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-06-04">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-06-04">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Socialförsäkringsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2007/08:SfU13
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Försäkringskassans hantering av arbetsskadeförsäkringen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBKUL" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet en framställning av Riksrevisionens
+            styrelse om Försäkringskassans hantering av arbetsskadeförsäkringen
+            (2007/08:RRS28) jämte två motioner som väckts med anledning av
+            framställningen.
+          </p>
+          <p>
+            Styrelsen begär ett tillkännagivande om att regeringen säkerställer
+            att hanteringen av arbetsskadeförsäkringen blir effektiv och rättssäker.
+            I sina överväganden framhåller styrelsen bl.a. vikten av att regeringen
+            och Försäkringskassan ingående undersöker och analyserar orsakerna
+            till skillnader i Försäkringskassans arbetsskadebedömningar. Styrelsen
+            anser det därtill viktigt att regeringen och Försäkringskassan
+            överväger hur forskning och kunskap inom området bättre ska kunna
+            tas till vara i hanteringen av arbetsskadeförsäkringen. En systematisk
+            uppföljning av arbetsskadebedömningar och en utvecklad erfarenhetsåterföring
+            inom organisationen är enligt styrelsen grundläggande för att
+            få till stånd en mer rättssäker och effektiv hantering av arbetsskadeförsäkringen.
+          </p>
+          <p>
+            Utskottet konstaterar bl.a. att Riksrevisionens rapport m.m.
+            är föremål för regeringens handläggning och anser inte att det
+            finns skäl för riksdagen att nu göra några tillkännagivanden.
+            Framställningen avstyrks därför. Även motionerna avstyrks.
+          </p>
+          <p>
+            I ärendet finns två reservationer (s, v, mp).
+          </p>
+          <p xml:id="IDASBKUL" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Framställningen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår framställning 2007/08:RRS28 och motionerna 2007/08:Sf25
+                  yrkandena 1 och 2 samt 2007/08:Sf26 yrkandena 13.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 1 (s, v, mp)
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Antalet arbetsskadeanmälningar
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2007/08:Sf25 yrkande 3.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 2 (s, v, mp)
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 22 maj 2008
+          </p>
+          <p>
+            På socialförsäkringsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Gunnar Axén
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Gunnar Axén (m),
+            Veronica Palm (s), Helena Rivière (m), Ronny Olander (s), Lars-Arne
+            Staxäng (m), Siw Wittgren-Ahl (s), Ulf Nilsson (fp), Kurt Kvarnström
+            (s), Mats G Nilsson (m), Göte Wahlström (s), Mikael Cederbratt
+            (m), Kalle Larsson (v), Fredrick Federley (c), Patrik Björck (s),
+            Eva Johnsson (kd), Lennart Pettersson (c) och Bodil Ceballos (mp).
+          </p>
+          <p xml:id="IDANHKUL" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            Utskottet behandlar i detta betänkande Riksrevisionens styrelses
+            framställning om Försäkringskassans hantering av arbetsskadeförsäkringen
+            (2007/08:RRS28) jämte två motioner som väckts med anledning av
+            framställningen. En redovisning av motionerna finns i bilagan.
+          </p>
+          <p>
+            Riksrevisionen har granskat Försäkringskassans hantering av arbetsskadeförsäkringen.
+            Granskningen har inriktats på att studera om Försäkringskassan
+            hanterar arbetsskadeförsäkringen på ett effektivt och rättssäkert
+            sätt. Resultatet av granskningen har presenterats i rapporten
+            Försäkringskassans hantering av arbetsskadeförsäkringen (RiR 2007:32).
+          </p>
+          <p>
+            Riksrevisionen genom riksrevisor Eva Lindström m.fl. har den
+            12 februari 2008 informerat utskottet om innehållet i granskningsrapporten.
+          </p>
+          <p>
+            Riksrevisionens styrelse har funnit att slutsatserna av den granskning
+            som Riksrevisionen redovisat i rapporten bör överlämnas till riksdagen
+            i form av en framställning.
+          </p>
+          <p xml:id="IDA3HKUL" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAEQLUL" rend="rubrik2">
+            Framställningen m.m.
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAKQLUL" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen avslår Riksrevisionens styrelses framställning och
+                motionsyrkanden om bl.a. en effektiv och rättssäker hantering
+                av arbetsskadeförsäkringen, om könsperspektivet i försäkringen
+                och om minskat antal arbetsskadeanmälningar.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservationerna 1 (s, v, mp) och 2 (s, v, mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAXQLUL" rend="r4">
+              Gällande ordning
+            </p>
+            <p>
+              Lagen (1976:380) om arbetsskadeförsäkring (LAF) omfattar skador
+              till följd av olycksfall eller annan skadlig inverkan i arbetet.
+              Även olycksfall vid färd till och från arbetet räknas som olycksfall
+              i arbetet, om färden föranleddes av och stod i nära samband med
+              arbetet.
+            </p>
+            <p>
+              Arbetsskadebegreppet i LAF är generellt. Det finns dock vissa
+              undantag från det generella arbetsskadebegreppet. Som arbetsskada
+              anses inte en skada av psykisk eller psykosomatisk natur som är
+              en följd av en företagsnedläggelse, bristande uppskattning av
+              den försäkrades arbetsinsatser, vantrivsel med arbetsuppgifter
+              eller arbetskamrater eller därmed jämförliga förhållanden.
+            </p>
+            <p>
+              Reglerna för ersättning enligt LAF genomgick omfattande förändringar
+              under 1993. Den 1 januari 1993 höjdes beviskravet vid prövning
+              av en arbetsskada, och den 1 juli samma år slopades rätten till
+              arbetsskadesjukpenning för den som var försäkrad enligt lagen
+              om allmän försäkring. Bland annat i syfte att få en mer rättvis
+              och jämställd försäkring sänktes 2002 beviskravet för skador som
+              inträffat den 1 juli 2002 eller senare. Numera gäller att en skada
+              anses ha uppkommit av ett olycksfall eller annan skadlig inverkan
+              i arbetet om övervägande skäl talar för det.
+            </p>
+            <p>
+              För den som ådragit sig en arbetsskada utges i regel endast ersättning
+              i form av arbetsskadelivränta. Livräntan ska i princip utgöra
+              skillnaden mellan den inkomst som den försäkrade haft som oskadad
+              och den inkomst som han eller hon trots skadan kan beräknas få.
+              Ersättning kan betalas upp till 7,5 prisbasbelopp per år (307
+              500 kr för 2008), och ersättningen är hundraprocentig. Livräntan
+              kan betalas ut till dess att den försäkrade fyller 65 år.
+            </p>
+            <p xml:id="IDAGRLUL" rend="r4">
+              Framställningen
+            </p>
+            <p>
+              I framställningen anges att Riksrevisionens granskning visar
+              att det finns risk för osakliga skillnader i Försäkringskassans
+              bedömning av arbetsskador och att individer således riskerar att
+              behandlas olika. Kvinnor får i väsentligt lägre grad än män sina
+              ansökningar om arbetsskadelivränta beviljade. Det finns även stora
+              regionala skillnader i bedömningarna.
+            </p>
+            <p>
+              Vidare framgår av granskningen att det för vissa yrken och diagnoser
+              saknas tillräcklig forskning om sambandet mellan arbete och skador,
+              medan det för andra finns ny forskning som inte används vid arbetsskadebedömningar.
+              Riksrevisionen har funnit att Försäkringskassan inte fullt ut
+              har tagit sitt ansvar för att sammanställa, uppdatera och sprida
+              kunskap om forskningsrön i organisationen. Iakttagelserna leder
+              enligt styrelsens mening till slutsatsen att det finns ett behov
+              av att öka kunskapen inom området. Styrelsen anser att regeringen
+              och Försäkringskassan bör överväga hur forskning och kunskap inom
+              området bättre ska kunna tas till vara och hur kunskapen också
+              kan komma Försäkringskassans handläggare och beslutsfattare till
+              del.
+            </p>
+            <p>
+              Granskningen visar också på brister i uppföljningen av arbetsskadeärenden
+              och bristande interna rutiner som ökar risken för felaktigt utbetalda
+              ersättningar. Få efterkontroller görs av arbetsskadebedömningar.
+              Styrelsen betonar värdet av att Försäkringskassan utvecklar rutiner
+              för uppföljning av kassans handläggning och beslut. En systematisk
+              uppföljning av arbetsskadehandläggningen och en utvecklad erfarenhetsåterföring
+              inom organisationen är grundläggande för att man ska kunna få
+              till stånd en mer rättssäker och effektiv handläggning av arbetsskadeärenden.
+            </p>
+            <p>
+              Vidare konstaterar Riksrevisionen i granskningen att arbetsskadeförsäkringen
+              inte är konstruerad så att den ger ekonomiska incitament för vissa
+              arbetsskadade att återgå i arbete när detta är möjligt. Försäkringen
+              ger inte heller arbetsgivare några ekonomiska motiv att verka
+              för färre arbetsskador. Styrelsen anser att arbetsskadeförsäkringen,
+              liksom övriga försäkrings- och bidragsformer, ska vara konstruerad
+              så att den bidrar till arbetslinjen.
+            </p>
+            <p>
+              Det framhålls i framställningen att det nu pågår verksamheter
+              för att öka rättssäkerheten och effektiviteten i hanteringen.
+              Styrelsen ser positivt på detta utvecklingsarbete men anser att
+              ytterligare initiativ behövs. Styrelsen betonar vikten av att
+              Försäkringskassan fortsätter att ingående undersöka och analysera
+              hur hanteringen av arbetsskadeförsäkringen kan bli mer enhetlig.
+              Det är inte acceptabelt att enskilda eller grupper av individer
+              fortfarande ska behöva riskera att behandlas olika när de ansöker
+              om ersättning för en arbetsskada.
+            </p>
+            <p>
+              Mot bakgrund av det ovan anförda anser styrelsen att regeringen
+              och Försäkringskassan bör beakta vad som framkommit i Riksrevisionens
+              granskning av arbetsskadeförsäkringen och föreslår ett tillkännagivande
+              om att regeringen bör säkerställa att hanteringen av arbetsskadeförsäkringen
+              blir effektiv och rättssäker.
+            </p>
+            <p xml:id="IDA1RLUL" rend="r4">
+              Motionerna
+            </p>
+            <p>
+              I motion Sf25 av Veronica Palm m.fl. (s) begärs i yrkande 1 ett
+              tillkännagivande om att regeringen bör säkerställa att hanteringen
+              av arbetsskadeförsäkringen blir effektiv och rättssäker. Motionärerna
+              anför att Försäkringskassan bör undersöka om skillnaderna i bifallsfrekvens
+              mellan län respektive kön beror på interna faktorer. Forskning
+              och nya rön bör sammanställas. Vissa yrkesområden är outforskade,
+              och eftersom arbetsmiljöer även förändras mycket snabbt kan ett
+              arbetsskadebegrepp inte stanna vid vad som är bevisat genom forskning.
+              Arbetsplatsutredningar måste väga tungt. En rättsbank med nya
+              rättsfall bör införas. Det förebyggande arbetet behöver även förbättras.
+              Motionärerna anser att ett ökat samarbete mellan Arbetsmiljöverket,
+              Försäkringskassan, arbetsgivare, fackliga organisationer och företagshälsovården
+              är viktigt. Om anmälan om arbetsskada sänds direkt till Arbetsmiljöverket,
+              som sänder den vidare till Försäkringskassan, skulle det kunna
+              bidra till att lyfta fram eventuella arbetsmiljöproblem. Arbetsgivaren
+              bör även ha både större möjligheter och större skyldigheter att
+              erbjuda en anpassad arbetsplats.
+            </p>
+            <p>
+              I motionens yrkande 2 begärs ett tillkännagivande om att arbetsskadeförsäkringen
+              bör hanteras jämställt och i enlighet med lagstiftarens intentioner.
+            </p>
+            <p>
+              Slutligen begärs i motionens yrkande 3 ett tillkännagivande om
+              att regeringen i särskild ordning bör låta utreda orsaken bakom
+              den tydliga minskningen av antalet arbetsskadeanmälningar. Motionärerna
+              framhåller att antalet anmälda arbetssjukdomar de senaste fem
+              åren (2003-2007) har mer än halverats, enligt statistik från Arbetsmiljöverket.
+              Minskningen av antalet anmälda arbetsolyckor är avsevärt mindre,
+              ca 13 %. Motionärerna anser att minskningen kan bero på att människors
+              tilltro till arbetsskadeförsäkringen har minskat på grund av oförklarliga
+              skillnader i bedömningar, att ett ärende prövas först efter att
+              minst ett år förflutit samt på grund av långa handläggningstider.
+            </p>
+            <p>
+              I motion Sf26 av Kalle Larsson m.fl. (v) begärs i yrkande 1 ett
+              tillkännagivande om att regeringen måste vidta åtgärder för att
+              säkerställa en rättssäker hantering av arbetsskadeförsäkringen.
+              Motionärerna framhåller att bevisregler och arbetsskadebegrepp
+              ska utformas så att försäkringen ger ett reellt skydd vid arbetsrelaterade
+              skador och på ett sådant sätt att kvinnor inte diskrimineras när
+              det gäller att få sjukdomstillstånd godkända som arbetsskador.
+            </p>
+            <p>
+              I motionens yrkande 2 begärs att Försäkringskassan ges i uppdrag
+              att integrera könsperspektivet i tillämpningen av socialförsäkringarna
+              och återrapportera resultatet årligen. Motionärerna anser att
+              det är mycket viktigt att regeringen i kommande uppdrag tydliggör
+              socialförsäkringsadministrationens ansvar för att analysera könsdiskriminerande
+              inslag både vad gäller arbetsskadeförsäkringens uppbyggnad och
+              i handläggningen. Målet måste vara att avskaffa alla osakliga
+              skillnader och garantera en rättssäker tillämpning av försäkringen.
+            </p>
+            <p>
+              Slutligen begärs i motionens yrkande 3
+            </p>
+            <p xml:id="IDAYSLUL" rend="r4">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Grundläggande för rättssäkerheten i Försäkringskassans verksamhet
+              är korrekta beslut och utbetalningar. Detta innebär en korrekt
+              och likformig handläggning med rimliga handläggningstider av ärenden.
+              Utfallet av ett ärende ska vara oberoende av var i landet en person
+              bor, om det är en man eller kvinna som ansöker om ersättning och
+              om personen är född i Sverige eller utomlands.
+            </p>
+            <p>
+              Ett allvarligt problem i tillämpningen av arbetsskadeförsäkringen,
+              vilket har genomsyrat försäkringen sedan den trädde i kraft den
+              1 juli 1977, är att det ofta är svårt att bedöma om sjukdomsbesvär
+              från t.ex. muskler, ryggrad och leder är orsakade av annan skadlig
+              inverkan i arbetet än olycksfall, dvs. om det föreligger en arbetssjukdom
+              eller inte. Bland annat därför är det viktigt att forskning bedrivs
+              om orsakssamband mellan arbetsförhållanden och sjukdomsbesvär
+              och att forskningsresultat sammanställs, uppdateras och finnas
+              tillgängliga vid arbetsskadebedömningarna. Ett delmoment i arbetsskadeprövningarna
+              är att bedöma och uppskatta omfattningen av den skadliga inverkan
+              som eventuellt finns i arbetet och om det finns konkurrerande
+              skadeorsaker, t.ex. vid fritidsaktiviteter. En av Försäkringskassan
+              genomförd aktstudie indikerar allvarliga brister i utredningar
+              om exponering och konkurrerande skadeorsaker. Utskottet vill framhålla
+              att arbetsskadebedömningar ofta innebär komplicerade bedömningar
+              och att utredningarna därför måste hålla en hög kvalitet så att
+              handläggare och beslutsfattare kan bilda sig en korrekt uppfattning
+              om de aktuella förhållandena.
+            </p>
+            <p>
+              Ett annat problem som Riksrevisionen har pekat på är skillnaden
+              i bedömningen av arbetsskador mellan kvinnor och män. Den striktare
+              bevisregel som infördes 1993 bidrog till en påtaglig minskning
+              av antalet personer som beviljades arbetsskadelivränta, bland
+              både kvinnor och män. Minskningen var dock större bland kvinnor.
+              Bland annat av det skälet mildrades bevisregeln. En av Försäkringskassan
+              genomförd statistikstudie indikerar att genomförandet av 2002
+              års bevisregel tycks ha fått avsedd verkan, såtillvida att möjligheterna
+              för kvinnor att få livränta beviljad för arbetssjukdomar har ökat.
+              Fortfarande tycks dock en del av skillnaderna mellan kvinnor och
+              män kvarstå. Den genomförda studien visar också att kvinnor och
+              män födda utanför Norden och EU 15 har betydligt mindre chans
+              än övriga att beviljas livränta. Det gäller både vid arbetssjukdom
+              och vid olycksfall. Lägsta beviljandefrekvens har kvinnor.
+            </p>
+            <p>
+              I betänkande 2007/08:SfU1 beklagade utskottet att det ännu inte
+              har gått att komma till rätta med olikheterna i beviljandefrekvens
+              mellan kvinnor och män men förutsatte att åtgärder kommer att
+              vidtas när väl orsakerna härtill har analyserats, under förutsättning
+              att skillnaderna framstår som osakliga. Utskottet vidhåller sin
+              inställning.
+            </p>
+            <p>
+              Försäkringskassan anger i svar i januari 2008 på regeringsuppdrag,
+              <seg rend="grad2">
+                Skillnader i beviljandefrekvens vid beslut om arbetsskadelivränta
+                för kvinnor respektive män
+              </seg>
+              , att kassan har vidtagit och kommer att vidta åtgärder för att
+              minska osakliga skillnader. För att öka kvaliteten och likformigheten
+              i beslutsunderlag och beslut har Försäkringskassan under 2007
+              infört ett metodstöd för exponeringsutredning och ett metodstöd
+              för försäkringsläkarnas yttranden i arbetsskadeärenden. Det har
+              även hållits vidareutbildning för försäkringsläkare som yttrar
+              sig i arbetsskadeärenden. Handläggningen av arbetsskador kommer
+              under 2008 att koncentreras till fem nationella försäkringscenter,
+              vilket ger större förutsättningar för en enhetligare handläggning
+              och ökad kvalitet. Det pågår även ett arbete med att ta fram en
+              ny kunskapssammanställning av arbetets betydelse för sjukdomar
+              i rörelseapparaten, vilket ska resultera i ett beslutsstöd i handläggningen
+              av arbetsskador. Under 2008 kommer Försäkringskassan att vidta
+              ytterligare åtgärder som ska öka kvaliteten och skapa lika behandling
+              av ärenden över hela landet.
+            </p>
+            <p>
+              Enligt 47 § lagen (1996:1059) om statsbudgeten ska regeringen
+              årligen redovisa för riksdagen vilka åtgärder regeringen vidtagit
+              med anledning av Riksrevisionens iakttagelser. Riksrevisionens
+              granskningsrapport är nu föremål för regeringens handläggning,
+              vilket även Försäkringskassans svar på regeringsuppdraget är.
+              Utskottet anser inte att det finns skäl för riksdagen att nu göra
+              några tillkännagivanden.
+            </p>
+            <p>
+              Mot denna bakgrund avstyrker utskottet Riksrevisionens styrelses
+              förslag samt motionerna Sf25 yrkandena 1 och 2 och Sf26.
+            </p>
+            <p>
+              En arbetsgivare som fått kännedom om en inträffad arbetsskada
+              är skyldig att anmäla skadan till Försäkringskassan. Försäkringskassan
+              i sin tur skickar anmälan vidare till Arbetsmiljöverket. En arbetsskadeanmälan
+              från arbetsgivaren innebär inte att arbetsskadan prövas enligt
+              LAF. För att en enskild ska få sin rätt till ersättning prövad
+              måste denne lämna in en ansökan om ersättning till Försäkringskassan.
+              Utskottet anser inte att det finns skäl för riksdagen att göra
+              ett tillkännagivande med anledning av motion Sf25 yrkande 3, som
+              därmed avstyrks.
+            </p>
+            <p xml:id="IDAYTLUL" rend="AvsnittsRubrik">
+              Reservationer
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservationer. I rubriken anges vilken
+              punkt i utskottets förslag till riksdagsbeslut som behandlas i
+              avsnittet.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDA5TLUL">
+                  <p rend="reservation">
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Framställningen, punkt 1 (s, v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Veronica Palm (s), Ronny Olander (s), Siw Wittgren-Ahl (s),
+                    Kurt Kvarnström (s), Göte Wahlström (s), Kalle Larsson (v), Patrik
+                    Björck (s) och Bodil Ceballos (mp).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAYVLUL" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 1 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen. Därmed bifaller riksdagen motionerna 2007/08:Sf25
+              yrkandena 1 och 2 samt 2007/08:Sf26 yrkandena 13 och bifaller
+              delvis framställning 2007/08:RRS28.
+            </p>
+            <p xml:id="IDA5VLUL" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Riksrevisionen har pekat på flera problem och åtgärder som vi
+              ställer oss bakom. Således bör Försäkringskassan undersöka om
+              skillnaderna i bifallsfrekvens mellan län och kön beror på interna
+              faktorer. Forskning och nya rön bör sammanställas. Eftersom vissa
+              yrkesområden är outforskade och arbetsmiljöer även förändras mycket
+              snabbt kan ett arbetsskadebegrepp dock inte stanna vid vad som
+              är bevisat genom forskning. Arbetsplatsutredningar måste väga
+              tungt. En rättsbank med nya rättsfall bör även införas. Vi anser
+              också att socialförsäkringsnämnderna bör återinföras. Kunskap
+              om arbetsskador kunde tidigare förmedlas av representanter från
+              olika arbetsplatser och branscher i nämnderna. Vidare behöver
+              det förebyggande arbetet förbättras. Ett ökat samarbete mellan
+              Arbetsmiljöverket, Försäkringskassan, arbetsgivare, fackliga organisationer
+              och företagshälsovården anser vi vara viktigt. Ett förfarande
+              där anmälan om arbetsskada sänds direkt till Arbetsmiljöverket,
+              som sänder den vidare till Försäkringskassan, skulle kunna bidra
+              till att lyfta fram eventuella arbetsmiljöproblem. Arbetsgivaren
+              bör även ha både större möjligheter och större skyldigheter att
+              erbjuda en anpassad arbetsplats.
+            </p>
+            <p>
+              Vi vill särskilt framhålla att arbetsskadeförsäkringen ska hanteras
+              jämställt och i enlighet med lagstiftarens intentioner. Försäkringskassan
+              bör därför ges i uppdrag att integrera könsperspektivet i tillämpningen
+              av socialförsäkringarna och återrapportera resultatet årligen.
+              Försäkringskassans personal i allmänhet och handläggare i arbetsskadeärenden
+              i synnerhet bör få utbildning i könsperspektiv på arbetsrelaterad
+              ohälsa. Målet måste vara att avskaffa alla osakliga skillnader
+              och garantera en rättssäker tillämpning av försäkringen.
+            </p>
+            <p>
+              Sammanfattningsvis ska bevisregler och arbetsskadebegrepp utformas
+              så att försäkringen kan tillämpas på ett sådant sätt att den ger
+              ett reellt skydd vid arbetsrelaterade skador och att kvinnor inte
+              diskrimineras när det gäller att få sjukdomstillstånd godkända
+              som arbetsskador. Regeringen bör således säkerställa att hanteringen
+              av arbetsskadeförsäkringen blir effektiv och rättssäker, vilket
+              riksdagen bör ge regeringen till känna.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAMWLUL">
+                  <p rend="reservation">
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Antalet arbetsskadeanmälningar, punkt 2 (s, v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Veronica Palm (s), Ronny Olander (s), Siw Wittgren-Ahl (s),
+                    Kurt Kvarnström (s), Göte Wahlström (s), Kalle Larsson (v), Patrik
+                    Björck (s) och Bodil Ceballos (mp).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAIYLUL" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 2 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen. Därmed bifaller riksdagen motion 2007/08:Sf25
+              yrkande 3.
+            </p>
+            <p xml:id="IDAPYLUL" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              De senaste fem åren har antalet anmälda arbetssjukdomar mer än
+              halverats, enligt statistik från Arbetsmiljöverket. Minskningen
+              av antalet anmälda arbetsolyckor är avsevärt mindre, ca 13 %.
+              Vi tror inte att minskningen av antalet arbetsskadeanmälningar
+              under senare år beror på att arbetsplatser, arbetsmiljöer och
+              arbetssituationer som skadar och leder till sjukdomar har förbättrats
+              så avsevärt att det förklarar minskningen. Den kan i stället bero
+              på att människors tilltro till arbetsskadeförsäkringen har minskat
+              på grund av oförklarliga skillnader i bedömningarna, att ett ärende
+              börjar prövas först efter det att minst ett år förflutit och på
+              grund av långa handläggningstider. Regeringen bör därför i särskild
+              ordning låta utreda orsakerna bakom den tydliga minskningen av
+              antalet arbetsskadeanmälningar. Detta bör riksdagen ge regeringen
+              till känna.
+            </p>
+            <p xml:id="IDAVYLUL" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAYYLUL" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDA1YLUL" rend="rubrik2">
+              Framställningen
+            </p>
+            <p rend="behandlatdokument_">
+              Framställning 2007/08:RRS28 Riksrevisionens styrelses framställning
+              angående Försäkringskassans hantering av arbetsskadeförsäkringen:
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad styrelsen
+              anfört om att regeringen bör säkerställa att hanteringen av arbetsskadeförsäkringen
+              blir effektiv och rättssäker.
+            </p>
+            <p xml:id="IDAIZLUL" rend="rubrik2">
+              Följdmotionerna
+            </p>
+            <p rend="behandlatdokument_">
+              2007/08:Sf25 av Veronica Palm m.fl. (s):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om att regeringen bör säkerställa att hanteringen
+                    av arbetsskadeförsäkringen blir effektiv och rättssäker.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om att arbetsskadeförsäkringen bör hanteras
+                    jämställt och i enlighet med lagstiftarens intentioner.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om att regeringen i särskild ordning bör låta
+                    utreda orsaken bakom den tydliga minskningen av antalet arbetsskadeanmälningar.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="behandlatdokument_">
+              2007/08:Sf26 av Kalle Larsson m.fl. (v):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om att regeringen måste vidta åtgärder för att
+                    säkerställa en rättssäker hantering av arbetsskadeförsäkringen.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om att Försäkringskassan bör ges i uppdrag att
+                    integrera könsperspektivet i tillämpningen av socialförsäkringarna
+                    och återrapportera resultatet årligen.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om att Försäkringskassans personal i allmänhet
+                    och handläggare i arbetsskadeärenden i synnerhet bör få utbildning
+                    i könsperspektiv på arbetsrelaterad ohälsa.
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

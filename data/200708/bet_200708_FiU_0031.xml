@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200708_FiU_0031">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sade nej till Riksrevisionens styrelses förslag om att regeringen bör få i uppdrag att säkra en förbättrad krisberedskap för det centrala betalningssystemet. Skälet är att regeringen och berörda myndigheter redan har inlett ett sådant arbete. Riksdagen vill inte föregripa resultaten av arbetet och regeringens återrapportering av vad som gjorts.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Krisberedskap i betalningssystemet (FiU31)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Avslag på framställningen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GV09124</idno>
+              <title>2008-06-09</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">124</biblScope>
+              <note type="display-reference">2008-06-09</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GV09124</idno>
+              <title>2008-06-09</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">124</biblScope>
+              <note type="display-reference">2008-06-09</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GV0K231</idno>
+              <title>2007/08:231</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">231</biblScope>
+              <note type="display-reference">2007/08:231</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="frsrdg">
+              <idno type="riksdagen">GV04RRS24</idno>
+              <title>Riksrevisionens styrelses framställning angående krisberedskap i betalningssystemet</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">RRS24</biblScope>
+              <note type="display-reference">forslag 2007/08:RRS24 Riksrevisionens styrelses framställning angående krisberedskap i betalningssystemet</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2008-06-02">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2008-06-02">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-05-27">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-05-27">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-05-23">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-05-22">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-05-22">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-05-06">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-05-06">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2008-06-09">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-06-09">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-06-09">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-06-09">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-06-09">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-06-05">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-06-05">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-06-04">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-06-04">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2007/08:FiU31
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Krisberedskap i betalningssystemet
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBKUL" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet Riksrevisionens styrelses framställning
+            2007/08:RRS24 angående krisberedskap i betalningssystemet.
+          </p>
+          <p>
+            Riksrevisionen har granskat krisberedskapen inom betalningssystemet
+            och presenterat resultaten av granskningen i rapporten
+            <seg rend="grad2">
+              Krisberedskap i betalningssystemet
+            </seg>
+            (RiR 2007:28).
+          </p>
+          <p>
+            Mot bakgrund av vad som framkommit i granskningen har Riksrevisionens
+            styrelse överlämnat framställning 2007/08:RRS24 angående krisberedskap
+            i betalningssystemet till riksdagen. I framställningen föreslås
+            att riksdagen för regeringen tillkännager som sin mening att regeringen
+            bör säkerställa en förbättrad krisberedskap för det centrala betalningssystemet.
+          </p>
+          <p>
+            Det har inte väckts några motioner i ärendet.
+          </p>
+          <p>
+            Utskottet vill betona vikten av att krisberedskapen inom betalningssystemet
+            är god och anser, efter att ha tagit del av resultaten av Riksrevisionens
+            granskning, att ytterligare åtgärder krävs för att säkerställa
+            en förbättrad krisberedskap. Samtidigt noterar utskottet att regeringen
+            och berörda myndigheter har inlett ett sådant arbete. Utskottet
+            anser vid en sammanvägd bedömning att resultaten av detta arbete,
+            liksom av regeringens återrapportering om vidtagna åtgärder, inte
+            bör föregripas i nuläget. Utskottet avstyrker därför Riksrevisionens
+            styrelses framställning.
+          </p>
+          <p>
+            I betänkandet finns 1 reservation (s, v, mp).
+          </p>
+          <p xml:id="IDA2BKUL" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Riksrevisionens styrelses framställning angående krisberedskap
+                  i betalningssystemet
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår framställning 2007/08:RRS24.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation (s, v, mp)
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 22 maj 2008
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Thomas Östros (s), Ulf Sjösten (m), Anna Lilliehöök (m), Sonia
+            Karlsson (s), Lars Elinderson (m), Monica Green (s), Johan Pehrson
+            (fp), Hans Hoff (s), Peder Wachtmeister (m), Agneta Gille (s),
+            Göran Pettersson (m), Ulla Andersson (v), Tommy Ternemar (s),
+            Emma Henriksson (kd), Mikaela Valtersson (mp) och Jörgen Johansson
+            (c).
+          </p>
+          <p xml:id="IDAEFKUL" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAHFKUL" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Riksrevisionen har granskat krisberedskapen inom betalningssystemet
+            och presenterat resultaten av granskningen i rapporten
+            <seg rend="grad2">
+              Krisberedskap i betalningssystemet
+            </seg>
+            (RiR 2007:28). I granskningen bedömer Riksrevisionen om regeringen
+            och berörda myndigheter har vidtagit tillräckliga åtgärder för
+            att förebygga och hantera allvarliga tekniska störningar i betalningssystemet.
+          </p>
+          <p>
+            Mot bakgrund av vad som framkommit i granskningen har Riksrevisionens
+            styrelse den 20 februari 2008 överlämnat framställning 2007/08:RRS24
+            angående krisberedskap i betalningssystemet till riksdagen. I
+            framställningen föreslås att riksdagen för regeringen tillkännager
+            som sin mening att regeringen bör säkerställa en förbättrad krisberedskap
+            för det centrala betalningssystemet.
+          </p>
+          <p>
+            Det har inte väckts några motioner i ärendet.
+          </p>
+          <p>
+            Utskottet har inhämtat ytterligare upplysningar i ärendet från
+            riksrevisor Eva Lindström vid utskottets sammanträde den 25 mars.
+            Dessutom har riksbankschef Stefan Ingves och Finansinspektionens
+            generaldirektör Ingrid Bonde getts tillfälle att kommentera granskningsrapporten
+            vid utskottets sammanträde den 3 april. Riksbanken har därefter
+            i en skrivelse till finansutskottet den 19 maj gett sin syn på
+            krisberedskapen i betalningssystemet och Riksrevisionens iakttagelser.
+          </p>
+          <p xml:id="IDA1FKUL" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDA5FKUL" rend="rubrik2">
+            Riksrevisionens styrelses framställning angående krisberedskap
+            i betalningssystemet
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAFGKUL" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen avslår Riksrevisionens styrelses framställning 2007/08:RRS24.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation (s, v, mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDASGKUL" rend="r3">
+              Bakgrund
+            </p>
+            <p xml:id="IDAVGKUL" rend="r4">
+              Det centrala betalningssystemet
+            </p>
+            <p>
+              Det centrala betalningssystemet utgörs av tekniska och administrativa
+              system som möjliggör betalning av varor och tjänster. Inom det
+              centrala betalningssystemet hanteras en stor mängd olika funktioner
+              som t.ex. kontantförsörjning, kortbetalningar och överföring av
+              medel mellan banker samt handel, clearing och avveckling i finansiella
+              instrument. Ett stort antal aktörer, såväl myndigheter som privata
+              aktörer, ansvarar för olika funktioner inom det centrala betalningssystemet.
+            </p>
+            <p xml:id="IDA1GKUL" rend="r4">
+              Motiv för granskningen
+            </p>
+            <p>
+              Enligt Riksrevisionen har den tekniska utvecklingen gått snabbt
+              och antalet aktörer inom betalningssystemet har ökat. De allra
+              flesta betalningarna görs numera genom elektroniska överföringar,
+              vilket medför att de är beroende av att den tekniska infrastrukturen
+              som el, tele och IT fungerar väl. De inblandade parterna är sammanlänkade
+              i olika tekniska system och därmed beroende av varandra, samtidigt
+              som betalningssystemet har blivit allt mer beroende av teknik
+              som är öppen för storskalig manipulation. Följden blir att allvarliga
+              tekniska fel kan sprida sig snabbt. Samtidigt kan även andra typer
+              av tekniska störningar uppstå, som t.ex. kabelbrott och datorhaverier.
+              Spridnings- och kaskadeffekter av tekniska fel kan på kort tid
+              åsamka betydande skador och förluster för företag och konsumenter.
+              Brister i infrastrukturen som gör det omöjligt att göra elektroniska
+              överföringar kan därmed medföra att stora delar av den ekonomiska
+              aktiviteten stannar av. Om det blir omöjligt att göra betalningar
+              kan detta i slutändan orsaka kaos i samhället.
+            </p>
+            <p xml:id="IDABHKUL" rend="r3">
+              Framställningens huvudsakliga innehåll
+            </p>
+            <p xml:id="IDAEHKUL" rend="r4">
+              Riksrevisionens iakttagelser och slutsatser
+            </p>
+            <p>
+              I framställningen konstateras att den finansiella sektorns aktiviteter
+              när det gäller krisberedskap har utvecklats under senare år och
+              att samtliga granskade myndigheter är engagerade i arbetet. Riksrevisionen
+              bedömer trots detta att det finns ett antal allvarliga brister
+              i fråga om statens åtgärder för att förebygga och hantera allvarliga
+              tekniska störningar i betalningssystemen.
+            </p>
+            <p>
+              Enligt Riksrevisionens granskning har varken regeringen eller
+              myndigheterna tillräckliga underlag för att kunna bedöma om vidtagna
+              åtgärder räcker för att
+              <seg rend="grad2">
+                förebygga
+              </seg>
+              allvarliga el-, tele- och IT-störningar i det centrala betalningssystemet.
+              Regeringen har inte fastställt krav på grundläggande säkerhet
+              och uthållighet i betalningssystemet. Otydliga mål försvårar uppföljningen
+              av det arbete som görs, och redovisningen av vad som gjorts är
+              relativt knapphändig. Det finns brister i myndigheternas risk-
+              och sårbarhetsanalyser och även i deras tillsyn, uppföljning och
+              samordning sinsemellan. Det finns, enligt Riksrevisionens granskning,
+              ingen samlad redovisning av hot, risker och sårbarheter som uppfyller
+              kraven enligt förordningen (2006:942) om krisberedskap och höjd
+              beredskap (krisberedskapsförordningen). Den information som finns
+              hanteras inte på ett välorganiserat sätt, vilket gör att regeringen
+              inte kan sammanställa en nationell bild av samhällets krishanteringsförmåga.
+            </p>
+            <p>
+              Riksrevisionen bedömer i granskningsrapporten att statens åtgärder
+              inte heller räcker för att
+              <seg rend="grad2">
+                hantera
+              </seg>
+              allvarliga el-, tele- och IT-störningar i betalningssystemet
+              om de inträffar. Den krisplanering som gjorts och de övningar
+              som genomförts uppvisar brister, och ansvarsfördelningen mellan
+              olika aktörer är oklar. Det finns inte någon myndighet med ett
+              övergripande ansvar för arbetet på området, utan ansvaret är splittrat
+              mellan flera myndigheter. Det saknas också en tjänsteman i beredskap-funktion
+              inom den finansiella sektorn, trots att en sådan funktion har
+              inrättats inom många andra samhällssektorer. Samarbetet mellan
+              myndigheter och privata aktörer, särskilt när det gäller informationsutbyte,
+              försvåras också av att parterna ser nuvarande sekretessregler
+              som en komplicerande faktor.
+            </p>
+            <p xml:id="IDAYHKUL" rend="r4">
+              Riksrevisionens rekommendationer
+            </p>
+            <p>
+              Riksrevisionen fäster
+              <seg rend="grad2">
+                riksdagens
+              </seg>
+              uppmärksamhet på behovet att överväga en ändring av lagen (1988:1385)
+              om Sveriges riksbank för att bestämmelserna i krisberedskapsförordningen
+              även ska gälla för Riksbanken.
+            </p>
+            <p>
+              Riksrevisionen rekommenderar
+              <seg rend="grad2">
+                regeringen
+              </seg>
+              att
+            </p>
+            <p>
+              ·. fastställa vilka grundläggande säkerhetskrav som ska gälla
+              för betalningssystemet och dess nödvändiga infrastruktur, och
+              hur uthålligt systemet måste vara,
+            </p>
+            <p>
+              ·. fastställa vilken myndighet (t.ex. Finansinspektionen) som
+              har det övergripande krisberedskapsansvaret samt föreslå för riksdagen
+              i vilka avseenden Riksbanken ska ansvara för krisberedskapen,
+            </p>
+            <p>
+              ·. se över hur krisberedskapen följs upp i fråga om samordning
+              och återrapportering av information och i fråga om tillsynen inom
+              betalningssystemet,
+            </p>
+            <p>
+              ·. säkerställa att analyser av risker och sårbarheter i hela
+              det centrala betalningssystemet genomförs i enlighet med krisberedskapsförordningens
+              krav och ställs samman, samt att hanteringen av sekretessbelagda
+              uppgifter ses över och
+            </p>
+            <p>
+              ·. se över hur krisberedskapen inom betalningssystemet följs
+              upp och bl.a. utse en central samordnare för all information om
+              krisberedskapen, ta fram en långsiktig strategi för gemensamma
+              krisövningar, inrätta en funktion för tjänsteman i beredskap inom
+              den finansiella sektorn samt se över ledningsansvaret för krisberedskapen.
+            </p>
+            <p>
+              Riksrevisionen rekommenderar berörda
+              <seg rend="grad2">
+                myndigheter
+              </seg>
+              att
+            </p>
+            <p>
+              ·. se till att deras risk- och sårbarhetsanalyser uppfyller krisberedskapsförordningens
+              krav och med beaktande av Krisberedskapsmyndighetens kritik ta
+              fram all information som finns tillgänglig inom den egna organisationen
+              samt göra en analys av hela myndighetens ansvarsområde samt
+            </p>
+            <p>
+              ·. komplettera sina krisplaner med åtgärder som behövs för att
+              stärka samverkan med andra aktörer som kan bidra till att höja
+              beredskapen.
+            </p>
+            <p>
+              Riksrevisionen rekommenderar
+              <seg rend="grad2">
+                Riksbanken, Finansinspektionen och Post- och telestyrelsen att
+                göra inspektioner på plats hos företag och genom stickprov kontrollera
+                att dessa har infört de skyddsåtgärder som man säger sig ha och
+                Finansinspektionen
+              </seg>
+              att utnyttja sin föreskriftsrätt och sina sanktionsmöjligheter
+              vid brister i krisberedskapen.
+            </p>
+            <p xml:id="IDATKLUL" rend="r4">
+              Riksrevisionens styrelses framställning
+            </p>
+            <p>
+              I framställningen tar Riksrevisionens styrelse upp den kritik
+              som framförts i granskningsrapporten. Styrelsen anför att regeringen
+              bör fastställa grundläggande säkerhetskrav för betalningssystemet
+              och dess infrastruktur. Dessutom framhålls att informationen om
+              de beredskapsåtgärder som vidtas måste bli bättre och mer samordnad.
+              Riksrevisionens styrelse menar också att en myndighet bör ges
+              ett samlat ansvar för krisberedskapen och pekar slutligen på att
+              de nuvarande sekretessreglerna leder till bristande samarbete
+              och information mellan myndigheter och privata aktörer.
+            </p>
+            <p>
+              Mot bakgrund av vad som anförts föreslår Riksrevisionens styrelse
+              att riksdagen tillkännager för regeringen som sin mening att regeringen
+              bör säkerställa att krisberedskapen för det centrala betalningssystemet
+              förbättras så att det är möjligt att förebygga och hantera tekniska
+              hot och risker inom detta system.
+            </p>
+            <p xml:id="IDA2KLUL" rend="r3">
+              Riksbankens skrivelse
+            </p>
+            <p>
+              I en skrivelse till finansutskottet den 19 maj kommenterar Riksbanken
+              iakttagelserna i Riksrevisionens granskningsrapport. Riksbanken
+              anför i en övergripande kommentar att det arbete som för närvarande
+              bedrivs utgår från Riksbankens tolkning av dess mandat. Om Riksbanken
+              tilldelas ett bredare mandat, t.ex. ett större ansvar för att
+              förebygga och hantera konventionella kriser i bankerna och den
+              finansiella infrastrukturen, skulle detta kräva ändringar i såväl
+              lagstiftning som bankens instruktioner och rutiner. Dessutom skulle
+              det krävas rekrytering av specialister och en översyn av Riksbankens
+              föreskriftsrätt.
+            </p>
+            <p>
+              Riksbanken tar även upp Riksrevisionens kritik mot att den hittillsvarande
+              krisplaneringen endast tagit upp en del av de potentiella hoten
+              och störningarna i betalningssystemet. Enligt Riksbanken inträffar
+              störningar oftast i enstaka delar av betalningssystemet. I fall
+              då mer omfattande störningar inträffar i t.ex. el- eller teleförsörjning
+              får detta följder även utanför betalningssystemet och kräver en
+              mer omfattande analys. Dessutom anför Riksbanken att krisplaneringsarbetet
+              har utgått från att identifiera de konsekvenser som kan bli följden
+              av ett antal typiska hot och störningar, snarare än att försöka
+              identifiera samtliga hot och störningar. Enligt Riksbanken torde
+              det vara ogörligt att i förväg identifiera alla de hot och störningar
+              som kan inträffa, och den valda inriktningen på arbetet har därför
+              setts som mer effektiv.
+            </p>
+            <p>
+              Riksbanken kommenterar även de specifika rekommendationer som
+              lämnas i Riksrevisionens granskningsrapport. Riksbanken framför
+              att det är rimligt att grundläggande säkerhetskrav fastställs.
+              Enligt Riksbanken finns dock vissa problem med att enbart fastställa
+              grundläggande krav, eftersom risken är att det då saknas incitament
+              att sträva efter ytterligare förbättringar. Riksbanken anför att
+              en strävan mot bästa möjliga säkerhetsnivå, genom s.k. best practices,
+              framstår som lämpligare, men uttalar även att lagstiftning kan
+              behöva tillämpas för att ställa krav på samhällsviktig grundläggande
+              infrastruktur som t.ex. elektronisk kommunikation.
+            </p>
+            <p>
+              Riksbanken anser att det är lämpligt att en myndighet utses till
+              att ha övergripande ansvar för krisberedskapen i betalningssystemet,
+              men har inga synpunkter på vilken myndighet som bör ges ett sådant
+              ansvar. Enligt Riksbankens uppfattning är det även rimligt att
+              en samordnare, med specialistkunskaper, samlar in och analyserar
+              information om myndigheternas krisberedskap. Riksbanken står beredd
+              att på frivillig basis ge information som ett led i ett sådant
+              arbete. Riksbanken är även beredd att på frivillig basis delta
+              i arbetet med att ta fram analyser av sårbarheten i betalningssystemet.
+            </p>
+            <p>
+              Riksbanken anser att det redan i nuläget pågår intensiv övningsverksamhet
+              inom finanssektorn och att det inte finns något behov av att öka
+              övningsfrekvensen. Däremot borde finanssektorn genomföra fler
+              tvärsektoriella övningar med medverkan av t.ex. elleverantörer
+              eller teleoperatörer. Vidare uppger Riksbanken att begreppet tjänsteman
+              i beredskap kommer att införas i krisorganisationen, där det redan
+              nu finns en tjänsteman som är högste ansvarige för Riksbankens
+              finansiella krisorganisation och andra tjänstemän med särskilt
+              krisledningsansvar på specifika områden.
+            </p>
+            <p>
+              Riksbanken anser att en specifik rekommendation från Riksrevisionen,
+              att göra inspektioner och stickprov hos aktörer, inte är genomförbar.
+              Riksbanken saknar enligt egen bedömning såväl mandat som teknisk
+              kompetens för att syssla med sådan inspektionsverksamhet.
+            </p>
+            <p xml:id="IDARLLUL" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Enligt utskottets mening är det av stor vikt att infrastrukturen
+              på det finansiella området fungerar tillfredsställande och att
+              tillräckliga åtgärder vidtas för att förebygga och hantera störningar.
+              Ett väl fungerande och motståndskraftigt betalningssystem utgör
+              en viktig komponent i den finansiella infrastrukturen och kan
+              även bidra till att öka den finansiella stabiliteten och förtroendet
+              för det finansiella systemet. Mot denna bakgrund finner utskottet
+              att de frågeställningar som tas upp av Riksrevisionens styrelse
+              är angelägna och att det krävs åtgärder för att förbättra krisberedskapen
+              avseende det centrala betalningssystemet.
+            </p>
+            <p>
+              Utskottet välkomnar därför att regeringen uppdragit åt flera
+              berörda myndigheter att lämna rapporter avseende bl.a. krisberedskapen
+              inom det centrala betalningssystemet. Utskottet noterar att Finansinspektionen
+              lämnade en rapport den 22 april, medan en rapport från Riksgälden
+              kan emotses under våren 2008. Därutöver har Riksbanken och Finansinspektionen
+              såväl inför utskottet som i andra sammanhang gett synpunkter på
+              vissa förslag i Riksrevisionens granskningsrapport. Vidare genomförde
+              Krisberedskapsmyndigheten tillsammans med ett stort antal berörda
+              aktörer en större krisövning om IT-attacker mot det finansiella
+              systemet (SAMÖ 2008) i april 2008. En utvärdering av övningen
+              kan väntas under hösten 2008.
+            </p>
+            <p>
+              Enligt utskottets mening är det angeläget att regeringen beaktar
+              såväl Riksrevisionens observationer som de synpunkter som lämnats
+              av berörda myndigheter i det fortsatta arbetet med att stärka
+              krisberedskapen inom det centrala betalningssystemet. Utskottet
+              förutsätter att regeringen beaktar de synpunkter som framställts
+              om behovet av att klargöra krav på driftsäkerhet och av att se
+              över tillsynsansvaret för det centrala betalningssystemet. Vidare
+              förutsätter utskottet att regeringen i budgetpropositionen för
+              2009 återkommer med information till riksdagen om vidtagna och
+              planerade åtgärder med anledning av Riksrevisionens iakttagelser.
+              I detta sammanhang vill utskottet även principiellt framhålla
+              behovet av ett välfungerande regelverk för hantering av kriser
+              inom det finansiella systemet. Det är därför angeläget att beredningen
+              av förslag till nya regler om offentlig administration av banker
+              i kris kan slutföras utan dröjsmål.
+            </p>
+            <p>
+              Utskottet anser mot bakgrund av vad som sagts ovan att det är
+              mycket angeläget att åtgärder vidtas med utgångspunkt i resultaten
+              från den nu pågående översynen. Samtidigt noterar utskottet att
+              det har etablerats samarbeten mellan flera myndigheter och privata
+              aktörer som ansvarar för olika delar av betalningssystemet och
+              att eventuella ändrade förutsättningar för det centrala betalningssystemet
+              kommer att påverka ett stort antal aktörer. Utskottet anser därför
+              att förslag till ändringar på detta samhällsviktiga område bör
+              föregås av noggrann beredning. Med hänsyn till den relativt korta
+              tid som förflutit sedan Riksrevisionens granskningsrapport lämnades,
+              och till att en redovisning av regeringens åtgärder kan emotses
+              i budgetpropositionen för 2009, anser utskottet att resultatet
+              av det arbete som påbörjats med anledning av Riksrevisionens iakttagelser
+              inte bör föregripas. Utskottet avstyrker därför Riksrevisionens
+              styrelses framställning 2007/08:RRS24.
+            </p>
+            <p xml:id="IDABMLUL" rend="AvsnittsRubrik">
+              Reservation
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstagande
+              har föranlett följande reservation.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAIMLUL">
+                  <p rend="reservation">
+                    Riksrevisionens styrelses framställning angående krisberedskap
+                    i betalningssystemet (s, v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="reservanter">
+                    av Thomas Östros (s), Sonia Karlsson (s), Monica Green (s), Hans
+                    Hoff (s), Agneta Gille (s), Ulla Andersson (v), Tommy Ternemar
+                    (s) och Mikaela Valtersson (mp).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAJNLUL" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut borde ha följande
+              lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen om behovet av åtgärder för att stärka krisberedskapen
+              i betalningssystemet. Därmed bifaller riksdagen delvis framställning
+              2007/08:RRS24.
+            </p>
+            <p xml:id="IDAQNLUL" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Vi är principiellt ense med utskottets majoritet om vikten av
+              att infrastrukturen på det finansiella området fungerar tillfredsställande
+              och att tillräckliga åtgärder vidtas för att förebygga och hantera
+              störningar. Ett väl fungerande och motståndskraftigt betalningssystem
+              utgör en viktig komponent i den finansiella infrastrukturen och
+              kan även bidra till att öka den finansiella stabiliteten och förtroendet
+              för det finansiella systemet. Vi menar att de frågor som tas upp
+              av Riksrevisionens styrelse måste tas på största allvar och att
+              det krävs snabba och verkningsfulla åtgärder för att förbättra
+              krisberedskapen i det centrala betalningssystemet. Vi anser därför,
+              till skillnad från utskottets majoritet, att Riksrevisionens styrelses
+              framställning inte bör avslås av riksdagen.
+            </p>
+            <p>
+              Vi noterar att regeringen nu uppdragit åt flera berörda myndigheter
+              att lämna rapporter om bl.a. krisberedskapen inom det centrala
+              betalningssystemet och att Finansinspektionen lämnade en rapport
+              den 22 april, medan en rapport från Riksgälden kan emotses under
+              våren 2008. Vi noterar även de synpunkter som Riksbanken och Finansinspektionen
+              har framfört på vissa förslag i Riksrevisionens granskningsrapport
+              och att Krisberedskapsmyndigheten ledde en krisövning om IT-attacker
+              mot det finansiella systemet (SAMÖ 2008) i april 2008.
+            </p>
+            <p>
+              Enligt vår mening måste regeringen beakta såväl Riksrevisionens
+              observationer som de synpunkter som lämnas av berörda myndigheter
+              i det fortsatta arbetet med att stärka krisberedskapen inom det
+              centrala betalningssystemet. I detta sammanhang vill vi särskilt
+              peka på att Riksrevisionen inför utskottet framhållit vikten av
+              att åtgärder vidtas. Vi anser att regeringen måste beakta bl.a.
+              de synpunkter som framförts om behovet av att klargöra krav på
+              driftsäkerhet och se över tillsynsansvaret för det centrala betalningssystemet.
+              Behovet av ytterligare arbete på detta område framstår än klarare
+              i ljuset av de driftstörningar som drabbade Riksbankens betalningssystem
+              RIX i maj 2008. Tydliga krav på driftsäkerhet är dessutom en förutsättning
+              för effektivt krisberedskaps-, uppföljnings- och tillsynsarbete.
+              Det saknas i dag regler för vilken säkerhetsnivå som är acceptabel
+              för kritisk infrastruktur inom finanssektorn. Vi anser att grundläggande
+              säkerhetskrav måste fastställas på ett sätt som möjliggör effektiv
+              tillsyn och samtidigt uppmuntrar de berörda aktörerna till ständigt
+              förbättringsarbete. Det är enligt vår mening angeläget att regeringen
+              skyndsamt överväger hur grundläggande säkerhetskrav bör utformas.
+            </p>
+            <p>
+              Vi vill mot denna bakgrund understryka vikten av att regeringen
+              senast i budgetpropositionen för 2009 återkommer med information
+              till riksdagen om vidtagna och planerade åtgärder med anledning
+              av Riksrevisionens iakttagelser. Vi ser ett tydligt behov av ett
+              välfungerande regelverk för hantering av kriser inom det finansiella
+              systemet, och även av att regeringen skyndsamt slutför beredningen
+              av förslag till nya regler om offentlig administration av banker
+              i kris.
+            </p>
+            <p>
+              Enligt vår mening är frågan om krisberedskap i betalningssystemet
+              tydligt kopplad till stabiliteten på finansmarknaderna och till
+              samhällsekonomins funktionssätt. Det är därför mycket viktigt
+              att säkerställa en tillräcklig krisberedskap inom detta samhällsviktiga
+              område. Ytterst vilar ansvaret för detta på de folkvalda ledamöterna
+              i Sveriges riksdag. Som ledamöter av riksdagens finansutskott,
+              med ansvar för bl.a. det finansiella systemets funktion, anser
+              vi att det är mycket angeläget att riksdagen nu agerar för att
+              uppmärksamma behovet av skyndsamma åtgärder.
+            </p>
+            <p>
+              Vi anser att riksdagen bör tillkännage för regeringen som sin
+              mening vad som ovan anförts om behovet av åtgärder för att stärka
+              krisberedskapen i betalningssystemet. Därmed bör riksdagen delvis
+              bifalla Riksrevisionens styrelses framställning 2007/08:RRS24.
+            </p>
+            <p xml:id="IDAFOLUL" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAIOLUL" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDALOLUL" rend="rubrik2">
+              Framställningen
+            </p>
+            <p rend="behandlatdokument_">
+              Framställning 2007/08:RRS24 Riksrevisionens styrelses framställning
+              angående krisberedskap i betalningssystemet:
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad styrelsen
+              anför om att regeringen bör säkerställa att krisberedskapen avseende
+              det centrala betalningssystemet förbättras så att det är möjligt
+              att förebygga och hantera tekniska hot och risker inom detta system.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

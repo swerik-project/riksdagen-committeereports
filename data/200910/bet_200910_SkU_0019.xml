@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200910_SkU_0019">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen godkände ett skatteavtal mellan Sverige och Nederländerna när det gäller Aruba. Avtalet gäller utbyte av upplysningar om skatter. Riksdagen godkände även ett avtal som ska främja de ekonomiska förbindelserna.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Skatteavtal med Aruba (SkU19)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GX0932</idno>
+              <title>2009-11-18</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">32</biblScope>
+              <note type="display-reference">2009-11-18</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GX0932</idno>
+              <title>2009-11-18</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">32</biblScope>
+              <note type="display-reference">2009-11-18</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GX0K55</idno>
+              <title>2009/10:55</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">55</biblScope>
+              <note type="display-reference">2009/10:55</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2009:1287</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2009:1287</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2009:1288</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2009:1288</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GX0326</idno>
+              <title>Informationsutbytesavtal och partiellt skatteavtal med Aruba</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">26</biblScope>
+              <note type="display-reference">proposition 2009/10:26 Informationsutbytesavtal och partiellt skatteavtal med Aruba</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2009-11-16">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2009-11-16">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-11-11">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-11-11">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-11-11">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-11-11">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-11-10">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-11-10">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-11-03">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-11-03">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2009-11-18">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-11-18">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-11-18">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-11-18">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-11-18">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-11-17">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-11-17">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-11-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-11-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Skatteutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2009/10:SkU19
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Informationsutbytesavtal och partiellt skatteavtal med Aruba
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACJQWD" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet tillstyrker utskottet regeringens förslag (prop.
+            2009/10:26) om att riksdagen dels ska godkänna avtal mellan Sverige
+            och Nederländerna när det gäller Aruba i fråga om utbyte av upplysningar
+            avseende skatter och för att främja ekonomiska förbindelser, dels
+            ska anta lagar om dessa avtal.
+          </p>
+          <p>
+            Lagarna föreslås träda i kraft den dag regeringen bestämmer.
+          </p>
+          <p>
+            Ett särskilt yttrande (s, v och mp) har lämnats till betänkandet.
+          </p>
+          <p xml:id="IDAPJQWD" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Informationsutbytesavtal och partiellt skatteavtal med Aruba
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  dels godkänner
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  1. avtalet mellan Sverige och Nederländerna såvitt avser Aruba
+                  om utbyte av upplysningar avseende skatter,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2. avtalet mellan Sverige och Nederländerna såvitt avser Aruba
+                  för att främja ekonomiska förbindelser,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  dels antar regeringens förslag till
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  3. lag om avtal mellan Sverige och Nederländerna såvitt avser
+                  Aruba om utbyte av upplysningar avseende skatter,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  4. lag om avtal mellan Sverige och Nederländerna såvitt avser
+                  Aruba för att främja ekonomiska förbindelser.
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen proposition 2009/10:26 punkterna 14.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 10 november 2009
+          </p>
+          <p>
+            På skatteutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Lennart Hedquist
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Lennart Hedquist
+            (m), Lars Johansson (s), Annicka Engblom (m), Laila Bjurling (s),
+            Ulf Berg (m), Jörgen Johansson (c), Christin Hagberg (s), Lena
+            Asplund (m), Fredrik Olovsson (s), Lennart Sacrédeus (kd), Jessica
+            Polfjärd (m), Marie Engström (v), Karin Nilsson (c), Helena Leander
+            (mp), Hans Olsson (s), Birgitta Eriksson (s) och Lars Tysklind
+            (fp).
+          </p>
+          <p xml:id="IDAGNQWD" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAJNQWD" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I proposition 2009/10:26 föreslår regeringen att riksdagen godkänner
+            avtal om utbyte av upplysningar avseende skatter och partiellt
+            skatteavtal med konungariket Nederländerna såvitt avser Aruba
+            och införlivar avtalen i svensk rätt. Regeringens förslag till
+            riksdagsbeslut framgår av bilaga 1. Avtalstexterna och regeringens
+            lagförslag återfinns i bilaga 2.
+          </p>
+          <p>
+            Ingen motion har väckts i ärendet.
+          </p>
+          <p xml:id="IDASNQWD" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Förhandlingar om informationsutbytesavtal och avtal för att främja
+            ekonomiska förbindelser med Nederländerna såvitt avser Aruba har
+            i huvudsak förts under 2007 och 2008. Utkast till avtal upprättades
+            på engelska. Svenska översättningar har därefter tagits fram.
+            De engelska texterna och de svenska översättningarna har remitterats
+            till Kammarrätten i Stockholm och Skatteverket. Avtalen undertecknades
+            i Paris den 10 september 2009.
+          </p>
+          <p>
+            Finansdepartementet har upprättat förslag till
+          </p>
+          <p rend="punktlistaLista">
+            lag om avtal mellan Sverige och Nederländerna såvitt avser Aruba
+            om utbyte av upplysningar avseende skatter
+          </p>
+          <p rend="punktlistaLista">
+            lag om avtal mellan Sverige och Nederländerna såvitt avser Aruba
+            för att främja ekonomiska förbindelser.
+          </p>
+          <p xml:id="IDAJOQWD" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            Regeringen föreslår att riksdagen dels ska godkänna avtal mellan
+            Sverige och Nederländerna såvitt avser Aruba om utbyte av upplysningar
+            avseende skatter och för att främja ekonomiska förbindelser, dels
+            ska anta lagar om dessa avtal.
+          </p>
+          <p>
+            Lagarna föreslås träda i kraft den dag regeringen bestämmer.
+          </p>
+          <p xml:id="IDASOQWD" rend="r4">
+            Avtalet mellan Sverige och Nederländerna såvitt avser Aruba om
+            utbyte av upplysningar avseende skatter
+          </p>
+          <p>
+            Sverige har inte något informationsutbytesavtal med Aruba. Regeringen
+            bedömer att informationsutbytesavtal är viktiga för en effektiv
+            skattekontroll genom att de möjliggör samarbete mellan skattemyndigheterna
+            i de avtalsslutande parterna. Det är därför angeläget att få till
+            stånd ett informationsutbytesavtal med Aruba. Avtalet har utformats
+            med OECD:s (Organisationen för ekonomiskt samarbete och utveckling)
+            modellavtal för informationsutbyte i skatteärenden (Agreement
+            on Exchange of Information on Tax Matters, modellavtalet) som
+            förebild. Modellavtalet har utarbetats inom ramen för OECD:s arbete
+            mot skadliga skatteregimer.
+          </p>
+          <p>
+            I artikel 1 anges det föreslagna avtalets syfte och tillämpningsområde.
+            Av punkt 1 följer att avtalet omfattar utbyte av upplysningar
+            som kan antas vara relevanta vid tillämpning och verkställighet
+            av de avtalsslutande parternas interna lagstiftning avseende skatter
+            som omfattas av avtalet.
+          </p>
+          <p>
+            Artikel 5 innehåller bestämmelser om informationsutbyte på begäran.
+            I artikel 6 regleras också möjligheten för de avtalsslutande parterna
+            att utan tidigare begäran lämna upplysningar, dvs. spontant informationsutbyte.
+          </p>
+          <p>
+            Avtalet innehåller i artikel 7 också regler om utomlands utförda
+            skatteutredningar som bl.a. ger möjlighet för svenska myndigheter
+            att närvara vid skatteutredningar i Aruba.
+          </p>
+          <p xml:id="IDABPQWD" rend="r4">
+            Avtalet mellan Sverige och Nederländerna såvitt avser Aruba för
+            att främja ekonomiska förbindelser
+          </p>
+          <p>
+            Det föreslagna avtalet för att främja ekonomiska förbindelser
+            syftar enligt regeringen till att bidra till en ökad diversifiering
+            av Arubas ekonomi. Avtalet innehåller bestämmelser om avräkning
+            av utländsk skatt under vissa förutsättningar till ett högre belopp
+            än den skatt som faktiskt erlagts i Aruba, s.k. matching credit,
+            och bestämmelser om skattefrihet för utdelning från ett helägt
+            dotterbolag i Aruba till ett svenskt moderbolag.
+          </p>
+          <p>
+            I artikel 1 anges de skatter på vilka avtalet är tillämpligt,
+            i Sverige den statliga inkomstskatten och i Aruba vinstskatten
+            (de winstbelasting).
+          </p>
+          <p>
+            Bestämmelserna om undanröjande av dubbelbeskattning och avräkning
+            av utländsk skatt finns i artikel 4. I likhet med flera avtal
+            med länder som i ekonomiskt hänseende är mindre utvecklade än
+            Sverige innehåller detta avtal bestämmelser om avräkning i vissa
+            fall i Sverige av ett högre skattebelopp än den skatt som faktiskt
+            erlagts i Aruba, s.k. matching credit. Denna utvidgade rätt till
+            avräkning avser endast inkomster som är hänförliga till ett fast
+            driftställe som härrör från någon av de i artikel 5 uppräknade
+            verksamheterna och som bedrivs i Aruba.
+          </p>
+          <p>
+            Artikel 4.2 innehåller bestämmelser om skattefrihet i Sverige
+            för utdelning från ett helägt dotterbolag i Aruba till ett svenskt
+            moderbolag. Bestämmelserna hänvisar till de interna svenska bestämmelserna
+            om skattefrihet för utdelning från utlandet. En förutsättning
+            för skattefrihet är att inkomsten i dotterbolaget i Aruba i dess
+            helhet härrör från någon av de i artikel 5 uppräknade verksamheterna
+            bedrivna i Aruba.
+          </p>
+          <p>
+            Enligt artikel 4.3 ska dessa bestämmelser tillämpas under de
+            första tio åren under vilka avtalet tillämpas. De behöriga myndigheterna
+            i de avtalsslutande parterna kan komma överens om att förlänga
+            perioden.
+          </p>
+          <p>
+            I artikel 5 finns en uttömmande uppräkning av de verksamheter
+            som omfattas av avtalets bestämmelser om s.k. matching credit
+            och skattefrihet för utdelning; se ovan. Verksamheterna har bestämts
+            med beaktande av bestämmelsernas syfte att bidra till en diversifiering
+            av Arubas ekonomi. I bestämmelserna görs ett uttryckligt undantag
+            för annan finansiell verksamhet än sådan som är direkt underordnad
+            och utgör en integrerad del av de angivna verksamheterna.
+          </p>
+          <p xml:id="IDAWPQWD" rend="r4">
+            Offentligfinansiella effekter
+          </p>
+          <p>
+            Enligt regeringen förväntas förslagen i denna proposition inte
+            ge upphov till någon negativ offentligfinansiell effekt. Kostnaden
+            för den skattelättnad som i vissa fall kommer att bli resultatet
+            av tillämpningen av avtalet för att främja ekonomiska förbindelser
+            mellan Sverige och Aruba förväntas bli försumbar. Förslagen kan
+            komma att motverka ett framtida skattebortfall genom möjligheten
+            till informationsutbyte med Aruba. Inte heller bedöms förslagen
+            ge upphov till några ökade kostnader eller någon ökad arbetsbörda
+            för Skatteverket eller för de allmänna förvaltningsdomstolarna.
+          </p>
+          <p xml:id="IDA3PQWD" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAEIRWD" rend="rubrik2">
+            Informationsutbytesavtal och partiellt skatteavtal med Aruba
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAKIRWD" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen bifaller regeringens förslag.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför särskilt yttrande (s, v, mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAXIRWD" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet har inte något att invända mot regeringens förslag
+              och tillstyrker propositionen.
+            </p>
+            <p xml:id="IDA4IRWD" rend="AvsnittsRubrik">
+              Särskilt yttrande
+            </p>
+          </div>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDACJRWD">
+                  <p rend="ettsarskiltyttrande">
+                    Informationsutbytesavtal och partiellt skatteavtal med Aruba
+                    (s, v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    Lars Johansson (s), Laila Bjurling (s), Christin Hagberg (s),
+                    Fredrik Olovsson (s), Marie Engström (v), Helena Leander (mp),
+                    Hans Olsson (s) och Birgitta Eriksson (s) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Flertalet större OECD-länder förhandlar i dag aktivt med de finansiella
+              skatteparadisen om att ingå informationsutbytesavtal på skatteområdet.
+              Syftet med att ingå informationsutbytesavtal är alltså att möjliggöra
+              för skattemyndigheten att få insyn i den skattskyldiges kapitalplaceringar
+              och inkomster i skatteparadiset.
+            </p>
+            <p>
+              Socialdemokraterna, Miljöpartiet de gröna och Vänsterpartiet
+              är givetvis positiva till det arbete mot skatteparadisen som genomförts.
+              Vi menar dock att det snarare är tidigare insatser av den föregående
+              regeringen och dess samarbetspartier (initiativet genom Nordiska
+              rådet) än nya initiativ av den borgerliga regeringen som åstadkommit
+              dagens resultat. Vi har också begärt att skatteparadisen skulle
+              tas upp som en prioriterad fråga under ordförandeåret. Regeringen
+              har nonchalerat detta.
+            </p>
+            <p>
+              Socialdemokraterna, Miljöpartiet de gröna och Vänsterpartiet
+              är positiva till att det nordiska projektet fortsätter och förlängs.
+              Det måste dock vara minst OECD:s modellavtal som gäller. Det är
+              ett golv, och inga signaler bör utgå till skatteparadisen om att
+              det är ett tak. Tvärtom måste Sverige verka för att OECD noga
+              följer och för medlemsstaterna sammanfattar hur avtalen praktiskt
+              fungerar för skattemyndigheterna i de olika medlemsstaterna. Att
+              nästan alla skatteparadis är beredda att skriva under modellavtalet
+              är en signal om att det nu går att ta ytterligare ett steg mot
+              transparens och informationsutbyte utan förbehåll. Vi menar att
+              Sverige ska ta initiativ inom OECD för att förbättra modellavtalet
+              i fråga om informationsutbytet.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAMKRWD" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAPKRWD" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDASKRWD" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2009/10:26 Informationsutbytesavtal och partiellt
+              skatteavtal med Aruba:
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen godkänner avtalet mellan Sverige och Nederländerna
+                    såvitt avser Aruba om utbyte av upplysningar avseende skatter
+                    (avsnitt 4).
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen godkänner avtalet mellan Sverige och Nederländerna
+                    såvitt avser Aruba för att främja ekonomiska förbindelser (avsnitt
+                    5).
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen antar regeringens förslag till lag om avtal mellan
+                    Sverige och Nederländerna såvitt avser Aruba om utbyte av upplysningar
+                    avseende skatter.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    4.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen antar regeringens förslag till lag om avtal mellan
+                    Sverige och Nederländerna såvitt avser Aruba för att främja ekonomiska
+                    förbindelser.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAGORWD" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDAJORWD" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{9CE4D2F7-B760-4356-97C0-1B0914F8D869}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{A2A11C73-8F81-4A14-9F95-EF68CDE7C519}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{12CE26B0-7949-4801-A2B0-13E00ECFB2F9}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{FD578C2F-C15A-40A9-A5AA-432342DE12C3}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{67834A0B-1DF1-4A67-9B54-09BE8612C5D8}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{7FEECE66-927B-4A6E-9C97-4AD634E6DA8D}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{F312805E-BB6E-412E-969B-CF05C3F27D05}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{542FB8D4-6374-45AD-96D5-0C241DBD0A75}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{854C0AEE-8C46-49C2-B281-FEE5657A40A0}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{6568FF6D-EF17-4EF8-AC78-056D721317EB}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{D4AA1766-9A70-4EF0-A0A6-5772AA095B96}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{15AC1861-5054-4B41-891C-2D59B5774559}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{9978D019-C7A2-490B-AF11-E759D4514E20}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{B9A1960C-7E44-47C8-8C81-B41E2AF19F3E}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{ADFA6AF5-8ACA-4B81-B2D1-C0D77EAB7274}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{DFE201C1-0EF8-4E51-BF65-3605EBBB2A7E}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{7F44C753-6E37-4EED-BE92-3161CA1FDF09}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{3876A346-554A-48C1-A46D-453463C50ED9}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{509BADC3-5A8C-463E-8333-0260DF5362F4}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{7B4848D3-A9B9-4E3E-9844-E15F0BCFAD40}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{A745A2BB-CB16-42E2-9D71-0F4777933566}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{370E7E0E-625A-43B3-8C15-87173B436B2C}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{EAE1154E-CCCC-4108-9F1E-F5ED08543987}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{05E11C58-0F89-4450-9CDD-EE28158CF9C2}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{AF2AD31F-5C97-40D8-946D-DC9F2F659CA5}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

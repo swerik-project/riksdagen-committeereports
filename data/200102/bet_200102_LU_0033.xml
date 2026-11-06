@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_LU_0033">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Konsumentköplagen, konsumenttjänstlagen och marknadsföringslagen ändras med anledning av ett EG-direktiv, det s.k. konsumentköpsdirektivet. Riksdagen beslutade vidare att stärka konsumentens skydd mot säljarens borgenärer t.ex. när säljaren går i konkurs. En köpare ska vid köp som omfattas av konsumentköplagen få sakrättsligt skydd mot säljarens borgenärer redan genom köpeavtalet. För sådant skydd ska därmed inte längre krävas att köparen har fått varan i sin besittning. Lagändringarna träder i kraft den 1 juli 2002.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Ändringar i konsumentköplagen (LU33)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GP03134</idno>
+              <title>Ändringar i konsumentköplagen</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">134</biblScope>
+              <note type="display-reference">proposition 2001/02:134 Ändringar i konsumentköplagen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1985:716</idno>
+              <note type="display-reference">2002:588</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1990:932</idno>
+              <note type="display-reference">2002:587</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="Ds">
+            <bibl type="Ds">
+              <idno type="riksdagen">GPB455</idno>
+              <title>Ds 2001:55</title>
+              <biblScope unit="riksdag-session">2001</biblScope>
+              <biblScope unit="document-number">55</biblScope>
+              <note type="display-reference">2001:55</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="SOU">
+            <bibl type="SOU">
+              <idno type="riksdagen">GJB311</idno>
+              <title>SOU 1995:11</title>
+              <biblScope unit="riksdag-session">1995</biblScope>
+              <biblScope unit="document-number">11</biblScope>
+              <note type="display-reference">1995:11</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K292</idno>
+              <title>2001/02:292</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">292</biblScope>
+              <note type="display-reference">2001/02:292</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09117</idno>
+              <title>2002-05-31</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">117</biblScope>
+              <note type="display-reference">2002-05-31</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09119</idno>
+              <title>2002-06-04</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">119</biblScope>
+              <note type="display-reference">2002-06-04</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2002-05-24">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-05-23">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-05-16">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-05-16">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-05-16">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-16">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-09">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-09">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="LAG" subtype="avgorande" n="12" when="2002-07-01">
+            <label>Planerat ikraftträdande</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2002-06-04">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-06-04">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-06-04">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-05-31">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-05-31">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2002-05-30">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-05-29">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-05-29">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Lagutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:LU33
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Ändringar i konsumentköplagen
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I betänkandet behandlar utskottet regeringens
+            proposition 2001/02:134 Ändringar i konsumentköplagen. I propositionen
+            föreslås ändringar i konsumentköplagen, konsumenttjänstlagen och
+            marknadsföringslagen i syfte att i svensk rätt genomföra Europaparlamentets
+            och rådets direktiv 1999/44/EG av den 25 maj 1999 om vissa aspekter
+            rörande försäljning av konsumentvaror och härmed förknippade garantier,
+            det s.k. konsumentköpsdirektivet. Vidare föreslås införandet av
+            en ny bestämmelse i konsumentköplagen som innebär att en köpare
+            vid köp som omfattas av denna lag får sakrättsligt skydd mot säljarens
+            borgenärer redan genom köpeavtalet. För sådant skydd skall alltså
+            inte längre krävas att köparen har fått varan i sin besittning.
+            Lagändringarna föreslås träda i kraft den 1 juli 2002. Ingen motion
+            har väckts med anledning av propositionen, och utskottet tillstyrker
+            att förslagen genomförs.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut Ändringar i konsumentköplagen,
+            m.m. Riksdagen antar regeringens förslag till 1. lag om ändring
+            i konsumentköplagen (1990:932), 2. lag om ändring i konsumenttjänstlagen
+            (1985:716). Stockholm den 16 maj 2002 På lagutskottets vägnar
+            Tanja Linderborg Följande ledamöter har deltagit i beslutet: Tanja
+            Linderborg (v), Marianne Carlström (s), Rune Berglund (s), Karin
+            Jeppsson (s), Henrik S Järrel (m), Nikos Papadopoulos (s), Elizabeth
+            Nyström (m), Marina Pettersson (s), Christina Nenes (s), Tasso
+            Stafilidis (v), Kjell Eldensjö (kd), Berit Adolfsson (m), Anders
+            Berglöv (s), Viviann Gerdin (c), Ana Maria Narti (fp), Petra Gardos
+            (m) och Jan Orrenius (kd).
+          </p>
+          <p>
+            2001/02 LU33
+          </p>
+          <p>
+            Utskottets överväganden Genomförande av konsumentköpsdirektivet
+            Utskottets förslag i korthet Riksdagen bör anta regeringens lagförslag
+            såvitt gäller genomförandet av Europaparlamentets och rådets direktiv
+            1999/44/EG av den 25 maj 1999 om vissa aspekter rörande försäljning
+            av konsumentvaror och härmed förknippade garantier (konsumentköpsdirektivet).
+            Ärendet och dess beredning Europaparlamentet och Europeiska unionens
+            råd antog den 25 maj 1999 direktiv 1999/44/EG om vissa aspekter
+            rörande försäljning av konsumentvaror och härmed förknippade garantier
+            (konsumentköpsdirektivet). I direktivet finns bestämmelser om
+            bl.a. säljarens skyldighet att leverera varor som är avtalsenliga
+            och konsumentens rättigheter i händelse av bristande avtalsenlighet.
+            Direktivet, som omfattas av avtalet om Europeiska ekonomiska samarbetsområdet
+            (EES-avtalet), trädde i kraft den 7 juli 1999 och skulle ha varit
+            genomfört i medlemsstaternas lagstiftning senast den 1 januari
+            2002. Under förhandlingarna som föregick konsumentköpsdirektivets
+            antagande behandlades direktivförslagen i en av Justitiedepartementet
+            tillkallad samrådsgrupp med företrädare för myndigheter och organisationer.
+            Vidare hölls överläggningar med företrädare för berörda departement
+            i Danmark, Finland, Island och Norge såväl under förhandlingarna
+            som inför genomförandet av direktivet. Nordiska ministerrådets
+            rapport Implementering af direktiv om visse aspekter af forbrugerkøb
+            og garantier i forbindelse hermed - sed ud fra et nordisk forbrugerbeskyttelseperspektiv
+            (TemaNord 2000:612) beaktades därvid. Direktivet behandlades även
+            vid ett i oktober 2001 av kommissionen anordnat möte för sakkunniga
+            i medlemsstaternas regeringskanslier. Vid mötet utbyttes erfarenheter
+            av arbetet med att genomföra direktivet och diskuterades tolkningen
+            av vissa bestämmelser. Som ett led i arbetet att genomföra direktivet
+            har inom Justitiedepartementet utarbetats departementspromemorian
+            (Ds 2001:55) Ändringar i konsumentköplagen - genomförande av EG:s
+            konsumentköpsdirektiv. Promemorian har remissbehandlats och ligger
+            till grund för propositionen såvitt nu är i fråga. För att genomföra
+            konsumentköpsdirektivet i svensk rätt föreslår regeringen - efter
+            hörande av Lagrådet - att riksdagen antar de i propositionen framlagda
+            förslagen till ändringar i konsumentköplagen (1990:932), konsumenttjänstlagen
+            (1985:716) och marknadsföringslagen (1995:450). Regeringens förslag
+            återfinns i bilaga 1 och lagförslagen i bilaga 2. Ingen motion
+            har väckts med anledning av propositionen i denna del. Direktivets
+            huvudsakliga innehåll Syftet med konsumentköpsdirektivet är att
+            tillnärma medlemsstaternas lagar och andra författningar i vissa
+            avseenden när det gäller konsumentköp och härmed förknippade garantier
+            och att säkerställa en enhetlig miniminivå för konsumentskyddet
+            på den inre marknaden (artikel 1.1). Direktivet är tillämpligt
+            när en fysisk eller juridisk person inom ramen för närings- eller
+            yrkesverksamhet säljer lösa saker till en konsument. Med konsument
+            avses enligt direktivet en fysisk person som handlar för ändamål
+            som ligger utanför hans yrkes- eller näringsverksamhet. Direktivet
+            är inte tillämpligt på varor som säljs exekutivt eller på annat
+            sätt tvångsvis på grund av lag. Det är inte heller tillämpligt
+            på vatten och gas som inte säljs i begränsad volym eller bestämd
+            kvantitet eller på elektricitet. I direktivet finns bestämmelser
+            om säljarens skyldighet att leverera avtalsenliga varor (artikel
+            2), konsumentens rättigheter vid bristande avtalsenlighet (artikel
+            3), säljarens regressrätt mot annan i tidigare säljled (artikel
+            4), säljarens ansvarstid och konsumentens reklamationsskyldighet
+            (artikel 5) samt garantier (artikel 6). Direktivet innehåller
+            vidare bestämmelser om att reglerna skall vara tvingande till
+            konsumentens förmån (artikel 7.1), att konsumenten inte får berövas
+            det skydd som direktivet ger genom att lagen i en icke-medlemsstat
+            görs till tillämplig rätt med avseende på avtalet (artikel 7.2),
+            att konsumentens rättigheter enligt direktivet skall kunna utövas
+            utan att det påverkar andra rättigheter som konsumenten har enligt
+            nationell lag (artikel 8.1), och om att direktivet är ett s.k.
+            minimidirektiv (artikel 8.2). Av det nu redovisade framgår att
+            direktivet, till skillnad från konsumentköplagen, inte innehåller
+            bestämmelser om tid och plats för avlämnande av varan, risken
+            för varan, säljarens dröjsmål, konsumentens rätt att hålla inne
+            betalningen, skadestånd vid fel på varan, priset och tidpunkten
+            för betalning, avbeställning, köparens dröjsmål, verkningar av
+            hävning och bortfall av rätt till hävning, konsumentens rätt att
+            vända sig till näringsidkare i tidigare säljled och frågan om
+            när ett meddelande skall anses ha kommit fram. Direktivet och
+            dess genomförande i svensk rätt I propositionen erinrar regeringen
+            om att ett direktiv, enligt artikel 249 i EG-fördraget, är bindande
+            för medlemsstaterna med avseende på det resultat som skall uppnås,
+            men överlåter åt medlemsstaterna att bestämma form och tillvägagångssätt
+            för genomförandet. Staterna är således inte bundna av direktivets
+            terminologi och systematik, om väl det avsedda resultatet uppnås
+            med en annan terminologi och systematik. Vid genomförandet av
+            konsumentköpsdirektivet bör, enligt vad som anförs i propositionen,
+            utgångspunkten vara att i möjligaste mån ansluta sig till den
+            terminologi och systematik som redan finns, framför allt i konsumentköplagen
+            men även i konsumenttjänstlagen. Vidare bör man, menar regeringen,
+            söka att lösa frågor som övervägts tidigare vid genomförandet
+            av direktiv på närliggande områden på samma sätt som i dessa tidigare
+            sammanhang. I propositionen framhålls att direktivets karaktär
+            av minimireglering ger goda förutsättningar att genomföra direktivet
+            på ett sätt som står i samklang med svenska allmänna köprättsliga
+            principer och som går väl att förena med den civilrättsliga lagstiftningen
+            i övrigt. Det ger även möjlighet att genomföra direktivet så att
+            dess konsumentskydd säkert blir uppfyllt, samtidigt som nu gällande
+            skydd inte urholkas. Ytterligare en utgångspunkt för direktivets
+            genomförande bör, anförs det i propositionen, vara att hålla fast
+            vid den enligt regeringens uppfattning rådande balansen mellan
+            köpare och säljare och att inte annat än i undantagsfall göra
+            mer omfattande lagändringar än vad som direktivet kräver. I det
+            följande lämnas en översiktlig redogörelse för konsumentköpsdirektivets
+            viktigare delar och regeringens förslag och bedömningar vad gäller
+            direktivets genomförande i svensk rätt. En central del av det
+            som utgör direktivets konsumentskydd är säljarens skyldighet att
+            till konsumenten leverera avtalsenliga varor (artikel 2.1). För
+            att förenkla tillämpningen av principen om avtalsenlighet anges
+            i direktivet att varor skall presumeras vara avtalsenliga om de
+            uppfyller vissa i direktivet närmare angivna kriterier (artikel
+            2.2). Sålunda skall en vara anses vara avtalsenlig om den a) stämmer
+            överens med den beskrivning som säljaren har lämnat och har samma
+            egenskaper som den vara som säljaren har förevisat konsumenten
+            som prov eller modell, b) är lämplig för det särskilda ändamål
+            för vilket konsumenten behöver den och som han har informerat
+            säljaren om vid tidpunkten för avtalets ingående och som säljaren
+            har godtagit, c) är lämplig för de ändamål för vilka varor av
+            samma slag vanligen används, och d) är av den kvalitet och ha
+            de prestanda som varor av samma slag vanligen har och som konsumenten
+            rimligen kan förvänta sig med hänsyn till varans art och med beaktande
+            av de offentliga uttalanden om varans särskilda egenskaper som
+            kan ha gjorts av säljaren, tillverkaren eller företrädare för
+            denne. Om det saknas särskilda avtalsvillkor skall alltså denna
+            presumtionsregel användas för att avgöra om varan i fråga kan
+            anses stämma överens med vad som följer av avtalet. Motsvarande
+            bestämmelser finns i huvudsak i 16 § konsumentköplagen. Enligt
+            paragrafens första stycke gäller att en vara i fråga om art, mängd,
+            kvalitet, andra egenskaper och förpackning skall stämma överens
+            med vad som följer av avtalet. Om inte annat följer av avtalet,
+            skall varan enligt 16 § andra stycket 1. vara ägnad för det ändamål
+            för vilket varor av samma slag i allmänhet används, 2. vara ägnad
+            för det särskilda ändamål för vilket köparen avsåg att varan skulle
+            användas, om säljaren vid köpet måste ha insett detta särskilda
+            ändamål och köparen har haft rimlig anledning att förlita sig
+            på säljarens sakkunskap och bedömning, 3. ha egenskaper som säljaren
+            har hänvisat till genom att lägga fram prov eller modell, och
+            4. vara förpackad på vanligt eller annars försvarligt sätt, om
+            förpackning behövs för att bevara eller skydda varan. Avviker
+            en vara från vad som är avtalat eller, i avsaknad av avtal, från
+            någon av de i punkt 1-4 angivna minimireglerna, skall den enligt
+            16 § tredje stycket 1 anses felaktig. Därutöver finns i 16 § tredje
+            stycket 3 en supplerande bestämmelse om att varan skall anses
+            felaktig också om den i något annat avseende avviker från vad
+            som köparen med fog kunnat förutsätta. Därtill kommer att det
+            i 19 § finns särskilda regler om felbedömningen för det fall köparen
+            har förlitat sig på felaktig marknadsföring. I propositionen konstaterar
+            regeringen att såväl konsumentköplagen som konsumentköpsdirektivet
+            ger uttryck för principen att säljaren är skyldig att leverera
+            avtalsenliga varor. Utgångspunkten för felbedömningen bör, enligt
+            vad som anförs i propositionen, även fortsättningsvis vara vad
+            parterna kommit överens om i avtalet. Först om avtalet inte ger
+            besked om hur varan skall vara beskaffad, bör allmänna regler
+            om varans beskaffenhet komma till användning. Behov av någon lagstiftningsåtgärd
+            med anledning av artikel 2.1 föreligger mot denna bakgrund inte
+            enligt regeringens uppfattning. Presumtionsregeln i artikel 2.2
+            anger således när en vara skall anses vara avtalsenlig, medan
+            motsvarande bestämmelse i 16 § andra stycket konsumentköplagen
+            anger när en vara skall anses vara felaktig. Enligt regeringens
+            bedömning torde denna skillnad i systematik inte medföra någon
+            skillnad i sak. Inte heller kan direktivet, anförs det i propositionen,
+            anses hindra att konsumentköplagens allmänna bestämmelser om varans
+            beskaffenhet även i fortsättningen utformas som minimiregler.
+            När det gäller de i artikel 2.2 a-d närmare angivna kriterierna
+            för när en vara skall anses avtalsenlig konstateras i propositionen
+            att dessa kriterier i allt väsentligt antingen motsvaras av vad
+            som redan gäller enligt konsumentköplagen eller att svensk rätt
+            ger konsumenten ett starkare skydd än vad som krävs i direktivet.
+            I klarhetens intresse och för att garantera ett korrekt genomförande
+            av direktivet föreslås dock en komplettering i 16 § andra stycket
+            konsumentköplagen som innebär att varan - utöver att ha de egenskaper
+            som säljaren har hänvisat till genom att lägga fram prov eller
+            modell - också skall stämma överens med den beskrivning av varan
+            som säljaren har lämnat. En annan central del av direktivets konsumentskydd
+            utgörs av de rättigheter vid bristande avtalsenlighet som konsumenten
+            skall kunna göra gällande mot näringsidkaren. Om en vara inte
+            är avtalsenlig, skall konsumenten ha rätt att i första hand få
+            varan reparerad eller utbytt. Detta skall ske utan kostnad och
+            inom rimlig tid och utan väsentlig olägenhet för konsumenten.
+            I andra hand har konsumenten rätt att kräva ett lämpligt prisavdrag
+            eller att häva avtalet (artikel 3.2 och 3.3). Hävning får dock
+            inte ske om felet är ringa (artikel 3.6). Av 22 § konsumentköplagen
+            följer att köparen, under vissa förutsättningar som anges i 23-29
+            §§, bl.a. kan kräva avhjälpande, omleverans, prisavdrag eller
+            hävning av köpet om varan är felaktig. I propositionen gör regeringen
+            bedömningen att de rättigheter som anges i artikel 3.2 motsvarar
+            vad som redan gäller enligt påföljdskatalogen i 22 § konsumentköplagen
+            och att direktivet i detta avseende således inte kräver någon
+            lagändring. För att på ett korrekt sätt genomföra direktivets
+            bestämmelser i fråga om de närmare förutsättningarna för att konsumenten
+            skall kunna göra gällande påföljderna avhjälpande och omleverans
+            föreslås dock vissa ändringar i 26 och 27 §§ konsumentköplagen.
+            Vidare föreslås en ändring i 28 § som rör förutsättningarna för
+            prisavdrag och hävning. Av artikel 3.1 följer att det alltid är
+            säljaren som har det direkta ansvaret gentemot köparen för att
+            varan är avtalsenlig. I artikel 4 finns dock bestämmelser om säljarens
+            regressrätt som ger säljaren rätt att i sin tur rikta anspråk
+            mot tillverkaren, en säljare i tidigare säljled eller någon annan
+            mellanhand i avtalskedjan som är ansvarig för att varan är felaktig.
+            Frågan om mot vem eller vilka säljaren kan vända sig regressvis
+            - och på vilket sätt detta kan ske - skall, enligt direktivet,
+            avgöras enligt nationell lag. I propositionen konstateras att
+            det av grundläggande avtalsrättliga principer redan i dag följer
+            att en säljare kan rikta anspråk mot sin avtalspart bakåt i en
+            avtalskedja. Eftersom det i direktivet överlämnats åt medlemsstaterna
+            att fritt avgöra mot vem eller vilka den slutliga säljaren skall
+            få vända sig med sitt anspråk, krävs därför ingen lagstiftningsåtgärd
+            med anledning av artikel 4. Det saknas vidare, anförs det i propositionen,
+            anledning att nu likväl överväga lagstiftning i frågan. Enligt
+            svensk köprätt är reklamation en förutsättning för att en köpare
+            skall ha rätt att göra gällande påföljder på grund av fel i varan.
+            Därvid blir två tidsfrister av betydelse. För det första skall
+            reklamation ske inom viss tid efter det att felet upptäckts eller
+            borde ha upptäckts. Vidare krävs - för det andra - att reklamationen
+            sker inom viss tid efter det att köparen tagit emot varan. Den
+            senare tidsfristen är således en preskriptionsfrist. Av 23 § första
+            stycket konsumentköplagen följer att köparen inte får åberopa
+            att varan är felaktig om han inte lämnar säljaren meddelande om
+            felet inom skälig tid efter det att felet märkts eller borde ha
+            märkts. Av tredje stycket i samma paragraf framgår att preskriptionsfristen
+            uppgår till två år, räknat från den tidpunkt då köparen har tagit
+            emot varan, om annat inte följer av en garanti eller liknande
+            utfästelse. Motsvarande gäller även enligt 17 § konsumenttjänstlagen
+            (1985:716). I artikel 5.1 föreskrivs att säljaren skall anses
+            ansvarig när den bristande avtalsenligheten visar sig inom två
+            år efter leveransen av varan. Om de påföljder som anges i artikel
+            3.2, dvs. reparation, utbyte, prisavdrag och hävning, enligt nationell
+            rätt är föremål för en preskriptionsfrist, får den fristen inte
+            löpa ut inom två år från tidpunkten för leveransen. Medlemsstaterna
+            får bestämma att konsumenten, för att vara bevarad vid sin rätt
+            att åberopa att varan är felaktig, måste lämna säljaren meddelande
+            om felet inom viss tid. En sådan reklamationsfrist får enligt
+            artikel 5.2 inte vara kortare än två månader från det att konsumenten
+            upptäckte felet. Regeringen konstaterar att direktivets reklamationsfrist
+            om två månader räknat från den tidpunkt då felet upptäcktes i
+            allmänhet måste anses vara mer konsumentvänlig än vad som följer
+            av konsumentköplagens krav på att reklamation skall ske inom skälig
+            tid efter det att felet märkts eller borde ha märkts. I propositionen
+            föreslås därför en bestämmelse av den innebörden att en reklamation
+            alltid skall anses ha skett i rätt tid om det sker två månader
+            efter det att köparen märkt felet. Den föreslagna bestämmelsen
+            medger dock att reklamation sker inom en längre tid efter det
+            att köparen märkt eller borde ha märkt felet om tiden i det enskilda
+            fallet anses vara skälig. Motsvarande ändringar föreslås även
+            i konsumenttjänstlagen. När det gäller preskriptionstiden på två
+            år gör regeringen bedömningen att genomförandet av direktivet
+            i detta avseende inte kräver någon ändring i svensk rätt. Enligt
+            vad som redovisas i propositionen bereds dock inom Regeringskansliet
+            för närvarande frågan huruvida preskriptionsfristen likväl bör
+            förlängas av andra skäl än direktivet. Artikel 5.3 innehåller
+            en bevisregel som tar sikte på det fall att ett fel - i praktiken
+            en funktionssvikt - visar sig i varan redan efter en relativt
+            kort tid av normal användning. Enligt artikeln skall, om motsatsen
+            inte bevisas, en bristande avtalsenlighet som visar sig inom sex
+            månader från leveransen av varan presumeras ha funnits vid tidpunkten
+            för leveransen, utom när denna presumtion är oförenlig med varans
+            eller den bristande avtalsenlighetens art. I konsumentköplagen
+            finns i dag ingen motsvarande reglering. I stället är det i princip
+            köparen som har bevisbördan för att en vara är felaktig och att
+            felet fanns redan vid den för felbedömningen relevanta tidpunkten,
+            dvs. avlämnandet. I rättspraxis har visserligen köparens bevisbörda
+            tillämpats förhållandevis generöst mot köparen. Sålunda har det
+            exempelvis ansetts tillräckligt för att beviskravet skall anses
+            vara uppfyllt att köparen gör mer sannolikt att felet funnits
+            redan vid avlämnandet än att det berott på någon senare inträffad
+            omständighet (jfr rättsfallet NJA 1991 s. 481). Även med beaktande
+            av denna för konsumenten fördelaktiga tillämpning av beviskravet
+            är det dock, enligt regeringens bedömning, tydligt att artikel
+            5.3 kräver en ändring i konsumentköplagen. I propositionen föreslås
+            därför en ny paragraf av innebörd att ett fel som visar sig inom
+            sex månader efter det att varan avlämnades skall anses ha funnits
+            vid tidpunkten för avlämnandet, om inte annat visas eller om detta
+            är oförenligt med varans eller felets art. I artikel 6 finns bestämmelser
+            om garantier. Med en garanti avses i direktivet varje utfästelse
+            som en säljare eller tillverkare utan extra kostnad gör till konsumenten
+            och som innebär att han skall återbetala det betalade priset eller
+            byta ut, reparera eller på något annat sätt befatta sig med konsumentvaran,
+            om den inte motsvarar specifikationerna i garantibeviset eller
+            i reklam som rör varan (artikel 1.2 e). En garanti skall vara
+            juridiskt bindande för den som utfärdar den och alltid innehålla
+            viss information. Sålunda skall det tydligt förklaras vad garantin
+            omfattar och vad som erfordras för att konsumenten skall kunna
+            göra garantin gällande. Därutöver skall det anges att konsumenten
+            har vissa rättigheter enligt den tillämpliga nationella lagen
+            och att dessa rättigheter inte påverkas av vad som stadgas i garantin
+            (artikel 6.2 och 6.3). För det fall en garanti inte skulle uppfylla
+            de krav som uppställs i direktivet skall den i och för sig alltjämt
+            vara giltig. Konsumenten skall således kunna åberopa sig på den,
+            vilket framgår av artikel 6.5. I konsumentköplagen finns inte
+            någon definition av garantibegreppet. Verkan av garantier och
+            liknande utfästelser regleras dock i 21 §. Enligt denna bestämmelse
+            skall fel i varan anses föreligga om den under garantitiden försämras
+            i det avseende som utfästelsen omfattar, såvida inte näringsidkaren
+            gör sannolikt att varans försämring beror på olyckshändelse eller
+            därmed jämförlig händelse eller vanvård, onormalt brukande eller
+            något annat liknande förhållande på köparens sida. Regeringen
+            gör i propositionen bedömningen att det saknas anledning att i
+            konsumentköplagen införa någon definition av begreppet garanti
+            och att svensk rätt får anses uppfylla direktivets krav i artikel
+            6.1 om att en garanti skall juridiskt binda den som ger garantin.
+            Någon lagstiftningsåtgärd krävs därför inte i dessa avseenden.
+            Däremot föreslås, för att genomföra artiklarna 6.2 och 6.3, ändringar
+            i marknadsföringslagen som innebär att en näringsidkare som vid
+            marknadsföringen erbjudit en garanti eller liknande utfästelse
+            skall lämna köparen viss närmare angiven information samt att
+            utfästelsen och informationen skall lämnas i en handling eller
+            annan varaktig form. En näringsidkare som åsidosätter dessa skyldigheter
+            skall, enligt förslaget, kunna drabbas av skadeståndssanktion,
+            men inte marknadsstörningsavgift. Utskottets ställningstagande
+            Utskottet kan konstatera att lagstiftningen inom EU:s medlemsländer
+            vad gäller köp av konsumentvaror uppvisar en splittrad bild i
+            en rad frågor, exempelvis påföljder vid fel i varan, garantier
+            samt reklamations- och preskriptionsfrister. Antagandet av konsumentköpsdirektivet
+            med dess minimiregler på en förhållandevis hög skyddsnivå måste
+            därför, enligt utskottets mening, ses som ett viktigt steg i strävan
+            att förverkliga den inre marknaden, även för konsumenterna i den
+            vardagliga handeln. Som framhålls i propositionen kommer nämligen
+            ett mer likartat regelverk på området att göra det lättare för
+            konsumenterna att dra största möjliga nytta av den inre marknaden.
+            Samtidigt underlättar det för näringsidkarna att sälja sina varor
+            i hela EU, vilket i sin tur kan ge upphov till en ökad konkurrens
+            och ett ökat utbud. Konsumentköpsdirektivet kan således, när det
+            är genomfört i hela unionen, antas komma att bli av stor betydelse
+            för den framtida handeln inom EU. De i propositionen framlagda
+            lagförslagen och redovisade bedömningarna bygger, enligt utskottets
+            uppfattning, på ett omsorgsfullt utrednings- och beredningsarbete
+            och ger uttryck för en väl avvägd balans mellan de olika intressen
+            som gör sig gällande på området. I det sammanhanget vill utskottet
+            särskilt framhålla sin tillfredsställelse över att regeringen,
+            i samarbete med övriga nordiska länder, under förhandlingsarbetet
+            lyckats påverka direktivets slutliga utformning i en sådan riktning
+            att det kommit att ligga väl i linje med den nordiska köprätten
+            och att en nordisk rättslikhet på området kunnat upprätthållas.
+            Någon motion har inte väckts med anledning av propositionen i
+            denna del, och utskottet kan för sin del inte finna annat än att
+            de föreslagna lagändringarna innebär att Sverige kommer att uppfylla
+            vad som krävs i direktivet. Med det anförda tillstyrker utskottet
+            propositionen. De i propositionen föreslagna bestämmelserna i
+            13 a och 29 §§ marknadsföringslagen (lagförslag 3) föreslås även
+            ändras i proposition 2001/02:150 Lag om elektronisk handel och
+            andra informationssamhällets tjänster, m.m. Denna proposition
+            kommer att behandlas av utskottet senare under våren 2002 i betänkande
+            2001/02:LU29. Enligt utskottets mening bör de i detta ärende föreslagna
+            ändringarna i marknadsföringslagen av författningstekniska skäl
+            inte beslutas nu utan samordnas med lagförslagen i betänkande
+            2001/02:LU29. Lagförslag nr 3 bör därför, ehuru utskottet i sak
+            ställer sig bakom propositionen också i denna del, utgå. Köparens
+            skydd mot säljarens borgenärer Utskottets förslag i korthet Riksdagen
+            bör anta regeringens förslag till en ny bestämmelse i konsumentköplagen.
+            Den föreslagna bestämmelsen innebär att en köpare, vid köp som
+            omfattas av konsumentköplagen, får sakrättsligt skydd mot säljarens
+            borgenärer redan genom köpeavtalet. Något krav på besittningsövergång
+            för att erhålla sådant skydd skall således inte längre gälla.
+            Allmän bakgrund Med termen sakrätt avses rättigheter som är gällande
+            inte bara mellan parterna i ett rättsförhållande utan också mot
+            utomstående personer, dvs. tredje man. Som exempel på sådana rättigheter
+            kan nämnas äganderätt till fast och lös egendom samt panträtt
+            och andra säkerhetsrätter. Den viktigaste delen av det sakrättsliga
+            regelsystemet avser under vilka förutsättningar parterna i ett
+            avtalsförhållande har skydd mot tredje man på motsatt sida vid
+            överlåtelse eller upplåtelse av en rättighet. Betydelsen av de
+            sakrättsliga reglerna är stor, särskilt när det gäller den ena
+            avtalspartens möjligheter att freda sitt anspråk mot den andra
+            partens borgenärer vid utmätning eller konkurs som riktas sig
+            mot den sistnämnde. Förvärvarens sakrättsliga skydd vid utmätning
+            och konkurs hos motparten brukar kallas separationsrätt. I svensk
+            lagstiftning finns inte någon allmän bestämmelse om när äganderätten
+            går över från säljaren till köparen vid överlåtelse av lös egendom
+            och köparen därmed blir sakrättsligt skyddad. Tidpunkten för äganderättens
+            övergång har ansetts kunna bestämmas enligt två principer. Den
+            ena, avtalsprincipen, innebär att äganderätten övergår till köparen
+            i och med avtalet. Den andra, traditionsprincipen, innebär att
+            äganderätten går över först genom tradition, dvs. då egendomen
+            överlämnats till köparen, som därmed fått den i sin besittning.
+            Med uttrycket besittning avses i dessa sammanhang inte att någon
+            har en viss rättighet till t.ex. ett föremål, utan enbart det
+            faktiska förhållandet att någon - med eller utan rätt - innehar
+            någonting. Vid tiden för tillkomsten av 1734 års lag eller något
+            senare ansågs avtalsprincipen gälla som en allmän grundsats vid
+            köp av lös egendom. Genom tillkomsten av förordningen (1835:25
+            s. 3) angående vad som iakttagas bör vid handel med lösören, vilka
+            köparen låter i säljarens vård kvarbliva ändrades rättsläget när
+            det gällde sådan lös egendom som brukar betecknas lösören eller
+            lösa saker, dvs. i princip olika flyttbara saker som fordon, maskiner,
+            möbler, råmaterial och varor. År 1845 ersattes 1835 års förordning
+            med en ny förordning i ämnet. Denna författning är alltjämt gällande
+            och har sedan år 1977 rubriken lag (1845:50 s. 1) om handel med
+            lösören som köparen låter i säljarens vård kvarbliva. Liksom 1835
+            års förordning var lagen ursprungligen tillämplig endast vid utmätning
+            men utvidgades år 1907 till att också gälla vid konkurs. Reglerna
+            i förordningen och lagen innebär att den som köper en lös sak,
+            men låter den stanna kvar hos säljaren måste iaktta vissa formföreskrifter
+            för att egendom skall kunna skyddas mot att utmätas för säljarens
+            skuld och, vid säljarens konkurs, från att räknas in bland konkursboets
+            tillgångar. De nämnda reglerna om s.k. lösöreköp kom i rättspraxis
+            att motsatsvis tolkas så att köp av lösa saker som inte sker enligt
+            formföreskrifterna kan ges sakrättsligt skydd först sedan egendomen
+            kommit i köparens besittning. Även vid rättshandlingar utanför
+            lösöreköpslagens tillämpningsområde har traditionsprincipen stor
+            betydelse. En gåva av lös sak är enligt lagen (1936:83) angående
+            vissa utfästelser om gåva inte giltig mot givarens borgenärer
+            förrän det bortskänkta kommit i gåvotagarens besittning. Vid förvärv
+            av löpande skuldebrev kräver skuldebrevslagen (1936:81) besittningsöverföring
+            för uppnående av sakrättsligt skydd. Vidare förutsätter en giltig
+            pantsättning av lös sak att det pantsatta kommit i panthavarens
+            besittning (10 kap. 1 § handelsbalken). Besittningens betydelse
+            för frågan om när äganderätten övergår har också kommit till uttryck
+            i utsökningsbalken. Enligt 4 kap. 18 § utsökningsbalken skall
+            nämligen den som har lös egendom i sin besittning antas vara ägare
+            till den, om det inte framgår att egendomen tillhör någon annan.
+            Presumtionen medför att egendom i någons besittning i allmänhet
+            kan mätas ut för dennes skuld. Reglerna i utsökningsbalken kan
+            på detta sätt sägas vara en spegelbild av vad som gäller vid förvärv
+            av lös egendom. Den omständigheten att en person har fått besittning
+            till en sak har alltså stor betydelse för hans eller hennes möjligheter
+            att skydda sina rättigheter vid utmätning eller konkurs på motpartens
+            sida. Även i andra avseenden har emellertid besittningen betydande
+            rättsverkningar. Vid förvärv av egendom från en person som saknar
+            rätt att förfoga över den blir förvärvaren skyddad mot den rätte
+            ägarens anspråk på att få tillbaka egendomen, om förvärvaren var
+            i god tro och fått egendomen i sin besittning. Bestämmelser om
+            detta finns i lagen (1986:796) om godtrosförvärv av lösöre. Vid
+            kolliderande upplåtelser av rättigheter till viss lös egendom,
+            t.ex. då samma sak säljs till två personer eller då den ene förvärvar
+            äganderätten och den andre får panträtt i egendomen, gäller att
+            den som först får egendomen i sin besittning har bättre rätt till
+            den, under förutsättning att han eller hon var i god tro. Utredningen
+            om konsumenträttsliga frågor Frågor rörande besittningens betydelse
+            i svensk rätt var föremål för utskottets överväganden vid ett
+            flertal tillfällen i slutet av 1980-talet och i början av 1990-talet
+            med anledning av motioner med krav på ett förstärkt sakrättsligt
+            konsumentskydd vid säljarens insolvens och konkurs och krav på
+            en samlad översyn av den svenska sakrätten (se bl.a. bet. LU 1987/88:1,
+            bet. 1989/90:LU5, bet. 1989/90:LU35 och bet. 1991/92:LU7). När
+            frågan behandlades hösten 1992 i det av riksdagen godkända betänkandet
+            1992/93:LU2 anförde utskottet att det måste krävas tungt vägande
+            skäl för att frångå gällande ordning i svensk rätt vad gäller
+            besittningsövergångens betydelse och konstaterade att sådana skäl
+            då inte förelåg. Utskottet uteslöt dock inte att det på särskilda
+            rättsområden kunde finnas anledning att överväga om kravet på
+            besittningsöverföring för skydd mot säljarens borgenärer alltjämt
+            borde upprätthållas och förutsatte att frågan om att ersätta lösöreköplagen
+            med tidsenliga och för köparen praktiskt hanterbara bestämmelser
+            skulle komma att tas upp till närmare överväganden inom Regeringskansliet.
+            Regeringen tillkallade i oktober 1993 en särskild utredare med
+            uppgift att göra en utvärdering och översyn av vissa frågor med
+            anknytning till konsumentköplagen och konsumenttjänstlagen (dir.
+            1993:101). Utredningen antog namnet Utredningen om konsumenträttsliga
+            frågor. I uppdraget ingick bl.a. att överväga behovet av ett förstärkt
+            sakrättsligt konsumentskydd vid säljarens insolvens. Om ett sådant
+            behov förelåg skulle utredningen överväga om ett förbättrat skydd
+            kunde skapas genom bestämmelser om avsteg från traditionsprincipen
+            vid konsumentköp. Utredningen hade även i uppdrag att bl.a. överväga
+            frågor rörande preskriptionstiden för konsumentens rätt att göra
+            gällande fel i en vara eller tjänst, konsumentens rätt att avbeställa
+            en köpt vara eller en avtalad tjänst, omfattningen av näringsidkarens
+            produktansvar och vissa avvikelser mellan konsumentköplagen och
+            konsumenttjänstlagen. Utredningen redovisade sitt uppdrag i februari
+            1995 i betänkandet (SOU 1995:11) Nya konsumentregler. I betänkandet
+            konstaterade utredningen att det fanns ett behov av att förstärka
+            det rättsliga skyddet för konsumenter vid säljarens insolvens.
+            Efter att ha övervägt och förkastat vissa andra alternativ, bl.a.
+            en modernisering av lösöreköplagen, förordade utredningen att
+            traditionskravet skulle avskaffas vid köp enligt konsumentköplagen
+            och att köparen i dessa fall skulle vara skyddad mot säljarens
+            borgenärer redan i och med köpeavtalet. Utredningen föreslog därutöver
+            införandet av en ny bestämmelse i konkurslagen (1987:672) med
+            den innebörden att återvinningsfristen beträffande köp och byte
+            enligt konsumentköplagen skulle börja löpa först när varan kommit
+            i köparens besittning. Utredningen berörde även frågan om en generell
+            övergång till avtalsprincipen vid överlåtelse av lösa saker, dvs.
+            även för kommersiella köp, och drog slutsatsen att detta endast
+            skulle medföra ett fåtal följdändringar och begränsade verkningar
+            även i övrigt. Något förslag i detta avseende lades dock inte
+            fram, eftersom frågan inte ingick i utredningens uppdrag. Propositionen
+            I propositionen föreslår regeringen - efter hörande av Lagrådet
+            - att riksdagen skall anta det i propositionen framlagda förslaget
+            till en ny bestämmelse, 49 §, i konsumentköplagen (1990:932).
+            Regeringens förslag återges i bilaga 1 och lagförslaget i bilaga
+            2. Ingen motion har väckts med anledning av propositionen i denna
+            del. Regeringen gör i propositionen bedömningen att rättsläget
+            vad gäller konsumentens skydd mot säljarens borgenärer inte är
+            helt tillfredsställande och att det är svårt att motivera att
+            konsumentens intresse att få ut den vara som han har köpt och
+            betalat skall få vika för övriga borgenärers, dvs. i praktiken
+            främst institutionella kreditgivares, intresse av att få utdelning
+            för sina penningfordringar. Det är vidare, menar regeringen, lätt
+            att invända mot att näringsidkarens fordringsborgenärer inte gärna
+            enbart av det skälet att varan har lämnats kvar hos säljaren kan
+            anses ha ett tillräckligt befogat anspråk på att få tillgodogöra
+            sig en såld vara som näringsidkaren har erhållit betalning för
+            och således få tillgodogöra sig såväl köpeskillingen som varan.
+            I stället framstår det som naturligt att ge en bättre ställning
+            åt konsumenten, vars anspråk är riktade mot en betalad och individualiserad
+            vara. Enligt regeringens uppfattning finns det således goda skäl
+            för att konsumentens intresse att få ut sin vara skall ges försteg
+            och att traditionskravet alltså skall överges vid konsumentköp.
+            Det kan visserligen, anförs det i propositionen, resas vissa invändningar
+            också mot ett till konsumentköp begränsat övergivande av traditionsprincipen.
+            Dessa invändningar är dock, enligt regeringens uppfattning, inte
+            tillräckligt tungt vägande. I propositionen föreslås därför att
+            det skall införas en ny bestämmelse i konsumentköplagen som innebär
+            att köparen vid köp enligt konsumentköplagen skall vara skyddad
+            mot säljarens borgenärer redan i och med köpeavtalet. Det skall
+            således fortsättningsvis inte krävas att köparen får varan i sin
+            besittning. En förutsättning för att köparen skall kunna åtnjuta
+            ett sådant skydd är dock, enligt förslaget, att den köpta egendomen
+            är individualiserad, dvs. att det vidtagits åtgärder så att det
+            framgår att varan är avsedd för köparen. Till skillnad från Utredningen
+            om konsumenträttsliga frågor gör regeringen den bedömningen att
+            det inte föreligger tillräckligt behov av en särskild bestämmelse
+            vad gäller utgångspunkten för återvinningsfristen i konkurs vid
+            köp som omfattas av konsumentköplagen. Någon sådan bestämmelse
+            föreslås därför inte. Som redovisats i det föregående fann Utredningen
+            om konsumenträttsliga frågor att en generell övergång till avtalsprincipen
+            endast torde medföra ett fåtal följdändringar och begränsade verkningar
+            även i övrigt. Regeringen gör dock i propositionen den bedömningen
+            att det inte finns tillräckligt stöd för en sådan generell reform
+            och att det för närvarande inte heller är motiverat att överväga
+            saken. Utskottets ställningstagande Utskottet kan konstatera att
+            traditionsprincipen sedan lång tid tillbaka är av grundläggande
+            betydelse för svensk rätt. Det är således ett utmärkande drag
+            inom civilrätten att stor betydelse tillmäts det förhållandet
+            att viss egendom finns i någons besittning. Som närmare redovisats
+            i det föregående gäller detta inte bara inom köprätten utan också
+            inom en rad andra rättsområden. En generell övergång från traditionsprincipen
+            till avtalsprincipen bör, mot den bakgrunden, kräva tungt vägande
+            skäl och att påtagliga samhällsekonomiska fördelar står att vinna
+            med en sådan övergång. Utskottet delar regeringens bedömning att
+            det inte föreligger tillräckligt stöd för en sådan genomgripande
+            reform eller skäl att för närvarande närmare överväga frågan.
+            I likhet med regeringen anser utskottet däremot att traditionsprincipen
+            bör kunna överges när det gäller köp enligt konsumentköplagen.
+            Som framhålls i propositionen kom nämligen kravet på besittningsövergång
+            för erhållande av sakrättsligt skydd till i en tid då de ekonomiska
+            förhållandena i samhället var helt andra än i dag. Sålunda kan
+            det vid den tiden ha framstått som mer naturligt att för borgenärsskydd
+            uppställa krav på att besittningen till den sålda varan skulle
+            ha frångått säljaren och övergått till köparen. Med den rörlighet
+            och omsättning som numera råder när det gäller konsumentköp har
+            de bakomliggande förhållandena helt ändrats och, som påpekas i
+            propositionen, är det då inte ändamålsenligt med ett krav på besittningsövergång.
+            Som närmare utvecklas i propositionen föreligger vidare från konsumentskyddsaspekt
+            ett behov av att stärka den rättsliga ställningen för konsumenterna
+            vid säljarens insolvens och konkurs. Visserligen kan, som regeringen
+            också påpekar, vissa invändningar riktas även mot den föreslagna
+            mer begränsade övergången till avtalsprincipen. Bland annat gäller
+            detta risken för skentransaktioner och gränsdragningsproblem mellan
+            köp som faller inom respektive utanför konsumentköplagens tillämpningsområde.
+            I likhet med regeringen gör dock utskottet den bedömningen att
+            dessa invändningar inte väger över de fördelar som står att vinna
+            med en övergång till avtalsprincipen i fråga om konsumentköp.
+            Med det anförda ställer sig utskottet bakom propositionen också
+            i denna del och föreslår att riksdagen skall anta lagförslaget.
+            Bilaga 1 Förteckning över behandlade förslag
+          </p>
+          <p>
+            Propositionen I proposition 2001/02:134 föreslår regeringen (Justitiedepartementet)
+            - efter hörande av Lagrådet - att riksdagen antar de i propositionen
+            framlagda förslagen till 1. lag om ändring i konsumentköplagen
+            (1990:932), 2. lag om ändring i konsumenttjänstlagen (1985:716).
+            Lagförslagen finns i bilaga 2 till betänkandet. BILAGA 2 Regeringens
+            lagförslag 1 Förslag till lag om ändring i konsumentköplagen (1990:932)
+            2 Förslag till lag om ändring i konsumenttjänstlagen (1985:716)
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

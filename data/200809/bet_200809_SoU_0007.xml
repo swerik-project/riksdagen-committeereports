@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_SoU_0007">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Lagen om medicintekniska produkter ändrades för att anpassas till ett EU-direktiv om medicinteknik med mera.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Lagen om medicintekniska produkter anpassas till EU-direktiv (SoU7)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0991</idno>
+              <title>2009-03-25</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">91</biblScope>
+              <note type="display-reference">2009-03-25</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0991</idno>
+              <title>2009-03-25</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">91</biblScope>
+              <note type="display-reference">2009-03-25</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GW0K206</idno>
+              <title>2008/09:206</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">206</biblScope>
+              <note type="display-reference">2008/09:206</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1993:584</idno>
+              <note type="display-reference">2009:271</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GW03105</idno>
+              <title>Genomförande av EG-direktiv om medicinteknik m.m.</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">105</biblScope>
+              <note type="display-reference">proposition 2008/09:105 Genomförande av EG-direktiv om medicinteknik m.m.</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-03-17">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-03-17">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-03-17">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-03-12">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-03-12">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-03-12">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-02-26">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-02-26">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2009-03-25">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-03-25">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-03-25">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-03-25">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-03-25">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-03-24">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-03-24">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-03-23">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-03-23">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Socialutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:SoU7
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Genomförande av EG-direktiv om medicinteknik m.m.
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBONB" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlas regeringens proposition 2008/09:105 Genomförande
+            av EG-direktiv om medicinteknik m.m.
+          </p>
+          <p>
+            Bakgrunden till lagförslaget är behovet av genomförande av Europaparlamentets
+            och rådets direktiv 2007/47/EG om ändring av rådets direktiv 90/385/EEG
+            om tillnärmning av medlemsstaternas lagstiftning om aktiva medicintekniska
+            produkter för implantation, rådets direktiv 93/42/EEG om medicintekniska
+            produkter och direktiv 98/8/EG om utsläppande av biocidprodukter
+            på marknaden.
+          </p>
+          <p>
+            Lagstiftningsärendet omfattar ändringar i lagen (1993:584) om
+            medicintekniska produkter.
+          </p>
+          <p>
+            Ingen motion har väckts med anledning av propositionen, och utskottet
+            föreslår att riksdagen antar lagförslagen. I betänkandet finns
+            ett särskilt yttrande (s, v, mp).
+          </p>
+          <p>
+            Lagändringarna föreslås träda i kraft den 21 mars 2010.
+          </p>
+          <p xml:id="IDAVBONB" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Ändringar i lagen (1993:584) om medicintekniska produkter
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till lag om ändring i lagen
+                  (1993:584) om medicintekniska produkter.
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen proposition 2008/09:105.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 12 mars 2009
+          </p>
+          <p>
+            På socialutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Kenneth Johansson
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Kenneth Johansson
+            (c), Ylva Johansson (s), Cecilia Widegren (m), Magdalena Andersson
+            (m), Christer Engelhardt (s), Marianne Kierkemann (m), Lars U
+            Granberg (s), Tobias Krantz (fp), Marina Pettersson (s), Lennart
+            Axelsson (s), Chatrine Pålsson Ahlgren (kd), Margareta B Kjellin
+            (m), Elina Linna (v), Catharina Bråkenhielm (s), Thomas Nihlén
+            (mp), Finn Bengtsson (m) och Gunnel Wallin (c).
+          </p>
+          <p xml:id="IDA0EONB" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDA3EONB" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I proposition 2008/09:105 Genomförande av EG-direktiv om medicinteknik
+            m.m. föreslår regeringen att riksdagen antar förslagen till ändringar
+            i lagen (1993:584) om medicintekniska produkter. Bakgrunden till
+            lagförslaget är behovet av att genomföra Europaparlamentets och
+            rådets direktiv 2007/47/EG om ändring av rådets direktiv 90/385/EEG
+            om tillnärmning av medlemsstaternas lagstiftning om aktiva medicintekniska
+            produkter för implantation, rådets direktiv 93/42/EEG om medicintekniska
+            produkter och direktiv 98/8/EG om utsläppande av biocidprodukter
+            på marknaden. Europaparlamentets och rådets direktiv trädde i
+            kraft den 11 oktober 2007. Medlemsstaterna skulle anta och offentliggöra
+            de lagar och andra författningar som är nödvändiga för att följa
+            detta direktiv senast den 21 december 2008. Bestämmelserna ska
+            tillämpas fr.o.m. den 21 mars 2010.
+          </p>
+          <p>
+            Lagförslaget har varit inlämnat för yttrande hos Lagrådet.
+          </p>
+          <p>
+            Ingen motion har väckts.
+          </p>
+          <p>
+            Regeringens förslag till riksdagsbeslut finns i bilaga 1 och
+            regeringens lagförslag i bilaga 2.
+          </p>
+          <p xml:id="IDAMFONB" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            Propositionen innehåller förslag som syftar till att i svensk
+            rätt genomföra Europaparlamentets och rådets direktiv 2007/47/EG
+            om ändring av rådets direktiv 90/385/EEG om tillnärmning av medlemsstaternas
+            lagstiftning om aktiva medicintekniska produkter för implantation,
+            rådets direktiv 93/42/EEG om medicintekniska produkter och direktiv
+            98/8/EG om utsläppande av biocidprodukter på marknaden.
+          </p>
+          <p>
+            I propositionen föreslås därför att lagen (1993:584) om medicintekniska
+            produkter ändras. Därutöver innehåller propositionen bedömningar
+            av vilka delar av direktivet som kan införlivas genom förordningar
+            respektive myndighetsföreskrifter. Merparten av införlivandet
+            bör ske genom myndighetsföreskrifter.
+          </p>
+          <p>
+            Genom förslagen ändras bl.a. definitionen av en medicinteknisk
+            produkt i lagen om medicintekniska produkter. Detta för att tydliggöra
+            att definitionen av en medicinteknisk produkt även innefattar
+            produkter som inte enbart eller i huvudsak uppfyller kriterierna
+            för en medicinteknisk produkt. Den viktigaste förändringen av
+            definitionen i direktivet är att det tydliggörs att programvara
+            inkluderas i vad som kan vara en medicinteknisk produkt. Denna
+            del av direktivet och övriga delar som preciserar direktivets
+            tillämpningsområde bedöms dock kunna införlivas genom myndighetsföreskrifter.
+          </p>
+          <p>
+            Direktivet ändrar vidare direktiv 98/8/EG om biocider på så sätt
+            att medicintekniska produkter för in vitro-diagnostik utesluts
+            från direktiv 98/8/EG:s tillämpningsområde. Ändringen bedöms inte
+            kräva några författningsändringar.
+          </p>
+          <p>
+            Propositionen innehåller även förslag om att, i enlighet med
+            direktivet, förtydliga att en medicinteknisk produkt även omfattar
+            tillbehör som enligt tillverkarens avsikt ska användas tillsammans
+            med en medicinteknisk produkt för att denna produkt ska kunna
+            användas på det sätt som tillverkaren avsett.
+          </p>
+          <p>
+            De krav som de medicintekniska direktiven ställer på den ansvariga
+            myndigheten, i Sverige Läkemedelsverket, bedöms vidare kunna tydliggöras
+            genom en hänvisning i förordningen (2007:1205) om instruktion
+            för Läkemedelsverket. Hänvisningen bör klargöra att verket ska
+            tillämpa de principer och de metoder som anges i direktiven. Det
+            nya kravet som direktivet ställer på internationellt samarbete
+            bedöms kunna införlivas genom nuvarande krav i Läkemedelsverkets
+            instruktion på att verket ska delta i internationellt samarbete
+            inom sitt verksamhetsområde.
+          </p>
+          <p>
+            En ändring av de allmänna säkerhetskraven föreslås införd till
+            följd av direktivet som tydliggör att kraven på produkterna gäller
+            när produkterna är levererade, installerade eller underhållna
+            och används i enlighet med tillverkarens anvisningar. Kraven är
+            övergripande och avser såväl krav på produkter som krav på hantering
+            av produkter.
+          </p>
+          <p>
+            Eftersom lagen till stor del är konstruerad genom bemyndiganden
+            innehåller propositionen främst förslag till utökade bemyndiganden
+            för regeringen, eller den myndighet som regeringen bestämmer,
+            att meddela föreskrifter till följd av de ytterligare krav som
+            direktivet ställer. Detta gäller bl.a. utökade väsentliga krav,
+            upprättande av kontrollsystem och märkning, kliniska prövningar
+            samt uppgiftsskyldighet för tillverkare och anmälda granskande
+            organ.
+          </p>
+          <p>
+            Propositionen innehåller dessutom förslag till ökad öppenhet
+            till följd av direktivet. Vissa uppgifter som tillverkare eller
+            tillverkares ombud i Sverige lämnar om sin verksamhet och om produkterna
+            samt vissa uppgifter som anmälda organ lämnat om certifikat ska
+            det inte råda tystnadsplikt för. Slutligen lämnas även ett förslag
+            som rör överklagandebestämmelsen. Förslaget har ingen koppling
+            till direktivet utan syftar endast till att tydliggöra bestämmelsen
+            och anpassa den till dagens förvaltningsprocessrättsliga reglering.
+          </p>
+          <p>
+            Lagförslagen föreslås träda i kraft den 21 mars 2010.
+          </p>
+          <p xml:id="IDAOGONB" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDASGONB" rend="rubrik2">
+            Ändringar i lagen (1993:584) om medicintekniska produkter
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAYGONB" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen antar regeringens lagförslag.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför särskilt yttrande (s, v, mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAFHONB" rend="rubrik3">
+              Propositionen
+            </p>
+            <p xml:id="IDAIHONB" rend="r4">
+              Definitionen av en medicinteknisk produkt
+            </p>
+            <p>
+              I propositionen föreslås att en produkt ska betraktas som en
+              medicinteknisk produkt om den är avsedd för viss medicinsk användning
+              hos människor. Det ska inte längre krävas att den enbart eller
+              i huvudsak är avsedd för sådan användning.
+            </p>
+            <p>
+              Enligt direktivens nya lydelse gäller inte längre att en medicinteknisk
+              produkt är en produkt som enligt tillverkarens uppgift ska användas
+              separat eller i kombination med annat för att hos människor enbart
+              eller i huvudsak påvisa, förebygga eller lindra en sjukdom. Det
+              räcker om något av de alternativa rekvisiten är uppfyllda. Definitionen
+              omfattar instrument, apparat, anordning, programvara, material
+              eller annan artikel, vare sig den används enskilt eller i kombination
+              med tillbehör under förutsättning att produkten är avsedd att
+              användas för ett eller flera av de medicinska syften som räknas
+              upp i 2 § 14 i lagen (1993:584) om medicintekniska produkter.
+            </p>
+            <p xml:id="IDARHONB" rend="r4">
+              Tillbehör
+            </p>
+            <p>
+              I propositionen föreslås vidare att bestämmelserna i lagen ska
+              gälla även tillbehör till medicintekniska produkter om tillverkaren
+              av tillbehöret avsett att det ska användas tillsammans med en
+              medicinteknisk produkt och om tillbehöret behövs för att den medicintekniska
+              produkten ska kunna användas på det sätt som dess tillverkare
+              har avsett.
+            </p>
+            <p>
+              Regeringen har, liksom flera remissinstanser, ansett att det
+              är viktigt att tydliggöra att avsikten hos såväl tillverkaren
+              av den medicintekniska produkten som tillverkaren av tillbehöret
+              är avgörande för lagens tillämplighet.
+            </p>
+            <p xml:id="IDA0HONB" rend="r4">
+              Krav på medicintekniska produkter
+            </p>
+            <p>
+              I propositionen föreslås att i lagen ange att en medicinteknisk
+              produkt ska vara lämplig för sin användning och att produkten
+              är lämplig när den
+            </p>
+            <p>
+              ·. är rätt levererad och installerad samt underhålls och används
+              i enlighet med tillverkarens märkning, bruksanvisning eller marknadsföring,
+              och
+            </p>
+            <p>
+              ·. uppnår de prestanda som tillverkaren avsett och tillgodoser
+              höga krav på skydd för liv, personlig säkerhet och hälsa hos patienter,
+              användare och andra.
+            </p>
+            <p xml:id="IDARIONB" rend="r4">
+              Uppgiftsskyldighet
+            </p>
+            <p>
+              I Sverige är t.ex. Semko och SP Sveriges Tekniska Forskningsinstitut
+              anmälda organ för granskning av medicintekniska produkter. Det
+              anmälda organet ska underrätta sin behöriga myndighet (i Sverige
+              Läkemedelsverket) om alla certifikat som har utfärdats, ändrats,
+              kompletterats, tillfälligt eller slutgiltigt återkallats eller
+              vägrats.
+            </p>
+            <p xml:id="IDAXIONB" rend="r4">
+              Tystnadsplikt
+            </p>
+            <p>
+              Till följd av den ökade öppenhet och ändringar av tystnadsplikt
+              som införs genom direktiv 2007/47/EG föreslås i propositionen
+              ändring av 16 §. Därigenom omfattar inte tystnadsplikten sådan
+              information som
+            </p>
+            <p>
+              ·. lämnas enligt föreskrifter meddelade med stöd av 10 § 1 och
+              som avser att identifiera tillverkaren, tillverkarens ombud i
+              Sverige och de produkter som släpps ut på marknaden,
+            </p>
+            <p>
+              ·. tillverkaren, tillverkarens ombud i Sverige eller en distributör
+              sänt till en användare om åtgärder eller slutsatser som dragits
+              efter en olycka eller tillbud med en medicinteknisk produkt, och
+            </p>
+            <p>
+              ·. lämnas enligt föreskrifter med stöd av 10 § 2 (uppgifter om
+              certifikat som utfärdats, ändrats, kompletterats, tillfälligt
+              eller slutgiltigt återkallats).
+            </p>
+            <p xml:id="IDASJONB" rend="r4">
+              Överklagande
+            </p>
+            <p>
+              I propositionen föreslås att bestämmelsen i 19 § omformuleras
+              för att tydliggöra och anpassa den till dagens förvaltningsprocessrättsliga
+              reglering samt att ett nytt andra stycke införs som anger att
+              en länsrätts avgörande som överklagas till kammarrätt enligt lagen
+              ska omfattas av systemet med prövningstillstånd.
+            </p>
+            <p xml:id="IDAYJONB" rend="r4">
+              Ekonomiska konsekvenser m.m.
+            </p>
+            <p>
+              Regeringen gör den bedömningen att förslaget inte bedöms få några
+              betydande ekonomiska konsekvenser för vare sig tillverkare, tillverkares
+              ombud eller anmälda organ. Förslaget bedöms inte heller få några
+              ekonomiska konsekvenser för stat, kommun eller landsting.
+            </p>
+            <p>
+              Kommissionen har i sitt ursprungliga förslag konstaterat att
+              översynen inte kommer att ha några betydande ekonomiska konsekvenser
+              för berörda aktörer, som tillverkare och auktoriserade representanter.
+              I kommissionens konsekvensanalys, SEK(2005) 1742, anges vidare
+              att de klargöranden av regelverket som direktivet innehåller inte
+              kommer att medföra några betydande ekonomiska konsekvenser för
+              de tillverkare som tillämpar direktivet korrekt. Varken Socialstyrelsen
+              eller Läkemedelsverket har framfört att förslaget kommer att medföra
+              kostnadsökningar för myndigheterna.
+            </p>
+            <p>
+              Det finns enligt regeringens bedömning inga alternativa lösningar
+              för införlivande av direktivet än att ändra i lagen (1993:584)
+              om medicintekniska produkter och övriga föreskrifter på området.
+              Regeringens bedömning är att regleringen inte får effekter av
+              betydelse för företagens arbetsförutsättningar, konkurrensförmåga
+              eller villkor i övrigt. Förslaget bedöms inte heller ha några
+              sociala eller miljömässiga konsekvenser.
+            </p>
+            <p xml:id="IDAEKONB" rend="rubrik3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Propositionen innehåller förslag till genomförande i svensk rätt
+              av de skyldigheter som följer av Europaparlamentets och rådets
+              direktiv 2007/47/EG om ändring av rådets direktiv 90/385/EEG om
+              tillnärmning av medlemsstaternas lagstiftning om aktiva medicintekniska
+              produkter för implantation, rådets direktiv 93/42/EEG om medicintekniska
+              produkter och direktiv 98/8/EG om utsläppande av biocidprodukter
+              på marknaden.
+            </p>
+            <p>
+              Utskottet ställer sig bakom regeringens förslag till ändringar
+              i lagen (1993:584) om medicintekniska produkter och föreslår att
+              riksdagen antar dessa.
+            </p>
+            <p xml:id="IDAOKONB" rend="AvsnittsRubrik">
+              Särskilt yttrande
+            </p>
+          </div>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDASKONB">
+                  <p rend="ettsarskiltyttrande">
+                    Ändringar i lagen (1993:584) om medicintekniska produkter (s,
+                    v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    Ylva Johansson (s), Christer Engelhardt (s), Lars U Granberg
+                    (s), Marina Pettersson (s), Lennart Axelsson (s), Elina Linna
+                    (v), Catharina Bråkenhielm (s) och Thomas Nihlén (mp) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Hälso- och sjukvården är en nationell angelägenhet där varje
+              medlemsstat ansvarar för sitt eget sjukvårdssystem och för att
+              medborgarna får tillgång till bra vård, och så vill vi att det
+              ska förbli. Det finns samtidigt många områden där det är bra med
+              ett närmare samarbete mellan sjukvården i de olika medlemsstaterna
+              och områden där gemensamma regler för t.ex. patientsäkerhet är
+              viktigt för att underlätta samarbete och gränsöverskridande vård.
+              Det finns emellertid en uppenbar risk att nya EG-direktiv, när
+              de implementeras i svensk lagstiftning och i svensk sjukvård,
+              kommer att innebära administrativt merarbete för vårdens personal.
+            </p>
+            <p>
+              Vi anser därför att nya EG-direktiv alltid bör bedömas även utifrån
+              proportionaliteten mellan hur mycket administrativt merarbete
+              de orsakar i vården och den nytta och det värde de tillför. Det
+              borde alltså finnas en policy för införlivande av EG-direktiv
+              så att administrativt merarbete begränsas och står i proportion
+              till nyttan.
+            </p>
+            <p>
+              Vi anser vidare att Sverige i EU aktivt bör driva frågan om att
+              EU:s regelförenklingsarbete ska omfatta också de direktiv som
+              rör hälso- och sjukvården samt att krav ska ställas på proportionalitet
+              mellan administrativt arbete och nytta.
+            </p>
+            <p>
+              Vi anser slutligen att det finns anledning att utvärdera effekterna
+              av införlivande av EG-direktiv inom sjukvården när det gäller
+              sjukvårdens vardag, administration och ekonomi.
+            </p>
+            <p>
+              Dessa frågor anser vi vara viktiga, och vi avser att följa dem
+              noga och förbehåller oss rätten att återkomma.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDACMONB" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAFMONB" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAIMONB" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2008/09:105 Genomförande av EG-direktiv om medicinteknik
+              m.m.:
+            </p>
+            <p>
+              Riksdagen antar regeringens förslag till lag om ändring i lagen
+              (1993:584) om medicintekniska produkter.
+            </p>
+            <p xml:id="IDAVMONB" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDAYMONB" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{4E562B57-3164-4FD5-87F1-ADDCFB149A51}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{D51B76DA-09DD-46AB-88D4-310A1551F5FA}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{16ADAC1A-A28D-4384-A7C2-AEDC06F92CBA}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{F92B4BF5-61AA-4840-9D35-1E772DED26DF}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{12717192-A1F5-4739-88F3-DE29F6F5591A}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

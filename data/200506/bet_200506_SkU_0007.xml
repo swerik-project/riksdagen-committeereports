@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200506_SkU_0007">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sade ja till regeringens förslag om ändrade regler för avräkning av utländsk skatt. Förslagen innebär att indirekta investeringar i utlandet genom delägarbeskattade juridiska personer vid avräkning av utländsk skatt likställs med direkta investeringar.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Avräkning av utländsk skatt (SkU7)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GT0936</idno>
+              <title>2005-11-23</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">36</biblScope>
+              <note type="display-reference">2005-11-23</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GT0936</idno>
+              <title>2005-11-23</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">36</biblScope>
+              <note type="display-reference">2005-11-23</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GT0K46</idno>
+              <title>2005/06:46</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">46</biblScope>
+              <note type="display-reference">2005/06:46</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="Ds">
+            <bibl type="Ds">
+              <idno type="riksdagen">GTB44</idno>
+              <title>Ds 2005:4</title>
+              <biblScope unit="riksdag-session">2005</biblScope>
+              <biblScope unit="document-number">4</biblScope>
+              <note type="display-reference">2005:4</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1986:468</idno>
+              <note type="display-reference">2005:892</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GT0317</idno>
+              <title>Avräkning av utländsk skatt</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">17</biblScope>
+              <note type="display-reference">proposition 2005/06:17 Avräkning av utländsk skatt</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2005-11-18">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2005-11-18">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2005-11-18">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2005-11-10">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2005-11-10">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2005-11-08">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2005-11-08">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-11-08">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2005-11-08">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-11-08">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2005-11-23">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2005-11-23">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2005-11-23">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2005-11-23">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2005-11-23">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2005-11-22">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2005-11-22">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2005-11-21">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2005-11-21">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Skatteutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2005/06:SkU7
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Avräkning av utländsk skatt (prop. 2005/06:17)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDABJAKC" rend="AvsnittsRubrik">
+            Sammanfattning
+          </p>
+          <p>
+            Utskottet tillstyrker regeringens förslag om förändrade regler
+            för avräkning av utländsk skatt. Förslagen innebär att indirekta
+            investeringar i utlandet genom delägarbeskattade juridiska personer
+            vid avräkning av utländsk skatt likställs med direkta investeringar.
+          </p>
+          <p>
+            De nya reglerna föreslås träda i kraft den 1 januari 2006 och
+            i huvudsak tillämpas retroaktivt fr.o.m. 2000 års taxering.
+          </p>
+          <p>
+            Propositionen medför inte någon förändring av de offentliga finanserna.
+          </p>
+          <p xml:id="IDAQJAKC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Avräkning av utländsk skatt
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till lag om ändring i lagen
+                  (1986:468) om avräkning av utländsk skatt. Därmed bifaller riksdagen
+                  proposition 2005/06:17.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 8 november 2005
+          </p>
+          <p>
+            På skatteutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Susanne Eberstein
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Susanne Eberstein
+            (s), Gunnar Andrén (fp), Ulla Wester (s), Per Erik Granström (s),
+            Per-Olof Svensson (s), Marie Engström (v), Lennart Axelsson (s),
+            Ulf Sjösten (m), Mats Berglind (s), Jörgen Johansson (c), Catharina
+            Bråkenhielm (s), Stefan Hagfeldt (m), Britta Rådström (s), Anne-Marie
+            Ekström (fp), Lars Gustafsson (kd), Åke Bergbäck (fp) och Peter
+            Rådberg (mp).
+          </p>
+          <p xml:id="IDAYMAKC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDA1MAKC" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Utskottet behandlar regeringens proposition 2005/06:17 Avräkning
+            av utländsk skatt. Förslaget har inte föranlett några motioner.
+            Regeringens förslag till riksdagsbeslut redovisas i
+            <seg rend="grad2">
+              bilaga 1 och regeringens lagförslag i bilaga 2
+            </seg>
+            .
+          </p>
+          <p xml:id="IDAJNAKC" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            I propositionen föreslås vissa förändringar av reglerna för avräkning
+            av utländsk skatt. Förslagen innebär att indirekta investeringar
+            i utlandet genom delägarbeskattade juridiska personer vid avräkning
+            av utländsk skatt likställs med direkta investeringar. För att
+            avräkning skall kunna medges vid sådana indirekta investeringar
+            föreslås att inkomst hos en delägarbeskattad juridisk person vid
+            avräkning av utländsk skatt skall anses som delägarens egen inkomst.
+            Vidare föreslås att delägare i en sådan juridisk person skall
+            medges avräkning även för utländsk skatt som betalats av den juridiska
+            personen.
+          </p>
+          <p>
+            I propositionen föreslås också att avräkning skall medges för
+            utländsk skatt som betalats för avkastning av utländska tillgångar
+            som ägs indirekt genom delägarbeskattade juridiska personer. Uttrycket
+            "utländska tillgångar" i 14 § lagen (1986:468) om avräkning av
+            utländsk skatt föreslås därför även omfatta indirekt ägda utländska
+            tillgångar som innehas av sådana delägarbeskattade juridiska personer
+            som avses i 5 kap. inkomstskattelagen (1999:1229).
+          </p>
+          <p>
+            Dessutom föreslås att delägare i en sådan juridisk person även
+            från avkastningsskatten skall kunna medges avräkning av utländsk
+            skatt som har betalats av den juridiska personen.
+          </p>
+          <p>
+            De nya reglerna föreslås träda i kraft den 1 januari 2006 och
+            i huvudsak tillämpas retroaktivt fr.o.m. 2000 års taxering.
+          </p>
+          <p xml:id="IDA1NAKC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDA5NAKC" rend="rubrik2">
+            Avräkning av utländsk skatt
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAGOAKC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <p rend="textiruta_">
+              Riksdagen bifaller proposition 2005/06:17 Avräkning av utländsk
+              skatt.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAOOAKC" rend="r4">
+              Bakgrund
+            </p>
+            <p>
+              Bestämmelserna om nedsättning av statlig och kommunal inkomstskatt
+              finns i 1-13 §§ lagen (1986:468) om avräkning av utländsk skatt
+              och omfattar obegränsat skattskyldiga i Sverige och begränsat
+              skattskyldiga som bedriver verksamhet från ett fast driftställe
+              i Sverige. För att avräkning skall medges krävs att den skattskyldige
+              haft intäkt som har medtagits vid den svenska taxeringen samt
+              att han beskattats för intäkten i en utländsk stat på grund av
+              att intäkten ansetts härröra därifrån. Den som begär avräkning
+              skall alltså vara skattskyldig för både svensk och utländsk skatt
+              på samma inkomst. Principen - att det skall vara identitet mellan
+              skattesubjekten - har tillämpats alltsedan de ursprungliga reglerna
+              för avräkning av utländsk skatt infördes år 1966.
+            </p>
+            <p>
+              Regeringsrätten (RÅ 2001 ref. 46) har slagit fast att det inte
+              är tillräckligt att det råder identitet mellan skattesubjekten
+              utan att det dessutom krävs att den som begär avräkning även är
+              den som i civilrättslig mening är den som haft den utländska intäkten.
+              Målet gällde en delägare i ett svenskt handelsbolag som i sin
+              tur ägde andelar i en utländsk delägarbeskattad juridisk person.
+              Delägaren skulle komma att betala skatt såväl i Sverige som i
+              utlandet för den utländska juridiska personens intäkter. Frågan
+              var om delägaren skulle medges avräkning för den utländska skatten
+              på de utländska intäkterna från den svenska skatten på samma intäkter.
+              Enligt domen skulle avräkning inte medges, eftersom det var den
+              utländska juridiska personen och inte delägaren själv som hade
+              haft de utländska intäkterna i fråga.
+            </p>
+            <p>
+              Reglerna om avräkning av utländsk skatt har tidigare aldrig tillämpats
+              på det sätt som Regeringsrätten fann vara det riktiga. Delägare
+              i svenskt handelsbolag och i delägarbeskattad utländsk juridisk
+              person har i praktiken fått avräkning av utländsk skatt.
+            </p>
+            <p>
+              Den som är skattskyldig enlig lagen (1990:661) om avkastningsskatt
+              på pensionsmedel har enligt 14 § avräkningslagen rätt till avräkning
+              av utländsk skatt som har utgått på avkastning på den skattskyldiges
+              i kapitalunderlaget ingående utländska tillgångar från avkastningsskatten
+              på samma tillgångar. Det krävs även i detta fall att det föreligger
+              identitet mellan skattesubjekten, dvs. att den som begär avräkning
+              är den som har betalat den utländska skatten. En delägare i en
+              delägarbeskattad juridisk person kan inte få avräkning från avkastningsskatten
+              av utländsk skatt som den juridiska personen betalar. Av Regeringsrättens
+              avgörande (RÅ 2001 ref. 46) framgår att det för att avräkning
+              skall kunna ske från avkastningsskatt även krävs att den i utlandet
+              beskattade avkastningen härrör från utländska tillgångar som är
+              direktägda.
+            </p>
+            <p xml:id="IDA3OAKC" rend="r4">
+              Propositionen
+            </p>
+            <p>
+              Det är en grundläggande princip i det svenska skattesystemet
+              att olika företagsformer skall vara föremål för en så likartad
+              beskattning som möjligt. Principen om neutralitet bör även gälla
+              reglerna om avräkning av utländsk skatt på så sätt att valet av
+              etableringsform inte påverkar den skattskyldiges möjligheter att
+              avräkna en skatt som har betalats i utlandet. Regeringen föreslår
+              därför att reglerna om nedsättning av statlig och kommunal inkomstskatt
+              genom avräkning av utländsk skatt ändras så att avräkning medges
+              även i fall då investeringar görs via delägarbeskattade juridiska
+              personer. Avräkning bör medges på motsvarande sätt som om delägaren
+              hade gjort investeringen direkt. En delägare i en delägarbeskattad
+              juridisk person skall medges nedsättning av statlig och kommunal
+              inkomstskatt genom avräkning av utländsk skatt som delägaren betalar
+              för inkomster hos den delägarbeskattade juridiska personen. Delägaren
+              skall även medges avräkning av utländsk skatt som betalas av den
+              delägarbeskattade juridiska personen och som hänför sig till delägarens
+              andel.
+            </p>
+            <p>
+              Det saknas skäl att i avräkningssammanhang behandla avkastningsskatt
+              på pensionsmedel annorlunda än statlig och kommunal inkomstskatt.
+              Nedsättning av avkastningsskatt på pensionsmedel bör därför kunna
+              ske på motsvarande sätt. En delägare i en delägarbeskattad juridisk
+              person skall medges nedsättning av avkastningsskatt på pensionsmedel
+              genom avräkning av utländsk skatt som delägaren har betalat för
+              avkastning på utländska tillgångar som ägs genom den delägarbeskattade
+              juridiska personen. Delägaren skall dessutom medges avräkning
+              av utländsk skatt som betalas av den juridiska personen och som
+              hänför sig till delägarens andel.
+            </p>
+            <p>
+              De nya bestämmelserna skall också gälla i fall då en delägare
+              beskattas för inkomster hos eller innehav i ett företag som inte
+              är en utländsk juridisk person men som omfattas av det s.k. moder-
+              och dotterbolagsdirektivet.
+            </p>
+            <p>
+              Lagändringen föreslås träda i kraft den 1 januari 2006 och skall
+              i huvudsak tillämpas retroaktivt fr.o.m. 2000 års taxering.
+            </p>
+            <p xml:id="IDAMPAKC" rend="rubrik4">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet har inget att erinra mot regeringens förslag utan tillstyrker
+              propositionen.
+            </p>
+            <p rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAVPAKC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAYPAKC" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2005/06:17 Avräkning av utländsk skatt:
+            </p>
+            <p type="html-endastettyrkande">
+              Riksdagen antar regeringens förslag till lag om ändring i lagen
+              (1986:468) om avräkning av utländsk skatt.
+            </p>
+            <p rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDALYAKC" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{035C6199-7E30-4695-BC67-EF4D6A146ED5}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{7E5312A3-CD43-4D1C-9035-EC7AC27D9AE7}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{D8180C22-0012-4820-A586-2EA785DFBEBE}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{F8317616-94C5-42A7-A30A-A77CB8D50919}.tif"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

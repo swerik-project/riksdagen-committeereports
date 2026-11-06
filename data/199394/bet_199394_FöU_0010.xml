@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_199394_FöU_0010">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="rdbeslut" n="Riksdagens beslut">Bifall till utskottets hemställan</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GH09116</idno>
+              <title>1994-06-02</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">116</biblScope>
+              <note type="display-reference">1994-06-02</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GH09116</idno>
+              <title>1994-06-02</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">116</biblScope>
+              <note type="display-reference">1994-06-02</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="skr">
+              <idno type="riksdagen">GH03179</idno>
+              <title>JAS-projektet</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">179</biblScope>
+              <note type="display-reference">regeringsskrivelse 1993/94:179 JAS-projektet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GH02Fö4</idno>
+              <title>med anledning av skriv. 1993/94:179 JAS-projektet</title>
+              <title type="sub">av Jan Jennehag m.fl. (v)</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">Fö4</biblScope>
+              <note type="display-reference">motion 1993/94:Fö4 med anledning av skriv. 1993/94:179 JAS-projektet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GH02Fö334</idno>
+              <title>Militärutgifterna och biståndspolitken</title>
+              <title type="sub">av Hans Göran Franck m.fl. (s)</title>
+              <biblScope unit="riksdag-session">1993/94</biblScope>
+              <biblScope unit="document-number">Fö334</biblScope>
+              <note type="display-reference">motion 1993/94:Fö334 Militärutgifterna och biståndspolitken</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="AVG" subtype="beredning" n="5" when="1994-06-02">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="beredning" n="3" when="1994-06-02">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="beredning" n="1" when="1994-06-01">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="1994-05-26">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="1994-04-28">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Försvarsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            1993/94:FÖU10
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            JAS-projektet
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <div type="section" subtype="h2">
+            <head>
+              Innehåll
+            </head>
+            <list type="unordered">
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bsam">
+                    Sammanfattning
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bprop">
+                    Motionerna
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#btext">
+                    Utskottet
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bhemst">
+                    Hemställan
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bres">
+                    Reservation
+                  </ref>
+                </p>
+              </item>
+            </list>
+            <p>
+              1993/94 FöU10
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bsam">
+              Sammanfattning
+            </head>
+            <p>
+              I betänkandet behandlas den redogörelse för JAS 39-projektet
+              som regeringen lämnat till riksdagen i skrivelse 1993/94:179.
+              Betänkandet behandlar också två motioner som båda föreslår att
+              JAS-projektet avbryts.
+            </p>
+            <p>
+              Regeringens skrivelse grundar sig i huvudsak på den s.k. JAS-kommissionens
+              arbete. Kommissionen tillsattes av regeringen efter haveriet med
+              det första serietillverkade JAS-flygplanet i augusti 1993.
+            </p>
+            <p>
+              Kommissionens samlade bedömning, vilken delas av regeringen,
+              är att JAS-programmet i allt väsentligt kan förväntas nå de mål
+              som statsmakterna har bestämt. Utskottet drar ingen annan slutsats.
+              Enligt utskottets mening har JAS-projektet efter kommissionens
+              arbete en fastare grund än tidigare, även om det fortfarande finns
+              såväl tekniska som ekonomiska risker i projektet. Utskottet föreslår
+              att de båda motionerna avslås.
+            </p>
+            <p>
+              I betänkandet betonar utskottet betydelsen av uppföljning och
+              anmäler sin avsikt att även fortsättningsvis noga följa JAS-projektets
+              utveckling.
+            </p>
+            <p>
+              Stora valutaförändringar har medfört planeringsmässiga svårigheter
+              i JAS-ekonomin. De har sin grund i såväl systemet för priskompensation
+              som i sättet att planera. Utskottet förutsätter att regeringen
+              återkommer till riksdagen med en redovisning av JAS-ekonomins
+              utveckling och med eventuella förslag i anslutning härtill.
+            </p>
+            <p>
+              Utskottet har i övrigt ingen erinran mot regeringens redovisning
+              och föreslår att riksdagen lägger skrivelsen till handlingarna.
+            </p>
+            <p>
+              Skrivelsen
+            </p>
+            <p>
+              Enligt riksdagens beslut (prop. 1981/82:102, bil. 2, FöU18, rskr.
+              374) om riktlinjer för anskaffning av JAS-systemet skall regeringen
+              årligen orientera riksdagen om läget inom JAS 39-projektet. Sådana
+              redovisningar har i regel lämnats i budgetpropositionerna.
+            </p>
+            <p>
+              Det första serietillverkade flygplanet, JAS 39-102, havererade
+              den 8 augusti 1993 i samband med en flyguppvisning över Stockholm.
+              Till följd av denna händelse tillkallade chefen för Försvarsdepartementet,
+              med stöd av regeringens bemyndigande, den 16 september 1993 en
+              kommission med uppgift att granska JAS-projektet.
+            </p>
+            <p>
+              Regeringen anmälde i 1994 års budgetproposition (prop. 1993/94:100,
+              bil. 5) att den avsåg återkomma till regeringen med en redovisning
+              av JAS-projektet när JAS-kommissionen redovisat sitt uppdrag.
+            </p>
+            <p>
+              Kommissionen redovisade sitt uppdrag till regeringen den 11 januari
+              1994 med betänkandet (SOU 1993:119) JAS 39 Gripen -- en granskning
+              av JAS-projektet. Betänkandet har remissbehandlats.
+            </p>
+            <p>
+              I skrivelsen lämnar regeringen den redovisning av JAS-projektet
+              som förutskickats i 1994 års budgetproposition.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bprop">
+              Motionerna
+            </head>
+            <p>
+              Avgiven med anledning av skrivelsen:
+            </p>
+            <p>
+              1993/94:Fö4 av Jan Jennehag m.fl. (v) vari yrkas att riksdagen
+              som sin mening ger regeringen till känna vad i motionen anförts
+              om avveckling av JAS-projektet.
+            </p>
+            <p>
+              Avgiven under den allmänna motionstiden:
+            </p>
+            <p>
+              1993/94:Fö334 av Hans Göran Franck m.fl. (s) vari yrkas 2. att
+              riksdagen som sin mening ger regeringen till känna vad i motionen
+              anförts om att JAS-projektet bör avbrytas så snart som möjligt,
+              dock senast efter delserie I (30 plan).
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="btext">
+              Utskottet
+            </head>
+            <p>
+              Regeringsskrivelsens huvudsakliga innehåll
+            </p>
+            <p>
+              Allmänt
+            </p>
+            <p>
+              Regeringen poängterar i skrivelsen att statsmakternas ställningstaganden
+              till JAS-projektet främst gäller försvarspolitiska, statsfinansiella
+              och industripolitiska frågor. Bedömningar som bl.a. rör tekniska
+              aspekter måste i första hand överlåtas åt experter inom dessa
+              områden. Utgångspunkten måste vara att regeringen kan förlita
+              sig på den expertis som har uppgifter inom JAS-projektet.
+            </p>
+            <p>
+              Enligt regeringen hindrar det anförda självfallet inte att det
+              vid skilda tillfällen finns skäl för en särskild granskning av
+              JAS-projektet ur olika aspekter. I synnerhet har haveriet i augusti
+              1993 väckt en rad frågor om projektets framtid. Regeringen anser
+              mot den bakgrunden att det varit värdefullt med den allsidiga
+              genomlysning som JAS-kommissionen har gjort.
+            </p>
+            <p>
+              Regeringen konstaterar att det finns kritiska synpunkter i enskildheter
+              men att kommissionens samlade bedömning är att JAS-programmet
+              i allt väsentligt kan förväntas nå de mål som fastställts av statsmakterna.
+              Regeringen säger sig inte ha anledning att göra någon annan bedömning
+              eller att dra andra slutsatser än dem kommissionen redovisat.
+            </p>
+            <p>
+              Regeringen tar i skrivelsen upp några viktiga frågor som kommissionen
+              behandlat i sitt betänkande.
+            </p>
+            <p>
+              Människan i flygsystemet
+            </p>
+            <p>
+              Regeringen konstaterar att betydande belopp har använts för att
+              utveckla JAS-flygplanet och den teknik som detta innehåller. Det
+              finns, enligt regeringens uppfattning, ändå anledning att öka
+              forsknings- och utvecklingsarbetet för att få ökad kunskap om
+              människans förmåga och hur denna påverkar hennes prestationer
+              i bl.a. JAS-systemet. Detta bör ske inom ramen för ett samlat
+              program.
+            </p>
+            <p>
+              Regeringens avsikt är därför att låta myndigheten Försvarsmakten
+              svara för samordningen av den svenska forskningen på människa--maskin-området
+              genom uppdrag till universitet, högskolor, industrin och Försvarets
+              forskningsanstalt.
+            </p>
+            <p>
+              Luftvärdighet
+            </p>
+            <p>
+              Regeringen anser att det av flera skäl inte vore ändamålsenligt
+              att låta ansvaret för flygsäkerhet och luftvärdighet för militära
+              luftfartyg åvila skilda myndigheter. Försvarsmakten bör därför
+              få ett odelat ansvar för dessa frågor. Vidare bör Försvarsmakten
+              bemyndigas att meddela föreskrifter inom området såvitt avser
+              alla militärt registrerade luftfartyg.
+            </p>
+            <p>
+              Ekonomisk ram
+            </p>
+            <p>
+              JAS-kommissionen kritiserar metoden att inom JAS-ramen redovisa
+              utbetalningarna i löpande priser. Omräknas dessa till prisläget
+              februari 1992 skulle, enligt kommissionen, hittills gjorda utbetalningar
+              inom JAS-ramen öka med 4 à 5 miljarder kronor.
+            </p>
+            <p>
+              Regeringen hänvisar till anmälan i årets budgetproposition om
+              att regeringen avser pröva formerna för uppräkning av JAS-ramen.
+              Målet är att ramen på ett så rättvisande sätt som möjligt skall
+              redovisa de framtida kostnaderna för JAS-projektet. Regeringen
+              anför att den avser att återkomma till riksdagen med en redogörelse
+              för dessa frågor i samband med nästa års budgetproposition.
+            </p>
+            <p>
+              Flygplanets uppgifter och tekniska egenskaper
+            </p>
+            <p>
+              Regeringen konstaterar att de förseningar som uppkom inom projektet
+              före det första haveriet i februari 1989 i stor utsträckning berodde
+              på svårigheter att utveckla styrsystemet. Till de båda haverier
+              som inträffat med JAS 39 har också skilda brister i styrsystemet
+              bidragit. Eftersom JAS-kommittén kritiserat regeringens redovisning
+              till riksdagen av projektets tekniska utveckling under åren 1986--1988,
+              anser regeringen det befogat att lämna en fördjupad redogörelse
+              för främst de tekniska faktorer som påverkar styrsystemet.
+            </p>
+            <p>
+              Regeringen framhåller att det för båda de konfigurationer som
+              ursprungligen studerades för JAS -- deltaflygplan med nosvinge
+              eller konventionellt stjärtflygplan -- förutsattes ett elektriskt
+              styrsystem och viss instabilitet i underljudsfart. Nosvingeflygplanet
+              visade sig vara att föredra av såväl ekonomiska som tekniska skäl.
+            </p>
+            <p>
+              Fördelarna med instabila flygplan anges vara minskat luftmotstånd,
+              lägre vikt, längre räckvidd och förbättrad manöverförmåga.
+            </p>
+            <p>
+              Regeringen anför vidare att det inte är möjligt för en flygförare
+              att själv kontrollera ett instabilt flygplan. För kontrollen krävs
+              ett datoriserat styrsystem som har hög räkne- och minneskapacitet.
+            </p>
+            <p>
+              Det stora problemet med instabila flygplan är att på rätt sätt
+              påverka flygplanets roderytor och att samtidigt hålla funktionen
+              hos alla delar i styrsystemet i balans i förhållande till varandra.
+              Vinsterna med en instabil konfiguration anses dock uppväga riskerna
+              med en sådan.
+            </p>
+            <p>
+              Regeringen framhåller att fördelarna med ett elektriskt styrsystem
+              är så stora, jämfört med ett konventionellt hydrauliskt-mekaniskt
+              sådant, att det sannolikt skulle valts även om JAS getts en konventionell
+              konfiguration med stabila flygegenskaper.
+            </p>
+            <p>
+              Regeringen anmäler att JAS-kommissionen under sitt arbete skaffat
+              ett brett underlag om JAS-flygplanets tekniska egenskaper. Bl.a.
+              inhämtades synpunkter rörande instabila flygplan från svensk och
+              utländsk expertis. Kommissionen inbjöd även två svenska sakkunniga
+              som har annan uppfattning om vilken konfiguration som borde valts
+              för JAS 39.
+            </p>
+            <p>
+              De av kommissionen hörda amerikanska experterna anser att JAS
+              39 kan bli ett effektivt stridsflygplan. Några grundläggande tekniska
+              problem sägs inte finnas även om styrsystemet behöver förbättras.
+            </p>
+            <p>
+              Regeringen anmäler vidare att samarbetsformerna mellan Försvarets
+              materielverk (FMV) och industrigruppen JAS (IG JAS) har fördjupats
+              efter haveriet år 1989. FMV kommer, i egenskap av beställare av
+              JAS 39, nu att knyta amerikansk expertis på flygegenskaper till
+              arbetet med utprovning av styrlagarna. FMV avser också att anlita
+              en amerikansk expert för biträde i arbetet att utveckla styrsystemet.
+            </p>
+            <p>
+              Regeringens bedömning, stödd på kommissionens slutsatser, är
+              att det bör vara möjligt att utforma ett tillfredsställande styrsystem
+              för JAS 39.
+            </p>
+            <p>
+              Motionerna
+            </p>
+            <p>
+              I motion Fö4 (v) anför motionärerna att Sverige rustar upp trots
+              minskade rustningar i Europa. Den kraftigaste nedrustningen har
+              härvid skett i Ryssland. Detta sägs vara en indikation på att
+              det säkerhetspolitiska läget för Sveriges del har förbättrats
+              grundligt under den senaste tiden. Den svenska upprustningen kan,
+              enligt motionärerna, därför inte förklaras med ett ökat hot. Den
+              sägs i stället bero på att staten låst sig i ett flertal storskaliga
+              och mycket dyra projekt, varav JAS-projektet är det allra dyraste.
+            </p>
+            <p>
+              Motionärerna noterar de båda haverierna som drabbat projektet
+              och regeringens åtgärd att tillsätta en särskild kommission efter
+              det sista. De anser att regeringen inte dragit den enda realistiska
+              slutsatsen av kommissionens betänkande, nämligen att JAS-projektet
+              måste avbrytas så snart som det är praktiskt och tekniskt möjligt.
+              Delserie II bör sålunda inte fullföljas och heller inte utvecklingen
+              och anskaffningen av den tvåsitsiga skolversionen, JAS 39 B.
+            </p>
+            <p>
+              I motion Fö334 (s), som avgivits under den allmänna motionstiden,
+              framhålls att skäl saknas för att öka försvarsutgifterna. I stället
+              bör de sänkas för att ge utrymme åt en bättre och modernare försvars-
+              och säkerhetspolitik. Besparingar bör göras inom det militära
+              försvaret. Bl.a. bör JAS-projektet avbrytas så snart som möjligt,
+              dock senast efter delserie I (yrkande 2).
+            </p>
+            <p>
+              Utskottets bedömning
+            </p>
+            <p>
+              JAS-projektets betydelse
+            </p>
+            <p>
+              Utveckling, anskaffning och införande i organisationen av JAS
+              39-systemet är en av de viktigaste försvarspolitiska frågorna.
+              Skälet till detta är dels att systemets operativa effekt kommer
+              att få avgörande betydelse för landets försvar, dels att systemet
+              tar i anspråk mycket stora ekonomiska resurser. JAS 39 är också
+              en av de största industripolitiska satsningarna med betydande
+              teknikspridningseffekter. Riksdagen har för projektet såväl en
+              beslutsroll som en uppföljningsroll. Härav följer att försvarsutskottet
+              ägnar JAS-projektet särskilt intresse. Kravet på att regeringen
+              årligen skall orientera riksdagen om läget i projektet (1981/92:FöU18,
+              rskr. 374) är ett av uttrycken för ärendets betydelse, sett ur
+              ett riksdagsperspektiv.
+            </p>
+            <p>
+              Utskottets uppföljning av JAS-projektet
+            </p>
+            <p>
+              Underlaget för utskottets bedömningar utgörs emellertid inte
+              endast av regeringens årligen återkommande skriftliga rapportering.
+              Utskottet har sålunda sedan år 1982 successivt tagit initiativ
+              till särskilda föredragningar av regeringskansli och myndigheter
+              om projektet i sin helhet eller om någon delfråga inom detta.
+              Regelbundna besök har också gjorts vid de industrier som ingår
+              i IG JAS. Utskottet har vidare besökt Skaraborgs flygflottilj
+              F 7, som skall organisera den första flygdivisionen med JAS 39
+              och också svara för den grundläggande flygutbildningen på detta
+              system.
+            </p>
+            <p>
+              Haveriet i augusti 1993 föranledde utskottet att informera sig
+              om bestämmelserna för flygsäkerhet, speciellt i samband med uppvisningar,
+              om de närmare omständigheterna i samband med haveriet samt om
+              kostnaderna som följd av haveriet. Denna genomgång hölls i september
+              då den preliminära rapporten från Statens haverikommission förelåg.
+              Information gavs av företrädare för regeringskansliet, Överbefälhavaren,
+              Flygvapenledningen, Försvarets materielverk och Statens haverikommission.
+            </p>
+            <p>
+              Den nu aktuella regeringsskrivelsen (skr. 1993/94:179) behandlar
+              i huvudsak endast själva flygplanet inom ramen för det totala
+              JAS-projektet. Utskottet har viss förståelse för detta med hänsyn
+              till att haveriet varit en så dominerande händelse sedan regeringens
+              senaste skriftliga redovisning. Utskottet utgår dock från att
+              regeringen fortsättningsvis i sina årliga orienteringar ger en
+              fullständig behandling av projektet och att den därutöver fortlöpande
+              informerar utskottet i viktigare delfrågor som t.ex. beväpning
+              och ekonomi.
+            </p>
+            <p>
+              JAS-kommissionens ordförande har i en särskild redovisning orienterat
+              utskottet om kommissionens arbete och slutsatser. Flera utskottsledamöter
+              har ingått i kommissionen. Utskottet har därför fått en god uppfattning
+              om den grundliga genomgång som kommissionen gjort av det mycket
+              omfattande materialet i JAS-projektet.
+            </p>
+            <p>
+              Utskottet har nyligen fått särskilda föredragningar om aktuella
+              problem i JAS-ekonomin dels av företrädare för Försvarsdepartementet,
+              dels av Chefen för flygvapnet.
+            </p>
+            <p>
+              Kommissionens samlade bedömning, vilken delas av regeringen,
+              är att JAS-programmet i allt väsentligt kan förväntas nå de mål
+              som statsmakterna har bestämt. Utskottet drar ingen annan slutsats.
+              Enligt utskottets mening har JAS-projektet efter kommissionens
+              arbete en fastare grund än tidigare, även om det fortfarande finns
+              såväl tekniska som ekonomiska risker i projektet.
+            </p>
+            <p>
+              Innebörden av det som utskottet här har anfört är att riksdagen
+              bör avslå motionerna Fö4 (v) och Fö334 (s) yrkande 2.
+            </p>
+            <p>
+              Problemen med styrsystemet
+            </p>
+            <p>
+              Enligt kommissionen borde regeringen åren 1986--1988 tydligare
+              ha orienterat riksdagen om de allvarliga problem som enligt FMV:s
+              uppfattning fanns när det gäller utvecklingen av styrsystemet.
+              Utskottet noterar att kommissionen framhåller, samtidigt som den
+              har synpunkter på regeringens sätt att informera riksdagen, att
+              myndigheterna bedömde att specifierade prestanda skulle kunna
+              nås. Detta kan, enligt kommissionen, ha medverkat till att regeringen
+              inte uppfattat problemen med styrsystemet som särskilt allvarliga
+              och därför inte förmedlat dem till riksdagen.
+            </p>
+            <p>
+              Det är inte möjligt, och heller inte fruktbart, att nu försöka
+              bedöma vilka slutsatser utskottet skulle ha dragit under de aktuella
+              tre åren om ifrågavarande information då varit tillgänglig. Det
+              viktiga är i stället att nu föreliggande underlag visar att det
+              bör vara möjligt att utforma ett tillfredsställande styrsystem
+              för JAS 39.
+            </p>
+            <p>
+              Avräkning av utbetalningar mot ramen
+            </p>
+            <p>
+              Enligt kommissionen ger den tillämpade tekniken att avräkna successiva
+              utbetalningar i löpande priser inte rätt information om de verkliga
+              kostnaderna i relation till den av statsmakterna beslutade ramen
+              för projektet.
+            </p>
+            <p>
+              Utskottet kan i denna fråga notera att regeringen tillsammans
+              med berörda militära myndigheter har påbörjat ett arbete med att
+              utveckla ramens tekniska konstruktion. Regeringen säger sig ha
+              för avsikt att återkomma med en redovisning för riksdagen i nästa
+              års budgetproposition. Utskottet förutsätter att de problem med
+              bristande jämförbarhet mellan beslutad ram och utbetalningar,
+              som kommissionen påpekar, därigenom kommer att lösas.
+            </p>
+            <p>
+              Ekonomin i JAS-projektet
+            </p>
+            <p>
+              Under beredningen av regeringens skrivelse har utskottet blivit
+              varse ekonomiska problem i JAS-projektet. De har sin grund i de
+              stora förändringarna av utländska valutors värde i förhållande
+              till den svenska kronan sedan år 1992. JAS-kommissionen gör bedömningen
+              att valutaförändringarna detta år har höjt kostnaderna för att
+              genomföra den återstående delen av projektet fram till år 2002
+              med 5 à 6 miljarder kronor.
+            </p>
+            <p>
+              Chefen för flygvapnet har för sin del för utskottet redovisat
+              en bristande kompensation för valutaförändringar på drygt 700
+              miljoner kronor för budgetåret 1994/95 och ett totalt minskat
+              planeringsutrymme under perioden 1994 -- 2000 på drygt 3 900 miljoner
+              kronor.
+            </p>
+            <p>
+              Utskottet erinrar om att 1992 års försvarsbeslut ändrade tekniken
+              för att budgetera och kompensera för pris- och valutaförändringar
+              inom det militära försvaret. Samma system infördes som tidigare
+              gällt för övrig statsförvaltning. Detta innebär budgetering i
+              s.k. genomförandepris för det aktuella året samt att kompensation
+              sker för pris- och löneförändringar två år i efterhand baserat
+              på dels hur olika kostnadsslag fördelar sig, dels på det faktiska
+              kostnadsutfallet.
+            </p>
+            <p>
+              Det anslagsförslag som regeringen lämnade till riksdagen i årets
+              budgetproposition har priskompenserats enligt det förändrade systemet.
+              Priskompensationen har beräknats i regeringskansliet och ingår
+              i det föreslagna anslagsbeloppet, vilket riksdagen beslutade om
+              den 4 maj 1994.
+            </p>
+            <p>
+              Utskottet är medvetet om att JAS-projektets olika kontrakt i
+              hög utsträckning är tecknade i utländska valutor, framförallt
+              i amerikanska dollar. Utskottet är också medvetet om att det inom
+              statsförvaltningen tillämpade systemet för att kompensera pris-
+              och valutaförändringar i tillämpningen kan skapa svårigheter vid
+              så stora valutaförändringar som nu varit i fråga.
+            </p>
+            <p>
+              Utskottet gör i sammanhanget den reflektionen att de ekonomiska
+              problemen hade varit än större om JAS-projektet varit uppbyggt
+              kring ett utländskt flygplan. Hela projektkostnaden hade då varit
+              beroende av utländska valutor och deras förändring mot den svenska
+              kronan.
+            </p>
+            <p>
+              Enligt utskottets mening bör problemet behandlas ur två aspekter.
+              Den ena rör effekterna i samband med den priskompensation som
+              ges för budgetåret 1994/95. Den andra aspekten rör effekterna
+              för den fleråriga planeringen.
+            </p>
+            <p>
+              Budgetåret 1994/95
+            </p>
+            <p>
+              Utskottet har inte fått belägg för att någon felaktig index avvänts
+              i priskompensationen. Tillämpade index mäter således samtliga
+              valutor i vilka import till Sverige sker. Index utgör en sammanvägning
+              av valutaförändringarna och kostnadsutvecklingen. Om dollarberoendet
+              är särskilt högt i förhållande till andra valutor tas hänsyn till
+              detta.
+            </p>
+            <p>
+              Priskompensationssystemet har, när det infördes, inte särskilt
+              utformats för att hantera så stora förändringar som nu varit aktuella.
+              Den priskompensation som finns inlagd i anslaget för budgetåret
+              1994/95 ger kompensation för pris- och valutaförändringar under
+              budgetåret 1992/93. Kostnadsfördyringarna under budgetåret 1994/95
+              kommer att kompenseras 1996/97.
+            </p>
+            <p>
+              Enligt utskottets mening kan denna tvååriga eftersläpning i kompensationen
+              leda till likviditetssvårigheter under budgetåret 1994/95.
+            </p>
+            <p>
+              Den effekt för budgetåret 1994/95 som här har redovisats beror
+              således på ofullkomligheter i priskompensationssystemet. Försvarsdepartementet
+              har uppgett att problemet studeras. Eventuellt kan det bli fråga
+              om att utforma ett särskilt priskompensationssystem för JAS-projektet
+              som anknyter till faktisk prisutveckling grundat på de ingångna
+              materielkontraktens valutaklausuler. Regeringen avser att återkomma
+              till riksdagen i frågan.
+            </p>
+            <p>
+              Den fleråriga planeringen
+            </p>
+            <p>
+              Budgetåren i den femåriga planen innehåller en viss fördelning
+              mellan olika kostnadsandelar, t.ex. löner, materielanskaffning
+              i dollar, materielanskaffning i kronor osv.
+            </p>
+            <p>
+              Varje år rullas den femåriga planen; ett år läggs till och verksamhetens
+              kostnader räknas om. Om det vid detta tillfälle, med dagens sätt
+              att planera, är en annan fördelning mellan de olika kostnadsandelarna
+              i jämförelse med fördelningen det föregående budgetåret, kan en
+              medelsbrist eller ett överskott uppkomma i planen. Normalt bör
+              denna skillnad jämnas ut över planeringsperioden.
+            </p>
+            <p>
+              Utskottet har erfarit att de problem som Chefen för flygvapnet
+              pekat på i den fleråriga planeringen beror på att det i tillämpningen
+              inte används samma utgångspunkter och metodik som i det år 1992
+              införda budgeteringssystemet. Enligt utskottets mening är det
+              därför väsentligt att planeringssystemet anpassas till rådande
+              förutsättningar för budgetering och priskompensation. Utskottet
+              noterar att regeringen också i denna fråga avser återkomma till
+              riksdagen med en redovisning.
+            </p>
+            <p>
+              Utskottet anser sammanfattningsvis om JAS-ekonomin att de stora
+              valutaförändringarna otvivelaktigt har lett till problem. De har
+              sin grund i ofullkomligheter i såväl systemet för priskompensation
+              som i planeringssystemet. Utskottet förutsätter att regeringen
+              för riksdagen redovisar utvecklingen i dessa planeringstekniska
+              frågor samt vid behov föreslår åtgärder.
+            </p>
+            <p>
+              Utskottet förutsätter vidare att regeringen lämnar förslag, om
+              åtgärder erfordras, för att möta kostnadsökningarna i projektet.
+            </p>
+            <p>
+              Operativa konsekvenser
+            </p>
+            <p>
+              Haveriet, med det därpå följande stoppet för provflygningarna,
+              har lett till att JAS-projektet försenats cirka ett halvt år.
+              Ur operativ synvinkel torde detta sakna betydelse med hänsyn till
+              nuvarande säkerhetspolitiska läge. Däremot har, enligt vad utskottet
+              nyligen erfarit, förseningen framtvingat en omfattande omplanering,
+              vilken bl.a medfört att utbildningen av tekniker och övrig markpersonal
+              kan bli en trång sektor. Den första flygdivisionen förutsätts
+              dock kunna vara operativ i oktober 1996 och två divisioner i juli
+              1997.
+            </p>
+            <p>
+              Utskottets sammanfattande ställningstagande
+            </p>
+            <p>
+              Totalförsvaret är ett av de största utgiftsområdena inom statsförvaltningen.
+              Verksamheten har renodlat kollektiv karaktär och är mycket sammanhållen
+              och speciell till sin karaktär. Detta motiverar i sig betydande
+              insatser från utskottets sida för att följa upp att verksamhetens
+              resultat är i linje med riksdagens beslut och intentioner. Särskild
+              vikt får denna uppföljande och utvärderande uppgift för ett så
+              operativt betydelsefullt och kostnadskrävande projekt som JAS
+              39. Utskottet avser därför att också framdeles noga granska utvecklingen
+              av detta och andra viktiga projekt inom försvarssektorn.
+            </p>
+            <p>
+              Utskottet anser sammanfattningsvis, efter att ha tagit del av
+              regeringens skrivelse om JAS-projektet och annan information i
+              ärendet, att ingen erinran finns mot regeringens redovisning av
+              de problem som funnits kring utvecklingen av själva flygplanet.
+              Utskottet förutsätter att regeringen återkommer till riksdagen
+              med en redovisning av hur JAS-ramen avses utvecklas. Utskottet
+              förutsätter vidare att regeringen, i enlighet med vad som framkom
+              vid Försvarsdepartementets föredragning inför utskottet, lämnar
+              förslag om hur priskompensationssystemet bör förändras samt om
+              hur planeringssystemet bör anpassas för att harmoniera med sättet
+              att budgetera. Härutöver förutsätter utskottet att regeringen
+              informerar utskottet i andra delfrågor i projektet som t.ex. beväpningen.
+            </p>
+            <p>
+              Utskottet föreslår att riksdagen lägger regeringens skrivelse
+              till handlingarna.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bhemst">
+              Hemställan
+            </head>
+            <p>
+              Utskottet hemställer
+            </p>
+            <p>
+              beträffande JAS 39-projektet att riksdagen med avslag på motionerna
+              1993/94:Fö4 och 1993/94:Fö334 yrkande 2 lägger regeringens skrivelse
+              till handlingarna.
+            </p>
+            <p>
+              res. (s) men. (v)
+            </p>
+            <p>
+              Stockholm den 26 maj 1994
+            </p>
+            <p>
+              På försvarsutskottets vägnar
+            </p>
+            <p>
+              Arne Andersson
+            </p>
+            <p>
+              I beslutet har deltagit: Arne Andersson (m), Sture Ericson (s),
+              Wiggo Komstedt (m), Lars Ulander (s), Lars Sundin (fp), Ingvar
+              Björk (s), Stig Grauers (m), Christer Skoog (s), Jan Erik Ågren
+              (kds), Robert Jousma (nyd), Sven Lundberg (s), Karin Wegestål
+              (s), Jan-Olof Franzén (m), Britt Bohlin (s) och Sven-Olof Petersson
+              (c).
+            </p>
+            <p>
+              Från Vänsterpartiet, som inte företräds av någon ordinarie ledamot
+              i utskottet, har suppleanten Jan Jennehag (v) närvarit vid den
+              slutliga behandlingen av ärendet.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bres">
+              Reservation
+            </head>
+            <p>
+              Sture Ericson, Lars Ulander, Ingvar Björk, Christer Skoog, Sven
+              Lundberg, Karin Wegestål och Britt Bohlin alla (s) anser
+            </p>
+            <p>
+              dels att den del av utskottets anförande som på s. 5 börjar med
+              "Utskottet har viss förståelse" och på s. 6 slutar med "beväpning
+              och ekonomi" bort ha följande lydelse:
+            </p>
+            <p>
+              Detta är en allvarlig brist. Ett och ett halvt år har nu gått
+              sedan den kraftiga nedskrivningen (25--30 %) av kronans internationella
+              köpkraft. De omfattande konsekvenser detta får för finansieringen
+              av hela JAS-projektet börjar nu kunna överblickas.
+            </p>
+            <p>
+              De militära staberna har under våren 1994 informerat Försvarsdepartementet
+              om att ytterligare flera miljarder måste tillföras av skattemedel.
+              Det enda som kan ändra på detta är att en kraftig och högst osannolik
+              höjning av kronans internationella värde inträffar under de närmaste
+              åren. Regeringen har valt att inte beröra dessa problem i sin
+              årliga skriftliga redovisning till riksdagen av JAS-projektet,
+              vilket är mycket anmärkningsvärt.
+            </p>
+            <p>
+              Det är riksdagen som under de närmaste åren har att hantera de
+              kraftiga kostnadsökningar som nu kan förutses. Att regeringen
+              på sätt som skett sökt undanhålla riksdagen information i denna
+              fråga är allvarligt och skapar onödig partipolitisk splittring
+              kring detta vårt största statliga industriprojekt någonsin.
+            </p>
+            <p>
+              En annan central del av JAS-projektet som regeringen förbigår
+              med tystnad är frågan om anskaffningen en ny radarjaktrobot. Detta
+              är så mycket mer anmärkningsvärt som frågan kan komma att avgöras
+              under innevarande år. Det är en affär som totalt omfattar fyra--fem
+              miljarder kronor och som medför såväl industripolitiska som utrikespolitiska
+              konsekvenser. En bred partipolitisk samordning över blockgränserna
+              är önskvärd.
+            </p>
+            <p>
+              Regeringen har därmed öppet nonchalerat en uppmaning som riksdagen
+              riktat till den (1991/92:FöU12, rskr. 337):
+            </p>
+            <p>
+              Utskottet anser att beväpningen av JAS 39 med radarjaktrobot
+              är en fråga av sådan principiell natur som riksdagen vid sin senaste
+              behandling av regeringens redovisning av läget i JAS-projektet
+              -- -- -- sagt sig vilja ha ett inflytande över. Utskottet utgår
+              således från att regeringen återkommer i ärendet -- -- --.
+            </p>
+            <p>
+              Riksdagen upprepade detta (1993/94:FöU9, rskr. 295) under innevarande
+              riksmöte.
+            </p>
+            <p>
+              Chefen för flygvapnet har inför försvarsutskottet framfört att
+              de ekonomiska konsekvenserna av bristande valutakompensation kan,
+              om förutsättningarna för planeringen inte ändras, göra det nödvändigt
+              att lyfta ut projekt som radarjaktrobot, varnings- och motmedelsutrustning
+              samt spaningskapseln. Han har vidare framfört att man inte utan
+              problem kan stryka dessa stora objekt nu och sedan något eller
+              några år senare lägga tillbaka dem i planen.
+            </p>
+            <p>
+              Det säger sig självt att sådana drastiska förändringar i JAS-projektet
+              också får mycket negativa återverkningar på ansträngningarna att
+              under de närmaste åren marknadsföra JAS internationellt.
+            </p>
+            <p>
+              Det har vidare framkommit att regeringen på senare tid tagit
+              initiativ till att inhämta omfattande förändringar i de internationella
+              offerterna på radarjaktrobotar.
+            </p>
+            <p>
+              Det är högst anmärkningsvärt att regeringen i JAS-skrivelsen
+              till riksdagen underlåter att lämna riksdagen begärd redovisning
+              i frågan om anskaffning av radarjaktrobot. Regeringens agerande
+              även i denna centrala delfråga undergräver möjligheterna att bevara
+              en bred partipolitisk uppslutning bakom JAS-projektet.
+            </p>
+            <p>
+              dels att den del av utskottets anförande som på s. 8 slutar med
+              "en redovisning" bort ha följts av text med följande lydelse:
+            </p>
+            <p>
+              Det utskottet anfört rörande anpassning av planeringssystemet
+              till systemet för budgetering och priskompensation innebär i klartext
+              att mycket stora konstnadsökningar kan förutses. Skattebetalarna
+              kommer under de närmste tio åren att avkrävas åtskilliga nya miljarder
+              för att JAS-projektet skall kunna fullföljas. Hur mycket det blir
+              avgörs av kronkursens utveckling.
+            </p>
+            <p>
+              Sättet att hantera detta blir dels att ändra i planeringen, dvs.
+              i huvudsak att senarelägga vissa anskaffningar, dels att ändra
+              i budgetsystemet så att priskompensationen sker snabbare, dvs.
+              utbetalningarna tidigareläggs.
+            </p>
+            <p>
+              Det är beklagligt att regeringen av uppenbara politiska skäl
+              underlåtit att ta itu med dessa frågor. Problemen blir större
+              ju längre de skjuts på framtiden. Det kan också komma att krävas
+              nya försvarspolitiska överväganden när ett allt dyrare JAS-projekt
+              skall trängas in i en ekonomisk försvarsram som sannolikt inte
+              kan vidgas under kommande år.
+            </p>
+            <p>
+              dels att den del av utskottets anförande som på s. 9 börjar med
+              "Utskottet föreslår" och slutar med "till handlingarna" bort ha
+              följande lydelse:
+            </p>
+            <p>
+              De allvarliga brister i JAS-skrivelsen som utskottet pekat på
+              bör ges regeringen till känna.
+            </p>
+            <p>
+              dels att utskottets hemställan bort ha följande lydelse: beträffande
+              JAS 39-projektet att riksdagen med avslag på motionerna 1993/94:Fö4
+              och 1993/94:Fö334 yrkande 2 och med anledning av regeringens skrivelse
+              ger regeringen till känna vad som anförts om bristerna i de till
+              riksdagen lämnade redovisningarna.
+            </p>
+            <p>
+              Meningsyttring av suppleant
+            </p>
+            <p>
+              Meningsyttring får avges av suppleant från Vänsterpartiet, eftersom
+              partiet inte företräds av ordinarie ledamot i utskottet.
+            </p>
+            <p>
+              Jan Jennehag (v) anför:
+            </p>
+            <p>
+              I frågor som behandlas i betänkandet har jag en annan uppfattning
+              än utskottets majoritet.
+            </p>
+            <p>
+              Utskottets majoritet anser, efter att ha tagit del av regeringens
+              skrivelse och annat tillgängligt underlag, att JAS-programmet
+              i allt väsentligt kan förväntas nå de mål som statsmakterna har
+              bestämt. Jag ställer mig ytterst tveksam till detta. Det säkerhetspolitiska
+              läget, de ständigt ökande kostnaderna och JAS-flygplanets bristande
+              säkerhet utgör sammantaget ett tungt skäl för en omprövning av
+              projektet. Sålunda bör undersökas vilka tekniska och ekonomiska
+              möjligheter som föreligger att så snart som möjligt avbryta utvecklingen
+              av projektet.
+            </p>
+            <p>
+              Mot bakgrund av det anförda anser jag att utskottets hemställan
+              borde varit:
+            </p>
+            <p>
+              beträffande JAS 39-projektet att riksdagen med bifall till motion
+              1993/94:Fö4 samt med anledning av regeringens skrivelse och motion
+              1993/94:Fö334 yrkande 2 som sin mening ger regeringen till känna
+              vad ovan anförts.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_MJU_0025">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">För att stärka skyddet av naturgrus och våtmarker införs nya, enklare regler för naturgrus- och torvtäkter i miljöbalken. De ska ersätta gällande prövningsregler för täkter. De nya bestämmelserna innebär att en naturgrustäkt inte får komma till stånd om det av tekniska och ekonomiska skäl går att använda ett annat ändamålsenligt material. Bestämmelserna gäller också om naturgruset är viktigt för vattenförsörjningen eller om det utgör en värdefull kultur- eller naturmiljö. Torvtäkter får inte komma till stånd om man avser att ta ut torven i en våtmark som utgör en värdefull natur- eller kulturmiljö. Lagändringarna börjar gälla den 1 augusti 2009.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Enklare och tydligare regler för naturgrus- och torvtäkter (MJU25)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen. Avslag på motionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW09118</idno>
+              <title>2009-05-14</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">118</biblScope>
+              <note type="display-reference">2009-05-14</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW09118</idno>
+              <title>2009-05-14</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">118</biblScope>
+              <note type="display-reference">2009-05-14</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GW0K253</idno>
+              <title>2008/09:253</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">253</biblScope>
+              <note type="display-reference">2008/09:253</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1998:808</idno>
+              <note type="display-reference">2009:649</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1985:620</idno>
+              <note type="display-reference">2009:650</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GW03144</idno>
+              <title>Enklare och bättre täktbestämmelser</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">144</biblScope>
+              <note type="display-reference">proposition 2008/09:144 Enklare och bättre täktbestämmelser</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GW02MJ7</idno>
+              <title>Enklare och bättre täktbestämmelser</title>
+              <title type="sub">av Wiwi-Anne Johansson m.fl. (V)</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">MJ7</biblScope>
+              <note type="display-reference">motion 2008/09:MJ7 Enklare och bättre täktbestämmelser</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2009-05-11">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2009-05-11">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-05-06">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-04-23">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-04-23">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-04-21">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-04-21">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-04-21">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-04-02">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-04-02">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2009-05-14">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-05-14">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-05-14">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-05-14">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-05-14">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-05-13">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-05-13">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-05-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-05-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Miljö- och jordbruksutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:MJU25
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Enklare och bättre täktbestämmelser
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBQTC" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet regeringens proposition 2008/09:144
+            Enklare och bättre täktbestämmelser samt en följdmotion. I propositionen
+            föreslås ändringar i miljöbalken och i lagen (1985:620) om vissa
+            torvfyndigheter. Regeringen föreslår att de särskilda prövningsreglerna
+            om täkter i miljöbalken tas bort. Vidare föreslås att nya bestämmelser
+            om täkt av naturgrus och täkt av torv införs i miljöbalken. Bestämmelserna
+            innebär bl.a. att en täkt av naturgrus inte får komma till stånd
+            om det är tekniskt möjligt och ekonomiskt rimligt att nyttja ett
+            annat material för det avsedda användningsområdet, om förekomsten
+            av naturgrus är betydelsefull för den nuvarande och framtida dricksvattenförsörjningen
+            och täkten kan medföra en försämrad vattenförsörjning eller om
+            förekomsten av naturgrus utgör en värdefull kultur- eller naturmiljö.
+            Den föreslagna bestämmelsen om täkt av torv innebär att en sådan
+            täkt inte får komma till stånd om man avser att ta ut torven i
+            en våtmark som utgör en värdefull natur- eller kulturmiljö. De
+            nya bestämmelserna föreslås träda i kraft den 1 augusti 2009.
+          </p>
+          <p>
+            Utskottet tillstyrker lagförslagen och avstyrker motionen.
+          </p>
+          <p>
+            I betänkandet finns en reservation.
+          </p>
+          <p xml:id="IDAPBQTC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Lagförslagen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  1. lag om ändring i miljöbalken
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2. lag om ändring i lagen (1985:620) om vissa torvfyndigheter.
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen proposition 2008/09:144 punkterna 1
+                  och 2 samt avslår motion 2008/09:MJ7.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation (v)
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 21 april 2009
+          </p>
+          <p>
+            På miljö- och jordbruksutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Anders Ygeman
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Anders Ygeman (s),
+            Claes Västerteg (c), Ola Sundell (m), Jeppe Johnsson (m), Carina
+            Ohlsson (s), Bo Bernhardsson (s), Anita Brodén (fp), Sofia Arkelsten
+            (m), Jan-Olof Larsson (s), Irene Oskarsson (kd), Rune Wikström
+            (m), Wiwi-Anne Johansson (v), Helén Pettersson i Umeå (s), Erik
+            A Eriksson (c), Tina Ehn (mp), Staffan Appelros (m) och Aleksander
+            Gabelic (s).
+          </p>
+          <p xml:id="IDAAFQTC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDADFQTC" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I detta ärende behandlar utskottet regeringens proposition 2008/09:144
+            Enklare och bättre täktbestämmelser. I propositionen föreslås
+            ändringar i miljöbalken och i lagen (1985:620) om vissa torvfyndigheter.
+          </p>
+          <p>
+            Regeringens förslag till riksdagsbeslut återfinns i bilaga 1.
+            Regeringens lagförslag finns i bilaga 2. Lagförslagen har granskats
+            av Lagrådet.
+          </p>
+          <p xml:id="IDAMFQTC" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Enligt uppgift från Naturvårdsverket och Sveriges geologiska
+            undersökning, SGU, finns det närmare 3 000 täkter av berg, naturgrus
+            och andra jordarter som bedrivs med tillstånd i Sverige. Drygt
+            hälften av täkterna är grus-, sand- eller moräntäkter, varav majoriteten
+            är naturgrustäkter.
+          </p>
+          <p>
+            En fjärdedel utgörs av bergtäkter och resten är torv- eller matjordstäkter.
+            Miljöpåverkan från täkter består främst av påverkan på hydrologi,
+            vattenkvalitet och naturmiljö samt buller, vibrationer och damning.
+            De största administrativa kostnaderna inom miljöområdet uppstår
+            i samband med ansökan om tillstånd till miljöfarlig verksamhet.
+            Det är därför viktigt att det regelverk som ska tillämpas vid
+            en tillståndsprövning är tydligt och ändamålsenligt. Den särskilda
+            behovsprövningsregeln för täkter i 9 kap. 6 a § första stycket
+            första meningen är otydlig och svår att tillämpa. Det är oklart
+            hur avvägningen ska ske mellan behovet av material och befarade
+            skador. Bestämmelsen till skydd för biologisk mångfald i andra
+            meningen omfattar ett mycket stort antal arter, och det är svårt
+            att avgränsa bestämmelsens tillämpningsområde. Det är oklart hur
+            bestämmelsen förhåller sig till artskyddsbestämmelserna i 8 kap.
+            miljöbalken.
+          </p>
+          <p>
+            För miljökvalitetsmålet God bebyggd miljö finns ett delmål om
+            uttag av naturgrus. Enligt delmålet ska det årliga uttaget av
+            naturgrus 2010 vara högst 12 miljoner ton. Regeringen har preciserat
+            målet till att naturgrus endast ska användas när ersättningsmaterial
+            inte kan komma i fråga med hänsyn till användningsområdet samt
+            att naturgrusavlagringar med stort värde för dricksvattenförsörjningen
+            och natur- och kulturlandskapet ska bevaras (prop. 2004/05:150
+            s. 192 f.). Av det underlag som SGU har tagit fram inför Miljömålsrådets
+            fördjupade utvärdering framgår att även om uttaget av naturgrus
+            minskar så är minskningen för långsam för att målet ska kunna
+            nås. Det krävs bl.a. en omställning där användningen av naturgrus
+            i t.ex. betong ersätts av i första hand krossat berg.
+          </p>
+          <p>
+            I den utvärdering av Sveriges miljömål som Miljömålsrådet lämnade
+            2008 har rådet föreslagit att delmålet för naturgrus ska ändras.
+            Målet bör enligt rådet vara att det År 2020 sker uttag av naturgrus
+            bara för oundgängliga behov och i områden där de motstående intressena
+            i form av dricksvattenbehov, natur- och kulturvärden är begränsade.
+            För att delmålet ska kunna anses vara uppfyllt bör, enligt Miljömålsrådet,
+            naturgrus bara nyttjas när ersättningsmaterial inte kan komma
+            i fråga med hänsyn till användningsområdet, och inga uttag av
+            naturgrus ska ske i avlagringar med stort värde för dricksvattenförsörjningen
+            och för natur- och kulturlandskapet. Eftersom uttag av naturgrus
+            sker i områden med viktiga grundvattenmagasin, påverkar uttaget
+            av naturgrus även möjligheterna att nå miljökvalitetsmålet Grundvatten
+            av god kvalitet. Regeringen har ännu inte tagit ställning till
+            Miljömålsrådets förslag att ändra delmålet för naturgrus.
+          </p>
+          <p>
+            Miljökvalitetsmålet Myllrande våtmarker handlar om skyddet av
+            våtmarker och bevarandet av dess ekologiska och vattenhushållande
+            funktion. Inför Miljömålsrådets fördjupade utvärdering föreslog
+            Naturvårdsverket ett nytt delmål om hänsyn till våtmarker som
+            innebär att torvtäkt inte ska ske i våtmarker med värdefulla natur-
+            och kulturvärden eller på ett sådant sätt som leder till stora
+            negativa effekter på den biologiska mångfalden. Miljömålsrådet
+            föreslog i sin utvärdering av miljömålen att ett nytt delmål ska
+            införas i enlighet med Naturvårdsverkets förslag.
+          </p>
+          <p>
+            Naturgrus och våtmarker behöver ett tydligare och starkare skydd
+            än vad som gäller i dag.
+          </p>
+          <p xml:id="IDABGQTC" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            I propositionen föreslår regeringen att de särskilda prövningsreglerna
+            om täkter i 9 kap. 6 a § miljöbalken ska tas bort. Det är fråga
+            om dels en bestämmelse om avvägning mellan behovet av täktmaterialet
+            och den skada som täkten kan befaras orsaka, dels en särskild
+            stoppregel till skydd för biologisk mångfald. När det gäller den
+            generella prövningen av täkter kan en allsidig prövning av frågor
+            som rör hushållning och biologisk mångfald i stället åstadkommas
+            med en tillämpning av bestämmelserna i främst 2 och 3 kap. miljöbalken.
+            Regeringen föreslår att nya bestämmelser om täkt av naturgrus
+            och täkt av torv införs i 9 kap. miljöbalken. Det föreslås att
+            en täkt av naturgrus inte får komma till stånd om det är tekniskt
+            möjligt och ekonomiskt rimligt att nyttja ett annat material för
+            det avsedda användningsområdet, om förekomsten av naturgrus är
+            betydelsefull för den nuvarande och framtida dricksvattenförsörjningen
+            och täkten kan medföra en försämrad vattenförsörjning eller om
+            förekomsten av naturgrus utgör en värdefull kultur- eller naturmiljö.
+            Den föreslagna bestämmelsen om täkt av torv innebär att en sådan
+            täkt inte får komma till stånd om man avser att ta ut torven i
+            en våtmark som utgör en värdefull natur- eller kulturmiljö.
+          </p>
+          <p>
+            De nya bestämmelserna föreslås träda i kraft den 1 augusti 2009.
+            Om en täkt har ett tidsbegränsat tillstånd den 1 augusti 2009,
+            får ett nytt tillstånd till täkt på samma plats ges enligt äldre
+            bestämmelser längst till utgången av 2011.
+          </p>
+          <p xml:id="IDALGQTC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAPGQTC" rend="rubrik2">
+            Enklare och bättre täktbestämmelser
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDATGQTC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen antar regeringens lagförslag och avslår ett motionsyrkande
+                (v) om avslag på propositionen.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation (v).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAAHQTC" rend="rubrik3">
+              Propositionen
+            </p>
+            <p xml:id="IDADHQTC" rend="r4">
+              Den generella prövningen av täkter
+            </p>
+            <p>
+              Regeringen föreslår att behovsprövningsregeln och den särskilda
+              bestämmelsen till skydd för biologisk mångfald i 9 kap. 6 a §
+              första stycket miljöbalken tas bort. Bestämmelsen i andra stycket
+              om täkt av matjord flyttas till en ny 6 d §. Till följd av det
+              konsekvensändras 7 § lagen (1985:620) om vissa torvfyndigheter.
+            </p>
+            <p>
+              När det gäller hushållning och behovsutredning framhåller regeringen
+              följande. Enligt 2 kap. 3 § miljöbalken ska alla som bedriver
+              eller avser att bedriva en verksamhet eller vidta en åtgärd utföra
+              de skyddsåtgärder, följa de begränsningar och vidta de försiktighetsmått
+              som i övrigt behövs för att förebygga, hindra eller motverka att
+              verksamheten eller åtgärden medför skada eller olägenhet för människors
+              hälsa eller miljön. Av förarbetena till bestämmelsen framgår att
+              med skada avses bl.a. misshushållning med naturresurser (prop.
+              1997/98:45 del 1 s. 214). Frågan om resurshushållning ska alltså
+              beaktas vid prövningen av en ansökan om tillstånd att bedriva
+              en täktverksamhet. En ansökan kan sålunda avslås med motiveringen
+              att behovet kan tillgodoses med material från en annan täkt. I
+              en ansökan om tillstånd till täkt ska verksamhetsutövaren visa
+              att det är förenligt med god hushållning att utvinna materialet.
+              Det innebär att länsstyrelsen även fortsättningsvis ska kunna
+              förelägga sökanden att inkomma med en behovsutredning enligt 3
+              § förordningen (1998:904) om täkter och anmälan för samråd. En
+              sådan behovsutredning är ofta nödvändig för att myndigheten vid
+              prövningen ska kunna tillämpa hushållningsbestämmelserna i 2 och
+              3 kap. miljöbalken.
+            </p>
+            <p>
+              Beträffande lokaliseringen av täkter ska enligt lokaliseringsregeln
+              i 2 kap. 6 § första stycket miljöbalken det för en verksamhet
+              eller åtgärd som tar ett mark- eller vattenområde i anspråk väljas
+              en plats som är lämplig med hänsyn till att ändamålet ska kunna
+              uppnås med minsta intrång och olägenhet för människors hälsa och
+              miljön. Regeringen framhåller bl.a. att om det material som ska
+              utvinnas ur den tilltänkta täkten kan ersättas med material från
+              andra täkter eller om det finns andra närbelägna områden som skulle
+              vara bättre att exploatera för täktverksamhet, kan prövningsmyndigheten
+              med tillämpning av 2 kap. 6 § första stycket konstatera att lokaliseringen
+              är olämplig. Om ansökan avser uttag av ett material där tillgången
+              är mycket begränsad, finns det i princip inte någon alternativ
+              lokalisering. Lokaliseringsregeln i 6 § första stycket är tillämplig
+              även i dessa fall, men den har endast en begränsad betydelse.
+              Av 2 kap. 6 § andra stycket miljöbalken framgår att bestämmelserna
+              i 3 kap. är tillämpliga i fall som gäller ändrad markanvändning.
+              I 3 kap. 1 § finns en grundläggande bestämmelse om att mark- och
+              vattenområden ska användas för det eller de ändamål som områdena
+              är mest lämpade för, och i 6 § finns en bestämmelse om områden
+              som har betydelse från allmän synpunkt på grund av deras natur-
+              eller kulturvärden. De bestämmelserna är tillämpliga oavsett om
+              området för den avsedda täkten är av riksintresse eller ej. Precis
+              som den nuvarande behovsprövningsregeln i 9 kap. 6 a § är 3 kap.
+              1 § miljöbalken en avvägningsregel. Den innebär att en avvägning
+              ska göras mellan bevarande- och utnyttjandeintressen i ett långsiktigt
+              hushållningsperspektiv. Det innebär bl.a. att kortsiktiga ekonomiska
+              motiv inte får leda till att man åsidosätter långsiktiga behov
+              av skydd för värden som är knutna till mark- och vattenområden
+              och som är väsentliga från allmän synpunkt. Om det område där
+              man avser att bryta materialet dessutom har betydelse från allmän
+              synpunkt på grund av dess naturvärden eller kulturvärden eller
+              med hänsyn till friluftslivet, ska området så långt som möjligt
+              skyddas från åtgärder som påtagligt kan skada natur- och kulturmiljön
+              (3 kap. 6 § första stycket miljöbalken).
+            </p>
+            <p>
+              När det gäller den biologiska mångfalden framhåller regeringen
+              bl.a. att den utgör en del av miljöbalkens övergripande mål. Enligt
+              1 kap. 1 § miljöbalken ska balken tillämpas så att den biologiska
+              mångfalden bevaras. Vid lokaliseringsprövningen av en täktansökan
+              ska alltid naturvärdena på platsen beaktas och, om värdena har
+              betydelse från allmän synpunkt, skyddas så långt som möjligt.
+              Det följer av 2 kap. 6 § och 3 kap. 1 och 6 §§ miljöbalken. Bevarandevärdet
+              kan utgöras av en ovanlig växt- eller djurart. Därutöver gäller
+              bestämmelserna om områdesskydd i 7 kap. och bestämmelserna om
+              skydd för djur- och växtarter i 8 kap. miljöbalken. Ett borttagande
+              av stoppregeln innebär därmed inte att förutsättningarna för att
+              bevara den biologiska mångfalden minskar. Vid prövningen av en
+              täktverksamhet ska prövningsmyndigheten också överväga om man
+              på grund av den allmänna hänsynsregeln i 2 kap. 3 § miljöbalken
+              behöver precisera något krav på att anpassa verksamheten så att
+              den inte försämrar livsbetingelserna för djur och växter. För
+              villkor om efterbehandling av täktområden bör en av utgångspunkterna
+              vara att gynna den biologiska mångfalden i området. Om villkor
+              om försiktighetsmått inte räcker för att undvika att täktverksamheten
+              orsakar en skada eller olägenhet av väsentlig betydelse, är stoppregeln
+              i 2 kap. 9 § miljöbalken tillämplig.
+            </p>
+            <p>
+              I propositionen framhålls avslutningsvis att det är oklart hur
+              avvägningen mellan behovet och skadorna ska ske när man tillämpar
+              behovsprövningsregeln i 9 kap. 6 a §. Vidare är det inte tydligt
+              vilket behov som ska vägas mot de befarade skadorna. Även den
+              särskilda stoppregeln till skydd för biologisk mångfald är svår
+              att tillämpa. Det är oklart vilka djur- och växtarter som omfattas
+              eller när livsbetingelserna kan anses bli försämrade för en art.
+              Otydligheten gör att behovsprövnings- och stoppreglerna i 9 kap.
+              6 a § första stycket miljöbalken inte kan fungera väl som komplement
+              till de mer allmänna bestämmelserna i 1 kap. 1 § och 2 och 3 kap.
+              De särskilda behovsprövnings- och stoppreglerna bör därför tas
+              bort.
+            </p>
+            <p xml:id="IDAVHQTC" rend="r4">
+              Naturgrustäkter
+            </p>
+            <p>
+              Om en täkt av naturgrus kräver tillstånd eller anmälan enligt
+              9 kap. miljöbalken eller föreskrifter som har meddelats med stöd
+              av det kapitlet, får täkten inte komma till stånd om
+            </p>
+            <p rend="uppraknadlista">
+              1. det är ekonomiskt och tekniskt rimligt att använda ett annat
+              material med hänsyn till det avsedda användningsområdet
+            </p>
+            <p rend="uppraknadlista">
+              2. naturgrusförekomsten är betydelsefull för den nuvarande och
+              framtida dricksvattenförsörjningen och täkten innebär att vattenförsörjningen
+              försämras
+            </p>
+            <p rend="uppraknadlista">
+              3. naturgrusförekomsten utgör en värdefull natur- eller kulturmiljö.
+            </p>
+            <p>
+              När det gäller god hushållning med naturgrus framhålls bl.a.
+              att tillgången på naturgrus är begränsad, och i vissa delar av
+              landet är det en mycket begränsad resurs. Det bör ändå vara möjligt
+              att tillgodogöra sig naturgrus, men det är viktigt att det sker
+              på ett sätt som är förenligt med en långsiktigt god hushållning.
+              Därför bör naturgrus endast användas för ändamål där det inte
+              är möjligt att ersätta materialet med något annat. Det bör gälla
+              oavsett om det är fråga om att nyetablera en täkt ur en naturgrusförekomst
+              eller förlänga driftstillståndet för en redan etablerad täkt ur
+              naturgrusförekomsten.
+            </p>
+            <p>
+              Beträffande påverkan på dricksvattenförsörjningen anför regeringen
+              bl.a. att om det inte finns någon risk för att täkten medför en
+              försämrad vattenförsörjning, bör det vara möjligt att tillåta
+              en viss täktverksamhet.
+            </p>
+            <p>
+              Enligt 1 kap. 1 § andra stycket 2 miljöbalken ska balken tillämpas
+              så att värdefulla natur- och kulturmiljöer skyddas och vårdas.
+              Åsar med naturgrus kan ha ett stort värde för natur- och kulturlandskapet,
+              och naturgrusförekomster till havs kan utgöra viktiga naturmiljöer.
+              För naturgrusförekomster på kontinentalsockeln gäller lagen (1966:314)
+              om kontinentalsockeln. Vid uttag av naturresurser där tillgången
+              är begränsad finns det små möjligheter att vid prövningen överväga
+              alternativa lokaliseringar. Därför bör det finnas en bestämmelse
+              som skyddar de naturgrusförekomster som utgör värdefulla natur-
+              och kulturmiljöer.
+            </p>
+            <p xml:id="IDA2YRTC" rend="r4">
+              Torvtäkter
+            </p>
+            <p>
+              Om en täkt av torv kräver tillstånd eller anmälan enligt 9 kap.
+              miljöbalken eller föreskrifter som har meddelats med stöd av det
+              kapitlet, får täkten inte komma till stånd i en våtmark som utgör
+              en värdefull natur- eller kulturmiljö. Bestämmelserna om bearbetningskoncession
+              i lagen (1985:620) om vissa torvfyndigheter ändras i konsekvens
+              med detta.
+            </p>
+            <p xml:id="IDACZRTC" rend="r4">
+              Ikraftträdande och övergångsbestämmelser
+            </p>
+            <p>
+              Lagändringarna föreslås träda i kraft den 1 augusti 2009. Äldre
+              bestämmelser gäller för täkter av naturgrus eller torv som den
+              1 augusti 2009 omfattas av ett tillstånd eller en anmälan enligt
+              9 kap. miljöbalken eller föreskrifter som har meddelats med stöd
+              av det kapitlet. Om en täkt den 1 augusti 2009 har ett tidsbegränsat
+              tillstånd, får ett nytt tillstånd till täkt på samma plats ges
+              enligt äldre bestämmelser längst till utgången av 2011.
+            </p>
+            <p xml:id="IDAIZRTC" rend="r3">
+              Motionen
+            </p>
+            <p>
+              Motionärerna i motion MJ7 (v) ser många risker med regeringens
+              förslag då de är betydligt klenare än tidigare lagstiftning. Täktverksamhet
+              innebär stora påfrestningar på miljön och bör därför prövas med
+              ett stort mått av hänsyn till denna. Ett borttagande av behovsprövningsregeln
+              och stoppregeln innebär en risk för negativa effekter på miljön.
+              Vidare bör det uppmärksammas att oklarheter i hur avvägningen
+              mellan behov och skador ska ske leder till ökade administrativa
+              kostnader och således inte uppfyller syftet med propositionen
+              att sänka dessa kostnader. Det finns även problem när det gäller
+              tillämpningen av 2 och 3 kap. miljöbalken. Borttagandet av stoppregeln
+              urholkar skyddet för den biologiska mångfalden då täkter som tidigare
+              omfattades av regeln exkluderas. Motionärerna ställer sig positiva
+              till förslaget om skärpta bestämmelser avseende täkt av naturgrus
+              och torv. Det nya förslaget uppväger dock inte den försämring
+              som regeringens förslag innebär i övrigt. Detta innebär således
+              en ytterligare försvagning då alla täkter förutom naturgrus och
+              torv exkluderas. Förslaget saknar även en bedömning av de konsekvenser
+              som kan uppstå med anledning av förändringen och är för vagt utformat
+              för att uppnå sitt syfte. Det går inte att argumentera för regeringens
+              angivna syfte då de nya avvägningarna är svåra att tillämpa och
+              därför kommer att kräva större administrativa insatser. Propositionen
+              bör avslås.
+            </p>
+            <p xml:id="IDAOZRTC" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Som framhålls i propositionen innebär täktverksamhet uttag av
+              naturresurser som inte är förnybara. I fråga om vissa material
+              är tillgången dessutom mycket begränsad. Samtidigt som täktmaterial
+              är en nödvändig råvara vid allt byggande innebär uttaget av materialet
+              stora ingrepp i naturmiljön som inte kan återställas helt. Som
+              regeringen anför är det därför viktigt att det, särskilt vid nyetablering
+              av en täkt, är möjligt att vid prövningen ta ställning till dels
+              om det innebär en god hushållning att bryta täktmaterialet, dels
+              om täktens lokalisering är lämplig med hänsyn till det intrång
+              i miljön som en täkt innebär. När tillstånd till en täkt ges är
+              det också viktigt att säkerställa att intrånget i naturmiljön
+              minimeras och påverkan på djur och växter blir så liten som möjligt.
+              Utskottet anser, i likhet med regeringen, att det med en tillämpning
+              av bestämmelserna i främst 2 och 3 kap. miljöbalken är möjligt
+              att åstadkomma en allsidig prövning som omfattar dessa aspekter.
+              Vidare delar utskottet regeringens uppfattning att otydligheten
+              gör att behovsprövnings- och stoppreglerna i 9 kap. 6 a § första
+              stycket miljöbalken inte kan fungera väl som komplement till de
+              mer allmänna bestämmelserna i 1 kap. 1 § och 2 och 3 kap. De särskilda
+              behovsprövnings- och stoppreglerna bör därför tas bort.
+            </p>
+            <p>
+              I likhet med regeringen anser utskottet att även om uttaget av
+              naturgrus har minskat behöver uttaget minska i en snabbare takt.
+              Som redovisas i propositionen finns det flera angelägna skäl för
+              detta. Ett skäl är att tillgången på naturgrus är mycket begränsad.
+              Ett annat skäl är att avlagringar med naturgrus ofta är viktiga
+              grundvattenmagasin som bör skyddas för att säkra den nuvarande
+              och framtida vattenförsörjningen. Vidare måste skyddet bli tydligare
+              än i dag för att miljömålet för naturgrus ska nås.
+            </p>
+            <p>
+              Naturgrus bör endast användas för ändamål där det inte är möjligt
+              att ersätta materialet med något annat. Det bör gälla oavsett
+              om det är fråga om att nyetablera en täkt ur en naturgrusförekomst
+              eller förlänga driftstillståndet för en redan etablerad täkt ur
+              naturgrusförekomsten. SGU har påbörjat arbetet med att ta fram
+              underlag för de användningsområden där naturgruset kan ersättas
+              med annat material och bör, som regeringen anför, ges ett fortsatt
+              uppdrag att ta fram ett underlag för de användningsområden där
+              naturgruset kan ersättas med annat material och uppdatera underlaget
+              i takt med att ny kunskap tillkommer i frågan. Utskottet förutsätter
+              att regeringen även uppmärksammar det eventuella behovet av ytterligare
+              forskning och utveckling på området i syfte att minska behovet
+              av naturgrus.
+            </p>
+            <p>
+              Som framgår av propositionen omfattar den nu föreslagna regleringen
+              inte täkt för markägarens husbehov av mindre än totalt 10 000
+              ton naturgrus.
+            </p>
+            <p>
+              En stor del av de kvarvarande våtmarkerna i Sverige är i varierande
+              grad påverkade av mänskliga ingrepp såsom torvbrytning, omfattande
+              dikningar och sjösänkningar samt andra verksamheter som har påverkat
+              de biologiska värdena negativt. Det kan vara fråga om verksamheter
+              som kraftigt försämrat landskapets förmåga att rena vatten från
+              övergödande ämnen, att buffra vattenflöden och att fungera som
+              kollager. Som regeringen anför är det därför viktigt att värna
+              om de våtmarker som i huvudsak är orörda och att restaurera skadade
+              våtmarker där det är möjligt.
+            </p>
+            <p>
+              Med det anförda tillstyrker utskottet regeringens lagförslag
+              och avstyrker motion MJ7 (v).
+            </p>
+            <p xml:id="IDAE0RTC" rend="AvsnittsRubrik">
+              Reservation
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservation
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAM0RTC">
+                  <p rend="reservation">
+                    Lagförslagen (v)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="reservanter">
+                    av Wiwi-Anne Johansson (v).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAN1RTC" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Jag anser att förslaget till riksdagsbeslut borde ha följande
+              lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen avslår regeringens lagförslag. Därmed bifaller riksdagen
+              motion 2008/09:MJ7 och avslår proposition 2008/09:144 punkterna
+              1 och 2.
+            </p>
+            <p xml:id="IDAU1RTC" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Det finns många risker med regeringens förslag då de är betydligt
+              klenare än tidigare lagstiftning. Täktverksamhet innebär stora
+              påfrestningar på miljön och bör därför prövas med ett stort mått
+              av hänsyn till denna. Ett borttagande av behovsprövningsregeln
+              och stoppregeln innebär en risk för negativa effekter på miljön.
+              Vidare bör det uppmärksammas att oklarheter i hur avvägningen
+              mellan behov och skador ska ske leder till ökade administrativa
+              kostnader och således inte uppfyller syftet med propositionen
+              att sänka dessa kostnader. Det finns även problem när det gäller
+              tillämpningen av 2 och 3 kap. miljöbalken. Borttagandet av stoppregeln
+              urholkar skyddet för den biologiska mångfalden då täkter som tidigare
+              omfattades av regeln exkluderas. Jag ställer mig positiv till
+              förslaget om skärpta bestämmelser avseende täkt av naturgrus och
+              torv. Det nya förslaget uppväger dock inte den försämring som
+              regeringens förslag innebär i övrigt. Förslaget utgör således
+              en ytterligare försvagning då alla täkter förutom naturgrus och
+              torv exkluderas. Förslaget saknar även en bedömning av de konsekvenser
+              som kan uppstå med anledning av förändringen och är för vagt utformat
+              för att uppnå sitt syfte. Det går inte att argumentera för regeringens
+              angivna syfte då de nya avvägningarna är svåra att tillämpa och
+              därför kommer att kräva större administrativa insatser. Mot bakgrund
+              av det anförda anser jag att regeringens lagförslag bör avslås.
+            </p>
+            <p xml:id="IDA01RTC" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDA31RTC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAA2RTC" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2008/09:144 Enklare och bättre täktbestämmelser:
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen antar regeringens förslag till lag om ändring i miljöbalken.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen antar regeringens förslag till lag om ändring i lagen
+                    (1985:620) om vissa torvfyndigheter.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAE4RTC" rend="rubrik2">
+              Följdmotionen
+            </p>
+            <p rend="behandlatdokument_">
+              2008/09:MJ7 av Wiwi-Anne Johansson m.fl. (v):
+            </p>
+            <p>
+              Riksdagen avslår proposition 2008/09:144 Enklare och bättre täktbestämmelser.
+            </p>
+            <p xml:id="IDAR4RTC" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDAU4RTC" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{CA0571C2-BB7E-44BC-BA51-D9A53CC90C05}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{A2DA5D84-7954-4A82-A6B2-09025F6A8855}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{47906224-C872-46AE-BA60-D8783B6B96AF}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200910_TU_0004">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">EU arbetar för att skapa en gemensam transportpolitik. Därför har Europeiska kommissionen tagit fram ett diskussionsunderlag, Hållbara framtida transporter - Ett integrerat, teknikstyrt och användarvänligt transportsystem. Trafikutskottet lämnar sina synpunkter i ett utlåtande. Utskottet lägger stor vikt vid miljö- och klimatrelaterade frågor. Bland annat att infrastrukturen ska vara klimatsäkrad inför riskerna som följer av klimatförändringarna. Dessutom framhålls vikten av att skapa ett mer enhetligt transportsystem i Europa och att satsningar på teknisk utveckling är ett viktigt medel för att minska koldioxidutsläppen. Riksdagen avslutade ärendet. Därefter skickades utlåtandet till regeringskansliet och för kännedom till EU-kommissionen.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">En väg mot hållbara transporter i Europa (TU4)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Utlåtandet läggs till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GX0918</idno>
+              <title>2009-10-21</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">18</biblScope>
+              <note type="display-reference">2009-10-21</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GX0913</idno>
+              <title>2009-10-14</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">13</biblScope>
+              <note type="display-reference">2009-10-14</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2009-10-12">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2009-10-12">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-10-07">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-10-07">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-10-07">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-10-07">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-10-07">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-09-29">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-09-29">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-09-15">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-09-15">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-10-21">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-10-21">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-10-21">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-10-14">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-10-14">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-10-13">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-10-13">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-10-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-10-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Trafikutskottets utlåtande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2009/10:TU4
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Hållbara framtida transporter Ett integrerat, teknikstyrt och
+                  användarvänligt transportsystem
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACRNRD" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            Utskottet redovisar i detta utlåtande sin granskning av Europeiska
+            kommissionens meddelande Hållbara framtida transporter Ett integrerat,
+            teknikstyrt och användarvänligt transportsystem, daterat den 17
+            juni 2009 (KOM(2009) 279).
+          </p>
+          <p>
+            Syftet med meddelandet är det ska att utgöra diskussionsunderlag
+            inför arbetet med en gemensam transportpolitik för perioden fram
+            till 2020.
+          </p>
+          <p>
+            Sammanfattningsvis välkomnar utskottet att kommissionen genom
+            meddelandet har berett olika intressenter möjlighet att på ett
+            tidigt stadium i processen lämna synpunkter på de tankar och förslag
+            som presenteras. I allt väsentligt instämmer utskottet också med
+            kommissionens bedömningar.
+          </p>
+          <p>
+            I utlåtandet lägger utskottet stor vikt vid miljö- och klimatrelaterade
+            frågor. Bland annat ser utskottet ett behov av att infrastrukturen,
+            såväl den befintliga som den kommande, ska vara klimatsäkrad inför
+            förväntade risker till följd av klimatförändringarna.
+          </p>
+          <p>
+            Utskottet framhåller samtidigt vikten av att skapa ett mer enhetligt
+            transportsystem i Europa, där de olika trafikslagen är bättre
+            samordnade till ett effektivt hållbart transportsystem. Vidare
+            ser utskottet en fortsatt teknisk utveckling som ett viktigt medel
+            för att påskynda övergången till ett samhälle med låga koldioxidutsläpp.
+            Ny teknik bör kombineras med olika styrmedel, däribland ekonomiska,
+            för att målen ska kunna nås.
+          </p>
+          <p>
+            I sammanhanget understryker utskottet betydelsen av att man i
+            en gemensam hållbar transportpolitik beaktar de olika förutsättningar
+            som råder i EU:s medlemsländer. För svensk del innebär detta långa
+            avstånd, gles bebyggelse samt kallt klimat med snö- och isbelagd
+            infrastruktur vintertid i flera regioner. Dessa förhållanden föranleder
+            särskilda åtgärder och högre kostnader.
+          </p>
+          <p>
+            Utskottet menar också att Sverige på en rad områden har genomfört
+            eller inlett projekt och satsningar som torde kunna tjäna som
+            goda exempel i det fortsatta arbetet med en hållbar transportpolitik
+            för EU.
+          </p>
+          <p>
+            I utlåtandet finns en motivreservation (s, v, mp).
+          </p>
+          <p xml:id="IDA4RNRD" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Meddelande om Hållbara framtida transporter Ett integrerat, teknikstyrt
+                  och användarvänligt transportsystem
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger utlåtandet till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation (s, v, mp) motiveringen
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 29 september 2009
+          </p>
+          <p>
+            På trafikutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Lena Hallengren
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Lena Hallengren (s),
+            Jan-Evert Rådhström (m), Oskar Öholm (m), Christina Axelsson (s),
+            Sven Bergström (c), Hans Stenberg (s), Nina Larsson (fp), Claes-Göran
+            Brandin (s), Marie Nordén (s), Annelie Enochson (kd), Sten Bergheden
+            (m), Peter Pedersen (v), Pia Nilsson (s), Karin Svensson Smith
+            (mp), Malin Löfsjögård (m), Mahmood Fahmi (m) och Lars-Axel Nordell
+            (kd).
+          </p>
+          <p xml:id="IDAGVNRD" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAJVNRD" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Kammaren har den 3 september 2009 hänvisat Europeiska kommissionens
+            meddelande Hållbara framtida transporter Ett integrerat, teknikstyrt
+            och användarvänligt transportsystem (KOM(2009) 279) till trafikutskottet.
+          </p>
+          <p>
+            Meddelandet hade antagits av Europeiska kommissionen den 17 juni
+            2009. Därmed inleddes den konsultationsperiod som är tänkt att
+            avslutas den 30 september 2009.
+          </p>
+          <p>
+            Utskottet har vidare mottagit Regeringskansliets faktapromemoria
+            2008/09:FPM142 Future of Transport en framtida europeisk transportpolitik,
+            daterad den 27 juli 2009. Dessutom har utskottet tagit del av
+            de remissvar som inkommit med anledning av regeringens (Regeringskansliets)
+            remiss av meddelandet. Vidare har regeringen anordnat en utfrågning
+            i ämnet. Utskottet har beretts möjlighet att ta del av remissvaren.
+          </p>
+          <p>
+            Statsrådet med ansvar för infrastrukturfrågor, Åsa Torstensson,
+            informerade utskottet den 29 september 2009 om meddelandet om
+            hållbara framtida transporter.
+          </p>
+          <p xml:id="IDAYVNRD" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Den 12 september 2001 lade Europeiska kommissionen fram en vitbok
+            med titeln Den gemensamma transportpolitiken fram till 2010: Vägval
+            inför framtiden.
+          </p>
+          <p>
+            Tilltagande trängsel, trafiktillväxt och behovet av att integrera
+            transporterna i målet om en hållbar utveckling var de huvudsakliga
+            frågor som behandlades i vitboken. Den innehöll inga lagförslag
+            men däremot aviserades ett 60-tal förslag på åtgärder inom olika
+            områden. Vitboken antogs våren 2002. Genom meddelandet Hållbara
+            transporter för ett rörligt Europa Halvtidsöversyn av EU-kommissionens
+            vitbok från 2001 om den gemensamma transportpolitiken (KOM(2006)
+            314) uppdaterades vitboken i vissa avseenden.
+          </p>
+          <p>
+            Det nu framlagda meddelandet Hållbara framtida transporter Ett
+            integrerat, teknikstyrt och användarvänligt transportsystem (KOM(2009)
+            279) avses tillsammans med de synpunkter som framkommer genom
+            bl.a. konsultationsprocessen utgöra viktiga utgångspunkter för
+            den nya vitbok om transporter som kommissionen planerar att lägga
+            fram under 2010 och som ska omfatta tiden fram till 2020.
+          </p>
+          <p xml:id="IDAEWNRD" rend="rubrik2">
+            Meddelandets huvudsakliga innehåll
+          </p>
+          <p>
+            Meddelandet innehåller fyra huvudsakliga delar.
+          </p>
+          <p>
+            Inledningsvis redovisar kommissionen sin bedömning av de hittillsvarande
+            resultaten av
+            <seg rend="grad2">
+              den gemensamma transportpolitiken 20002010
+            </seg>
+            . Särskilt pekar kommissionen på de frågor som återstår att hantera.
+          </p>
+          <p>
+            Vidare lämnar kommissionen en beskrivning av de
+            <seg rend="grad2">
+              tendenser och utmaningar
+            </seg>
+            inom transportsektorn som kommissionen bedömer har betydelse
+            för utformningen av den framtida politiken på området. Siktet
+            är här inställt på ända fram till 2050. De omvärldsfaktorer som
+            tas upp är bl.a. åldrande befolkning, migration och inre rörlighet,
+            miljöutmaningar och begränsad tillgång på fossila bränslen.
+          </p>
+          <p>
+            Strategiska mål för det medellånga perspektivet bör genomföras
+            för att ta itu med de utmaningar som förutses uppstå inom sektorn.
+            De främsta prioriteringarna anser kommissionen vara bättre integrering
+            av olika transportslag för att förbättra transportsystemets effektivitet
+            överlag, liksom en snabbare utveckling och tillämpning av ny teknik.
+            Kommissionen framhåller särskilt att när politiken utformas måste
+            detta ske utifrån transportanvändarnas och transportarbetarnas
+            behov.
+          </p>
+          <p>
+            Kommissionen skisserar härefter sju tänkbara breda
+            <seg rend="grad2">
+              politiska mål
+            </seg>
+            . Dessa är följande:
+          </p>
+          <p>
+            ·. Högkvalitativa, säkra och trygga transporter.
+          </p>
+          <p>
+            ·. Ett väl underhållet och fullt ut integrerat nätverk.
+          </p>
+          <p>
+            ·. Miljövänliga/hållbara transporter.
+          </p>
+          <p>
+            ·. EU måste gå i bräschen för transporttjänster och transportteknik.
+          </p>
+          <p>
+            ·. Skydd och utveckling av humankapitalet.
+          </p>
+          <p>
+            ·. Smart prissättning för ökad effektivitet och bättre signalvärde.
+          </p>
+          <p>
+            ·. Planering av transporter förbättrad tillgänglighet.
+          </p>
+          <p>
+            Slutligen redovisas ett antal
+            <seg rend="grad2">
+              strategier
+            </seg>
+            för hur de tänkbara målen skulle kunna uppnås. Det handlar sålunda
+            om vilka politiska instrument som kan komma i fråga. Förslagen
+            är indelade efter följande rubriker:
+          </p>
+          <p>
+            ·. Infrastruktur underhåll, utveckling och integrering av olika
+            transportnät.
+          </p>
+          <p>
+            ·. Finansiering finna resurser för hållbara transporter.
+          </p>
+          <p>
+            ·. Teknik hur kan man påskynda övergången till ett samhälle med
+            låga koldioxidutsläpp och leda utvecklingen i världen?
+          </p>
+          <p>
+            ·. Rättslig ram ytterligare liberaliserings- och konkurrensfrämjande.
+          </p>
+          <p>
+            ·. Åtgärd utbildning, information och engagemang.
+          </p>
+          <p>
+            ·. Styrning effektiva och samordnade åtgärder.
+          </p>
+          <p>
+            ·. Den externa dimensionen nödvändigheten av att EU agerar samstämmigt.
+          </p>
+          <p xml:id="IDAO0NRD" rend="rubrik2">
+            Faktapromemoria
+          </p>
+          <p>
+            I Regeringskansliets faktapromemoria Future of Transport en framtida
+            europeisk transportpolitik (2008/09:FPM142) redovisas den preliminära
+            svenska ståndpunkten avseende kommissionens meddelande Hållbara
+            framtida transporter Ett integrerat, teknikstyrt och användarvänligt
+            transportsystem enligt följande.
+          </p>
+          <p>
+            Ett långsiktigt hållbart och konkurrenskraftigt europeiskt transportsystem
+            är av grundläggande betydelse för Europas utveckling och välstånd.
+            För att bidra till målsättningen med ett hållbart transportsystem
+            prioriteras EU:s transportpolitik efter 2010 under det svenska
+            EU-ordförandeskapet. Mot denna bakgrund välkomnas kommissionens
+            meddelande och den debatt som förväntas följa.
+          </p>
+          <p>
+            Under rubriken Fortsatt behandling av ärendet anmäls vidare att
+            meddelandet om den framtida europeiska transportpolitiken prioriteras
+            under det svenska EU-ordförandeskapet. Bland de tänkta aktiviteterna
+            nämns riktlinjedebatter och antagande av slutsatser inom ramen
+            för ministerrådet.
+          </p>
+          <p xml:id="IDA10NRD" rend="AvsnittsRubrik">
+            Utskottets granskning
+          </p>
+          <p xml:id="IDA40NRD" rend="rubrik2">
+            Subsidiaritets- och proportionalitetsprinciperna
+          </p>
+          <p>
+            Utskottet är positivt till en fortsatt utveckling av den gemensamma
+            transportpolitiken. Sverige är såsom ett litet land med betydande
+            utrikeshandel i hög grad betjänt av väl fungerande gränsöverskridande
+            transporter.
+          </p>
+          <p>
+            I några fall tar kommissionen upp frågor där besluten ligger
+            hos medlemsstaterna på nationell, regional respektive kommunal
+            nivå. Enligt utskottets mening hade det varit önskvärt att kommissionen
+            tydligare hade markerat områden där man kan riskera att subsidiaritetsprincipen
+            inte följs, och då också utvecklat skälen för sin bedömning. Generellt
+            bör gälla att ansvarsfördelningen mellan gemenskapsnivå och nationell
+            nivå bör bli så tydlig som möjligt. Med detaljstyrning genom EG-regler
+            riskerar man suboptimering och ineffektivitet, till följd av bristande
+            anpassning till lokala eller regionala förhållanden.
+          </p>
+          <p>
+            För sin del anser utskottet att främst frågor om urbanisering,
+            en gemensam infrastrukturförvaltare och ett eventuellt institutionaliserat
+            samstämmigt agerande i EU visavi internationella organ behöver
+            analyseras närmare ur subsidiaritetssynpunkt.
+          </p>
+          <p xml:id="IDAK1NRD" rend="rubrik2">
+            Inledning
+          </p>
+          <p xml:id="IDAN1NRD" rend="rubrik3">
+            Sveriges transportpolitik
+          </p>
+          <p>
+            I Sverige har det nyligen genomförts en ny inriktning av transportpolitiken
+            i syfte att åstadkomma ett hållbart transportsystem. Ett medel
+            är att anlägga ett transportslagsövergripande arbetssätt. Arbetet
+            har bedrivits i olika steg.
+          </p>
+          <p>
+            En förändrad
+            <seg rend="grad2">
+              målstruktur
+            </seg>
+            för transportpolitiken beslutades av riksdagen våren 2009. Det
+            övergripande målet är att säkerställa en samhällsekonomiskt effektiv
+            och långsiktigt hållbar transportförsörjning för medborgarna och
+            näringslivet i hela landet. För att tydliggöra detta mål och förbättra
+            styrningen och uppföljningen av det övergripande målet finns dels
+            ett funktionsmål: Tillgänglighet, dels ett hänsynsmål: Säkerhet,
+            miljö och hälsa.
+          </p>
+          <p>
+            En ny, sammanhållen myndighet, Transportstyrelsen, inrättades
+            den 1 januari 2009. Dess uppgift är att ansvara för normgivning,
+            tillsyn och tillståndsgivning inom järnvägstrafik, vägtrafik,
+            sjöfart och luftfart. Myndigheten arbetar för att man ska uppnå
+            god tillgänglighet, hög kvalitet samt säkra och miljöanpassade
+            transporter inom alla transportslag.
+          </p>
+          <p>
+            Dessutom har regeringen hösten 2009 beslutat att bilda en ny
+            myndighet för utveckling av det samlade transportsystemet. Den
+            nya myndigheten, Trafikverket, ska inleda sitt arbete den 1 april
+            2010. Dess grundläggande uppdrag är att ur ett samhällsbyggnadsperspektiv
+            skapa förutsättningar för att uppnå
+          </p>
+          <p>
+            ·. funktionalitet
+          </p>
+          <p>
+            ·. effektivitet
+          </p>
+          <p>
+            ·. hållbarhet i det samlade transportsystemet.
+          </p>
+          <p>
+            Vidare ska Trafikverket ansvara för bl.a. följande:
+          </p>
+          <p>
+            ·. en samlad trafikslagsövergripande långsiktig infrastrukturplanering
+            för väg, järnväg, sjö och luft
+          </p>
+          <p>
+            ·. planering, byggande, drift och underhåll av de statliga vägarna
+            och järnvägarna.
+          </p>
+          <p xml:id="IDAG3NRD" rend="rubrik3">
+            Svenska mål inom transportområdet under Sveriges ordförandeskap
+          </p>
+          <p>
+            Målet för Sveriges EU-arbete på transportområdet är att medverka
+            till att skapa ett långsiktigt hållbart och konkurrenskraftigt
+            transportsystem i Europa. Ett väl fungerande transportsystem är
+            en viktig förutsättning för att möta klimatutmaningen och för
+            att stärka Europas ekonomi och konkurrenskraft.
+          </p>
+          <p xml:id="IDAM3NRD" rend="rubrik2">
+            Den gemensamma transportpolitiken 20002010
+          </p>
+          <p xml:id="IDAP3NRD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            Enligt kommissionens mening har den gemensamma transportpolitiken
+            under perioden 20002010 varit i stort sett framgångsrik. Mer blygsamma
+            resultat har åstadkommits i fråga om EU:s strategi för hållbar
+            utveckling; det europeiska transportsystemet uppfyller alltjämt
+            inte hållbarhetskraven.
+          </p>
+          <p xml:id="IDAV3NRD" rend="r4">
+            Utskottet
+          </p>
+          <p>
+            Enligt utskottets mening har EU-arbetet bedrivits på ett ändamålsenligt
+            sätt, och ett stort antal rättsakter m.m. har bidragit eller kan
+            förväntas bidra till effektivare, säkrare och mer miljövänliga
+            transporter.
+          </p>
+          <p>
+            Generellt vill utskottet starkt understryka vikten av uppföljning
+            och utvärdering av genomförda åtgärder. Särskilt på transportområdet
+            är detta av betydelse då det ofta handlar om stora och kostsamma
+            investeringar men också om andra insatser som har stor inverkan
+            på samhällsstrukturen och flödena.
+          </p>
+          <p>
+            Liksom kommissionen anser utskottet att det framför allt är på
+            miljö- och klimatområdena som mycket återstår. Arbetet med dels
+            energieffektivitet inom transportsektorn, dels övergång till förnybara
+            drivmedel har än så länge inte gett de resultat som kommissionen
+            sade sig eftersträva i vitboken.
+          </p>
+          <p xml:id="IDAB4NRD" rend="rubrik2">
+            Tendenser och utmaningar
+          </p>
+          <p xml:id="IDAE4NRD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            Kommissionen redovisar ett antal huvudområden som förväntas få
+            stor betydelse för transportsektorns utformning, såväl på lite
+            kortare sikt som i ett längre perspektiv. De handlar om befolkningsmässiga
+            frågor (åldersstruktur och rörlighet genom migration samt arbets-
+            och turistresor m.m.), miljöutmaningar, minskad tillgång på fossila
+            bränslen, urbanisering samt allmänna tendenser såsom ekonomisk
+            tillväxt och geopolitiska förhållanden.
+          </p>
+          <p xml:id="IDAK4NRD" rend="r4">
+            Utskottet
+          </p>
+          <p>
+            Utskottet instämmer i allt väsentligt med kommissionen i beskrivningen
+            av tendenser och utmaningar. Vad särskilt gäller avsnittet om
+            urbanisering vill utskottet betona att det råder skiftande förhållanden
+            i de olika medlemsstaterna och att detta också bör beaktas i en
+            gemensam transportpolitik.
+          </p>
+          <p xml:id="IDAQ4NRD" rend="rubrik2">
+            Politiska mål för hållbara transporter
+          </p>
+          <p xml:id="IDAT4NRD" rend="rubrik3">
+            Högkvalitativa säkra och trygga transporter
+          </p>
+          <p xml:id="IDAW4NRD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            En ökad efterfrågan på transporter i framtiden förutses. Det
+            krävs en förbättring av transporternas kvalitet, däribland av
+            den personliga säkerheten, färre olyckor, minskade hälsorisker,
+            tillvaratagande av passagerares rättigheter och tillträde (tillgänglighet)
+            till avlägsna områden (regioner).
+          </p>
+          <p>
+            I sammanhanget preciseras hithörande frågeområden såsom transportarbetares
+            arbetsvillkor, skyddet av personlig integritet och tillgänglighet
+            för personer med minskad rörlighet.
+          </p>
+          <p xml:id="IDA54NRD" rend="r4">
+            Utskottet
+          </p>
+          <p xml:id="IDAC5NRD" rend="r5">
+            Miljö- och klimatrelaterade aspekter
+          </p>
+          <p>
+            En särskild aspekt som kommissionen inte synes ha beaktat i tillräcklig
+            grad gäller de förändrade villkor som kommer att gälla till följd
+            av klimatförändringarna. Arbetet inom transportsektorn måste även
+            innefatta de klimatförändringar som medför t.ex. erosion och som
+            står utom mänsklig påverkan. En särskild fokusering på sårbarhetsfrågor
+            bör göras när det gäller såväl planerad som befintlig infrastruktur.
+            I Sverige har en offentlig utredning genomförts om klimat- och
+            sårbarhetsfrågor: Sverige inför klimatförändringarna hot och möjligheter
+            (SOU 2007:60). I denna redovisas förväntade konsekvenser av klimatförändringar
+            och extrema väderhändelser för bl.a. transportsystemet och telekommunikationerna.
+            Översvämningar, ras och skred är exempel på händelser som redan
+            inträffat i Sverige och som åstadkommit skador på transportinfrastrukturen.
+            Med klimatförändringarna kan man förutse en ökad frekvens och
+            svårare konsekvenser. Utredningens slutsats är att planeringen
+            bör anpassas efter de framtida riskerna. Enligt utskottets mening
+            bör man i den gemensamma transportpolitiken uppmärksamma frågan
+            i än högre grad och verka för att ny infrastruktur byggs under
+            hänsynstagande till dessa förväntade risker. Utskottet berör denna
+            fråga även senare i utlåtandet (under rubriken Den externa dimensionen
+            nödvändigheten av att EU agerar samstämmigt).
+          </p>
+          <p xml:id="IDAI5NRD" rend="r5">
+            Trafiksäkerhet
+          </p>
+          <p>
+            Sedan länge har
+            <seg rend="grad2">
+              trafiksäkerhet
+            </seg>
+            varit ett prioriterat område i svensk transportpolitik. Den s.k.
+            nollvisionen, dvs. strävan efter att ingen dödas eller skadas
+            allvarligt i trafiken, antogs av riksdagen 1998. I sitt yttrande
+            till EU-nämnden över kommissionens vitbok 2001 tog trafikutskottet
+            upp frågan såsom en av hörnstenarna.
+          </p>
+          <p>
+            Arbetet har i Sverige också gett resultat, vilket visat sig bl.a.
+            i statistiken. Under 2008 inträffade 4,3 dödsfall i trafiken per
+            100 000 invånare, vilket innebär att Sverige ligger i absoluta
+            täten, internationellt sett. Enligt preliminär statistik för perioden
+            september 2008 augusti 2009 (en rullande tolvmånadersperiod) ligger
+            Sverige på 339 dödsfall. Arbetet har koncentrerats till frågor
+            om alkohol vid ratten, bältesanvändning och iakttagande av hastighetsgränser.
+            Utöver alkohol orsakar användningen av andra droger och förares
+            trötthet allvarliga trafikolyckor. Frågan om införande av alkolås
+            i nya bilar har diskuterats i Sverige, och det kan noteras att
+            den pågående utvecklingen har resulterat i såväl sänkta priser
+            som en mer effektiv teknik för mätning av alkoholhalten i utandningsluften
+            hos föraren.
+          </p>
+          <p>
+            Det är inte tillfredsställande att antalet trafikdödade i EU:s
+            medlemsländer uppgår till närmare 40 000 personer per år. Utskottet
+            ansluter sig till kommissionens uppfattning att det är viktigt
+            med en uppföljningsstrategi när åtgärdsprogrammet för vägsäkerhet
+            löper ut 2010. Strategin ska säkerställa att antalet dödsoffer
+            på vägarna kan nedbringas kraftigt.
+          </p>
+          <p>
+            Enligt utskottets mening är det av yttersta vikt att det resultat
+            som har uppnåtts på trafiksäkerhetsområdet inom gemenskapen inte
+            bara vidmakthålls; arbetet bör prioriteras ytterligare.
+          </p>
+          <p xml:id="IDA15NRD" rend="r5">
+            Tillgänglighet till avlägsna regioner
+          </p>
+          <p>
+            I den av riksdagen nyligen antagna transportpolitiska målhierarkin
+            återfinns under målet tillgänglighet s.k. preciseringar. En av
+            dessa går ut på att tillgängligheten ska förbättras inom och mellan
+            regioner samt mellan Sverige och andra länder. I sammanhanget
+            vill utskottet ta upp frågan om de speciella förhållanden som
+            råder i Sverige och vissa andra medlemsstater i de nordliga delarna
+            av EU. Gles bebyggelse och låg befolkningstäthet i stora områden,
+            stora avstånd och ett kallt klimat med snö och is vintertid innebär
+            särskilda behov i transporthänseende.
+          </p>
+          <p xml:id="IDAEAORD" rend="r5">
+            Tillgänglighet för personer med funktionsnedsättning
+          </p>
+          <p>
+            När det gäller frågan om tillgänglighet vill utskottet hänvisa
+            till den av riksdagen antagna målhierarkin. För det s.k. tillgänglighetsmålet
+            har ett antal preciseringar för uppfyllande av målet satts upp.
+            Bland annat gäller att transportsystemet ska utformas så att det
+            är användbart för personer med funktionsnedsättning. Transportsystemet
+            inte bara kollektivtrafiken ska således vara användbart för alla.
+          </p>
+          <p xml:id="IDAKAORD" rend="rubrik3">
+            Ett väl underhållet och fullt ut integrerat nätverk
+          </p>
+          <p xml:id="IDANAORD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            Ett bättre utnyttjande av nätkapaciteten och av varje enskild
+            parameter skulle på ett avgörande sätt kunna bidra till att minska
+            trafikträngseln, utsläppen av föroreningar och antalet olyckor.
+          </p>
+          <p xml:id="IDATAORD" rend="r4">
+            Utskottet
+          </p>
+          <p>
+            Trafikutskottet ansluter sig till fullo till kommissionens förhållningssätt.
+            Det finns en stor potential för effektivisering av transportsystemet
+            på en rad olika plan. I Sverige har detta kommit till uttryck
+            genom att bl.a. avlägsnande av flaskhalsar på väg- och järnvägssträckor
+            utgör en av prioriteringarna i infrastrukturpolitiken. Vidare
+            är underhållsåtgärder ett viktigt inslag i denna politik. Detta
+            förhållningssätt är i linje med den s.k. fyrstegsprincipen. Vid
+            behov av ny kapacitet på väg eller järnväg ska åtgärderna analyseras
+            i följande fyra steg:
+          </p>
+          <p rend="uppraknadlista">
+            1. åtgärder som kan påverka transportbehovet och val av transportsätt
+          </p>
+          <p rend="uppraknadlista">
+            2. åtgärder som ger effektivare utnyttjande av befintliga väg-
+            eller järnvägsnät eller av fordon
+          </p>
+          <p rend="uppraknadlista">
+            3. begränsade ombyggnadsåtgärder
+          </p>
+          <p rend="uppraknadlista">
+            4. nyinvesteringar och större ombyggnadsåtgärder.
+          </p>
+          <p>
+            Syftet är således att analysera om man kan effektivisera användningen
+            av den befintliga infrastrukturen innan man använder resurser
+            för att bygga nytt.
+          </p>
+          <p xml:id="IDAYBORD" rend="rubrik3">
+            Miljövänligare hållbara transporter
+          </p>
+          <p xml:id="IDA1BORD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            Transportverksamheternas oönskade miljöeffekter kommer att kräva
+            ytterligare åtgärder, i synnerhet vad avser buller, luftförorenande
+            utsläpp och utsläpp av växthusgaser. Även vid infrastrukturutbyggnad
+            bör hållbarhetsfaktorer, såsom marktillgång och biologisk mångfald,
+            beaktas.
+          </p>
+          <p xml:id="IDABCORD" rend="r4">
+            Utskottet
+          </p>
+          <p>
+            Utskottet konstaterar att miljö- och klimatproblemen hör till
+            de frågor som den nuvarande gemenskapspolitiken på transportområdet
+            inte lyckats bemästra i enlighet med vad som uttalades i 2001
+            års vitbok. Utskottet gör samma bedömning som kommissionen att
+            samtliga hållbarhetsfaktorer bör beaktas. Enligt utskottets mening
+            är frågor om kollektivtrafikens potential att effektivt bidra
+            till minskade miljöstörningar i transporterna inte tillräckligt
+            väl belysta i meddelandet. Utskottet återkommer till detta senare
+            i utlåtandet. I sammanhanget vill utskottet även påminna om vikten
+            av att reducera vattenförorenande utsläpp, såsom olja och barlastvatten.
+          </p>
+          <p>
+            Av stor vikt är vidare att åtgärderna är vetenskapligt baserade.
+            Som kommissionen anför är det också nödvändigt med uppföljningar
+            och utvärderingar i framtiden.
+          </p>
+          <p xml:id="IDAKCORD" rend="rubrik3">
+            EU bör leda utvecklingen av transporttjänster och transportteknik
+          </p>
+          <p xml:id="IDANCORD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            Enligt kommissionens mening kommer teknisk innovation vara av
+            avgörande betydelse för en lösning av transportproblemen. Det
+            hänvisas till ITS, ERTMS och SESAR, stödd av satellitnavigeringssystemet
+            Galileo. Budskapet är att innovativ fordonsteknik kan minska utsläppen
+            och oljeberoendet samt öka komforten. Kommissionen anger vidare
+            att bevarandet och befästandet av EU:s redan nu världsledande
+            roll inom många transportområden är en viktig faktor för att bevara
+            den totala konkurrenskraften inom EU:s ekonomi och även erbjuda
+            transportekonomin möjligheter att komma in på nya och växande
+            marknader.
+          </p>
+          <p xml:id="IDATCORD" rend="r4">
+            Utskottet
+          </p>
+          <p>
+            Enligt utskottets mening är utvecklingen av transporttjänster
+            och transportteknik av synnerligen stor betydelse när det gäller
+            att komma till rätta med de problem och olägenheter som transporter
+            förorsakar. Samtidigt bör det betonas att ny teknik inte ensam
+            kan förväntas klara av dessa utmaningar. Som framgår av det följande
+            lägger utskottet även vikt vid ökad användning av ekonomiska styrmedel.
+            Utskottet menar att ny teknik bör kombineras med olika styrmedel,
+            däribland ekonomiska, för att målen ska kunna nås.
+          </p>
+          <p>
+            Utvecklingsverksamheten inom transportområdet har vidare som
+            kommissionen påpekar stor potential att vara eller förbli ledande
+            inom området. Frågan har i hög grad bäring på frågan om tillväxt
+            och sysselsättning. Utskottet ställer sig bakom kommissionens
+            tankar om att man i större utsträckning bör investera i forskning
+            och utveckling.
+          </p>
+          <p xml:id="IDA2CORD" rend="rubrik3">
+            Skydd och utveckling av humankapitalet
+          </p>
+          <p xml:id="IDA5CORD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            I meddelandet lyfts även fram vad som benämns humankapitalet,
+            dvs. alla dem som arbetar inom transportsektorn. Kommissionen
+            förutser en rad strukturella förändringar med åtföljande effekter
+            på antalet sysselsättningstillfällen.
+          </p>
+          <p xml:id="IDAFDORD" rend="r4">
+            Utskottet
+          </p>
+          <p>
+            Arbetet inom transportsektorn är till sin natur i hög grad gränsöverskridande.
+            Enligt utskottets mening är det angeläget att strukturförändringar
+            med förväntade sysselsättningseffekter följs och analyseras på
+            EU-nivå och att hög beredskap iakttas när det gäller att förutse
+            sådana förändringar. Däremot, menar utskottet, bör de enskilda
+            åtgärderna vidtas i de enskilda medlemsstaterna.
+          </p>
+          <p xml:id="IDALDORD" rend="rubrik3">
+            Smarta priser som trafiksignaler
+          </p>
+          <p xml:id="IDAODORD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            Kommissionen anför att det inte går att uppnå ekonomisk effektivitet
+            utan att prisnivån återspeglar samtliga de kostnader som brukaren
+            förorsakar. Transportsystemet i synnerhet skulle dra fördel av
+            en prissättning som ger rätt signaler.
+          </p>
+          <p xml:id="IDAUDORD" rend="r4">
+            Utskottet
+          </p>
+          <p>
+            Utskottet lägger stor vikt vid användandet av prisinstrumentet
+            på ett sätt som påverkar valet av olika transportsätt. Priset
+            kan vara ett effektivt styrmedel, men det är också flexibelt i
+            den meningen att det kan anpassas relativt enkelt så att man uppnår
+            den eftersträvade optimaliteten. Samtidigt är det viktigt att
+            beakta andra faktorer såsom regionalpolitiska och fördelningspolitiska
+            konsekvenser.
+          </p>
+          <p xml:id="IDA0DORD" rend="rubrik3">
+            Planering av transporter förbättrad tillgänglighet
+          </p>
+          <p xml:id="IDA3DORD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            Utvecklingen mot en koncentration av olika slags verksamheter
+            har, enligt kommissionens mening, medfört en hel del påtvingad
+            rörlighet på grund av försämrad tillgänglighet. Kommissionen anser
+            att när beslut fattas om markanvändning eller lokalisering bör
+            myndigheter och företag beakta konsekvenserna av de val som görs
+            när det gäller kundernas och de anställdas transportbehov utöver
+            godstransporterna.
+          </p>
+          <p>
+            Vidare kan transportbehoven minskas genom ökad virtuell tillgänglighet
+            med hjälp av IT. Kommissionen menar att det ännu finns outforskade
+            möjligheter att ersätta resandet.
+          </p>
+          <p xml:id="IDAGEORD" rend="r4">
+            Utskottet
+          </p>
+          <p>
+            Utskottets grundläggande inställning är att det inte är trafiken
+            som sådan som bör begränsas utan dess negativa effekter i form
+            av t.ex. skador på miljö och hälsa samt trängsel.
+          </p>
+          <p>
+            Att vissa transporter skulle kunna undvikas vid en bättre tillgänglighet
+            är obestridligt. I vissa fall kan givetvis tillgänglighetsbehovet
+            tillgodoses virtuellt, t.ex. genom IT-teknik. En mer framsynt
+            samhällsplanering i övrigt, t.ex. i urbana miljöer, är självklart
+            också angelägen. Detta är dock ett område som medlemsstaterna
+            själva råder över.
+          </p>
+          <p xml:id="IDAPEORD" rend="rubrik2">
+            Strategier för hållbar transport
+          </p>
+          <p>
+            Under detta avsnitt presenterar kommissionen förslag om hur tillgängliga
+            politiska instrument skulle kunna användas för att förverkliga
+            de tidigare angivna politiska målen.
+          </p>
+          <p xml:id="IDAVEORD" rend="rubrik3">
+            Infrastruktur underhåll, utveckling och integrering av olika
+            transportnät
+          </p>
+          <p xml:id="IDAYEORD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            För att transportsystemet ska fungera optimalt krävs att alla
+            enskilda delar i nätet är fullt ut integrerade och driftskompatibla
+            samt att de olika transportnäten är sammankopplade med varandra.
+            Utvecklande av intermodala transporter och s.k. gröna korridorer
+            förordas.
+          </p>
+          <p>
+            Vidare anförs att gemensamma metoder, uppgifter och indikatorer
+            bör användas vid utvärdering av infrastrukturprojekt.
+          </p>
+          <p>
+            Informationssystem är av stor betydelse för att få överblick
+            över komplexa transportkedjor. Transporthandlingar och biljetter
+            bör hanteras elektroniskt och på ett enhetligt sätt. Samtidigt
+            ska behovet av skydd av personuppgifter tillgodoses.
+          </p>
+          <p xml:id="IDAEFORD" rend="r4">
+            Utskottet
+          </p>
+          <p xml:id="IDAHFORD" rend="r5">
+            Planering
+          </p>
+          <p>
+            Utskottet ansluter sig till vad kommissionen anför om vikten
+            av ett transportslagsövergripande synsätt vid infrastrukturplanering.
+            En integrering fullt ut av transportslagen och transportnäten
+            är angelägen. Likaså bejakar utskottet vad som anförs om knutpunkter
+            och intermodala plattformar för optimering av passagerar- och
+            godstrafiken. Utskottet finner det också motiverat med ett effektivare
+            infrastrukturutnyttjande, t.ex. genom smarta prioriteringsregler
+            eller särskilda godstransportkorridorer. Särskilt förespråkar
+            utskottet s.k. gröna korridorer som ett sätt att begränsa trafikens
+            negativa miljöeffekter och minska trängseln, samtidigt som konkurrenskraften
+            ökas. I Sverige bedrivs ett arbete med denna inriktning inom ett
+            nyinrättat organ, Logistikforum. Enligt utskottets uppfattning
+            kan EU:s transportpolitik utvecklas genom internationella partnerskap
+            som skapar gröna transportkorridorer till och från Norden. Detta
+            system skulle, enligt utskottets mening, kunna tjäna som exempel
+            i EU-sammanhang.
+          </p>
+          <p>
+            Som kommissionen anför är ny infrastruktur dyr. Det har också
+            visat sig vara svårt att få träffsäkerhet i kalkylerna, och inte
+            sällan underskattas kostnaderna. Att i första hand undersöka möjligheten
+            till ett optimalt utnyttjande av befintliga anläggningar är därför
+            rationellt. Utskottet finner att den s.k. fyrstegsprincipen (se
+            i det föregående) som tillämpas i Sverige kan tjäna som modell
+            i detta sammanhang. Utskottet vill också betona vikten av att
+            använda upphandlingsinstrumentet för ett mer effektivt byggande.
+          </p>
+          <p>
+            Som nämnts tidigare finner utskottet att frågor om kollektivtrafikens
+            potential inte har belysts i tillräcklig omfattning. En väl planerad
+            och utbyggd kollektivtrafik kan bidra till ett minskat bilberoende.
+            Kollektivtrafik är ett jämförelsevis energisnålt och klimatvänligt
+            sätt att tillgodose behov av rörlighet. I Sverige har kollektivtrafikbranschen
+            och andra intressenter tagit ett initiativ som går ut på att andelen
+            resor som företas med kollektivtrafik ska fördubblas. Detta initiativ
+            kan utgöra ett exempel för andra medlemsländer på hur kollektivtrafiken
+            kan utvecklas.
+          </p>
+          <p>
+            Beträffande vad som kan göras åt trafikutvecklingen i Europas
+            städer återkommer utskottet till frågan senare i utlåtandet (under
+            rubriken Styrning effektiva och samordnade åtgärder).
+          </p>
+          <p>
+            Generellt finner utskottet det motiverat att infrastrukturplanering
+            inte görs i ett transportpolitiskt vakuum utan att det sätts in
+            i ett större sammanhang.
+          </p>
+          <p xml:id="IDAZFORD" rend="r5">
+            Utvärdering
+          </p>
+          <p>
+            Utskottet vill liksom kommissionen betona vikten av utvärderingar
+            av gjorda satsningar. Sådana utvärderingar bör utföras med enhetliga
+            modeller och indikatorer och baseras på jämförbara och relevanta
+            faktorer.
+          </p>
+          <p xml:id="IDA5FORD" rend="r5">
+            Informationssystem
+          </p>
+          <p>
+            Utskottet ansluter sig till vad kommissionen anfört om elektronisk
+            hantering av transporthandlingar och biljetter med inriktningen
+            att åstadkomma enhetlighet inom gemenskapen. Enligt utskottets
+            mening finns en stor potential för effektivisering på dessa områden,
+            till nytta för såväl person- som godstrafik.
+          </p>
+          <p xml:id="IDAFGORD" rend="r5">
+            Sjöfartens roll
+          </p>
+          <p>
+            Som kommissionen anför har sjöfarten en stor potential att bidra
+            till hållbara transporter. Utskottet konstaterar att utnyttjandet
+            av sjöfarten hittills inte har kommit långt men räknar med att
+            genomförandet av EU:s sjöfartspolitik fram till 2018 ska innebära
+            den kraftsamling som behövs.
+          </p>
+          <p xml:id="IDALGORD" rend="rubrik3">
+            Finansiering finna resurser för hållbara transporter
+          </p>
+          <p xml:id="IDAOGORD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            En omfattande och samordnad finansiering kommer att behövas för
+            en långtgående översyn av transportsystemet för att nå målet om
+            ett samhälle med låga koldioxidutsläpp. Kommissionen utvecklar
+            ett resonemang som går ut på att finna finansieringskällor som
+            alternativ till statsfinansiering och förutser att transportsektorn
+            successivt kommer att bli mer självfinansierande.
+          </p>
+          <p>
+            Enligt kommissionen efterlevs inte alltid principen om att förorenaren
+            betalar. Kommissionen hänvisar till sitt förslag om en strategi
+            för stegvis internalisering av externa kostnader för samtliga
+            transportmedel.
+          </p>
+          <p xml:id="IDAXGORD" rend="r4">
+            Utskottet
+          </p>
+          <p>
+            Utskottet anser i likhet med kommissionen att externa kostnader
+            bör internaliseras i större utsträckning och med utgångspunkt
+            i marginalkostnadsprissättning. Åtgärder i transportsystemet ska,
+            enligt utskottets mening, vara samhällsekonomiskt lönsamma samtidigt
+            som även regionalpolitiska och andra faktorer bör ingå i en totalbedömning.
+          </p>
+          <p>
+            Såväl styrande som finansierande avgifter behövs för att man
+            ska kunna möta de utmaningar som finns. Det är av vikt att avgiften
+            inte är så hög att den nya infrastrukturen underutnyttjas eller
+            att den medverkar till en omfördelning av trafik till kringliggande,
+            sämre vägnät.
+          </p>
+          <p xml:id="IDAAHORD" rend="rubrik3">
+            Teknik hur kan man påskynda övergången till ett samhälle med
+            låga koldioxidutsläpp och leda utvecklingen i världen?
+          </p>
+          <p xml:id="IDADHORD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            Mot bakgrund av befolkningsutvecklingen och det ökade bilägandet
+            finns ett tvingande behov av att finna tekniska lösningar för
+            lägre eller inga fordonsutsläpp och utveckling av alternativa
+            lösningar för hållbara transporter.
+          </p>
+          <p xml:id="IDAJHORD" rend="r4">
+            Utskottet
+          </p>
+          <p>
+            Utskottet delar uppfattningen om vikten av teknisk utveckling
+            som ett medel att påskynda övergången till ett samhälle med låga
+            koldioxidutsläpp. EU bör också kunna bana väg för hållbar rörlighet
+            (tillgänglighet) även i andra delar av världen, t.ex. genom teknikexport.
+          </p>
+          <p>
+            I sammanhanget vill utskottet framhålla betydelsen av att vissa
+            tekniska lösningar inte otillbörligt främjas på bekostnad av andra.
+            Tillgängliga åtgärder bör komma i fråga för att säkerställa teknikneutralitet.
+            Fastställandet av öppna standarder är ett av de viktigare leden
+            i detta arbete.
+          </p>
+          <p>
+            Utskottet konstaterar i likhet med kommissionen att mycket återstår
+            att göra för att påskynda integrationen av redan tillgänglig teknik
+            i transportsystemen.
+          </p>
+          <p xml:id="IDAVHORD" rend="rubrik3">
+            Rättslig ram ytterligare liberaliserings- och konkurrensfrämjande
+          </p>
+          <p xml:id="IDAYHORD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            Kommissionen anför att den av EU inledda liberaliseringen av
+            marknaden visat sig vara framgångsrik när den är mer långtgående.
+            Delvis liberaliserade marknader kan däremot råka ut för att operatörer
+            som agerar i skyddade miljöer subventionerar sin verksamhet på
+            liberaliserade marknader.
+          </p>
+          <p>
+            Den rättsliga ramen måste också innefatta en harmonisering av
+            miljökraven samt skydd av arbetstagarnas villkor och användarnas
+            rättigheter, menar kommissionen.
+          </p>
+          <p xml:id="IDAEIORD" rend="r4">
+            Utskottet
+          </p>
+          <p>
+            Utskottet instämmer i vad kommissionen anför om vikten av såväl
+            harmoniserade regler som förenkling i övrigt när det gäller regelgivning
+            och den administrativa tillämpningen av reglerna. Alltjämt är
+            företag inom transportbranschen i hög grad belastade av en onödigt
+            omfattande byråkrati, vilket kan verka hämmande för gränsöverskridande
+            transporter. Exempelvis skulle digitala fraktsedlar innebära stora
+            effektivitetsvinster för företagen.
+          </p>
+          <p>
+            När det gäller förslaget om en gränsöverskridande infrastrukturförvaltare
+            är utskottet mer tveksamt. De problem som kvarstår när det gäller
+            dessa frågor borde kunna lösas genom ett mellanstatligt samarbete.
+          </p>
+          <p>
+            I detta sammanhang vill utskottet ta upp frågan om cabotage,
+            såväl till lands som till sjöss. Att tillåta cabotage medför miljöfördelar
+            i form av ett minskat antal tomma lastbilar. Vidare kan det innebära
+            en sänkt kostnadsnivå för transporterna. Ett säkerställande av
+            kvalitets-, miljö- och säkerhetskraven och av likartade konkurrensvillkor
+            förutsätter emellertid ett tydligt regelsystem och en enhetlig
+            tillämpning.
+          </p>
+          <p>
+            Utskottet instämmer med kommissionen i att lagstiftningen ska
+            vara utformad så att konkurrens på lika villkor garanteras samtidigt
+            som det inte görs avkall när det gäller säkerhet, miljöskydd och
+            hälsa.
+          </p>
+          <p xml:id="IDATIORD" rend="rubrik3">
+            Åtgärd utbildning, information och engagemang
+          </p>
+          <p xml:id="IDAWIORD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            För att påverka konsumentbeteendet och underlätta val för hållbar
+            rörlighet anger kommissionen utbildning, information och kampanjer
+            som verktyg.
+          </p>
+          <p xml:id="IDA2IORD" rend="r4">
+            Utskottet
+          </p>
+          <p>
+            Utskottet anser att öppenhet i processerna är en förutsättning
+            för acceptans hos allmänheten och övriga intressenter när det
+            gäller transportpolitiska beslut. Öppenhet och dialog är också
+            ett arbetssätt som ska prägla planeringsarbetet i Sverige och
+            som har uppfattats som positivt av de berörda.
+          </p>
+          <p>
+            Utbildning, information och kampanjer kan ingå i en sådan strategi,
+            men man bör inte ha alltför stora förväntningar om ändrat beteende
+            från allmänheten enbart till följd av sådana insatser.
+          </p>
+          <p xml:id="IDAFJORD" rend="rubrik3">
+            Styrning effektiva och samordnade åtgärder
+          </p>
+          <p xml:id="IDAIJORD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            Transportsektorn kan utvecklas endast om beslutsfattarna är i
+            stånd att tillhandahålla en rimlig planering, nödvändig finansiering
+            och ett för marknadsaktörerna anpassat regelverk.
+          </p>
+          <p>
+            Kommissionen pekar ut två områden där fördelarna med effektiva
+            samordningsåtgärder utöver vad som är vanligt på EU-nivå är värda
+            att nämna, nämligen dels standarder och driftskompatibilitet,
+            dels problemen i städerna.
+          </p>
+          <p xml:id="IDARJORD" rend="r4">
+            Utskottet
+          </p>
+          <p>
+            Såvitt gäller den förstnämnda frågan kan utskottet för sin del
+            se fördelar med en samordning på EU-nivå vid utarbetande av standarder
+            och driftskompatibilitet. Hithörande frågor har utskottet kommenterat
+            i samband med sitt utlåtande över vitboken Moderniserad IKT-standardisering
+            i EU Vägen framåt (KOM(2009) 324). Utskottet framhåller standardiseringens
+            betydelse, inte minst inom informations- och kommunikationsteknikens
+            område (IKT), och är positivt till kommissionens initiativ att
+            se över och modernisera den europeiska IKT-standardiseringen.
+            Utskottet underströk behovet av att understödja en fortsatt positiv
+            utveckling för informationssamhället. Liksom kommissionen ansåg
+            utskottet det angeläget att bl.a. principerna om öppenhet, konsensus,
+            balans och insyn tillämpas i standardiseringsprocessen. Vidare
+            sade sig utskottet dela kommissionens åsikt om behovet av att
+            inom EU kunna ta vara på och bygga vidare på det standardiseringsarbete
+            som i dag bedrivs på annat håll än inom de europeiska standardiseringsorganen,
+            förutsatt att bl.a. nämnda principer följs i standardiseringsprocessen.
+          </p>
+          <p>
+            Vad härefter gäller problemen i städerna som ett område för samordningsåtgärder
+            vill utskottet hänvisa till sitt utlåtande 2007/08:TU5 över grönboken
+            Mot en ny kultur för rörlighet i städer (KOM(2007) 551).
+          </p>
+          <p>
+            Utskottet välkomnade kommissionens grönbok om vad som kan göras
+            åt trafikutvecklingen i Europas städer. För omställningen av stadstrafiken
+            till ett klimatmässigt hållbart transportsystem krävs en rad strategiska
+            insatser som förutsätter en bred samsyn. Utskottet såg dock inte
+            det som ändamålsenligt som en konsekvens av subsidiaritetsprincipen
+            och svensk transportpolitik att EU engagerar sig i olika genomförandefrågor
+            för hur stadstrafiken bör utformas i Europas städer. Sådana åtgärder
+            hanteras mer lämpligt inom medlemsstaterna med hänsyn till gällande
+            ansvarsförhållanden och vikten av att trafikbeslut fattas i så
+            decentraliserade former som möjligt.
+          </p>
+          <p>
+            Enligt utskottets mening bör EU i stället söka främja transportfrågor
+            som har en mer tydlig gemenskapsdimension och därigenom vinna
+            ökad effektivitet, slagkraft och legitimitet. Som exempel på frågor
+            där ett vidgat europeiskt samarbete kan spela en viktig roll nämnde
+            utskottet utveckling av mål och mötesplatser för kunskapsutbyte,
+            insatser när det gäller forskning och utveckling samt spridning
+            av kunskap och metodutveckling när det gäller samhällsplaneringens
+            betydelse för ett effektivt trafiksystem där kollektivtrafik ingår
+            som en integrerad del. Gemenskapens insatser kan därmed i stället
+            för styrande bli stödjande och främja en ändamålsenlig uppgiftsfördelning
+            mellan EU och dess medlemsstater, menade utskottet. För sin del
+            var utskottet berett att på parlamentarisk nivå aktivt främja
+            ett sådant kunskapsutbyte.
+          </p>
+          <p xml:id="IDAAKORD" rend="rubrik3">
+            Den externa dimensionen nödvändigheten av att EU agerar samstämmigt
+          </p>
+          <p xml:id="IDADKORD" rend="r4">
+            Kommissionen
+          </p>
+          <p>
+            Kommissionen konstaterar att transportsektorn alltmer blir internationell
+            och hävdar att detta innebär att den gemensamma transportpolitiken
+            måste vara internationellt inriktad för att man ska kunna fortsätta
+            processen med integrering med grannländerna och lyfta fram Europas
+            ekonomiska intressen och miljöintressen globalt.
+          </p>
+          <p>
+            Utvecklingen av det regionala huvudtransportnätet i sydöstra
+            Europa är av stor betydelse för stabiliteten och det ekonomiska
+            välståndet där. EU:s transportförbindelser med de östliga grannländerna
+            omfattar även planer på utvidgning av TEN-T-nätet.
+          </p>
+          <p>
+            Vidare anförs att EU redan i dag globalt sett är en viktig normgivare.
+            Särskilt viktig anges EU:s roll vara när det gäller sjö- och luftfart;
+            för att kunna bevara sin framträdande roll på dessa områden under
+            de kommande fyrtio åren måste EU agera samstämmigt i de sammanhang
+            då regeringar, företagsledare och lagstiftare samlas på det internationella
+            planet.
+          </p>
+          <p xml:id="IDAPKORD" rend="r4">
+            Utskottet
+          </p>
+          <p xml:id="IDASKORD" rend="r5">
+            TEN-T-nätet
+          </p>
+          <p>
+            Utskottet vill för sin del framhålla att TEN-T bör utgöra ett
+            trafikslagsövergripande transportnät för att förbättra förutsättningarna
+            för effektivare samverkan mellan trafikslagen. Vidare ansluter
+            sig utskottet till kommissionens inställning att de europeiska
+            transportnätverken bör utvecklas till transportkorridorer som
+            på ett effektivt sätt kan knyta såväl länderna inom EU som EU-länderna
+            och deras grannländer närmare varandra.
+          </p>
+          <p>
+            Utskottet har berört hithörande frågor i sitt utlåtande (2008/09:TU10)
+            över kommissionens grönbok Transeuropeiska transportnät (TEN-T):
+            En översyn av strategin (KOM(2009) 44). I utlåtandet betonade
+            utskottet att transportsystemet måste bli mer miljövänligt. Medel
+            måste satsas på klimatsmarta lösningar, anförde utskottet. Särskilt
+            betonade utskottet behovet av insatser även för att klimatsäkra
+            infrastrukturen inför kommande klimatförändringar. Vad gäller
+            nya infrastrukturprojekt framhöll utskottet det angelägna i att
+            redan i planeringsfasen ta hänsyn till de problem som kan förväntas
+            uppstå på grund av de befarade klimatförändringarna.
+          </p>
+          <p>
+            Bland de möjliga lösningar för den fortsatta utvecklingen av
+            TEN-T som kommissionen identifierat ställde sig utskottet bakom
+            det alternativ där strukturen består av dels ett övergripande
+            nät, dels ett stomnät med bl.a. ett geografiskt definierat prioriterat
+            nät. Enligt utskottets mening bidrar ett sådant sammankopplat
+            nätverk till att skapa ett sammanhängande transportsystem där
+            viktiga hamnar, vägar, järnvägar, sjöfartsleder och flygplatser
+            kan bindas samman till ett sammanhållet, effektivt och hållbart
+            internationellt transportnät. I sitt utlåtande bekräftade utskottet
+            vidare vikten av att bland de prioriterade initiativen inom TEN-T
+            även fortsättningsvis inbegripa
+            <seg rend="grad2">
+              såväl den nordiska triangeln, som med järnvägar och vägar sammanbinder
+              Stockholm, Köpenhamn, Oslo och Helsingfors, som
+            </seg>
+            sjömotorvägarna, som syftar till att effektivisera transportsystemen
+            inom EU genom utveckling av bl.a. hamninfrastruktur och infrastruktur
+            i anslutning till hamnar från både land- och sjösidan. Utskottet
+            framhöll vidare behovet av att också prioritera transportkorridoren
+            norra axeln, som länkar samman de nordliga delarna av Sverige,
+            Norge, Finland och Ryssland, och den bottniska korridoren, dvs.
+            den nordsydliga transportkorridoren som förbinder Barentsområdet
+            i norra Sverige och Finland med ländernas södra delar och därifrån
+            vidare ut i Europa.
+          </p>
+          <p>
+            I dagarna har riksdagen mottagit en skrivelse från kommissionen
+            med anledning av utlåtandet över grönboken om TEN-T. Kommissionen
+            anför att klimatmålen bör bli centrala för den framtida TEN-T-politiken
+            och att en genuint EU-inriktad strategi bör utarbetas.
+          </p>
+          <p xml:id="IDAJLORD" rend="r5">
+            Samstämmigt agerande från EU:s sida
+          </p>
+          <p>
+            När det gäller kommissionens tankar om ett samstämmigt agerande
+            från EU:s sida i internationella sammanhang anser utskottet att
+            ett samordnat agerande kan och bör ske utan att medlemsländerna
+            överlåter åt kommissionen att ensam företräda länderna, t.ex.
+            i IMO eller ICAO. Utskottet menar att en sådan ordning skulle
+            strida mot subsidiaritetsprincipen.
+          </p>
+          <p>
+            Ett tydligare europeiskt ledarskap i transportfrågorna är i sig
+            avgörande för att åstadkomma nödvändiga beslut och genomföra beslutade
+            åtgärder. Detta behöver inte åstadkommas genom kommissionen utan
+            snarare genom en tätare europeisk samverkan på transportområdet.
+            Det är angeläget att detta arbete syftar till att säkerställa
+            konkurrens på lika villkor och att bättre utnyttja kapaciteten
+            inom de olika transportslagen.
+          </p>
+          <p xml:id="IDASLORD" rend="rubrik2">
+            Sammanfattande ställningstagande
+          </p>
+          <p>
+            Sammanfattningsvis välkomnar utskottet att kommissionen genom
+            meddelandet har berett olika intressenter möjlighet att på ett
+            tidigt stadium i processen lämna synpunkter på de tankar och förslag
+            som presenteras. I allt väsentligt instämmer utskottet också i
+            kommissionens bedömningar.
+          </p>
+          <p>
+            I utlåtandet lägger utskottet stor vikt vid miljö- och klimatrelaterade
+            frågor. Bland annat ser utskottet ett behov av att transportinfrastrukturen,
+            såväl den befintliga som den kommande, ska vara klimatsäkrad inför
+            förväntade risker till följd av klimatförändringarna.
+          </p>
+          <p>
+            I detta sammanhang vill utskottet dock särskilt understryka vikten
+            av att de olika förutsättningar som råder i EU:s medlemsländer
+            beaktas i en gemensam hållbar transportpolitik. För svensk del
+            innebär långa avstånd, gles bebyggelse och kallt klimat med snö-
+            och isbelagd infrastruktur vintertid i flera regioner särskilda
+            åtgärder och kostnader.
+          </p>
+          <p>
+            Utskottet menar också att Sverige på en rad områden har genomfört
+            eller inlett projekt och satsningar som torde kunna tjäna som
+            goda exempel i det fortsatta arbetet med en hållbar transportpolitik
+            för EU.
+          </p>
+          <p xml:id="IDACMORD" rend="AvsnittsRubrik">
+            Reservation
+          </p>
+          <table>
+            <row>
+              <cell xml:id="IDAGMORD">
+                <p rend="reservation">
+                  Meddelande om Hållbara framtida transporter Ett integrerat, teknikstyrt
+                  och användarvänligt transportsystem motiveringen (s, v, mp)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="reservanter">
+                  av Lena Hallengren (s), Christina Axelsson (s), Hans Stenberg
+                  (s), Claes-Göran Brandin (s), Marie Nordén (s), Peter Pedersen
+                  (v), Pia Nilsson (s) och Karin Svensson Smith (mp).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p xml:id="IDAHNORD" rend="r4">
+            Ställningstagande
+          </p>
+          <p>
+            Vi är i stora delar överens med majoriteten i utskottet när det
+            gäller synpunkterna på kommissionens meddelande Hållbara framtida
+            transporter Ett integrerat, teknikstyrt och användarvänligt transportsystem.
+            I två avseenden vill vi dock framföra avvikande uppfattning enligt
+            följande.
+          </p>
+          <p xml:id="IDANNORD" rend="r3">
+            Skydd och utveckling av humankapitalet
+          </p>
+          <p>
+            Vi ser positivt på att frågan om arbetsmiljö och arbetsvillkor
+            behandlas i meddelandet; detta område är en viktig förutsättning
+            för att transportsystemet ska kunna vara såväl effektivt som säkert.
+            Det är givetvis också av stor vikt att frågan om de sociala villkoren
+            för de transportanställda ges en central roll i en gemenskapsbaserad
+            transportpolitik. Det är helt oacceptabelt att företag i de olika
+            medlemsstaterna ska kunna konkurrera med låga löner och dåliga
+            arbetsvillkor i övrigt. I ett eventuellt fortsatt liberaliseringsarbete
+            måste särskilt de transportanställdas situation beaktas, så att
+            alla möjligheter till social dumpning elimineras. I sammanhanget
+            bör man också uppmärksamma vikten av en effektiv kontroll i medlemsstaterna
+            så att det kan säkerställas att alla gällande bestämmelser efterlevs.
+          </p>
+          <p xml:id="IDATNORD" rend="r3">
+            Planering av transporter förbättrad tillgänglighet
+          </p>
+          <p>
+            Trafik är inget självändamål. Trafiken måste således organiseras
+            så att den fyller medborgarnas och näringslivets behov, samtidigt
+            som detta underordnas samhällsmålen om klimatanpassning, trafiksäkerhet
+            m.m.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200001_SkU_0001">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen godkände regeringens förslag om anslag till skatteförvaltningen och Tullverket med sammanlagt 6 207 miljoner kronor. Riksdagen godkänna även regeringens förslag till målformulering för det nyinrättade politikområdet Skatt, tull och exekution.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Anslag till skatteförvaltningen och Tullverket (SkU1)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen (delvis). Avslag på motionerna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Bifall till utskottets hemställan</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GO090</idno>
+              <title>2000-11-30</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">0</biblScope>
+              <note type="display-reference">2000-11-30</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GO090</idno>
+              <title>2000-11-30</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">0</biblScope>
+              <note type="display-reference">2000-11-30</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GO031</idno>
+              <title>Budgetpropositionen för 2001</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">1</biblScope>
+              <note type="display-reference">proposition 2000/01:1 Budgetpropositionen för 2001</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Fi211</idno>
+              <title>Ekonomisk politik</title>
+              <title type="sub">av Lars Leijonborg m.fl. (fp)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Fi211</biblScope>
+              <note type="display-reference">motion 2000/01:Fi211 Ekonomisk politik</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Sk313</idno>
+              <title>Vissa skattefrågor</title>
+              <title type="sub">av Carl Fredrik Graf m.fl. (m)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Sk313</biblScope>
+              <note type="display-reference">motion 2000/01:Sk313 Vissa skattefrågor</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Sk820</idno>
+              <title>Skatteförvaltning och uppbörd</title>
+              <title type="sub">av Kenneth Lantz m.fl. (kd)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Sk820</biblScope>
+              <note type="display-reference">motion 2000/01:Sk820 Skatteförvaltning och uppbörd</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Sk821</idno>
+              <title>Skatteförvaltning och uppbörd</title>
+              <title type="sub">av Rolf Kenneryd m.fl. (c)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Sk821</biblScope>
+              <note type="display-reference">motion 2000/01:Sk821 Skatteförvaltning och uppbörd</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Sk826</idno>
+              <title>Skatteförvaltningen och tullen</title>
+              <title type="sub">av Johan Pehrson och Karin Pilsäter (fp)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Sk826</biblScope>
+              <note type="display-reference">motion 2000/01:Sk826 Skatteförvaltningen och tullen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02So547</idno>
+              <title>Satsning mot det växande missbruket bland unga</title>
+              <title type="sub">av Lars Leijonborg m.fl. (fp)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">So547</biblScope>
+              <note type="display-reference">motion 2000/01:So547 Satsning mot det växande missbruket bland unga</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2000-11-20">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2000-11-14">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2000-11-14">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2000-11-14">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2000-11-07">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2000-11-30">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2000-11-30">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2000-11-30">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2000-11-28">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2000-11-28">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Skatteutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2000/01:SKU01
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Anslagen till Skatteförvaltningen och Tullverket, m.m.
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <div type="section" subtype="h2">
+            <head>
+              Innehåll
+            </head>
+            <list type="unordered">
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bsam">
+                    Sammanfattning
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bprop">
+                    Propositionen
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bmot">
+                    Motionerna
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#btext">
+                    Utskottet
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bhemst">
+                    Hemställan
+                  </ref>
+                </p>
+              </item>
+            </list>
+            <p>
+              2000/01
+            </p>
+            <p>
+              SkU1
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bsam">
+              Sammanfattning
+            </head>
+            <p>
+              I betänkandet tillstyrker utskottet regeringens förslag i budgetpropositionen
+              till anslag budgetåret 2001 för skatteförvaltningen och Tullverket.
+              Motioner från Moderata samlingspartiet, Kristdemokraterna och
+              Folkpartiet liberalerna om höjda anslag avstyrks. Utskottet avstyrker
+              också en motion från Centerpartiet om omfördelning av medel från
+              Riksskatteverket till tullen. Partierna har avgivit särskilda
+              yttranden beträffande anslagen.
+            </p>
+            <p>
+              Utskottet tillstyrker slutligen regeringens förslag till målformulering
+              för det nyinrättade politikområdet Skatt, tull och exekution.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bprop">
+              Propositionen
+            </head>
+            <p>
+              Regeringen (Finansdepartementet) föreslår i proposition 2000/01:1
+              utgiftsområde 3 Skatteförvaltning och uppbörd
+            </p>
+            <p>
+              1. att riksdagen godkänner målen inom politikområdet Skatt, tull
+              och exekution i enlighet med vad regeringen förordar under avsnitt
+              3.3,
+            </p>
+            <p>
+              2. att riksdagen för budgetåret 2001 anvisar anslagen under utgiftsområde
+              3 Skatteförvaltning och uppbörd enligt nedanstående uppställning:
+            </p>
+            <p>
+              ----------------------------------------------- -----------------------------------------------
+              ----------------------------------------------- Anslag Anslagsbelopp
+            </p>
+            <p>
+              Tusental kronor -----------------------------------------------
+            </p>
+            <p>
+              ----------------------------------------------- Skatteförvaltning
+              och uppbörd ------------------------------------------------------
+              3:1 Riksskatteverket 442 682 (ramanslag) ------------------------------------------------------
+              3:2 Skattemyndigheterna 4 593 878 (ramanslag) ------------------------------------------------------
+              3:3 Tullverket (ramanslag) 1 170 388 ------------------------------------------------------
+            </p>
+            <p>
+              ------------------------------------------------------ Summa
+              för utgiftsområdet 6 206 948 ------------------------------------------------------
+            </p>
+            <p>
+              ------------------------------------------------------
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bmot">
+              Motionerna
+            </head>
+            <p>
+              2000/01:Fi211 av Lars Leijonborg m.fl. (fp) vari föreslås att
+              riksdagen fattar följande beslut:
+            </p>
+            <p>
+              11. Riksdagen anvisar för budgetåret 2001 anslagen under utgiftsområde
+              3 Skatteförvaltning och uppbörd enligt följande uppställning (i
+              tkr): 3:2 Skattemyndigheterna: Regeringens förslag 4 593 878 000;
+              Anslagsförändring + 50 000 000; 3:3 Tullverket: Regeringens förslag
+              1 170 388 000; Anslags- förändring + 25 000 000; Summa för utgiftsområdet:
+              Regeringens förslag 6 206 948 000; Anslagsförändring + 75 000
+              000.
+            </p>
+            <p>
+              2000/01:Sk313 av Carl Fredrik Graf m.fl. (m) vari föreslås att
+              riksdagen fattar följande beslut:
+            </p>
+            <p>
+              46. Riksdagen anvisar i enlighet med vad i motionen anförs till
+              utgiftsom- råde 3 politikområde 3:3 Tullverket för år 2001 1 220
+              388 000 kr.
+            </p>
+            <p>
+              2000/01:Sk820 av Kenneth Lantz m.fl. (kd) vari föreslås att riksdagen
+              fattar följande beslut:
+            </p>
+            <p>
+              1. Riksdagen tillkännager för regeringen som sin mening vad i
+              motionen anförs om ökade resurser till skatteförvaltningen.
+            </p>
+            <p>
+              2. Riksdagen tillkännager för regeringen som sin mening vad i
+              motionen anförs om samverkan när det gäller gränskontrollen.
+            </p>
+            <p>
+              3. Riksdagen tillkännager för regeringen som sin mening vad i
+              motionen anförs om gränskontrollen i övrigt.
+            </p>
+            <p>
+              4. Riksdagen tillkännager för regeringen som sin mening vad i
+              motionen anförs om förbättrad kontroll vid våra internationella
+              flygplatser.
+            </p>
+            <p>
+              5. Riksdagen tillkännager för regeringen som sin mening vad i
+              motionen anförs om ökade resurser till tullen.
+            </p>
+            <p>
+              6. Riksdagen anvisar med följande ändringar i förhållande till
+              regeringens förslag anslagen under utgiftsområde 3 Skatteförvaltning
+              enligt följande uppställning (i tkr): 3:2 Skattemyndigheterna:
+              Regeringens förslag 4 593 878 000; Anslagsförändring + 70 000
+              000; 3:3 Tullverket: Regeringens förslag 1 170 388 000; Anslagsförändring
+              + 50 000 000; Summa för utgiftsområdet: Regeringens förslag 6
+              206 948 000; Anslagsförändring + 120 000 000.
+            </p>
+            <p>
+              2000/01:Sk821 av Rolf Kenneryd m.fl. (c) vari föreslås att riksdagen
+              fattar följande beslut:
+            </p>
+            <p>
+              Riksdagen anvisar med följande ändringar i förhållande till regeringens
+              förslag anslagen under utgiftsområde 3 Skatteförvaltning och uppbörd
+              enligt uppställning: 3:1 Riksskatteverket: Regeringens förslag
+              442 682; Anslags- förändring - 20 000; 3:3 Tullverket: Regeringens
+              förslag 1 170 388; Anslags- förändring + 20 000; Summa för utgiftsområdet:
+              Regeringens förslag 6 206 948; Anslagsförändring 0.
+            </p>
+            <p>
+              2000/01:Sk826 av Johan Pehrson och Karin Pilsäter (fp) vari föreslås
+              att riksdagen fattar följande beslut:
+            </p>
+            <p>
+              2. Riksdagen tillkännager för regeringen som sin mening vad i
+              motionen anförs om tullförvaltningen.
+            </p>
+            <p>
+              2000/01:So547 av Lars Leijonborg m.fl. (fp) vari föreslås att
+              riksdagen fattar följande beslut:
+            </p>
+            <p>
+              4. Riksdagen tillkännager för regeringen som sin mening vad i
+              motionen anförs om ökade resurser till tullen för att motverka
+              smuggling.
+            </p>
+            <p>
+              Yttrande från annat utskott
+            </p>
+            <p>
+              Yttrande över proposition 2000/01:1 utgiftsområde 3 Skatteförvaltning
+              och uppbörd, såvitt gäller målen inom politikområdet Skatt, tull
+              och exekution har avlämnats av justitieutskottet (yttrande 2000/01:JuU2y).
+              Yttrandet har fogats som bilaga 2 till detta betänkande.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="btext">
+              Utskottet
+            </head>
+            <p>
+              1. Målen för politikområdet Skatt, tull och exekution
+            </p>
+            <p>
+              Propositionen
+            </p>
+            <p>
+              Regeringen föreslår att riksdagen godkänner målen inom politikområdet
+              Skatt, tull och exekution (avsnitt 3.3). Målet för politikområdet
+              skall vara att eftersträvade skatte-, tull- och avgiftsintäkter
+              skall säkerställas på ett rättssäkert och ekonomiskt effektivt
+              sätt, samtidigt som enkelhet skall eftersträvas och brottslighet
+              motarbetas. Målet skall ersätta det tidigare gemensamma målet
+              för utgiftsområde 3. I propositionen anges vidare vilka verksamhetsmål
+              som skall gälla för skatteförvaltningen, Tullverket och exekutionsväsendet
+              för att det gemensamma målet skall uppnås. För skatteförvaltningens
+              och Tullverkets del skall sedan tidigare uppställda mål gälla
+              även fortsättningsvis. För kronofogdemyndigheternas del anges
+              att exekutionsväsendet skall upprätthålla rättstrygghet och rättssäkerhet
+              vad gäller betalningsförpliktelser och andra förpliktelser som
+              kan verkställas av kronofogdemyndigheterna.
+            </p>
+            <p>
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Indelning i politikområden är ett led i det pågående arbetet
+              med att utveckla den ekonomiska styrningen av den statliga verksamheten.
+              Arbetet syftar till att riksdag och regering skall få ett bättre
+              underlag för prioriteringsdiskussioner och för att lättare kunna
+              bedöma värdet av insatta resurser. Politikområdena skall avgränsa
+              den statliga verksamheten i politiskt relevanta sakområden, dvs.
+              områden som är lämpliga för inbördes avvägningar och prioriteringar.
+              De mål som formuleras för politikområdet skall återspegla vad
+              statsmakterna vill uppnå inom politikområdet, dvs. vad verksamheten
+              i stort syftar till. Politikområdet Skatt, tull och exekution
+              består av tre verksamheter som i flera avseenden är helt olika
+              men där den gemensamma kärnverksamheten berör skatter, tullar
+              och avgifter. Regeringens förslag till mål på politikområdesnivå
+              har utformats så att det täcker skatteförvaltningens, Tullverkets
+              och kronofogdemyndigheternas gemensamma verksamhet medan andra
+              viktiga delar av myndigheternas övriga verksamheter, bl.a. kronofogdemyndigheternas
+              verksamhet med enskilda anspråk, lämnats utanför. Det övergripande
+              målet kompletteras dock av mål på verksamhetsnivå av mer heltäckande
+              natur.
+            </p>
+            <p>
+              Utskottet anser inte att styrningen eller återrapporteringen
+              inom politik- området blir bättre eller resulterar i ett bättre
+              beslutsunderlag om målet för politikområdet formuleras så att
+              det omfattar ännu större delar av skatteförvaltningens, Tullverkets
+              och kronofogdemyndigheternas verksamheter. Det gemensamma målet
+              för politikområdet skall främst underlätta avvägningar och prioriteringar
+              inom de gemensamma verksamhetsgrenarna och med den utgångspunkten
+              anser utskottet att riksdagen kan godkänna regeringens förslag
+              till målformulering för politikområdet. Om det visar sig att det
+              föreslagna målet inte är ändamålsenligt bör regeringen återkomma
+              till riksdagen i frågan.
+            </p>
+            <p>
+              2. Anslag inom utgiftsområde 3 Skatteförvaltning och uppbörd
+            </p>
+            <p>
+              Propositionen
+            </p>
+            <p>
+              Regeringen föreslår att Riksskatteverket, skattemyndigheterna
+              och Tullverket för budgetåret 2001 beviljas var sitt ramanslag,
+              det till Riksskatteverket på 442 682 000 kr, det till skattemyndigheterna
+              på 4 593 878 000 kr och det till Tullverket på 1 170 388 000 kr.
+            </p>
+            <p>
+              Gemensamma prioriteringar för myndigheterna är bl.a. strävan
+              efter en modern, effektiv och ändamålsenlig förvaltning, bl.a.
+              genom kontinuerlig IT- , metod- och kompetensutveckling. Myndigheterna
+              skall också sträva efter ökad service och förenklingar för företag
+              och allmänhet.
+            </p>
+            <p>
+              Skatteförvaltningen skall bl.a. prioritera förstärkt skattekontroll
+              och insatser mot s.k. svart arbete. Skatteförvaltningen tillförs
+              i enlighet med vad som aviserades i 2000 års ekonomiska vårproposition
+              ett varaktigt resurstillskott om 125 miljoner kronor för att upprätthålla
+              kontrollintensiteten på önskvärd nivå. Regeringen avser att noga
+              följa utvecklingen och resultatet av resurstillskottet. Med anledning
+              av att bouppteckningsverksamheten förs över till skatteförvaltningen
+              från utgiftsområde 4 Rättsväsendet, tillförs skatteförvaltningen
+              33 miljoner kronor för 2001. Regeringen avser att återkomma med
+              förslag till en slutlig beräkning för året och beräkningen av
+              de totala kostnaderna för reformen.
+            </p>
+            <p>
+              Vid beräkning av anslaget till RSV har hänsyn tagits till att
+              det särskilda skattekontoret i Ludvika organisatoriskt inordnats
+              i RSV. Drygt 31 miljoner kronor har överförts till anslaget från
+              anslaget till skattemyndigheterna. Vidare har hänsyn tagits till
+              att Sveriges bidrag till Nordiska skatteveten- skapliga forskningsrådet
+              skall betalas över RSV:s anslag. 400 miljoner kronor har överförts
+              från utgiftsområde 2 Samhällsekonomi och finansför- valtning.
+            </p>
+            <p>
+              När det gäller Tullverket lägger regeringen stor vikt vid utvecklings-
+              och effektiviseringsarbetet inom verksamheten. Inom gränskontrollen
+              skall bl.a. insatser mot narkotika samt illegal storskalig införsel
+              av alkohol och tobak prioriteras. Tullverket tillförs i budgeten,
+              vilket aviserats i årets vårproposition, ett varaktigt resurstillskott
+              på 10 miljoner kronor fr.o.m. 2001 till följd av merkostnader
+              i samband med Öresundsbrons öppnande. Tullen har vidare kompenserats
+              med 10 miljoner kronor med anledning av en engångsneddragning
+              år 2000. På tilläggsbudget i årets vårproposition har tullen slutligen
+              fr.o.m. den 1 juli 2000 bemyndigats att uppbära vissa av de avgifter
+              som tas ut i verkets verksamhet. Detta tillskott beräknades uppgå
+              till 25 miljoner kronor. I det internationella politiska och administrativa
+              samarbetet prioriteras Sveriges ordförandeskap i EU, insatser
+              för regel- och procedurförenklingar, Schengenanpassning samt ett
+              effektivare samarbete och informationsutbyte mellan Sverige och
+              olika medlemsstaters förvaltningar.
+            </p>
+            <p>
+              Motionerna
+            </p>
+            <p>
+              I motionerna Fi211 yrkande 11 och So547 yrkande 4 av Lars Leijonborg
+              m.fl. (fp) samt Sk826 yrkande 2 av Johan Pehrson och Karin Pilsäter
+              (fp) begärs dels tillkännagivanden om behovet av ökade resurser
+              till tullen, dels att riksdagen skall besluta att tillföra skattemyndigheterna
+              50 miljoner kronor och Tullverket 25 miljoner kronor mer än vad
+              regeringen föreslagit. Medlen skall användas till åtgärder som
+              ökar skatteintäkterna och bl.a. till insatser mot smugglingen
+              av alkohol och narkotika.
+            </p>
+            <p>
+              I motion Sk313 yrkande 46 av Carl Fredrik Graf m.fl. (m) yrkas
+              att Tullverket tillförs 50 miljoner kronor mer än regeringen föreslagit
+              för att öka kontrollinsatserna och förhindra smuggling av alkohol,
+              narkotika och tobaksprodukter. Resurstillskottet beräknas, enligt
+              motionärerna, öka intäkterna till staten med minst motsvarande
+              belopp.
+            </p>
+            <p>
+              I motion Sk820 av Kenneth Lantz m.fl. (kd) föreslås dels tillkännagivanden
+              om behovet av ökade resurser till skatteförvaltning och tull och
+              om gräns- kontrollen och kontrollen vid de svenska internationella
+              flygplatserna, yrkandena 1-5, dels att riksdagen beslutar om utökade
+              anslag till skatte- myndigheterna och Tullverket. Motionärerna
+              föreslår att skattemyndigheterna tillförs 70 miljoner kronor och
+              Tullverket 50 miljoner kronor mer än regeringen föreslagit (yrkande
+              6).
+            </p>
+            <p>
+              I motion Sk821 av Rolf Kenneryd m.fl. (c) anförs att Schengensamarbetet
+              och den nya Öresundsbron gör att kraven på Tullverket ökat. Motionärerna
+              föreslår en omfördelning av medel så att tullen tillförs ytterligare
+              20 miljoner kronor utöver vad som föreslås i propositionen. Enligt
+              motionen skall anslaget till Riksskatteverket minskas i motsvarande
+              mån.
+            </p>
+            <p>
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Regeringens förslag till anslag budgetåret 2001 under utgiftsområde
+              3 och oppositionspartiernas alternativa förslag framgår av följande
+              tabell (tusental kronor).
+            </p>
+            <p>
+              ---------------------------------------------------- | ----------------------------------------------------
+              | | | | | | | | |Proposi-|Moderata|Kristde-|Center-| Folk- | |
+              |tionen |samlings-|mokra-|partiet| partiet | | | |partiet |terna
+              | | | | År 2001 | | | | | | ----------------------------------------------------
+              | 3:1 RSV | | | | | | | | 442 | | |- 20 | | | |682 | | |000 |
+              | ---------------------------------------------------- | 3:2 |
+              | | | | | |Skattemyn- |4 593 | |+ 70 | |+ 50| | |878 | |000 |
+              |000 | | | | | | | | | | | | | | | |digheterna | | | | | | ----------------------------------------------------
+              | 3:3 | | | | | | |Tullverket |1 170 |+ 50 |+ 50 |+ 20 |+ 25|
+              | |388 |000 |000 |000 |000 | ----------------------------------------------------
+              Utskottet tillstyrkte i sitt nyligen avgivna yttrande (2000/01:SkU1y)
+              till Finansutskottet regeringens förslag till anslagsram för år
+              2001 för utgiftsområdet. Ställningstagandet innebar att utskottet
+              ansåg att förslagen från Moderata samlingspartiet, Kristdemokraterna
+              och Folkpartiet om ytterligare resursförstärkningar inte var motiverade
+              och att myndigheterna bedömdes kunna lösa sina uppgifter inom
+              ramen för de medel regeringen föreslagit. Utskottet konstaterade
+              bl.a. att uppgiften att bekämpa smuggling, skattefusk och annan
+              ekonomisk brottslighet på ett effektivt och kraftfullt sätt sedan
+              länge är högt prioriterad hos tullen och skatteförvaltningen.
+              Utskottet pekade särskilt på att skatteförvaltningen i årets budget
+              fr.o.m. 2001 tillförs ett varaktigt resurstillskott på 125 miljoner
+              kronor som skall användas bl.a. för att höja kontrollnivån i riktning
+              mot 1997 år nivå. Även tullen tillförs ytterligare resurser, bl.a.
+              ett varaktigt resurstillskott för att möta merkostnader i samband
+              med den nya Öresundsförbindelsen. Utskottet ansåg att resursförstärkningarna
+              skulle öka effektiviteten i myndigheternas arbete med att bekämpa
+              och förebygga sådan brottslighet som motionärerna nämner.
+            </p>
+            <p>
+              Till detta kan tilläggas att utskottet nyligen (prop. 1999/2000:122,
+              bet. 2000/01:SkU2) tillstyrkt att riksdagen dels godkänner den
+              s.k. tullsamarbetskonventionen och vissa förklaringar i anslutning
+              därtill, dels antar en lag om internationellt tullsamarbete. Härigenom
+              ökar tullens möjligheter att ytterligare skärpa kampen mot den
+              organiserade och grova gränsöverskridande brottsligheten. Även
+              genom förslaget till ny smugglingslag (prop. 1999/2000:124, bet.
+              2000/01:JuU2) som justitieutskottet nyligen tillstyrkt markeras
+              en skärpt hållning till den gränsöverskridande brottsligheten.
+              Utskottet bedömer att dessa åtgärder sammantaget ökar tullens
+              möjligheter att ingripa t.ex. mot smuggling av narkotika, sprit
+              och cigaretter.
+            </p>
+            <p>
+              Utskottet tillstyrker med det anförda regeringens förslag till
+              anslag 2001 för RSV, skattemyndigheterna och Tullverket och avstyrker
+              motionärernas förslag till ökade anslag. När det gäller motion
+              Sk821 anser utskottet att en omfördelning av medel i enlighet
+              med motionen inte behövs eftersom rege- ringens förslag beaktat
+              tullens behov av resurser för Schengensamarbetet och den nya Öresundsbron.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bhemst">
+              Hemställan
+            </head>
+            <p>
+              Utskottet hemställer
+            </p>
+            <p>
+              1. beträffande målen för politikområdet Skatt, tull och exekution
+            </p>
+            <p>
+              att riksdagen med bifall till proposition 2000/01:1 utgiftsområde
+              3 punkt 1 godkänner vad regeringen anfört i denna del,
+            </p>
+            <p>
+              2. beträffande anslag inom utgiftsområde 3 Skatteförvaltning
+              och uppbörd
+            </p>
+            <p>
+              att riksdagen med bifall till proposition 2000/01:1 utgiftsområde
+              3 punkt 2 samt med avslag på motionerna 2000/01:Fi211 yrkande
+              11, 2000/01:So547 yrkande 4, 2000/01:Sk826 yrkande 2, 2000/01:Sk313
+              yrkande 46, 2000/01:Sk820 yrkandena 1-6 och 2000/01:Sk821 anvisar
+              anslag under utgiftsområde 3 Skatteförvaltning och uppbörd enligt
+              bilaga 1.
+            </p>
+            <p>
+              Stockholm den 14 november 2000
+            </p>
+            <p>
+              På skatteutskottets vägnar
+            </p>
+            <p>
+              Arne Kjörnsberg
+            </p>
+            <p>
+              I beslutet har deltagit: Arne Kjörnsberg (s), Carl Fredrik Graf
+              (m), Lisbeth Staaf-Igelström (s), Per Rosengren (v), Helena Höij
+              (kd), Carl Erik Hedlund (m), Per Erik Granström (s), Marietta
+              de Pourbaix-Lundin (m), Ulla Wester (s), Lena Sandlin-Hedman (s),
+              Marie Engström (v), Kenneth Lantz (kd), Catharina Hagen (m), Birger
+              Schlaug (mp), Rolf Kenneryd (c), Johan Pehrson (fp) och Per-Olof
+              Svensson (s).
+            </p>
+            <p>
+              Särskilda yttranden
+            </p>
+            <p>
+              1. Anslag inom utgiftsområde 3 Skatteförvaltning och uppbörd
+              (mom. 2)
+            </p>
+            <p>
+              Carl Fredrik Graf (m), Carl Erik Hedlund (m), Marietta de Pourbaix-Lundin
+              (m) och Catarina Hagen (m) anför:
+            </p>
+            <p>
+              Moderata samlingspartiet har redovisat sitt budgetalternativ
+              i motion Fi208 som nyligen behandlats av finansutskottet (bet.
+              2000/01:FiU1). Beträffande utgiftsområde 3 Skatteförvaltning och
+              uppbörd föreslår vi att utgiftsområdet för vart och ett av budgetåren
+              2001-2003 tillförs en utgiftsram som är 50 miljoner kronor högre
+              än vad som föreslås i budgetpropositionen. Medlen skall användas
+              för att öka tullens möjligheter att via kontroller bekämpa smugglingen
+              av alkohol och cigaretter. Smugglingen av cigaretter är fortfa-
+              rande omfattande. Vi bedömer att denna satsning ökar intäkterna
+              till stats- kassan med minst motsvarande belopp. Finansutskottet
+              har tillstyrkt rege- ringens förslag till utgiftsramar för utgiftsområdet
+              och Moderata samlings- partiet har fullföljt sitt alternativa
+              förslag till ekonomiska ramar för utgiftsområdet i en reservation
+              till betänkandet.
+            </p>
+            <p>
+              Det anslag till Tullverket för år 2001 som skatteutskottets majoritet
+              tillstyrker i detta betänkande har inte Moderata samlingspartiets
+              stöd. Vår medverkan i beslutet hade förutsatt att tullen tillförts
+              ytterligare resurser. Vi kommer i lämpligt sammanhang att återkomma
+              med yrkanden när det gäller tullens anslag.
+            </p>
+            <p>
+              2. Anslag inom utgiftsområde 3 Skatteförvaltning och uppbörd
+              (mom. 2)
+            </p>
+            <p>
+              Helena Höij (kd) och Kenneth Lanz (kd) anför:
+            </p>
+            <p>
+              Kristdemokraterna har redovisat sitt budgetalternativ i motion
+              Fi209 som nyligen har behandlats av finansutskottet (bet. 2000/01:FiU1).
+              Beträffande utgiftsområde 3 Skatteförvaltning och uppbörd föreslår
+              vi att utgiftsområdet för åren 2001-2003 tillförs 120 miljoner
+              kronor mer än regeringen föreslagit. Härav går 70 miljoner kronor
+              till skattemyndigheterna och 50 miljoner kronor till tullen.
+            </p>
+            <p>
+              Ett flertal studier och utredningar visar att den svarta ekonomin
+              i Sverige har fått en skadlig omfattning. Detta snedvrider konkurrensen
+              mellan företag och urholkar affärsmoralen. För att motverka denna
+              utveckling vill vi öka skattemyndigheternas resurser för en effektiv
+              skattekontroll. Erfarenheten visar att satsningar på detta område
+              ger minst sex gånger pengarna tillbaka till statskassan. Vi vill
+              också öka tullens resurser för att förstärka kontroll och spaning
+              rörande illegal införsel av bl.a. narkotika, vapen, alkohol, tobak
+              och övriga skattepliktiga varor. Finansutskottet har tillstyrkt
+              regeringens förslag till utgiftsramar för utgiftsområdet och Kristdemokraterna
+              redovisar sitt alternativa förslag till ekonomiska ramar för utgiftsområdet
+              i en reservation till finansutskottets betänkande. När skatteutskottets
+              majoritet i detta betänkande nu tillstyrker regeringens förslag
+              till fördelning av anslag till Skatteförvaltningen och Tullverket
+              inom de ekonomiska ramarna för utgiftsområdet, vill vi på nytt
+              redovisa att vi anser att skattemyndigheterna och tullen för år
+              2001 bör tillföras ytterligare resurser.
+            </p>
+            <p>
+              3. Anslag inom utgiftsområde 3 Skatteförvaltning och uppbörd
+              (mom. 2)
+            </p>
+            <p>
+              Rolf Kenneryd (c) anför:
+            </p>
+            <p>
+              Centerns budgetalternativ i motion Fi210, som nyligen behandlats
+              av finans- utskottet (bet. 2000/01:FiU1), innebär samma totala
+              utgiftsramar för utgiftsområde 3 under budgetåren 2001-2003 som
+              regeringen föreslagit. Vi anser emellertid att regeringens förslag
+              till anslag för Tullverket inte beaktar de ökade krav som följer
+              dels av Schengensamarbetet, dels av den under sommaren 2000 färdigställda
+              Öresundsbron. Vi anser därför att det bör ske en omfördelning
+              av medel inom utgiftsramen som innebär att Tullverket för 2001
+              tillförs ytterligare 20 miljoner kronor och att anslaget till
+              Riksskatteverket räknas ned i motsvarande mån.
+            </p>
+            <p>
+              4. Anslag inom utgiftsområde 3 Skatteförvaltning och uppbörd
+              (mom. 2)
+            </p>
+            <p>
+              Johan Pehrson (fp) anför:
+            </p>
+            <p>
+              Folkpartiet redovisar sitt budgetalternativ i motion Fi211 som
+              nyligen be- handlats av finansutskottet (bet. 2000/01:FiU1). Beträffande
+              utgiftsområde 3 Skatteförvaltning och uppbörd föreslår vi att
+              utgiftsområdet för åren 2001-2003 tillförs 75 miljoner kronor
+              mer än regeringen föreslagit. Härav anslår vi 50 miljoner kronor
+              till skattemyndigheterna och 25 miljoner kronor till tullen. De
+              ökade resurserna skall huvudsakligen användas av skattemyndigheterna
+              för att minska skattefelet och därmed öka skatteintäkterna. När
+              det gäller tullen ser vi gärna att resurserna riktas in på att
+              klara utmaningarna till följd av Schengensamarbetet och för att
+              bekämpa den illegala införseln av alkohol och narkotika. Finansutskottet
+              har tillstyrkt regeringens förslag till utgiftsramar för utgiftsområdet
+              och Folkpartiet redovisar sitt alternativa förslag till ekonomiska
+              ramar för utgiftsområdet i en reservation till finansutskottets
+              betänkande. När skatteutskottets majoritet i detta betänkande
+              nu tillstyrker regeringens förslag till fördelning av anslag till
+              Skatteförvaltningen och Tullverket inom de ekonomiska ramarna
+              för utgiftsområdet, vill vi på nytt redovisa att vi anser att
+              skattemyndigheterna och tullen för 2001 bör tillföras ytterligare
+              resurser.
+            </p>
+            <p>
+              Förslag till beslut om anslag inom utgiftsområde 3 Skatteförvaltning
+              och uppbörd
+            </p>
+            <p>
+              Utskottets förslag överensstämmer med regeringens förslag till
+              anslags- fördelning.
+            </p>
+            <p>
+              ----------------------------------------------- -----------------------------------------------
+              ----------------------------------------------- Anslag Utskottets
+              förslag
+            </p>
+            <p>
+              Tusental kronor -----------------------------------------------
+            </p>
+            <p>
+              ----------------------------------------------- Skatteförvaltning
+              och uppbörd ------------------------------------------------------
+              3:1 Riksskatteverket 442 682 (ramanslag) ------------------------------------------------------
+              3:2 Skattemyndigheterna 4 593 878 (ramanslag) ------------------------------------------------------
+              3:3 Tullverket (ramanslag) 1 170 388 ------------------------------------------------------
+            </p>
+            <p>
+              ------------------------------------------------------ Summa
+              för utgiftsområdet 6 206 948 ------------------------------------------------------
+            </p>
+            <p>
+              ------------------------------------------------------
+            </p>
+            <p>
+              Justitieutskottets yttrande
+            </p>
+            <p>
+              2000/01:JuU2y
+            </p>
+            <p>
+              Mål för Kronofogdemyndigheterna
+            </p>
+            <p>
+              Till skatteutskottet
+            </p>
+            <p>
+              Inledning
+            </p>
+            <p>
+              Skatteutskottet har i ett beslut den 12 oktober 2000 berett justitieutskottet
+              tillfälle att yttra sig över proposition 2000/01:1 Budgetpropositionen
+              för 2001 utgiftsområde 3 politikområde Skatt, tull och exekution
+              i vad den avser målet för politikområdet.
+            </p>
+            <p>
+              Ärendet föranleder följande yttrande från justitieutskottet.
+            </p>
+            <p>
+              Utskottet
+            </p>
+            <p>
+              Inledning
+            </p>
+            <p>
+              Kronofogdemyndigheterna utgör tillsammans med Riksskatteverket
+              (RSV) landets exekutionsväsende. RSV har den övergripande ledningen
+              och ansvaret för verksamheten.
+            </p>
+            <p>
+              Sedan den 1 januari 1997 finns det 10 regionala kronofogdemyndigheter
+              med för närvarande 80 lokala kontor. Kronofogdemyndigheterna är
+              regionala myndigheter för frågor om verkställighet enligt utsökningsbalken
+              (UB) och andra författningar. Som verkställande myndighet enligt
+              förordningen (1988:784) med instruktion för exekutionsväsendet
+              skall kronofogdemyndig- heterna verka för att betalningsförpliktelser
+              och andra förpliktelser, som kan bli föremål för verkställighet,
+              fullgörs i rätt tid och ordning.
+            </p>
+            <p>
+              Riksdagen har godkänt ett övergripande mål för exekutionsväsendet.
+              Enligt detta är kronofogdemyndigheternas uppgift som verkställande
+              myndighet att på uppdrag av borgenärer och andra sökande verkställa
+              rättsanspråk som inte reglerats på frivillig väg. Ansökningar
+              skall handläggas snabbt och med hög kvalitet. Kronofogdemyndigheterna
+              skall även i övrigt, genom information och liknande förebyggande
+              åtgärder, verka för att betalningsförpliktelser och andra förpliktelser
+              som kan verkställas i stället fullgörs frivilligt i rätt tid och
+              ordning.
+            </p>
+            <p>
+              Till frågor om verkställighet enligt UB hör i första hand verkställighet
+              av domar och andra exekutionstitlar. Kronofogdemyndigheterna verkställer
+              också beslut om avhysning och annan handräckning. Till deras uppgifter
+              hör även att svara för exekutiv försäljning av bl.a. fast egendom.
+              Utöver de exe- kutiva uppgifterna enligt UB har kronofogdemyndigheterna
+              att handlägga verkställighetsärenden enligt vissa andra författningar,
+              t.ex. lagen (1978:880) om betalningssäkring för skatter, tullar
+              och avgifter samt mål om återtagande av gods som köpts på kredit
+              enligt konsumentkreditlagen (1992:830) och lagen (1978:599) om
+              avbetalningsköp mellan näringsidkare m.fl. Kronofogdemyndigheterna
+              är också tillsynsmyndigheter i konkurs. Sedan den 1 januari 1992
+              handlägger kronofogdemyndigheterna vidare den summariska processen,
+              dvs. mål enligt lagen (1990:746) om betalningsföreläggande och
+              handräckning.
+            </p>
+            <p>
+              Kronofogdemyndigheterna har också uppgifter enligt skuldsaneringslagen
+              (1994:334). Lagen innebär att kronofogdemyndigheterna skall svara
+              för huvuddelen av utredningen i skuldsaneringsärenden och också
+              fatta beslut om frivillig skuldsanering. Med stöd av bestämmelser
+              i främst UB och lagen (1993:891) om indrivning av statliga fordringar
+              m.m. företräder kronofog- demyndigheterna i vissa avseenden det
+              allmänna som borgenär vid indrivning i s.k. allmänna mål.
+            </p>
+            <p>
+              Enligt tilläggsbestämmelse 4.6.4 till riksdagsordningen bereder
+              justitieut- skottet bl.a. ärenden som rör utsökningsväsendet och
+              anslag inom utgiftsom- råde 4 Rättsväsendet.
+            </p>
+            <p>
+              För årets budgetbehandling får den nya indelningen i politikområden
+              till konsekvens att myndigheterna inom rättsväsendet delas upp
+              på två politik- områden, dels Skatt, tull och exekution med verksamheten
+              vid kronofogde- myndigheterna (politikområde 3), dels Rättsväsendet
+              som innehåller övrig verksamhet inom utgiftsområde 4 (politikområde
+              4). När det gäller krono- fogdemyndigheterna innebär indelningen
+              att regeringen under politikområde 3 föreslår målen för kronofogdemyndigheterna,
+              under det att den föreslår anslag till dem under utgiftsområde
+              4.
+            </p>
+            <p>
+              Målet för politikområdet Skatt, tull och exekution skall enligt
+              propositio- nen vara att eftersträvade skatte-, tull- och avgiftsintäkter
+              skall säkerställas på ett rättssäkert och ekonomiskt effektivt
+              sätt samtidigt som enkelhet skall eftersträvas och brottslighet
+              motarbetas. För kronofogdemyndigheternas del bryts målet ned till
+              att ange att exekutionsväsendet skall upprätthålla rättstrygghet
+              och rättssäkerhet vad gäller betalningsförpliktelser och andra
+              förpliktelser som kan verkställas av kronofogdemyndigheterna (prop.
+              2000/01:1 utg. omr. 3, avsnitt 3.3).
+            </p>
+            <p>
+              Överväganden
+            </p>
+            <p>
+              Som inledningsvis framgått bestäms kronofogdemyndigheternas uppgifter
+              genom lag eller förordning. Av dessa bestämmelser följer att kronofogde-
+              myndigheterna har att verkställa betalningsanspråk och andra anspråk
+              inte bara när exekutionsborgenären är stat eller kommun utan också
+              när anspråken tillkommer enskilda.
+            </p>
+            <p>
+              Enligt vad utskottet inhämtat finns det ingen samlad statistik
+              över hur de av kronofogdemyndigheterna handlagda ärendena fördelar
+              sig mellan enskilda och allmänna anspråk. Av RSV:s statistik för
+              år 1999 framgår dock att antalet inkomna allmänna mål i indrivningsverksamheten
+              under det året uppgick till 2 190 000 och att det under samma
+              tid debiterade beloppet i dessa mål uppgick till 17 436 000 000
+              kr. Motsvarande siffror för de enskilda målen var 363 000 respektive
+              11 876 000 000 kr. I fråga om övriga verksamhetsgrenar synes det
+              sannolikt att flertalet anspråk härrör från enskilda borgenärer.
+            </p>
+            <p>
+              Mot denna bakgrund vill utskottet anmärka att målet för politikområdet
+              Skatt, tull och exekution inte på något sätt antyder att kronofogdemyndighe-
+              terna verkställer enskilda anspråk. En annan sak är att det för
+              kronofogde- myndigheterna specificerade målet erhållit en mera
+              generell avfattning. Här måste således frågan ställas om hur sistnämnda
+              mål skall tolkas i belysning av målet för politikområdet.
+            </p>
+            <p>
+              Enligt justitieutskottets uppfattning bör skatteutskottet vid
+              sin prövning av regeringens förslag till mål för politikområdet
+              Skatt, tull och exekution överväga om den i propositionen föreslagna
+              formuleringen beaktar kronofogde- myndigheternas verksamhet med
+              andra anspråk än skatter, tullar och avgifter.
+            </p>
+            <p>
+              Stockholm den 31 oktober 2000
+            </p>
+            <p>
+              På justitieutskottets vägnar
+            </p>
+            <p>
+              Ingvar Johnsson
+            </p>
+            <p>
+              I beslutet har deltagit: Ingvar Johnsson (s), Margareta Sandgren
+              (s), Alice Åström (v), Ingemar Vänerlöv (kd), Ann-Marie Fagerström
+              (s), Maud Ekendahl (m), Helena Zakariasén (s), Jeppe Johnsson
+              (m), Kia Andreasson (mp), Gunnel Wallin (c), Göran Norlander (s),
+              Anita Sidén (m), Yilmaz Kerimo (s), Cecilia Magnusson (m), Sture
+              Arnesson (v) och Dan Kihlström (kd).
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
