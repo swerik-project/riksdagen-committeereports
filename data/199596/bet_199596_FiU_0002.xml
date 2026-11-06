@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_199596_FiU_0002">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="rdbeslut" n="Riksdagens beslut">Bifall till utskottets hemställan</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GJ0932</idno>
+              <title>1995-12-06</title>
+              <biblScope unit="riksdag-session">1995/96</biblScope>
+              <biblScope unit="document-number">32</biblScope>
+              <note type="display-reference">1995-12-06</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GJ0932</idno>
+              <title>1995-12-06</title>
+              <biblScope unit="riksdag-session">1995/96</biblScope>
+              <biblScope unit="document-number">32</biblScope>
+              <note type="display-reference">1995-12-06</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GJ0363</idno>
+              <title>Ändringar i lagen om allemanssparande, m.m.</title>
+              <biblScope unit="riksdag-session">1995/96</biblScope>
+              <biblScope unit="document-number">63</biblScope>
+              <note type="display-reference">proposition 1995/96:63 Ändringar i lagen om allemanssparande, m.m.</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GJ02Fi2</idno>
+              <title>med anledning av prop. 1995/96:63 Ändringar i lagen om allemanssparande, m.m.</title>
+              <title type="sub">av Lars Tobisson m.fl. (m)</title>
+              <biblScope unit="riksdag-session">1995/96</biblScope>
+              <biblScope unit="document-number">Fi2</biblScope>
+              <note type="display-reference">motion 1995/96:Fi2 med anledning av prop. 1995/96:63 Ändringar i lagen om allemanssparande, m.m.</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GJ02Fi3</idno>
+              <title>med anledning av prop. 1995/96:63 Ändringar i lagen om allemanssparande, m.m.</title>
+              <title type="sub">av Michael Stjernström och Mats Odell (kds)</title>
+              <biblScope unit="riksdag-session">1995/96</biblScope>
+              <biblScope unit="document-number">Fi3</biblScope>
+              <note type="display-reference">motion 1995/96:Fi3 med anledning av prop. 1995/96:63 Ändringar i lagen om allemanssparande, m.m.</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="AVG" subtype="beredning" n="5" when="1995-12-06">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="beredning" n="3" when="1995-12-06">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="beredning" n="1" when="1995-12-04">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="1995-11-16">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="1995-11-07">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Finansutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            1995/96:FIU02
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Ändringar i lagen om allemanssparande, m.m. (prop. 1995/96:63)
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <div type="section" subtype="h2">
+            <head>
+              Innehåll
+            </head>
+            <list type="unordered">
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bsam">
+                    Sammanfattning
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bprop">
+                    Propositionen
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bmot">
+                    Motionerna
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#btext">
+                    Utskottet
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bhemst">
+                    Hemställan
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bres">
+                    Reservation
+                  </ref>
+                </p>
+              </item>
+            </list>
+            <p>
+              1995/96 FiU2
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bsam">
+              Sammanfattning
+            </head>
+            <p>
+              Utskottet tillstyrker i detta betänkande regeringens förslag
+              till ändringar i lagen om allemanssparande och vissa med den sammanhängande
+              lagar. Regeringens förslag innebär bl.a. att det blir möjligt
+              för en allemansfond att byta ut aktier som innehas i sådana svenska
+              bolag som köps upp av utländska företag. Ett aktuellt exempel
+              på ett sådant företagsförvärv är samgåendet mellan Pharmacia AB
+              och det amerikanska läkemedelsföreta- get Upjohn Inc.
+            </p>
+            <p>
+              Utskottet avstyrker samtidigt två motioner med krav på vidgade
+              placeringsmöjligheter för alle- mansfonderna i finansiella instrument
+              som ges ut av utländska företag. Moderata samlingspartiet, Centerpartiet,
+              Folkpartiet liberalerna och Kristde- mokraterna förordar i en
+              gemensam reservation en sådan utvidgning.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bprop">
+              Propositionen
+            </head>
+            <p>
+              I proposition 1995/96:63 föreslår regeringen
+            </p>
+            <p>
+              1. att riksdagen antar regeringens förslag till lag om ändring
+              i lagen (1983:890) om allemanssparande,
+            </p>
+            <p>
+              2. att riksdagen antar regeringens förslag till lag om ändring
+              i lagen (1988:846) om ungdomsbosparande,
+            </p>
+            <p>
+              3. att riksdagen antar regeringens förslag till lag om ändring
+              i lagen (1990:1114) om värdepappers- fonder.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bmot">
+              Motionerna
+            </head>
+            <p>
+              1995/96:Fi2 av Lars Tobisson m.fl. (m) vari yrkas
+            </p>
+            <p>
+              1. att riksdagen beslutar om sådan ändring av lagen om allemanssparan-
+              de, m.m. att allemansfonderna skall kunna förvärva fondpapper
+              och finan- siella instrument som ges ut av svenska företag samt
+              andra företag vars aktier m.m. noteras på svensk börs, svensk
+              auktoriserad marknadsplats eller annan svensk reglerad marknad
+              i enlighet med vad som anförts i motionen,
+            </p>
+            <p>
+              2. att riksdagen beslutar om sådan ändring av lagen om allemanssparan-
+              de, m.m. att även de företagsanknutna allemansfondernas möjlighet
+              att placera värdepapper omarbetas så att de kan förvärva fondpapper
+              och finansiella instrument som ges ut av svenska företag samt
+              andra företag vars aktier m.m. noteras på svensk börs, svensk
+              auktoriserad marknads- plats eller annan svensk reglerad marknad
+              i enlighet med vad som anförts i motionen.
+            </p>
+            <p>
+              1995/96:Fi3 av Michael Stjernström och Mats Odell (kds) vari
+              yrkas
+            </p>
+            <p>
+              1. att riksdagen avslår regeringens förslag till nya placeringsregler
+              för allemansfonder,
+            </p>
+            <p>
+              2. att riksdagen beslutar om sådan ändring i placeringsreglerna
+              för alle- mansfonder att högst 10 % av fondtillgångarna får placeras
+              i andelar i andra värdepappersfonder eller i utländska fondföretag,
+            </p>
+            <p>
+              3. att riksdagen beslutar om sådan ändring i pla- ceringsreglerna
+              för allemansfonder att de 10 pro- centen vilka anförts under punkt
+              två också får pla- ceras i utländska aktier.
+            </p>
+            <p>
+              Inkomna skrivelser och uppvaktning
+            </p>
+            <p>
+              Skrivelser i ärendet har inkommit från Pharmacia AB, Fondbolagens
+              Fö- rening samt Uppsala kommun.
+            </p>
+            <p>
+              Företrädare för Pharmacia AB, Fondbolagens Fö- rening, Robur
+              Kapitalförvaltning AB och SEB Fonder AB har beretts tillfälle
+              att inför utskottet redovisa sin syn på propositionens förslag.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="btext">
+              Utskottet
+            </head>
+            <p>
+              Enligt gällande regler får en allemansfond inte direktplacera
+              i aktier i ett utländskt företag. Utländska placeringar får göras
+              bara i fondföretag och då endast i begränsad utsträckning. I 15
+              a § lagen (1983:890) om alle- manssparande föreskrivs sålunda
+              att högst 5 % av en allemansfonds värde får utgöras av andelar
+              i andra värdepappersfonder eller i utländska fondfö- retag.
+            </p>
+            <p>
+              Regeringen föreslår i propositionen att placeringsbestämmelserna
+              för allemansfonder skall ändras för att göra det möjligt för en
+              fond att byta ut sitt aktieinnehav i sådana svenska bolag som
+              köps upp av utländska före- tag mot värdepapper i det nya bolaget.
+            </p>
+            <p>
+              Bakgrunden till förslaget är det aktuella samgåendet mellan Pharmacia
+              AB och det amerikanska läkemedelsbolaget Upjohn. Allemansfonderna
+              äger i dag ca 4 % av aktierna i Pharmacia AB, och detta innehav
+              skulle de med nuvarande regler tvingas avyttra, eftersom det nybildade
+              bolaget är amerikanskt. För att undvika de störningar på aktiemarknaden
+              som skulle kunna uppkomma vid en sådan påtvingad utförsäljning
+              finner regeringen det motiverat med en utvidgning av placeringsbestämmelserna.
+              Regeringen anser dock att ingreppet bör minimeras eftersom allemansfonderna
+              är inriktade på placeringar i svenska företag och en skattesubvention
+              till spararen är knuten till fondsparandet.
+            </p>
+            <p>
+              Med hänsyn härtill föreslår regeringen att den vidgade placeringsrätten
+              skall gälla endast de fonder som vid övertagandet innehar aktier
+              i företa- get. Det utländska bolaget skall därvid - såsom fallet
+              är med Pharmacia - först ha lämnat ett offentligt erbjudande om
+              att förvärva samtliga aktier i ett svenskt bolag. Efter övertagandet
+              skall fonderna inte kunna göra några ytterligare investeringar
+              i de utländska företagen.
+            </p>
+            <p>
+              För de företagsanknutna fonderna föreslås samma regeländringar.
+              Avser överlåtelsen det svenska bolag som en fond är knuten till
+              krävs emellertid dispens från Finansinspektionen. Dispensen ger
+              därvid den företagsan- knutna fonden rätt att även senare förvärva
+              värdepapper utgivna av det bolag till vilket fonden är knuten.
+            </p>
+            <p>
+              Moderata samlingspartiet anser i motion Fi2 att regeringens förslag
+              är alltför snävt och att det inte minimerar riskerna för snedvridning
+              och in- låsningar på finansmarknaden. Om allemansfonderna inte
+              får fortsätta att aktivt handla med dessa utländska värdepapper,
+              kommer det svenska ägandet i bolagen att minska fortare än annars
+              skulle ha skett. Grunden för denna typ av regleringar borde bygga
+              på principerna om lika regler för alla aktörer på marknaden och
+              öppenhet inför en globalisering av näringslivet.
+            </p>
+            <p>
+              I enlighet härmed föreslår motionärerna att 15 § lagen om allemansspa-
+              rande omarbetas så att allemansfonderna kan förvärva fondpapper
+              och finansiella instrument som ges ut av svenska företag samt
+              av andra företag vars aktier m.m. noteras på svensk börs, svensk
+              auktoriserad marknads- plats eller annan svensk reglerad marknad
+              (yrkande 1). En regeländring av samma innebörd föreslås också
+              för de företagsanknutna allemansfonderna (yrkande 2)
+            </p>
+            <p>
+              Även Kristdemokraterna finner att regeringens förslag inte är
+              tillräckligt långtgående. När fonderna väl fått de utländska aktierna
+              i utbyte har de endast att välja mellan att sälja eller att ha
+              kvar aktierna, påpekar motionä- rerna. På sikt kan det leda till
+              att den svenska basen i dessa företag hotas. Kristdemokraterna
+              vill därför utöka fondernas möjligheter ytterligare till att placera
+              sina tillgångar där de ger bäst avkastning.
+            </p>
+            <p>
+              Med hänvisning härtill yrkar motionärerna avslag på regeringens
+              förslag till nya placeringsregler för allemansfonder (yrkande
+              1). I stället föreslår de att placeringsreglerna för allemansfonder
+              ändras så att högst 10 % (mot f.n. 5 %) av fondtillgångarna får
+              placeras i andelar i andra värdepappers- fonder eller i utländska
+              fondföretag (yrkande 2) samt att dessa 10 % också får placeras
+              i utländska aktier (yrkande 3).
+            </p>
+            <p>
+              Pharmacia AB och Fondbolagens Förening har i var sin skrivelse
+              till ut- skottet samt vid en gemensam uppvaktning inför utskottet
+              framhållit önsk- värdheten av att allemansfonderna ges möjlighet
+              till fortsatta investeringar och handel även efter det att ett
+              svenskt företag genom en sammanslagning ombildats till ett utländskt
+              bolag.
+            </p>
+            <p>
+              Finansutskottet får i denna fråga anföra följande. När riksdagen
+              hösten 1994 behandlade regeringens proposition om vissa ekonomisk
+              politiska åtgärder (prop. 1994/95:25, FiU1, rskr. 145) ansåg utskottet
+              att man borde slå vakt om allemansfonderna. Denna sparform har
+              - framhöll utskottet - bidragit till att riskkapitalmarknaden
+              tillförts en avsevärd mängd nytt kapi- tal, samtidigt som ägandet
+              i svenskt näringsliv kunnat breddas. Många småsparare som tidigare
+              aldrig sparat i aktier har genom Allemansfonderna kommit i kontakt
+              med sådant sparande. Utskottet tillstyrkte med denna motivering
+              regeringens förslag om en återgång till de skatteregler som lades
+              fast i 1990 års skattereform. Förslaget biträddes av riksdagen
+              och som en följd härav beskattas fr.o.m. i år reavinster och utdelningar
+              på allemansfonder med en faktisk skattesats på 20 %, dvs. med
+              två tredjedelar av vad som gäller för övriga kapitalinkomster
+              inom hushållssektorn.
+            </p>
+            <p>
+              Mot bakgrund härav noterar utskottet med tillfredsställelse att
+              regering- en i den nu aktuella propositionen inte ställer sig
+              bakom Allemans- sparutredningens förslag (SOU 1994:50) om en successiv
+              avveckling av allemanssparandet. Tvärtom anser regeringen att
+              några genomgripande förändringar i lagstiftningen inte bör göras.
+              Förutom den nyss nämnda utvidgningen av placeringsreglerna föreslås
+              endast smärre ändringar i lagstiftningen.
+            </p>
+            <p>
+              Allemansfonderna är inriktade på svenskt näringsliv och med tanke
+              på den skattesubvention som är kopplad till sparandet bör, enligt
+              utskottets mening, denna inriktning ligga fast. Placeringsreglerna
+              bör således inte utvidgas till att omfatta vare sig utländska
+              bolag generellt eller sådana utländska företag som är noterade
+              på svensk börs. I likhet med regeringen anser utskottet dock att
+              undantag bör göras i de fall ett svenskt bolag efter uppköp eller
+              sammanslagning ombildas till ett utländskt bolag. Allemans- fonder
+              som vid ombildningen innehar aktier i sådana företag bör sålunda
+              få byta ut dessa mot värdepapper utgivna av det utländska företaget.
+              En framtvingad avyttring skulle i annat fall kunna ge upphov till
+              störningar på aktiemarknaden till förfång framför allt för fondernas
+              andelsägare. Likaså bör företagsanknutna fonder behandlas i särskild
+              ordning på det sätt rege- ringen föreslagit.
+            </p>
+            <p>
+              Vad utskottet här anfört innebär att utskottet biträder regeringens
+              förslag till ändrade placeringsbestämmelser för allemansfonderna
+              samt avstyrker motionerna Fi2 (m) och Fi3 (kds).
+            </p>
+            <p>
+              Regeringen föreslår att lagen (1983:890) om allemanssparande
+              skall änd- ras i ytterligare några avseenden. Så t.ex. föreslås
+              att man skall avskaffa kravet på folkbokföring här i landet för
+              att få ansluta sig till allemans- sparandet. Vidare skall även
+              utländska banker kunna förmedla allemans- spar. Förbudet att pantsätta
+              och överlåta allemanskonton föreslås dessutom slopat för allemanssparkonton,
+              dvs för sparande på inlåningskonton som inte längre är skattemässigt
+              gynnat. Dessa samt vissa smärre ändringar i lagen (1988:846) om
+              ungdomsbosparande och lagen (1990:1114) om värdepappersfonder
+              godtas av motionärerna. Inte heller utskottet har något att erinra
+              utan tillstyrker propositionens förslag även i dessa delar.
+            </p>
+            <p>
+              För egen del vill utskottet emellertid i detta sammanhang föreslå
+              ytterligare en justering i lagen om allemanssparande. På förslag
+              av regeringen har 15 § denna lag tidigare ändrats (prop. 1991/92:113).
+              Ändringen innebar bl.a. att fjärde stycket i denna paragraf slopades.
+              Genom ett förbiseende anpassades inte hänvisningen i 16 § fjärde
+              stycket till denna ändring. Utskottet föreslår att en sådan justering
+              nu görs.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bhemst">
+              Hemställan
+            </head>
+            <p>
+              Utskottet hemställer
+            </p>
+            <p>
+              1. beträffande skönstaxering i särskilda fall
+            </p>
+            <p>
+              att riksdagen med anledning av proposition 1995/96:63 samt med
+              avslag på motionerna 1995/96:Fi2 och 1995/96:Fi3
+            </p>
+            <p>
+              dels beslutar att 16 § lagen (1983:890) om allemanssparande skall
+              erhålla ändrad lydelse i enlighet med Utskottets förslag i bilaga
+              2,
+            </p>
+            <p>
+              dels beslutar om sådan ändring av ingressen till regeringens
+              förslag till lag om ändring i lagen (1983:890) om allemanssparande
+              som föranleds härav,
+            </p>
+            <p>
+              dels antar regeringens lagförslag i övrigt,
+            </p>
+            <p>
+              res. (m, c, fp, kds)
+            </p>
+            <p>
+              2. beträffande ändring i lagen om ungdomsbosparande
+            </p>
+            <p>
+              att riksdagen antar regeringens förslag till lag om ändring i
+              lagen (1988:846) om ungdomsbosparande,
+            </p>
+            <p>
+              3. beträffande ändring i lagen om värdepappersfonder
+            </p>
+            <p>
+              att riksdagen antar regeringens förslag till lag om ändring i
+              lagen (1990:1114) om värdepappersfonder.
+            </p>
+            <p>
+              Stockholm den 16 november 1995
+            </p>
+            <p>
+              På finansutskottets vägnar
+            </p>
+            <p>
+              Jan Bergqvist
+            </p>
+            <p>
+              I beslutet har deltagit: Jan Bergqvist (s), Per-Ola Eriksson
+              (c), Sören Lekberg (s), Lisbet Calner (s), Bo Nilsson (s), Sonja
+              Rembo (m), Arne Kjörns- berg (s), Sonia Karlsson (s), Lennart
+              Hedquist (m), Anne Wibble (fp), Susanne Eberstein (s), Jo- han
+              Lönnroth (v), Kristina Nordström (s), Fredrik Reinfeldt (m), Roy
+              Ottosson (mp), Mats Odell (kds) och Per Bill (m).
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bres">
+              Reservation
+            </head>
+            <p>
+              Ändring i lagen om allemanssparande (mom. 1)
+            </p>
+            <p>
+              Per-Ola Eriksson (c), Sonja Rembo (m), Lennart Hedquist (m),
+              Anne Wibble (fp), Fredrik Reinfeldt (m), Mats Odell (kds) och
+              Per Bill (m) anser
+            </p>
+            <p>
+              dels att den del av utskottets yttrande på s. 4 som börjar med
+              "Finansutskottet får" och slutar med "Fi2 (m) och Fi3 (kds)" bort
+              ha följande lydelse:
+            </p>
+            <p>
+              Finansutskottet får i denna fråga anföra följande. Enligt utskottets
+              upp- fattning bör lagen om allemanssparande ändras i några avseenden.
+              Rege- ringen föreslår för egen del att nuvarande placeringsregler
+              vidgas så att det blir möjligt för en allemansfond att direkt
+              äga aktier i utländska företag. Denna möjlighet inskränker sig
+              emellertid till sådana förvärv som sker i samband med att ett
+              utländskt bolag lämnar ett offentligt erbjudande om att förvärva
+              samtliga aktier i ett svenskt bolag. Några ytterligare investe-
+              ringar i det utländska bolaget efter övertagandet skall enligt
+              regeringen inte få ske. Detta gäller oavsett om fonden ligger
+              kvar med det innehav som erhölls vid utbytet eller om den senare
+              reducerar sitt innehav.
+            </p>
+            <p>
+              Denna och en motsvarande ändring för de företagsanknutna allemans-
+              fonderna är enligt utskottets mening alltför snäva, vilket ökar
+              riskerna för snedvridningar och inlåsningar på finansmarknaden.
+              Får inte allemansfon- derna fortsätta att aktivt handla med dessa
+              utländska värdepapper, kommer det svenska ägandet i bolagen att
+              minska fortare än annars skulle ha skett. De föreslagna reglerna
+              bidrar dessutom till att likviditeten försämras och volatiliteten
+              ökar i dessa värdepapper.
+            </p>
+            <p>
+              Möjligheterna att långsiktigt upprätthålla ett svenskt inflytande
+              över så- dana bolagsbildningar som Pharmacia/Upjohn Inc minskar
+              om man på detta sätt exkluderar allemansfonderna från att handla
+              med dessa instru- ment. Så t.ex. leder begränsningen till att
+              staten och Volvo får det svårare att hitta avsättning inom landet
+              för sina aktieinnehav, och sålunda riskerar det svenska ägandet
+              i bolaget att urholkas samtidigt som priset på aktierna kan tendera
+              att bli lägre.
+            </p>
+            <p>
+              Enligt utskottets mening bör grunden för denna typ av regleringar
+              bygga på principerna om lika regler för alla aktörer på marknaden
+              och öppenhet inför en globalisering av näringslivet.
+            </p>
+            <p>
+              Utskottet föreslår därför att 15 § i lagen om allemanssparande
+              omarbetas så att allemansfonderna kan förvärva fondpapper och
+              finansiella instru- ment som ges ut av svenska företag samt andra
+              företag vars aktier m.m. noteras på svensk börs, svensk auktoriserad
+              marknadsplats eller annan svensk reglerad marknad. En sådan förändring
+              ger inte allemansfonderna generell rätt att placera i aktier utgivna
+              av utländska företag. Däremot får de möjlighet att på ett mer
+              flexibelt sätt placera i och handla med värde- papper i svenska
+              bolag, som genom utländska uppköp blivit mer interna- tionella.
+              Förslaget ger också samtliga allemansfonder möjlighet att handla
+              med dessa värdepapper oavsett om de vid uppköpstillfället var
+              ägare i bolaget i fråga eller inte, vilket torde underlätta Finansinspektionens
+              tillsyn och allmänhetens möjligheter att avgöra vilka regler som
+              gäller för vilka fonder.
+            </p>
+            <p>
+              En motsvarande anpassning av reglerna bör göras för de företagsanknut-
+              na allemansfonderna.
+            </p>
+            <p>
+              dels att utskottets hemställan under 1 bort ha följande lydelse:
+            </p>
+            <p>
+              1. beträffande ändring i lagen om allemanssparande
+            </p>
+            <p>
+              att riksdagen med bifall till motion 1995/96:Fi2 samt med anledning
+              av proposition 1995/96:63 och motion 1995/96:Fi3 dels avslår regeringens
+              förslag såvitt avser att 15 a § skall bli 15 b § och att en ny
+              15 a § införs, dels beslutar att 15 och 16 §§ lagen (1983:890)
+              om allemanssparande skall erhålla ändrad lydelse samt att i lagen
+              skall införas en ny paragraf, 15 b, allt i enlighet med reservanternas
+              förslag i bilaga 3, dels beslutar om sådan ändring av ingressen
+              till regeringens förslag till lag om ändring i lagen (1983:890)
+              om allemanssparande som föranleds härav, dels antar regeringens
+              lagförslag i övrigt,
+            </p>
+            <p>
+              I proposition 63 framlagda lagförslag
+            </p>
+            <p>
+              1. Förslag till lag om ändring i lagen (1983:890) om
+            </p>
+            <p>
+              allemanssparande
+            </p>
+            <p>
+              2. Förslag till lag om ändring i lagen (1988:846) om
+            </p>
+            <p>
+              ungdomsbosparande
+            </p>
+            <p>
+              3. Förslag till lag om ändring i lagen (1990:1114) om värdepappersfonder
+            </p>
+            <p>
+              Av utskottet framlagt lagförslag
+            </p>
+            <p>
+              Av utskottet föreslagen ändring i regeringens förslag till lag
+              om ändring i lagen (1983:890) om allemanssparande
+            </p>
+            <p>
+              Nuvarande lydelse Utskottets förslag
+            </p>
+            <p>
+              16 §
+            </p>
+            <p>
+              Ett fondbolag skall tillse att en allemansfond får en med hänsyn
+              till intresset av riskspridning lämplig sammansättning av värdepapper.
+            </p>
+            <p>
+              Fondbolaget får ej till fonden mot vederlag förvärva värdepapper
+              av samme utfärdare i sådan omfattning att värdet av de värdepapper
+              i fon- den som utfärdats av denne genom förvärvet kommer att överstiga
+              tio procent av fondens värde. Detta gäller ej värdepapper som
+              har utfärdats av staten.
+            </p>
+            <p>
+              Om det finns särskilda skäl, kan Finansinspektionen medge att
+              pro- centtalet i andra stycket överskrids.
+            </p>
+            <p>
+              Utan hinder av andra stycket och 15 § fjärde och femte styckena
+              får vid emission aktier, konvertibla skuldebrev eller skuldebrev
+              för- enade med optionsrätt till nyteck- ning förvärvas på grund
+              av fon- dens tidigare aktieinnehav. Sådana aktier eller skuldebrev
+              skall dock avyttras så snart det lämpligen kan ske och senast
+              ett år efter förvär- vet, om värdepapperen ej vid något tillfälle
+              under ettårsperioden kun- nat inrymmas inom de gränser som anges
+              i andra stycket och i 15 § fjärde stycket och femte stycket första
+              meningen. Om det finns särskilda skäl, kan Finansinspek- tionen
+              medge uppskov med avytt- ringen. Utan hinder av andra stycket
+              och 15 § fjärde stycket får vid emission aktier, konvertibla skuldebrev
+              eller skuldebrev förenade med options- rätt till nyteckning förvärvas
+              på grund av fondens tidigare aktiein- nehav. Sådana aktier eller
+              skulde- brev skall dock avyttras så snart det lämpligen kan ske
+              och senast ett år efter förvärvet, om värde- papperen ej vid något
+              tillfälle under ettårsperioden kunnat in- rymmas inom de gränser
+              som anges i andra stycket och i 15 § fjärde stycket. Om det finns
+              sär- skilda skäl, kan Finansinspektio- nen medge uppskov med avytt-
+              ringen.
+            </p>
+            <p>
+              Av reservanterna framlagt lagförslag
+            </p>
+            <p>
+              Av reservanterna föreslagen ändring i regeringens förslag till
+              lag om ändring i lagen (1983:890) om allemanssparande
+            </p>
+            <p>
+              Nuvarande lydelse Reservanternas förslag
+            </p>
+            <p>
+              15 §
+            </p>
+            <p>
+              Fondbolag får till en allemans- fond förvärva endast följande
+              slag av värdepapper, nämligen
+            </p>
+            <p>
+              Ett fondbolag får till en alle- mansfond, med de begränsningar
+              som följer av 15 b och 16 §§, förvärva följande slag av värde-
+              papper:
+            </p>
+            <p>
+              1. sådana svenska aktier och av svenskt aktiebolag utfärdade
+              kon- vertibla skuldebrev eller skulde- brev förenade med optionsrätt
+              till nyteckning som är noterade vid en svensk eller utländsk börs,
+              en auktoriserad marknadsplats eller någon annan reglerad marknad,
+              1. sådana av svenskt aktiebolag utfärdade fondpapper och andra
+              finansiella instrument som är eller inom ett år från förvärvet
+              avses bli noterade vid en svensk eller ut- ländsk börs, en auktoriserad
+              mark- nadsplats eller någon annan regle- rad marknad,
+            </p>
+            <p>
+              2. sådana svenska aktier och av svenskt aktiebolag utfärdade
+              kon- vertibla skuldebrev eller skulde- brev förenade med optionsrätt
+              till nyteckning som utbjuds till för- säljning under sådana förhållan-
+              den att sannolika skäl finns för antagande att de inom ett år
+              från förvärvet kommer att noteras vid en svensk eller utländsk
+              börs, en auktoriserad marknadsplats eller någon annan reglerad
+              marknad,
+            </p>
+            <p>
+              3. andra svenska aktier samt andra av svenskt aktiebolag utfär-
+              dade konvertibla skuldebrev eller skuldebrev förenade med options-
+              rätt till nyteckning, 2. andra av svenskt aktiebolag utfärdade
+              fondpapper och andra finansiella instrument,
+            </p>
+            <p>
+              3. sådana av ett utländskt före- tag utfärdade fondpapper och
+              andra finansiella instrument som är eller inom ett år från förvärvet
+              avses bli noterade vid en svensk börs eller auktoriserad mark-
+              nadsplats,
+            </p>
+            <p>
+              Nuvarande lydelse Reservanternas förslag
+            </p>
+            <p>
+              4. förlagsandelsbevis i svensk ekonomisk förening,
+            </p>
+            <p>
+              4. förlagsandelsbevis i svensk ekonomisk förening och bevis om
+              rätt att teckna eller erhålla sådana andelsbevis,
+            </p>
+            <p>
+              5. bevis om rätt att teckna eller erhålla aktier eller andra
+              värde- papper som avses i 1-4,
+            </p>
+            <p>
+              6. obligationer och andra skuld- förbindelser, utfärdade av staten
+              och svenska hypoteksinstitut. 5. obligationer och andra skuld-
+              förbindelser utfärdade av staten eller svenska hypoteksinstitut.
+            </p>
+            <p>
+              Har värdepapper som förvärvats enligt första stycket 2 ej noterats
+              inom ett år från förvärvet, skall de avyttras så snart det lämpligen
+              kan ske, om de inte vid något tillfälle under ettårsperioden kunnat
+              in- rymmas inom tioprocentsgränsen enligt fjärde stycket. Har
+              värdepapper som förvärvats enligt första stycket 1 och 3 inte
+              noterats inom ett år från förvärvet, skall de avyttras så snart
+              det lämp- ligen kan ske, om de inte vid något tillfälle inom ettårsperioden
+              kunnat rymmas inom tioprocentsgränsen enligt 15 b § första stycket
+              1.
+            </p>
+            <p>
+              Ett fondbolag får inte till en al- lemansfond förvärva aktier
+              i bola- get.
+            </p>
+            <p>
+              Ett fondbolag får inte till fonden mot vederlag förvärva värdepap-
+              per som avses i första stycket 3 och 4 eller bevis om rätt att
+              teckna eller erhålla sådana värdepapper i sådan omfattning att
+              värdet av värdepapperen och bevisen genom förvärvet kommer att
+              överstiga tio procent av fondens värde. Ej heller får ett fondbolag
+              till fonden mot vederlag förvärva värdepapper enligt första stycket
+              6 i sådan omfattning att värdet av de värde- papper som där avses
+              genom förvärvet kommer att överstiga tjugofem procent av fondens
+              vär- de. Den sistnämnda begränsning- en gäller dock inte förrän
+              ett år efter det att fondbolaget erhållit Finansinspektionens
+              tillstånd att bedriva fondverksamhet. Finansin- spektionen kan,
+              om det finns sär- skilda skäl, medge att de procent- tal, som
+              anges i detta stycke, över- skrids.
+            </p>
+            <p>
+              Nuvarande lydelse Reservanternas förslag
+            </p>
+            <p>
+              15 b §
+            </p>
+            <p>
+              Ett fondbolag får inte till en al- lemansfond mot vederlag förvärva
+            </p>
+            <p>
+              1. värdepapper som avses i 15 § första stycket 2 och 4 i sådan
+              omfattning att värdet av dessa genom förvärvet kommer att överstiga
+              tio procent av fondens värde,
+            </p>
+            <p>
+              2. värdepapper som avses i 15 § första stycket 5 i sådan omfattning
+              att värdet av dessa genom förvär- vet kommer att överstiga tjugofem
+              procent av fondens värde.
+            </p>
+            <p>
+              Begränsningen enligt första stycket 2 gäller inte förrän ett
+              år efter det att fondbolaget fått Fi- nansinspektionens tillstånd
+              att be- driva fondverksamhet. Finansin- spektionen kan, om det
+              finns sär- skilda skäl, medge att de procent- tal som anges i
+              första stycket över- skrids.
+            </p>
+            <p>
+              Ett fondbolag får inte till en al- lemansfond förvärva aktier
+              i bola- get.
+            </p>
+            <p>
+              16 §
+            </p>
+            <p>
+              Ett fondbolag skall tillse att en allemansfond får en med hänsyn
+              till intresset av riskspridning lämplig sammansättning av värdepapper.
+            </p>
+            <p>
+              Fondbolaget får ej till fonden mot vederlag förvärva värdepapper
+              av samme utfärdare i sådan omfattning att värdet av de värdepapper
+              i fon- den som utfärdats av denne genom förvärvet kommer att överstiga
+              tio procent av fondens värde. Detta gäller ej värdepapper som
+              har utfärdats av staten.
+            </p>
+            <p>
+              Om det finns särskilda skäl, kan Finansinspektionen medge att
+              pro- centtalet i andra stycket överskrids.
+            </p>
+            <p>
+              Utan hinder av andra stycket och 15 § fjärde och femte styckena
+              får vid emission aktier, konvertibla skuldebrev eller skuldebrev
+              för- enade med optionsrätt till nyteck- ning förvärvas på grund
+              av fon- dens tidigare aktieinnehav. Sådana aktier eller skuldebrev
+              skall dock avyttras så snart det lämpligen kan Utan hinder av
+              andra stycket och 15 b § första stycket får vid emis- sion aktier,
+              konvertibla skuldebrev eller skuldebrev förenade med optionsrätt
+              till nyteckning förvär- vas på grund av fondens tidigare aktieinnehav.
+              Sådana aktier eller skuldebrev skall dock avyttras så snart det
+              lämpligen kan ske och
+            </p>
+            <p>
+              Nuvarande lydelse Reservanternas förslag
+            </p>
+            <p>
+              ske och senast ett år efter förvär- vet, om värdepapperen ej
+              vid något tillfälle under ettårsperioden kun- nat inrymmas inom
+              de gränser som anges i andra stycket och i 15 § fjärde stycket
+              och femte stycket första meningen. Om det finns särskilda skäl,
+              kan Finansinspek- tionen medge uppskov med avytt- ringen. senast
+              ett år efter förvärvet, om värdepapperen ej vid något tillfälle
+              under ettårsperioden kunnat rym- mas inom de gränser som anges
+              i andra stycket och i 15 b § första stycket. Om det finns särskilda
+              skäl, kan Finansinspektionen med- ge uppskov med avyttringen.
+            </p>
+            <p>
+              Innehållsförteckning
+            </p>
+            <p>
+              Senaste lydelse 1992:690 Senaste lydelse 1992:1629 Senaste lydelse
+              1992:690
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
