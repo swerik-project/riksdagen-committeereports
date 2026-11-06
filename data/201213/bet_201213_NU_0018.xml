@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_201213_NU_0018">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag till beslut.</note>
+          <note type="notis" n="Beslut i korthet">Det blir en ny lag om ingripande mot marknadsmissbruk vid viss handel med el och gas. Lagen kompletterar en EU-förordning och innebär bland annat att det blir straffbart att bryta mot de förbud mot insiderhandel som finns i förordningen. Lagförslaget innehåller även bestämmelser om vissa nya uppgifter för den nationella tillsynsmyndigheten, som i dagsläget är Energimarknadsinspektionen.</note>
+          <note type="notisrubrik" n="Beslut">Ny lag om marknadsmissbruk vid handel med el och gas (NU18)</note>
+          <note type="utsknotis" n="Utskottets förslag till beslut">Regeringen föreslår att det ska bli en ny lag om ingripande mot marknadsmissbruk vid viss handel med el och gas. Lagen ska komplettera en EU-förordning och innebär bland annat att det ska bli straffbart att bryta mot de förbud mot insiderhandel som finns i förordningen. Lagförslaget innehåller även bestämmelser om vissa nya uppgifter för den nationella tillsynsmyndigheten, som i dagsläget är Energimarknadsinspektionen. Näringsutskottet föreslår att riksdagen säger ja till regeringens förslag.</note>
+          <note type="utsknotisrubrik" n="Utskottets förslag">Ny lag om marknadsmissbruk vid handel med el och gas (NU18)</note>
+          <note type="statustext" n="statustext">Ärendet är avslutat</note>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">H003122</idno>
+              <title>Ingripande mot marknadsmissbruk vid handel med grossistenergiprodukter</title>
+              <biblScope unit="riksdag-session">2012/13</biblScope>
+              <biblScope unit="document-number">122</biblScope>
+              <note type="document-name">Proposition</note>
+              <note type="display-reference">proposition 2012/13:122 Ingripande mot marknadsmissbruk vid handel med grossistenergiprodukter</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">H009113</idno>
+              <title>2013-05-29</title>
+              <biblScope unit="riksdag-session">2012/13</biblScope>
+              <biblScope unit="document-number">113</biblScope>
+              <note type="document-name">Protokoll</note>
+              <note type="display-reference">2013-05-29</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">H009113</idno>
+              <title>2013-05-29</title>
+              <biblScope unit="riksdag-session">2012/13</biblScope>
+              <biblScope unit="document-number">113</biblScope>
+              <note type="document-name">Protokoll</note>
+              <note type="display-reference">2013-05-29</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">H00K248</idno>
+              <title>Riksdagsskrivelse 2012/13:248</title>
+              <biblScope unit="riksdag-session">2012/13</biblScope>
+              <biblScope unit="document-number">248</biblScope>
+              <note type="document-name">Riksdagsskrivelse</note>
+              <note type="display-reference">2012/13:248</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2013:385</idno>
+              <note type="document-name">grundförfattning</note>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2005:377</idno>
+              <note type="document-name">grundförfattning</note>
+              <note type="display-reference">2013:386</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="UBE" subtype="beredning" n="30" when="2013-04-23">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2013-05-14">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2013-05-21">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2013-05-21">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2013-05-24">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2013-05-28">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2013-05-29">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2013-05-29">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2013-05-29">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2013-05-29">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Näringsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2012/13:NU18
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Ingripande mot marknadsmissbruk vid handel med grossistenergiprodukter
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBH0B" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet proposition 2012/13:122 där
+            det föreslås en ny lag om ingripande mot marknadsmissbruk vid
+            handel med grossistenergiprodukter. Den nya lagen ska komplettera
+            EU:s förordning om integritet och öppenhet på grossistmarknaderna
+            för energi (även kallad Remitförordningen). I propositionen finns
+            även ett förslag till följdändring i lagen (2005:377) om straff
+            för marknadsmissbruk vid handel med finansiella instrument.
+          </p>
+          <p>
+            Utskottet tillstyrker regeringens förslag. Inga motioner har
+            väckts i anslutning till propositionen.
+          </p>
+          <p xml:id="IDAMBH0B" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Ingripande mot marknadsmissbruk vid handel med grossistenergiprodukter
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  1. lag om ingripande mot marknadsmissbruk vid handel med grossistenergiprodukter,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2. lag om ändring i lagen (2005:377) om straff för marknadsmissbruk
+                  vid handel med finansiella instrument.
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen proposition 2012/13:122 punkterna 1
+                  och 2.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 14 maj 2013
+          </p>
+          <p>
+            På näringsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Mats Odell
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Mats Odell (KD),
+            Jonas Eriksson (MP), Jessica Polfjärd (M), Hans Rothenberg (M),
+            Carina Adolfsson Elgestam (S), Olof Lavesson (M), Krister Örnfjäder
+            (S), Ann-Kristine Johansson (S), Eva Flyborg (FP), Börje Vestlund
+            (S), Helena Lindahl (C), Anna Hagwall (SD), Kent Persson (V),
+            Boriana Åberg (M), Ingela Nylund Watz (S), Johan Johansson (M)
+            och Ingemar Nilsson (S).
+          </p>
+          <p xml:id="IDAXEH0B" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDA0EH0B" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I detta betänkande behandlar utskottet proposition 2012/13:122
+            Ingripande mot marknadsmissbruk vid handel med grossistenergiprodukter.
+          </p>
+          <p>
+            Inga motioner väcktes i anslutning till propositionen.
+          </p>
+          <p xml:id="IDADFH0B" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            I december 2010 presenterade kommissionen ett förslag till förordning
+            om integritet och öppenhet på energimarknaderna (KOM(2010) 726,
+            se fakta-PM 2010/11:FPM59).
+          </p>
+          <p>
+            Bakgrunden till förordningsförslaget var att utvecklingen mot
+            en gemensam energimarknad sker via regionala marknader och med
+            utökad gränsöverskridande handel. Kommissionen ansåg att förtroendet
+            för integriteten vid handel på el- och gasmarknaderna är av yttersta
+            vikt och såg därför ett behov av en effektiv, konsistent och koordinerad
+            översyn på europeisk nivå i syfte att tillförsäkra marknadsintegritet
+            och transparens samt för att stävja marknadsmissbruk och ta hänsyn
+            till kopplingen mellan fysisk och finansiell handel på dessa marknader.
+          </p>
+          <p>
+            Inför mötet med EU:s ministerråd för transport, telekommunikation
+            och energi (TTE-rådet) i juni 2011 informerades näringsutskottet
+            och EU-nämnden om förslaget. Förordningen (EU) nr 1227/2011 om
+            integritet och öppenhet på grossistmarknaderna för energi (populärt
+            betecknad Remitförordningen) antogs sedan av rådet och Europaparlamentet
+            i oktober 2011 och trädde i kraft i december samma år.
+          </p>
+          <p>
+            Remitförordningen innehåller bestämmelser som är tillämpliga
+            vid handel med grossistenergiprodukter, dvs. avtal och derivat
+            som rör försörjning av el eller naturgas. Bestämmelserna innefattar
+            bl.a. förbud mot insiderhandel, skyldighet att offentliggöra insiderinformation,
+            förbud mot otillbörlig marknadspåverkan och rapporteringsskyldighet.
+            Vidare regleras samarbetet mellan nationella tillsynsmyndigheter,
+            behöriga finansmyndigheter, nationella konkurrensmyndigheter,
+            Byrån för samarbete mellan energitillsynsmyndigheter (Acer) och
+            Europeiska värdepappers- och marknadsmyndigheten (Esma).
+          </p>
+          <p>
+            Till skillnad från ett direktiv är en EU-förordning till alla
+            delar bindande och direkt tillämplig i samtliga medlemsstater.
+            I Remitförordningen finns dessutom bestämmelser som uttryckligen
+            anger att medlemsstaterna ska införa kompletterande bestämmelser
+            i nationell rätt. Med anledning av detta upprättades en promemoria
+            inom Näringsdepartementet med förslag till kompletterande lagbestämmelser.
+            Promemorian har remissbehandlats. Förslag i en därpå följande
+            lagrådsremiss lämnades utan invändningar från Lagrådet.
+          </p>
+          <p xml:id="IDAWFH0B" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDA1FH0B" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen antar regeringens förslag till lag om ingripande mot
+                marknadsmissbruk vid handel med grossistenergiprodukter och till
+                lag om ändring i lagen (2005:377) om straff för marknadsmissbruk
+                vid handel med finansiella instrument.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAHGH0B" rend="rubrik3">
+              Propositionen
+            </p>
+            <p xml:id="IDAKGH0B" rend="r4">
+              Inledning
+            </p>
+            <p>
+              I propositionen föreslås en ny lag om ingripande mot marknadsmissbruk
+              vid handel med grossistenergiprodukter som ska komplettera den
+              tidigare nämnda Remitförordningen om integritet och öppenhet på
+              grossistmarknaderna för energi. Därutöver finns ett förslag till
+              följdändring i lagen (2005:377) om straff för marknadsmissbruk
+              vid handel med finansiella instrument.
+            </p>
+            <p>
+              I det följande ges en översiktlig beskrivning av regeringens
+              förslag. För en mer detaljerad beskrivning hänvisas till propositionen.
+            </p>
+            <p xml:id="IDATGH0B" rend="r4">
+              Sanktioner och rapporteringsskyldighet
+            </p>
+            <p>
+              Regeringen föreslår att straffansvar ska införas för överträdelser
+              av förbuden mot insiderhandel i EU-förordningens artikel 3 och
+              mot otillbörlig marknadspåverkan i artikel 5. Om det inte är uppenbart
+              oskäligt ska utbyte av brott förverkas.
+            </p>
+            <p>
+              Vidare föreslår regeringen att ett meddelandeförbud ska införas
+              för den som har rapporterat i enlighet med förordningens artikel
+              15. Förbudet innebär att den som har rapporterat inte får att
+              röja att sådan rapportering skett för den som rapporteringen avser
+              eller för någon utomstående. En överträdelse av förbudet ska vara
+              förenad med straffansvar.
+            </p>
+            <p xml:id="IDA2GH0B" rend="r4">
+              Tillsyn över förordningen
+            </p>
+            <p>
+              När det gäller tillsynen över förordningen föreslår regeringen
+              att det ska införas bestämmelser som upplyser om att tillsynsmyndighet
+              är den myndighet som regeringen har utsett enligt 1 kap. 7 § ellagen
+              (1997:857) och att myndigheten fullgör de uppgifter som den nationella
+              tillsynsmyndigheten har enligt EU-förordningen. Tillsynsmyndigheten
+              ska övervaka att den nya lagen och de föreskrifter som har meddelats
+              i anslutning till lagen följs. I lagförslaget regleras bl.a. tillsynsmyndighetens
+              skyldigheter och befogenheter när det gäller att anmäla till åklagare,
+              utfärda förelägganden, genomföra undersökningar på plats hos en
+              marknadsaktör m.m. Regeringen föreslår att tillsynsmyndighetens
+              uppgifter enligt EU-förordningen ska finansieras genom att de
+              marknadsaktörer som är registrerade hos tillsynsmyndigheten ska
+              betala avgifter och att regeringen ska få meddela föreskrifter
+              om sådana avgifter.
+            </p>
+            <p xml:id="IDACHH0B" rend="r4">
+              Överklagande
+            </p>
+            <p>
+              I artikel 14 i förordningen finns bestämmelser om överklagande.
+              Där anges att medlemsstaterna ska se till att det på nationell
+              nivå finns lämpliga mekanismer som ger den part som berörs av
+              ett beslut av tillsynsmyndigheten rätt att överklaga beslutet
+              till en instans som är oberoende av de inblandade parterna i ärendet
+              och av alla förvaltningar.
+            </p>
+            <p>
+              Regeringen föreslår att tillsynsmyndighetens beslut enligt den
+              föreslagna lagen ska kunna överklagas till allmän förvaltningsdomstol.
+              Prövningstillstånd ska krävas vid överklagande till kammarrätten.
+              Tillsynsmyndighetens beslut att anmäla överträdelser av artikel
+              3, 5 eller 15 i EU-förordningen eller brott mot meddelandeförbudet
+              till åklagare ska dock inte få överklagas.
+            </p>
+            <p xml:id="IDALHH0B" rend="r4">
+              Vissa sekretessfrågor
+            </p>
+            <p>
+              Av Remitförordningens artikel 12.1 följer att de nationella tillsynsmyndigheterna,
+              medlemsstaternas behöriga finansmyndigheter och nationella konkurrensmyndigheter
+              ska säkerställa sekretess, tillförlitlighet och skydd för de uppgifter
+              som de har mottagit och vidta åtgärder för att informationen inte
+              ska missbrukas.
+            </p>
+            <p>
+              Regeringen konstaterar att den svenska sekretessregleringen är
+              tillräcklig för att tillgodose de krav på sekretess och tystnadsplikt
+              som förordningen ställer. Några särskilda lagbestämmelser som
+              gör det möjligt för berörda myndigheter att utbyta information
+              behövs därför inte, enligt regeringens bedömning.
+            </p>
+            <p xml:id="IDAUHH0B" rend="r4">
+              Ikraftträdande- och övergångsbestämmelser
+            </p>
+            <p>
+              Av artikel 13.1 i förordningen följer att medlemsstaterna senast
+              den 29 juni 2013 ska se till att deras nationella tillsynsmyndigheter
+              har de utrednings- och verkställandebefogenheter som de behöver
+              för att utföra sina uppgifter. I propositionen föreslår regeringen
+              därför att förslaget till lag om ingripande mot marknadsmissbruk
+              vid handel med grossistenergiprodukter ska träda i kraft den 29
+              juni 2013. Lagen om ändring i lagen om straff för marknadsmissbruk
+              vid handel med finansiella instrument föreslås träda i kraft vid
+              samma tidpunkt. Äldre föreskrifter ska tillämpas i fråga om gärningar
+              som har utförts före ikraftträdandet.
+            </p>
+            <p xml:id="IDA0HH0B" rend="rubrik3">
+              Vissa kompletterande uppgifter
+            </p>
+            <p xml:id="IDA3HH0B" rend="r4">
+              Riksdagens subsidiaritetsprövning av Remitförordningen
+            </p>
+            <p>
+              Utskottet beslutade vid sitt sammanträde den 18 januari 2011
+              att efterfråga regeringens bedömning av tillämpningen av subsidiaritetsprincipen
+              i det då aktuella förslaget till Remitförordning. Som svar på
+              utskottets begäran meddelade Näringsdepartementet att regeringens
+              bedömning i det avseendet framgår av faktapromemorian (2010/11:FPM59).
+              Där anfördes följande om subsidiaritets- och proportionalitetsprinciperna:
+            </p>
+            <p rend="citat">
+              Regeringen delar kommissionens bedömning att det i utvecklingen
+              mot en gemensam europeisk marknad och i takt med att de nationella
+              och regionala el- och gasmarknaderna och handeln integreras föreligger
+              ett mer övergripande behov av harmonisering av krav på transparens
+              och marknadsövervakning. Den ökande gränsöverskridande handeln
+              med el och gas för med sig att de enskilda medlemsstaternas nationella
+              regelverk och kontrollmekanismer inte är tillräckliga för att
+              stävja marknadsmissbruk. Mot denna bakgrund behövs ett skräddarsytt
+              regelverk på EU-nivå som också tar hänsyn till kopplingen mellan
+              fysisk handel och finansiella instrument på el- och gasmarknaderna.
+            </p>
+            <p>
+              Vid sitt sammanträde den 8 februari 2011 gjorde utskottet bedömningen
+              att förslaget inte stred mot subsidiaritetsprincipen.
+            </p>
+            <p xml:id="IDAMIH0B" rend="r4">
+              Sveriges ståndpunkt inför TTE-rådets möte i juni 2011
+            </p>
+            <p>
+              Inför TTE-rådets möte i juni 2011 redovisade regeringen följande
+              förslag till svensk ståndpunkt i en rådspromemoria (daterad 2011-05-30):
+            </p>
+            <p rend="citat">
+              Regeringen anser att transparens och lika villkor för marknadens
+              aktörer är mycket väsentligt och välkomnar ett skräddarsytt regelverk
+              som tar hänsyn till kopplingen mellan handel med el och gas på
+              fysiska marknader och finansiella instrument. I utvecklingen mot
+              en gemensam europeisk marknad och i takt med att de nationella
+              och regionala elmarknaderna integreras kan regeringen konstatera
+              att det föreligger ett mer övergripande behov av harmonisering
+              av krav på transparens och marknadsövervakning.
+            </p>
+            <p rend="citatindrag_">
+              Regeringen har emellertid under förhandlingen bevakat att föreslagna
+              åtgärder står i proportion till de kostnader som uppkommer samt
+              att en rimlig avvägning görs mellan övervakning och tillsyn på
+              EU-nivå respektive på nationell och regional nivå.
+            </p>
+            <p rend="citatindrag_">
+              Regeringen har också begärt förtydliganden i ansvarsfördelningen
+              mellan nationella myndigheter och den Europeiska byrån för samarbete
+              mellan nationella tillsynsmyndigheter (ACER), vilket har tillgodosetts.
+            </p>
+            <p rend="citatindrag_">
+              I Norden finns en lång erfarenhet av en gemensam nordisk grossistmarknad
+              för el. Regeringen har tillsammans med Finland och Danmark dragit
+              nytta av denna erfarenhet och framfört flera gemensamma ståndpunkter
+              i rådsarbetsgruppen.
+            </p>
+            <p rend="citatindrag_">
+              Vidare har regeringen varit angelägen om att Remit inte kan,
+              eller bör, ses isolerat från det finansiella regelverket utan
+              bevakat att det ska ske en samordning för att förenkla tillämpningen
+              av regelverken för såväl övervakande myndigheter som aktörer.
+            </p>
+            <p rend="citatindrag_">
+              En mycket viktig fråga för [regeringen]
+              <hi rend="superscript">
+                1 [
+                <seg type="html-hanvisning">
+                  Ordet saknas i promemorian. Utskottet förutsätter att det är
+                  regeringen som avses.
+                </seg>
+                ]
+              </hi>
+              i förhandlingarna har varit att se till att förordningen inte
+              kommer i konflikt med den tryck- och yttrandefrihetsrättsliga
+              regleringen i tryckfrihetsförordningen och yttrandefrihetsgrundlagen.
+              Regeringen har fått in flera skrivningar i förordningen som innebär
+              att någon sådan konflikt inte uppstår.
+            </p>
+            <p xml:id="IDAIJH0B" rend="r4">
+              Meddelarfrihet och sekretess
+            </p>
+            <p>
+              Hösten 2012 behandlade riksdagen proposition 2012/13:4 Genomförande
+              av det nya EU-direktivet om administrativt samarbete i fråga om
+              beskattning (bet. 2012/13:SkU8). I ett yttrande från konstitutionsutskottet
+              anfördes att stor återhållsamhet alltid bör iakttas som grundprincip
+              vid prövningen av om undantag från meddelarfriheten ska göras
+              i ett särskilt fall och att inskränkningar i meddelarfriheten
+              således bör föregås av noggranna överväganden (2012/13:KU3y).
+              Konstitutionsutskottet konstaterade att några sådana överväganden
+              inte gjordes i den då aktuella propositionen. Vikten av att uppmärksamma
+              den långtgående svenska meddelarfriheten under förhandlingsarbetet
+              kan enligt konstitutionsutskottet inte nog understrykas. Utskottet
+              utgick från att det i kommande lagstiftningsärenden lämnas noggranna
+              överväganden ifall en inskränkning av meddelarfriheten föreslås.
+              Konstitutionsutskottet sade sig också ha för avsikt att initiera
+              en systematisk översyn av vilka inskränkningar av detta slag som
+              har genomförts på senare år och på vilka grunder.
+            </p>
+            <p>
+              Som har nämnts i det föregående gör regeringen bedömningen att
+              kraven på sekretess och tystnadsplikt i Remitförordningen tillgodoses
+              i svensk rätt. Några särskilda bestämmelser som gör det möjligt
+              för berörda myndigheter att utbyta information behövs inte och
+              några ändringar i offentlighets- och sekretesslagen (OSL) föreslås
+              därför inte heller.
+            </p>
+            <p>
+              Av propositionen framgår att det i 30 kap. OSL finns bestämmelser
+              om sekretess för enskild i verksamhet som avser tillsyn m.m. i
+              fråga om näringslivet. Enligt 24 § i nämnt kapitel gäller sekretess
+              för vissa uppgifter, i den utsträckning riksdagen har godkänt
+              ett avtal om detta med en annan stat eller en mellanfolklig organisation,
+              hos en statlig myndighet i en sådan verksamhet som avses i 30
+              kap. 23 § OSL.
+            </p>
+            <p>
+              Det bör i detta sammanhang noteras – vilket inte görs i propositionen
+              – att den tystnadsplikt som följer av nyssnämnda 24 §, enligt
+              30 kap. 30 § andra stycket OSL inskränker rätten att meddela och
+              offentliggöra vissa uppgifter. Det gäller uppgifter om andra ekonomiska
+              eller personliga förhållanden än affärs- och driftförhållanden
+              för den som ingått en affärsförbindelse eller en liknande förbindelse
+              med den som är föremål för myndighetens verksamhet. Det innebär
+              således att meddelarfriheten i vissa fall kan komma att inskränkas.
+            </p>
+            <p>
+              Enligt de upplysningar som utskottet har tagit del av rör ovanstående
+              för Energimarknadsinspektionens del uppgifter om tredje man. Mängden
+              uppgifter som skulle omfattas av 30 kap. 30 § andra stycket bedöms
+              dock vara försvinnande liten.
+            </p>
+            <p xml:id="IDA0JH0B" rend="rubrik3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet anser att det är viktigt med öppenhet på de alltmer
+              integrerade el- och gasmarknaderna och att det råder lika villkor
+              för aktörerna på dessa marknader. Ett regelverk med detta syfte
+              som dessutom tar hänsyn till kopplingen mellan handel med el och
+              gas på fysiska marknader och vissa finansiella instrument välkomnas
+              därför av utskottet. Det aktuella lagförslaget är ett led i att
+              utöka möjligheterna att kunna beivra marknadsmissbruk på dessa
+              marknader.
+            </p>
+            <p>
+              Utskottet vill även påminna om att konstitutionsutskottet i ett
+              annat sammanhang har påtalat vikten av att den långtgående svenska
+              meddelarfriheten uppmärksammas under förhandlingar på EU-nivå.
+              Mot den bakgrunden ser utskottet det som positivt att regeringen
+              under förhandlingarna om den här aktuella förordningen har sett
+              det som mycket viktigt att se till att förordningen inte kommer
+              i konflikt med den svenska tryck- och yttrandefrihetsrättsliga
+              regleringen i tryckfrihetsförordningen och yttrandefrihetsgrundlagen.
+              Utskottet noterar dock att de redan befintliga svenska bestämmelserna
+              om tystnadsplikt som åberopas i propositionen i vissa begränsade
+              fall likaväl kan komma att innebära inskränkningar av meddelarfriheten.
+            </p>
+            <p>
+              Med det ovan anförda tillstyrker utskottet förslagen i propositionen.
+            </p>
+            <p xml:id="IDAGKH0B" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAJKH0B" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAMKH0B" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2012/13:122 Ingripande mot marknadsmissbruk vid handel
+              med grossistenergiprodukter:
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen antar regeringens förslag till lag om ingripande mot
+                    marknadsmissbruk vid handel med grossistenergiprodukter.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen antar regeringens förslag till lag om ändring i lagen
+                    (2005:377) om straff för marknadsmissbruk vid handel med finansiella
+                    instrument.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAQMH0B" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDATMH0B" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="http://data.riksdagen.se/fil/h001nu18/shape{84C80832-A43C-4731-91E6-B411F543FD1F}.png"/>
+            </p>
+            <p>
+              <graphic url="http://data.riksdagen.se/fil/h001nu18/shape{C67A500D-13F6-4545-AF6F-5C7DA53D053C}.png"/>
+            </p>
+            <p>
+              <graphic url="http://data.riksdagen.se/fil/h001nu18/shape{6630CFCF-2467-4023-8BFB-F5AED1A07E61}.png"/>
+            </p>
+            <p>
+              <graphic url="http://data.riksdagen.se/fil/h001nu18/shape{3E98EC06-CB3D-4DE9-BD87-6008BFCE69E0}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

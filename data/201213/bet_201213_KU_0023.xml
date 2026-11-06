@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_201213_KU_0023">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Skrivelsen läggs till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag till beslut.</note>
+          <note type="notis" n="Beslut i korthet">Regeringen har lämnat sin årliga rapport till riksdagen om arbetet inom de kommittéer, utredningar, som regeringen har tillsatt. Riksdagen noterar att det råder en jämn könsfördelning inom alla grupper av anställda i statliga kommittéer med undantag för gruppen ordförande med mera, där endast en tredjedel är kvinnor. Riksdagen förutsätter att regeringen arbetar aktivt för att säkerställa en jämn könsfördelning även inom denna grupp. Riksdagen ser också gärna att regeringen i fortsättningen redovisar spännvidden i könsfördelningen för de kommittéer som har fler ledamöter. Riksdagen lade skrivelsen till handlingarna, det vill säga avslutade ärendet.</note>
+          <note type="notisrubrik" n="Beslut">Regeringens rapport om kommittéernas arbete 2012 (KU23)</note>
+          <note type="utsknotis" n="Utskottets förslag till beslut">Regeringen har lämnat sin årliga rapport till riksdagen om arbetet inom de kommittéer, utredningar, som regeringen har tillsatt. Konstitutionsutskottet noterar att det råder en jämn könsfördelning inom alla grupper av anställda i statliga kommittéer med undantag för gruppen ordförande med mera, där endast en tredjedel är kvinnor. Utskottet förutsätter att regeringen arbetar aktivt för att säkerställa en jämn könsfördelning även inom denna grupp. Utskottet ser också gärna att regeringen i fortsättningen redovisar spännvidden i könsfördelningen för de kommittéer som har fler ledamöter. Utskottet föreslår att riksdagen lägger skrivelsen till handlingarna, det vill säga avslutar ärendet.</note>
+          <note type="utsknotisrubrik" n="Utskottets förslag">Regeringens rapport om kommittéernas arbete 2012 (KU23)</note>
+          <note type="statustext" n="statustext">Ärendet är avslutat</note>
+          <relatedItem type="behandlar">
+            <bibl type="skr">
+              <idno type="riksdagen">H003103</idno>
+              <title>Kommittéberättelse 2013</title>
+              <biblScope unit="riksdag-session">2012/13</biblScope>
+              <biblScope unit="document-number">103</biblScope>
+              <note type="document-name">skr</note>
+              <note type="display-reference">regeringsskrivelse 2012/13:103 Kommittéberättelse 2013</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">H009105</idno>
+              <title>2013-05-15</title>
+              <biblScope unit="riksdag-session">2012/13</biblScope>
+              <biblScope unit="document-number">105</biblScope>
+              <note type="document-name">Protokoll</note>
+              <note type="display-reference">2013-05-15</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">H009105</idno>
+              <title>2013-05-15</title>
+              <biblScope unit="riksdag-session">2012/13</biblScope>
+              <biblScope unit="document-number">105</biblScope>
+              <note type="document-name">Protokoll</note>
+              <note type="display-reference">2013-05-15</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">H00K216</idno>
+              <title>Riksdagsskrivelse 2012/13:216</title>
+              <biblScope unit="riksdag-session">2012/13</biblScope>
+              <biblScope unit="document-number">216</biblScope>
+              <note type="document-name">Riksdagsskrivelse</note>
+              <note type="display-reference">2012/13:216</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="UBE" subtype="beredning" n="30" when="2013-04-09">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2013-04-18">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2013-04-25">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2013-04-25">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2013-04-25">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2013-05-06">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2013-05-13">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2013-05-14">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2013-05-15">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2013-05-15">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2013-05-15">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2013-05-15">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Konstitutionsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2012/13:KU23
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Kommittéberättelse 2013
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBLMC" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlas regeringens skrivelse 2012/13:103 Kommittéberättelse
+            2013.
+          </p>
+          <p>
+            Konstitutionsutskottet noterar att det råder en jämn könsfördelning
+            inom alla grupper av anställda i statliga kommittéer med undantag
+            för gruppen
+            <seg rend="grad2">
+              ordförande m.m.
+            </seg>
+            Utskottet förutsätter att regeringen arbetar aktivt för att säkerställa
+            en jämn könsfördelning även inom denna grupp. Vidare bedömer utskottet
+            att det vore lämpligt att spännvidden i könsfördelningen för kommittéer
+            med fler ledamöter redovisas i kommande kommittéberättelser. Utskottet
+            föreslår att riksdagen lägger skrivelsen till handlingarna.
+          </p>
+          <p xml:id="IDAQBLMC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Kommittéberättelse 2013
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger skrivelse 2012/13:103 till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 25 april 2013
+          </p>
+          <p>
+            På konstitutionsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Peter Eriksson
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Peter Eriksson (MP),
+            Per Bill (M), Björn von Sydow (S), Andreas Norlén (M), Helene
+            Petersson i Stockaryd (S), Lars Elinderson (M), Billy Gustafsson
+            (S), Karl Sigfrid (M), Phia Andersson (S), Per-Ingvar Johnsson
+            (C), Hans Ekström (S), Kajsa Lunderquist (M), Tuve Skånberg (KD),
+            Jonas Åkerlund (SD), Mia Sydow Mölleby (V), Lena Sommestad (S)
+            och Stefan Käll (FP).
+          </p>
+          <p xml:id="IDASELMC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            I betänkandet behandlas regeringens skrivelse 2012/13:103 Kommittéberättelse
+            2013. Enligt riksdagsordningens tilläggsbestämmelse 3.6.3 ska
+            regeringen varje år senast den 1 mars lämna riksdagen en redogörelse
+            för verksamheten i de kommittéer som har tillsatts efter beslut
+            av regeringen. Uppgifterna som lämnas i skrivelsen avser 2012.
+          </p>
+          <p xml:id="IDAZELMC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDA3ELMC" rend="rubrik2">
+            Kommittéberättelse 2013
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDADFLMC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Utskottet förutsätter att regeringen arbetar aktivt för en jämn
+                könsfördelning inom gruppen
+                <seg rend="grad2">
+                  ordförande m.m.
+                </seg>
+                Vidare bedömer utskottet att det vore lämpligt att spännvidden
+                i könsfördelningen för kommittéer med fler ledamöter redovisas
+                i kommande kommittéberättelser. Utskottet föreslår att riksdagen
+                lägger skrivelsen till handlingarna.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDATFLMC" rend="r3">
+              Skrivelsen
+            </p>
+            <p>
+              Regeringen lämnar i skrivelse 2012/13:103 Kommittéberättelse
+              2013 en redogörelse för verksamheten i de kommittéer som har tillsatts
+              efter beslut av regeringen. Kommittéberättelsen innehåller uppgifter
+              om kommittéernas sammansättning, redogörelser för deras arbete
+              under den tid berättelsen avser samt uppgifter om kostnaderna
+              för kommittéarbetet och fördelningen mellan kvinnor och män i
+              kommittéerna. Uppgifterna avser 2012.
+            </p>
+            <p>
+              Under 2012 tillsattes 66 kommittéer och 64 avslutades. I regeringens
+              skrivelse anges att de totala utgifterna för kommittéerna ligger
+              kvar på samma nivå som föregående år, ca 350 miljoner kronor (i
+              fasta priser med 2007 som basår). I summan ingår utgifter för
+              konsultationer, vilka minskade från ca 70 miljoner kronor 2011
+              till ca 40 miljoner kronor 2012 (i fasta priser 2007).
+            </p>
+            <p>
+              När det gäller andelen män och kvinnor i kommittéerna framgår
+              av skrivelsen att könsfördelningen redovisas enligt en ny mätmetod,
+              där den statistik som numera tas fram endast omfattar dem som
+              under redovisat år varit förordnade i en pågående kommitté. Enligt
+              den tidigare mätmetoden inkluderades även de som någon gång hade
+              varit förordnade i en kommitté som fortfarande var pågående. Syftet
+              med ändringen är att redovisningen bättre ska kunna jämföras med
+              årlig statistik av statliga myndigheters styrelser som lämnas
+              till riksdagen i andra sammanhang. Det innebär att det inte finns
+              något exakt jämförelsematerial som avser föregående år. Inom gruppen
+              <seg rend="grad2">
+                ordförande m.m. är 32 procent kvinnor och 68 procent män. Vad
+                gäller gruppen ledamöter är 43 procent kvinnor och 57 procent
+                män och inom gruppen sakkunniga m.m. är hälften män och hälften
+                kvinnor. När det gäller gruppen sekreterare och övriga
+              </seg>
+              är 60 procent kvinnor och 40 procent män. I skrivelsen ges även
+              övergångsvis både statistik för 2012 enligt den nya mätmetoden
+              och statistik för 2012 enligt tidigare mätmetod jämförd med statistik
+              från förra årets kommittéberättelse. I det sammanhanget kan det
+              konstateras att de olika mätmetoderna inte leder till några väsentliga
+              skillnader i redovisningen av könsfördelningen i kommittéerna.
+            </p>
+            <p>
+              Regeringen lämnar inte någon redogörelse för ålderssammansättningen
+              i kommittéerna i årets kommittéberättelse.
+            </p>
+            <p xml:id="IDASGLMC" rend="r3">
+              Övrigt
+            </p>
+            <p>
+              I förarbetena till diskrimineringslagen (2008:567) diskuterades
+              bl.a. frågan om när ett arbete kan betraktas som kvinnodominerat.
+              Av förarbetena framgår att en måttstock för när det kan anses
+              råda underrepresentation är om arbetsgivaren har mindre än 40
+              procent av ett kön i den aktuella typen av arbete (prop. 2007/08:95
+              s. 503 och 540). Konstitutionsutskottet har använt denna måttstock
+              vid tidigare granskningar av regeringens utnämningsmakt och jämställdhet
+              bland utnämnda myndighetschefer och chefer vid utlandsmyndigheter
+              (bet. 2009/10:KU10 s. 129 och bet. 2011/12:KU10 s. 97).
+            </p>
+            <p>
+              Utskottet har gjort en genomgång av andelen kvinnor i var och
+              en av de fyra grupperna som redovisas i regeringens kommittéberättelser
+              sedan 2003
+              <hi rend="superscript">
+                1 [
+                <seg type="html-hanvisning">
+                  Jämförelser före 2003 omöjliggörs av att den tidigare redovisningen
+                  av könsfördelningen visade sig innehålla vissa felaktigheter (på
+                  grund av programmeringsfel i databasen), se skr. 2003/04:103 s.
+                  359.
+                </seg>
+                ]
+              </hi>
+              . Genomgången redovisas nedan i tabellen och baserar sig på den
+              tidigare mätmetoden.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Andelen kvinnor (i varje grupp) anställda vid kommittéväsendet
+              2003–2012
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell>
+                  <p rend="tabellhuvudvanster">
+                    År
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad2">
+                    Ordförande m.m.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad2">
+                    Ledamöter
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad2">
+                    Sakkunniga m.m.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad2">
+                    Sekreterare och övriga
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2003
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    35
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    46
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    46
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    53
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2004
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    34
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    45
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    47
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    54
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2005
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    39
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    46
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    47
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    55
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2006
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    42
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    44
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    47
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    54
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2007
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    41
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    44
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    49
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    53
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2008
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    35
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    45
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    47
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    52
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2009
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    35
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    44
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    46
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    53
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2010
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    35
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    44
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    46
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    56
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2011
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    32
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    44
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    47
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    56
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2012
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    34
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    44
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    49
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    58
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Konstitutionsutskottets kanslis genomgång av skrivelserna
+              2003/04:103, 2004/05:103, 2005/06:103, 2006/07:103, 2007/08:103,
+              2008/09:103, 2009/10:103, 2010/11:103, 2011/12:103 och 2012/13:103.
+            </p>
+            <p rend="tabellfot">
+              Not: Genomgången baserar sig på den mätmetod som har använts
+              under åren 2003-2012 (den som benämns för tidigare mätmetod i
+              senaste skrivelsen, se skr. 2012/13:103 s. 286).
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Som framgår av tabellen ovan har underrepresentation i gruppen
+              <seg rend="grad2">
+                ordförande m.m. varit vanligt förekommande under den undersökta
+                perioden med undantag för två år, dvs. 2006 och 2007. En trend
+                under de senaste fem åren har varit att andelen kvinnor i gruppen
+                sekreterare och övriga
+              </seg>
+              har ökat marginellt.
+            </p>
+            <p xml:id="IDA00LMC" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet noterar att det i kategorierna
+              <seg rend="grad2">
+                ledamöter, sakkunniga m.m. samt sekreterare och övriga råder
+                en jämn könsfördelning. Det gäller däremot inte gruppen ordförande
+                m.m
+              </seg>
+              . Det är enligt utskottets mening viktigt att eftersträva en
+              jämn könsfördelning även inom denna grupp. Utskottet förutsätter
+              att regeringen arbetar aktivt för att säkerställa detta.
+            </p>
+            <p>
+              Vidare bedömer utskottet att det vore lämpligt att statistik
+              över spännvidden i könsfördelningen för kommittéer med fler ledamöter
+              redovisas från och med nästa års kommittéberättelse. Detta kan
+              exempelvis ske genom att det redogörs för andelen av nämnda kommittéer
+              med underrepresentation.
+            </p>
+            <p>
+              Med beaktande av det ovannämnda föreslår utskottet att riksdagen
+              lägger regeringens skrivelse 2012/13:103 till handlingarna.
+            </p>
+            <p xml:id="IDAW1LMC" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAZ1LMC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDA21LMC" rend="rubrik2">
+              Skrivelsen
+            </p>
+            <p>
+              Regeringens skrivelse 2012/13:103 Kommittéberättelse 2013.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
