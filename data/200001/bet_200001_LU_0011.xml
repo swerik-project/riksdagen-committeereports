@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200001_LU_0011">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen gav, med anledning av motionsförslag, regeringen i uppdrag att göra en undersökning rörande namnlagen. Syftet är att undersöka om de avvägningar som gjordes vid namnlagens tillkomst, mellan det allmännas intresse av namnstabilitet och enskildas önskemål att fritt välja namn, fortfarande är bärkraftiga och att vid behov föreslå lagändringar.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Undersökning om namnlagen (LU11)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Delvis bifall till ett antal motioner rörande ändringar i namnlagen. Avslag på övriga motioner.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Bifall till utskottets hemställan</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GO090</idno>
+              <title>2001-02-08</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">0</biblScope>
+              <note type="display-reference">2001-02-08</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GO090</idno>
+              <title>2001-02-07</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">0</biblScope>
+              <note type="display-reference">2001-02-07</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02L401</idno>
+              <title>Namnlagen</title>
+              <title type="sub">av Gunnar Axén (m)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">L401</biblScope>
+              <note type="display-reference">motion 2000/01:L401 Namnlagen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02L412</idno>
+              <title>Namnlagen</title>
+              <title type="sub">av Stig Rindborg m.fl. (m)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">L412</biblScope>
+              <note type="display-reference">motion 2000/01:L412 Namnlagen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02L428</idno>
+              <title>Modernisering av namnlagen</title>
+              <title type="sub">av Tomas Eneroth m.fl. (s)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">L428</biblScope>
+              <note type="display-reference">motion 2000/01:L428 Modernisering av namnlagen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02L441</idno>
+              <title>Könsöverskridande personers situation</title>
+              <title type="sub">av Tasso Stafilidis m.fl. (v, mp, c, fp, s)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">L441</biblScope>
+              <note type="display-reference">motion 2000/01:L441 Könsöverskridande personers situation</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02L457</idno>
+              <title>Namnbyte</title>
+              <title type="sub">av Henrik Westman (m)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">L457</biblScope>
+              <note type="display-reference">motion 2000/01:L457 Namnbyte</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2001-01-29">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2001-01-29">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2001-01-18">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2001-01-18">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2000-11-28">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2000-11-28">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2001-02-08">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2001-02-07">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2001-02-07">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2001-02-02">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2001-02-02">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Lagutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2000/01:LU11
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Namnlagen
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <div type="section" subtype="h2">
+            <head>
+              Innehåll
+            </head>
+            <list type="unordered">
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bsam">
+                    Sammanfattning
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bprop">
+                    Motionerna
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#btext">
+                    Utskottet
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bhemst">
+                    Hemställan
+                  </ref>
+                </p>
+              </item>
+              <item rend="innehall_lista">
+                <p>
+                  <ref target="#bres">
+                    Reservation
+                  </ref>
+                </p>
+              </item>
+            </list>
+            <p>
+              2000/01
+            </p>
+            <p>
+              LU11
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bsam">
+              Sammanfattning
+            </head>
+            <p>
+              I betänkandet behandlar utskottet fem motioner från allmänna
+              motionstiden år 2000 som gäller 1982 års namnlag.
+            </p>
+            <p>
+              Med anledning av tre motionsyrkanden föreslår utskottet att riksdagen
+              begär att regeringen föranstaltar om en undersökning för att utröna
+              huruvida de avvägningar som gjordes i samband med namnlagens tillkomst
+              mellan det allmännas intresse av namnstabilitet och enskildas
+              önskemål att fritt välja namn fortfarande kan anses vara bärkraftiga
+              samt vid behov initierar lagstiftningsarbete.
+            </p>
+            <p>
+              Övriga motionsyrkanden avstyrks.
+            </p>
+            <p>
+              Till betänkandet har fogats en reservation.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bprop">
+              Motionerna
+            </head>
+            <p>
+              2000/01:L401 av Gunnar Axén (m) vari föreslås att riksdagen fattar
+              följande beslut:
+            </p>
+            <p>
+              Riksdagen beslutar att avskaffa namnlagen (1982:670).
+            </p>
+            <p>
+              2000/01:L412 av Stig Rindborg m.fl. (m) vari föreslås att riksdagen
+              fattar följande beslut:
+            </p>
+            <p>
+              Riksdagen begär att regeringen lägger fram förslag till sådan
+              ändring av namnlagen att endast immaterialrättsligt skyddade värden
+              begränsar medborgarnas möjligheter att själva välja sina namn
+              i enlighet med vad som anförs i motionen.
+            </p>
+            <p>
+              2000/01:L428 av Tomas Eneroth m.fl. (s) vari föreslås att riksdagen
+              fattar följande beslut:
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad i motionen
+              anförs om en liberalisering av namnlagen.
+            </p>
+            <p>
+              2000/01:L441 av Tasso Stafilidis m.fl. (v, s, c, fp, mp) vari
+              föreslås att riksdagen fattar följande beslut:
+            </p>
+            <p>
+              2. Riksdagen tillkännager för regeringen som sin mening vad i
+              motionen anförs om behov av ändring av namnlagen.
+            </p>
+            <p>
+              3. Riksdagen tillkännager för regeringen som sin mening vad i
+              motionen anförs om rättighet till retroaktivt namnbyte efter könsbyte.
+            </p>
+            <p>
+              2000/01:L457 av Henrik Westman (m) vari föreslås att riksdagen
+              fattar följande beslut:
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad i motionen
+              anförs om namnbyte för nya svenska medborgare.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="btext">
+              Utskottet
+            </head>
+            <p>
+              Historik
+            </p>
+            <p>
+              Lagreglering av namnskicket är en förhållandevis modern företeelse
+              i vårt land. Vid slutet av 1800- talet fanns i princip regler
+              endast om förvärv och skydd för vissa adliga släktnamn samt bestämmelser
+              om namnbyte för personer inom krigsmakten och för sjömän. I övrigt
+              kunde i praktiken namn fritt antas och bytas.
+            </p>
+            <p>
+              Med 1901 års släktnamnsförordning infördes bestämmelser om när
+              nytt släktnamn fick antecknas i kyrkboken, vilket innebar att
+              den dittills fria rätten att anta släktnamn inskränktes. Genom
+              den familjerättsliga lagstiftningen åren 1915-1920 reglerades
+              de familjerättsliga namnförvärven. Bl.a. infördes med giftermålsbalken
+              av år 1920 en skyldighet för kvinnan att anta mannens släktnamn
+              vid giftermål. En samlad reglering på namnområdet kom emellertid
+              till stånd först genom 1963 års namnlag.
+            </p>
+            <p>
+              Förhållandevis kort tid efter det att 1963 års namnlag införts
+              kom i olika sammanhang - bl.a. i riksdagen - att framföras krav
+              på en ny reform. I ett betänkande år 1971 (bet. LU 1971:18) med
+              anledning av en motion om bl.a. rätt för makar att anta hustruns
+              släktnamn framhöll lagutskottet att flera nya lagar tillkommit
+              inom familjerättens område sedan 1963 års namnlag trädde i kraft.
+              Utskottet anförde vidare att utvecklingen i samhället gått mot
+              en ökad jämlikhet mellan män och kvinnor. Enligt utskottets mening
+              var från familjerättslig synpunkt reglerna om mannens rätt att
+              förvärva hustruns släktnamn i behov av en modernisering. I sammanhanget
+              borde enligt utskottet också beaktas att släktnamnet genom den
+              ökade användningen av personnummer fått minskad betydelse för
+              samhällets behov av att kunna identifiera medborgare. Utskottet
+              ansåg att reglerna om makars rätt att anta endera partens släktnamn
+              borde ses över, men att en översyn inte borde begränsas till denna
+              fråga utan omfatta hela namnlagen. Vad utskottet anfört gav riksdagen
+              regeringen till känna (rskr. 1971:261).
+            </p>
+            <p>
+              Härefter tillsatte regeringen en utredning - Namnlagsutredningen.
+              Utredningen lät Sociologiska institutionen vid Uppsala universitet
+              utföra en undersökning av den uppfattning som råder hos allmänheten
+              när det gäller rätten att bära släktnamn.
+            </p>
+            <p>
+              Efter nordiskt samarbete slutförde Namlagsutredningen sitt uppdrag
+              år 1979 genom att överlämna betänkandet (SOU 1979:25) Nya namnregler.
+            </p>
+            <p>
+              Våren 1982 överlämnade regeringen en proposition med förslag
+              till en ny namnlag, som skulle ersätta 1963 års lag. Förslaget
+              antogs av riksdagen med vissa ändringar (prop. 1981/82:156, bet.
+              LU41, rskr. 357).
+            </p>
+            <p>
+              Gällande ordning
+            </p>
+            <p>
+              Namnlagen (1982:760) trädde i kraft den 1 januari 1983. Till
+              grund för lagstiftningen ligger en strävan till jämlikhet i namnrättsligt
+              hänseende mellan kvinnor och män och till lika behandling av barn
+              till föräldrar som är gifta med varandra och barn till ogifta
+              föräldrar. 1982 års namnlag kännetecknas vidare av att den ger
+              ett betydligt större utrymme än äldre bestämmelser åt den enskilde
+              att själv bestämma vilket namn han eller hon vill bära.
+            </p>
+            <p>
+              Med personnamn avses efternamn, mellannamn och förnamn. Namnlagens
+              bestämmelser om efternamn innebär bl.a. att barn vid födseln förvärvar
+              föräldrarnas efternamn, när dessa har samma namn. Om föräldrarna
+              har olika efternamn, får de välja vilketdera namnet barnet skall
+              ha, såvida de inte redan har annat barn under sin gemensamma vårdnad.
+              I ett sådant fall förvärvar barnet vid födseln det efternamn som
+              det senast födda syskonet bär. Får föräldrarna välja namn, kan
+              de också välja ett namn som endera av dem burit som ogift. Görs
+              inte någon anmälan, anses barnet vid födseln ha förvärvat moderns
+              efternamn (1 §).
+            </p>
+            <p>
+              Den som vill byta ett efternamn som har förvärvats vid födseln
+              till ett annat efternamn som bärs av någon av föräldrarna kan
+              göra detta genom anmälan till skattemyndighet. Om byte skall ske
+              till ett efternamn, som någon av föräldrarna förvärvat genom äktenskap
+              med annan än den andra av föräldrarna, krävs samtycke av maken
+              i det äktenskapet. Genom anmälan till skattemyndigheten kan byte
+              ske även till ett efternamn som någon av föräldrarna senast har
+              burit som ogift. Så länge ett barn är under 18 år kan barnet med
+              stöd av de redovisade bestämmelserna flera gånger byta till ett
+              efternamn som har anknytning till någon av föräldrarna. Sedan
+              barnet fyllt 18 år får byte till annat namn med anknytning till
+              föräldrarna däremot ske endast en gång (5 §).
+            </p>
+            <p>
+              Beträffande makars efternamn innebär namnlagen i huvudsak att
+              makarna vid äktenskapets ingående kan välja mellan att antingen
+              få namngemenskap genom att en av dem tar den andras efternamn
+              eller behålla sina efternamn från tiden före giftermålet. Om makarna
+              bär olika efternamn kan den ena av dem under äktenskapet byta
+              till den andras efternamn. Har den ena maken vid giftermålet eller
+              senare bytt till den andras efternamn kan den maken ta tillbaka
+              sitt efternamn som ogift. Som en generell regel (10 §) gäller
+              att en make som en gång bytt sitt efternamn inte därefter kan
+              byta till den andra makens efternamn.
+            </p>
+            <p>
+              Den som i andra fall än som ovan redovisats vill byta sitt efternamn
+              kan få tillstånd härtill efter ansökan hos Patent- och registreringsverket.
+              Byte kan ske både till ett nybildat efternamn eller till något
+              annat efternamn. Om sådant namnbyte skett en gång krävs det särskilda
+              skäl för ytterligare byten (11 §). Obegränsade möjligheter till
+              namnbyten har ansetts kunna komma att missbrukas av den som vill
+              undandra sig sina förpliktelser mot det allmänna eller som ägnar
+              sig åt brottsliga förfaranden.
+            </p>
+            <p>
+              Som nybildat efternamn får inte godkännas namn som till bildning,
+              uttal eller stavning har en sådan språklig form att det inte är
+              lämpligt som efternamn här i landet. Namn som är i bruk som förnamn
+              får godkännas som nybildat efternamn endast i undantagsfall. Inte
+              heller namn som kan uppfattas som en benämning på järnvägsstationer,
+              postkontor eller liknande och därför kan medföra olägenhet eller
+              i övrigt kan vilseleda allmänheten får godkännas som nybildade
+              efternamn. Detsamma gäller för namn som kan väcka anstöt eller
+              kan antas leda till obehag för den som bär det (12 §). Vidare
+              gäller - vare sig det är fråga om ett nybildat eller annat efternamn
+              - att som efternamn inte får godkännas namn som lätt kan förväxlas
+              med efternamn som någon annan har rätt att bära enligt namnlagen,
+              allmänt känt efternamn som burits av en utdöd släkt, allmänt känt
+              utländskt efternamn, konstnärsnamn eller likartat namn, beteckning
+              för stiftelse, ideell förening eller liknande, annans firma, varumärke
+              eller annat kännetecken eller titel på litterärt eller konstnärligt
+              verk. Om någon efter ansökan har förvärvat ett nybildat namn kan
+              vissa anhöriga till sökanden med dennes samtycke få förvärva samma
+              efternamn (13 §). Detta gäller dock inte sökandens make.
+            </p>
+            <p>
+              Namnlagen innehåller också en särskild bestämmelse som medger
+              byte till ett efternamn utan hinder av de begränsningar som redovisats
+              ovan (14 § andra stycket). Bestämmelsen har tillkommit med tanke
+              på särskilda fall, då det kan föreligga starka skäl att tillåta
+              namnbyte även om de stadgade villkoren inte är uppfyllda. För
+              att namnbyte enligt 14 § andra stycket skall medges krävs synnerliga
+              skäl. Som exempel på sådana skäl nämns i förarbetena (prop. 1963:33,
+              s. 99) att en person under lång tid faktiskt har burit ett visst
+              namn och önskar formell rätt att bära namnet eller att en person
+              vill förvärva ett namn som tidigare burits i hans släkt.
+            </p>
+            <p>
+              Med patronymikon och metronymikon avses namn som är bildade på
+              genitiven av faderns resp. moderns förnamn med tillägg av -son
+              eller -dotter. Sådana namnbildningar kan godkännas som förnamn
+              och således ges ett barn vid födseln (34 §). Patronymikon och
+              metronymikon som förnamn kan också förvärvas senare i livet genom
+              anmälan till skattemyndigheten eller ansökan hos Patent- och registreringsverket
+              (31 och 33 §§). Det är också möjligt att genom byte få rätt att
+              bära ett patronymikon eller metronymikon som efternamn, dock endast
+              om det föreligger särskilda skäl (14 § första stycket).
+            </p>
+            <p>
+              Med mellannamn avses enligt 1982 års namnlag vad som i 1963 års
+              lag kallades tilläggsnamn. Mellannamnet skall alltid bäras mellan
+              förnamn och efternamn (29 §). Samma regel gällde enligt 1963 års
+              lag beträffande tilläggsnamn.
+            </p>
+            <p>
+              Genom ordningen med mellannamn ges make möjlighet att visa både
+              sin nuvarande och sin tidigare familjeanknytning. Maken kan också
+              genom mellannamn upprätthålla namnsamhörighet med barn i tidigare
+              äktenskap. För barn finns möjlighet att genom mellannamn visa
+              samhörighet med båda sina föräldrar när dessa har olika efternamn.
+              Detsamma gäller adoptivbarn och fosterbarn i förhållande till
+              adoptivföräldrar resp. fosterföräldrar.
+            </p>
+            <p>
+              Namnlagens bestämmelser om rätten att bära mellannamn för make
+              (24-29 §§) innebär i huvudsak följande. En make som har förvärvat
+              den andre makens efternamn får bära ett tidigare efternamn som
+              mellannamn. Har båda makarna under äktenskapet behållit sina tidigare
+              efternamn, får en av dem med den andre makens samtycke bära den
+              andres efternamn som mellannamn, under förutsättning att namnet
+              inte har förvärvats på grund av ett tidigare äktenskap. En make
+              kan även sedan äktenskapet har upplösts börja bära den andre makens
+              efternamn som mellannamn. En förutsättning är dock att denne samtycker
+              till det.
+            </p>
+            <p>
+              Bestämmelserna i namnlagen om mellannamn medför inte rätt att
+              samtidigt bära mer än ett mellannamn. Den som vill bära ett mellannamn
+              skall anmäla detta till skattemyndigheten. Vill han eller hon
+              inte längre bära mellannamnet skall också anmälan härom göras
+              till skattemyndigheten (29 §). Till skillnad från efternamnet
+              är mellannamnet personligt och kan inte föras vidare till make
+              eller barn.
+            </p>
+            <p>
+              Från mellannamn är att skilja dubbelnamn, som är ett efternamn
+              bestående av två namn vilka vart för sig kan utgöra efternamn.
+              Namnen är i regel förenade med varandra genom ett bindestreck.
+              Fr.o.m. 1963 års lag är det inte möjligt att förvärva dubbelnamn,
+              och 1982 års namnlag innehåller en uttrycklig bestämmelse om att
+              dubbelnamn inte får godkännas som nybildat efternamn (12 §). Det
+              intresse som skulle kunna tillgodoses genom dubbelnamn har ansetts
+              i stället få tillgodoses genom mellannamn.
+            </p>
+            <p>
+              Beträffande förnamn innebär namnlagen sammanfattningsvis följande.
+              Ett barn skall inom tre månader från födelsen ges ett eller flera
+              förnamn. Förnamn kan bytas ut, strykas eller läggas till genom
+              en anmälan till skattemyndigheten. En sådan anmälan får endast
+              göras vid ett tillfälle. Ett förnamn skall dock alltid behållas.
+              Ytterligare förnamnsändringar prövas av Patent- och registeringsverket.
+              Enligt 34 § namnlagen får som förnamn inte godkännas namn som
+              kan väcka anstöt eller kan antas leda till obehag för den som
+              skall bära det eller namn som av någon anledning uppenbarligen
+              inte är lämpligt som förnamn.
+            </p>
+            <p>
+              Namnlagens regler gäller inte bara för svenska medborgare utan
+              även för medborgare i Danmark, Finland och Norge som är bosatta
+              här i landet. Andra utländska medborgare som har hemvist i Sverige
+              har möjlighet att förvärva och ändra namn i enlighet med namnlagens
+              bestämmelser - med undantag dock för reglerna om automatiska namnförvärv
+              - men de kan välja att i stället vända sig till myndigheterna
+              i sitt hemland och byta namnet enligt lagen där.
+            </p>
+            <p>
+              När det gäller förfarandet i mål och ärenden enligt namnlagen
+              ankommer det som tidigare berörts på skattemyndigheten att handlägga
+              frågor om förvärv av barns och makars förvärv och byte av efternamn
+              (s.k. familjerättsliga namnförvärv). Skattemyndigheten har också
+              hand om så gott som alla frågor som gäller mellannamn och förnamn.
+              Ärenden om namnförvärv som inte sker automatiskt tas upp genom
+              anmälan. Någon avgift utgår inte.
+            </p>
+            <p>
+              I frågor om byte till efternamn som inte kan fås genom ett familjerättsligt
+              namnförvärv (s.k. administrativa namnförvärv) och vissa ändringar
+              av förnamn är Patent- och registreringsverket behörig myndighet
+              som tar upp ärendet efter ansökan. Ansökningsavgiften uppgår enligt
+              1 § namnförordningen (1982:1136) till 600 kr om ansökan avser
+              förnamn och till 1 000 kr om den avser efternamn.
+            </p>
+            <p>
+              När det gäller byte av barns efternamn uppställs i några fall
+              krav på att domstol funnit namnbytet förenligt med barnets bästa.
+              Det gäller dels då barn under 18 år står under vårdnad av endast
+              den ena av föräldrarna men bär den andras efternamn och vill byta
+              detta utan att den andra lämnar samtycke därtill (6 §), dels då
+              adoptivbarn vill i motsvarande fall byta efternamn (7 §) och dels
+              då fosterbarn vill byta till fosterföräldrarnas namn (8 §).
+            </p>
+            <p>
+              Beslut av skattemyndigheten får överklagas hos allmän förvaltningsdomstol.
+              Den som inte är nöjd med förvaltningsdomstolens beslut får överklaga
+              det till kammarrätten, varvid krävs prövningstillstånd. Patent-
+              och registreringsverkets beslut får överklagas till Patentbesvärsrätten.
+              Kammarrättens och Patentbesvärsrättens beslut enligt namnlagen
+              kan, under vissa förutsättningar, överklagas till regeringsrätten.
+            </p>
+            <p>
+              För den som är under 18 år gäller att anmälan eller ansökan i
+              mål eller ärende enligt namnlagen skall göras av barnets vårdnadshavare.
+              Om barnet fyllt 12 år krävs samtycke av barnet. Kravet på samtycke
+              gäller dock inte när barnet är varaktigt förhindrat att lämna
+              samtycke på grund av något psykiskt eller fysiskt handikapp (48
+              §).
+            </p>
+            <p>
+              Särskilda bestämmelser om s.k. könsbyte finns i lagen (1972:119)
+              om fastställelse av könstillhörighet i vissa fall. Av 1 § följer
+              att den som sedan ungdomen upplever att han tillhör ett annat
+              kön än det som framgår av folkbokföringen och sedan avsevärd tid
+              uppträder i enlighet härmed samt måste antas även framdeles leva
+              i en sådan könsroll kan efter egen ansökan få fastställt att han
+              tillhör det andra könet. En sådan fastställelse kan meddelas endast
+              om sökanden fyllt arton år och undergått sterlisering eller av
+              annan orsak saknar fortplantningsförmåga. Enligt lagens 3 § får
+              sådan fastställelse meddelas endast för ogift svensk medborgare.
+              I 4 § finns regler om ingrepp i könsorganen efter särskilt tillstånd.
+            </p>
+            <p>
+              Enligt 5 § prövar Socialstyrelsen frågor om fastställelse enligt
+              1 och 2 §§ och tillstånd enligt 4 §. Prövningen föregås av en
+              omfattande utredning som kan pågå under flera år och som bl.a.
+              innefattar psykiatriska, psykologiska och somatiska bedömningar.
+              Enligt uppgift behandlas årligen omkring 15-20 ansökningar om
+              fastställelse av könstillhörighet.
+            </p>
+            <p>
+              Enligt Patent- och registreringsverkets och patentbesvärsrättens
+              praxis gäller att en man inte får byta till ett kvinnligt förnamn
+              och att en kvinna inte får byta till ett manligt förnamn. Ett
+              sådant namnbyte anses strida mot 34 § namnlagen. Däremot medges
+              byte till ett könsneutralt förnamn.
+            </p>
+            <p>
+              Såvitt gäller transsexuella personer kan Socialstyrelsen under
+              pågående utredning enligt 1972 års lag i vissa fall meddela ett
+              delbeslut för att användas i namnfrågan. Med stöd av ett sådant
+              beslut är det möjligt att - om övriga förutsättningar är uppfyllda
+              - byta till ett förnamn som är förknippat med det andra könet.
+              Detta gäller dock inte om sökanden visserligen genomgår viss behandling,
+              exempelvis med hormoner, men inte avser att eller kan få till
+              stånd ett beslut om fastställelse av könstillhörighet.
+            </p>
+            <p>
+              Motionerna
+            </p>
+            <p>
+              I motion L401 anför Gunnar Axén (m) att medborgarna skall myndigförklaras
+              och yrkar att riksdagen skall besluta att avskaffa namnlagen.
+            </p>
+            <p>
+              Henrik Westman (m) pekar i motion L457 på att många invandrare
+              och flyktingar som kommit till Sverige och blivit svenska medborgare
+              av olika skäl ibland väljer att byta namn. Enligt motionärens
+              mening bör detta vara kostnadsfritt. I motionen anförs att det
+              är kostnadsfritt för nyfödda barn att få ett namn, och motionären
+              menar att invandrare och flyktingar bör ha samma utgångsläge.
+              I motionen yrkas att riksdagen tillkännager för regeringen som
+              sin mening vad i motionen anförs om namnbyte för nya svenska medborgare.
+            </p>
+            <p>
+              Stig Rindborg m.fl. (m) anser i motion L412 att namnlagen och
+              dess tillämpning innebär att man lagt olika skönhets- och moralaspekter
+              på vilket namn som är möjligt att välja. Enligt motionärernas
+              mening har det visat sig att tillämpningen av dessa skönsmässiga
+              regler blir ojämn och oförutsebar. I motionen redovisas exempel
+              som motionärerna anser stödjer påståendet. Vidare kritiserar motionärerna
+              förbudet mot dubbelnamn. Enligt motionärernas mening är det inte
+              skäligt att begränsa medborgarnas möjligheter att själv välja
+              vad de vill kalla sig eller att den som vill byta namn skall vara
+              utelämnad till en skönsmässig bedömning. Att inte tillåta medborgarna
+              att formellt heta vad de själva önskar kommer, enligt motionärernas
+              mening, att leda till ett dubbelspel där ett namn brukas vid kontakter
+              med myndigheter och ett annat vid övriga tillfällen i livet. Motionärerna
+              anser att det inte finns tillräckligt starka skäl för att hindra
+              människor från att skapa de namn de önskar, vare sig det gäller
+              förnamn eller efternamn. I motionen yrkas att riksdagen begär
+              att regeringen lägger fram förslag till sådan ändring av namnlagen
+              att endast immaterialrättsligt skyddade värden skall begänsa medborgarnas
+              möjligheter att själva välja sina namn.
+            </p>
+            <p>
+              I motion L428 anför Tomas Eneroth m.fl. (s) att namnlagen varit
+              förmål för diskussion vid återkommande tillfällen - under senare
+              år med anledning av svårigheter att föra dubbelnamn vidare till
+              sina barn och i samband med att nya namn inte godkänts eftersom
+              de uppfattas som främmande eller stötande. Enligt motionärernas
+              mening bör den nuvarande namnlagen förändras. Motionärerna anser
+              att lagen grundar sig på ett föråldrat synsätt på namnets betydelse
+              såväl ur familjerättsliga som värderingsmässiga utgångspunkter.
+              En utredning bör komma till stånd i syfte att ge utökad rätt för
+              medborgarna att själva få bestämma sitt och sina barns namn. I
+              motionen yrkas att riksdagen tillkännager för regeringen som sin
+              mening vad i motionen anförs om en liberalisering av namnlagen.
+            </p>
+            <p>
+              Tasso Stafilidis m.fl. (v, fp, s, mp och c) aktualiserar i motion
+              L441 vissa namnrättsliga och andra spörsmål med anknytning till
+              transsexuella. I motionen sägs att man i praxis inte tillåter
+              att personer som juridiskt sett är män byter till kvinnliga förnamn
+              och vice versa. Enligt motionärernas mening finns inga rimliga
+              skäl att förbjuda personer att bära ett visst förnamn för att
+              det förknippas med det andra könet. Den principiella frågan påverkas
+              inte av att det finns ett begränsat antal könsneutrala förnamn
+              som är tillgängliga oavsett könstillhörighet. Att byta från manligt
+              till kvinnligt förnamn eller vice versa är, anför motionärerna,
+              inget som görs av okynne. Nuvarande begränsingar i reglerna för
+              förnamnsbyte minskar inte den stora allmänhetens valfrihet men
+              den upplevs som en stor begränsning för många transsexuella. I
+              motionen yrkas att riksdagen tillkännager för regeringen som sin
+              mening vad i motionen anförs om behov av ändring av namnlagen
+              (yrkande 2). I motionen kritiseras vidare det förhållandet att
+              det inte finns några regler om hur en person som genomgått ett
+              könsbyte skall kunna få sin identitet retroaktivt ändrad i exempelvis
+              betyg och anställningshandlingar. Det har, enligt motionärerna,
+              visat sig vara svårt för personer som genomgått könsbyte att att
+              få sådana handlingar ändrade i efterhand. Motionärerna anser att
+              problemet inte bör avfärdas utan att regeringen bör återkomma
+              med förslag till lagstiftning eller med förslag om hur problemet
+              kan lösas utan lagstiftning. I motionen yrkas att riksdagen tillkännager
+              för regeringen som sin mening vad i motionen anförs om rättigheter
+              till retroaktivt namnbyte efter könsbyte (yrkande 3).
+            </p>
+            <p>
+              Utskottets ställningstaganden
+            </p>
+            <p>
+              Vad först gäller motion L401 kan utskottet inte ställa sig bakom
+              yrkandet att namnlagen skall avskaffas, och utskottet avstyrker
+              bifall till motionen.
+            </p>
+            <p>
+              När det sedan gäller motion L457 vill utskottet erinra om att
+              den gängse ordningen är att den som vill ha en ansökan prövad
+              av en myndighet eller domstol har att betala en viss avgift, och
+              detta oavsett vilka skäl som ligger bakom ansökan. Någon anledning
+              att göra undantag för ansökningar hos Patent- och registeringsverket
+              i fråga om namnbyten föreligger inte. Utskottet har också tidigare
+              motsatt sig motionsledes framförda förslag om att namnbyten hos
+              Patent- och registreringsverket skall vara avgiftsfria (bet. 1990/91:LU28).
+              Till saken hör också att Patent- och registreringsverkets verksamhet
+              är avgiftsfinansierad.
+            </p>
+            <p>
+              Med det anförda avstyrker utskottet bifall till motion L457.
+            </p>
+            <p>
+              Inför ett ställningstagande till motionerna L412, L428 och L441
+              yrkande 2 vill utskottet först erinra om att 1982 års namnlag
+              kom till efter en omfattande debatt om och en ingående prövning
+              av vilka principer som skulle ligga till grund för en ny namnlag.
+              Lagen fick sin slutliga utformning under beredningen i lagutskottet
+              (bet. LU 1981/82:41).
+            </p>
+            <p>
+              Namnlagsutredningens förslag kännetecknades av att det gav större
+              utrymme än 1963 års lag åt enskilda att själva bestämma vilket
+              namn de skall ha. Enligt utredningen var det allmännas intresse
+              av namnstabilitet inte lika framträdande som tidigare med hänsyn
+              till att systemet med personnummer måste anses vara ett säkert
+              identifikationsmedel. En annan viktig omständighet som låg till
+              grund för utredningsförslaget var att skapa ökad jämställdhet
+              mellan kvinnor och män. Utredningens förslag utgick vidare från
+              att man inte i namnrättsligt hänseende bör göra några skillnader
+              mellan barn vars föräldrar är gifta med varandra och barn vars
+              föräldrar inte är det.
+            </p>
+            <p>
+              Utredningens förslag väckte en livlig debatt under remissbehandlingen.
+              De grundtankar som bar upp förslaget stöddes av flertalet remissinstanser.
+              Många ansåg dock att utredningen i alltför hög grad renodlat dessa
+              tankar på bekostnad av andra intressen som också är beaktansvärda.
+              Bl.a. kritiserades utredningens avvägningar mellan det allmännas
+              intresse av namnstabilitet och de enskildas önskemål om att fritt
+              kunna välja namn. De remissinstanser som var kritiska ansåg att
+              personnummer varken kan eller bör ersätta individ- ens namn som
+              identifikationsmedel. Från några håll påpekades att det inte heller
+              fanns anledning att främja det intresse som vissa enskilda personer,
+              särskilt vid olika former av ekonomisk brottslighet, kan ha av
+              att tid efter annan upptäda under olika namn. Åtskilliga remissinstanser
+              framhöll vidare att utredningens förslag om familjerättsliga namnförvärv
+              på ett alltför radikalt sätt bröt mot den namntradition som var
+              fast rotad i vårt land.
+            </p>
+            <p>
+              I proposition 1981/82:156 anförde departementschefen att en persons
+              namn i första hand har betydelse för den enskilde själv. En utgångspunkt
+              för en reform av namnlagstiftningen bör därför vara, anförde departementchefen,
+              att den enskilde i så stor utsträckning som möjligt får bestämma
+              vilket namn han eller hon skall ha. Den som inte längre vill bära
+              ett visst efternamn bör också, framhöll departementschefen, på
+              ett enkelt sätt kunna byta detta till ett namn som han eller hon
+              föredrar.
+            </p>
+            <p>
+              Huvudinvändningarna i de med anledning av propositionen väckta
+              motionerna var att ett genomförandet av lagsförslaget skulle försvaga
+              familjegemenskapen och släktsamhörigheten och därmed ytterligare
+              förstärka många människors, inte minst barnens, känsla av otrygghet
+              och rotlöshet i samhället. Förslaget skulle också, om det genomfördes,
+              komma att på ett beklagigt sätt bryta med gamla traditioner. Kritiken
+              sköt bl.a. in sig på att förslaget utformats så att det öppnade
+              möjlighet till att alla medlemmar i en familj kan ha olika efternamn.
+              Därutöver framhölls att de stora möjligheterna att på ett enkelt
+              sätt byta såväl efternamn som förnamn och således helt byta namnidentitet
+              skulle kunna komma att utnyttjas i brottsliga och andra inte seriösa
+              sammanhang.
+            </p>
+            <p>
+              Lagutskottets ställningstaganden i betänkandet LU 1981/82:41
+              innebar sammanfattningvis att utskottet ställde sig bakom huvudprinciperna
+              i lagförslaget om jämställdhet mellan kvinnor och män och likabehandling
+              av barn till föräldrar, som är gifta med varandra, och barn till
+              ogifta föräldrar. Däremot ansåg utskottet i likhet med vad som
+              anförts i de då aktuella motionerna att intresset av namnstabilitet
+              borde tillgodoses på ett bättre sätt än som skett i propositionen.
+              I förhållande till regeringens förslag förordade utskottet vissa
+              spärregler i syfte att försvåra möjligheten att ändra namnidentiteten.
+              Sålunda begränsades möjligheten för makar att under äktenskapet
+              genom en enkel anmälan flera gånger byta namn. Detsamma gjordes
+              i fråga om vuxna barns möjligheter att byta till föräldrarnas
+              namn. Slutligen infördes vissa begränsningar i rätten att genom
+              en enkel anmälan byta, lägga till eller stryka förnamn. Bl.a.
+              måste, om förnamn byts eller stryks, alltid ett ursprungligt förnamn
+              behållas.
+            </p>
+            <p>
+              Utskottet har uppfattat de nu aktuella motionsyrkandena så att
+              motionärerna vill ha till stånd ändringar i namnlagen som syftar
+              till att öka möjligheterna för den enskilde att själv bestämma
+              vilket namn han eller hon vill bära. Vad som anförts i motionerna
+              utgör, enligt utskottets mening, inte tillräckliga skäl för att
+              riksdagen nu fullt ut skall kunna ställa sig bakom motionsönskemålen.
+              Det har emellertid snart gått tjugo år sedan 1982 års namnlag
+              trädde i kraft. Efter lagens tillkomst har förhållandevis få ändringar
+              gjorts i den namnrättsliga lagstiftningen, och det kan, enligt
+              utskottets mening, inte uteslutas att synen på hur namnskicket
+              lämpligen bör vara reglerat ändrats. Utskottet anser mot denna
+              bakgrund att tiden nu är mogen för att göra en undersökning för
+              att utröna huruvida de avvägningar som gjordes i samband med namnlagens
+              tillkomst mellan det allmännas intresse av namnstabilitet och
+              enskildas önskemål att fritt välja namn fortfarande kan anses
+              vara bärkraftiga. Det bör ankomma på regeringen att bestämma de
+              närmare formerna för ett sådant arbete. En undersökning liknande
+              den som Namnlagsutredningen lät utföra rörande uppfattningen hos
+              allmänheten när det gäller rätten att bära släktnamn kan vara
+              en av flera tänkbara arbetsformer. Om det av utskottet förordade
+              undersökningsarbetet ger vid handen att det föreligger ett klart
+              och uttalat behov av lagändringar bör regeringen ta upp frågan
+              om vilka lagstiftningsåtgärder som är påkallade och meddela direktiv
+              för ett sådant lagstiftningsarbete.
+            </p>
+            <p>
+              Vad utskottet sålunda anfört bör riksdagen med anledning av motionerna
+              L412, L428 och L441 yrkande 2 som sin mening ge regeringen till
+              känna.
+            </p>
+            <p>
+              Spörsmålet i motion L441 yrkande 3 om retroaktivt namnbyte efter
+              könsbyte behandlades av utskottet våren 2000. I sitt av riksdagen
+              godkända betänkande 1999/2000:LU16 erinrade utskottet om att ett
+              namnbyte, i likhet med en fastställelse av könstillhörighet, endast
+              gäller för framtiden. Enligt utskottet mening kunde det inte komma
+              i fråga att i lag införa en tvingande skyldighet för den som någon
+              gång, kanske långt tillbaka i tiden, utfärdat betyg, intyg eller
+              liknande handlingar att göra ändringar i ett dokument som vid
+              tiden för upprättandet var helt korrekt. Det problem som motionären
+              tog upp fick enligt utskottets uppfattning lösas på annat sätt
+              än genom lagstiftning.
+            </p>
+            <p>
+              Utskottet vidhåller sin uppfattning från förra våren och kan
+              således inte heller nu se någon möjlighet att i detta hänseende
+              förorda lagstiftning. Utskottet utesluter emellertid inte att
+              motionsspörsmålet kan komma att bli föremål för ytterligare belysning
+              inom ramen för det arbete som utskottet ovan förordat. Frågeställningarna
+              torde också lämpligen kunna bli föremål för närmare överväganden
+              i andra sammanhang. Bl.a. har socialutskottet i sitt av riksdagen
+              nyligen godkända betänkande 2000/01:SoU1 uttalat att det är viktigt
+              att situationen för de transsexuella noga följs.
+            </p>
+            <p>
+              Med det anförda avstyrker utskottet bifall till motion L441 yrkande
+              3.
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bhemst">
+              Hemställan
+            </head>
+            <p>
+              Utskottet hemställer
+            </p>
+            <p>
+              1. beträffande namnlagens avskaffande
+            </p>
+            <p>
+              att riksdagen avslår motion 2000/01:L401,
+            </p>
+            <p>
+              2. beträffande avgifter i namnärenden
+            </p>
+            <p>
+              att riksdagen avslår motion 2000/01:L457,
+            </p>
+            <p>
+              3. beträffande ändringar i namnlagen
+            </p>
+            <p>
+              att riksdagen med anledning av motionerna 2000/01:L412, 2000/01:
+              L428 och 2000/01:L441 yrkande 2 som sin mening ger regeringen
+              till känna vad utskottet anfört,
+            </p>
+            <p>
+              4. beträffande retroaktiva namnbyten
+            </p>
+            <p>
+              att riksdagen avslår motion 2000/01:L441 yrkande 3. res. (v)
+            </p>
+            <p>
+              Stockholm den 18 januari 2001
+            </p>
+            <p>
+              På lagutskottets vägnar
+            </p>
+            <p>
+              Tanja Linderborg
+            </p>
+            <p>
+              I beslutet har deltagit: Tanja Linderborg (v), Rolf Åbjörnsson
+              (kd), Marianne Carlström (s), Rune Berglund (s), Karin Olsson
+              (s), Henrik S Järrel (m), Nikos Papadopoulos (s), Elizabeth Nyström
+              (m), Marina Pettersson (s), Christina Nenes (s), Tasso Stafilidis
+              (v), Kjell Eldensjö (kd), Berit Adolfsson (m), Viviann Gerdin
+              (c), Ana Maria Narti (fp), Christina Pettersson (s) och Anne-
+              Katrine Dunker (m).
+            </p>
+          </div>
+          <div type="section" subtype="h2">
+            <head xml:id="bres">
+              Reservation
+            </head>
+            <p>
+              Retroaktiva namnbyten (mom. 4)
+            </p>
+            <p>
+              Tanja Linderborg och Tasso Stafilidis (båda v) anser
+            </p>
+            <p>
+              dels att den del av utskottets yttrande som på s. 10 börjar med
+              "Spörsmålet i" och slutar med "yrkande 3" bort ha följande lydelse:
+            </p>
+            <p>
+              Vad slutligen gäller motion L441 yrkande 3 anser utskottet, i
+              likhet med motionärerna, att det är ett stort problem för personer
+              som genomgått könsbyte att inte kunna få sin namnidentitet ändrad
+              retroaktivt. Problemet är särskilt stort när det gäller vissa
+              handlingar såsom betyg och anställningsbevis. Enligt utskottets
+              mening är det angeläget att regeringen överväger vilka möjligheter
+              det finns att komma till rätta med detta problem och därefter
+              återkommer till riksdagen med eventuella lagförslag eller vilka
+              andra åtgärder som kan vidtas för att komma till rätta med problemet.
+              Vid den översyn av namnlagen som regeringen skall vidta, i enlighet
+              med vad utskottet förordat ovan, bör enligt utskottets mening
+              även retroaktiviteten i fråga om namnbyte ses över.
+            </p>
+            <p>
+              Vad utskottet sålunda anfört bör riksdagen med bifall till motion
+              L441 yrkande 3 som sin mening ge regeringen till känna.
+            </p>
+            <p>
+              dels att utskottets hemställan under 4 bort ha följande lydelse:
+            </p>
+            <p>
+              4. beträffande retroaktiva namnbyten
+            </p>
+            <p>
+              att riksdagen med bifall till motion 2000/01:L441 yrkande 3 som
+              sin mening ger regeringen till känna vad utskottet anfört.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

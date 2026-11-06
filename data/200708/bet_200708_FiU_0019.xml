@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200708_FiU_0019">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Nittio procent av kommunerna och landstingen uppvisar positiva resultat. Det visar regeringens årliga redovisning av ekonomin och verksamheterna i kommuner och landsting som lämnats till riksdagen. För första gången sedan 2002 ökade dock antalet kommuner med negativt resultat. Antalet landsting med positivt resultat har ökat kraftigt de senaste tre åren. År 2007 var det bara två landsting som redovisade negativt resultat. I resultaten ovan är eventuella extraordinära poster inte medräknade.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Utvecklingen inom den kommunala sektorn (FiU19)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Skrivelsen läggs till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GV09129</idno>
+              <title>2008-06-16</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">129</biblScope>
+              <note type="display-reference">2008-06-16</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GV09129</idno>
+              <title>2008-06-16</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">129</biblScope>
+              <note type="display-reference">2008-06-16</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GV0K245</idno>
+              <title>2007/08:245</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">245</biblScope>
+              <note type="display-reference">2007/08:245</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="skr">
+              <idno type="riksdagen">GV03102</idno>
+              <title>Utvecklingen inom den kommunala sektorn</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">102</biblScope>
+              <note type="display-reference">regeringsskrivelse 2007/08:102 Utvecklingen inom den kommunala sektorn</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2008-06-12">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2008-06-12">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-06-09">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-06-09">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-06-09">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-06-09">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-06-05">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-06-05">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-05-22">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-05-22">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2008-06-16">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-06-16">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-06-16">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-06-16">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-06-16">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-06-13">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-06-13">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-06-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-06-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2007/08:FiU19
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Utvecklingen inom den kommunala sektorn
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACZ0BE" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar finansutskottet skrivelse 2007/08:102
+            Utvecklingen inom den kommunala sektorn. Skrivelsen utgör regeringens
+            årliga redovisning av ekonomin och verksamheterna i kommuner och
+            landsting. Redovisningen av de kommunala verksamheterna avser
+            i huvudsak förhållandena t.o.m. verksamhetsåret 2007. Utskottet
+            framhåller att den årliga skrivelsen är ett viktigt inslag i återrapporteringen
+            av resultatinformationen till riksdagen och föreslår att riksdagen
+            lägger skrivelsen till handlingarna.
+          </p>
+          <p xml:id="IDAJZ0BE" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Skrivelsen om utvecklingen inom den kommunala sektorn
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger skrivelse 2007/08:102 till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 5 juni 2008
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Thomas Östros (s), Ulf Sjösten (m), Anna Lilliehöök (m), Sonia
+            Karlsson (s), Lars Elinderson (m), Roger Tiefensee (c), Monica
+            Green (s), Johan Pehrson (fp), Peder Wachtmeister (m), Agneta
+            Gille (s), Göran Pettersson (m), Ulla Andersson (v), Tommy Ternemar
+            (s), Emma Henriksson (kd), Mikaela Valtersson (mp) och Christina
+            Zedell (s).
+          </p>
+          <p xml:id="IDAL20BE" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAO20BE" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I detta betänkande behandlar utskottet regeringens årliga resultatskrivelse
+            Utvecklingen inom den kommunala sektorn (skr. 2007/08:102). Inga
+            motioner har väckts med anledning av regeringens skrivelse. Finansutskottet
+            har berett socialutskottet, utbildningsutskottet och arbetsmarknadsutskottet
+            tillfälle att yttra sig över skrivelsen. Utskotten har beslutat
+            att inte avge några yttranden.
+          </p>
+          <p xml:id="IDAU20BE" rend="rubrik2">
+            Skrivelsens huvudsakliga innehåll
+          </p>
+          <p>
+            I skrivelsen lämnar regeringen en översiktlig redovisning av
+            hur ekonomin och verksamheten i kommuner och landsting har utvecklats
+            de senaste åren.
+          </p>
+          <p>
+            Redovisningen av den ekonomiska utvecklingen innehåller bl.a.
+            uppgifter om kommunernas och landstingens resultat, nettokostnader
+            och sysselsättning. Även utvecklingen när det gäller de statliga
+            bidragen till kommunerna behandlas.
+          </p>
+          <p>
+            Redovisningen av utvecklingen i den kommunala verksamheten omfattar
+            i första hand de obligatoriska verksamheterna skola, vård och
+            omsorg. Redovisningen syftar till att beskriva hur dessa verksamheter
+            utvecklats i förhållande till de nationella mål som riksdagen
+            och regeringen har formulerat.
+          </p>
+          <p>
+            Redovisningen av de kommunala verksamheterna avser i huvudsak
+            förhållandena t.o.m. 2007.
+          </p>
+          <p xml:id="IDAE30BE" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAI30BE" rend="rubrik2">
+            Skrivelsen om utvecklingen inom den kommunala sektorn
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAO30BE" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen lägger skrivelse 2007/08:102 Utvecklingen inom den
+                kommunala sektorn till handlingarna.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA030BE" rend="r3">
+              Regeringens skrivelse
+            </p>
+            <p>
+              Riksdagen har vid flera tillfällen uttalat sig om betydelsen
+              av en väl fungerande uppföljning av den kommunala sektorn. Med
+              sin övergripande redovisning av läget i kommunsektorn utgör regeringens
+              årliga skrivelse
+              <seg rend="grad2">
+                Utvecklingen inom den kommunala sektorn
+              </seg>
+              ett viktigt inslag i återrapporteringen. Den föreliggande redovisningen
+              av de kommunala verksamheterna avser i huvudsak förhållandena
+              t.o.m. verksamhetsåret 2007.
+            </p>
+            <p xml:id="IDAE40BE" rend="r4">
+              Redovisning av den ekonomiska utvecklingen
+            </p>
+            <p>
+              Regeringen konstaterar att 90 % av kommunerna respektive landstingen
+              uppvisar positiva resultat före extraordinära poster. För första
+              gången sedan 2002 ökade emellertid antalet kommuner med negativt
+              resultat före extraordinära poster. Antalet landsting med positivt
+              resultat har ökat kraftigt de senaste tre åren. År 2007 var det
+              bara två landsting som redovisade negativt resultat före extraordinära
+              poster. För kommunsektorn som helhet uppgick resultatet före extraordinära
+              poster till 12,7 miljarder kronor 2007, vilket är en försämring
+              med 2,6 miljarder kronor jämfört med 2006. Av resultatet stod
+              kommunerna för 9,5 miljarder kronor och landstingen för 3,2 miljarder
+              kronor.
+            </p>
+            <p>
+              Kommunsektorns skatteintäkter ökade med 21,1 miljarder kronor
+              jämfört med 2006 samtidigt som kommunalskatten sänktes med 0,05
+              procentenheter. De generella statsbidragen ökade bl.a. genom att
+              specialdestinerade statsbidrag motsvarande 4,3 miljarder kronor
+              fördes över till de generella statsbidragen för verksamhetens
+              intäkter. Samtidigt ökade emellertid verksamhetens kostnader med
+              32,7 miljarder kronor, bl.a. beroende på demografiska förändringar
+              men också till följd av förändrade riktlinjer för beräkningen
+              av pensionsskulden med anledning av det nya kommunala pensionsavtalet
+              KAP-KL 2006.
+            </p>
+            <p>
+              Regeringen redovisar att Statskontoret på regeringens uppdrag
+              gjort en omfattande genomgång av de beloppsmässigt större specialdestinerade
+              statsbidragen. Detta med anledning av att finansutskottet (bet.
+              2005/06:FiU3, 2005/06:FiU26, 2006/07:FiU24) efterlyst att redovisningen
+              av statsbidrag bör utvecklas i syfte att förbättra överblicken
+              och ge en samlad utvärdering av bidragens måluppfyllelse. Statskontoret
+              överlämnade i november 2007 rapporten Verksamhetsanknutna statsbidrag
+              till kommuner och landsting (2007:17) till regeringen. Rapporten
+              visar att det under 2006 utgick 38 verksamhetsanknutna bidrag
+              som var minst 50 miljoner kronor, vilka tillsammans uppgick till
+              42 miljarder kronor. Totalt var det 30 anslag på statsbudgeten
+              som innehöll denna typ av bidrag. Statsbidragen återfanns huvudsakligen
+              inom utgiftsområdena 9 Hälsovård, sjukvård och social omsorg och
+              16 Utbildning och universitetsforskning. Inom utgiftsområde 9
+              Hälsovård, sjukvård och social omsorg ingick bidraget för läkemedelsförmånerna
+              som ensamt stod för drygt 20 miljarder kronor. Därutöver fanns
+              det 6 statsbidrag från vilka utbetalades 1 miljard kronor eller
+              mer till kommuner och landsting.
+            </p>
+            <p>
+              Rapporten visar att statliga myndigheter oftast får i uppdrag
+              att följa upp men mer sällan att utvärdera den verksamhet man
+              får särskilda bidrag för. I de fall det skett utvärderingar framstår
+              de som ambitiösa och seriösa, enligt Statskontoret, särskilt de
+              som gjorts av Skolverket och Socialstyrelsen. Statskontoret konstaterar
+              att de prestationer som statsbidragen i olika grad har finansierat
+              emellertid utgör ett relativt litet tillskott i förhållande till
+              verksamheten som helhet, varför effekterna är svåra att isolera
+              och utvärdera.
+            </p>
+            <p>
+              Totalt utbetalades 39 miljarder kronor i specialdestinerade statsbidrag
+              2007.
+            </p>
+            <p>
+              De generella statsbidragen, dvs. bidrag som inte är verksamhetsanknutna
+              och som ingår i utgiftsområde 25 Allmänna bidrag till kommuner
+              har ökat från 58,1 miljarder kronor 2006 till 70,8 miljarder kronor
+              2007. Ökningen förklaras av överföringar på 4,3 miljarder kronor
+              från tidigare specialdestinerade statsbidrag, en överföring på
+              7 miljarder kronor motsvarande det tillfälliga sysselsättningsstödet
+              som tidigare fanns på statsbudgetens inkomstsida och ett tillskott
+              på 1,3 miljarder kronor. Därutöver påverkades anslagets utveckling
+              av vissa ekonomiska regleringar mellan staten och kommunsektorn
+              i syfte att neutralisera effekterna av statliga beslut på kommunala
+              kostnader och intäkter.
+            </p>
+            <p>
+              Antalet anställda i kommuner och landsting uppgick 2007 till
+              1 115 700 personer, vilket är 7 400 personer fler än 2006. Mellan
+              2003 och 2007 har antalet sysselsatta i den kommunala sektorn
+              ökat med 2,5 %, vilket motsvarar ca 27 200 sysselsatta. Ökningen
+              av antalet sysselsatta mellan 2006 och 2007 beror främst på en
+              fortsatt ökning av antalet plusarbetare (arbetsmarknadspolitisk
+              åtgärd). Kvinnorna innehade 79 % av anställningarna i kommuner
+              och landsting 2006. Den kvinnliga dominansen var störst i förskolan
+              (94 %). Sjukfrånvaron i kommuner och landsting har från en högsta
+              nivå 20012003 generellt sett sjunkit varje år därefter. Minskningen
+              i sjukfrånvaron mellan 2005 och 2006 motsvarar 2 600 årsarbetare.
+              Deltidsanställningar är fortfarande mycket vanliga, framför allt
+              för kvinnor.
+            </p>
+            <p>
+              I skrivelsen redovisar regeringen också utfallet av den kommunalekonomiska
+              utjämningen under perioden 20052007. Vidare redogörs för kostnadsutjämningen
+              för kommunernas verksamhet enligt lagen (1993:387) om stöd och
+              service till vissa funktionshindrade (LSS).
+            </p>
+            <p xml:id="IDA540BE" rend="r4">
+              Redovisningen av de kommunala verksamheternas utveckling
+            </p>
+            <p>
+              Regeringen framhåller att Sverige vid jämförelser av indikatorer
+              som speglar medborgarnas hälsa och hälso- och sjukvårdens kvalitet
+              får goda resultat exempelvis när det gäller spädbarnsdödlighet
+              och överlevnad i bröstcancer. Vidare framhålls att vid jämförelser
+              av förtroendet för olika samhällsinstitutioner framkommer att
+              sjukvården har ett högt förtroendekapital i jämförelse med andra
+              samhällsfunktioner. När patienterna får yttra sig om olika delar
+              av vården finns det flera områden där trenderna på nationell nivå
+              går i positiv riktning. Det handlar bl.a. om det övergripande
+              betyget på vården, telefonframkomligheten inom primärvården och
+              informationen om den egna sjukdomen.
+            </p>
+            <p>
+              För att stödja genomförandet av den s.k. vårdgarantin har staten
+              sedan 2005 tillfört landstingen extra medel. I skrivelsen redovisas
+              att Socialstyrelsens bedömning är att reformen generellt sett
+              har haft begränsade effekter på väntetiderna. Sveriges Kommuner
+              och Landsting (SKL) anser att vårdgarantin hade en signifikant
+              effekt på väntetiderna direkt efter införandet i november 2005,
+              men att den effekten klingat av under första halvåret 2006. Regeringen
+              poängterar att detta är en bild som känns igen från andra reformer
+              inom hälso- och sjukvårdsområdet. Även om landstingen har olika
+              förutsättningar för att förbättra tillgängligheten så finns i
+              många landsting utrymme för ett mer kraftfullt och systematiskt
+              arbetssätt. Särskilt viktigt är att styrningen och ledningen av
+              tillgänglighetsarbetet blir bättre, både på landstings- och verksamhetsnivå,
+              för att på så sätt öka förutsättningarna för bestående resultat
+              i form av kortare väntetider. Det finns även förbättringspotential
+              när det gäller att åstadkomma en mer patientfokuserad och säkrare
+              vård.
+            </p>
+            <p>
+              Socialstyrelsen har sedan 1996 i uppdrag att utarbeta nationella
+              riktlinjer för vård och behandling. Regeringen understryker att
+              vården av patienter med akut hjärtinfarkt förbättrats betydligt
+              de senaste tolv åren. Arbetet med nationella riktlinjer, registrering
+              och återrapportering har bidragit mycket till detta.
+            </p>
+            <p>
+              För att kunna ge en helhetsbild av hälso- och sjukvårdens och
+              tandvårdens resultat behövs kvalitetsindikatorer. I enlighet med
+              Dagmaröverenskommelserna för 2006 och 2007 har Socialstyrelsen
+              och SKL tillsammans tagit fram två rapporter med öppna jämförelser
+              av hälso- och sjukvårdens effektivitet och kvalitet. Rapporterna
+              visar bl.a. på att öppna jämförelser på landstingsnivå har bidragit
+              till att medicinska resultat nu också redovisas i uppföljningen.
+              Jämförelserna har också bidragit till en fördjupad dialog och
+              att ledningen i högre grad efterfrågar analyser och åtgärder med
+              anledning av utfallet. Av rapporterna framgår vidare att många
+              vårdgivare arbetar aktivt med att införa databaserade avvikelsesystem.
+              Vårdgivarna är dock sämre på att göra riskanalyser för att i förväg
+              finna risker och svagheter i verksamheterna. Dagmaröverenskommelsen
+              2007 innehöll ett flertal satsningar på utvecklad informationsförsörjning
+              som till stor del är kopplad till den nationella IT-strategin.
+            </p>
+            <p>
+              För tandvården saknas i stor utsträckning aktuell nationell statistik
+              över tandhälsan hos vuxna. Socialstyrelsen har därför fått i uppdrag
+              att förbereda inrättandet av ett tandhälsoregister. Socialstyrelsen
+              har även fått i uppdrag att utarbeta nationella riktlinjer inom
+              tandvårdsområdet
+            </p>
+            <p>
+              Att ge en allsidig beskrivning av kvaliteten i omsorgen och vården
+              om de äldre är fortfarande en mycket svår uppgift poängterar regeringen.
+              Socialstyrelsens sammanfattande intryck av utvecklingen är emellertid
+              att förutsättningarna för att utveckla vården och omsorgen om
+              äldre kvinnor och män förbättras i snabb takt och i positiv riktning.
+              Det finns bestående problem med det delade ansvaret för hemsjukvården,
+              inte minst för de multisjuka äldre. En annan grupp som har svårt
+              att få sina behov tillgodosedda är äldre personer med psykisk
+              ohälsa. Ett generellt problem i sjukvården och den kommunala äldreomsorgen
+              är brist på tid och kunskap för att ta sig an äldres psykiska
+              besvär.
+            </p>
+            <p>
+              De nationella satsningarna under senare år på stödet till anhöriga
+              har inneburit att tre av fyra kommuner nu har en anhörigkonsulent/samordnare.
+              Detta är en fördubbling jämfört med 2002.
+            </p>
+            <p>
+              Regeringen konstaterar att korttidsvården i många kommuner tenderade
+              att bli överbelagd. Boende- och vistelsetiderna ökade vilket antogs
+              bero på det minskade antalet platser i särskilt boende. Samtidigt
+              som platserna i särskilt boende minskat har stödet i form av hemtjänst
+              ökat. Kraven på god yrkeskompetens har ökat. I genomsnitt hade
+              68 % av personalen inom äldreomsorgen någon omvårdnadsutbildning.
+              Under 2006 och 2007 gav Socialstyrelsen ut allmänna råd med tydliga
+              kompetenskrav.
+            </p>
+            <p>
+              Antalet insatser enligt lagen om stöd och service till vissa
+              funktionshindrade (LSS) och socialtjänstlagen fortsätter att öka.
+              Antalet personer med insatser enligt LSS ökade med 15 % under
+              perioden 20022006. Kommunernas kostnader steg samtidigt med ungefär
+              12 % (mätt i fasta priser). Socialstyrelsen har i en rapport uppmärksammat
+              att det finns personer i den dagliga verksamheten som borde kunna
+              få annan sysselsättning på den öppna arbetsmarknaden. Det är enligt
+              regeringen oroväckande många unga under 22 år i den dagliga verksamheten
+              och antalet har ökat med 163 % mellan åren 1999 och 2006. Detta
+              kan innebära en inlåsningseffekt. Regeringen noterar vidare att
+              antalet icke verkställda domar har minskat betydligt sedan 2002,
+              då möjligheten till sanktionsavgift gentemot kommunerna infördes.
+              Däremot har antalet ej verkställda beslut ökat under perioden
+              20042006.
+            </p>
+            <p>
+              Under 2007 uppgick kostnaderna för ekonomiskt bistånd till 8,9
+              miljarder kronor, vilket är oförändrat jämfört med 2006 mätt i
+              fasta priser. Antalet biståndsmottagare har sjunkit med 46 % sedan
+              1996 då antalet var som högst och är nu lägre än i början av 1990-talet.
+              Regeringen oroas dock av att unga vuxnas (1824 år) biståndsmottagande
+              fortfarande är högt, beroende på en allt senare etablering på
+              arbetsmarknaden. Unga med utländsk bakgrund har särskilt stora
+              svårigheter att få jobb och står ofta utanför de inkomstbaserade
+              socialförsäkringarna.
+            </p>
+            <p>
+              Att stärka skyddet för utsatta barn är ett nationellt mål för
+              individ- och familjeomsorgen. Regeringen konstaterar att ett nytt
+              handläggnings- och dokumentationssystem Barns behov i centrum
+              (BBIC) nu genomförs i kommunerna för att ge systematiskt stöd
+              i arbetet med barn och unga. Fler barn och unga får i dag öppenvårdsinsatser
+              jämfört med år 2000 och det finns en relativt omfattande repertoar
+              av olika öppna insatser. Regeringen oroas dock av att personalomsättningen
+              är hög och att det är de nyutexaminerade socionomerna som får
+              de tyngsta och mest komplicerade uppgifterna i samband med myndighetsutövning.
+            </p>
+            <p>
+              Staten har under 20052007 satsat 400 miljoner kronor på att utveckla
+              missbrukarvården i kommunerna. Tonvikten har legat på kunskap,
+              metodutveckling och samverkan. Regeringen pekar på att antalet
+              klienter inom LVM-vården har ökat, vilket tyder på ett stort behov
+              av vård, speciellt för den grupp av klienter som har blivit synliga
+              inom satsningen, såsom unga drogmissbrukande kvinnor och äldre
+              män med alkoholmissbruk. Fler patienter har en sammanhållen vårdkedja.
+              Vårdplaneringen och samverkan mellan Statens institutionsstyrelse
+              och socialtjänsten har stärkts. En högre andel klienter fick fortsatt
+              frivillig vård efter LVM-vården. Sex månader efter avslutad behandling
+              var ca 40 % fria från sitt missbruk och 26 % missbrukade mindre.
+              För 2000 var motsvarande siffror 24 % respektive 15 %.
+            </p>
+            <p>
+              Av skrivelsen framgår att förskoleverksamheten i stort sett är
+              fullt utbyggd och att de flesta föräldrar är nöjda med barnens
+              omsorgsform. Skolverkets tillsyn visar att det finns en konflikt
+              mellan full behovstäckning och andra kvalitetsaspekter. Kravet
+              att erbjuda en plats har i en del fall varit överordnat kravet
+              på lämpliga barngrupper och lämplig personaltäthet. Gruppstorlekarna
+              i förskolan har under de senaste åren tenderat att minska, men
+              inte mellan 2006 och 2007. I fritidshemmen fortsätter gruppstorlekarna
+              att öka. Regeringen konstaterar att skillnaderna i deltagande
+              i skolbarnsomsorg mellan låg- och högutbildade föräldrar inte
+              har minskat under 2000-talet, trots att skolbarnsomsorgen byggts
+              ut.
+            </p>
+            <p>
+              En avsikt med förskoleklassreformen och integrationen av förskola,
+              skola och fritidshem var att föra in förskolans pedagogiska tradition
+              i skolan så att lek, skapande och barnens eget utforskande ges
+              större utrymme. Regeringen konstaterar att utvecklingen inom detta
+              område har förbättrats. Arbetet med arbetsmiljö och delaktighet
+              i förskoleklassen har bedömts nu vara i mycket hög grad anpassat
+              till barnens ålder och mognad.
+            </p>
+            <p>
+              Internationella studier från 2006 visade att svenska grundskoleelever
+              låg högre i läsning än det internationella genomsnittet, medan
+              de uppnådde medelmåttiga resultat i matematik och naturvetenskap.
+              Variationen i resultat mellan olika skolor i Sverige är förhållandevis
+              låg, men tendensen är att den ökar. I läsning och matematik har
+              variationen mellan skolor nästan fördubblats sedan den förra studien.
+              I skrivelsen redovisas också att endast hälften av undervisningen
+              i grundskolan bedrivs av lärare som har både svensk lärarexamen
+              med inriktning mot skolformen och årskursen samt tillräcklig utbildning
+              i undervisningsämnet.
+            </p>
+            <p>
+              Regeringen konstaterar vidare att det i var femte kommun saknas
+              uppgifter om ogiltigt frånvarande från skolan. Kommunerna och
+              föräldrarna har också ofta skilda uppfattningar om problembilden
+              kring skolk.
+            </p>
+            <p>
+              Av de som lämnade grundskolan våren 2007 var 89,1 % behöriga
+              till gymnasieskolan. Andelen behöriga elever med utländsk bakgrund
+              minskade från 78,3 % till 76,6 % mellan 2006 och 2007. Läsåret
+              2006/07 uppnådde 88,9 % av de elever som fick slutbetyg grundläggande
+              behörighet till universitets- och högskolestudier, vilket är en
+              svag minskning jämfört med föregående år. Regeringen anser att
+              det systematiska kvalitetsarbetet i kommunerna och på skolorna
+              behöver förstärkas. Det gäller framför allt arbetet med att följa
+              upp elevernas kunskapsutveckling och vidta åtgärder i syfte att
+              öka måluppfyllelsen. Under senare tid har kompetensutveckling
+              bland lärarna genomförts när det gäller bedömning och betygssättning.
+            </p>
+            <p>
+              I skrivelsen behandlar regeringen även den kommunala vuxenutbildningen
+              och folkhälsofrågor.
+            </p>
+            <p xml:id="IDA1A1BE" rend="r3">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              I likhet med sina tidigare ställningstaganden med anledning av
+              regeringens skrivelse om utvecklingen inom den kommunala sektorn
+              vill finansutskottet framhålla att den årliga skrivelsen utgör
+              ett viktigt inslag i återrapporteringen av resultatinformationen
+              till riksdagen. Skrivelsen ger enligt utskottets uppfattning en
+              bred och fyllig beskrivning av utvecklingen i kommunsektorn och
+              pekar såväl på områden med goda förhållanden i den kommunala verksamheten
+              och ekonomin som på områden som kräver förbättringar.
+            </p>
+            <p>
+              Utskottet kan konstatera att skrivelsen successivt utvecklats
+              under åren. En samlad genomgång av statsbidragens utveckling utgör
+              numera en årligen återkommande del av regeringens skrivelse. Förändringar
+              i de generella statsbidragen beskrivs med hänsyn till olika överföringar
+              och regleringar enligt den kommunala finansieringsprincipen (tabell
+              2.4). Bland de riktade statsbidragen redovisas i årets skrivelse
+              elva bidrag från statsbudgetens utgiftssida, varav fyra avvecklats
+              i och med utgången av 2006. Vidare redovisas fem satsningar på
+              statsbudgetens inkomstsida (tabell 2.7). Någon ytterligare utveckling
+              av utvärderingen av bidragens måluppfyllelse presenteras däremot
+              inte. Regeringen hänvisar i skrivelsen till Statskontorets rapport
+              om verksamhetsanknutna statsbidrag till kommuner och landsting.
+              Utskottet kan emellertid konstatera att Statskontorets rapport
+              inte ger det underlag som behövs för att lägga grund för en återkommande
+              utvärdering av effekterna av de specialdestinerade statsbidragen
+              eller ett urval av dessa i förhållande till målen för bidragen.
+              Därför utgår utskottet från att denna del av skrivelsen kommer
+              att utvecklas vidare och att regeringen återkommer om hur utvärderingen
+              av statsbidragens måluppfyllelse kan ske.
+            </p>
+            <p>
+              Däremot har utskottet noterat att redovisningen av kompetensförsörjningen
+              i den kommunala sektorn har utvecklats i årets skrivelse jämfört
+              med de föregående åren. Detsamma kan sägas om uppgifterna i verksamhetsavsnitten
+              om hur utnyttjandet av de gemensamma resurserna fördelats mellan
+              könen. Utskottet anser att skrivelsen skulle kunna utvecklas ytterligare
+              genom en mer konsekvent redovisning av de kommunala verksamheterna
+              utifrån dessa aspekter.
+            </p>
+            <p>
+              I föregående års betänkande angående regeringens redovisning
+              av utvecklingen i den kommunala sektorn (skr. 2006/07:102, bet.
+              2006/07:FiU26) noterade utskottet att regeringen i skrivelsen
+              uppmärksammat att det inom vissa kommunala verksamheter (bl.a.
+              hälso- och sjukvården) är svårt att utvärdera måluppfyllelsen
+              eftersom dataunderlaget är otillräckligt. Frågan om uppföljning
+              av kostnader och resultat inom hälso- och sjukvården aktualiserades
+              även i samband med regeringens förslag i 2007 års ekonomiska vårproposition
+              (prop. 2006/07:100) om förändringar i det kommunala utjämningssystemet.
+              Regeringen framhöll där att man delade bedömningen som gjordes
+              av utredningen 2005 års uppföljning av utjämningssystemet samt
+              flera remissinstanser om att det på sikt var angeläget att bredda
+              underlaget för de uppgifter som används i utjämningssystemets
+              kostnadsmatriser. Utskottet, som delar denna bedömning, förutsätter
+              att den aviserade parlamentariska utredningen om utjämningssystemet
+              kommer att behandla dessa frågor. Utskottet förutsätter vidare
+              att det breddade underlaget även kommer att kunna användas för
+              att utveckla uppföljningen av mål- och resultatuppfyllelsen inom
+              hälso- och sjukvården.
+            </p>
+            <p>
+              Avslutningsvis vill utskottet betona att i arbetet med att ta
+              fram ett förbättrat underlag för uppföljning samt en utvecklad
+              analys av den kommunala verksamheten måste också hänsyn tas till
+              grunderna för den kommunala självstyrelsen.
+            </p>
+            <p>
+              Med det anförda föreslår finansutskottet att riksdagen lägger
+              regeringens skrivelse om utvecklingen inom den kommunala sektorn
+              till handlingarna.
+            </p>
+            <p xml:id="IDAQB1BE" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDATB1BE" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAWB1BE" rend="rubrik2">
+              Skrivelsen
+            </p>
+            <p>
+              Regeringens skrivelse 2007/08:102 Utvecklingen inom den kommunala
+              sektorn.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

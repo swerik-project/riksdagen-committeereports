@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200203_FIU_0013">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen avslog ett förslag från Riksdagens revisorer om statens personalpolitik. Enligt revisorerna bör regeringen bl.a. förtydliga fördelningen av arbetsgivaransvar mellan regeringen och myndigheterna. Regeringen bör även anpassa uppföljningen av den statliga personalpolitiken till myndigheternas verksamhet. Revisorernas förslag avslås eftersom regeringen under våren ska ta ställning till förslag från en statlig utredning som behandlat liknande frågor.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Statens personalpolitik (FiU13)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Avslag på revisorernas förslag, avslag på motionerna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0984</idno>
+              <title>2003-04-03</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">84</biblScope>
+              <note type="display-reference">2003-04-03</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GQ0984</idno>
+              <title>2003-04-03</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">84</biblScope>
+              <note type="display-reference">2003-04-03</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GQ0K136</idno>
+              <title>2002/03:136</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">136</biblScope>
+              <note type="display-reference">2002/03:136</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="frsrdg">
+              <idno type="riksdagen">GQ04RR2</idno>
+              <title>Riksdagens revisorers förslag angående Statens personalpolitik</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">RR2</biblScope>
+              <note type="display-reference">forslag 2002/03:RR2 Riksdagens revisorers förslag angående Statens personalpolitik</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02A319</idno>
+              <title>Jämställdhetsarbetet</title>
+              <title type="sub">av Ulla Hoffmann m.fl. (V)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">A319</biblScope>
+              <note type="display-reference">motion 2002/03:A319 Jämställdhetsarbetet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GQ02A366</idno>
+              <title>Jämställdhet</title>
+              <title type="sub">av Margareta Andersson m.fl. (C)</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">A366</biblScope>
+              <note type="display-reference">motion 2002/03:A366 Jämställdhet</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2003-03-21">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2003-03-21">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2003-03-14">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2003-03-13">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2003-03-13">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-02-20">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2003-02-20">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2003-04-03">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2003-04-03">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2003-04-03">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2003-04-03">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2003-04-03">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2003-04-01">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2003-04-01">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Finansutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2002/03:FIU13
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Statens personalpolitik
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I detta betänkande behandlar utskottet dels Riksdagens
+            revisorers förslag 2002/03:RR2 angående statens personalpolitik,
+            dels två motioner från den allmänna motionstiden 2002 vilka tar
+            upp vissa jämställdhetsfrågor inom den statliga arbetsgivarpolitiken.
+            Enligt revisorerna bör den arbetsgivarpolitiska delegeringen i
+            statsförvaltningen fortsätta att utvecklas och konkretiseras.
+            Regeringen bör precisera och tydliggöra delegeringens räckvidd
+            och begränsningar inom sin arbetsgivarpolitik, samtidigt som uppföljningen
+            och redovisningen av den statliga personalpolitiken ska vidgas,
+            fördjupas och verksamhetsanpassas. I detta arbete bör de små myndigheternas
+            situation särskilt uppmärksammas. Revisorerna anser att regeringen
+            i sitt arbete med det statliga chefskapet behöver uppmärksamma
+            kravet på saklighet och tydlighet. Utskottet konstaterar i betänkandet
+            att huvuddelen av de frågor som Riksdagens revisorer tar upp i
+            sin granskning av statens personalpolitik har analyserats av Arbetsgivarpolitikutredningen.
+            Regeringen avser att behandla utredningens förslag i en arbetsgivarpolitisk
+            proposition eller skrivelse vilken ska avlämnas till riksdagen
+            under våren 2003. Med hänvisning till den pågående beredningen
+            av ärendet inom Regeringskansliet avstyrker utskottet revisorernas
+            förslag. Beträffande jämställdhetsaspekter på den statliga arbetsgivarpolitiken
+            anför utskottet att det är angeläget att regeringens jämställdhetsmål
+            fullföljs i den statliga arbetsgivarpolitiken. I detta arbete
+            har regeringen initierat en rad åtgärder för att utjämna löneskillnader
+            inom såväl den statliga sektorn som övriga delar av arbetsmarknaden
+            samt för att analysera, utveckla och integrera förvaltningspolitiska
+            mål och krav på jämställdhetsarbete inom myndigheterna. Mot denna
+            bakgrund avstyrker utskottet motionärernas förslag. I betänkandet
+            finns fyra reservationer.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Riksdagens revisorers
+            förslag angående statens personalpolitik Riksdagen avslår förslag
+            2002/03:RR2 punkterna 1-3. 2. Jämställdhetsaspekter på den statliga
+            arbetsgivarpolitiken Riksdagen avslår motionerna 2002/03:A319
+            yrkande 3 och 2002/03:A366 yrkande 12. Reservation 1 (v) Reservation
+            2 (c) Reservation 3 (m) - motiv. Reservation 4 (fp, kd) - motiv.
+            Stockholm den 13 mars 2003 På finansutskottets vägnar Sven-Erik
+            Österberg Följande ledamöter har deltagit i beslutet: Sven-Erik
+            Österberg (s), Fredrik Reinfeldt (m), Carin Lundberg (s), Karin
+            Pilsäter (fp), Sonia Karlsson (s), Kjell Nordström (s), Mats Odell
+            (kd), Agneta Ringman (s), Gunnar Axén (m), Tommy Waidelich (s),
+            Hans Hoff (s), Agneta Gille (s), Cecilia Widegren (m), Gunnar
+            Nordmark (fp), Siv Holma (v), Jörgen Johansson (c) och Mikael
+            Johansson (mp).
+          </p>
+          <p>
+            Redogörelse för ärendet Riksdagens revisorer har granskat genomförande
+            och förverkligande av det personalpolitiska beslut som riksdagen
+            fattade 1985 (rapport 2001/02:12 Statens personalpolitik) och
+            föreslår i en framställning till riksdagen (förslag 2002/03:RR2)
+            att riksdagen fattar följande beslut. Riksdagen tillkännager för
+            regeringen som sin mening att regeringen preciserar och konkretiserar
+            den arbetsgivarpolitiska delegeringen (avsnitt 2.3). Riksdagen
+            tillkännager för regeringen som sin mening att regeringen i sitt
+            arbete med det statliga chefskapet uppmärksammar kravet på saklighet
+            och tydlighet och att regeringen begär en redovisning av personalpolitiska
+            konsekvenser i myndigheternas budgetunderlag (avsnitt 2.4). Riksdagen
+            tillkännager för regeringen som sin mening att regeringen ser
+            över dagens system för uppföljning av personalpolitiken och därvid
+            särskilt beaktar de små myndigheternas situation, hantering av
+            risksituationer och överväger behovet av en särskild stabsmyndighet
+            (avsnitt 2.5). Någon motion har inte väckts med anledning av revisorernas
+            förslag. Under hösten 2002 hänvisades två yrkanden med anknytning
+            till statlig personalpolitik till finansutskottet. Dessa yrkanden
+            ingår i två jämställdhetsmotioner som väcktes under den allmänna
+            motionstiden. De berör huvudsakligen jämställdhetsaspekter på
+            den statliga arbetsgivarpolitiken.
+          </p>
+          <p>
+            Utskottets överväganden Riksdagens revisorers förslag angående
+            statens personalpolitik Utskottets förslag i korthet Huvuddelen
+            av de frågor som tas upp i Riksdagens revisorers granskning har
+            behandlats av Arbetsgivarpolitikutredningen. Regeringen avser
+            att senare under våren 2003 avlämna en arbetsgivarpolitisk proposition
+            eller skrivelse med anknytning till utredningens förslag. Med
+            hänvisning till den pågående beredningen av ärendet inom Regeringskansliet
+            avstyrker utskottet revisorernas förslag i 2002/03:RR2. Bakgrund
+            År 1985 fattade riskdagen beslut om den statliga personalpolitiken
+            (prop. 1984/85:219, bet. 1985/86:AU6, rskr. 1985/86:48). Enligt
+            det personalpolitiska beslutet skulle personalpolitiken bli ett
+            tydligare instrument för att förnya den offentliga sektorn. Personalpolitiken
+            skulle avpassas efter skilda förutsättningar och situationer för
+            olika myndigheter. Den reglerade befordringsgången skulle avvecklas
+            och en decentralisering och avreglering av statliga personal-
+            och arbetsgivarfrågor inleddes. Personalpolitiken skulle i stället
+            ledas dels med grundläggande principer för inriktning och utförande,
+            dels med uppföljning av genomförande och resultat. Revisorernas
+            granskning Riksdagens revisorer har på eget initiativ granskat
+            genomförande och förverkligande av 1985 års personalpolitiska
+            beslut. Revisorerna konstaterar att det under årens lopp har visat
+            sig svårt att få kunskap om den statliga förvaltningspolitikens
+            utfall. Svårigheterna att koppla resultat till insatta resurser
+            bedöms dock vara delvis av metodisk art och man utgår ifrån att
+            i ett längre perspektiv om 15 år bör denna förmåga ha kunnat utvecklas.
+            En viktig fråga för revisorernas granskning har därför varit hur
+            metoderna för bedömning av olika personalpolitiska åtgärders eller
+            reformers verkan har utvecklats. Granskningens utgångspunkter
+            är dels bestämmelsen i regeringsformen om en statlig förvaltning
+            på saklig grund, dels riksdagens beslut att personalpolitiken
+            ska vara ett medel för förnyelse av den statliga verksamheten.
+            Granskningen har inriktats på genomgång av det personalpolitiska
+            regelverket samt kartläggning och analys av statens personalpolitik
+            med avseende på planering, kostnader och uppföljning. Personalpolitikens
+            genomförande har därvid belysts med ett antal fallstudier inom
+            polisväsendet, skatteförvaltningen, Arbetsmarknadsverket och socialförsäkringsadministrationen.
+            Revisorerna konstaterar efter den genomförda granskningen att
+            frågan om statens personalpolitik har bidragit till den offentliga
+            sektorns effektivisering inte kan entydigt besvaras. Uppföljningar
+            som kan ge rättvisande bilder av den statliga förvaltningens resultat
+            saknas fortfarande. De indikatorer som revisorerna studerat ger
+            delvis motsägelsefulla intryck. Möjligheter till förenklade förvaltningsprocesser
+            har utnyttjats på många håll och genomloppstider har i många fall
+            kortats. Samtidigt har genomgripande och kostnadskrävande omorganisationer
+            genomförts, med osäkra eller ibland negativa resultat som emellanåt
+            krävt nya korrigerande omorganisationer. Nya arbetsmetoder och
+            den tekniska utvecklingen har gett förutsättningar för effektivare
+            arbete och ökad kvalitet i form av t.ex. ökad tillgänglighet.
+            Uppföljningen inom personalpolitiken har enligt revisorernas mening
+            hittills haft en schablonmässig inriktning. Den har varit inriktad
+            på kvantitativa nyckeltal och statistik, t.ex. om personalrörlighet,
+            produktivitet, arbetstidsplanering, där bakomliggande förklaringar
+            vare sig fått tillräckligt utrymme eller analys. Därtill görs
+            regeringens arbetsgivarpolitiska uppföljning i särskild ordning,
+            skild från myndigheternas övriga verksamhets- och resultatredovisning.
+            Uppföljningen har också schablonmässigt utgått från att den arbetsgivarpolitiska
+            delegeringen inneburit att enskilda inslag i myndigheternas personalpolitik
+            inte behöver omfattas av riksdagens, i regeringsformen angivna,
+            granskningsansvar. Vid personalpolitikens praktiska tillämpning
+            saknas i flera fall tydliga motiveringar för viktiga beslut. Revisorerna
+            anser att regeringen bör förtydliga den statliga personalpolitikens
+            innehåll. Granskningen visar att den arbetsgivarpolitiska delegeringen
+            har varit en viktig förutsättning för den statliga personalpolitiken
+            och den statliga verksamhetens förnyelse. Den arbetsgivarpolitiska
+            delegeringen bör därför enligt revisorerna fortsätta att utvecklas
+            men dess innebörd behöver samtidigt preciseras. Revisorerna finner
+            samtidigt att en personalpolitik i staten som i alltför hög grad
+            inriktas på arbetsgivarrollen bortser från andra centrala delar
+            av personalpolitiken. Slutligen konstaterar revisorerna att det
+            finns brister i det statliga chefskapet. Det är fråga om brister
+            i tydlighet, saklighet och lyhördhet. Revisorernas bedömning är
+            att både personalpolitiska program och existerande regelverk väl
+            uttrycker värdet av tydlighet, saklighet eller lyhördhet. Det
+            är vid efterlevnaden av ifrågavarande bestämmelser i regeringsformen
+            och verksförordningen som chefskapet i flera fall brister. Efter
+            remissbehandling av en upprättad granskningsrapport har revisorerna
+            tagit slutlig ställning i ärendet och redovisat sina överväganden
+            och förslag i en skrivelse till riksdagen - Riksdagens revisorers
+            förslag angående statens personalpolitik (2002/03:RR2). Revisorernas
+            förslag Revisorernas skrivelse utmynnar i tre förslag om tillkännagivanden
+            till regeringen. De tre förslagen berör följande frågor. Precisering
+            av den arbetsgivarpolitiska delegeringen Enligt revisorerna bör
+            den arbetsgivarpolitiska delegeringen fortsätta att utvecklas.
+            Samtidigt anser revisorerna att regeringen bör precisera och tydliggöra
+            den arbetsgivarpolitiska delegeringens räckvidd och begränsningar
+            på främst tre områden: normer för det personalpolitiska beslutsfattandet
+            (främst avseende saklighet och beaktande av statens gemensamma
+            bästa - delegering innebär inte godtycke) utveckling av statlig
+            arbetsledning (arbetslednings- och arbetsgivarfrågor är inte identiska)
+            innebörd av personalpolitiska mål (innebörden av dessa mål kan
+            inte delegeras). Delegeringen eller ett minskat regelverk medför
+            enligt revisorerna inte att regeringen kan avstå från att ange
+            normer till vägledning för de statliga arbetsgivarna. Uppföljningen
+            blir därmed en viktig del i regeringens arbete med att utveckla
+            den statliga personalpolitiken. Regeringen ska därför konkretisera
+            viktiga begrepp som saklighet och effektivitet så att de blir
+            styrande och uppföljningsbara inom den statliga personalpolitiken.
+            I detta arbete bör de små myndigheternas situation särskilt uppmärksammas.
+            Tydligare chefskap och redovisning Revisorerna anser att det är
+            viktigt att lyfta fram det statliga chefskapet på alla nivåer
+            i statsförvaltningen. Regeringen bör därför, i de redan igångsatta
+            chefsaktiviteterna inom ramen för Statens kvalitets- och kompetensråd
+            och Arbetsgivarverket, uppmärksamma kraven på tydlighet, saklighet
+            och lyhördhet. Detta gäller särskilt tydlighet mot medarbetare,
+            tydliga motiveringar för olika åtgärder samt tydlighet uppåt i
+            hierarkin för att ge beslutande instanser realistiska och rättvisande
+            bilder av verksamheten och dess villkor. Kraven på saklighet och
+            lyhördhet bör vara nära förknippade med kravet på tydlighet. Vidare
+            bör regeringen begära redovisning av personalpolitiska konsekvenser
+            i myndigheternas budgetunderlag. Detta gäller redovisning av personalpolitiska
+            konsekvenser och motivering till större planerade omställningar
+            inom myndigheten. Revisorerna anser att det är av stor vikt att
+            regeringen bidrar med att utveckla kostnadsredovisningar som gör
+            det möjligt att identifiera kostnader för personalpolitiska inslag
+            i myndigheternas verksamhet som t.ex. rekryteringar eller ställkostnader
+            vid omorganisationer eller chefsbyten. En sådan redovisning ger
+            enligt revisorerna bättre beslutsunderlag samt möjliggör för regeringen
+            att uppmärksamma och systematisera personalpolitiska tendenser.
+            Verksamhetsanpassning av uppföljningen Revisorerna anser att det
+            behövs en mera samlad och verksamhetsanpassad uppföljning och
+            redovisning för den statliga personalpolitiken. Uppföljningen
+            av personalpolitiken bör vidgas, fördjupas och verksamhetsanpassas
+            genom redovisning i myndigheternas årsredovisningar. Dagens system
+            med uppföljning enligt särskilda årliga regeringsbeslut skilt
+            från resultatredovisning är inte tillfredsställande enligt revisorerna.
+            Systemet skapar en viss ryckighet i och osäkerhet om innehållet
+            i redovisningen samt leder till att viktiga frågor som t.ex. de
+            små myndigheternas situation och de ökande kraven på kvalitativa
+            redovisningar delvis åsidosätts. Revisorernas bedömning är att
+            olika nyckeltal, för bl.a. verksamhet, resultat, personal, ekonomi
+            eller hälsa, bör redovisas och analyseras samlat myndighetsvis.
+            Det bör ske i myndigheternas resultatredovisningar. Enligt revisorerna
+            finns det särskilda risksituationer i personalpolitiken där regeringen
+            dessutom bör identifiera risker för tidiga åtgärder, situationer
+            där lösningar inte fungerat som avsetts. Dessa kan variera över
+            tiden och mellan verksamheter. Vidare anser revisorerna att det
+            behövs mera kontinuitet i verksamhetsuppföljningarna. Ett förslag
+            om en särskild myndighet som ska ägna sig åt uppföljningen av
+            statens personalpolitik och ge regeringen erforderliga beslutsunderlag
+            bedöms därför väl värt att överväga. Samtidigt är det enligt revisorerna
+            uppenbart att ryckighet och hastiga omprioriteringar i medelstilldelningen
+            gör det svårt för myndigheterna att bedriva en långsiktig personalpolitik.
+            En ny stabsmyndighet till regeringen inom personalpolitikens område
+            skulle kunna ge regeringen bättre underlag som på sikt minskar
+            ryckigheten i budgetpolitiken. Dessutom skulle en sådan myndighet
+            kunna få som uppgift att konkret och konsultativt biträda de små
+            myndigheterna i personalpolitiska frågor för att säkerställa samma
+            kvalitet och förhållningssätt inom detta område i alla delar av
+            statsförvaltningen. Utskottets ställningstagande Utskottet delar
+            revisorernas uppfattning att den arbetsgivarpolitiska delegeringen
+            - etablerad genom de personalpolitiska reformerna 1985 och 1994
+            - har varit en viktig förutsättning för den statliga personalpolitiken
+            och den statliga verksamhetens förnyelse. Det delegerade arbetsgivaransvaret
+            innebär en betydelsefull frihet för myndigheterna att självständigt
+            utforma organisation, arbetsprocesser, lönebildning, personalförsörjning
+            och kompetensutveckling m.m. med hänsyn till verksamhetens krav.
+            Myndigheternas förändringsarbete gynnas enligt utskottets uppfattning
+            av att anställda på alla nivåer får möjligheter att delta i och
+            påverka utvecklingen i de interna arbetsprocesserna. Utskottet
+            vill erinra om att regeringens uppgift i arbetsgivarpolitiken
+            är dels att - i den utsträckning det behövs - sätta övergripande
+            strategiska mål för de statliga arbetsgivarfrågorna, dels att
+            följa upp myndigheternas arbetsgivarpolitik. I egenskap av uppföljare
+            beslutade regeringen 2001 att, vid sidan om det löpande uppföljningssystemet
+            för arbetsgivarpolitiken, tillsätta en utredning med uppgift att
+            göra en samlad utvärdering av den arbetsgivarpolitiska reformen
+            1994 (dir. 2001:16). Uppdraget omfattade bl.a. att bedöma effekterna
+            av den arbetsgivarpolitiska delegeringen på lönebildningen, personalförsörjningen
+            och andra personalpolitiska frågor inom statsförvaltningen. Arbetsgivarpolitikutredningens
+            arbete bedrevs i stort sett samtidigt med Riksdagens revisorers
+            granskning av statens personalpolitik. Utredningens betänkande
+            Den arbetsgivarpolitiska delegeringen i staten - en samlad utvärdering
+            (SOU 2002:32) publicerades, såsom revisorernas personalpolitiska
+            rapport, i mars 2002. Utskottet konstaterar att Arbetsgivarpolitikutredningens
+            analys belyser många aspekter på statens arbetsgivarpolitik vilka
+            också berörs i revisorernas rapport. Detta gäller främst den arbetsgivarpolitiska
+            delegeringen, kompetensförsörjningen samt uppföljningssystemet
+            i staten. Utredningen presenterar en del synpunkter som enligt
+            utskottets mening har särskild relevans med anknytning till revisorernas
+            förslag: Den arbetsgivarpolitiska delegeringen är väl förankrad
+            hos alla berörda och den stimulerar myndighetsledningarna att
+            ta ett helhetsansvar för verksamheten. Men den har också skapat
+            osäkerhet om regeringens roll inom arbetsgivarpolitiken. Det bör
+            därmed vara förenligt med regeringens roll att, om det behövs,
+            formulera konkreta förvaltningspolitiska mål för myndigheterna
+            för att styra deras agerande som arbetsgivare. Delegeringen kräver
+            en större arbetsgivarpolitisk kompetens hos myndigheterna än det
+            tidigare systemet och den fungerar för närvarande bäst på stora
+            myndigheter med en stark arbetsgivarfunktion. Små myndigheter
+            bör därför i större utsträckning få hjälp med att praktiskt utveckla
+            den arbetsgivarpolitiska kompetensen. Ledaregenskaper har varit
+            betydligt viktigare under de senare årens tillsättning av chefer,
+            men det finns fortfarande många operativa chefer i statsförvaltningen
+            utan tillräckliga ledaregenskaper. Detta visar sig skapa en del
+            problem i hanteringen av de frågor som omfattas av den arbetsgivarpolitiska
+            delegeringen, särskilt på regional och lokal nivå. Höga ambitioner
+            och tydliga mål från regeringens sida inom arbetsgivarpolitikens
+            område bör motsvaras av en ambitiös uppföljnings- och utvärderingsverksamhet.
+            Den övergripande principen bör vara att ett delegerat system kräver
+            fördjupad utvärdering på myndighetsnivå jämfört med dagens system.
+            Det nya uppföljningssystemet ska ge adekvat information till statsmakterna
+            och bidra med underlag för en meningsfull och fördjupad dialog
+            med myndigheterna. Det bör integreras i styrsystemet med bättre
+            anpassning till de enskilda myndigheterna, och det bör kunna användas
+            för benchmarking och spridning av goda exempel. Den årliga uppföljningen
+            bör kompletteras med en fördjupad och kvalitativt inriktad utvärdering
+            av myndigheternas arbetsgivarpolitik och kompetensförsörjning.
+            Uppföljningens och utvärderingarnas styrande effekt bör ökas genom
+            att starkare knyta dessa till budgetprocessen. Enligt uppgifter
+            som utskottet inhämtat från Regeringskansliet har Arbetspolitikutredningens
+            betänkande varit föremål för remisshantering hos 259 instanser.
+            Efter slutgranskningen av samtliga remissvar avser regeringen
+            att avlämna en proposition eller en skrivelse om den arbetsgivarpolitiska
+            delegeringen i staten. Ärendet kommer att avlämnas till riksdagen
+            i maj 2003, för slutbehandling efter sommaruppehållet men före
+            utgången av 2003. Utskottet vill understryka att statens personalpolitik
+            har en strategiskt viktig roll i utvecklingen av en högeffektiv
+            statsförvaltning med bibehållet högt medborgerligt förtroende
+            för den statliga verksamheten. För att främja denna utveckling
+            ska den arbetsgivarpolitiska delegeringen ge myndigheterna bästa
+            möjliga förutsättningar att använda arbetsgivarpolitiken som ett
+            medel för att utforma organisation, arbetsprocesser och kompetensförsörjning
+            med hänsyn till gällande verksamhetsmål. Ett tydligt och välpreciserat
+            innehåll i den statliga personalpolitiken samt en verksamhetsanpassad
+            personalpolitisk uppföljning finns bland de viktigaste förutsättningarna
+            för att delegeringen av befogenheterna på det arbetsgivarpolitiska
+            området ska vara framgångsrik. Utskottet ser därför allvarligt
+            på de problem inom statens personalpolitik som påvisas både i
+            Riksdagens revisorers rapport och i Arbetsgivarpolitikutredningens
+            betänkande. Huvuddelen av de frågor som revisorerna tar upp i
+            sin granskning av statens personalpolitik har, enligt vad utskottet
+            kunnat konstatera, analyserats av Arbetsgivarpolitikutredningen.
+            Utskottet förutsätter att regeringen senare under våren 2003 behandlar
+            dessa frågor i den aviserade arbetsgivarpolitiska propositionen
+            eller skrivelsen. Med hänvisning till den pågående beredningen
+            av ärendet inom Regeringskansliet avstyrker utskottet Riksdagens
+            revisorers förslag i 2002/03:RR2. Jämställdhetsaspekter på den
+            statliga arbetsgivarpolitiken Utskottets förslag i korthet Utskottet
+            anser att det är angeläget att regeringens jämställdhetsmål fullföljs
+            i den statliga arbetsgivarpolitiken. I detta arbete har regeringen
+            initierat en rad åtgärder för att utjämna löneskillnader inom
+            såväl den statliga sektorn som övriga delar av arbetsmarknaden
+            samt för att analysera, utveckla och integrera förvaltningspolitiska
+            mål och krav på jämställdhetsarbete inom myndigheterna. Mot denna
+            bakgrund avstyrker utskottet motionerna. Jämför reservationerna
+            1 (v), 2 (c), 3 (m) och 4 (fp, kd). Motionerna Vänsterpartiet
+            framhåller i motion A319 att man delar Riksrevisionsverkets kritik
+            av regeringens strategi för jämställdhetsarbete. Kritiken avser
+            bl.a. otydliga målbeskrivningar och krav samt bristande dialog
+            mellan myndigheterna och departementen beträffande jämställdhetsarbete.
+            Motionärerna anser att regeringen behöver förtydliga sin strategi
+            för jämställdhetspolitiken genom att ur feministiskt perspektiv
+            formulera tydliga verksamhetsmål, vilka bör vara relevanta för
+            myndigheter och ska syfta till förändring av rådande strukturer.
+            Jämställdhetsarbetet hos myndigheterna bör enligt motionärerna
+            prioriteras högre vid budgetdialog och i regleringsbrev (yrkande
+            3). Centerpartiet förespråkar i motion A366 (yrkande 12) en lönerevision
+            inom statlig verksamhet i syfte att utjämna löneskillnader mellan
+            likvärdigt arbete. Anledningen till en sådan lönerevision är enligt
+            motionärerna de kraftiga löneskillnaderna mellan kvinnor och män
+            anställda i den statliga sektorn även på de högsta befattningsnivåerna.
+            Motionärerna anser att hela den offentliga sektorn samtidigt bör
+            åläggas att genomföra lönerevisioner och arbeta med intern arbetsvärdering
+            för att skapa en rättvis lönesättning. Därför bör denna lönerevision
+            enligt motionärerna göras i samarbete med Kommun- och Landstingsförbundet.
+            Utskottets ställningstagande Enligt utskottets mening är jämställdhet
+            mellan kvinnor och män en fråga med högsta prioritet i dagens
+            moderna samhälle. Jämställdhet handlar om rättvisa och fördelning
+            av ekonomisk och politisk makt. Den handlar alltså om demokrati,
+            om att värdera kvinnor och män lika. Det är därför viktigt att
+            jämställdhetsperspektivet blir en naturlig del av verksamheten
+            i alla samhällssektorer för att säkerställa att kvinnors rätt
+            till arbete med rättvisa löner och med öppen tillgång till poster
+            på alla beslutsnivåer blir en självklarhet. Jämställdhetsmålen
+            såväl i den statliga arbetsgivarpolitiken som i övriga delar av
+            den offentliga sektorn måste fullföljas. Utskottet har tidigare
+            behandlat frågor rörande jämställdhet i den statliga arbetsgivarpolitiken
+            i betänkande 2001/02:FiU27. I enlighet med sitt ställningstagande
+            i detta betänkande vill utskottet framhålla att jämställdhet mellan
+            könen och en arbetsmiljö där diskriminering på grund av kön inte
+            får förekomma måste utgöra ett av de grundläggande förhållningssätten
+            för den statliga förvaltningen. Det är oerhört viktigt att alla
+            myndigheterna följer och genomför regeringens riktlinjer för jämställdhetsarbete
+            i statsförvaltningen. Regeringens utgångspunkt i jämställdhetsarbetet
+            är att såväl den politiska som den verkställande delen av regeringsarbetet
+            ska genomsyras av jämställdhetsperspektiv. Enligt verksförordningen
+            (1995:1322) har regeringen också i detta avseende ett strategiskt
+            övergripande ansvar, medan myndigheterna har det operativa ansvaret
+            för att åstadkomma de mål som statsmakterna ställer upp. I detta
+            sammanhang vill utskottet understryka att det är angeläget att
+            jämställdhetsarbetet hos myndigheterna prioriteras högt både inom
+            ramen för internt verksamhetsarbete och vid styrningsdialog med
+            departementen. Tydliga och relevanta verksamhetsmål är också enligt
+            utskottets mening ett viktigt verktyg för att förändra rådande
+            könsdiskriminerande strukturer. Enligt vad utskottet kunnat konstatera
+            i sin tidigare genomgång av jämställdhetsarbetet inom statsförvaltningen
+            har regeringen genom förvaltningspolitiska styrsignaler till myndigheterna
+            samt en aktiv uppföljning av de arbetsgivarpolitiska insatserna
+            åstadkommit att myndigheterna tar ett större ansvar för att sätta
+            konkreta mål för sitt jämställdhetsarbete med tydliga kopplingar
+            till målen för verksamheten. Det är viktigt att regeringen löpande
+            fortsätter att följa upp och utvärdera sin egen och myndigheternas
+            arbetsgivarpolitik med hänsyn till dessa jämställdhetsmål. Formerna
+            för jämställdhetsarbetet bör dessutom kontinuerligt utvecklas
+            och utvärderas så att deras effektivitet och relevans för statsförvaltningen
+            och för enskilda myndigheter kan säkerställas. Utskottet vill
+            i detta sammanhang erinra om att regeringen har initierat en översyn
+            av verksförordningen (dir. 2001:177) i syfte att skapa en större
+            tydlighet när det gäller dels de förvaltningspolitiska kraven
+            på myndigheterna, dels myndighetsledningens ansvar och uppgifter
+            också i dess roll som arbetsgivare. Jämställdhet i den statliga
+            förvaltningen är en av de frågor som analyseras inom ramen för
+            utredningen, i enlighet med riktlinjerna från den förvaltningspolitiska
+            propositionen Statlig förvaltning i medborgarnas tjänst (prop.
+            1997/98:136, bet. 1997/98:KU31, rskr. 1997/98:294). Regeringen
+            förbereder för närvarande ett tilläggsdirektiv till utredningen,
+            enligt vilket uppdraget ska redovisas i slutet av 2003. Dessutom
+            vill utskottet framhålla att regeringen har inrättat en styrgrupp
+            för jämställdhetsarbetet med särskilt ansvar för att integrera
+            ett jämställdhetsperspektiv i alla politikområden. Styrgruppen
+            ska leda arbetet med att ta fram en plan för genomförande av jämställdhetsintegrering
+            i Regeringskansliet. Planen omfattar den jämställdhetspolitiska
+            styrningen, utbildningsinsatser i Regeringskansliet, utprovning
+            av metoder för jämställdhetsanalyser samt samordning och uppföljning
+            av arbetsformerna på respektive fackdepartement. Utskottet vill
+            här betona regeringens målsättning att styrgruppens arbete ska
+            leda till att jämställdhet genomsyrar såväl regeringens arbete
+            som styrning av myndigheterna och att den utarbetade planen bidrar
+            till måluppfyllelse av jämställdhetspolitiken både i statsförvaltningen
+            och i andra samhällssektorer. Utskottet anser att det är av största
+            vikt att regeringen verkar för att bryta den könsrelaterade lönediskrimineringen
+            samt motverka både diskriminerande värderingar av olika arbeten
+            och negativa effekter av den segregerade arbetsmarknaden. Det
+            är i detta sammanhang värt att notera att regeringen, som direkt
+            följd av riksdagens tillkännagivande till regeringen (bet. 2001/02:FiU27,
+            rskr. 2001/02:327), i regleringsbrevet för 2003 uppdragit åt Arbetsgivarverket
+            att senast den 30 juni 2003 rapportera hur löneskillnaderna mellan
+            kvinnor och män utvecklas i staten. I löneförhandlingarna 2002
+            har parterna på det statliga området därutöver kommit överens
+            om att genomföra en gemensam studie av den lokala lönebildningen
+            och lönesättningen. I studien ska särskilt belysas vilket gemensamt
+            ansvar som lokala parter tar för att förhindra osakliga löneskillnader
+            mellan män och kvinnor. Dessutom har man kommit överens om att
+            starta ett utvecklingsarbete med målet att nå en jämn könsfördelning
+            i samtliga befattningskategorier inom staten. Dessa insatser ryms
+            inom ramen för det arbete som i enlighet med den nya jämställdhetslagen
+            åläggs alla arbetsmarknadsparter för att åtgärda osakliga löneskillnader.
+            Utskottet vill erinra om att regeringen via JämO och Medlingsinstitutet
+            följer parternas arbete på detta område. Utfallet den 1 januari
+            2004 av detta arbete kommer att vara vägledande för behovet av
+            ytterligare åtgärder, bl.a. skärpt lagstiftning. Vidare uppmärksammar
+            utskottet att regeringen i budgetpropositionen för 2003 (prop.
+            2002/03:1) understryker behovet av ytterligare aktiva åtgärder
+            för att åstadkomma samma möjligheter till utveckling och befordran
+            för kvinnor och män samt för att minska löneskillnaderna mellan
+            könen. Utskottet ser positivt på att regeringen även som arbetsgivare
+            är villig att ta på sig en ledande roll i det praktiska jämställdhetsarbetet.
+            I Regeringskansliets nya handlingsplan för jämställda löner ingår
+            en lönerevision i syfte att åtgärda de kvarstående osakliga löneskillnaderna
+            mellan kvinnor och män anställda i Regeringskansliet. Lönerevisionen
+            ska genomföras så snart som möjligt och senast inom tre år, i
+            enlighet med jämställdhetslagen. Samtidigt ska medel också avsättas
+            för en fortsatt omfattande jämställdhetsutbildning av chefer i
+            arbetsledande ställning inom Regeringskansliet. Utskottet konstaterar
+            att ytterligare insatser för att stärka jämställdhetsarbetet och
+            utveckla jämställdhetsanalysen både i den statliga förvaltningen
+            och hela den offentliga sektorn är under beredning inom Regeringskansliet.
+            Enligt information från Personalpolitiska enheten på Finansdepartementet
+            avser regeringen att uppdra till Statens pensionsverk att redovisa
+            vissa statistiska uppgifter avseende pensionering av anställda
+            inom statsförvaltningen. Uppgifterna kommer att analyseras bl.a.
+            utifrån genusperspektiv. Dessutom ska en ny regeringsskrivelse
+            om jämställdhetspolitiken utkomma i maj 2003. Utskottet vill erinra
+            om riksdagens tidigare tillkännagivande att regeringen härvid
+            lämnar en utförlig redovisning av hur kvinnorepresentationen bland
+            myndighetschefer, ambassadörer och statliga utredare ska öka och
+            vad som ytterligare kan göras för att utjämna obefogade löneskillnader
+            i den offentliga sektorn. Det är utskottets mening att jämställdhet
+            mellan könen ska råda i hela det svenska samhället, så även i
+            statsförvaltningen. Den statliga arbetsgivarpolitiken måste därför
+            få ett ännu tydligare jämställdhetsperspektiv för att kunna bryta
+            det maktmönster som diskriminerar kvinnor i deras karriärmöjligheter,
+            löneutveckling och makttillgång endast därför att de är kvinnor.
+            Jämställdheten måste bli en fråga med högsta prioritet. Utskottet
+            förutsätter att regeringens insatser för att integrera och fullfölja
+            jämställdhetsmålen i statsförvaltningen praktiskt tillämpas vid
+            utvecklingen av jämställd arbetsgivarpolitik i samtliga statliga
+            verksamheter. Utskottet har i det ovan anförda kunnat konstatera
+            att regeringen redan har initierat en rad åtgärder som motsvarar
+            de av motionärerna framförda kraven. Regeringskansliets handlingsplan
+            för jämställda löner samt överenskommelserna i löneförhandlingarna
+            2002 på det statliga området syftar till att på ett operativt
+            respektive strategiskt sätt ta itu med osakliga löneskillnader
+            i den statliga sektorn. Den nya jämställdhetslagen ålägger dessutom
+            samtliga arbetsmarknadsparter - alltså även parterna på det offentliga
+            området - att så snart som möjligt och senast inom tre år åtgärda
+            osakliga löneskillnader. Utvecklingen av de förvaltningspolitiska
+            målen och kraven på jämställdhetsarbete inom myndigheterna analyseras
+            dessutom ingående av såväl Utredningen för en översyn av verksförordningen
+            som regeringens styrgrupp för jämställdhetsarbetet. Mot denna
+            bakgrund föreslår utskottet att riksdagen avslår förslagen i motionerna
+            A319 (v) yrkande 3 och A366 (c) yrkande 12.
+          </p>
+          <p>
+            Reservationer Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer. I rubriken anges vilken
+            punkt i utskottets förslag till riksdagsbeslut som behandlas i
+            avsnittet. 1. Jämställdhetsaspekter på den statliga arbetsgivarpolitiken,
+            punkt 2 (v) av Siv Holma (v). Förslag till riksdagsbeslut Jag
+            anser att förslaget till riksdagsbeslut under punkt 2 borde ha
+            följande lydelse: Riksdagen bifaller motion 2002/03:A319 yrkande
+            3 och avslår motion 2002/03:A366 yrkande 12. Ställningstagande
+            Sverige är i dag, trots formell jämställdhet mellan kvinnor och
+            män, ett samhälle som systematiskt underordnar kvinnor och överordnar
+            män. Vi har haft en jämställdhetspolitik i över tre decennier.
+            Det har förvisso lett till framgångar inom exempelvis politisk
+            representation, men det finns fortfarande alltför många samhällssfärer
+            som förblivit opåverkade av jämställdhetspolitiken. Politiken,
+            även den statliga arbetsgivarpolitiken, måste enligt min mening
+            på allvar ta till sig en feministisk analys och utifrån detta
+            integrera en ny strategi som syftar till reella förändringar av
+            de rådande strukturerna. Statliga myndigheter utgör en viktig
+            länk i jämställdhetsarbetet. Förutom verksförordning styrs myndigheternas
+            verksamhet och inriktning via instruktioner och regleringsbrev.
+            Ett sätt att utveckla jämställdhetsarbetet i feministisk riktning
+            är således genom att ändra direktiv för verksamhetsmål och prioriteringar
+            i dess regleringsbrev. Riksrevisionsverket granskade, på regeringens
+            uppdrag, jämställdhetsperspektivet i myndigheternas regleringsbrev
+            och hur återrapporteringen från myndigheterna skedde. Resultatet
+            av denna granskning visade övergripande och generella brister
+            i regeringens strategi för jämställdhetsarbetet. Jag instämmer
+            i Riksrevisionsverkets bedömning att regeringen behöver förtydliga
+            målbeskrivningar och verksamhetsmål samt förbättra dialogen mellan
+            departement och myndigheter i budgetarbete och regleringsbrev.
+            Regeringen har nu förvisso initierat flera vällovliga åtgärder
+            för att åstadkomma detta, men de är enligt min mening fortfarande
+            för otydliga för att förändra den rådande könsmaktsordningen som
+            existerar såväl i den statliga arbetsgivarpolitiken som i samhället
+            i stort. Jag anser därför att mer resurser behöver prioriteras
+            till externt jämställdhetsarbete. I detta sammanhang vill jag
+            också erinra om att Vänsterpartiets jämställdhetsmotioner ofta
+            besvarats med positiva skrivningar om vad regeringen gjort och
+            vad regeringen avser att ytterligare göra inom jämställdhetsområdet.
+            Jag kan konstatera att många av de aviserade åtgärderna inte blivit
+            genomförda. Jämställdhetsarbetet är högt prioriterat i regeringens
+            politiska förklaringar men dessa följs alltför sällan av konkreta
+            handlingar. Det räcker inte med att integrera jämställdhetsperspektiv
+            i alla politikområden. Det behövs också konkreta åtgärder för
+            att ändra de rådande könsmaktsstrukturerna i bl.a. den statliga
+            arbetsgivarpolitiken där diskriminering i lön, arbetsmiljö och
+            karriärmöjligheter blir de synliga resultaten. Jag föreslår att
+            riksdagen tillkännager för regeringen som sin mening vad jag har
+            framfört om jämställdheten i den statliga förvaltningen. Detta
+            innebär att riksdagen bifaller motion A319 (v) yrkande 3 och avstyrker
+            motion A366 (c) yrkande 12. 2. Jämställdhetsaspekter på den statliga
+            arbetsgivarpolitiken, punkt 2 (c) av Jörgen Johansson (c). Förslag
+            till riksdagsbeslut Jag anser att förslaget till riksdagsbeslut
+            under punkt 2 borde ha följande lydelse: Riksdagen bifaller motion
+            2002/03:A366 yrkande 12 och avslår motion 2002/03:A319 yrkande
+            3. Ställningstagande Jag anser att Sveriges arbetsmarknad är en
+            av de mest könssegregerade i västvärlden. Över hälften av alla
+            yrkesverksamma kvinnor, men bara en av tio män, återfinns i den
+            offentliga sektorn där politiska församlingar är den direkta arbetsgivaren.
+            Trots detta politiska inflytande har utvecklingen i den offentliga
+            sektorn inte entydigt gått mot mer rättvisa löner för kvinnor
+            och män. Att åstadkomma rättvisa löner mellan kvinnor och män
+            är enligt min mening en nyckelfråga för att förbättra jämställdheten
+            på den svenska arbetsmarknaden. Jag ser dock att arbetet för ökad
+            jämställdhet i lönesättningen inte visar på några entydiga framgångar.
+            I kommunerna, där de flesta offentliganställda arbetar, tjänar
+            kvinnor i dag i genomsnitt 90 % av de kommunanställda männens
+            lön, mot 74 % för trettio år sedan. Samtidigt har kvinnornas löner
+            i landstingen sjunkit från 80 % av männens genomsnittslön 1973
+            till 71 % i dag. Även i statsförvaltningen har kvinnornas löner
+            sjunkit jämfört med männens lön, från 90 % 1983 till 84 % i dag.
+            Lönegapet mellan offentliganställda kvinnor och män tycks alltså
+            inte minska. Det är inte svårt för mig att förstå svårigheten
+            med att politiskt komma till rätta med dessa löneskillnader eftersom
+            svensk ekonomi, och därmed skatteinkomsterna i kommuner och landsting,
+            utvecklats långsammare än omvärldens. Samtidigt har regering och
+            riksdag alltför ofta lagt nya, helt eller delvis ofinansierade
+            uppgifter på kommuner och landsting. Denna utveckling har varit
+            särskilt tydlig under de senaste åren av socialdemokratiskt samarbete
+            med Vänsterpartiet. Jag är övertygad om att rättvisa löner kan
+            uppnås på den svenska arbetsmarknaden utan nedskärningar i skolan,
+            vården och omsorgen. För detta krävs enligt min mening tre grundförutsättningar
+            - en näringsvänlig tillväxtpolitik, en respekt för det kommunala
+            självstyret och en starkare skattebas för kommunernas och landstingens
+            intäkter. Det är regeringens ansvar att säkra dessa förutsättningar
+            och därigenom garantera att de offentliga arbetsgivarna får möjlighet
+            att bli föregångare i arbetet med jämställda löner. Mot bakgrund
+            av det ovan anförda anser jag att regeringen bör åläggas att genomföra
+            en lönerevision i den statliga verksamheten och arbeta med intern
+            arbetsvärdering i syfte att utjämna löneskillnader mellan likvärdigt
+            arbete. Denna lönerevision bör göras i samarbete med Kommun- och
+            Landstingsförbundet. Jag föreslår att riksdagen tillkännager för
+            regeringen som sin mening vad jag har framfört om jämställdheten
+            i den statliga förvaltningen och i övriga delar av den offentliga
+            sektorn. Detta innebär att riksdagen bifaller motion A366 (c)
+            yrkande 12 och avstyrker motion A319 (v) yrkande 3. 3. Jämställdhetsaspekter
+            på den statliga arbetsgivarpolitiken, punkt 2, motiveringen (m)
+            av Fredrik Reinfeldt (m), Gunnar Axén (m) och Cecilia Widegren
+            (m). Vi anser att utskottets ställningstagande borde ha följande
+            lydelse: Ställningstagande Jämställdhet handlar om alla människors
+            lika värde och varje människas rätt till respekt för sin person,
+            sina val och sina känslor. Det är en fråga om rättvisa att ingen
+            ska särbehandlas negativt på grund av sitt kön eller av andra
+            orsaker. All form av diskriminering och generalisering måste motverkas.
+            Människor har rätt att betraktas som individer och inte som delar
+            av en viss grupp som godtyckligt tillskrivs vissa egenskaper.
+            Vi anser att staten ska behandla män och kvinnor likvärdigt och
+            genom en öppen och modern arbetsgivarpolitik bidra till en mer
+            jämställd arbetsmarknad. Staten ska vara ett föredöme när det
+            gäller att utveckla de enskilda medarbetarnas förmåga och möjligheter.
+            Det innebär både att underlätta för såväl män som kvinnor att
+            utvecklas på sin arbetsplats och att vara lika öppen för den förmåga
+            och kompetens som den enskilde besitter oavsett kön. På det viset
+            bryts gamla attityder och underlättas för fler kvinnor i ledande
+            positioner. I detta arbete bör Regeringskansliet föregå med gott
+            exempel. Mot denna bakgrund vill vi framhålla att attitydförändringar
+            i synen på kvinnors roll på arbetsmarknaden kräver att kvinnor
+            synliggörs - inte att de kvoteras in i olika verksamheter eller
+            på annat sätt utsätts för positiv särbehandling. När en kvinna
+            särbehandlas bara därför att hon är kvinna, begås samma fel som
+            när en man särbehandlas bara därför att han är man. En orättvisa
+            ersätts av en annan orättvisa och segregeringen består. Det är
+            enligt vår mening viktigt att understryka att matematisk omfördelning
+            inte leder till ökad jämställdhet i verkligheten eller utifrån
+            den enskilda medarbetarens perspektiv. Mot denna bakgrund föreslår
+            vi att riksdagen avslår förslagen i motionerna A319 (v) yrkande
+            3 och A366 (c) yrkande 12. 4. Jämställdhetsaspekter på den statliga
+            arbetsgivarpolitiken, punkt 2, motiveringen (fp, kd) av Karin
+            Pilsäter (fp), Mats Odell (kd) och Gunnar Nordmark (fp). Vi anser
+            att utskottets ställningstagande borde ha följande lydelse: Ställningstagande
+            Lönediskrimineringen, som innebär att kvinnor och män får olika
+            lön för lika eller likvärdigt arbete, måste övervinnas. För att
+            bryta lönediskrimineringen behövs ändamålsenliga metoder såsom
+            statistik och bättre modeller för arbetsvärdering. Genom sådana
+            verktyg kan diskriminerande löneskillnader synliggöras. Vi vill
+            särskilt peka på att undersökningar från bl.a. Jusek visar att
+            kvinnor och män som utför samma arbete på samma arbetsplats fortfarande
+            kan ha stora löneskillnader, som inte kan motiveras med juridiskt
+            hållbara sakliga argument. Nyutexaminerade kvinnor inom de juridiska
+            och ekonomiska områdena har t.ex. lägre ingångslöner än sina manliga
+            jämnåriga kolleger. Detta missförhållande har uppmärksammats även
+            inom Regeringskansliet. Vi förutsätter att staten som arbetsgivare
+            följer den lagstiftning riksdagen fattat beslut om. De skärpningar
+            av jämställdhetslagen som genomförts måste förutsättas få fullt
+            genomslag. Lönediskrimineringen utgör dock bara en del av de stora
+            löneskillnaderna, där branschsegregation och arbetsgivarsegregation
+            utgör andra orsaker. Löneskillnaderna är också utslag av samma
+            brister som består i att många kvinnor har en arbetssituation
+            som innebär mindre makt och inflytande över arbetets utförande
+            och arbetstidens längd och förläggning. Kommunerna, landstingen
+            och staten måste bli avsevärt bättre som arbetsgivare. De måste
+            föregå med gott exempel när det gäller rättvisa löner, flexibla
+            arbetstider och inställning till familjeansvar och föräldraledighet,
+            liksom att utse kvinnor på ledande positioner. I dag är situationen
+            i hög utsträckning den motsatta. Staten som arbetsgivare måste
+            gå före och själv agera på det sätt man via lagstiftning, styrmedel
+            och opinionsbildning vill förmå resterande arbetsmarknad. Regleringsbrev
+            och instruktioner till myndigheter behöver tydligare genomsyras
+            av ett jämställdhetsperspektiv. Detta framkommer inte minst i
+            den granskning som Riksrevisionsverket genomfört. Mot denna bakgrund
+            föreslår vi att riksdagen avslår förslagen i motionerna A319 (v)
+            yrkande 3 och A366 (c) yrkande 12.
+          </p>
+          <p>
+            Bilaga Förteckning över behandlade förslag Förslag 2002/03:RR2
+            Förslag 2002/03:RR2 Riksdagens revisorers förslag angående Statens
+            personalpolitik: 1. Riksdagen tillkännager för regeringen som
+            sin mening att regeringen preciserar och konkretiserar den arbetsgivarpolitiska
+            delegeringen (avsnitt 2.3). 2. Riksdagen tillkännager för regeringen
+            som sin mening att regeringen i sitt arbete med det statliga chefskapet
+            uppmärksammar kravet på saklighet och tydlighet och att regeringen
+            begär en redovisning av personalpolitiska konsekvenser i myndigheternas
+            budgetunderlag (avsnitt 2.4). 3. Riksdagen tillkännager för regeringen
+            som sin mening att regeringen ser över dagens system för uppföljning
+            av personalpolitiken och därvid särskilt beaktar de små myndigheternas
+            situation, hantering av risksituationer och överväger behovet
+            av en särskild stabsmyndighet (avsnitt 2.5). Motioner från allmänna
+            motionstiden hösten 2002 2002/03:A319 av Ulla Hoffmann m.fl. (v):
+            3. Riksdagen tillkännager för regeringen som sin mening vad i
+            motionen anförs om högre prioritering av jämställdhetsarbete i
+            budgetdialog och regleringsbrev. 2002/03:A366 av Margareta Andersson
+            m.fl. (c): 12. Riksdagen tillkännager för regeringen som sin mening
+            vad i motionen anförs om en lönerevision i den statliga verksamheten
+            i syfte att utjämna löneskillnader mellan likvärdigt arbete.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

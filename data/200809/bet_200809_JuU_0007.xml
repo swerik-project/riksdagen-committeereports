@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_JuU_0007">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen godkände ett utkast till rambeslut för skydd av personuppgifter inom EU. Rambeslutet utgör ett komplement till andra instrument om informationsutbyte inom ramen för polisiärt och straffrättsligt samarbete och innehåller bl.a.bestämmelser om behandling av personuppgifter, behandling av känsliga personuppgifter, rättelse och raderingsamt hur den som registreras ska informeras. I stora delar motsvarar utkastet innehållet i den svenska personuppgiftslagen.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Skydd av personuppgifter inom EU (JuU7)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen. Avslag på motionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0927</idno>
+              <title>2008-11-13</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">27</biblScope>
+              <note type="display-reference">2008-11-13</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0927</idno>
+              <title>2008-11-13</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">27</biblScope>
+              <note type="display-reference">2008-11-13</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GW0K41</idno>
+              <title>2008/09:41</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">41</biblScope>
+              <note type="display-reference">2008/09:41</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GW0316</idno>
+              <title>Godkännande av Dataskyddsrambeslutet</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">16</biblScope>
+              <note type="display-reference">proposition 2008/09:16 Godkännande av Dataskyddsrambeslutet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GW02Ju9</idno>
+              <title>Godkännande av Dataskyddsrambeslutet</title>
+              <title type="sub">av Lena Olsson m.fl. (V)</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">Ju9</biblScope>
+              <note type="display-reference">motion 2008/09:Ju9 Godkännande av Dataskyddsrambeslutet</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2008-11-07">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2008-11-07">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-11-04">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-10-30">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-10-30">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-10-30">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-10-30">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-10-30">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-10-21">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-10-21">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2008-11-13">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-11-13">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-11-13">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-11-13">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-11-13">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-11-12">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-11-12">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-11-11">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-11-11">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Justitieutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:JuU7
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Dataskyddsrambeslutet
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBRPC" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet proposition 2008/09:16 Godkännande
+            av Dataskyddsrambeslutet. I betänkandet behandlas vidare en motion
+            som väckts med anledning av propositionen.
+          </p>
+          <p>
+            I propositionen föreslår regeringen att riksdagen ska godkänna
+            ett inom Europeiska unionen upprättat utkast till rambeslut om
+            skydd av personuppgifter som behandlas inom ramen för polissamarbete
+            och straffrättsligt samarbete (dataskyddsrambeslutet). Rambeslutet
+            utgör, när det gäller dataskydd, ett komplement till andra instrument
+            om informationsutbyte inom ramen för polisiärt och straffrättsligt
+            samarbete. I stora delar motsvarar utkastet till rambeslut det
+            s.k. dataskyddsdirektivet, som har genomförts i svensk rätt genom
+            personuppgiftslagen. Utkastet innehåller härutöver bl.a. särskilda
+            skyddsbestämmelser avsedda att begränsa möjligheterna att behandla
+            utbytta personuppgifter. I motionen yrkas att regeringen ska ta
+            initiativ till förstärkningar av dataskyddsrambeslutet.
+          </p>
+          <p>
+            Utskottet tillstyrker propositionen och föreslår att riksdagen
+            godkänner utkastet till rambeslut samt avslår motionen.
+          </p>
+          <p>
+            I ärendet finns en reservation (s, v och mp).
+          </p>
+          <p xml:id="IDASBRPC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Godkännande av dataskyddsrambeslutet
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen godkänner det inom Europeiska unionen upprättade utkastet
+                  till rambeslut om skydd av personuppgifter som behandlas inom
+                  ramen för polissamarbete och straffrättsligt samarbete (dataskyddsrambeslutet).
+                  Därmed bifaller riksdagen proposition 2008/09:16.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Vissa förändringar av dataskyddsrambeslutet
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2008/09:Ju9.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation (s, v, mp)
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 30 oktober 2008
+          </p>
+          <p>
+            På justitieutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Inger Davidson
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Inger Davidson (kd),
+            Henrik von Sydow (m), Krister Hammarbergh (m), Margareta Persson
+            (s), Ulrika Karlsson i Uppsala (m), Johan Linander (c), Elisebeht
+            Markström (s), Johan Pehrson (fp), Karl Gustav Abramsson (s),
+            Inge Garstedt (m), Christer Adelsbo (s), Lena Olsson (v), Kerstin
+            Haglö (s), Otto von Arnold (kd), Mehmet Kaplan (mp), Anders Hansson
+            (m) och Maryam Yazdanfar (s).
+          </p>
+          <p xml:id="IDAHHRPC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAKHRPC" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I november 2004 antog Europeiska rådet det s.k. Haagprogrammet
+            för stärkt frihet, säkerhet och rättvisa i Europeiska unionen.
+            Rådet uttalade att en förstärkning av frihet, säkerhet och rättvisa
+            kräver en innovativ strategi i fråga om gränsöverskridande utbyte
+            av information. Ett effektivare polissamarbete och rättsligt samarbete
+            måste emellertid balanseras mot grundläggande friheter, bl.a.
+            rätten till privatliv och rätten till skydd av personuppgifter.
+          </p>
+          <p>
+            I oktober 2005 presenterade kommissionen ett förslag till rambeslut
+            om skydd av personuppgifter som behandlas inom ramen för polissamarbete
+            och straffrättsligt samarbete. Efter ingående förhandlingar i
+            rådet, där medlemsstaterna inte kunde enas, omarbetades förslaget
+            på ett genomgripande sätt under det tyska ordförandeskapet våren
+            2007. Förutom EU:s medlemsstater har även Island, Norge och Schweiz
+            deltagit i förhandlingarna.
+          </p>
+          <p>
+            I slutet av år 2007 nåddes en politisk principöverenskommelse
+            om innehållet i utkastet till rambeslut, med reservation för vissa
+            ändringar, bl.a. i preambeln. Sverige lämnade i samband med det
+            en parlamentarisk granskningsreservation.
+          </p>
+          <p>
+            Europaparlamentet har yttrat sig över det ursprungliga förslaget
+            i september 2006 och över det reviderade förslaget i juni 2007,
+            i februari 2008 samt på nytt i september 2008. Europeiska datatillsynsmannen
+            har avgett tre yttranden över utkastet till rambeslut, det senaste
+            i april 2007.
+          </p>
+          <p>
+            En faktapromemoria om förslaget har överlämnats till riksdagen
+            (2005/06:FPM44 Skydd av personuppgifter i europeisk brottsbekämpning).
+          </p>
+          <p>
+            Regeringen har under förhandlingsarbetet fortlöpande informerat
+            och samrått med riksdagen. Företrädare för Justitiedepartementet
+            har sammanträtt med justitieutskottet och justitieministern har
+            vid sammanträde i EU-nämnden redogjort för förhandlingsarbetet
+            och den svenska positionen.
+          </p>
+          <p>
+            Inom Justitiedepartementet har departementspromemorian Antagande
+            av rambeslut om skydd för personuppgifter som behandlas inom ramen
+            för polissamarbete och straffrättsligt samarbete (Ds 2008:30)
+            tagits fram. Promemorian har remissbehandlats. En sammanställning
+            av remissyttrandena finns tillgänglig i Justitiedepartementet
+            (dnr Ju2008/3356/PO).
+          </p>
+          <p>
+            I juni 2008 gjordes en granskning av texten av EU:s språkexperter,
+            de s.k. juristlingvisterna. Utkastet till rambeslut i dess senaste
+            lydelse på svenska finns i
+            <seg rend="grad2">
+              bilaga 2. Ett utkast till rådsbeslut innefattande ett uttalande
+              från rådet finns i bilaga 3.
+            </seg>
+          </p>
+          <p>
+            I propositionen föreslås att riksdagen ska godkänna utkastet
+            till rambeslut. Några lagförslag presenteras inte. Däremot innehåller
+            propositionen en översiktlig beskrivning av i vilka avseenden
+            ett antagande av rambeslutet bedöms kräva lagändringar. Regeringen
+            avser att senare återkomma till riksdagen med förslag till lagändringar.
+          </p>
+          <p xml:id="IDASISPC" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            I propositionen föreslås att riksdagen ska godkänna ett inom
+            Europeiska unionen upprättat utkast till rambeslut om skydd av
+            personuppgifter som behandlas inom ramen för polissamarbete och
+            straffrättsligt samarbete (dataskyddsrambeslutet).
+          </p>
+          <p>
+            Utkastet till rambeslut förpliktar medlemsstaterna att behandla
+            sådana uppgifter som utbyts mellan staterna på de nämnda områdena
+            på visst sätt. Det innehåller bestämmelser som avser att förstärka
+            skyddet av information vid behandling av personuppgifter som överförs.
+            Rambeslutet utgör, när det gäller dataskydd, ett komplement till
+            andra instrument om informationsutbyte inom ramen för polisiärt
+            och straffrättsligt samarbete.
+          </p>
+          <p>
+            Utkastet innehåller bestämmelser om allmänna utgångspunkter för
+            behandlingen av personuppgifter, behandling av känsliga personuppgifter,
+            rättelse, radering och gallring av personuppgifter, information
+            till den registrerade samt skadestånd och sanktioner. I stora
+            delar motsvarar utkastet till rambeslut det s.k. dataskyddsdirektivet,
+            som har genomförts i svensk rätt genom personuppgiftslagen. Utkastet
+            innehåller härutöver bl.a. särskilda skyddsbestämmelser avsedda
+            att begränsa möjligheterna att behandla utbytta personuppgifter.
+          </p>
+          <p>
+            I propositionen görs en preliminär bedömning av vilka lagändringar
+            som kan bli nödvändiga med anledning av rambeslutet. Propositionen
+            innehåller inga lagförslag.
+          </p>
+          <p xml:id="IDACJSPC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAGJSPC" rend="rubrik2">
+            Godkännande av dataskyddsrambeslutet, m.m.
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDANJSPC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen godkänner ett inom Europeiska unionen upprättat utkast
+                till rambeslut om skydd för personuppgifter som behandlas inom
+                ramen för polissamarbete och straffrättsligt samarbete (dataskyddsrambeslutet)
+                och avslår en motion om att regeringen ska ta initiativ till förändringar
+                av detsamma.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation (s, v, mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA0JSPC" rend="rubrik3">
+              Propositionen
+            </p>
+            <p>
+              I propositionen föreslår regeringen att riksdagen ska godkänna
+              utkastet till dataskyddsrambeslut.
+            </p>
+            <p>
+              Syftet med rambeslutet, vilket framgår av artikel 1, är att säkerställa
+              en hög skyddsnivå för fysiska personers fri- och rättigheter när
+              det gäller behandling av personuppgifter inom ramen för polissamarbete
+              och straffrättsligt samarbete. Rambeslutet är endast tillämpligt
+              på uppgifter som har överförts till eller gjorts tillgängliga
+              mellan medlemsstaterna eller mellan medlemsstater och myndigheter
+              och informationssystem som har inrättats i enlighet med avdelning
+              VI i EU-fördraget om polissamarbete och straffrättsligt samarbete,
+              t.ex. Europol. Det framgår dock att det är medlemsstaternas avsikt
+              att den nivå på dataskydd som gäller för nationell behandling
+              motsvarar vad som föreskrivs i rambeslutet. Rambeslutet hindrar
+              dock inte medlemsstaterna från att ha ett starkare skydd för behandling
+              av personuppgifter än vad som anges i rambeslutet. Vidare bör
+              tillnärmningen inte leda till ett svagare skydd för personuppgifter
+              än det som medlemsstaternas nuvarande lagstiftning ger utan tvärtom
+              syfta till att garantera en hög skyddsnivå inom hela unionen.
+            </p>
+            <p>
+              Endast behandling av personuppgifter som utförs helt eller delvis
+              automatiskt samt annan behandling av personuppgifter som ingår
+              i eller kommer att ingå i ett register faller inom tillämpningsområdet.
+              Från tillämpningsområdet undantas också viktiga nationella säkerhetsintressen
+              och särskild underrättelseverksamhet inom området nationell säkerhet.
+            </p>
+            <p>
+              I artikel 3
+            </p>
+            <p xml:id="IDABMSPC" rend="rubrik3">
+              Motionen
+            </p>
+            <p>
+              I motionen Ju9 (v) anförs att regeringen ska ta initiativ till
+              förstärkningar av dataskyddsrambeslutet. Motionärerna välkomnar
+              rambeslutet men anser att det finns vissa brister. Motionärerna
+              lyfter bl.a. fram undantaget för nationell säkerhetstjänst, otydligheter
+              vad gäller ändamålsprincipen och att personer som anser sig vara
+              felaktigt registrerade kan tvingas driva processer i andra länder.
+              Motionärerna framför att det i rambeslutet inte finns några regler
+              om att uppgifter ska skiljas åt med hänsyn till tillförlitlighet
+              eller då det t.ex. rör sig om uppgifter om misstänkta eller brottsoffer.
+              Enligt motionärerna saknar rambeslutet även bestämmelser om gallring
+              av uppgifter.
+            </p>
+            <p xml:id="IDAHMSPC" rend="rubrik3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Såväl den ökade gränsöverskridande brottsligheten som den större
+              rörligheten för personer skapar behov av ett tätare samarbete
+              mellan de brottsbekämpande myndigheterna i olika länder och utökade
+              möjligheter till rättslig hjälp i brottmål. Europol fyller en
+              viktig funktion i samarbetet mellan brottsbekämpande myndigheter,
+              samtidigt som Eurojust och det europeiska rättsliga nätverket
+              har fått allt viktigare roller i arbetet med att förbättra det
+              straffrättsliga samarbetet. Under senare år har dessutom en rad
+              olika instrument förhandlats fram inom Europeiska unionen som
+              ger medlemsstaterna större möjligheter att på ett enkelt sätt
+              utbyta information med varandra, att verkställa påföljder beslutade
+              i andra medlemsstater och att arbeta tillsammans med brottsbekämpande
+              uppgifter. Det pågår också ett intensivt arbete med att utveckla
+              det straffrättsliga samarbetet.
+            </p>
+            <p>
+              Det ökade samarbetet gynnar framför allt effektiviteten i brottsbekämpning
+              och lagföring och skapar betydligt bättre förutsättningar att
+              angripa allvarlig och gränsöverskridande brottslighet. Utskottet
+              delar regeringens uppfattning att det är viktigt att den information
+              som finns om allvarliga hot mot samhället kan utnyttjas, oavsett
+              var den finns, och att brottsligheten i största möjliga utsträckning
+              kan förhindras.
+            </p>
+            <p>
+              Det ökade informationsflödet kan emellertid också innebära nackdelar.
+              Det kan leda till att myndigheterna samlar på sig stora mängder
+              information om enskilda individer. Ett utökat informationsutbyte
+              ställer därför krav på ett gott skydd för den enskildes personliga
+              integritet. Eftersom dataskyddsdirektivet inte omfattar verksamhet
+              på det polisiära och straffrättsliga området är behovet av bestämmelser
+              om dataskydd på dessa områden stort. Dataskyddsrambeslutet utgör
+              enligt utskottets mening en betydelsefull skyddsreglering när
+              informationsutbytet ökar och balanserar den svåra avvägningen
+              mellan personlig integritet och samhällets intresse av att utreda
+              och lagföra brott. Rambeslutet har tillkommit i det uttalade syftet
+              att öka den enskildes skydd mot felaktig eller otillbörlig behandling
+              av personuppgifter vid polisiärt och straffrättsligt samarbete
+              över gränserna. Sverige har under lång tid varit drivande inom
+              Europeiska unionen när det gäller skydd för den enskildes integritet
+              mot alltför extensiv behandling av personuppgifter. Utskottet
+              anser liksom regeringen att rambeslutet är ett stort steg framåt
+              och att skyddet för enskildas integritet härigenom kommer att
+              förbättras.
+            </p>
+            <p>
+              Utskottet delar regeringens uppfattning att riksdagen skulle
+              ha haft ett ännu bättre underlag för sitt ställningstagande om
+              ärendet även hade innehållit förslag till svensk följdlagstiftning.
+              Att så inte sker får, i linje med utskottets tidigare uttalanden,
+              dock anses godtagbart (se bet. 1999/2000:JuU20). När det gäller
+              det framtida lagstiftningsbehovet bör noteras att dataskyddsrambeslutet
+              i många avseenden innehåller bestämmelser som finns i dataskyddsdirektivet.
+              Direktivet har genomförts i svensk rätt och det svenska regelverket
+              har i stora delar anpassats till det krav på dataskydd som ställs
+              i rambeslutet. Det torde enligt regeringen därför inte krävas
+              några genomgripande lagstiftningsåtgärder för att genomföra rambeslutets
+              krav. I propositionen lämnar regeringen också en utförlig redogörelse
+              för inom vilka områden det i det fortsatta lagstiftningsarbetet
+              bör göras en närmare analys av hur de svenska reglerna förhåller
+              sig till rambeslutet. Bland de områden som regeringen har identifierat
+              finns rambeslutets regler om vidarebehandling, behandling av känsliga
+              personuppgifter, skyldighet att iaktta överförande stats gallringsfrister,
+              information till de registrerade, tillsynsmyndigheternas befogenheter
+              och skadestånd. Utskottet kan konstatera att på de områden där
+              svensk lagstiftning måste ändras kommer detta att innebära ett
+              förstärkt skydd för den personliga integriteten, vilket utskottet
+              välkomnar.
+            </p>
+            <p>
+              Sammanfattningsvis anser utskottet att riksdagen bör godkänna
+              utkastet till rambeslut.
+            </p>
+            <p>
+              I motion Ju9 välkomnas dataskyddsrambeslutet samtidigt som motionärerna
+              begär att regeringen tar initiativ till en förändring av innehållet
+              på vissa punkter.
+            </p>
+            <p>
+              Riksdagen har nu att ta ställning till om det upprättade utkastet
+              till rambeslut ska godkännas eller ej. Utskottet kan konstatera
+              att det råder enighet om att godkänna det färdigförhandlade utkastet
+              till rambeslut. I detta sammanhang vill utskottet erinra om att
+              några invändningar motsvarande de som har lyfts fram i motionen
+              inte har framförts då den svenska positionen redovisats för riksdagen
+              under förhandlingsarbetet. Sammantaget anser utskottet att den
+              utformning som utkastet till dataskyddsrambeslut har fått får
+              förväntas ge ett gott skydd för personuppgifter som behandlas
+              inom ramen för polissamarbete och straffrättsligt samarbete. Utskottet
+              ser inte skäl att nu göra något tillkännagivande rörande det framtida
+              EU-samarbetet på området. Motion Ju9 bör avslås.
+            </p>
+            <p xml:id="IDAANSPC" rend="AvsnittsRubrik">
+              Reservationer
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservationer. I rubriken anges vilken
+              punkt i utskottets förslag till riksdagsbeslut som behandlas i
+              avsnittet.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAHNSPC">
+                  <p rend="reservation">
+                    Vissa förändringar av dataskyddsrambeslutet, punkt 2 (s, v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="reservanter">
+                    av Margareta Persson (s), Elisebeht Markström (s), Karl Gustav
+                    Abramsson (s), Christer Adelsbo (s), Lena Olsson (v), Kerstin
+                    Haglö (s), Mehmet Kaplan (mp) och Maryam Yazdanfar (s).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAIOSPC" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 2 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen. Därmed bifaller riksdagen motion 2008/09:Ju9.
+            </p>
+            <p xml:id="IDAPOSPC" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              I takt med att EU-samarbetet har fördjupats i frågor om utbyte
+              av personuppgifter på det rättsliga området är det viktigt med
+              ett gott skydd för uppgifterna. En viktig reglering på detta område
+              är Europarådets konvention om skydd för enskilda vid automatisk
+              databehandling av personuppgifter. Vi välkomnar dataskyddsrambeslutet
+              men anser samtidigt att det finns vissa brister, vilka också har
+              lyfts fram av Datainspektionen, Europeiska datatillsynsmannen
+              och dataskyddsmyndigheterna i EU:s medlemsstater. Det finns en
+              oroande utveckling som innebär att det görs undantag från kravet
+              på rättssäkerhet inom alltfler områden. Detta märks bl.a. genom
+              att dataskyddsrambeslutet inte är tillämpligt på nationell säkerhetstjänst.
+              Vi anser att det är självklart att det ska ställas upp rättssäkerhetsgarantier
+              även på detta område. Vidare är rambeslutet otydligt när det gäller
+              ändamålsprincipen. Samtidigt som det anges att uppgifter endast
+              får användas för de syften för vilka de har samlats in finns det
+              ett undantag för de fall det överlämnande landet lämnar sitt medgivande
+              till ett utvidgat användningsområde. Eftersom ändamålsprincipen
+              är grundläggande för dataskydd bör regeringen ta initiativ till
+              att ändra denna formulering. Vidare är det ett problem att personer
+              som anser sig vara felaktigt registrerade kan tvingas driva processer
+              i de länder dit deras uppgifter har sänts. Vi anser att de i stället
+              ska kunna vända sig till myndigheterna i sitt hemland. Avslutningsvis
+              saknas i utkastet till rambeslut regler om att uppgifter ska hållas
+              åtskilda med hänsyn till tillförlitlighet eller för att skilja
+              registrerade personer åt beroende på om de t.ex. är brottsoffer
+              och gärningsmän. Inte heller finns i rambeslutet några gallringsbestämmelser,
+              vilket är en grundläggande princip när det gäller dataskydd.
+            </p>
+            <p>
+              Det får ankomma på regeringen att ta initiativ till att dataskyddsrambeslutet
+              förstärks i nu nämnda avseenden.
+            </p>
+            <p xml:id="IDAYOSPC" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDA1OSPC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDA4OSPC" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2008/09:16 Godkännande av Dataskyddsrambeslutet:
+            </p>
+            <p>
+              Riksdagen godkänner det inom Europeiska unionen upprättade utkastet
+              till rambeslut om skydd av personuppgifter som behandlas inom
+              ramen för polissamarbete och straffrättsligt samarbete (dataskyddsrambeslutet).
+            </p>
+            <p xml:id="IDALPSPC" rend="rubrik2">
+              Följdmotionen
+            </p>
+            <p rend="behandlatdokument_">
+              2008/09:Ju9 av Lena Olsson m.fl. (v):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om att regeringen ska ta initiativ till förstärkningar
+              av dataskyddsrambeslutet.
+            </p>
+            <p xml:id="IDAYPSPC" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDA1PSPC" rend="BilageRubrik">
+              Utkast till rambeslut om skydd av personuppgifter som behandlas
+              inom ramen för polissamarbete och straffrättsligt samarbete
+            </p>
+            <p>
+              <graphic url="shape{E2F6E722-0C61-4053-8011-62EDAFAEB7AC}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{1F496AD6-B5F0-42F7-8DCA-1172D7DF80A3}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{1EFF3F3E-ED5B-43C1-90F5-3C5D0EBEA9EF}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{E016B235-FD75-4BCB-8468-8D7F455C7538}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{ADEFAFEF-C834-4B23-840C-1BA74E5CC72B}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{49E8A7B6-4B87-4A05-9A25-3E879BA723D2}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{C9137BE1-EB55-4E02-83EA-D13EDC0BE58B}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{56E57EB9-2D72-444A-8570-C55F1CC12252}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{E5BB6E7B-1BEF-48A4-9F15-DF3C880C235A}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{B452E15A-11B3-4075-AD11-6DE27F150057}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{E62EA20B-3CD4-4D9D-8532-C3AE21A293DA}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{F7CEDE0F-4B01-4EC8-B88F-E21D5DB1A84F}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{A6164AC4-290B-4073-A52A-76915B1BA31B}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{0AE0CEF4-44C1-4617-AEA5-3870A4D5862D}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{AF334410-A6D8-42FD-83DE-4C38DD200CAF}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{D02F4C19-C038-4A98-9CA0-5E3F6045AD67}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{DAC086C6-3EC7-4D8C-A773-91645A9BCE72}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{9206316E-6EBE-46E1-A453-3CEA93672229}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{254E62E4-147A-4BF2-BA36-6F58E8F8E1C9}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{9327471E-577E-4F19-A49B-43BAE4CFD6A3}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{0FD3C8D1-A69A-48B5-9C51-F94818DF754D}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{1E60F5DC-CFC5-4D24-8B60-3D308A450B4B}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{BC7DD0FD-2585-4717-A6EF-2AF3F0EDD12E}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{82883EA4-BCA3-4029-AC6D-9317B068BBC1}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{32D5F5FB-A026-461F-8CB1-0F5E2F99AFAE}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{BCA4906E-B5D8-4A25-933E-38F46D4270C6}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{E6B89775-D8F3-43DE-83A2-9B4CB40071BD}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{DC5DBA82-00D6-47E3-8541-0C16D181DEED}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{D10C837C-1B82-42B5-87B9-1F0A461AAB97}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{9936E75F-6BC9-423C-8584-C80C1617FA46}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{8EC7290C-08A7-4DC7-B738-6FCAA90E7C30}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{B5EFBA4C-7D85-4A22-9589-ED3A153EE1D9}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{1BE9C7F5-6CC0-4E00-A69F-93BA2C076409}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{10C339A4-E142-472E-B694-F8EE44784C6E}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{94CE6514-9462-4070-B750-0B0478263DBD}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{0389C8F4-3CAE-4099-8B42-A2CA9F3E85E3}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{EB6CBDF1-0551-4D09-B54C-7CB7C7AE710B}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{4C7B99ED-FC4D-47E9-A34F-B69A27956098}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{0711EF8E-9129-4D6C-950D-112CC2FCCD13}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{7096D8E4-C07F-4A3D-AC14-0CDC7830BF06}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{DB4857B6-5792-4A8A-947D-B7565AF2D4F4}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{EDE53900-8B72-4F9D-9355-7A82C86655C7}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{5C7E34C8-3F42-46D2-B22E-E3BE135C2796}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{6824ADEE-9602-4D00-9114-08A73D2B2B70}.png"/>
+            </p>
+            <p xml:id="IDAEDTPC" rend="Bilaga">
+              Bilaga 3
+            </p>
+            <p xml:id="IDAHDTPC" rend="BilageRubrik">
+              Utkast till rådsbeslut
+            </p>
+            <p>
+              <graphic url="shape{6826320C-8915-4624-A092-183F39BDD671}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200910_FiU_0028">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen har sagt ja till Riksbankens förslag om att införa tvåkronorsmynt och 200-kronorssedlar. Ändringarna börjar gälla den 1 januari 2011. Riksbankens förslag om att införa 20-kronorsmynt får inget stöd i riksdagen. Skälet är att Riksbanksfullmäktige och Riksbankens direktion inte är eniga. Fullmäktige är emot förslaget medan direktionen är för. Sedan ett tidigare riksdagsbeslut blir 50-öresmyntet ogiltigt den 30 september 2010.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Sverige får tvåkrona (FiU28)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Delvis bifall till framställningen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GX09130</idno>
+              <title>2010-06-02</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">130</biblScope>
+              <note type="display-reference">2010-06-02</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GX09130</idno>
+              <title>2010-06-02</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">130</biblScope>
+              <note type="display-reference">2010-06-02</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GX0K313</idno>
+              <title>2009/10:313</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">313</biblScope>
+              <note type="display-reference">2009/10:313</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GX0K314</idno>
+              <title>2009/10:314</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">314</biblScope>
+              <note type="display-reference">2009/10:314</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1988:1385</idno>
+              <note type="display-reference">2010:635</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="frsrdg">
+              <idno type="riksdagen">GX04RB5</idno>
+              <title>Lag om ändring i lagen (1988:1385) om Sveriges riksbank</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">RB5</biblScope>
+              <note type="display-reference">forslag 2009/10:RB5 Lag om ändring i lagen (1988:1385) om Sveriges riksbank</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2010-05-27">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2010-05-27">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-05-24">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2010-05-20">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-05-20">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2010-05-20">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-05-18">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-05-18">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-05-04">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-05-04">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2010-06-02">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2010-06-02">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2010-06-02">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-06-02">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-06-02">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-06-01">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-06-01">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-05-28">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-05-28">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2009/10:FiU28
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Lag om ändring i lagen (1988:1385) om Sveriges riksbank
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBHD5" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            Finansutskottet behandlar i detta betänkande Riksbankens framställning
+            2009/10:RB5 Lag om ändring i lagen (1988:1385) om Sveriges riksbank.
+          </p>
+          <p>
+            Riksbanken föreslår att riksdagen antar Riksbankens förslag till
+            ändring i lagen (1988:1385) om Sveriges riksbank så att Riksbanken
+            ges rätt att ge ut mynt i valörerna 2 kr och 20 kr och sedlar
+            i valören 200 kr.
+          </p>
+          <p>
+            Riksdagen beslutade i mars 2009, på förslag av Riksbanken, att
+            50-öresmyntet blir ogiltigt den 30 september 2010. Som en följdändring
+            av detta beslut föreslås att Riksbanken inte längre ska ges rätt
+            att ge ut mynt i valören 50 öre.
+          </p>
+          <p>
+            Utskottet tillstyrker förslagen med det undantaget att Riksbanken
+            inte ges rätt att ge ut 20-kronorsmynt. Utskottet föreslår således
+            att bestämmelsen i 5 kap. 2 § lagen (1988:1385) om Sveriges riksbank
+            får den lydelse som framgår av bilaga 3 i betänkandet.
+          </p>
+          <p>
+            Ändringarna föreslås träda i kraft den 1 januari 2011.
+          </p>
+          <p xml:id="IDAVBHD5" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Valörer på sedlar och mynt
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar utskottets förslag i bilaga 3 till lag om ändring
+                  i lagen (1988:1385) om Sveriges riksbank. Därmed bifaller riksdagen
+                  delvis framställning 2009/10:RB5.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 18 maj 2010
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Bertil Kjellberg (m), Sonia Karlsson (s), Roger Tiefensee (c),
+            Monica Green (s), Nina Lundström (fp), Peder Wachtmeister (m),
+            Agneta Gille (s), Göran Pettersson (m), Tommy Ternemar (s), Emma
+            Henriksson (kd), Jörgen Hellman (s), Anne Marie Brodén (m), Mats
+            Pertoft (mp), Elisabeth Svantesson (m) och Jacob Johnson (v).
+          </p>
+          <p xml:id="IDAUEHD5" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAXEHD5" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Riksbanken har i rapporten Valörer och fördelningen på sedlar
+            och mynt förslag till förnyelse av sedel- och myntserien utrett
+            behovet av förändringar i Riksbankens sedel- och myntutgivning.
+          </p>
+          <p>
+            Riksbankens direktion har i ärendet samrått med riksbanksfullmäktige
+            enligt 4 kap. 1 § riksbankslagen. Fullmäktige uttalade då att
+            man inte har någon invändning mot att direktionen gör en framställning
+            till riksdagen med förslag om ändring i riksbankslagen avseende
+            valörer på sedlar och mynt i enlighet med direktionens förslag.
+            Fullmäktige ansåg emellertid att direktionen i framställningen
+            inte borde föreslå att Riksbanken ges möjlighet att ge ut ett
+            mynt i valören 20 kr. Enligt fullmäktiges mening bör 20-kronorssedeln
+            inte ersättas med ett mynt.
+          </p>
+          <p>
+            För att förkorta och underlätta riksdagens beredning har Riksbanken
+            skickat förslaget för yttrande till Europeiska centralbanken,
+            som enligt EUF-fördraget ska konsulteras.
+          </p>
+          <p>
+            Om ett införande av euron aktualiseras kommer arbetet med den
+            nya sedel- och myntserien att avbrytas.
+          </p>
+          <p xml:id="IDAGFHD5" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Enligt 9 kap. 14 § regeringsformen har endast Riksbanken rätt
+            att ge ut sedlar och mynt. Av 5 kap. 1 § lagen (1988:1385) om
+            Sveriges riksbank framgår att sedlar och mynt som ges ut av Riksbanken
+            är lagliga betalningsmedel. Riksbanken har således ensamrätt att
+            ge ut mynt och sedlar och besluta om utformningen av dessa.
+          </p>
+          <p>
+            Vilka valörer som Riksbanken får ge ut av mynt och sedlar framgår
+            av 5 kap. 2 § riksbankslagen. Om valörerna behöver ändras måste
+            det göras en ändring i lagen, vilket innebär att förslag på förändringar
+            i mynt- och sedelserien måste läggas fram för riksdagen.
+          </p>
+          <p xml:id="IDAQFHD5" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAUFHD5" rend="rubrik2">
+            Valörer på sedlar och mynt
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDA0FHD5" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen bifaller delvis Riksbankens förslag i framställningen
+                om vilka mynt och sedlar Riksbanken ges rätt att ge ut. Det föreslagna
+                20-kronorsmyntet omfattas inte av denna rätt.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAGGHD5" rend="r3">
+              Riksbankens framställning
+            </p>
+            <p>
+              Riksbanken föreslår att riksdagen antar Riksbankens förslag att
+              lagen (1988:1385) om Sveriges riksbank ändras så att Riksbanken
+              ges rätt att också ge ut mynt i valörerna 2 kr och 20 kr och sedlar
+              i valören 200 kr samt att Riksbanken inte längre ska ha möjlighet
+              att ge ut 50-öresmynt.
+            </p>
+            <p>
+              Riksbanken avser att inleda en förnyelse av den svenska sedel-
+              och myntserien. Den nuvarande sedelserien utformades för mer än
+              25 år sedan, och en modernisering är enligt Riksbanken nödvändig
+              för att upprätthålla ett effektivt skydd mot förfalskningar. Myntserien
+              behöver bytas ut mot lättare och mindre mynt som reducerar hanteringskostnader,
+              inköpskostnader och miljöbelastning.
+            </p>
+            <p>
+              I samband med detta föreslår Riksbanken att valörerna i sedel-
+              och myntserien ändras på så sätt att myntserien kompletteras med
+              ett nytt 2-kronorsmynt och sedelserien med en 200-kronorssedel.
+              Skälen är främst att dessa valörer kommer att ersätta en betydande
+              mängd enkronor och etthundrakronorssedlar, vilket medför att antalet
+              sedlar och mynt i cirkulation minskar.
+            </p>
+            <p>
+              Riksbanken föreslår vidare att 20-kronorssedeln ersätts med ett
+              20-kronorsmynt. Skälet är att sedeln blivit alltmer sliten, vilket
+              leder till praktiska problem vid maskinell sedelhantering och
+              vid äkthetskontroll av sedlar. Sedeln återanvänds i det längsta
+              av handeln, och till följd av dess låga värde behandlas den alltmer
+              ovarsamt. I en undersökning bland allmänheten som Riksbanken gjorde
+              2006 var 20-kronorsvalören den enda sedelvalör där inte en majoritet
+              uppfattade kvaliteten som god eller mycket god. Förstärkningar
+              av papperet i 20-kronorssedeln har inte lett till någon påtaglig
+              förbättring.
+            </p>
+            <p>
+              De föreslagna förändringarna är en samlad lösning för att effektivisera
+              den svenska sedel- och myntserien. Enligt Riksbanken förenklas
+              allmänhetens betalningar, kontantmarknadens hanteringskostnader
+              minskar och miljöbelastningen från produktion och hantering av
+              sedlar och mynt reduceras.
+            </p>
+            <p>
+              Företagen på kontantmarknaden är enligt framställningen i stort
+              sett positiva till Riksbankens förslag. Vad gäller förslaget att
+              ersätta 20-kronorssedeln med ett mynt finns det dock olika uppfattningar.
+              Handelns branschorganisationer avstyrker ett mynt eftersom införandet
+              av ett mynt medför omställningskostnader och mynt är tyngre att
+              hantera än sedlar. Riksbanken har med anledning av detta haft
+              överläggningar med Svensk Handel.
+            </p>
+            <p>
+              Riksbanken gör bedömningen att det inom några år blir nödvändigt
+              att byta ut 20-kronorssedeln mot ett mynt på grund av att sedeln
+              blivit alltför sliten för att fungera som betalningsmedel och
+              att dess omloppstid blivit orimligt kort. Slutsatsen stöds av
+              att länderna i Sveriges närområde sedan länge övergått till mynt
+              på motsvarande värde.
+            </p>
+            <p>
+              Övervägande skäl talar för att beslut om ett tjugokronorsmynt
+              bör fattas när ställning nu tas till en förändring av hela sedel-
+              och myntserien. Att återkomma med ett sådant beslut senare leder
+              enligt Riksbanken till att omställningskostnaderna blir högre.
+              För att öka flexibiliteten och minska omställningskostnaderna
+              för handeln avser Riksbanken att införa myntet först ca 2015.
+            </p>
+            <p>
+              Vikten av utelöpande mynt kommer enligt Riksbankens beräkningar
+              att reduceras med ca 45 % när en ny myntserie introducerats, beroende
+              på att de nya mynten blir mindre och lättare och att en 2-krona
+              medför att antalet mynt i cirkulation minskar. Viktminskningen
+              kommer att ha stor betydelse för att reducera hanteringskostnaderna
+              och miljöbelastningen och för att underlätta för anställda i kontanthanteringen.
+            </p>
+            <p>
+              Förnyelsen av sedel- och myntserien innebär att riksbankslagen
+              behöver ändras så att Riksbanken ges rätt att ge ut också sedlar
+              med valören 200 kr och mynt med valörerna 2 och 20 kr.
+            </p>
+            <p>
+              Den föreslagna förändringen innebär att Riksbanken under en övergångsperiod
+              kommer att ha rätt att ge ut både en 20-kronorssedel och ett 20-kronorsmynt.
+              Skälet till detta är att den exakta tidpunkten för övergången
+              till ett mynt fastställs först senare. När ett 20-kronorsmynt
+              introducerats och ersatt 20-kronorssedeln avser Riksbanken att
+              återkomma med ett lagförslag att Riksbanken inte längre ska ha
+              möjlighet att ge ut sedlar i valören 20 kr.
+            </p>
+            <p>
+              Som en följd av riksdagens tidigare beslut i mars 2009 att 50-öresmyntet
+              blir ogiltigt den 30 september 2010 föreslås att möjligheten i
+              riksbankslagen för Riksbanken att ge ut 50-öresmynt tas bort.
+            </p>
+            <p>
+              Riksbanken föreslår att riksdagen beslutar om en ändring i riksbankslagen
+              vad gäller valörer på sedlar och mynt i enlighet med förslaget
+              ovan och att lagändringen träder i kraft den 1 januari 2011.
+            </p>
+            <p xml:id="IDAQHHD5" rend="r3">
+              Europeiska centralbankens yttrande
+            </p>
+            <p>
+              Enligt artiklarna 127.4 och 282.5 i fördraget om Europeiska unionens
+              funktionssätt och artikel 2.1 andra strecksatsen i rådets beslut
+              98/415/EG av den 29 juni 1998 om nationella myndigheters samråd
+              med Europeiska centralbanken rörande förslag till rättsregler,
+              ska Europeiska centralbanken (ECB) yttra sig i det aktuella ärendet
+              eftersom förslaget rör betalningsmedel.
+            </p>
+            <p>
+              För att förkorta och underlätta riksdagens beredning har Riksbanken
+              skickat förslaget till ECB för yttrande.
+            </p>
+            <p>
+              Europeiska centralbankens yttrande, som antagits av ECB-rådet,
+              inkom till riksdagen den 10 maj.
+            </p>
+            <p>
+              ECB noterar i sitt yttrande att Riksbanken gjort en ingående
+              granskning av behovet att förnya sedel- och myntserien där man
+              beaktat användningen av och efterfrågan på olika valörer samt
+              kostnaderna för olika alternativ. Man har även beaktat synpunkter
+              från allmänheten, banker och handel.
+            </p>
+            <p>
+              Yttrandet återges i sin helhet i bilaga 4.
+            </p>
+            <p xml:id="IDAFIHD5" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet välkomnar en anpassning av sedel- och myntserien i
+              syfte att säkerställa effektiviteten och säkerheten men även för
+              att främja miljöaspekterna. På detta sätt kan allmänhetens betalningar
+              förenklas, kontantmarknadens hanteringskostnader minskas och miljöbelastningen
+              från produktion och hantering av sedlar och mynt reduceras.
+            </p>
+            <p>
+              Enligt 4 kap. 1 § riksbankslagen ska fullmäktige och direktionen
+              samråda med varandra innan en framställning görs till riksdagen.
+              Ett sådant samråd ägde rum den 17 mars 2010. Fullmäktige uttalade
+              då att man inte hade någon invändning mot att direktionen skulle
+              skicka en framställning till riksdagen med förslag om en ändring
+              i riksbankslagen avseende valörer på sedlar och mynt i enlighet
+              med det utkast som presenterats. Fullmäktige ansåg emellertid
+              att direktionen i framställningen inte borde föreslå att Riksbanken
+              ges möjlighet att ge ut ett mynt i valören 20 kronor. Enligt fullmäktiges
+              mening bör 20-kronorssedeln inte ersättas med ett mynt.
+            </p>
+            <p>
+              Utskottet konstaterar att det i frågan om införandet av ett 20-kronorsmynt
+              inte råder enighet mellan Riksbankens direktion och Riksbanksfullmäktige.
+              Utskottet anser därför att frågan om införandet av ett 20-kronorsmynt
+              tills vidare bör anstå. Utskottet anser således att förslaget
+              i Riksbankens framställning bör avstyrkas i denna del. Utskottet
+              föreslår att lagen (1988:1385) om Sveriges riksbank ändras i enlighet
+              med utskottets förslag i bilaga 3.
+            </p>
+            <p xml:id="IDARIHD5" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAUIHD5" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAXIHD5" rend="rubrik2">
+              Framställningen
+            </p>
+            <p rend="behandlatdokument_">
+              Framställning 2009/10:RB5 Lag om ändring i lagen (1988:1385)
+              om Sveriges riksbank:
+            </p>
+            <p>
+              Riksdagen antar Riksbankens förslag till lag om ändring i lagen
+              (1988:1385) om Sveriges riksbank.
+            </p>
+            <p xml:id="IDAEJHD5" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDAHJHD5" rend="BilageRubrik">
+              Riksbankens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{6B0F1FDE-2722-4DCC-A9D2-E411D1D5F9D8}.png"/>
+            </p>
+            <p xml:id="IDASJHD5" rend="Bilaga">
+              Bilaga 3
+            </p>
+            <p xml:id="IDAVJHD5" rend="BilageRubrik">
+              Utskottets lagförslag
+            </p>
+          </div>
+          <div type="html-lagforslagrubrik">
+            <p xml:id="IDAZJHD5" rend="Lagrubrik">
+              Förslag till lag om ändring i lagen (1988:1385) om Sveriges riksbank
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p rend="lagtextindrag_">
+              Härigenom föreskrivs att 5 kap. 2 § lagen (1988:1385) om Sveriges
+              riksbank ska ha följande lydelse.
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p rend="lagtextnuvarande grad2">
+                    Nuvarande lydelse
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextforslag grad2">
+                    Föreslagen lydelse
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell cols="2">
+                  <p rend="lagtextparagraf grad1">
+                    5 kap.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell cols="2">
+                  <p rend="lagtextparagraf">
+                    2 §
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    Sedlar får ges ut med valörerna tjugo, femtio, etthundra, femhundra
+                    och ettusen kronor.
+                  </p>
+                  <p rend="lagtextindrag_">
+                    Mynt får ges ut med valörerna
+                    <seg rend="grad2">
+                      femtio öre,
+                    </seg>
+                    en krona, fem kronor och tio kronor.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="lagtextindrag_">
+                    Sedlar får ges ut med valörerna tjugo, femtio, etthundra,
+                    <seg rend="grad2">
+                      tvåhundra,
+                    </seg>
+                    femhundra och ettusen kronor.
+                  </p>
+                  <p rend="lagtextindrag_">
+                    Mynt får ges ut med valörerna en krona,
+                    <seg rend="grad2">
+                      två kronor,
+                    </seg>
+                    fem kronor och tio kronor.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell cols="2">
+                  <p rend="lagtextindrag_">
+                    Dessutom får minnes- och jubileumsmynt med andra valörer ges
+                    ut.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              _______
+            </p>
+            <p>
+              Denna lag träder i kraft den 1 januari 2011.
+            </p>
+            <p xml:id="IDAZNHD5" rend="Bilaga">
+              Bilaga 4
+            </p>
+            <p xml:id="IDA2NHD5" rend="BilageRubrik">
+              Europeiska centralbankens yttrande
+            </p>
+            <p>
+              <graphic url="shape{D69EF344-85A0-4ADB-ADBE-21D5261F7342}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{1F459417-C5C3-4B17-AA19-60EB7C6C4100}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

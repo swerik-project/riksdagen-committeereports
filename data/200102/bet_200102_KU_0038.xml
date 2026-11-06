@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_KU_0038">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen avslog motioner från allmänna motionstiden 2001 om sekretess och meddelarskydd.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Motioner om sekretess och meddelarskydd (KU38)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09123</idno>
+              <title>2002-06-12</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">123</biblScope>
+              <note type="display-reference">2002-06-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09123</idno>
+              <title>2002-06-12</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">123</biblScope>
+              <note type="display-reference">2002-06-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02K215</idno>
+              <title>Förbättring av meddelarfriheten och meddelarskyddet</title>
+              <title type="sub">av Jan Bergqvist (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">K215</biblScope>
+              <note type="display-reference">motion 2001/02:K215 Förbättring av meddelarfriheten och meddelarskyddet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02K229</idno>
+              <title>Sekretesslagen och räddningstjänsten</title>
+              <title type="sub">av Rolf Gunnarsson (M)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">K229</biblScope>
+              <note type="display-reference">motion 2001/02:K229 Sekretesslagen och räddningstjänsten</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02K300</idno>
+              <title>Kriminellas möjligheter att få ut personuppgifter på anställda inom rättsväsendet</title>
+              <title type="sub">av Claes-Göran Brandin och Sven Hulterström (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">K300</biblScope>
+              <note type="display-reference">motion 2001/02:K300 Kriminellas möjligheter att få ut personuppgifter på anställda inom rättsväsendet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02K303</idno>
+              <title>Ny lag om passbilder</title>
+              <title type="sub">av Ragnwi Marcelind och Maria Larsson (KD)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">K303</biblScope>
+              <note type="display-reference">motion 2001/02:K303 Ny lag om passbilder</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02K355</idno>
+              <title>Förundersökningssekretessen</title>
+              <title type="sub">av Alice Åström m.fl. (V)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">K355</biblScope>
+              <note type="display-reference">motion 2001/02:K355 Förundersökningssekretessen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02K373</idno>
+              <title>Brottslingars möjlighet att få ut sekretessbelagda handlingar</title>
+              <title type="sub">av Berit Adolfsson (M)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">K373</biblScope>
+              <note type="display-reference">motion 2001/02:K373 Brottslingars möjlighet att få ut sekretessbelagda handlingar</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02K399</idno>
+              <title>Följdändring av sekretesslagen</title>
+              <title type="sub">av Per Lager och Kia Andreasson (MP)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">K399</biblScope>
+              <note type="display-reference">motion 2001/02:K399 Följdändring av sekretesslagen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02K404</idno>
+              <title>Passfoto och offentlighetsprincipen</title>
+              <title type="sub">av Anders Sjölund (M)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">K404</biblScope>
+              <note type="display-reference">motion 2001/02:K404 Passfoto och offentlighetsprincipen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02N264</idno>
+              <title>Dammar och exportkrediter</title>
+              <title type="sub">av Eva Zetterberg m.fl. (V)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">N264</biblScope>
+              <note type="display-reference">motion 2001/02:N264 Dammar och exportkrediter</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2002-06-05">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-06-05">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-05-28">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-05-28">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-05-28">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-05-21">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-05-21">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-06-12">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-06-12">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-06-12">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-06-12">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-06-12">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2002-06-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-06-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-06-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Konstitutionsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:KU38
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Några sekretessfrågor m.m.
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I detta betänkande behandlas nio motionsyrkanden
+            från den allmänna motionstiden 2001 som gäller sekretess och meddelarskydd.
+            Utskottet har avstyrkt samtliga motioner, i allmänhet med hänvisning
+            till pågående utredningsarbete. Två reservationer (v resp. mp)
+            har avgetts.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Sekretess för passfoton,
+            m.m. Riksdagen avslår motionerna 2001/02:K300 yrkandena 1 och
+            2, 2001/02:K303, 2001/02:K373 och 2001/02:K404. 2. Räddningstjänsten
+            Riksdagen avslår motion 2001/02:K229. 3. Förundersökningssekretess
+            Riksdagen avslår motion 2001/02:K355. 4. Diskrimineringsombudsmannen
+            Riksdagen avslår motion 2001/02:K399. Reservation 1 (mp) 5. Exportkreditnämnden
+            Riksdagen avslår motion 2001/02:N264 yrkande 1. Reservation 2
+            (v) 6. Meddelarfrihet m.m. Riksdagen avslår motion 2001/02:K215.
+            Stockholm den 28 maj 2002. På konstitutionsutskottets vägnar Per
+            Unckel Följande ledamöter har deltagit i beslutet: Per Unckel
+            (m), Göran Magnusson (s), Barbro Hietala Nordlund (s), Pär Axel
+            Sahlberg (s), Kenneth Kvist (v), Ingvar Svensson (kd), Inger René
+            (m), Mats Berglind (s), Lars Hjertén (m), Kenth Högström (s),
+            Björn von der Esch (kd), Nils Fredrik Aurelius (m), Per Lager
+            (mp), Åsa Torstensson (c), Helena Bargholtz (fp), Britt-Marie
+            Lindkvist (s) och Peter Pedersen (v).
+          </p>
+          <p>
+            2001/02 KU38
+          </p>
+          <p>
+            Utskottets överväganden Sekretess för passfoton m.m. Utskottets
+            förslag i korthet Utskottet avstyrker med hänvisning till pågående
+            utredningsarbete flera motioner (s, m resp. kd) om sekretess för
+            passfoton m.m. Motionerna I flera motioner från den allmänna motionstiden
+            2001 begärs ändrade sekretessregler när det gäller passfoton med
+            hänvisning till att kriminella personer nu har möjlighet att få
+            ut passfoton av bl.a. anställda inom rättsväsendet. Claes-Göran
+            Brandin och Sven Hulterström (båda s) begär i motion K300 (yrkandena
+            1 och 2) dels ett förslag från regeringen med innebörd att det
+            skall göras en särskild prövning när någon beställer personuppgifter
+            på anställda inom rättsväsendet, dels ett förslag med innebörd
+            att personer vars personuppgifter lämnats ut får besked om detta.
+            Motionärerna menar att det är orimligt att kriminell person utan
+            vidare kan beställa passfoto och personuppgifter på anställda
+            inom rättsväsendet när syftet med största sannolikhet är att utöva
+            påtryckningar eller begå brott. Det är också enligt motionärerna
+            märkligt att den som passfotot eller uppgiften gäller inte får
+            besked om att någon beställt uppgifterna, vilket gäller vid kreditupplysning.
+            I motion K303 av Ragnwi Marcelind och Maria Larsson (båda kd)
+            begärs ett tillkännagivande till regeringen om en ny sekretesslagstiftning
+            för passfoto. Motionärerna anser att det måste bli svårare att
+            få ut passfotounderlag. Det mest fördelaktiga är enligt motionen
+            att ändra sekretesslagen så att det gäller ett omvänt skaderekvisit
+            där passunderlagen som huvudregel är hemliga och bara kan lämnas
+            ut om det står klart att det inte finns någon risk för skada.
+            Anders Sjölund (m) begär i motion K404 ett tillkännagivande till
+            regeringen om undantag från offentlighetsprincipen för uppgifter
+            om passfoto. Motionären hänvisar till att det förekommit att interner
+            vid fängelser begärt utdrag från passmyndigheten angående personer
+            som arbetar vid fängelset och närstående till dem. I dessa fall
+            innebär offentlighetsprincipen att enskilda personers säkerhet
+            och integritet sätts i andra rummet. Passfoto med vidhängande
+            uppgifter bör enligt motionen undantas från principen om offentlighet.
+            Också Berit Adolfsson (m) begär i motion K373 att sekretesslagstiftningen
+            skyndsamt effektiviseras för att skydda hotade människor från
+            brott. Uppgifter om anställda inom rättsväsendet kan i dag erhållas
+            från Vägverket och passregistret. Det krävs en lagändring för
+            att skydda kriminalvårdspersonal och polis så att sekretessbelagda
+            handlingar inte kan lämnas ut från andra myndigheter. Gällande
+            regler m.m. Enligt 2 kap. 1 § tryckfrihetsförordningen skall varje
+            svensk medborgare till främjande av ett fritt meningsutbyte och
+            en allsidig upplysning ha rätt att ta del av allmänna handlingar.
+            Rätten att ta del av allmänna handlingar får enligt 2 kap. 2 §
+            tryckfrihetsförordningen begränsas om det är påkallat med hänsyn
+            till bl.a. intresset av att förebygga och beivra brott (punkt
+            4) och skyddet för enskilds personliga eller ekonomiska förhållanden
+            (punkt 6). Begränsningen av rätten att ta del av allmänna handlingar
+            skall anges noga i bestämmelse i sekretesslagen eller i annan
+            lag som sekretesslagen hänvisar till. Efter bemyndigande i sådan
+            bestämmelse får dock regeringen genom förordning meddela närmare
+            föreskrifter om bestämmelsens giltighet. Enligt 7 kap. 15 § första
+            stycket 1 sekretesslagen gäller sekretess i verksamhet som avser
+            folkbokföringen eller annan liknande registrering av befolkningen
+            och, i den utsträckning regeringen föreskriver det, i annan verksamhet
+            som avser registrering av betydande del av befolkningen, för uppgift
+            om enskilds personliga förhållanden, om det av särskild anledning
+            kan antas att den enskilde eller någon honom närstående lider
+            men om uppgiften röjs. Regeringen har i 1 b § sekretessförordningen
+            (1980:657) föreskrivit att folkbokföringssekretessen gäller för
+            bl.a. det centrala passregistret och Vägverkets vägtrafikregister.
+            Enligt 7 kap. 11 § fjärde stycket sekretesslagen gäller sekretess
+            i myndighets personaladministrativa verksamhet för uppgift om
+            enskilds personliga förhållanden, om det kan antas att den enskilde
+            eller någon honom närstående utsätts för våld eller annat allvarligt
+            men om uppgiften röjs. Vidare gäller i den utsträckning regeringen
+            föreskriver det sekretess i personaladministrativ verksamhet hos
+            myndighet där personalen särskilt kan riskera att utsättas för
+            sådant men, för uppgift om enskilds bostadsadress, hemtelefonnummer
+            och personnummer, om det inte står klart att uppgiften kan röjas
+            utan att den enskilde eller någon honom närstående lider men.
+            Enligt 1 a § sekretessförordningen gäller sekretess i personaladministrativ
+            verksamhet för uppgift om enskilds bostadsadress, hemtelefonnummer
+            och personnummer, om det inte står klart att uppgiften kan röjas
+            utan att den enskilde eller någon honom närstående lider men,
+            hos bl.a. domstolar, polismyndigheter, åklagarmyndigheter och
+            kriminalvårdens myndigheter. I departementspromemorian Sekretess
+            för passfoton m.m. (Ds 2000:57) föreslogs att folkbokföringssekretess
+            enligt 7 kap. 15 § skulle skärpas för en fotografisk bild av en
+            enskild. Enligt förslaget skulle sekretessen gälla om det kan
+            antas att den enskilde eller någon honom närstående lider men
+            om uppgiften röjs. Kravet på särskild anledning för ett sådant
+            antagande skulle alltså bort. Detta krav har medfört att det hitintills
+            ställts förhållandevis höga krav på bevisning om risk för förföljelser,
+            trakasserier eller liknande för att fotografierna skall hemlighållas.
+            Förslaget skulle ha inneburit en viss skärpning av sekretessen.
+            Med den föreslagna utformningen av bestämmelsen var tanken att
+            de tillämpande myndigheterna i större utsträckning än i dag skulle
+            kunna tillmäta den enskildes uppgifter om befarat hot m.m. betydelse.
+            Huvudregeln skulle dock även i fortsättningen vara att fotografier
+            är offentliga. I en promemoria den 20 december 2001 upprättad
+            inom Justitiedepartementet har anförts att remissopinionen var
+            splittrad. De flesta välkomnade en skärpning av sekretessen. Men
+            bl.a. JO, Svea hovrätt och Rikspolisstyrelsen förordade ett omvänt
+            skaderekvisit. Enligt dem skulle det vara enda sättet att stärka
+            skyddet för den enskilde. Företrädare för massmedierna avstyrkte
+            förslaget eftersom det skulle inskränka offentlighetsprincipen
+            och försvåra det journalistiska arbetet. Att fotografier är relativt
+            lätt tillgängliga har enligt promemorian gjort att många människor
+            i Sverige kommit att känna en stark oro för att deras fotografier
+            skall begäras ut och användas på ett för dem menligt sätt. Fotografierna
+            i den aktuella typen av register kan visserligen omfattas av folkbokförings-sekretess
+            i vissa situationer. Detta gäller dock bara i undantagsfall eftersom
+            skaderekvisitet innehåller högt ställda krav på det antagande
+            om men som skall föreligga. Fotografierna är alltså i de flesta
+            fall lätt tillgängliga. När de förekommer i så här stora register
+            kan de ligga till grund för omfattande sammanställningar av uppgifter.
+            Offentligheten kan därmed utnyttjas i brottsligt syfte. Kartläggning
+            kan ske av grupper av personer, t.ex. personer som har en viss
+            utländsk bakgrund, eller som har en viss politisk eller religiös
+            övertygelse. I promemorian anges att det enligt uppgift från Säkerhetspolisen
+            förekommer, främst inom högerextrema grupper, att meningsmotståndare
+            kartläggs på detta sätt. Fotografier med namnuppgifter förekommer
+            i förhållandevis stor utsträckning på Internet. Liknande kartläggning
+            sker även av vissa yrkeskategorier såsom polis, åklagare, kriminalvårdsanställda
+            och journalister. De fotografier som förekommer hämtas främst
+            från passregistret och körkortsregistret. Listorna är ofta omfattande
+            och innehåller ibland så många som 1 000 namn. Denna utveckling
+            har enligt promemorian på senare tid förstärkt den oro som många
+            människor redan tidigare känt för att fotografierna i registren
+            kan komma att användas på ett sätt som skadar dem och deras familjer.
+            Skyddet för enskilda bör därför stärkas när det gäller fotografier
+            i passregistret och andra stora register enligt 7 kap. 15 § sekretesslagen,
+            helst så att väsentliga offentlighetsintressen inte träds för
+            när. En utredare skall enligt promemorian lämna förslag till lagändringar,
+            på basis av de överväganden angående behovet av lagändringar som
+            gjorts i den tidigare nämnda departementspromemorian Sekretessen
+            för passfoton m.m., alltså att allmänhetens rätt att ta del av
+            sådana fotografier bör begränsas i förhållande till vad som gäller
+            i dag. Utredaren skall undersöka omfattningen av utlämnandet av
+            fotografier, i vilken omfattning medier begär ut fotografier och
+            om det är möjligt, i vilken omfattning fotografier begärs ut i
+            illegitima syften. Utredaren skall göra en förnyad och djupare
+            kartläggning av de olika möjligheter som diskuteras i promemorian
+            men även undersöka om det kan finnas andra lösningar. En möjlighet
+            som kan diskuteras är att införa sekretess som huvudregel men
+            bara för vissa yrkeskategorier, t.ex. poliser och journalister.
+            Som jämförelse nämns möjligheten enligt 7 kap. 11 § sekretesslagen
+            att föreskriva om sekretess i personaladministrativ verksamhet
+            hos myndighet där personalen särskilt kan riskera att utsättas
+            för allvarligt men om vissa personuppgifter röjs. En given utgångspunkt
+            för arbetet är remissutfallet över promemorians förslag. Det är
+            meningen att utredaren under arbetet skall samråda med berörda
+            intressegrupper och då särskilt företrädare för medierna. Det
+            gäller enligt promemorian att hitta en lösning som ger ett tillräckligt
+            skydd för enskilda samtidigt som man inte på ett onödigt sätt
+            begränsar offentligheten. Regeringsrådet Mats Melin har utsetts
+            till utredare under tiden den 1 januari-den 30 juni 2002. Tidigare
+            behandling Våren 2001 avstyrkte utskottet ett motionsyrkande om
+            utökat skydd för poliser i offentliga register, bl.a. passregistret.
+            Utskottet framhöll att frågans behandling i Regeringskansliet
+            i och för sig borde avvaktas. Samtidigt ansåg utskottet att denna
+            beredning borde ske skyndsamt så att ställning kunde tas i frågan
+            (bet. 2000/01:KU17). Utskottets ställningstagande Enligt utskottets
+            mening bör det pågående utredningsarbetet avvaktas. Motionerna
+            2001/02:K300 yrkandena 1 och 2, 2001/02:K303, 2001/02:K375 och
+            2001/02:K404 avstyrks. Räddningstjänsten Utskottets förslag i
+            korthet Utskottet avstyrker med hänvisning till pågående beredningsarbete
+            ett motionsyrkande (m) om sekretessen för räddningstjänstpersonal.
+            Motionen Rolf Gunnarsson (m) begär i motion K229 ett tillkännagivande
+            till regeringen om att sekretesslagen också skall omfatta personal
+            inom räddningstjänsten. Räddningstjänstpersonalen omfattas inte
+            av samma sekretesslagstiftning som hälso- och sjukvårdspersonalen.
+            Det är inte heller möjligt att i dag skriva in en tystnadsplikt
+            i avtalen eftersom yttrandefriheten inte kan avtalas bort. Med
+            den nya inriktningen med dessa akutbilar som nu finns bör enligt
+            motionären även räddningstjänstens personal omfattas av sekretesslagen.
+            Gällande bestämmelser m.m. Enligt 7 kap. 1 § sekretesslagen (1908:100)
+            gäller sekretess med vissa undantag inom hälso- och sjukvården
+            för uppgift om enskilds hälsotillstånd eller andra personliga
+            förhållanden om det inte står klart att uppgiften kan röjas utan
+            att den enskilde eller någon honom närstående lider men. Utanför
+            bestämmelsens tillämpningsområde faller verksamhet vid sjukhus
+            och andra liknande inrättningar som drivs av enskilda, liksom
+            privat drivna tandläkarmottagningar, laboratorier m.m. Här gäller
+            i stället föreskrifterna i lagen (1998:531) om yrkesverksamhet
+            på hälso- och sjukvårdens område. Enligt 2 kap. 8 § denna lag
+            får den som tillhör eller har tillhört hälso- och sjukvårdspersonalen
+            inom den enskilda hälso- och sjukvården inte obehörigen röja vad
+            han eller hon i sin verksamhet har fått veta om en enskilds hälsotillstånd
+            eller andra personliga förhållanden. Som obehörigt röjande anses
+            inte att någon fullgör sådan uppgiftsskyldighet som följer av
+            lag eller förordning. Det har inom vissa sektorer i lag tillskapats
+            möjligheter för kommuner och landsting att t.ex. sluta avtal om
+            visst samarbete över kommungränserna, och i fråga om bl.a. hälso-
+            och sjukvård och räddningstjänst förutsätts att sådant samarbete
+            sker. I Socialstyrelsens meddelandeblad 6/2001 Räddningstjänstens
+            insatser vid ambulanslarm framhålls att räddningstjänstens personal
+            inte omfattas av en sekretesslag motsvarande den som omfattar
+            hälso- och sjukvårdspersonalen. Detta kan enligt meddelandebladet
+            inte ingå i avtalen eftersom yttrandefrihet inte kan avtalas bort.
+            Denna fråga var under utredning i översynen av räddningstjänstlagen.
+            Även räddningstjänstpersonal kan enligt Socialstyrelsen behöva
+            en sekretesslag med hänsyn till det egna yrkesutövandet. Utredningen
+            (Fö 1999:03) om översyn av räddningstjänstlagen m.m. har i januari
+            2002 lagt fram betänkandet Reformerad räddningstjänstlagstiftning
+            (SOU 2002:10). Utredningen föreslår att det införs en ny bestämmelse
+            i 9 kap. sekretesslagen med innebörd att sekretess skall gälla
+            i kommunens räddningstjänstverksamhet för uppgift om enskilds
+            personliga eller ekonomiska förhållanden, om det kan antas att
+            den enskilde eller någon honom närstående lider skada eller men
+            om uppgiften röjs. Utskottets ställningstagande Utskottet anser
+            att beredningsarbetet med anledning av betänkandet Reformerad
+            räddningstjänstlagstiftning bör avvaktas. Motion K229 (m) avstyrks
+            följaktligen. Förundersökningssekretess Utskottets förslag i korthet
+            Utskottet avstyrker en motion (v) om rakt skaderekvisit i förundersökningssekretess.
+            Motionen Alice Åström m.fl. (v) begär i motion K355 att regeringen
+            skall lägga fram ett förslag till ändring av sekretesslagen så
+            att det i fråga om förundersökningar återinförs ett rakt skaderekvisit
+            i sekretessen till förmån för enskilda. Reglerna om omvänt skaderekvisit
+            innebär enligt motionärerna stora faror. Det gäller inte minst
+            nedlagda förundersökningar mot poliser som misstänks för brott.
+            Bristen på insyn riskerar att undergräva allmänhetens förtroende
+            för polisen. Motionärerna hänvisar till Osmo Vallo-fallet och
+            till den nedlagda förundersökningen mot de poliser som avlossade
+            skott i samband med EU-toppmötet i Göteborg. Även när det gäller
+            privatpersoner som är misstänkta för brott är det enligt motionen
+            olyckligt att inskränka brottsoffrens och allmänhetens rätt till
+            insyn i förundersökningar. Gällande regler Enligt 5 kap. 1 § sekretesslagen
+            (1980:100) gäller sekretess för uppgift som hänför sig till bl.a.
+            förundersökning i brottmål om det kan antas att syftet med beslutade
+            eller förutsedda åtgärder motverkas eller den framtida verksamheten
+            skadas om uppgiften röjs. Bestämmelsen har tillämpats bl.a. på
+            polisanmälningar som föranlett förundersökning. Enligt 9 kap.
+            17 § samma lag gäller sekretess för uppgift om enskilds personliga
+            och ekonomiska förhållanden i bl.a. utredning enligt bestämmelserna
+            om förundersökning i brottmål om det inte står klart att uppgiften
+            kan röjas utan att den enskilde eller någon honom närstående lider
+            skada eller men. Sekretessen i 9 kap. 17 § till förmån för den
+            enskildes personliga och ekonomiska förhållanden förstärktes den
+            1 april 1999 (prop. 1997/98:97, bet. 1997/98:JuU20) samtidigt
+            med att den absoluta sekretessen avskaffades för alla polisregister
+            utom belastningsregistret. Dessförinnan gällde sekretessen för
+            uppgift om enskilds personliga och ekonomiska förhållanden om
+            det kunde antas att den enskilde eller någon honom närstående
+            led skada eller men om uppgiften röjdes. Personuppgiftslagen innebar
+            enligt propositionen att polisen fick möjlighet till automatiserad
+            handläggning av förundersökningar och andra utredningar. Enligt
+            regeringen fanns det inte skäl att begränsa polisens rätt att
+            utnyttja denna möjlighet. Uppgifter som ingår i automatiserade
+            behandlingar blir emellertid enligt regeringen mer känsliga ur
+            integritetssynpunkt än motsvarande uppgifter som behandlas manuellt.
+            En lämpig ordning borde med hänsyn till detta vara att samma skadrekvisit
+            fick gälla som beträffande de register som fördes till stöd för
+            förundersökningsverksamhet. Det innebar omvänt skaderekvisit.
+            En fördel med en sådan lösning var också att samma sekretesskydd
+            skulle komma att gälla för uppgiften oavsett om den finns i ett
+            register eller är representerad på annat sätt. Tidigare behandling
+            Konstitutionsutskottet tillstyrkte i yttrande till justitieutskottet
+            (1997/98: KU10y) regeringens förslag om omvänt skaderekvisit för
+            förundersökningssekretessen. Utskottet såg med tillfredsställelse
+            att regeringen i syfte att öka medborgarnas insyn i polisens register
+            föreslog lättnader i den absoluta sekretess som gällde. När det
+            gäller frågan om med vilket skaderekvisit sekretess skulle gälla
+            till skydd för polisens brottsförebyggande och brottsbeivrande
+            verksamhet ville utskottet erinra om att sådan sekretess enligt
+            5 kap. 1 § sekretesslagen gäller med ett rakt skaderekvisit. Utskottets
+            ställningstagande Utskottet vidhåller sin tidigare bedömning och
+            avstyrker motion K355 (v). Diskrimineringsombudsmannen Utskottets
+            förslag i korthet Utskottet avstyrker med hänvisning till pågående
+            utredningsarbete en motion (mp) om att 9 kap. 21 § sekretesslagen
+            skall omfatta ärenden hos Ombudsmannen mot etnisk diskriminering.
+            Jämför reservation 1. Motionen Per Lager och Kia Andreasson (mp)
+            begär i motion K399 ett regeringsförslag till ändring av 9 kap.
+            21 § sekretesslagen så att den även omfattar ärende enligt lagen
+            om Ombudsmannen mot etnisk diskriminering, i enlighet med det
+            förslag som lagts fram i betänkandet SOU 1997:174, dock med den
+            ändringen att ett rakt skaderekvisit bör införas. Bakgrund Enligt
+            9 kap. 21 § första stycket 2 sekretesslagen (1980:100) gäller
+            sekretess hos Ombudsmannen mot etnisk diskriminering i ärende
+            enligt lagen (1999:130) om åtgärder mot diskriminering i arbetslivet
+            och lagen (2001: 1286) om likabehandling av studenter i högskolan.
+            Utredningen om översyn av lagen mot etnisk diskriminering föreslog
+            i betänkandet Räkna med mångfald! (SOU 1997:174) en ny lag mot
+            etnisk diskriminering i arbetslivet och en lag om Ombudsmannen
+            mot etnisk diskriminering. I betänkandet föreslogs också ändring
+            i 9 kap. 21 § sekretesslagen så att sekretess åter skulle gälla
+            i ärenden enligt den av utredningen föreslagna lagen om Ombudsmannen
+            mot etnisk diskriminering i stället för enligt lagen (1994:134)
+            mot etnisk diskriminering. Även uppgifter hos Diskrimineringsombudsmannen
+            som har samband med en diskrimineringstvist eller aktivt ärende
+            skulle falla in under begreppet. I proposition Ny lag om åtgärder
+            mot etnisk diskriminering i arbetslivet (prop. 1997/98:177) föreslogs
+            ingen lag om Ombudsmannen mot etnisk diskriminering, och i den
+            sekretesslagsändring som föreslogs hänvisades då i stället till
+            ärende enligt lagen om åtgärder mot etnisk diskriminering i arbetslivet.
+            Under riksdagsbehandlingen föreslog arbetsmarknadsutskottet att
+            även en lag om Ombudsmannen mot etnisk diskriminering skulle införas
+            (bet. 1998/99:AU4) i enlighet med utredningsförslaget, dock utan
+            att samtidigt föreslå någon ändring när det gällde propositionens
+            förslag till ändring i sekretesslagen. Riksdagen beslutade i enlighet
+            med arbetsmarknadsutskottets förslag (rskr. 1998/99:140). I en
+            lagrådsremiss beslutad den 7 februari 2002 föreslogs ändringar
+            i sekretesslagen som bl.a. innebär att bestämmelsen i 9 kap. 21
+            § första stycket 2 sekretesslagen kompletteras med orden "samt
+            i verksamhet enligt lagen (1999:131) om Ombudsmannen mot etnisk
+            diskriminering". Lagrådet ansåg att det var tveksamt om det var
+            motiverat med en så vidsträckt sekretess och jämförde med den
+            betydligt snävare sekretessen hos Riksdagens ombudsmän och Justitiekanslern
+            enligt 11 kap. 4 § sekretesslagen. Det var enligt Lagrådet värt
+            att notera att sekretessen enligt förslaget skulle gälla inte
+            endast i förhållande till enskilda till vilkas förmån ombudsmännen
+            har att verka utan i lika hög grad i förhållande till dem som
+            kan bli föremål för ombudsmännens granskning. Enligt Lagrådets
+            uppfattning förtjänade frågan om den lämpliga utformningen av
+            sekretessen hos de särskilda ombudsmännen ytterligare överväganden.
+            Frågan bereds för närvarande inom Regeringskansliet. Dessutom
+            faller frågan inom ramen för uppdraget till den parlamentariska
+            kommitté som skall utreda en sammanhållen diskrimineringslagstiftning
+            (dir. 2002:11). Utskottets ställningstagande Frågan om sekretess
+            hos bl.a. Ombudsmannen mot etnisk diskriminering bereds för närvarande
+            inom Regeringskansliet och kan även komma upp inom ramen för utredningsarbetet
+            om en sammanhållen diskrimineringslagstiftning. Enligt utskottets
+            mening bör resultat av detta arbete avvaktas. Motion K399 (mp)
+            avstyrks. Exportkreditnämnden Utskottets förslag i korthet Utskottet
+            avstyrker ett motionsyrkande (v) om begränsning av sekretessen
+            hos Exportkreditnämnden. Motionen Eva Zetterberg m.fl. (v) begär
+            i motion N264 yrkande 1 en översyn av de sekretessbestämmelser
+            som gäller för Exportkreditnämnden och att nämndens verksamhet
+            blir öppnare. Genom att inte informera om vilka projekt som är
+            under beredning avsäger sig Exportkreditnämnden möjligheter att
+            få in kompletterande och oberoende miljöinformation t.ex. från
+            miljöorganisationer. Exportkreditnämndens frikostiga användning
+            av hemligstämpeln gör det omöjligt att föra en debatt om hur miljöpolicyn
+            tillämpas. Miljökonsekvensbeskrivningar och andra beslutsunderlag
+            måste göras tillgängliga för granskning och offentlig debatt.
+            Nämndens bedömningar måste redovisas. Gällande regler Enligt 8
+            kap. 6 § sekretesslagen gäller sekretess i den utsträckning regeringen
+            föreskriver det, i statlig myndighets verksamhet som består i
+            bl.a. stödverksamhet med avseende på produktion, handel, transportverksamhet
+            eller näringslivet i övrigt, för uppgift om enskilds affärs- eller
+            driftförhållanden, uppfinningar eller forskningsresultat, om det
+            kan antas att den enskilde lider skada om uppgiften röjs. Sekretessen
+            gäller också andra ekonomiska eller personliga förhållanden för
+            den som trätt i affärsförbindelse eller liknande förbindelse med
+            den som är föremål för myndighetens verksamhet. Enligt sekretessförordningen
+            (1980:657) gäller dessa bestämmelser för stöd som handhas av Exportkreditnämnden.
+            Bakgrund Exportkreditnämnden ställer ut garantier för risker i
+            samband med export. Nämndens garanti är en form av försäkring
+            mot förlust orsakad av händelser kopplade till den utländske köparen
+            eller till köparlandet. Den vanligaste garantin, garanti för fordringsförlust,
+            täcker risken att betalning inte erhålls enligt avtal. Garantin
+            finns i olika utformning, dels för exportör för leverantörskrediter
+            lämnade till köpare i utlandet, dels i form av en garanti till
+            långivare för betalning under låneavtal, så kallade köparkrediter.
+            Även risker under tillverkningstiden, till exempel att köparen
+            häver avtalet helt eller delvis eller att genomförandet avbryts
+            under en längre period, kan garanteras. Denna garanti, garanti
+            för tillverkningsförlust, söks av exportör i samband med ansökan
+            om garanti för fordringsförlust. Exportkreditnämnden har också
+            garantier som täcker andra typer av risker, till exempel politiska
+            risker i samband med investeringar i utlandet, risker i samband
+            med ställande av säkerheter till utländsk förmånstagare samt banks
+            risk för utebliven betalning under bekräftad remburs. Den information
+            som finns att hämta i nämndens diarier och kundregister är offentlig.
+            All information rörande en garantiansökan, utom den som står att
+            finna i något av diarierna, brukar enligt uppgift från Exportkreditnämnden
+            sekretessbeläggas under tiden innan en garantiförbindelse utfärdas.
+            Därefter lämnas information vanligtvis ut om vem exportören är,
+            vem köparen är, vilket land exporten avser, vilket projekt alternativt
+            vilken vara som avses samt om garanterat belopp. Om garantibeloppet
+            överstiger 10 miljoner kronor publiceras uppgifterna på nämndens
+            hemsida. Under den senaste tioårsperioden har enligt Exportkreditnämnden
+            ett tiotal beslut om sekretess överklagats till kammarrätten.
+            I samtliga fall har domstolen fastställt nämndens beslut. Utskottets
+            ställningstagande Skälen för en ökad öppenhet hos Exportkreditnämnden
+            måste vägas mot behovet av sekretess till skydd för enskilds affärs-
+            och driftsförhållanden, Utskottet är inte berett att tillstyrka
+            att detta skydd begränsas. Motion N264 yrkande 1 avstyrks. Meddelarfriheten
+            m.m. Utskottets förslag i korthet Utskottet vidhåller tidigare
+            ställningstaganden och avstyrker en motion (s) om meddelarfrihet
+            inom den privata sektorn, begränsning av de meddelarfrihetsbrytande
+            tystnadsplikterna och åtgärder mot försäljning av sekretessbelagda
+            uppgifter. Motionen Jan Bergqvist (s) begär i motion K215 ett
+            tillkännagivande till regeringen om behovet av att på olika sätt
+            förbättra meddelarfriheten och meddelarskyddet så att de kan bli
+            ett ännu starkare stöd för den demokratiska utvecklingen i Sverige.
+            Därvid bör man pröva hur meddelarfriheten i lämpliga former kan
+            utsträckas till den privata sektorn. Vidare bör man ånyo pröva
+            möjligheterna att begränsa de meddelarfrihetsbrytande tystnadsplikterna
+            i sekretesslagen. Man bör också pröva hur man skall komma över
+            den svaghet som vidlåder dagens system när sekretessbelagda uppgifter
+            säljs i uppenbart vinstsyfte. Slutligen är det enligt motionen
+            viktigt att hitta vägar för att öka kunskaperna om regelsystemen
+            för yttrandefriheten och meddelarfriheten. Motionären vänder sig
+            huvudsakligen mot det förhållandet att medier köper information
+            av personer med tillgång till sekretessbelagda uppgifter och pekar
+            på risken för skattebedrägeri. Gällande regler De grundläggande
+            bestämmelserna om meddelarfrihet finns i 1 kap. 1 § tredje stycket
+            tryckfrihetsförordningen och i 1 kap. 2 § yttrandefrihetsgrundlagen.
+            Meddelarfriheten innebär att det i viss utsträckning är möjligt
+            att straffritt lämna normalt sekretessbelagda uppgifter för publicering
+            i tryckt skrift, radio eller TV, m.m. I 1 kap. 1 § tredje stycket
+            tryckfrihetsförordningen föreskrivs att det står envar fritt att
+            i alla de fall då ej annat är föreskrivet i förordningen meddela
+            uppgifter och underrättelse i vad ämne som helst för offentliggörande
+            i tryckt skrift. En motsvarande bestämmelse finns i 1 kap. 2 §
+            yttrandefrihetsgrundlagen, som gäller andra medier än tryckt skrift.
+            Vidare har enligt 1 kap. 1 § fjärde stycket tryckfrihetsförordningen
+            var och en rätt att anskaffa uppgifter och underrättelser i vad
+            ämne som helst för att antingen själv offentliggöra dem i tryckt
+            skrift eller lämna meddelande som avses i tredje stycket. Också
+            undantag från detta anskaffandeskydd skall ha stöd i tryckfrihetsförordningen.
+            En motsvarande bestämmelse finns även i detta fall i 1 kap. 2
+            § yttrandefrihetsgrundlagen. Regler om anonymitetsskydd finns
+            i 3 kap. tryckfrihetsförordningen. Detta skydd består av flera
+            komponenter. En är rätten till anonymitet som innebär att författare,
+            meddelare samt utgivare av icke periodiska skrifter inte är skyldiga
+            att låta sina namn sättas ut i skriften (1 §). Vidare finns bestämmelser
+            om tystnadsplikt i 3 § för dem som tagit befattning med tillkomsten
+            eller utgivningen av tryckt skrift och för dem som varit verksamma
+            vid t.ex. bokförlag och nyhetsbyråer. Dessa får enligt huvudregeln
+            inte röja vem som är författare, meddelare eller utgivare av en
+            icke periodisk skrift. Därutöver finns en bestämmelse om efterforskningsförbud
+            i 4 §. Detta innebär att myndigheter och andra allmänna organ
+            inte får efterforska författaren till en framställning som har
+            införts eller varit avsedd att införas i en tryckt skrift, den
+            som har gett ut eller avsett att ge ut tryckt skrift eller den
+            som lämnat ett meddelande för publicering. Författaren, meddelaren
+            eller utgivaren får dock efterforskas då detta behövs för åtal
+            eller annat ingripande som är tillåtet enligt tryckfrihetsförordningen.
+            I den mån efterforskning får förekomma, skall den i 3 § stadgade
+            tystnadsplikten beaktas. Motsvarande bestämmelser om anonymitetsskydd
+            finns i 2 kap. 1, 3 och 4 §§ yttrandefrihetsgrundlagen. Från meddelarfriheten
+            finns undantag. Om någon lämnar ett meddelande som avses i 1 kap.
+            1 § tredje stycket tryckfrihetsförordningen eller 1 kap. 2 § yttrandefrihetsgrundlagen
+            och därmed gör sig skyldig till någon av de gärningar som anges
+            i 7 kap. 3 § första stycket respektive 5 kap. 3 § första stycket,
+            gäller om ansvar för sådant brott det som är föreskrivet i vanlig
+            lag, dvs. brottsbalken. De gärningar som anges indelas i tre punkter.
+            I punkt 1 räknas upp vissa allvarliga brott mot rikets säkerhet.
+            I punkt 2 upptas oriktigt utlämnande av allmän handling som inte
+            är tillgänglig för envar eller tillhandahållande av sådan handling
+            i strid med myndighets förbehåll vid dess utlämnande, när gärningen
+            är uppsåtlig. I punkt 3 anges som tredje undantag från meddelarfriheten
+            ett uppsåtligt åsidosättande av en tystnadsplikt i de fall som
+            anges i särskild lag. I 16 kap. 1 § sekretesslagen ges en uppräkning
+            av de tystnadsplikter som har företräde framför principen om meddelarfrihet.
+            Reglerna i 7 kap. 3 § tryckfrihetsförordningen om undantag från
+            meddelarfriheten har betydelse också för anonymitetsskyddet. Tystnadsplikten
+            i 3 kap. 3 § tryckfrihetsförordningen om uppgiftslämnare inskränks
+            i bl.a. de situationer som avses i 7 kap. 3 § tryckfrihetsförordningen.
+            Tystnadspliktsreglerna innebär bl.a. att en journalist får uttala
+            sig om en meddelares identitet bara i en del av de fall där meddelaren
+            kan straffas, och tystnadsplikten för journalisten sträcker sig
+            alltså längre än meddelarfriheten för hans källa. De nu gällande
+            reglerna om meddelarfrihet i tryckfrihetsförordningen trädde i
+            kraft den 1 januari 1978. Tidigare innebar dessa regler bl.a.
+            att meddelarfrihet inte förelåg för en offentlig funktionär i
+            de fall då denne var underkastad en i lag föreskriven tystnadsplikt.
+            Enligt tryckfrihetsförordningens nuvarande bestämmelser i ämnet
+            skall i fråga om såväl offentliga funktionärer som andra personer
+            föreskrifter om tystnadsplikt i stället bryta igenom meddelarfriheten
+            endast i de fall som anges i en särskild lag. I propositionen
+            (prop. 1975/76:204) uttalade föredragande statsrådet vad gällde
+            omfattningen av det tryckfrihetsrättsliga meddelarskyddet m.m.
+            bl.a. följande (s. 95). Jag finner det vidare angeläget att framhålla
+            att straffrihet för meddelare inte betyder att offentliga tjänstemän
+            är skyldiga att i motsvarande mån lämna upplysningar till t.ex.
+            pressen om känsliga förhållanden. Innebörden av en särskild tryckfrihetsrättslig
+            meddelarfrihet är i stället den att det allmänna - med tanke på
+            de viktiga intressen som informationsfriheten representerar -
+            överlåter åt den enskilde att, utan risk för repressalier, själv
+            bedöma om det är önskvärt eller försvarligt att förmedla vissa
+            uppgifter för offentliggörande. Man kan räkna med att han därvid
+            beaktar de skyddsintressen som en vanligtvis gällande tystnadspliktsregel
+            värnar om, liksom sin uppfattning om hur informationsmottagaren
+            kommer att handskas med stoffet. Sammanfattningsvis anser jag
+            alltså att farhågorna för att ett särskilt skydd för dem som meddelar
+            uppgifter till publicister skall leda till återkommande skador
+            är överdrivna. Liksom hittills bör man för framtiden i stor utsträckning
+            kunna förlita sig på massmediernas och uppgiftslämnarnas omdöme
+            och ansvarskänsla. Det vore trots det sagda orealistiskt att bortse
+            från att meddelarfriheten kan leda till oönskade konsekvenser
+            i form av publicitetsskador. Enligt min mening kan dock någon
+            tvekan inte råda om att det, allmänt sett, är ett mindre ont att
+            i vissa fall omständigheter som bort förtigas uppenbaras än att
+            missförhållanden i allmän eller enskild verksamhet får fortgå
+            opåtalt eller att den offentliga debatten i någon allmän angelägenhet
+            uteblir eller kommer i obalans på grund av brist på information.
+            Min slutsats blir alltså att de som meddelar sig med pressen eller
+            annars med publicister bör åtnjuta en vidsträckt frihet. Att emellertid
+            denna frihet - liksom flertalet andra rättigheter - har sina begränsningar
+            ligger i öppen dag. Enskildas personliga integritet och ekonomiska
+            intressen kan inte heller i detta sammanhang lämnas utan varje
+            skydd. Också mycket betydelsefulla allmänna intressen kräver sitt
+            beaktande. Det blir nödvändigt att göra en avvägning mellan motstående
+            och svårjämförbara intressen, en avvägning som oundvikligen får
+            karaktären av en kompromiss. I 5 kap. sekretesslagen finns bestämmelser
+            om sekretess med hänsyn främst till intresset att förebygga eller
+            beivra brott. Sekretess gäller bl.a. uppgifter som hänför sig
+            till förundersökning i brottmål och till åklagarmyndighets, polismyndighets,
+            skattemyndighets, tullmyndighets eller kustbevakningens verksamhet
+            i övrigt för att förebygga, uppdaga, utreda eller beivra brott.
+            För sekretessen gäller s.k. rakt skaderekvisit, dvs. sekretess
+            gäller om det kan antas att syftet med beslutade eller förutsedda
+            åtgärder motverkas eller den framtida verksamheten skadas om uppgiften
+            röjs. Meddelarfriheten är i dessa fall inte begränsad annat än
+            i speciella fall (se 16 kap. 1 § sekretesslagen). Frågan om meddelarskyddets
+            förhållande till den lagstadgade sekretessen var föremål för diskussion
+            av Rättssäkerhetskommittén i dess betänkande Rättssäkerheten vid
+            beskattningen (SOU 1993:62). I betänkandet (s. 208 f.) gavs en
+            tillbakablick över meddelarfrihetens och anonymitetsskyddets historia.
+            Rättssäkerhetskommittén uttalade i sitt förslag följande angående
+            meddelararvoden. Efter att ha undersökt de krav som tryckfrihetsförordningen
+            och yttrandefrihetsgrundlagen ställer på anonymitetsskyddet för
+            meddelare samt den konflikt som kan föreligga mellan anonymitetsskyddet
+            och skattekontrollen har vi funnit att det inte finns något skäl
+            att införa en särskild skatt för meddelararvoden. För det fall
+            man ändå anser att en sådan skatt bör införas har vi tagit fram
+            ett förslag till lag om skatt på arvode till anonym meddelare.
+            Den är utformad som en punktskatt på meddelararvodet, där utbetalaren
+            är skattesubjekt. Identiteten på mottagaren blir av ersättningen
+            därmed aldrig känd. Skatten uppgår till samma belopp som det utbetalade
+            arvodet och är avdragsgill för utbetalaren. I den proposition
+            om rättssäkerheten vid beskattningen (prop. 1993/94:151) som lades
+            fram för riksdagen förklarade regeringen att den inte avsåg att
+            lägga fram något förslag i denna del (a. prop. s. 148). Frågan
+            om att utvidga meddelarfriheten utanför myndighetsområdet har
+            flera gånger varit föremål för utredning och överväganden. Yttrandefrihetsutredningen
+            (SOU 1983:70) lämnade förslag om en utvidgning av meddelarfriheten.
+            Regeringen (prop. 1986/87:151) valde dock att inte föra fram förslaget.
+            Konstitutionsutskottet (bet. KU 1987/88:36) ansåg att det fanns
+            skäl att utvidga meddelarfriheten till att i princip gälla förhållandet
+            även utanför den offentliga sektorn. Enligt utskottet var dock
+            det material som förelåg i ärendet inte tillräckligt. Utskottet
+            ansåg att regeringen i stället borde se till att frågan blev föremål
+            för utredning. Meddelarskyddskommittén (SOU 1990:12) föreslog
+            en grundlagsreglering om rätt för enskilda inom företag och organisationer
+            att lämna uppgifter, som omfattas av avtalad tystnadsplikt, för
+            publicering utan att drabbas av straff eller andra rättsföljder.
+            Regeringen (prop. 1990/91:64) konstaterade att förslaget mött
+            starkt motstånd bland remissinstanserna och fann att det inte
+            var möjligt att föra fram frågan om en vidgad insyn inom den privata
+            sektorn till grundlagsstiftning i samband med 1991 års riksdagsval.
+            Konstitutionsutskottet (bet. 1990/91:KU21) ansåg att det var angeläget
+            att öka insynen i det privata näringslivet och i de stora organisationerna.
+            Vilken väg man lagstiftningstekniskt skulle gå var enligt utskottet
+            en komplicerad fråga. Också utskottet kunde konstatera att det
+            inte hade varit möjligt att föra fram frågan om ett förstärkt
+            meddelarskydd på den privata sektorn inför riksdagsvalet år 1991.
+            Liksom regeringen ansåg utskottet att frågan borde ägnas fortsatt
+            uppmärksamhet. Demokratiutredningen ansåg, i betänkandet En uthållig
+            demokrati! Politik för folkstyrelse på 2000-talet (SOU 2000:1),
+            det angeläget att utvidga och förstärka meddelarskyddet så att
+            det gäller även för privatanställda, eftersom offentlig finansiering
+            av privat verksamhet blir vanligare - t.ex. inom sjukvård eller
+            miljöfarlig verksamhet. Utredningen menade att demokratiska värderingar
+            och etiska principer är lika viktiga när andra aktörer övertar
+            offentligfinansierad verksamhet. Tidigare behandling Konstitutionsutskottet
+            behandlade i sitt betänkande 1996/97:KU23 två motioner som tog
+            upp samma problem som i den nu aktuella motionen. Utskottet gjorde
+            då följande bedömning: Vid införandet av de nu gällande reglerna
+            om meddelarfriheten i tryckfrihetsförordningen påpekades att det
+            vore orealistiskt att bortse från att meddelarfriheten kan leda
+            till oönskade konsekvenser i form av publicitetsskador. Enligt
+            föredragande statsrådets mening kunde dock någon tvekan inte råda
+            om att det, allmänt sett, är ett mindre ont att i vissa fall omständigheter
+            uppenbaras som bort förtigas än att missförhållanden i allmän
+            eller enskild verksamhet får fortgå opåtalat eller att den offentliga
+            debatten i någon allmän angelägenhet uteblir eller kommer i obalans
+            på grund av brist på information. Slutsatsen blev att de som meddelar
+            sig med pressen eller annars med publicister bör åtnjuta en vidsträckt
+            frihet men att denna frihet - liksom flertalet andra rättigheter
+            - hade sina begränsningar och att det blev nödvändigt att göra
+            en avvägning mellan motstående och svårjämförbara intressen. I
+            förarbetena till sekretesslagen påpekades att önskemålet om insyn
+            i ett särskilt fall kan vara starkare än det sekretessintresse
+            som har föranlett den aktuella sekretessregeln och att det kan
+            förhålla sig så att en regel om skydd t.ex. för ett enskilt intresse
+            ibland på ett olämpligt sätt hindrar insyn i en myndighets sätt
+            att fullgöra sina uppgifter. Offentlighetsprincipen skulle inte
+            förverkligas till fullo om de offentliga funktionärerna i situationer
+            av nu nämnt slag vore förhindrade att bidra med uppgifter till
+            den allmänna debatten och reglerna om meddelarfrihet var avsedda
+            att motverka sådana icke önskade resultat av sekretessregleringen.
+            Erfarenheterna av det rådande systemet ansågs ha varit goda, och
+            föredragande statsrådet ansåg att man kunde utgå från att de tystnadsplikter
+            som inte hade företräde framför meddelarfriheten också i fortsättningen
+            skulle komma att vid sidan av sin rättsliga funktion ha den verkan
+            att de utövar ett psykologiskt och moraliskt tryck på de offentliga
+            funktionärerna att vara återhållsamma med att lämna uppgifter
+            till massmedierna. En annan viktig omständighet att beakta i sammanhanget
+            var att många av de uppgifter som kan komma att lämnas till följd
+            av meddelarfriheten sannolikt aldrig blir publicerade. Som framhållits
+            i skilda sammanhang var nämligen en av meddelarfrihetens viktigaste
+            funktioner att ge massmedierna tillgång till bakgrundsmaterial
+            som inte i sig självt är avsett för publicering. Vidare erinrades
+            om nödvändigheten att göra en avvägning mellan motstående och
+            svårjämförbara intressen - intresset av sekretess och intresset
+            av offentlig insyn - en avvägning som oundvikligen fick karaktären
+            av en kompromiss. Utskottet anser att vad som sålunda anförts
+            alltjämt äger giltighet och avstyrker med det anförda motionerna.
+            Våren 2000 behandlades åter frågan med anledning av en motion
+            av samme motionär som står bakom den nu aktuella motionen (bet.
+            1999/2000:KU17). Utskottet hänvisade till sin tidigare behandling
+            av frågan och till att Offentlighets- och sekretesskommittén enligt
+            direktiven skall se över bestämmelsen om meddelarfrihetsbrytande
+            tystnadsplikter i 16 kap. 1 § sekretesslagen. Utskottet ansåg
+            att resultatet av detta arbete borde avvaktas och avstyrkte därför
+            motionen. Frågan om hur yttrandefriheten och meddelarfriheten
+            på arbetsplatser som inte är offentliga men med anknytning till
+            det allmänna, kan stärkas har utretts inom Regeringskansliet (Ds
+            2001:9). Utredaren har föreslagit bl.a. en lag om skydd för privatanställdas
+            yttrandefrihet och en ändring i sekretesslagen. Den föreslagna
+            nya lagen bygger på den avtalsbaserade tystnadsplikt som normalt
+            ingår i ett anställningsförfarande och föreskriver inskränkningar
+            i tystnadsplikten. Frågan övervägs för närvarande inom Justitiedepartementet.
+            Utbildningsutskottet hänvisade nyligen med anledning av en motion
+            om behovet av skydd för att avslöja missförhållanden i fristående
+            skolor till dessa överväganden (bet. 2001/02:UbU07). Utbildningsutskottet
+            framhöll att det finns ett demokratiskt värde i att förhållanden
+            vid offentligt finansierade verksamheter kan diskuteras öppet.
+            Utbildningsutskottet utgick ifrån att regeringen inom kort återkommer
+            med ett förslag till lag om skydd för privatanställdas yttrandefrihet
+            som omfattar fristående skolor. För detta talade också angelägenheten
+            av att lika regler om skydd för yttrandefrihet skall gälla för
+            offentligt och privat anställda inom skolväsendet. Utbildningsutskottet
+            ansåg inte att det behövdes något särskilt uttalande från riksdagen
+            med anledning av motionerna. Utskottets ställningstagande När
+            det gäller frågan om yttrandefriheten och meddelarfriheten på
+            privata arbetsplatser vill utskottet hänvisa till det beredningsarbete
+            som pågår i Regeringskansliet med anledning av ett utredningsförslag.
+            Utskottet anser att detta beredningsarbete bör avvaktas. Utskottet
+            vidhåller också i övrigt sitt tidigare ställningstagande och avstyrker
+            motion K215 (s).
+          </p>
+          <p>
+            Reservationer Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer. I rubriken anges inom parentes
+            vilken punkt i utskottets förslag till riksdagsbeslut som behandlas
+            i avsnittet. 1. Diskrimineringsombudsmannen (punkt 4) av Per Lager
+            (mp). Förslag till riksdagsbeslut Jag anser att utskottets förslag
+            under punkt 4 borde ha följande lydelse: Riksdagen tillkännager
+            för regeringen som sin mening vad som framförs i reservation 1.
+            Därmed bifaller riksdagen motion 2001/02:K399. Ställningstagande
+            Behovet av sekretess hos Ombudsmannen mot etnisk diskriminering
+            (DO) har inte minskat jämfört med förhållandena i början av DO:s
+            verksamhet. Före den 1 januari 1999 fanns en sekretessmöjlighet
+            som bortföll - som det verkar - av förbiseende och som nu bör
+            återinföras med rakt skaderekvisit. Mot bakgrund av att det hos
+            DO handläggs frågor som rör känsliga uppgifter om enskilds personliga
+            och ekonomiska förhållanden bör pågående utredningsarbete inte
+            avvaktas. Anmälare ger påtagligt ofta in handlingar som innehåller
+            de mest personliga uppgifter om hälso- och levnadsförhållanden.
+            Många personer med erfarenhet främst av förhållanden i andra länder
+            och som anmäler ärenden till DO torde inte heller ha vetskap om
+            den svenska offentlighetsprincipen. Dessa förhållanden talar för
+            att det införs ett rakt skaderekvisit. Detta bör med bifall till
+            motion K399 ges regeringen till känna. 2. Exportkreditnämnden
+            (punkt 5) av Kenneth Kvist (v) och Peter Pedersen (v). Förslag
+            till riksdagsbeslut Vi anser att utskottets förslag under punkt
+            5 borde ha följande lydelse: Riksdagen tillkännager för regeringen
+            som sin mening vad som framförs i reservation 2. Därmed bifaller
+            riksdagen motion 2001/02:N264 yrkande 1. Ställningstagande Genom
+            att inte informera om vilka projekt som är under beredning avsäger
+            sig Exportkreditnämnden möjligheter att få in kompletterande och
+            oberoende miljöinformation, exempelvis oberoende miljöinformation,
+            som underlag för sina beslut. Att utställda garantier inte regelmässigt
+            offentliggörs ens efter det att beslut fattats innebär även det
+            en begränsning av informationsflödet från Exportkreditnämnden
+            om hur eventuella miljövillkor efterlevs. Nämndens frikostiga
+            användning av hemligstämpeln gör det omöjligt att föra en öppen
+            debatt om miljöpolicyn. För att göra en meningsfull utvärdering
+            möjlig måste sekretessen hävas åtminstone kring de projekt som
+            Exportkreditnämnden behandlat sedan miljöpolicyn infördes. Miljökonsekvensbeskrivningar
+            och andra beslutsunderlag måste göras tillgängliga för granskning
+            och offentlig debatt. Det finns exempel på flera andra länder
+            med en likartad samhällsstruktur och likartat näringsliv som har
+            ett betydligt öppnare system när det gäller exportkrediter och
+            kreditgarantier än Sverige. De sekretessbestämmelser som gäller
+            för Exportkreditnämnden måste ses över. Detta bör med bifall till
+            motion N264 yrkande 1 ges regeringen till känna. Bilaga Förteckning
+            över behandlade förslag
+          </p>
+          <p>
+            Motioner från allmänna motionstiden 2001/02:K215 av Jan Bergqvist
+            (s) vari föreslås att riksdagen fattar följande beslut: Riksdagen
+            tillkännager för regeringen som sin mening vad i motionen anförs
+            om behovet av att på olika sätt förbättra meddelarfriheten och
+            meddelarskyddet så att de kan bli ett ännu starkare stöd för den
+            demokratiska utvecklingen i Sverige. 2001/02:K229 av Rolf Gunnarsson
+            (m) vari föreslås att riksdagen fattar följande beslut: Riksdagen
+            tillkännager för regeringen som sin mening vad i motionen anförs
+            om att sekretesslagen också skall omfatta personal inom räddningstjänsten.
+            2001/02:K300 av Claes-Göran Brandin och Sven Hulterström (s) vari
+            föreslås att riksdagen fattar följande beslut: 1. Riksdagen begär
+            att regeringen lägger fram förslag till ändring så att det görs
+            en särskild prövning när någon beställer personuppgifter på anställda
+            inom rättsväsendet. 2. Riksdagen begär att regeringen lägger fram
+            förslag till ändring så att personer vars personuppgifter lämnats
+            ut får besked om detta. 2001/02:K303 av Ragnwi Marcelind och Maria
+            Larsson (kd) vari föreslås att riksdagen fattar följande beslut:
+            Riksdagen tillkännager för regeringen som sin mening vad i motionen
+            anförs om att införa en ny sekretesslagstiftning för passfoto.
+            2001/02:K355 av Alice Åström m.fl. (v) vari föreslås att riksdagen
+            fattar följande beslut: Riksdagen begär att regeringen lägger
+            fram förslag till ändring i sekretesslagen så att ett rakt skaderekvisit
+            i sekretessen till förmån för enskilda i det allmännas brottsförebyggande
+            och brottsbeivrande verksamhet återinförs. 2001/02:K373 av Berit
+            Adolfsson (m) vari föreslås att riksdagen fattar följande beslut:
+            Riksdagen tillkännager för regeringen som sin mening vad i motionen
+            anförs om att sekretesslagstiftningen skyndsamt måste effektiviseras
+            för att skydda hotade människor från brott. 2001/02:K399 av Per
+            Lager och Kia Andreasson (mp) vari föreslås att riksdagen fattar
+            följande beslut: Riksdagen begär att regeringen lägger fram förslag
+            till ändring av 9 kap. 21 § sekretesslagen (1980:100) så att den
+            även omfattar ärende enligt lagen (1999:131) om Ombudsmannen mot
+            etnisk diskriminering, i enlighet med förslaget framlagt i SOU
+            1997:174, dock med den ändringen att ett rakt skaderekvisit bör
+            införas. 2001/02:K404 av Anders Sjölund (m) vari föreslås att
+            riksdagen fattar följande beslut: Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om undantag från offentlighetsprincipen
+            för uppgifter om passfoto. 2001/02:N264 av andre vice talman Eva
+            Zetterberg m.fl. (v) vari föreslås att riksdagen fattar följande
+            beslut: 1. Riksdagen tillkännager för regeringen som sin mening
+            att de sekretessbestämmelser som gällt för Exportkreditnämnden
+            måste ses över och att nämndens verksamhet blir öppnare.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

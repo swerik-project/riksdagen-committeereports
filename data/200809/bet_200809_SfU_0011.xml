@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_SfU_0011">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen gav regeringen i uppdrag att utveckla sin styrning och uppföljning av Försäkringskassans och CSN:s utbetalnings- och fordringsverksamhet utomlands. Regeringen fick också i uppdrag att se över de regelverk som styr myndigheternas fordringshantering utomlands för att effektivisera verksamheten och göra den mer rättssäker. Bakgrunden är en granskning av Riksrevisionen som har visat på flera brister som gäller både Försäkringskassans och CSN:s hantering av utbetalningar, återkrav och fordringar utomlands. Den bristande hanteringen har varit ett problem under en längre tid och kan enligt Riksrevisionen medföra att staten riskerar att gå miste om betydande belopp genom att skulderna preskriberas. Regeringen och myndigheterna har enligt Riksrevisionen inte gjort tillräckligt för att säkerställa en effektiv och rättssäker hantering. Granskningen visar även på ett komplext regelverk som ger dels utrymme för tolkningar, dels begränsade förutsättningar för myndigheterna att effektivt driva in fordringar utomlands.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Regeringen får i uppdrag att se över trygghetssystemen utomlands (SfU11)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till framställningen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GW0K241</idno>
+              <title>2008/09:241</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">241</biblScope>
+              <note type="display-reference">2008/09:241</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="frsrdg">
+              <idno type="riksdagen">GW04RRS23</idno>
+              <title>Riksrevisionens styrelses framställning angående trygghetssystemen utomlands</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">RRS23</biblScope>
+              <note type="display-reference">forslag 2008/09:RRS23 Riksrevisionens styrelses framställning angående trygghetssystemen utomlands</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2009-05-05">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2009-05-05">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-04-28">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-04-28">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-04-28">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-04-28">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-04-28">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-04-28">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-04-16">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-04-16">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2009-05-13">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-05-13">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-05-13">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-05-13">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-05-07">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-05-07">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-05-06">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-05-06">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-05-05">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-05-05">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Socialförsäkringsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:SfU11
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Trygghetssystemen utomlands
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBQTC" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet en framställning av Riksrevisionens
+            styrelse angående trygghetssystemen utomlands (2008/09:RRS23).
+          </p>
+          <p>
+            Riksrevisionen har granskat om regeringen, Försäkringskassan
+            och CSN har säkerställt att utbetalningar och fordringshantering
+            fungerar när personer bor utomlands. Resultatet av granskningen
+            har redovisats i rapporten Svenska trygghetssystem utomlands
+          </p>
+          <p>
+            Riksrevisionens styrelse anser att regeringen bör vara tydligare
+            i sin styrning och uppföljning av Försäkringskassans och CSN:s
+            utbetalningar och fordringshantering utomlands och att regelverket
+            för Försäkringskassans och CSN:s fordringshantering bör ses över
+            av regeringen. Styrelsen föreslår att riksdagen ger regeringen
+            detta till känna.
+          </p>
+          <p>
+            Mot bakgrund av vad som framkommit vid granskningen föreslår
+            utskottet att riksdagen gör ett tillkännagivande till regeringen
+            om att regeringen dels utvecklar sin styrning och uppföljning
+            av Försäkringskassans och CSN:s utbetalnings- och fordringsverksamhet
+            utomlands, dels ser över de regelverk som styr myndigheternas
+            fordringshantering utomlands i syfte att effektivisera verksamheten
+            och göra den mer rättssäker.
+          </p>
+          <p xml:id="IDAWBQTC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Framställningen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen tillkännager för regeringen som sin mening att regeringen
+                  dels bör utveckla sin styrning och uppföljning av Försäkringskassans
+                  och CSN:s utbetalnings- och fordringsverksamhet utomlands, dels
+                  bör se över de regelverk som styr myndigheternas fordringshantering
+                  utomlands i syfte att effektivisera verksamheten och göra den
+                  mer rättssäker. Därmed bifaller riksdagen framställning 2008/09:RRS23
+                  punkterna 1 och 2.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 28 april 2009
+          </p>
+          <p>
+            På socialförsäkringsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Gunnar Axén
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Gunnar Axén (m),
+            Veronica Palm (s), Helena Rivière (m), Ronny Olander (s), Lars-Arne
+            Staxäng (m), Siw Wittgren-Ahl (s), Ulf Nilsson (fp), Kurt Kvarnström
+            (s), Mats G Nilsson (m), Göte Wahlström (s), Lars Gustafsson (kd),
+            Mikael Cederbratt (m), Kalle Larsson (v), Matilda Ernkrans (s),
+            Fredrick Federley (c), Gunvor G Ericson (mp) och Lennart Pettersson
+            (c).
+          </p>
+          <p xml:id="IDAYEQTC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            Utskottet behandlar i detta betänkande Riksrevisionens styrelses
+            framställning om trygghetssystemen utomlands (2008/09:RRS23).
+          </p>
+          <p>
+            Riksrevisionen har granskat om regeringen, Försäkringskassan
+            och Centrala studiestödsnämnden (CSN) har säkerställt att utbetalningar
+            och fordringshantering fungerar när personer bor utomlands. Resultatet
+            av granskningen har redovisats i rapporten Svenska trygghetssystem
+            utomlands
+          </p>
+          <p>
+            Riksrevisionen genom riksrevisor Karin Lindell m.fl. har den
+            12 februari 2009 informerat utskottet om innehållet i granskningsrapporten.
+          </p>
+          <p xml:id="IDAJFQTC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDANFQTC" rend="rubrik2">
+            Trygghetssystemen utomlands
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDATFQTC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen ger regeringen till känna att regeringen dels bör utveckla
+                sin styrning och uppföljning av Försäkringskassans och CSN:s utbetalnings-
+                och fordringsverksamhet utomlands, dels bör se över de regelverk
+                som styr myndigheternas fordringshantering utomlands i syfte att
+                effektivisera verksamheten och göra den mer rättssäker. Därmed
+                bifaller riksdagen Riksrevisionens styrelses framställning.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA5FQTC" rend="r3">
+              Riksrevisionens granskning
+            </p>
+            <p>
+              Riksrevisionen har granskat om regeringen, Försäkringskassan
+              och Centrala studiestödsnämnden (CSN) har säkerställt att utbetalningar
+              och fordringshantering fungerar när personer bor utomlands.
+            </p>
+            <p xml:id="IDAFGQTC" rend="r4">
+              Försäkringskassan
+            </p>
+            <p>
+              Försäkringskassans utbetalningar till personer som är bosatta
+              utomlands uppgick under 2007 till ca 5,2 miljarder kronor. Enligt
+              Riksrevisionens granskning kan Försäkringskassan inte redovisa
+              tillförlitliga uppgifter om antalet personer utomlands som tagit
+              emot pengar från socialförsäkringen. Statistiken är också svårtolkad
+              och motstridig och innebär enligt Riksrevisionen att myndigheten
+              inte svarar vare sig mot de krav som ställs i myndighetens instruktion
+              eller mot kravet på att svara för en kvalitetssäkrad statistik
+              inom socialförsäkringsområdet. Eftersom myndigheten saknar tillförlitliga
+              uppgifter om antalet betalningsmottagare har det inte heller varit
+              möjligt att kontrollera att samtliga utbetalningar gjorts till
+              rätt mottagare. Brister i statistiken kan enligt Riksrevisionen
+              leda till att ofullständigt underlag används vid beslutsfattande
+              och styrning inom Försäkringskassan, vilket försvårar för myndighetens
+              ledning att säkerställa att intern styrning och kontroll fungerar.
+              Brister i statistiken kan enligt Riksrevisionen även leda till
+              att regering och riksdag fattar beslut på felaktiga grunder.
+            </p>
+            <p>
+              Riksrevisionen konstaterar vidare bl.a. att kapaciteten i upphandlat
+              utbetalningssystem inte har varit tillräcklig och att förseningarna
+              i utbetalningar strider mot kraven på att utbetalningar ska ske
+              vid rätt tidpunkt.
+            </p>
+            <p>
+              När det gäller indrivning av skulder visar Riksrevisionens granskning
+              att Försäkringskassans fordringar utomlands har fördubblats de
+              senaste fyra åren. År 2007 uppgick skulden för återbetalningsskyldiga
+              till ca 114 miljoner kronor. Av dessa 114 miljoner kronor missköttes
+              101 miljoner. Med misskötsel menas i detta sammanhang att inga
+              återbetalningar sker under ett år. Antalet återbetalningsskyldiga
+              har ökat från 3 769 till 6 425 personer under perioden 20042007,
+              och de utlandsboende som missköter återbetalningarna har ökat
+              från 3 310 till 5 822 personer. Det innebär att antalet återbetalningsskyldiga
+              har ökat med ca 70 % och att de som missköter återbetalningen
+              har ökat med 7075 % på fyra års tid. Nära 90 % av de återbetalningsskyldiga
+              betalar inte sina skulder.
+            </p>
+            <p>
+              Enligt rapporten har Försäkringskassan saknat uppgifter om utlandsbosatta
+              som kassan har fordringar på, och enligt myndigheten har man inte
+              i någon större omfattning utrett om det finns möjligheter att
+              driva in fordringar utomlands. Huvudkontorets styrning i fråga
+              om fordringshantering har varit bristfällig, och det har utvecklats
+              en praxis att inte vidta indrivningsåtgärder i utlandsärenden
+              eftersom det anses utsiktslöst att driva in fordringarna. Enligt
+              uppgifter från Försäkringskassan riskerar nära 1 400 ärenden med
+              tillhörande skuld motsvarande 13 miljoner kronor att preskriberas
+              inom ett år. Inom fem år riskerar ärenden med en total skuld motsvarande
+              46 miljoner kronor att preskriberas.
+            </p>
+            <p xml:id="IDAUGQTC" rend="r4">
+              CSN
+            </p>
+            <p>
+              År 2007 befann sig 57 774 återbetalningsskyldiga personer utomlands.
+              Av dessa misskötte 15 799 sina återbetalningar. Med misskötsel
+              menas i detta sammanhang personer som inte betalat något alls
+              under tre år eller som under fem år återbetalat mindre än 25 %
+              av det belopp som ska återbetalas. CSN saknar adress till 6 047
+              av de 15 799 som missköter återbetalningar, vilket motsvarar 38
+              %.
+            </p>
+            <p>
+              Granskningen visar att CSN i hög grad måste lita på att den sökande
+              studentens egna uppgifter är korrekta. CSN:s rutin är att efter
+              beslut om beviljande betala ut ett större belopp i förskott till
+              den som ska studera utomlands. Inriktningen bör i stället enligt
+              Riksrevisionen vara att studiemedel, precis som i Sverige, betalas
+              ut månadsvis. Undantag bör dock göras för exempelvis studieavgifter
+              och resor.
+            </p>
+            <p>
+              Riksrevisionen pekar i granskningen på flera kvarvarande problem
+              som studiestödssystemets utformning och rutiner för utbetalning
+              av studiemedel och gör bedömningen att det fortfarande finns risk
+              för felaktiga utbetalningar vid utlandsstudier. CSN:s ledning
+              har hittills inte i tillräcklig utsträckning säkerställt en fungerande
+              intern styrning och kontroll inom området.
+            </p>
+            <p>
+              Riksrevisionen konstaterar vidare att 13 407 ärenden med tillhörande
+              skuld om ca 1,3 miljarder kronor riskerar att preskriberas inom
+              ett år. Inom fem år riskerar totalt ca 2 miljarder kronor att
+              preskriberas.
+            </p>
+            <p>
+              Riksrevisionens granskning visar således att CSN:s förutsättningar
+              att driva in fordringar utomlands är begränsade och att studieskulder
+              till betydande belopp riskerar att preskriberas under de närmaste
+              åren.
+            </p>
+            <p>
+              Riksrevisionen noterar emellertid att CSN under granskningens
+              gång har börjat planera flera åtgärder som, om de genomförs, kan
+              bidra till en mer effektiv kravverksamhet. Utifrån en nyligen
+              framtagen strategi ska myndigheten mer systematiskt än tidigare
+              driva in fordringar utomlands. Vidare planerar CSN att lägga fram
+              förslag till lagändringar som kan innebära att det blir enklare
+              för myndigheten att driva in studieskulder.
+            </p>
+            <p xml:id="IDAJHQTC" rend="r4">
+              Regeringen
+            </p>
+            <p>
+              Riksrevisionen konstaterar i rapporten att regeringen har tagit
+              initiativ till flera åtgärder för att förebygga felaktiga utbetalningar.
+              Riksrevisionens sammanfattande syn på regeringens insatser är
+              dock att regeringen inte i tillräcklig utsträckning har uppmärksammat
+              CSN:s och Försäkringskassans återkravs- och fordringsverksamhet
+              utomlands. Regeringens styrning inom området har enligt Riksrevisionen
+              varit svag. Det gäller särskilt i regeringens regleringsbrev till
+              Försäkringskassan där regeringen inte begärt uppgifter om myndighetens
+              återkravsfordringar för vare sig personer bosatta i Sverige eller
+              utomlands. I regeringens regleringsbrev till CSN har återrapporteringskrav
+              riktats till myndighetens fordringsverksamhet mot personer i Sverige,
+              men inte utomlands. Myndigheternas utlandsverksamhet inom berörda
+              områden har inte heller uppmärksammats i de senare uppdrag som
+              regeringen lämnat till Utredningen om enhetligare regler och återkrav
+            </p>
+            <p>
+              Riksrevisionen menar att statens fordringshantering kan effektiviseras.
+              Ett sätt är att ansvariga myndigheter blir bättre på uppgiften,
+              dvs. en ökad effektivitet kan uppnås givet att varje myndighet
+              ansvarar för att den egna fordringsverksamheten kan uppnås genom
+              starkare drivkrafter och bättre styrning. Ett annat sätt är att
+              omorganisera fordringshanteringen eftersom det finns skäl att
+              ifrågasätta om det är effektivt att varje myndighet försöker bygga
+              upp den specialkompetens som krävs.
+            </p>
+            <p xml:id="IDAWHQTC" rend="r4">
+              Riksrevisionens rekommendationer
+            </p>
+            <p>
+              Riksrevisionen rekommenderar följande:
+            </p>
+            <p>
+              Regeringen bör överväga förändringar av de regelverk som styr
+              CSN:s fordringshantering i syfte att möjliggöra en effektivare
+              fordringsverksamhet utomlands. Exempelvis bör regeringen överväga
+              att ge CSN möjlighet att återkräva hela studielånet om lånet inte
+              återbetalas korrekt.
+            </p>
+            <p>
+              Regeringen bör styra och följa upp Försäkringskassans och CSN:s
+              fordringsverksamhet i utlandet.
+            </p>
+            <p>
+              Försäkringskassan bör i ökad utsträckning driva in fordringar
+              utomlands och säkerställa att de förseningar som förekommit vid
+              utbetalningar till personer utomlands upphör.
+            </p>
+            <p>
+              Försäkringskassan bör säkerställa att det finns kvalitetssäkrad
+              statistik om antalet utlandsbosatta som får ersättning eller bidrag
+              från myndigheten.
+            </p>
+            <p>
+              CSN bör genomföra förändringar i syfte att minska risken för
+              felaktiga utbetalningar vid utlandsstudier.
+            </p>
+            <p xml:id="IDAOARTC" rend="r3">
+              Framställningen
+            </p>
+            <p>
+              Riksrevisionens styrelse anför att den internationella rörligheten
+              har medverkat till ökade krav på de statliga myndigheternas hantering
+              av utbetalningar och fordringar. Alltfler personer bosätter sig
+              utomlands.
+            </p>
+            <p>
+              Riksrevisionens granskning visar att regeringen och myndigheterna
+              inte har gjort tillräckligt för att säkerställa en effektiv och
+              rättssäker hantering. Vidare kan den bristande fordringshanteringen
+              medföra att staten inom några år riskerar att gå miste om betydande
+              belopp genom att studieskulder preskriberas.
+            </p>
+            <p>
+              Även det regelverk som gäller för verksamheten har betydelse
+              för en effektiv och rättssäker hantering. Granskningen visar på
+              ett komplicerat regelverk som är svårt att tillämpa för myndigheterna.
+            </p>
+            <p>
+              En grundläggande utgångspunkt för den statliga verksamheten är
+              att alla ska behandlas lika. Samma rättigheter och skyldigheter
+              ska gälla för de personer som omfattas av trygghetssystemen, oavsett
+              bostadsort. Styrelsen anser det också viktigt för tilltron till
+              trygghetssystemen att missbruk av systemen bekämpas. Det är därför
+              av stor vikt att fordringshanteringen fungerar väl och att alla
+              betalar sina skulder.
+            </p>
+            <p>
+              När det gäller myndigheternas hantering av utbetalningar och
+              fordringar utomlands konstaterar styrelsen att den nu gällande
+              ordningen för hanteringen av återkrav och fordringar ger myndigheterna
+              svaga incitament att prioritera verksamheten. Verksamheten kan
+              ibland vara kostnadskrävande för den enskilda myndigheten, och
+              de skuldbelopp (exklusive avgifter) som myndigheterna driver in
+              går direkt till statskassan. Detta kan ha bidragit till att myndigheterna
+              inte har vidtagit tillräckliga åtgärder för att komma till rätta
+              med bristerna.
+            </p>
+            <p>
+              Beträffande en översyn av regelverket för fordringshanteringen
+              anger styrelsen bl.a. att fordringshanteringen inte hör till Försäkringskassans
+              och CSN:s kärnverksamhet. Kronofogdemyndigheten är den myndighet
+              som har i uppgift att utreda och driva in bl.a. statliga fordringar.
+              Ökad effektivitet kan uppnås t.ex. genom att organisera fordringshanteringen
+              utomlands på ett annat sätt än i dag i stället för att varje myndighet
+              bygger upp den specialkompetens som krävs. Det finns således skäl
+              att överväga hur Kronofogdemyndigheten kan vara myndigheterna
+              mer behjälplig i den här typen av ärenden. Styrelsen anser även
+              att myndigheterna i större utsträckning bör överväga hur de kan
+              samordna sina insatser i fordringshanteringen.
+            </p>
+            <p>
+              Mot bakgrund av det anförda föreslår styrelsen att riksdagen
+              begär dels att regeringen utvecklar sin styrning och uppföljning
+              av Försäkringskassans och CSN:s utbetalnings- och fordringsverksamhet
+              utomlands, dels att regeringen ser över de regelverk som styr
+              myndigheternas fordringshantering utomlands i syfte att effektivisera
+              verksamheten och göra den mer rättssäker.
+            </p>
+            <p xml:id="IDAGBRTC" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet kan konstatera att granskningen visar på brister i
+              myndigheternas hantering av utbetalningar, återkrav och fordringar
+              utomlands.
+            </p>
+            <p>
+              Utskottet kan vidare konstatera att regeringen har tagit initiativ
+              till flera åtgärder för att bl.a. förebygga felaktiga utbetalningar.
+              Som anförs i rapporten har emellertid regeringens insatser inte
+              varit tillräckliga.
+            </p>
+            <p>
+              Utskottet anser liksom Riksrevisionens styrelse att det är viktigt
+              för tilltron till trygghetssystemen att missbruk av systemen bekämpas
+              och att det därför är av stor vikt att fordringshanteringen fungerar
+              väl och att alla betalar sina skulder. Utskottet delar också i
+              allt väsentligt styrelsens bedömning att regeringen och myndigheterna
+              inte har gjort tillräckligt för att säkerställa en effektiv och
+              rättssäker hantering och att det regelverk som gäller för verksamheten
+              är komplicerat och svårt att tillämpa för myndigheterna.
+            </p>
+            <p>
+              Mot bakgrund härav föreslår utskottet att riksdagen som sin mening
+              ger regeringen till känna dels att regeringen utvecklar sin styrning
+              och uppföljning av Försäkringskassans och CSN:s utbetalnings-
+              och fordringsverksamhet utomlands, dels ser över de regelverk
+              som styr myndigheternas fordringshantering utomlands i syfte att
+              effektivisera verksamheten och göra den mer rättssäker.
+            </p>
+            <p xml:id="IDAVBRTC" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAYBRTC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDA1BRTC" rend="rubrik2">
+              Framställningen
+            </p>
+            <p rend="behandlatdokument_">
+              Framställning 2008/09:RRS23 Riksrevisionens styrelses framställning
+              angående trygghetssystemen utomlands:
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening att regeringen
+                    utvecklar sin styrning och uppföljning av Försäkringskassans och
+                    CSN:s utbetalnings- och fordringsverksamhet utomlands.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening att regeringen
+                    ser över de regelverk som styr myndigheternas fordringshantering
+                    utomlands i syfte att effektivisera verksamheten och göra den
+                    mer rättssäker.
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

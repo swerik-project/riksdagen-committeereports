@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200708_FiU_0015">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Försäkringsbolag som enbart meddelar återförsäkring kommer från den 1 april 2008 i högre grad än i dag att omfattas av samma rörelseregler som gäller för direkt försäkring. Återförsäkring innebär att ett försäkringsbolag i sin tur tar ut en försäkring hos en annan försäkringsgivare, ett återförsäkringsbolag. Syftet med de nya reglerna är att genomföra ett EU-direktiv från 2005 om återförsäkring.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Nya regler om återförsäkring (FiU15)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GV0973</idno>
+              <title>2008-03-05</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">73</biblScope>
+              <note type="display-reference">2008-03-05</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GV0973</idno>
+              <title>2008-03-05</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">73</biblScope>
+              <note type="display-reference">2008-03-05</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GV0K136</idno>
+              <title>2007/08:136</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">136</biblScope>
+              <note type="display-reference">2007/08:136</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1998:293</idno>
+              <note type="display-reference">2008:101</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1982:713</idno>
+              <note type="display-reference">2008:102</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GV0340</idno>
+              <title>Återförsäkring</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">40</biblScope>
+              <note type="display-reference">proposition 2007/08:40 Återförsäkring</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2008-03-03">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2008-03-03">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-02-28">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-02-27">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-02-27">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-02-27">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-02-26">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-02-19">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-02-19">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-01-29">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-01-29">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2008-03-05">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-03-05">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-03-05">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-03-05">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-03-05">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-03-04">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-03-04">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-03-03">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-03-03">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2007/08:FiU15
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Återförsäkring
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACJ2GG" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet föreslår finansutskottet att riksdagen bifaller
+            regeringens förslag till ny lagstiftning avseende återförsäkringsverksamhet.
+            Regeringen har föreslagit ändringar i flera lagar på försäkringsrörelseområdet
+            i syfte att genomföra ett EG-direktiv från 2005 om återförsäkring.
+          </p>
+          <p>
+            Förslagen innebär att försäkringsbolag som enbart meddelar återförsäkring
+            i högre grad än i dag kommer att omfattas av samma rörelseregler
+            som gäller för direkt försäkring.
+          </p>
+          <p>
+            För återförsäkringsbolag införs särskilda placeringsregler av
+            mer kvalitativ art. Derivatinstrument får användas som skuldtäckningstillgång
+            om de sänker den finansiella risken i bolaget eller effektiviserar
+            förvaltningen av bolagets skuldtäckningstillgångar.
+          </p>
+          <p>
+            För de försäkringsbolag som bedriver både direkt skadeförsäkringsrörelse
+            och återförsäkring av viss större omfattning höjs kravet på minsta
+            kapitalbas från 2 till 3 miljoner euro.
+          </p>
+          <p>
+            Det föreslås även att samtliga försäkringsbolags tillgångar som
+            huvudregel ska värderas till verkligt värde i skuldtäckningssammanhang.
+            Begränsningen för enhandsengagemang avseende andelar i investeringsfonder
+            som förvaltas av samma fondbolag tas bort. Dessutom föreslås att
+            högst 25 % av skuldtäckningstillgångarna får placeras i säkerställda
+            obligationer utfärdade av samma emittent.
+          </p>
+          <p>
+            Enligt propositionens förslag ska utländska försäkringsgivare
+            som huvudregel tillämpa motsvarande bestämmelser som svenska försäkringsbolag
+            när de driver återförsäkringsverksamhet i Sverige. På samma sätt
+            som gäller för direkt försäkring kommer dock försäkringsgivare
+            från andra EES-länder att omfattas av hemlandstillsyn, medan försäkringsgivare
+            från tredjeland i större omfattning har att tillämpa svenska regler.
+          </p>
+          <p>
+            Återförsäkringsdirektivet skulle ha genomförts i medlemsländerna
+            den 10 december 2007. De nya bestämmelserna i propositionen föreslås
+            träda i kraft den 1 april 2008.
+          </p>
+          <p>
+            Det har inte väckts några motioner i ärendet.
+          </p>
+          <p xml:id="IDA4J2GG" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Nya bestämmelser om återförsäkring
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  1. lag om ändring i försäkringsrörelselagen (1982:713) och
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2. lag om ändring i lagen (1998:293) om utländska försäkringsgivares
+                  och tjänstepensionsinstituts verksamhet i Sverige.
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen proposition 2007/08:40.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 19 februari 2008
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Ulf Sjösten (m), Anna Lilliehöök (m), Sonia Karlsson (s), Lars
+            Elinderson (m), Roger Tiefensee (c), Monica Green (s), Hans Hoff
+            (s), Peder Wachtmeister (m), Agneta Gille (s), Göran Pettersson
+            (m), Ulla Andersson (v), Tommy Ternemar (s), Emma Henriksson (kd),
+            Mikaela Valtersson (mp), Christina Zedell (s) och Gunnar Andrén
+            (fp).
+          </p>
+          <p xml:id="IDAJN2GG" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAMN2GG" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p xml:id="IDAPN2GG" rend="r3">
+            Vad är återförsäkring?
+          </p>
+          <p>
+            Återförsäkring innebär att ett försäkringsbolag i sin tur tar
+            ut en försäkring hos en annan försäkringsgivare, ett återförsäkringsbolag.
+            Det finns flera skäl till att försäkringsbolag återförsäkrar sig.
+            Genom att skaffa sig ett eget försäkringsskydd kan försäkringsbolagen
+            förbättra sin riskhantering och dessutom minska sina kapitalkostnader.
+            Effekten blir att en del av risken överförs på återförsäkringsbolagen
+            och att försäkringsbolagen får ett stabilare kassaflöde.
+          </p>
+          <p xml:id="IDAVN2GG" rend="r3">
+            Reglering av återförsäkringsverksamhet i EU och Sverige
+          </p>
+          <p>
+            På EU-nivå finns det flera direktiv som uppställer regler för
+            försäkringsverksamhet. De fyra grundprinciperna för regleringen
+            är: en enda auktorisation, hemlandstillsyn, minimiharmonisering
+            av regler och ömsesidigt erkännande av de enskilda medlemsländernas
+            regler. Under lång tid gällde att EU-reglerna var tillämpliga
+            på hela den verksamhet som drevs av försäkringsföretag, såväl
+            direkt försäkring som återförsäkring. Däremot fanns det endast
+            mycket begränsade regler om de specialiserade återförsäkringsföretag
+            som bara ägnade sig åt återförsäkring.
+          </p>
+          <p>
+            Den 16 november 2005 antogs dock ett EG-direktiv om återförsäkring,
+            som uppställer rörelseregler på EU-nivå även för dessa företag.
+            <hi rend="superscript">
+              1 [
+              <seg type="html-hanvisning">
+                Europaparlamentets och rådets direktiv 2005/68/EG av den 16 november
+                2005 om återförsäkring och om ändring av rådets direktiv 73/239/EEG
+                och 92/49/EG samt direktiven 98/78/EG och 2002/83/EG (EUT L 323,
+                9.12.2005, s. 150, Celex 32005L0068).
+              </seg>
+              ]
+            </hi>
+            Reglerna påminner i stor utsträckning om de regler som redan
+            gäller för övriga försäkringsföretag. Direktivet skulle ha genomförts
+            i nationell lagstiftning senast den 10 december 2007. I propositionen
+            föreslås lagändringar som genomför direktivet i Sverige fr.o.m.
+            den 1 april 2008.
+          </p>
+          <p>
+            I Sverige finns regler som reglerar återförsäkringsverksamhet
+            i försäkringsrörelselagen (1982:713). I dagsläget är dock de bolag
+            som enbart bedriver återförsäkringsverksamhet undantagna från
+            vissa av de rörelseregler som gäller för övriga försäkringsbolag.
+            Dessutom finns det ingen särskild reglering av utländska återförsäkringsgivares
+            verksamhet i Sverige, medan däremot andra utländska försäkringsgivare
+            omfattas av bestämmelserna i lagen (1998:293) om utländska försäkringsgivares
+            och tjänstepensionsinstituts verksamhet i Sverige.
+          </p>
+          <p xml:id="IDAGO2GG" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAKO2GG" rend="rubrik2">
+            Nya bestämmelser om återförsäkring
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAQO2GG" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen antar regeringens förslag till ändringar i försäkringsrörelselagen
+                samt i lagen om utländska försäkringsgivares och tjänstepensionsinstituts
+                verksamhet i Sverige.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA2O2GG" rend="r3">
+              Propositionen
+            </p>
+            <p xml:id="IDA5O2GG" rend="r4">
+              Definitioner och undantag
+            </p>
+            <p>
+              Regeringen föreslår att flera nya definitioner förs in i relevanta
+              lagar och att vissa undantag för särskilda former av försäkringsföretag
+              tas bort.
+            </p>
+            <p xml:id="IDAFP2GG" rend="r4">
+              Tillstånd att driva återförsäkringsföretag
+            </p>
+            <p>
+              Propositionen innehåller förslag på regler om vad som krävs för
+              att få tillstånd att driva återförsäkringsföretag, t.ex. att företaget
+              ska ha ett huvudkontor i Sverige, att det ska finnas kvalificerade
+              personer i företagets ledning, ett minsta kapital i garantifonden
+              och en verksamhetsplan.
+            </p>
+            <p xml:id="IDALP2GG" rend="r4">
+              Tillsynen över återförsäkringsföretag
+            </p>
+            <p>
+              Huvudregeln enligt direktivet är att hemmedlemsstaten är ensam
+              ansvarig för den finansiella tillsynen över återförsäkringsföretag.
+              Det framgår av propositionen att Finansinspektionen kommer att
+              utöva denna tillsyn över svenska återförsäkringsföretag. Den nuvarande
+              lagstiftningen tillgodoser enligt regeringens bedömning direktivets
+              krav i denna del. Det införs ett specifikt undantag, som avser
+              fall när ett svenskt återförsäkringsbolag meddelar försäkring
+              till ett försäkringsföretag i ett annat EES-land. Även direktivets
+              regler om samråd mellan olika länders tillsynsmyndigheter, tystnadsplikt
+              och informationsutbyte samt skyldighet för revisorer att rapportera
+              uppgifter till tillsynsmyndigheten täcks enligt propositionen
+              av de befintliga svenska reglerna.
+            </p>
+            <p>
+              Dessutom innehåller direktivet regler om tillsyn över återförsäkringsbolag
+              i finansiella svårigheter, om tillsynsmyndighetens befogenhet
+              att kräva att en finansiell saneringsplan upprättas i vissa fall
+              och om återkallelse av ett återförsäkringsbolags auktorisation.
+              Enligt regeringens bedömning finns motsvarande bestämmelser i
+              befintlig svensk lagstiftning.
+            </p>
+            <p xml:id="IDAUP2GG" rend="r4">
+              Regler om avsättningar, utjämningsreserv och skuldtäckning
+            </p>
+            <p>
+              Direktivet innehåller bestämmelser som styr hur återförsäkringsbolagen
+              ska beräkna sina risker och tillgångar så att det finns tillräckligt
+              stora tillgångar avsatta för att täcka riskerna i verksamheten.
+              I propositionen konstaterar regeringen att de svenska reglerna
+              om beräkning av de försäkringstekniska avsättningarna uppfyller
+              direktivets krav. Samtidigt föreslår regeringen en ändring i försäkringsrörelselagen
+              så att återförsäkring av livförsäkring som huvudregel ska behandlas
+              enligt reglerna för skadeförsäkring och inte, som fallet är i
+              dag, enligt reglerna för livförsäkring.
+            </p>
+            <p>
+              För kreditåterförsäkringar gäller, enligt direktivet, att det
+              försäkringsbolag som meddelar försäkringen ska upprätta en särskild
+              utjämningsreserv som inte behandlas som en avsättning. Propositionen
+              föreslår att motsvarande bestämmelser tas in i försäkringsrörelselagen.
+            </p>
+            <p>
+              De bestämmelser om skuldtäckning som redan finns i försäkringsrörelselagen
+              föreslås utvidgas så att de gäller för all försäkrings- och återförsäkringsrörelse.
+              Det föreslås också att närmare bestämmelser om värderingen av
+              tillgångar vid skuldtäckning ska meddelas genom föreskrifter.
+              Samtidigt föreslås särskilda regler om högsta tillåtna innehav
+              av vissa värdepapper (säkerställda obligationer) som utfärdats
+              av ett och samma företag.
+            </p>
+            <p xml:id="IDADI3GG" rend="r4">
+              Särskilda placeringsregler i återförsäkringsbolag
+            </p>
+            <p>
+              Regeringen föreslår att det införs särskilda placeringsregler
+              för återförsäkringsbolag, som styr hur bolagen får investera de
+              medel som ska täcka avsättningarna och eventuell utjämningsreserv
+              (dvs. i praktiken de risker som bolaget har i sin försäkringsverksamhet).
+              Reglerna följer bestämmelser i direktivet och är av kvalitativ
+              art. De innehåller alltså inte siffersatta mål eller begränsningar
+              för hur placeringarna ska gå till eller vilka slags värdepapper
+              o.d. som bolagen får investera i. I stället anger reglerna att
+              placeringarna ska göras aktsamt, diversifierat och med hänsyn
+              till återförsäkringsföretagets verksamhet. Det föreslås dock några
+              mer specifika, detaljerade regler om placeringar i vissa finansiella
+              instrument, och återförsäkringsbolagen blir i likhet med övriga
+              försäkringsbolag skyldiga att föra register över vilka tillgångar
+              som används för skuldtäckning.
+            </p>
+            <p xml:id="IDAJI3GG" rend="r4">
+              Kapitalbas, solvensmarginal och garantikapital
+            </p>
+            <p>
+              Direktivet innehåller bestämmelser om att alla återförsäkringsbolag
+              ska ha en tillräcklig kapitalbas dvs. tillgångar som kan användas
+              för att infria bolagets åtaganden. I direktivet finns även närmare
+              regler om vilka slags tillgångar som får tas med och hur de ska
+              värderas när värdet av ett bolags kapitalbas ska beräknas. I propositionen
+              konstaterar regeringen att återförsäkringsbolag redan omfattas
+              av försäkringsrörelselagens regler om kapitalbasen, och föreslår
+              några kompletterande ändringar i dessa regler för att fullt ut
+              genomföra direktivets bestämmelser.
+            </p>
+            <p>
+              Direktivets bestämmelser om solvensmarginal motsvaras, enligt
+              regeringens bedömning, till stor del av redan befintliga bestämmelser
+              i försäkringsrörelselagen. För att de nuvarande reglerna ska anpassas
+              och göras tillämpliga på återförsäkring föreslås dock vissa kompletteringar.
+            </p>
+            <p>
+              I direktivet finns också regler om återförsäkringsbolags garantikapital,
+              dvs. det minsta kapital som måste finnas i ett bolag. Regeringen
+              föreslår att dessa regler genomförs genom ändringar i försäkringsrörelselagen
+              som innebär att den minsta tillåtna kapitalbasen för återförsäkringsbolag
+              höjs från 2 till 3 miljoner euro.
+            </p>
+            <p xml:id="IDAVI3GG" rend="r4">
+              Utländska återförsäkringsbolags verksamhet i Sverige
+            </p>
+            <p>
+              Direktivets regler innebär att enskilda medlemsländer inte kan
+              uppställa restriktioner för återförsäkringsbolag i andra EES-länder
+              som vill etablera sig eller bedriva gränsöverskridande verksamhet
+              i landet. Dessutom föreskriver direktivet att återförsäkringsföretag
+              från tredjeland (dvs. länder utanför EES) inte får behandlas gynnsammare
+              än återförsäkringsföretag från EES-länder. Regeringen föreslår
+              vissa ändringar i nuvarande lagstiftning om utländska försäkringsgivares
+              verksamhet för att ta in bestämmelser om återförsäkringsföretag
+              i lagen och genomföra direktivets bestämmelser i Sverige. Bland
+              annat föreslås att det införs ett krav på tillstånd (koncession)
+              för att ett återförsäkringsföretag från tredjeland ska få driva
+              rörelse här i landet. Dessutom föreslås, med utgångspunkt i bestämmelser
+              i direktivet, att reglerna om företagsgrupper i försäkringsrörelselagen
+              ändras så att utländska återförsäkringsföretag från EES-länder
+              behandlas på samma sätt som motsvarande direktförsäkringsföretag.
+            </p>
+            <p xml:id="IDA1I3GG" rend="r4">
+              Ekonomiska konsekvenser
+            </p>
+            <p>
+              För Finansinspektionens del anser regeringen att propositionens
+              förslag innebär en viss förenkling av Finansinspektionens framtida
+              tillsyn, eftersom regelverket kommer att vara i stort sett detsamma
+              för svenska försäkrings- och återförsäkringsbolag. En ny uppgift
+              för Finansinspektionen blir dock att hantera ansökningar om koncession
+              från bolag i icke-EES-länder som vill verka i Sverige. Eftersom
+              antalet sådana aktörer är begränsat, anser regeringen att detta
+              inte bör innebära något större merarbete för Finansinspektionen.
+            </p>
+            <p>
+              Regeringen anför vidare att det, för återförsäkringsbolagens
+              och de övriga försäkringsbolagens del, inte kommer att göra någon
+              nämnvärd skillnad att de framöver kommer att tillämpa i huvudsak
+              samma regler. Däremot menar regeringen att en positiv effekt av
+              de harmoniserade rörelsereglerna inom EES-området är att svenska
+              återförsäkringsbolag fortsättningsvis kan driva verksamhet i hela
+              EES-området med stöd i sitt svenska tillstånd och därigenom få
+              tillgång till en större marknad. På samma gång kan en ökad etablering
+              av återförsäkringsföretag från andra EES-länder i Sverige innebära
+              en ökad konkurrens på den svenska marknaden.
+            </p>
+            <p xml:id="IDAEJ3GG" rend="r3">
+              Lagrådets yttrande
+            </p>
+            <p>
+              I sitt yttrande över lagförslagen anför Lagrådet att försäkringsrörelselagen
+              innehåller ovanligt många bemyndiganden till regeringen att utfärda
+              föreskrifter. Det stora antalet bemyndiganden, och det faktum
+              att de är utspridda över hela lagen, gör enligt Lagrådets mening
+              att det blir svårt att få ett grepp om hur mycket normgivningsmakt
+              som överlåts på regeringen. Bemyndigandena bör därför samlas på
+              ett ställe i lagen. Lagrådet gör samma observation när det gäller
+              de bestämmelser som ger Finansinspektionen rätt att meddela beslut
+              och förordar att det på endast ett eller ett fåtal ställen i lagarna
+              anges att Finansinspektionen är beslutsmyndighet. I övrigt framställer
+              Lagrådet ett antal förslag på ändringar av lagteknisk karaktär,
+              som har beaktats vid utformningen av lagförslagen i propositionen.
+            </p>
+            <p xml:id="IDAKJ3GG" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet noterar inledningsvis att lagändringarna föreslås träda
+              i kraft den 1 april 2008. Eftersom direktivets bestämmelser skulle
+              ha varit genomförda i EU:s medlemsländer senast den 10 december
+              2007, innebär detta en försening på omkring tre och en halv månad
+              i förhållande till direktivets krav. Utskottet har i tidigare
+              lagstiftningsärenden uppmärksammat det faktum att lagförslag som
+              syftar till genomförande av EG-direktiv lämnas till riksdagen
+              så sent att de inte hinner genomföras i tid och pekat på att Lagrådet
+              framfört förslag på åtgärder för att beredningen ska kunna slutföras
+              snabbare (bet. 2007/08:FiU7 s. 20). Utskottet vill än en gång
+              framhålla vikten av att beredningen sker på ett sådant sätt att
+              EG-direktiven i möjligaste mån kan genomföras i Sverige inom de
+              i direktiven angivna tidsfristerna.
+            </p>
+            <p>
+              Vidare konstaterar utskottet att Lagrådet i detta ärende har
+              haft synpunkter på det stora antalet bemyndiganden i försäkringsrörelselagen
+              och anfört att dessa bemyndiganden, liksom bestämmelser om Finansinspektionens
+              rätt att meddela beslut, bör samlas på ett ställe i lagen. I detta
+              sammanhang noterar utskottet att regeringen i propositionen uttrycker
+              principiellt stöd för synpunkten att bemyndigandena i försäkringsrörelselagen
+              bör hållas samlade. Dessutom uttalar regeringen att det bör övervägas
+              huruvida även bestämmelserna om att Finansinspektionen är beslutsmyndighet
+              ska samlas på ett eller ett fåtal ställen i lagen. Regeringen
+              anför dock vidare att dessa frågor omfattas av en pågående översyn
+              av försäkringsrörelselagen med utgångspunkt i Försäkringsföretagsutredningens
+              förslag. Eftersom ett samlat förslag till en ny, moderniserad
+              lag beräknas kunna presenteras inom kort, finns det enligt regeringen
+              inte anledning att hantera dessa författningstekniska frågor inom
+              ramen för den nu aktuella propositionen.
+            </p>
+            <p>
+              Utskottet ansluter sig till regeringens bedömning att de synpunkter
+              som Lagrådet uttryckt i detta ärende främst är av författningsteknisk
+              karaktär och att de därför bör behandlas inom ramen för den pågående
+              översynen av försäkringsrörelselagen. Utskottet förutsätter att
+              regeringen i detta sammanhang beaktar Lagrådets synpunkter vid
+              den fortsatta beredningen.
+            </p>
+            <p>
+              Med det sagda tillstyrker utskottet lagförslagen i propositionen.
+            </p>
+            <p xml:id="IDAZJ3GG" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDA2J3GG" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDA5J3GG" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2007/08:40 Återförsäkring:
+            </p>
+            <p>
+              Riksdagen antar regeringens förslag till
+            </p>
+            <p>
+              1. lag om ändring i försäkringsrörelselagen (1982:713) och
+            </p>
+            <p>
+              2. lag om ändring i lagen (1998:293) om utländska försäkringsgivares
+              och tjänstepensionsinstituts verksamhet i Sverige.
+            </p>
+            <p xml:id="IDA0K3GG" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDA3K3GG" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{38B54959-1A09-4800-B49C-DCD5850C066F}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{BABE658C-DB75-41DD-BE05-07A188486C2C}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{4DDFD34C-92E1-4DC2-B020-2646A022624B}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{1ABBE2EE-3439-4603-8E7C-0759779A7935}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{20CC3D7B-FCB1-4202-AD3A-DC7CAF167486}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{775D3FE1-B422-424A-92B5-6632E9498277}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{C1B73BF1-3E13-4AED-AD04-EE6041393A66}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{5492B588-68E2-47BB-8365-39FB861AAAD4}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{E75BC24D-9655-48A2-985A-CCA2792EC2E3}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{8F8DEEF4-46B4-48F5-88B5-B94BEE8FE91D}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{8E69F954-21AA-4F5E-9059-0AC7D8E64E4C}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{08102B72-B85D-41B0-A030-E248BA0019D9}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{09F9ED8F-AEB3-4B8C-8464-AD790FEA0E39}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{45358108-3908-4BAE-B767-14E943D032D7}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{CEBECA1A-51F2-47ED-A907-6E3C97436D86}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{26D99AED-1B36-4360-8024-26D07B41F19D}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{B1DD6D1D-2E0F-4FC3-89C5-6C3690B351F0}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{F2DA0791-8AAA-4173-9A6F-24356ABC0422}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{1DD453AB-4797-48F6-A1BF-569A7689E7F7}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{12049D27-5315-40BB-B863-B90A39894E9F}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{6682D234-998D-4FCA-8BAF-3E74876D1E0D}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{DCCBC100-790D-45D5-B03C-3293786AF103}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{8EC1D99B-63BC-40E1-9B51-8AE7CF17FFB6}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{2EB8C9FC-0EF0-4BA0-8F23-4E879745BE38}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{1AF6DE17-A907-440B-AB4C-009BFEFF6719}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{4DAFCA15-976B-44C8-8666-148ADF6879B3}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{887CBF5E-601F-4C96-BEB5-4349CEB642C1}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{FA952362-2FFF-48C7-AB11-A8803D2D2CF8}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{77BE9042-323D-4558-A76F-FA90A3722056}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{478450E0-7469-4BFB-8AD1-D08D2681A951}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{A36EA241-17CC-474B-8354-DB7DC5F54DA1}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{975D45D4-57AA-4F13-AA14-4615FB6AE70D}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{A8B42DCB-CA6A-47C2-B90A-1EE391B4BD54}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{BC3AD34C-87B1-4604-B67A-AA5A79CC1FE8}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{145644C7-B965-4E87-BA9C-32CF906F2BF1}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{BAC81131-F173-4744-B85A-7C4D56FE3D9C}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{9C9C6647-9D67-4735-83BA-57BE9DE15128}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{BBF17FF5-CA6C-45B7-A4A8-B128907881D9}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{961100A4-1E42-4773-911D-81B465D029BC}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{BEA85A7A-CE6F-4E13-BE6B-4D011DD190A9}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{C7716CB7-7F3E-4A7C-A3EA-880AC05DBD36}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{4D57CC1A-F025-4B0E-844C-02903E9B43C0}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{B0580A18-9808-4381-BC30-B110CB7F0DC4}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

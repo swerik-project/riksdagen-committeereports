@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200506_SoU_0029">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sade ja till regeringens förslag att införliva EU:s bloddirektiv i svensk lag. Bloddirektivet handlar om fastställande av kvalitets- och säkerhetsnormer för insamling, kontroll, framställning, förvaring och distribution av humanblod och blodkomponenter. Den nya lagen börjar gälla den 1 juli 2006.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">EU:s bloddirektiv (SoU29)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GT09131</idno>
+              <title>2006-05-30</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">131</biblScope>
+              <note type="display-reference">2006-05-30</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GT09130</idno>
+              <title>2006-05-29</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">130</biblScope>
+              <note type="display-reference">2006-05-29</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GT0K304</idno>
+              <title>2005/06:304</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">304</biblScope>
+              <note type="display-reference">2005/06:304</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2006:496</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GT03141</idno>
+              <title>Genomförande av EG-direktivet om kvalitet och säkerhet hos blod och blodkomponenter</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">141</biblScope>
+              <note type="display-reference">proposition 2005/06:141 Genomförande av EG-direktivet om kvalitet och säkerhet hos blod och blodkomponenter</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2006-05-23">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2006-05-23">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2006-05-15">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2006-05-15">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2006-05-10">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-05-09">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-05-09">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-04-25">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-04-25">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2006-05-30">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2006-05-30">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2006-05-30">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2006-05-30">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-05-29">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-05-29">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-05-26">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-05-26">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-05-24">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-05-24">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Socialutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2005/06:SoU29
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Genomförande av EG-direktivet om kvalitet och säkerhet hos blod
+                  och blodkomponenter
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDABZ2MC" rend="AvsnittsRubrik">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet
+          </p>
+          <p>
+            Den nya lagen föreslås träda i kraft den 1 juli 2006.
+          </p>
+          <p>
+            Ingen motion har väckts med anledning av propositionen, och utskottet
+            föreslår att riksdagen antar lagförslaget.
+          </p>
+          <p xml:id="IDARZ2MC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Lag om blodsäkerhet
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till lag om blodsäkerhet.
+                  Därmed bifaller riksdagen proposition 2005/06:141.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 9 maj 2006
+          </p>
+          <p>
+            På socialutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Ingrid Burman
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Ingrid Burman (v),
+            Chatrine Pålsson (kd), Kristina Zakrisson (s), Cristina Husmark
+            Pehrsson (m), Conny Öhman (s), Lars U Granberg (s), Anne Marie
+            Brodén (m), Marina Pettersson (s), Christer Engelhardt (s), Jan
+            Lindholm (mp), Martin Nilsson (s), Jan Emanuel Johansson (s),
+            Maud Ekendahl (m), Marita Aronson (fp), Gunilla Wahlén (v), Gabriel
+            Romanus (fp) och Lars-Ivar Ericson (c).
+          </p>
+          <p xml:id="IDA022MC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDA422MC" rend="orubrik1">
+            Genomförande av EG-direktivet om kvalitet och säkerhet hos blod
+            och blodkomponenter
+          </p>
+          <p xml:id="IDAC32MC" rend="rubrik2">
+            Lag om blodsäkerhet
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAJ32MC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <p rend="textiruta_">
+              Riksdagen bör anta regeringens lagförslag.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAS32MC" rend="orubrik3">
+              Propositionen
+            </p>
+            <p>
+              I propositionen föreslås en lag om blodsäkerhet. Propositionen
+              innehåller förslag som syftar till att genomföra Europaparlamentets
+              och rådets direktiv 2002/98/EG av den 27 januari 2003 om fastställande
+              av kvalitets- och säkerhetsnormer för insamling, kontroll, framställning,
+              förvaring och distribution av humanblod och blodkomponenter och
+              om ändring av direktiv 2001/83/EG.
+            </p>
+            <p>
+              Den nya lagen följer i huvudsak direktivets text och disposition.
+              I propositionen föreslås att den nya lagen skall vara tillämplig
+              på insamling och kontroll av blod och blodkomponenter avsedda
+              att användas vid transfusion eller läkemedelstillverkning, samt
+              på framställning (uppdelning av blod i olika blodkomponenter),
+              förvaring och distribution av blod och blodkomponenter när de
+              är avsedda att användas vid transfusion. Lagen skall inte vara
+              tillämplig vid hantering av enbart blodstamceller efter att dessa
+              har utvunnits ur blodet och inte heller vid framställning, förvaring
+              och distribution av blod och blodkomponenter när de är avsedda
+              att användas som råvara vid läkemedelstillverkning.
+            </p>
+            <p>
+              I propositionen föreslås att den eller de myndigheter som regeringen
+              bestämmer skall besluta om tillstånd till och villkor för verksamhet
+              som rör insamling, kontroll, framställning, förvaring och distribution
+              av blod och blodkomponenter. Den eller de ansvariga myndigheterna
+              skall regelbundet inspektera och kontrollera den verksamhet som
+              bedrivs med stöd av den nya lagen. Vidare föreslås att blodcentraler
+              skall föra ett register med uppgifter om den verksamhet som bedrivs
+              vid blodcentralen, blodgivare och gjorda kontroller av blod och
+              blodkomponenter. Det föreslås också att Socialstyrelsen skall
+              föra ett automatiserat register över dem som har tillstånd att
+              bedriva verksamhet som rör insamling, kontroll, framställning,
+              förvaring och distribution av blod och blodkomponenter. Vidare
+              föreslås att den som ansöker om tillstånd att bedriva blodverksamhet
+              skall betala ansökningsavgift. Den som har tillstånd att bedriva
+              blodverksamhet skall även betala årsavgift. Den nya lagen innehåller
+              bestämmelser om straffansvar. Bestämmelserna i lagen föreslås
+              vara tillämpliga på befintliga blodcentraler omedelbart vid lagens
+              ikraftträdande. Verksamheten skall emellertid få fortsätta i avvaktan
+              på tillståndsmyndighetens beslut. Lagen föreslås träda i kraft
+              den 1 juli 2006.
+            </p>
+            <p xml:id="IDA532MC" rend="orubrik3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet vill inledningsvis påpeka att propositionen bygger
+              på en överenskommelse mellan den socialdemokratiska regeringen
+              och Vänsterpartiet.
+            </p>
+            <p>
+              Lagförslaget innebär att Socialstyrelsen och Läkemedelsverket
+              får utökade ansvarsområden. När det gäller lagförslagets ekonomiska
+              konsekvenser vill utskottet hänvisa till förslaget till tilläggsbudget
+              för 2006 (prop. 2005/06:100 s. 173). Där anförs att de utökade
+              ansvarsuppgifterna inte bedöms rymmas inom de medel som anvisats
+              för myndigheterna. För detta ändamål behöver Socialstyrelsen 1
+              800 000 kr, varav Läkemedelsverket skall rekvirera 900 000 kr.
+              Sammanfattningsvis föreslås Socialstyrelsens anslag ökat med 5
+              000 000 kr.
+            </p>
+            <p>
+              Utskottet kan inte komma till någon annan slutsats än att det
+              i propositionen framlagda lagförslaget är ändamålsenligt i syfte
+              att skydda människors hälsa när blod och blodkomponenter från
+              människor hanteras för att användas vid transfusion eller läkemedelstillverkning.
+              Utskottet föreslår att riksdagen antar lagförslaget.
+            </p>
+            <p rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAM42MC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAP42MC" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2005/06:141 Genomförande av EG-direktivet om kvalitet
+              och säkerhet hos blod och blodkomponenter:
+            </p>
+            <p type="html-endastettyrkande">
+              Regeringen föreslår att riksdagen antar regeringens förslag till
+              lag om blodsäkerhet.
+            </p>
+            <p rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDA242MC" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{379C1891-6DCA-4B33-AE68-8ADEB6970CC9}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{940EADC5-2DAA-4F20-B5DD-CF77985B6842}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{990B357B-8A7E-4436-9ED8-33BA46A9C1ED}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{95A3CF44-6C5B-46E2-BD4E-706E8843E697}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{333D91DD-EBEB-4E39-B971-6A9BD6741B21}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{99E20CB4-D6C0-4FB0-AE64-90CF6F7F7F97}.tif"/>
+            </p>
+            <p rend="Bilaga">
+              Bilaga 3
+            </p>
+            <p xml:id="IDATI3MC" rend="BilageRubrik">
+              Konventionstexter
+            </p>
+            <p xml:id="IDAWI3MC" rend="rubrik3">
+              Prop. 141 s. 82-92
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{EF1B5DF0-7BB2-4D28-8597-276245E90B47}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{0F216A21-0FAF-4AD0-B227-4D0500E24AB7}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{7CD31F52-B09C-4DAE-A688-310EFFFCB58B}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{520D9963-2158-410C-BE8C-9C41D39B3F09}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{77050AE7-F2FA-4993-AC57-74A38D5C0EAB}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{2D5A72F2-A33D-451F-8D59-A0DEEC187689}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{837A3AB8-7F26-4BEC-84AC-117693954B6F}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{A9759EB6-36B8-478B-8E99-46D9C163EED7}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{B8D3BF75-8337-464C-B2B3-ED888F325368}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{BB49C655-501B-4DF1-AF0D-279BE9B15875}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{DF07CFE3-8582-4C6E-B66E-DD7004F0A785}.tif"/>
+            </p>
+            <p rend="Bilaga">
+              Bilaga 4
+            </p>
+            <p xml:id="IDASL3MC" rend="BilageRubrik">
+              Konventionstexter
+            </p>
+            <p xml:id="IDAVL3MC" rend="rubrik3">
+              Prop. 141 s. 93-107
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{398022F2-9387-497B-ABE2-0490B17D43FB}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{C2B6E178-2199-41BD-893C-4353F9E903AC}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{F0B9FE8F-E8F1-42B7-9919-B761A917A12F}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{90A8DB6C-D007-44DB-A9C6-8DD69237C047}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{9D662C5D-DE4F-4632-BE65-592FF254802C}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{E77A3C6C-939C-4CB4-B1AD-9A9B775E4A68}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{A34DE8C0-7AC9-4F5F-9C72-60CD6C9B08ED}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{177DD27B-3789-4D61-87FE-83336117F730}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{FFA5C2F3-8315-457F-8939-89F815B0179A}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{E6D14EA9-F81E-4009-BD6D-1FFE52019A88}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{8FFC99BF-5F9B-45C8-81F2-FD6FC61652B5}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{63FB0630-9EBE-46D0-AB37-FBCE6F78FD58}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{E0F3110E-219A-4701-A239-71D12B1D613F}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{A688EB16-D4EA-449A-AA74-C381D4451ED5}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{C7AE0DD5-FD6E-427A-B4C8-26554F8CE185}.tif"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

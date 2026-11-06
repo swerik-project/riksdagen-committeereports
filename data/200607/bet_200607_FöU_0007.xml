@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200607_FöU_0007">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Den avgift som kärnkraftsföretagen betalar för avvecklingen av viss verksamhet vid Studsvik höjs med 0,1 öre per kilowattimme el från den 1 juli 2007. Avgiften finansierar hanteringen av visst radioaktivt avfall och höjs för att tillräckliga medel ska tillföras Kärnavfallsfonden under den återstående tiden som avgiften ska betalas.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Studsviksavgiften höjs (FöU7)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GU09112</idno>
+              <title>2007-05-24</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">112</biblScope>
+              <note type="display-reference">2007-05-24</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GU09111</idno>
+              <title>2007-05-23</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">111</biblScope>
+              <note type="display-reference">2007-05-23</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GU0K168</idno>
+              <title>2006/07:168</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">168</biblScope>
+              <note type="display-reference">2006/07:168</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1988:200</idno>
+              <note type="display-reference">2007:357</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GU0393</idno>
+              <title>Justering av Studsviksavgiften m.m.</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">93</biblScope>
+              <note type="display-reference">proposition 2006/07:93 Justering av Studsviksavgiften m.m.</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="B1" subtype="avgorande" n="1" when="2007-05-21">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2007-05-21">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-05-22">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-05-22">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-05-23">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-05-23">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2007-05-24">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2007-05-24">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2007-05-24">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-04-17">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-04-17">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-04-24">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-04-24">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2007-04-24">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2007-04-25">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2007-04-25">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2007-05-09">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="DEL" subtype="beredning" n="90" when="2007-05-09">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Försvarsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2006/07:FöU7
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Justering av Studsviksavgiften m.m.
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDAOWX1C" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I detta betänkande behandlar utskottet proposition 2006/07:93
+            Justering av Studsviksavgiften m.m.
+          </p>
+          <p>
+            I propositionen föreslås att den avgift som kärnkraftsföretagen
+            betalar för avvecklingen av viss verksamhet vid Studsvik höjs
+            med 0,1 öre per kilowattimme el fr.o.m. den 1 juli 2007.
+          </p>
+          <p>
+            Beträffande strålskyddslagen (1988:220) föreslås i propositionen
+            att möjligheten att meddela föreskrifter om arbeten som medför
+            särskild risk från strålskyddssynpunkt även ska omfatta viss rapporteringsskyldighet
+            och särskilda villkor för arbetets planering. Vidare föreslås
+            att regeringen ska få möjlighet att delegera till kommuner att
+            meddela föreskrifter om avgifter för sådan verksamhet som enligt
+            lagen utförs av kommunala myndigheter. Ändringarna föreslås träda
+            i kraft den 1 juli 2007.
+          </p>
+          <p>
+            Inga följdmotioner har väckts i ärendet.
+          </p>
+          <p>
+            Utskottet anser, i likhet med regeringen, att den avgift som
+            betalas och som finansierar hanteringen av visst radioaktivt avfall
+            bör anpassas så att tillräckliga medel tillförs Kärnavfallsfonden
+            under den återstående tiden som avgiften ska betalas.
+          </p>
+          <p>
+            Utskottet finner vidare ingen anledning att ifrågasätta de förslag
+            till lag om ändring i strålskyddslagen som föreslås i propositionen
+            och som behandlar säkerhet för vissa arbetstagare samt kommunala
+            avgifter. Utskottet föreslår således att riksdagen bifaller propositionen.
+          </p>
+          <p xml:id="IDA1WX1C" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Studsviksavgiften och rätten att meddela föreskrifter
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  1. lag om ändring i lagen (1988:1597) om finansiering av hanteringen
+                  av visst radioaktivt avfall m.m.,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2. lag om ändring i strålskyddslagen (1988:220).
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen proposition 2006/07:93.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 24 april 2007
+          </p>
+          <p>
+            På försvarsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Ulrica Messing
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Ulrica Messing (s),
+            Karin Enström (m), Peter Jonsson (s), Nils Oskar Nilsson (m),
+            Staffan Danielsson (c), Michael Hagberg (s), Allan Widman (fp),
+            Mats Berglind (s), Isabella Jernbeck (m), Else-Marie Lindgren
+            (kd), Gunilla Wahlén (v), Inger Jarl Beck (s), Rosita Runegrund
+            (kd), Peter Rådberg (mp), Patrik Forslund (m), Maria Plass (m)
+            och Peter Jeppsson (s).
+          </p>
+          <p xml:id="IDAFTX1C" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDANTX1C" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Statens kärnkraftinspektion har enligt 5 § förordningen (1988:1598)
+            om finansiering av hanteringen av visst radioaktivt avfall m.m.
+            anmält att avgiftsbeloppet enligt 3 § lagen (1988:1597) om finansiering
+            av hanteringen av visst radioaktivt avfall m.m. (den s.k. Studsvikslagen)
+            behöver ändras. Förslaget har remissbehandlats. Remissvaren och
+            en sammanställning av dessa finns tillgängliga i Miljödepartementet
+            (dnr M2006/3647/Mk).
+          </p>
+          <p>
+            Förslaget till ändring i 17 § strålskyddslagen (1988:220) har
+            tagits fram i samarbete med Statens strålskyddsinstitut. Svensk
+            Pilotförening, Tjänstemannaförbundet HTF, Transportgruppen, Scandinavian
+            Airlines och Försvarsmakten har haft möjlighet att yttra sig över
+            förslaget.
+          </p>
+          <p>
+            Förslaget till ändring i 43 § strålskyddslagen har beretts i
+            samband med tillkomsten av propositionen Finansieringen av kärnavfallets
+            slutförvaring (prop. 2005/06:183).
+          </p>
+          <p>
+            Inga följdmotioner har väckts i ärendet.
+          </p>
+          <p xml:id="IDA2TX1C" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            I propositionen föreslås att den avgift som kärnkraftsföretagen
+            betalar för avvecklingen av viss verksamhet vid Studsvik höjs
+            med 0,1 öre per kilowattimme el fr.o.m. den 1 juli 2007.
+          </p>
+          <p>
+            Beträffande strålskyddslagen (1988:220) föreslås i propositionen
+            att möjligheten att meddela föreskrifter om arbeten som medför
+            särskild risk från strålskyddssynpunkt även ska omfatta viss rapporteringsskyldighet
+            och särskilda villkor för arbetets planering. Vidare föreslås
+            att regeringen ska få möjlighet att delegera till kommuner att
+            meddela föreskrifter om avgifter för sådan verksamhet som enligt
+            lagen utförs av kommunala myndigheter. Ändringarna föreslås träda
+            i kraft den 1 juli 2007.
+          </p>
+          <p xml:id="IDAFUX1C" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAKUX1C" rend="rubrik2">
+            Studsviksavgiften och rätten att meddela föreskrifter
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAOUX1C" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Utskottet anser, i likhet med regeringen, att den avgift som
+                betalas och som finansierar hanteringen av visst radioaktivt avfall
+                bör anpassas så att tillräckliga medel tillförs Kärnavfallsfonden
+                under den återstående tiden som avgiften ska betalas.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Utskottet finner vidare ingen anledning att ifrågasätta de förslag
+                till lag om ändring i strålskyddslagen (1988:220) som föreslås
+                i propositionen och som behandlar säkerhet för vissa arbetstagare
+                samt kommunala avgifter.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAMTX1C" rend="r3">
+              Regeringens förslag
+            </p>
+            <p>
+              Regeringen föreslår att den avgift som ska betalas enligt 3 §
+              lagen (1988:1597) om finansiering av hanteringen av visst radioaktivt
+              avfall m.m. (Studsvikslagen) höjs till 0,3 öre för varje levererad
+              kilowattimme elström fr.o.m. den 1 juli 2007.
+            </p>
+            <p>
+              Regeringen föreslår vidare att bemyndigandet i 17 § strålskyddslagen
+              (1988:220) för regeringen eller den myndighet som regeringen bestämmer
+              gäller arbeten som medför särskild risk från strålskyddssynpunkt
+              för vissa arbetstagare i alla verksamheter och omfattar föreskrifter
+              om skyldighet för verksamhetsutövaren att rapportera uppgifter
+              som har betydelse för bedömningen av arbetets strålningsrisker
+              och om särskilda villkor för arbetets planering.
+            </p>
+            <p>
+              I propositionen föreslås slutligen att regeringen får överlåta
+              till kommuner att meddela föreskrifter om avgifter för en kommunal
+              myndighets verksamhet enligt strålskyddslagen (1988:220).
+            </p>
+            <p xml:id="IDAMVX1C" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Regeringen har i propositionen föreslagit att den
+              <seg rend="grad2">
+                avgift som ska betalas enligt 3 § lagen (1988:1597) om finansiering
+                av hanteringen av visst radioaktivt avfall m.m. (Studsvikslagen)
+                höjs från 0,2 till 0,3 öre
+              </seg>
+              för varje levererad kilowattimme elström.
+            </p>
+            <p>
+              Tillståndshavarna för de anläggningar som omfattas av 1 § Studsvikslagen
+              är skyldiga att för sina respektive verksamheter upprätta en beräkning
+              över kostnaderna för den avvecklingsverksamhet som anges i paragrafen.
+              I de beräknade kostnaderna ska ingå dels en uppskattning av kostnaderna
+              för samtliga de åtgärder som kan anses bli behövliga, dels kostnaderna
+              för de åtgärder som avses bli vidtagna inom en tidsrymd av minst
+              tre år. Kostnadsberäkningen ska ses över årligen samt varje år
+              lämnas till Kärnkraftinspektionen, som kontrollerar om avgiften
+              ligger på rätt nivå.
+            </p>
+            <p>
+              När Studsvikslagen började tillämpas uppgick avgiften till 0,1
+              öre per levererad kilowattimme elström. Riksdagen beslutade 1993,
+              efter förslag från regeringen och Kärnkraftinspektionen, att höja
+              avgiften till 0,15 öre per kilowattimme fr.o.m. 1994. I proposition
+              2005/06:183 föreslog regeringen en höjning av avgiften till 0,2
+              öre per kilowattimme fr.o.m. 2007, vilket antogs av riksdagen
+              (bet. 2005/06:MJU24, rskr. 2005/06:287).
+            </p>
+            <p>
+              Kärnkraftinspektionen har, med utgångspunkt från en granskning
+              av kostnadsberäkningarna och en prognos för energiproduktionen
+              t.o.m. 2009, föreslagit en ytterligare höjning av avgiften med
+              0,1 öre per kilowattimme till 0,3 öre per kilowattimme fr.o.m.
+              2007. Bakgrunden till att avgiftsförslaget har justerats i förhållande
+              till det förslag som låg till grund för riksdagens beslut 2006
+              är dels att höjningen bara får genomslag under tre år, jämfört
+              med de fem år som Kärnkraftinspektionen förutsatte vid den tidigare
+              beräkningen, dels att Kärnavfallsfondens styrelse har justerat
+              sin avkastningsprognos och dels att de förväntade kostnaderna
+              har ökat ytterligare. Dessutom har Kärnkraftinspektionen identifierat
+              ett antal osäkerheter i beräkningarna som kan innebära högre kostnader.
+            </p>
+            <p>
+              Riksdagen har beslutat att Studsvikslagen ska upphöra att gälla
+              vid utgången av 2009.
+            </p>
+            <p>
+              Utskottet anser dock i likhet med regeringen att det är viktigt
+              att avgiften anpassas så att tillräckliga medel för de åtgärder
+              som avses i 1 § tillförs Kärnavfallsfonden under den återstående
+              tid som avgiften ska betalas. Avgiften bör inte vara för hög,
+              eftersom eventuella överskjutande medel inte återbetalas.
+            </p>
+            <p>
+              Utskottet har inget att invända mot regeringens bedömning att
+              avgiften behöver justeras uppåt för att fonden inte ska bli underfinansierad.
+            </p>
+            <p>
+              Utskottet är medvetet om att den höjda avgiften kommer att innebära
+              ökade kostnader för de betalningsskyldiga kärnkraftsproducenterna.
+              Betalningsansvaret för dem som har tillstånd till de bidragsberättigade
+              verksamheterna minskar i motsvarande mån. Även risken för att
+              staten, såsom sistahandsansvarig för avvecklingsåtgärderna, ska
+              drabbas av kostnader minskar.
+            </p>
+            <p>
+              I 17 § strålskyddslagen (1988:220) föreslås en ändring som innebär
+              en
+              <seg rend="grad2">
+                förbättring av säkerheten för vissa arbetstagare
+              </seg>
+              . Strålskyddsinstitutet ges, efter bemyndigande i förordning,
+              möjlighet att ta in uppgifter om stråldoser till flygande personal
+              i verksamhet som inte utgör verksamhet med strålning. Strålskyddsinstitutet
+              kommer även att utöva tillsyn på området.
+            </p>
+            <p>
+              Bemyndigandet i 17 § strålskyddslagen i dess nuvarande lydelse
+              omfattar enligt lagens förarbeten endast arbete i sådan verksamhet
+              med strålning som definieras i 5 § samma lag (jfr prop. 1987/88:88
+              s. 78). Den begränsningen framgår dock inte av lagtexten. Eftersom
+              flygverksamhet inte är en verksamhet med strålning, behöver paragrafen
+              förtydligas så att det framgår att bestämmelsen gäller arbete
+              som medför särskild risk från strålskyddssynpunkt även i verksamheter
+              som inte betraktas som verksamheter med strålning. Den föreslagna
+              formuleringen omfattar även andra verksamheter än flygning, men
+              detta stämmer väl med lagens övergripande syfte. Vidare bör föreskriftsrätten
+              även omfatta möjlighet att begära in rapporter av betydelse för
+              strålriskbedömningen och att meddela särskilda villkor för arbetets
+              planering. Utskottet välkomnar åtgärder som medför ett ökat skydd
+              av arbetstagarnas och allmänhetens hälsa mot de faror som uppstår
+              till följd av joniserande strålning och tillstyrker således den
+              föreslagna ändringen.
+            </p>
+            <p>
+              När det slutligen gäller förslaget till ändring i 43 § strålskyddslagen
+              (1988:220) anför utskottet följande. Ändringen innebär att regeringen
+              ges möjlighet att även överlåta åt kommuner att, t.ex. genom beslut
+              av kommunfullmäktige,
+              <seg rend="grad2">
+                föreskriva om avgifter för en kommunal myndighets verksamhet
+                enligt strålskyddslagen.
+              </seg>
+            </p>
+            <p>
+              Riksdagen har tidigare ändrat strålskyddslagen så att regeringen
+              kan föreskriva att tillsynen över
+              <seg rend="grad2">
+                solarieverksamhet
+              </seg>
+              ska utövas av den eller de kommunala nämnder som fullgör uppgifter
+              inom miljö- och hälsoskyddsområdet (bet. 2005/06:MJU24, rskr.
+              2005/06:287).
+            </p>
+            <p>
+              I skälen för regeringens förslag i proposition 2005/06:183 förutsattes
+              att den kommunala tillsynen i så fall skulle kunna avgiftsfinansieras
+              och att kommunerna skulle kunna besluta om sådana avgifter. Då
+              emellertid regeringen för närvarande endast har möjlighet att
+              delegera sådan föreskriftsrätt till myndigheter, behövs den nu
+              föreslagna ändringen av bemyndigandet i 43 § strålskyddslagen.
+              Först därefter kan regeringen genom ändringar i strålskyddsförordningen
+              (1988:293) överföra tillsynsansvaret på kommunerna och ge dem
+              rätt att meddela föreskrifter om avgifter för tillsynen.
+            </p>
+            <p>
+              Konsekvenserna av att överföra tillsynsansvaret till kommunerna
+              har redovisats av regeringen i proposition 2005/06:183.
+            </p>
+            <p>
+              Utskottet finner inte anledning att motsätta sig denna ändring
+              i 43 § strålskyddslagen och har således inga invändningar mot
+              de ändringar som regeringen föreslår.
+              <seg rend="grad2">
+                Utskottet tillstyrker därmed regeringens proposition.
+              </seg>
+            </p>
+            <p xml:id="IDAUR12C" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAXR12C" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDA0R12C" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2006/07:93 Justering av Studsviksavgiften m.m.:
+            </p>
+            <p>
+              Riksdagen antar regeringens förslag till
+            </p>
+            <p>
+              1. lag om ändring i lagen (1988:1597) om finansiering av hanteringen
+              av visst radioaktivt avfall m.m.,
+            </p>
+            <p>
+              2. lag om ändring i strålskyddslagen (1988:220).
+            </p>
+            <p xml:id="IDAVS12C" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDAYS12C" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{D8848FB4-18B5-43EC-B777-4168DC8CC617}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{BE58D1BB-2455-44AA-9355-C20A03B25645}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200607_FiU_0004">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sade ja regeringens förslag på cirka 43 miljarder kronor i anslag för utgiftsområdet Statsskuldsräntor för 2007. Riksdagen godkände också att regeringen ska få överskrida anslagen Räntor på statsskulden respektive Riksgäldskontorets provisionskostnader om det blir nödvändigt nödvändigt för att uppfylla statens betalningsskyldigheter.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Statsskuldsräntor (FiU4)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GU0945</idno>
+              <title>2006-12-21</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">45</biblScope>
+              <note type="display-reference">2006-12-21</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GU0945</idno>
+              <title>2006-12-21</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">45</biblScope>
+              <note type="display-reference">2006-12-21</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GU0K84</idno>
+              <title>2006/07:84</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">84</biblScope>
+              <note type="display-reference">2006/07:84</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GU031</idno>
+              <title>Budgetpropositionen för 2007</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">1</biblScope>
+              <note type="display-reference">proposition 2006/07:1 Budgetpropositionen för 2007</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="B1" subtype="avgorande" n="1" when="2006-12-19">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-12-19">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-12-20">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-12-20">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-12-21">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-12-21">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2006-12-21">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2006-12-21">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2006-12-21">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-12-01">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-12-01">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-12-05">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-12-05">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2006-12-12">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2006-12-12">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2006-12-13">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2006-12-18">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="DEL" subtype="beredning" n="90" when="2006-12-18">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2006/07:FiU4
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Utgiftsområde 26 Statsskuldsräntor m.m. (prop. 2006/07:1)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDAXEEZG" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet tillstyrker utskottet regeringens förslag till
+            fördelning av anslag inom utgiftsområde 26 Statsskuldsräntor m.m.
+            Utskottet tillstyrker också att regeringen bemyndigas att överskrida
+            dels anslaget Räntor på statsskulden, dels anslaget Riksgäldskontorets
+            provisionskostnader om det är nödvändigt för att kunna fullgöra
+            statens betalningsåtaganden.
+          </p>
+          <p xml:id="IDAFCEZG" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Anslagen inom utgiftsområde 26 under år 2007
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen anvisar för 2007 anslag inom utgiftsområde 26 Statsskuldsräntor
+                  m.m. i enlighet med specifikation i bilaga 2. Därmed bifaller
+                  riksdagen proposition 2006/07:1 utgiftsområde 26 punkt 3.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Bemyndiganden att överskrida vissa anslag
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen bemyndigar regeringen att 2007 besluta att ramanslagen
+                  92:1 Räntor på statsskulden och 92:3 Riksgäldskontorets provisionskostnader
+                  i samband med upplåning och skuldförvaltning får överskridas om
+                  det är nödvändigt för att fullgöra statens betalningsåtaganden.
+                  Därmed bifaller riksdagen proposition 2006/07:1 utgiftsområde
+                  26 punkterna 1 och 2.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 5 december 2006
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Ulf Sjösten (m), Anna Lilliehöök (m), Sonia Karlsson (s), Lars
+            Elinderson (m), Roger Tiefensee (c), Monica Green (s), Christer
+            Nylander (fp), Hans Hoff (s), Peder Wachtmeister (m), Agneta Gille
+            (s), Göran Pettersson (m), Ulla Andersson (v), Tommy Ternemar
+            (s), Emma Henriksson (kd), Jörgen Hellman (s) och Peter Eriksson
+            (mp).
+          </p>
+          <p xml:id="IDAVEEZG" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAECEZG" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Finansutskottets majoritet har den 23 november 2006 tillstyrkt
+            regeringens förslag till ram för utgiftsområde 26 Statsskuldsräntor
+            m.m. I detta betänkande tar utskottet ställning till hur anslagen
+            inom utgiftsområde 26 Statsskuldsräntor m.m. ska fördelas inom
+            denna ram.
+          </p>
+          <p>
+            I budgetpropositionen föreslår regeringen att riksdagen godkänner
+            den föreslagna medelsanvändningen för de tre ramanslag som finns
+            uppförda på utgiftsområde 26. Regeringen föreslår också att riksdagen
+            bemyndigar regeringen att under 2007 överskrida två av dessa anslag
+            om det är nödvändigt för att kunna fullgöra statens betalningsåtaganden.
+            Propositionens förslag återges i
+            <seg rend="grad2">
+              bilaga 1
+            </seg>
+            . Några motionsyrkanden i ärendet har inte inkommit.
+          </p>
+          <p xml:id="IDAWHEZG" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAGFEZG" rend="rubrik2">
+            Anslagen inom utgiftsområde 26 under år 2007
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDA0BEZG" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen anvisar medel på anslagen inom utgiftsområde 26 enligt
+                regeringens förslag.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDABFEZG" rend="r3">
+              Budgetpropositionen
+            </p>
+            <p xml:id="IDADAKSN" rend="r4">
+              Anslag 92:1 Räntor på statsskulden
+            </p>
+            <p>
+              Från anslaget finansieras utgifter för räntor på statsskulden.
+              Anslaget avräknas utgiftsmässigt och påverkas främst av statsskuldens
+              storlek, ränte- och valutakurser, lånebehovet samt Riksgäldskontorets
+              upplånings- och skuldförvaltningsteknik. Förutom löpande ränteutgifter
+              samt över- och underkurser vid emissioner, utgörs de totala ränteutgifterna
+              av utgifter i form av realiserade kursdifferenser vid förtidsinlösen
+              av lån samt realiserade valutakursdifferenser.
+            </p>
+            <p>
+              I budgetpropositionen räknar regeringen med att utgifterna för
+              räntor på statsskulden fram t.o.m. 2009 ska utvecklas enligt följande:
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 1. Utgiftsmässiga räntor på statsskulden 20052009
+            </p>
+            <p rend="tabellunderrubrik grad2">
+              Miljarder kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              <graphic url="Shape{30B966C6-FA3D-420F-B117-CD46B6D337E5}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Anm. Utfall 2005 och beräknat utfall 20062009.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              För 2006 förväntas de utgiftsmässiga statsskuldsräntorna bli
+              51 miljarder kronor. Detta innebär ett utfall på 8 miljarder kronor
+              mer än vad som anvisats för 2006. Regeringen förklarar detta med
+              att valutakursförlusterna bedöms bli större än beräknat och överkurserna
+              vid emission blir lägre. De lägre överkurserna förklaras främst
+              av att Riksgäldskontoret har gjort förändringar i sina emissionsplaner.
+              Åren 20072009 bedöms de utgiftsmässiga räntorna återigen minska.
+              En orsak till denna förväntade minskning är den lägre statsskulden,
+              som blir en följd av bl.a. försäljning av statligt aktieinnehav.
+            </p>
+            <p>
+              Eftersom den budgetpåverkande utgiftsmässiga redovisningen av
+              statsskuldsräntorna i princip visar hur mycket som betalas ut
+              varje år, blir ränteutgifterna starkt beroende av vilka upplåningstekniker
+              som tillämpas och kan uppvisa stora svängningar mellan åren som
+              inte direkt kan hänföras till den underliggande skuld-, ränte-
+              och valutakursutvecklingen under motsvarande period.
+            </p>
+            <p>
+              Ett sätt att analysera kostnaderna för statsskulden är att fokusera
+              på hur mycket räntekostnader som genereras under en viss period.
+              Detta redovisas i tabell 2. Kostnadsmässig redovisning innebär
+              att räntorna periodiseras över lånets löptid, vilket innebär att
+              den ränta som genererats under perioden men som inte betalats,
+              beaktas.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 2. Utgifts- och kostnadsmässiga räntor på statsskulden
+              20052009
+            </p>
+            <p rend="tabellunderrubrik grad2">
+              Miljarder kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              <graphic url="Shape{F8FBDCB3-9E85-4B8E-AA46-BECC241BABCA}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Anm. Utfall 2005 och beräknat utfall 20062009. Summa räntekostnader
+              är exkl. realiserade valuta- och kursdifferenser.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Regeringen föreslår att riksdagen för 2007 anvisar anslag 92:1
+              Räntor på statsskulden 43 miljarder kronor, vilket inte innebär
+              någon förändring jämfört med vad som anvisades 2006. För 2008
+              och 2009 beräknar regeringen anslaget till 41 miljarder respektive
+              43 miljarder kronor.
+            </p>
+            <p xml:id="IDAGCKSN" rend="r4">
+              Anslag 92:2 Oförutsedda utgifter
+            </p>
+            <p>
+              På statsbudgeten finns ett särskilt anslag för oförutsedda utgifter.
+              Medel från anslaget får tas i anspråk efter beslut av regeringen
+              i varje enskilt fall. Utgifterna ska vara av så brådskande art
+              att ärendet inte hinner underställas riksdagen, samtidigt som
+              utgifterna inte heller kan täckas av andra medel som står till
+              regeringens förfogande. Anslaget har också med riksdagens medgivande
+              använts för vissa speciella ändamål om andra medel inte står till
+              förfogande. Regeringen har från detta anslag betalat ut t.ex.
+              belopp som staten genom lagakraftvunnen dom ålagts att betala
+              och belopp som staten till följd av skada i samband med statlig
+              verksamhet efter uppgörelse har åtagit sig att ersätta.
+            </p>
+            <p>
+              Det ankommer på regeringen att i efterhand anmäla till riksdagen
+              vilka utgifter som täckts genom att medel från anslaget tagits
+              i anspråk. Under 2005 utbetalades 1 115 000 kr via Utrikesdepartementet
+              avseende tolv förlikningar i mål mot Sverige inför Europeiska
+              domstolen för de mänskliga rättigheterna. Dessutom har 120 240
+              kr betalats ut efter två domar mot Sverige av ovan nämnda domstol.
+              Fram t.o.m. augusti 2006 har 1 010 000 kr betalats ut avseende
+              fyra förlikningar i mål mot Sverige inför Europeiska domstolen
+              för de mänskliga rättigheterna. Från anslaget har även 287 138
+              kr betalats ut efter två domar mot Sverige av ovan nämnda domstol.
+            </p>
+            <p>
+              Regeringen föreslår att 10 miljoner kronor anvisas under anslag
+              92:2 Oförutsedda utgifter för 2007, vilket är oförändrat jämfört
+              med 2006.
+            </p>
+            <p xml:id="IDASCKSN" rend="r4">
+              Anslag 92:3 Riksgäldskontorets provisionskostnader i samband
+              med upplåning och skuldförvaltning
+            </p>
+            <p>
+              Anslaget avser provisionskostnader relaterade till upplåning
+              och förvaltning av statsskulden. Samtliga provisionskostnader
+              i samband med upplåning och skuldförvaltning redovisas utanför
+              utgiftstaket, precis som utgifterna för räntor på statsskulden.
+            </p>
+            <p>
+              Merparten av provisionskostnaderna utgörs av försäljningsprovisioner
+              till de banker som agerar som mellanhänder vid försäljningen av
+              Riksgäldskontorets lån. Dessa mellanhänder tar på sig hanteringskostnader
+              och i vissa fall risker som de kompenseras för genom provisionen.
+              I provisionskostnaderna ingår också utgifter för provisioner i
+              samband med inlösen av lån, förvaltningsprovisioner till externa
+              förvaltare samt kreditavgifter.
+            </p>
+            <p>
+              De senaste årens fallande provisionskostnader för den nominella
+              kronskulden förklaras bl.a. av minskade inlösenprovisioner till
+              bankerna för hantering av förfallande premieobligationer. Vidare
+              har provisioner vid nyförsäljning av premieobligationer minskat
+              dels som en effekt av sjunkande upplåningsvolymer av premieobligationer,
+              dels på grund av att Riksgäldskontoret successivt ökat andelen
+              egenförsäljning. Dessutom har avtalen för mäklarprovisioner omförhandlats,
+              vilket innebär lägre kostnader för Riksgäldskontoret.
+            </p>
+            <p>
+              Regeringen föreslår att riksdagen anvisar 160 miljoner kronor,
+              vilket är samma belopp som anvisades 2006.
+            </p>
+            <p xml:id="IDABDKSN" rend="r3">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              Finansutskottet har vid flera tillfällen (bl.a. i bet. 1998/99:FiU20,
+              bet. 1999/2000:FiU20, bet. 2000/01:FiU20 och bet. 2004/05:FiU2)
+              uttalat sin syn på regeringens resultatredovisning. Utskottet
+              har framhållit att anslagsberäkningarna bör göras tydligare och
+              redovisas för riksdagen. När det gäller anslaget för ränteutgifter
+              på statsskulden samt Riksgäldskontorets provisionskostnader redogör
+              regeringen för faktorer som har betydelse för nivån på respektive
+              anslag men redovisar inte effekten av detta för beräkningen av
+              anslaget. För att tillgodose riksdagens behov av relevant beslutsunderlag,
+              vill utskottet med anledning av detta återigen understryka vikten
+              av tydlighet i anslagsberäkningar vilket också kräver att motiven
+              för regeringens bedömning och slutsatser framgår tydligt. För
+              provisionskostnaderna skulle det t.ex. vara värdefullt med en
+              redovisning av vilka typer av provisioner som ingår med vilka
+              belopp samt en känslighetsanalys liknande den som görs för ränteutgifterna.
+            </p>
+            <p>
+              Med detta ställer sig utskottet bakom regeringens förslag till
+              beräkning av anslag på utgiftsområde 26.
+            </p>
+            <p xml:id="IDALDKSN" rend="rubrik2">
+              Bemyndiganden att överskrida vissa anslag
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDARDKSN" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen bemyndigar regeringen att under 2007 överskrida anslagen
+                92:1 Räntor på statsskulden och 92:3 Riksgäldskontorets provisionskostnader
+                om det är nödvändigt för att fullgöra statens betalningsåtaganden.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Riksdagen beslutar i samband med budgetregleringen att regeringen
+              får överskrida de ramanslag riksdagen har anvisat, förutsatt att
+              vissa villkor är uppfyllda. Villkoren är att riksdagsbeslut om
+              anslag på tilläggsbudget inte hinner inväntas och att överskridandet
+              ska rymmas inom det fastställda utgiftstaket för staten.
+            </p>
+            <p>
+              Eftersom anslagen på utgiftsområde 26 ligger utanför utgiftstaket
+              omfattas de inte av detta bemyndigande. Enligt den ordning som
+              gäller fr.o.m. 1997 har i stället ett särskilt bemyndigande knutits
+              till anslaget för statsskuldsräntor. För att säkerställa att regeringen
+              alltid kan fullgöra sina åtaganden gentemot långivarna är rätten
+              att överskrida detta anslag beloppsmässigt obegränsad. När anslag
+              92:3 Riksgäldskontorets provisionskostnader upptogs på utgiftsområde
+              26 1998, kopplades ett motsvarande bemyndigande till det anslaget.
+            </p>
+            <p xml:id="IDADEKSN" rend="r3">
+              Budgetpropositionen
+            </p>
+            <p>
+              I budgetpropositionen föreslås att regeringen ska bemyndigas
+              att överskrida anslag 92:1 Räntor på statsskulden även under 2007
+              (punkt 1). Ett motsvarande bemyndigande föreslås också för anslag
+              92:3 Riksgäldskontorets provisionskostnader (punkt 2).
+            </p>
+            <p xml:id="IDAJEKSN" rend="r3">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              Finansutskottet tillstyrker regeringens förslag att överskrida
+              ramanslagen 92:1 Räntor på statsskulden och 92:3 Riksgäldskontorets
+              provisionskostnader i samband med upplåning och skuldförvaltning.
+            </p>
+            <p xml:id="IDAPEKSN" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAQEKSN" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDATEKSN" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2006/07:1 Budgetpropositionen för 2007 utgiftsområde
+              26:
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen bemyndigar regeringen att 2007 besluta att ramanslaget
+                    92:1 Räntor på statsskulden får överskridas om det är nödvändigt
+                    för att fullgöra statens betalningsåtaganden (avsnitt 3.1).
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen bemyndigar regeringen att 2007 besluta att ramanslaget
+                    92:3 Riksgäldskontorets provisionskostnader i samband med upplåning
+                    och skuldförvaltning får överskridas om det är nödvändigt för
+                    att fullgöra statens betalningsåtaganden (avsnitt 5.1).
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen för 2007 anvisar anslagen under utgiftsområde 26 Statsskuldsräntor
+                    m.m. enligt följande uppställning:
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellunderrubrik grad2">
+              Tusental kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell cols="2">
+                  <p rend="tabellhuvudvanster grad1">
+                    Anslag
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    Anslagstyp
+                  </p>
+                </cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    92:1
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Räntor på statsskulden
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    ramanslag
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    43 000 000
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    92:2
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Oförutsedda utgifter
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    ramanslag
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    10 000
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    92:3
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Riksgäldskontorets provisionskostnader i samband med upplåning
+                    och skuldförvaltning
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    ramanslag
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    160 000
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell cols="2">
+                  <p rend="tabellkropptext grad1">
+                    Summa
+                  </p>
+                </cell>
+                <cell/>
+                <cell>
+                  <p rend="tabellkroppsiffror grad1">
+                    43 170 000
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAHOKSN" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDAIOKSN" rend="BilageRubrik">
+              Förslag till beslut om anslag inom utgiftsområde 26 Statsskuldsräntor
+              m.m.
+            </p>
+            <p>
+              Utskottets förslag överensstämmer med regeringens förslag till
+              anslagsfördelning.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellunderrubrik grad2">
+              Belopp i 1 000-tal kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell cols="2">
+                  <p rend="tabellhuvudvanster grad1">
+                    Politikområde
+                  </p>
+                  <p rend="tabellhuvudvanster grad1">
+                    Anslag
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    Utskottets förslag
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext grad1">
+                    92
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext grad1">
+                    Statsskuldsräntor m.m.
+                  </p>
+                </cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    92:1
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Räntor på statsskulden
+                    <seg rend="grad2">
+                      (ram)
+                    </seg>
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    43 000 000
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    92:2
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Oförutsedda utgifter
+                    <seg rend="grad2">
+                      (ram)
+                    </seg>
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    10 000
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    92:3
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Riksgäldskontorets provisionskostnader i samband med upplåning
+                    och skuldförvaltning
+                    <seg rend="grad2">
+                      (ram)
+                    </seg>
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    160 000
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell/>
+                <cell/>
+              </row>
+              <row>
+                <cell cols="2">
+                  <p rend="tabellkropptext grad1">
+                    Summa för utgiftsområdet
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad1">
+                    43 170 000
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

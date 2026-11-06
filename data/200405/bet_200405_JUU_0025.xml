@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200405_JUU_0025">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen godkände ett inom EU upprättat utkast till rambeslut som innebär att principen om ömsesidigt erkännande börjar tillämpas även på beslut om förverkande. Enligt rambeslutet ska ett beslut om förverkande som har beslutats av en domstol i en medlemsstat erkännas och verkställas i en annan medlemsstat utan att något nytt beslut om förverkande behöver fattas av den staten.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Godkännande av rambeslut om verkställighet av förverkandebeslut (JuU25)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen. Avslag på motionen</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GS0995</idno>
+              <title>2005-03-23</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">95</biblScope>
+              <note type="display-reference">2005-03-23</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GS0995</idno>
+              <title>2005-03-23</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">95</biblScope>
+              <note type="display-reference">2005-03-23</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GS0K184</idno>
+              <title>2004/05:184</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">184</biblScope>
+              <note type="display-reference">2004/05:184</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GS0355</idno>
+              <title>Sveriges antagande av rambeslut om tillämpning av principen om ömsesidigt erkännande på beslut om förverkande</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">55</biblScope>
+              <note type="display-reference">proposition 2004/05:55 Sveriges antagande av rambeslut om tillämpning av principen om ömsesidigt erkännande på beslut om förverkande</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GS02Ju30</idno>
+              <title>med anledning av prop. 2004/05:55 Sveriges antagande av rambeslut om tillämpning av principen om ömsesidigt erkännande på beslut om förverkande</title>
+              <title type="sub">av Beatrice Ask m.fl. (M)</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">Ju30</biblScope>
+              <note type="display-reference">motion 2004/05:Ju30 med anledning av prop. 2004/05:55 Sveriges antagande av rambeslut om tillämpning av principen om ömsesidigt erkännande på beslut om förverkande</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2005-03-15">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2005-03-15">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2005-03-15">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2005-03-10">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2005-03-10">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2005-03-10">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-02-17">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-02-17">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2005-03-23">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2005-03-23">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2005-03-23">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2005-03-23">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2005-03-23">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2005-03-22">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2005-03-22">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2005-03-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2005-03-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Justitieutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2004/05:JUU25
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Godkännande av rambeslut om verkställighet av förverkandebeslut
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I betänkandet behandlar utskottet proposition
+            2004/05:55 Sveriges antagande av rambeslut om tillämpning av principen
+            om ömsesidigt erkännande på beslut om förverkande jämte en i ärendet
+            väckt motion. I propositionen föreslås att riksdagen skall godkänna
+            ett inom EU upprättat utkast till rambeslut om tillämpning av
+            principen om ömsesidigt erkännande på beslut om förverkande. Enligt
+            rambeslutet skall ett beslut om förverkande som har beslutats
+            av en domstol i en medlemsstat erkännas och verkställas i en annan
+            medlemsstat utan att något nytt beslut om förverkande behöver
+            fattas av den staten. Utskottet föreslår att riksdagen bifaller
+            regeringens förslag och avslår motionen. I ärendet finns en reservation
+            (m) och ett särskilt yttrande (mp).
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Godkännande av rambeslut
+            om verkställighet av förverkandebeslut Riksdagen godkänner det
+            inom Europeiska unionen upprättade utkastet till rambeslut om
+            tillämpning av principen om ömsesidigt erkännande på beslut om
+            förverkande. Därmed bifaller riksdagen proposition 2004/05:55.
+            2. Följdlagstiftning i propositioner om rambeslut Riksdagen avslår
+            motion 2004/05:Ju30. Reservation (m) Stockholm den 10 mars 2005
+            På justitieutskottets vägnar Johan Pehrson Följande ledamöter
+            har deltagit i beslutet: Johan Pehrson (fp), Britta Lejon (s),
+            Rolf Olsson (v), Margareta Sandgren (s), Beatrice Ask (m)1Deltar
+            ej under punkt 1, Lennart Nilsson (s), Helena Frisk (s), Peter
+            Althin (kd), Jeppe Johnsson (m)2Deltar ej under punkt 1, Göran
+            Norlander (s), Torkild Strandberg (fp), Johan Linander (c), Joe
+            Frans (s), Cecilia Magnusson (m)3Deltar ej under punkt 1, Kerstin
+            Andersson (s), Leif Björnlod (mp) och Christer Erlandsson (s).
+          </p>
+          <p>
+            Redogörelse för ärendet Ärendet och dess beredning Sommaren 2002
+            tog Danmark initiativ till ett utkast till ett rambeslut om tillämpning
+            av principen om ömsesidigt erkännande på beslut om förverkande
+            (EGT C 184, 2.8.2002, s. 8). En faktapromemoria har upprättats
+            över utkastet till rambeslutet (2002/03:FPM06). Initiativet baseras
+            på de slutsatser som Europeiska rådet antog år 1999 i Tammerfors.
+            En av dessa slutsatser är att principen om ömsesidigt erkännande
+            av medlemsstaternas rättsliga avgöranden skall bli en hörnsten
+            i det straffrättsliga samarbetet inom unionen. Vid ministerrådet
+            för rättsliga och inrikes frågor den 29 april 2004 nåddes en principöverenskommelse
+            om innehållet i rambeslutet. Överenskommelsen avser ett utkast
+            till rambeslut som i väsentliga delar skiljer sig från det ursprungliga
+            förslaget. Principöverenskommelsen upprepades vid ministerrådsmötet
+            den 8 juni 2004. Till rambeslutet fogades ett utkast till intyg
+            som skall användas i samband med framställningar om verkställighet
+            av förverkandebeslut. Europaparlamentet yttrade sig den 20 november
+            2002 över förslaget till utkast till rambeslut (EUT C 25E, 29.1.2004,
+            s. 204). I yttrandet godkände parlamentet förslaget till rambeslut.
+            Utkastet till rambeslut jämte utkastet till intyg i senaste svenska
+            versioner återfinns i bilaga 2. Den överenskomna texten har varit
+            föremål för slutlig granskning av EU:s språkexperter, de s.k.
+            juristlingvisterna. Ett utkast till uttalande från rådet i anslutning
+            till rambeslutets antagande återfinns i bilaga 3. Företrädare
+            för Justitiedepartementet har under förhandlingsarbetet sammanträtt
+            med justitieutskottet vid ett flertal tillfällen. Vidare har justitieministern
+            redogjort för förhandlingsarbetet och den svenska positionen vid
+            sammanträden i EU-nämnden. Något förslag till den lagstiftning
+            som genomförandet av rambeslutet kräver lämnas inte i propositionen,
+            utan där behandlas endast frågan om riksdagens godkännande av
+            utkastet till rambeslut. I propositionen redovisar dock regeringen
+            sin bedömning av vilken lagstiftning som rambeslutet kräver. En
+            promemoria om Sveriges antagande av rambeslutet har remissbehandlats.
+            En sammanställning av remissyttrandena finns tillgänglig i Justitiedepartementet
+            (dnr 2004/8206/BIRS). Propositionens huvudsakliga innehåll Inom
+            Europeiska unionen har ett utkast till rambeslut om tillämpning
+            av principen om ömsesidigt erkännande på beslut om förverkande
+            utarbetats. I propositionen föreslås att utkastet till rambeslut
+            godkänns av riksdagen. Utkastet till rambeslut är utarbetat på
+            initiativ av Danmark och innehåller bestämmelser om verkställighet
+            av beslut om förverkande. Enligt rambeslutet skall ett beslut
+            om förverkande som har beslutats av en domstol i en medlemsstat
+            erkännas och verkställas i en annan medlemsstat utan att något
+            nytt beslut om förverkande behöver fattas av den staten. I vissa
+            fall skall dock verkställigheten av beslutet om förverkande kunna
+            vägras. Rambeslutet innehåller också bestämmelser om hur den förverkade
+            egendomen skall delas mellan de berörda medlemsstaterna. Den tidpunkt
+            då medlemsstaterna skall ha genomfört bestämmelserna i rambeslutet
+            är ännu inte bestämd. I propositionen redovisas vilken lagstiftning
+            och övrig reglering som rambeslutet kräver. Förslag till lagstiftning
+            kommer att läggas fram vid ett senare tillfälle.
+          </p>
+          <p>
+            Utskottets överväganden Godkännande av rambeslut om verkställighet
+            av förverkandebeslut Utskottets förslag i korthet Utskottet föreslår
+            att riksdagen godkänner utkastet till rambeslut om tillämpning
+            av principen om ömsesidigt erkännande på beslut om förverkande.
+            Vidare avstyrker utskottet en motion om att propositioner om godkännande
+            av rambeslut i allmänhet även bör innehålla förslag till svensk
+            följdlagstiftning. Jämför reservationen (m) och det särskilda
+            yttrandet (mp). Rambeslutet om verkställighet av förverkandebeslut
+            Rambeslutet syftar till att reglera samarbetet för erkännande
+            och verkställighet av beslut om förverkande mellan myndigheter
+            när egendom förklarats förverkad i en medlemsstat (den utfärdande
+            staten) men finns i en annan medlemsstat (den verkställande staten).
+            Tanken är att ingen fysisk eller juridisk person vars egendom
+            har förverkats skall kunna undkomma verkställighet av förverkandebeslut
+            inom EU. Ett beslut om förverkande i en medlemsstat skall i princip
+            kunna verkställas i en annan medlemsstat utan att något nytt beslut
+            om förverkande behöver fattas i den verkställande staten. Parallellt
+            med det nu aktuella rambeslutet har det inom EU även utarbetats
+            ett rambeslut med gemensamma minimibestämmelser om förverkande
+            av vinning, hjälpmedel och egendom som härrör från brott. Det
+            sistnämnda rambeslutet godkändes av riksdagen i oktober 2004 (prop.
+            2003/04:166, bet. 2004/05:JuU5, rskr. 22). Enligt det rambeslutet
+            skall medlemsstaterna bl.a. säkerställa att det är möjligt att
+            helt eller delvis förverka vinning och hjälpmedel som härrör från
+            brott som kan leda till frihetsberövande i mer än ett år. Vidare
+            skall medlemsstaterna införa regler som gör det möjligt att förverka
+            egendom från personer som dömts för vissa särskilt allvarliga
+            brott även om egendomen inte kan härledas till just det konkreta
+            brottet (utvidgat förverkande). Här kan också nämnas rambeslutet
+            om verkställighet i Europeiska unionen av beslut om frysning av
+            egendom eller bevismaterial. Rambeslutet, som godkändes av riksdagen
+            i maj 2003 (prop. 2002/03:67, bet. JuU15, rskr. 169), innehåller
+            bestämmelser som syftar till att säkerställa verkställighet av
+            beslut om förverkande av egendom samt tillgång till bevismaterial
+            (dvs. vad som i Sverige motsvaras av kvarstad och beslag). Bestämmelserna
+            innebär att beslut om frysning som fattas i den medlemsstat där
+            förundersökningen pågår skall erkännas och verkställas av den
+            medlemsstat där egendomen eller bevismaterialet finns utan att
+            något nytt beslut behöver fattas av den verkställande staten.
+            I det följande redovisas några av de mer centrala bestämmelserna
+            i det i detta ärende aktuella rambeslutet. I artikel 1 anges att
+            syftet med rambeslutet är att fastställa de regler enligt vilka
+            en medlemsstat skall erkänna och på sitt territorium verkställa
+            ett beslut om förverkande som har utfärdats av en behörig domstol
+            i en annan medlemsstat. I artikel 2 i rambeslutet anges ett antal
+            definitioner av betydelse bl. a. för tillämpligheten av rambeslutet.
+            Här framgår bl.a. att beslut om förverkande, för att omfattas
+            av rambeslutet, skall ha beslutats av domstol efter rättegång
+            på grund av en eller flera brottsliga handlingar och innebära
+            ett slutligt berövande av egendomen. Med begreppet vinning förstås
+            varje ekonomisk fördel av brott, och i begreppet hjälpmedel inbegrips
+            all slags egendom som på något sätt, helt eller delvis, har använts
+            eller varit avsedd att användas för att begå ett eller flera brott.
+            Vidare anges vilken egendom som kan omfattas av ett beslut om
+            förverkande för att det skall kunna verkställas i en annan medlemsstat.
+            Här handlar det dels om vinning av ett visst brott eller värdet
+            av denna vinning, dels om hjälpmedel för att utföra ett visst
+            brott. Det kan också röra sig om egendom eller vinning som har
+            förklarats förverkad till följd av tillämpning av någon av de
+            utökade möjligheter till förverkande som anges i rambeslutet om
+            förverkande av vinning, hjälpmedel och egendom som härrör från
+            brott. Slutligen avses egendom eller vinning som har förklarats
+            förverkad enligt någon annan bestämmelse om utökade möjligheter
+            till förverkande som finns i den utfärdande statens nationella
+            lagstiftning. Krav på dubbel straffbarhet för erkännande och verkställighet
+            får inte uppställas om den utfärdande staten anser att gärningen
+            som ligger till grund för förverkande motsvarar något av de brott
+            som räknas upp i listan i artikel 6 punkt 1, och brottet enligt
+            den utfärdande statens lagstiftning kan medföra ett högsta frihetsstraff
+            på minst tre år. Rambeslutet har i denna del samma konstruktion
+            som bl.a. rambeslutet om en europeisk arresteringsorder och om
+            överlämnande mellan medlemsstaterna samt rambeslutet om verkställighet
+            av beslut om frysning av egendom eller bevismaterial. Det är också
+            fråga om samma lista på brott som i de två nämnda rambesluten.
+            Listan omfattar flera av de brott som regleras i brottsbalken
+            och som kan resultera i ett förverkande (t.ex. stöld och andra
+            tillgreppsbrott, bedrägeri, penninghäleri och andra ekonomiska
+            oredlighetsbrott samt förfalskningsbrott). Även brott och brottstyper
+            inom den svenska specialstraffrätten omfattas, t.ex. terroristbrott,
+            narkotikabrott, miljöbrott och brott enligt vapenlagen. För de
+            brott som inte omfattas av listan får den verkställande staten
+            kräva dubbel straffbarhet och att brottet i fråga kan ge upphov
+            till förverkande i den verkställande statens lagstiftning, för
+            att verkställighet av beslutet om förverkande skall beviljas.
+            I artikel 8 regleras de grunder som en medlemsstat får åberopa
+            för att vägra att verkställa ett beslut om förverkande. Här kan
+            bl.a. nämnas följande. En vägransgrund tar sikte på brister i
+            den enskildes möjligheter att få beslutet rättssäkert prövat.
+            Verkställighet får nämligen vägras om det intyg som skall skickas
+            med beslutet inte anger att den dömda personen, som inte inställde
+            sig personligen eller via ett ombud, informerades om förhandlingen
+            eller uppgav att han eller hon inte avsåg att bestrida beslutet
+            om förverkande. Verkställighet får vidare vägras om ett förverkande
+            skulle stå i strid med principen om ne bis in idem, dvs. att ingen
+            skall dömas två gånger för samma sak. Den verkställande staten
+            får också vägra att verkställa förverkandebeslutet om det hänför
+            sig till en gärning som inte motsvaras av ett brott i den verkställande
+            staten (dvs. ett krav på dubbel straffbarhet), under förutsättning
+            att gärningen inte faller in under de brott som räknas upp i den
+            nyss nämnda listan i artikel 6 punkt 1. Gäller beslutet om förverkande
+            ett brott som har begåtts helt eller delvis på den verkställande
+            statens territorium eller utanför den utfärdande statens territorium
+            och åtal inte är tillåtet för brottet i den verkställande staten
+            när det har begåtts utanför den statens territorium, kan den verkställande
+            staten också vägra att verkställa beslutet. I anslutning till
+            denna vägransgrund skall definitionen i artikel 2 h om förbrott
+            läsas; om de straffrättsliga förfaranden som leder fram till ett
+            beslut om förverkande omfattar ett förbrott, inbegripet penningtvätt,
+            skall med brott i denna vägransgrund avses ett förbrott. Genom
+            att införa denna definition av brott undviks att verkställighet
+            av vissa gränsöverskridande brott innefattande penningtvätt, där
+            olika moment vidtagits i olika stater, kan vägras. Om ett förbrott
+            begåtts i den utfärdande staten och en efterföljande penningtvätt
+            ägt rum på den verkställande statens territorium eller någon annanstans
+            utanför den utfärdande staten skall detta alltså inte kunna hindra
+            verkställighet av förverkandebeslutet. I samband med antagandet
+            av rambeslutet avser rådet att avge ett särskilt uttalande i anslutning
+            härtill, se bilaga 3. Vidare får verkställighet vägras om de rättigheter
+            som innehas av berörda parter, inklusive tredje part i god tro,
+            enligt den verkställande statens lagstiftning gör det omöjligt
+            att verkställa beslutet. Den behöriga myndigheten i den verkställande
+            staten får dessutom vägra att verkställa ett förverkandebeslut
+            om verkställigheten är preskriberad enligt den verkställande statens
+            lagstiftning och beslutet avser gärningar som omfattas av den
+            verkställande statens egen jurisdiktion. Artikel 8 är inte helt
+            uttömmande i fråga om vilka möjligheter en verkställande stat
+            har att avstå från att verkställa ett beslut om förverkande. Det
+            framgår av artikel 1 punkt 2 att rambeslutet inte påverkar skyldigheten
+            att iaktta de grundläggande rättigheterna och grundläggande rättsprinciperna
+            i artikel 6 i fördraget om Europeiska unionen. Vidare framgår
+            av skäl 14 i den inledande s.k. preambeln, att rambeslutet inte
+            hindrar medlemsstaterna från att tillämpa sina konstitutionella
+            bestämmelser om prövning i laga ordning samt förenings-, tryck-
+            och yttrandefrihet i andra medier. I anslutning härtill avser
+            rådet att göra ett uttalande, där det förklaras att bland de grundläggande
+            rättsliga principerna som rambeslutet hänvisar till, återfinns
+            principer om demokrati, laglighet, jämställdhet, tankefrihet,
+            yttrandefrihet, tryckfrihet samt mötes- och föreningsfrihet, se
+            bilaga 3. I skäl 13 stadgas slutligen en rätt att vägra verkställa
+            ett beslut om förverkande om det finns skäl att tro att beslutet
+            har utfärdats för att lagföra eller straffa en person på grund
+            av dennes kön, ras, religion, etniska ursprung, nationalitet,
+            språk, politiska uppfattning eller sexuella läggning, eller om
+            personens ställning kan skadas av något av dessa skäl. I artikel
+            8 punkt 3 anges att om ett beslut om s.k. utvidgat förverkande
+            inte omfattas av det alternativ som den verkställande staten har
+            antagit enligt artikel 3.2 i det ovan nämnda rambeslutet om förverkande
+            av vinning, hjälpmedel och egendom som härrör från brott, skall
+            den verkställande staten verkställa beslutet om förverkande åtminstone
+            i den omfattning som föreskrivs i liknande fall enligt den nationella
+            lagstiftningen. Slutligen finns enligt artikel 8 punkt 2 g en
+            generell möjlighet att vägra verkställa ett beslut om förverkande
+            om beslutet har fattats med stöd av den utfärdande statens egna
+            regler om utökade möjligheter till förverkande, vilka inte är
+            kopplade till eller går utöver de ovan nämnda bestämmelserna om
+            utvidgat förverkande i rambeslutet om förverkande av vinning,
+            hjälpmedel och egendom som härrör från brott. För samtliga vägransgrunder
+            gäller enligt artikel 8 punkt 4 att myndigheten i den verkställande
+            staten skall överväga särskilt om samråd skall ske med behörig
+            myndighet i den utfärdande staten innan ett beslut om att vägra
+            erkänna och verkställa beslutet om förverkande fattas. För vissa
+            av vägransgrunderna är ett sådant samrådsförfarande också obligatoriskt.
+            Rambeslutet innehåller även ett antal förfaranderegler. I artikel
+            4 föreskrivs att ett förverkandebeslut får översändas direkt till
+            den behöriga myndigheten i den verkställande staten, jämte ett
+            särskilt upprättat intyg innehållande olika obligatoriska uppgifter.
+            En förlaga till intygets utformning har intagits som bilaga till
+            rambeslutet, se bilaga 2. Enligt artikel 7 skall den behöriga
+            myndigheten i den verkställande staten utan ytterligare formaliteter
+            erkänna och verkställa ett beslut om förverkande som har översänts
+            i enlighet med formkraven i rambeslutet. Utskottet gör i fråga
+            om riksdagens godkännande av rambeslutet följande överväganden.
+            Arbetet med att motverka grov och organiserad brottslighet är
+            mycket angeläget och högt prioriterat såväl inom EU som i Sverige.
+            Brottsligheten ger ofta upphov till stora vinster, och den kanske
+            viktigaste drivkraften för den är just möjligheten att berika
+            sig ekonomiskt. Ett mycket viktigt och effektivt medel för att
+            motverka sådan brottslighet är därför att ta ifrån gärningsmännen
+            vinningen av brotten. Eftersom den organiserade brottsligheten
+            i stor utsträckning också är gränsöverskridande är det särskilt
+            angeläget att samarbeta mellan medlemsstaterna i EU, bl.a. rörande
+            möjligheter till förverkande av vinning av brott. Genom riksdagens
+            tidigare godkännande av rambeslutet med gemensamma minimibestämmelser
+            om förverkande av vinning och hjälpmedel som härrör från brott,
+            vilket syftar till en harmonisering av den materiella lagstiftningen
+            på området, har ett viktigt steg redan tagits mot att också underlätta
+            möjligheterna att ta ifrån gärningsmännen vinningen av brotten.
+            Genom antagande av det nu aktuella rambeslutet om verkställighet
+            av sådana förverkandebeslut kan ett naturligt andra steg tas för
+            att skapa tillräckligt kraftfulla verktyg för verkställighet av
+            förverkandebeslut. Med stöd av rambeslutet kan förverkandebeslut
+            effektivt verkställas även i fall då gärningsmannen har egendom
+            eller inkomst i en annan medlemsstat eller då denne flyttat förverkad
+            egendom dit i syfte att undgå verkställighet. Härigenom möjliggörs
+            också i större utsträckning en likabehandling av alla dömda inom
+            EU. Rambeslut om ömsesidigt erkännande inom EU bygger på ett förtroende
+            mellan medlemsstaterna, vad gäller såväl respektive stats rättssystem
+            som myndigheternas och domstolarnas rättstillämpning. Detta förtroende
+            är en förutsättning för att verkställighet av t.ex. beslut om
+            förverkande skall kunna ske snabbt och effektivt. Behovet av att
+            i vissa speciella fall ändå kunna vägra verkställighet tillgodoses
+            enligt utskottets mening genom de vägransgrunder som uppställs
+            i artikel 8 samt genom förekomsten av överordnade rättsprinciper
+            vilka redovisas i de inledande skälen till rambeslutet respektive
+            i artikel 1 punkt 2. Utskottet anser att riksdagen bör godkänna
+            det utkast till rambeslut om ömsesidigt erkännande av beslut om
+            förverkande på grund av brott som utarbetats inom EU. Utskottet
+            tillstyrker således propositionen. Följdlagstiftning i propositioner
+            om godkännande av rambeslut I motion Ju30 (m) tas upp en mer principiell
+            fråga rörande riksdagens behandling av godkännande av rambeslut.
+            Motionärerna anför att propositioner om godkännande av rambeslut
+            inom det rättsliga området också bör innehålla förslag till svensk
+            följdlagstiftning. Möjligheterna att använda sig av rambeslut
+            infördes genom Amsterdamfördraget, som trädde i kraft den 1 maj
+            1999. Införandet av rambeslut var ett led i strävandena att göra
+            bl.a. det straffrättsliga samarbetet inom EU snabbare och mer
+            effektivt. Det fanns en utbredd uppfattning bland medlemsstaterna
+            att samarbetet på detta område inte fungerade tillräckligt bra.
+            En orsak ansågs vara den mellanstatliga karaktären på samarbetet
+            som bl.a. innebar att överenskommelser inom EU på det straffrättsliga
+            området, i likhet med andra internationella överenskommelser,
+            krävde efterföljande ratifikation av medlemsstaterna (se prop.
+            1997/98:58 s. 108 f.). Formellt förändrades inte samarbetets karaktär
+            genom möjligheterna till rambeslut. Det straffrättsliga samarbetet
+            skulle även fortsättningsvis vara mellanstatligt. Till skillnad
+            från tidigare folkrättsligt bindande konventioner på området blir
+            emellertid ett rambeslut bindande för medlemsstaterna så snart
+            det har antagits av regeringarnas företrädare i ministerrådet.
+            Ett rambeslut kräver således ingen efterföljande ratifikation.
+            Medlemsstaterna är skyldiga att se till att beslutet genomförs
+            i enlighet med sina respektive konstitutionella bestämmelser.
+            Det överlåts åt de nationella myndigheterna att bestämma form
+            och tillvägagångssätt för hur rambeslutet skall genomföras (prop.
+            1997/98:58 s. 118 f.). Enligt 10 kap. 2 § regeringsformen måste
+            regeringen inför ett rambeslut inhämta riksdagens godkännande
+            i de fall då beslutet förutsätter att lag ändras eller upphävs
+            eller att ny lag stiftas eller om beslutet i övrigt gäller ett
+            ämne i vilket riksdagen skall besluta. Vidare skall regeringen
+            även i annat fall inhämta riksdagens godkännande om beslutet är
+            av större vikt. En lämplig tidpunkt för riksdagens godkännande
+            är då förhandlingsläget inom EU-samarbetet är sådant att den aktuella
+            överenskommelsen i princip är färdig (se bet. 2001/02:KU18 s.
+            28). Det har visat sig att de tidsramar som gäller för antagande
+            av ett rambeslut i regel innebär att följdlagstiftning inte hinner
+            tas fram samt att ett traditionellt remissförfarande i vissa fall
+            inte hinner genomföras, innan regeringen för riksdagens godkännande
+            lägger fram ett utkast till rambeslut. Riksdagen har under senare
+            år vid ett flertal tillfällen godkänt utkast till rambeslut utan
+            att följdlagstiftningen samtidigt har presenterats. När detta
+            skedde första gången under riksmötet 1999/2000 gjorde justitieutskottet
+            ett principiellt uttalande som gick ut på att utskottet inte kunde
+            se något avgörande skäl mot att godta ett rambeslut vid ett tillfälle
+            och fatta beslut om lagstiftningen vid ett senare tillfälle (bet.
+            1999/2000:JuU20 s. 5 f.). Att avvakta med lagstiftningen borde
+            enligt utskottet emellertid inte ske annat än när det var påkallat
+            av de tidsramar som gällde för EU:s antagande av rambeslutet.
+            Den i praxis godtagna ordningen att riksdagen kan godkänna ett
+            rambeslut som ännu inte föreligger i slutligt skick har kommit
+            till klart uttryck genom en ändring i 10 kap. 2 § regeringsformen,
+            som trädde i kraft den 1 januari 2003. Inte heller i detta sammanhang
+            uttalades något krav på att ett godkännande av ett utkast till
+            rambeslut förutsätter att förslag på följdlagstiftning samtidigt
+            läggs fram (bet. 2001/02:KU18 s. 26 f.). Konstitutionsutskottet
+            aviserade att det - inom ramen för sin allmänna granskning av
+            regeringsärendenas handläggning enligt 12 kap. 1 § regeringsformen
+            - skulle granska regeringens hantering när det gäller inhämtande
+            av riksdagens godkännande enligt 10 kap. 2 § regeringsformen inför
+            regeringens deltagande i rambeslut på andra pelarens och tredje
+            pelarens områden inom EU (bet. 2001/02:KU18 s. 29). En sådan granskning
+            genomfördes under riksmötet 2002/03. Konstitutionsutskottet uttalade
+            då att traditionellt remissförfarande skall tillämpas vid beredningen
+            av en proposition om godkännande av rambeslut i samma utsträckning
+            som vid lagstiftningsärenden (bet. 2002/03:KU10 s. 64). Konstitutionsutskottet
+            insåg att de tidsramar som gäller för antagandet av en överenskommelse
+            i ministerrådet kan medföra svårigheter för regeringen att tillämpa
+            ett traditionellt remissförfarande. Emellertid ville konstitutionsutskottet
+            understryka att underhandskontakter med myndigheter kan ersätta
+            remissbehandling av traditionellt slag endast då detta är oundgängligen
+            påkallat av de tidsramar som gäller för EU:s antagande av en överenskommelse
+            eller andra undantagssituationer. I sammanhanget bör tilläggas
+            att justitieutskottet redan före konstitutionsutskottets granskning,
+            inom ramen för sitt uppföljningsarbete, hade gjort en motsvarande
+            granskning på utskottets område. Granskningen omfattade alla rambeslut
+            och beslut om tillträde till olika internationella konventioner
+            under riksmötena 1995/96-2001/02. Utskottet kunde efter en jämförelse
+            med senare lagstiftningsärenden konstatera att regeringen i propositioner
+            om godkännande av rambeslut i allt väsentligt gjort en korrekt
+            bedömning av lagstiftningsbehovet. Utskottet behandlade motioner
+            rörande rambeslutsprocessen senast i oktober 2004, då i det ovan
+            nämnda betänkandet rörande godkännande av rambeslut med gemensamma
+            minimibestämmelser rörande förverkande på grund av brott (bet.
+            2004/05:JuU5 s. 9 f.). Utskottet delar motionärernas uppfattning
+            att riksdagen skulle få ett bättre underlag för sitt ställningstagande
+            om ärenden om godkännande av rambeslut samtidigt kunde åtföljas
+            av ett förslag till svensk följdlagstiftning. Det har emellertid
+            visat sig att det sällan finns tid till ett sådant förfarande
+            inom de tidsramar som gäller för EU:s antagande av rambeslut.
+            Att avvakta med godkännande av rambeslutet till dess att ett tillfredsställande
+            beredningsunderlag hämtats in och ett lagförslag såvitt avser
+            följdlagstiftning hunnit utarbetas skulle ofta innebära betydande
+            förseningar av antagande av rambeslutet. Då antagandet kräver
+            enhällighet skulle förseningen drabba samtliga övriga medlemsstater.
+            Ett sådant förfarande skulle motverka syftet med institutet rambeslut,
+            och i viss mån innebära en återgång till den ordning som gällde
+            tidigare, före Amsterdamfördraget. En anledning till att rambeslut
+            började användas som rättsligt instrument på det rättsliga området
+            var just ett missnöje med denna ordning. En avvägning måste i
+            regel göras mellan intresset av att anta rambeslutet inom de tidsramar
+            som ställts upp av EU och intresset av att en proposition om godkännande
+            av rambeslut innehåller förslag till följdlagstiftning. Sverige
+            bör inte fördröja antagandet av rambeslut annat än om det finns
+            mycket starka skäl i det enskilda fallet. Någon åtgärd i den nu
+            behandlade principiella frågan torde för närvarande inte vara
+            erforderlig. Utskottet avstyrker bifall till motion Ju30.
+          </p>
+          <p>
+            Reservation Följdlagstiftning i propositioner om rambeslut, punkt
+            2 (m) av Beatrice Ask (m), Jeppe Johnsson (m) och Cecilia Magnusson
+            (m). Förslag till riksdagsbeslut Vi anser att förslaget till riksdagsbeslut
+            under punkt 2 borde ha följande lydelse: Riksdagen tillkännager
+            för regeringen som sin mening vad som anförs i reservationen om
+            att propositioner om godkännande av rambeslut även bör omfatta
+            följdlagstiftning. Därmed bifaller riksdagen motion 2004/05:Ju30.
+            Ställningstagande För att effektivt kunna bekämpa grov och organiserad
+            brottslighet, en verksamhet som ofta är gränsöverskridande, krävs
+            verkningsfulla och relevanta verktyg. Vi välkomnar att det inom
+            EU har utarbetats gemensamma regler som väsentligt underlättar
+            verkställighet i en annan medlemsstat av beslut om förverkande
+            på grund av brott. Regeringen har emellertid återigen valt att
+            inte samtidigt med rambeslutet lägga fram ett förslag till den
+            lagstiftning som krävs med anledning av rambeslutet. Enligt vår
+            mening är detta inte en acceptabel lagstiftningsteknik. Det bör
+            vara ett krav att den lagstiftning som bedöms bli aktuell presenteras
+            i sin helhet. Annars blir det inte möjligt att göra en bedömning
+            av rambeslutet och vilka konsekvenser det kommer att få för den
+            svenska lagstiftningen. Enligt vår erfarenhet är det först i samband
+            med att det handgripliga och konkreta förslaget granskas inom
+            ramen för den parlamentariska processen som eventuella brister
+            eller problemområden upptäcks. Vi är medvetna om att de tidsramar
+            som gäller för EU:s antagande av rambeslut försvårar möjligheterna
+            att lägga fram följdlagstiftning i samband med godkännande av
+            rambeslut. För att riksdagen skall ges möjlighet att ta ställning
+            till konsekvenserna av rambeslutet på nationell nivå samtidigt
+            som man godkänner rambeslutet är emellertid ett sådant förfarande
+            i princip nödvändigt. I detta ärende är det emellertid så att
+            det inte ens är bestämt när medlemsstaterna skall ha genomfört
+            bestämmelserna. Dessutom finns ett förhållandevis gediget material
+            framtaget i förverkandefrågan. Förutsättningarna för regeringen
+            att lägga fram förslag till följdlagstiftning borde därför ha
+            förelegat. Regeringen bör åläggas att i fortsättningen presentera
+            förslag till följdlagstiftning i propositioner om godkännande
+            av rambeslut. Särskilt yttrande Följdlagstiftning i propositioner
+            om rambeslut, punkt 2 (mp) Leif Björnlod (mp) anför: För att riksdagen
+            på ett tillfredsställande sätt skall kunna ta ställning till konsekvenserna
+            av ett rambeslut bör i regel förslag till lagstiftning läggas
+            fram samtidigt med begäran om godkännande av rambeslutet. Det
+            är nämligen först i samband med att det konkreta förslaget till
+            lagstiftning granskas, inom ramen för den parlamentariska processen,
+            som eventuella brister eller problemområden i ett rambeslut bäst
+            kan upptäckas. Jag utgår från att regeringen så långt det överhuvudtaget
+            är möjligt ser till att presentera förslag till följdlagstiftning
+            i propositioner om godkännande av rambeslut.
+          </p>
+          <p>
+            Bilaga 1 Förteckning över behandlade förslag Propositionen Proposition
+            2004/05:55 Sveriges antagande av rambeslut om tillämpning av principen
+            om ömsesidigt erkännande på beslut om förverkande: Regeringen
+            föreslår att riksdagen godkänner det inom Europeiska unionen upprättade
+            utkastet till rambeslut om tillämpningen av principen om ömsesidigt
+            erkännande på beslut om förverkande. Följdmotion 2004/05:Ju30
+            av Beatrice Ask m.fl. (m): Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om att propositioner om EU:s
+            rambeslut inom det rättsliga området även bör innehålla förslag
+            om svensk följdlagstiftning.
+          </p>
+          <p>
+            Bilaga 2 Utkast till rambeslut om tillämpning av principen om
+            ömsesidigt erkännande på beslut om förverkande Bilaga 3 Utkast
+            till uttalanden i anslutning till rambeslutet
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

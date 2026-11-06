@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200506_FiU_0005">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Avgiften till EU uppgår till drygt 28 miljarder kronor 2006. Riksdagen sa ja till regeringens budgetförslag.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Avgiften till EU (FiU5)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen. Avslag på motionerna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GT0953</idno>
+              <title>2005-12-16</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">53</biblScope>
+              <note type="display-reference">2005-12-16</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GT0953</idno>
+              <title>2005-12-16</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">53</biblScope>
+              <note type="display-reference">2005-12-16</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GT0K132</idno>
+              <title>2005/06:132</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">132</biblScope>
+              <note type="display-reference">2005/06:132</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GT031</idno>
+              <title>Budgetpropositionen för 2006</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">1</biblScope>
+              <note type="display-reference">proposition 2005/06:1 Budgetpropositionen för 2006</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GT02Fi214</idno>
+              <title>EU:s fonder</title>
+              <title type="sub">av Karin Granbom m.fl. (FP, M, KD, C)</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">Fi214</biblScope>
+              <note type="display-reference">motion 2005/06:Fi214 EU:s fonder</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GT02U379</idno>
+              <title>EU</title>
+              <title type="sub">av Göran Hägglund m.fl. (KD)</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">U379</biblScope>
+              <note type="display-reference">motion 2005/06:U379 EU</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2005-12-08">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2005-12-07">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2005-12-02">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2005-11-29">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2005-11-29">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-11-22">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-11-22">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2005-12-16">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2005-12-16">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2005-12-16">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2005-12-16">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2005-12-16">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2005-12-15">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2005-12-15">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2005-12-14">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2005-12-14">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2005/06:FiU5
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Utgiftsområde 27 avgiften till Europeiska gemenskapen (prop.
+                  2005/06:1)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDABREXB" rend="AvsnittsRubrik">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet tillstyrker utskottet regeringens förslag till
+            anslag inom utgiftsområde 27 Avgiften till Europeiska gemenskapen.
+            Utskottet tillstyrker också att regeringen ska bemyndigas att
+            ikläda staten det utgiftsåtagande som följer av EU-budgeten för
+            budgetåret 2006. Två motioner avstyrks.
+          </p>
+          <p>
+            Till betänkandet har fogats två särskilda yttranden.
+          </p>
+          <p xml:id="IDANREXB" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Anslag inom utgiftsområde 27 under 2006
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen anvisar anslag inom utgiftsområde 27 Avgiften till
+                  Europeiska gemenskapen på det sätt som framgår av bilaga 2 Därmed
+                  bifaller riksdagen proposition 2005/06:1 utgiftsområde 27 punkt
+                  2.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Åtaganden som följer av EU-budgeten för budgetåret 2006
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen bemyndigar regeringen att ikläda statsen de åtanganden
+                  som följer av EU-budgeten för budgetåret 2006 avseende åtagandebemyndiganden.
+                  Därmed bifaller riksdagen proposition 2005/06:1 utgiftsområde
+                  27 punkt 1.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  3.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  EU:s långtidsbudget
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2005/06:U379 av Göran Hägglund m.fl. (kd) yrkande 1.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  4.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Ansökan och mottagande av EU-bidrag
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2005/06:Fi214 av Karin Granbom m.fl. (fp, m, kd, c).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 29 november 2005
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Arne Kjörnsberg
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Arne Kjörnsberg (s),
+            Carin Lundberg (s), Sonia Karlsson (s), Kjell Nordström (s), Lars
+            Bäckström (v), Agneta Ringman (s), Gunnar Axén (m), Bo Bernhardsson
+            (s), Christer Nylander (fp), Roger Tiefensee (c), Hans Hoff (s),
+            Cecilia Widegren (m), Yvonne Ruwaida (mp), Tommy Ternemar (s),
+            Tomas Högström (m), Gunnar Nordmark (fp) och Else-Marie Lindgren
+            (kd).
+          </p>
+          <p xml:id="IDA30EXB" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            I budgetpropositionen för 2006 föreslår regeringen för utgiftsområde
+            27 Avgiften till Europeiska gemenskapen att riksdagen dels anvisar
+            anslag enligt regeringens förslag, dels bemyndigar regeringen
+            att ikläda staten de åtaganden som följer av EU-budgeten för budgetåret
+            2006 avseende åtagandebemyndiganden.
+          </p>
+          <p>
+            Två motioner behandlas i betänkandet.
+          </p>
+          <p>
+            Propositionens och motionernas förslag återges i
+            <seg rend="grad2">
+              bilaga 1
+            </seg>
+            till betänkandet.
+          </p>
+          <p xml:id="IDAS1EXB" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAW1EXB" rend="rubrik2">
+            Anslag och åtagandebemyndigande för 2006 inom utgiftsområde 27
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDA01EXB" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <p rend="textiruta_">
+              Utskottet tillstyrker regeringens förslag till medelsanvisning
+              på utgiftsområde 27. Vidare tillstyrks regeringens förslag att
+              regeringen ska bemyndigas att ikläda staten det utgiftsåtagande
+              som följer av EU-budgeten för budgetåret 2006.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA41EXB" rend="r4">
+              Propositionen
+            </p>
+            <p>
+              I budgetpropositionen föreslår regeringen att riksdagen för budgetåret
+              2006 anvisar 28 066 000 000 kr till ramanslaget 93:1 Avgiften
+              till Europeiska gemenskapen under utgiftsområde 27 Avgiften till
+              Europeiska gemenskapen. Vidare föreslår regeringen att riksdagen
+              bemyndigar regeringen att ikläda staten de åtaganden som följer
+              av EU-budgeten för budgetåret 2006 avseende åtagandebemyndiganden.
+            </p>
+            <p>
+              Utgifterna för 2006 utgörs av Sveriges betalningar under året
+              till Europeiska kommissionen avseende EU-budgeten för 2006, inklusive
+              eventuella korrigeringar avseende tidigare år. Avgiften kan dock
+              förändras under löpande budgetår till följd av faktisk uppbörd
+              av tullar och importavgifter, utfallet av EU-budgeten tidigare
+              år, EU:s tilläggs- och ändringsbudgetar, valutakursförändringar
+              samt andra korrigeringar.
+            </p>
+            <p>
+              Avgiften består av tullar, särskilda tullar på jordbruksprodukter
+              och sockeravgifter, mervärdesskattebaserad avgift, avgift beräknad
+              på bruttonationalinkomsten samt avgift för att täcka Storbritanniens
+              budgetreduktion.
+            </p>
+            <p>
+              Finansieringen av EU-budgeten med avgifter från medlemsstaterna
+              avser utgifter enligt betalningsanslag. Åtagandebemyndiganden,
+              däremot, uttrycker utgiftsåtagande för såväl innevarande som kommande
+              år. Åtagandebemyndiganden styrs dels av tidigare fattade beslut,
+              dels av den årliga budgetprocessen. Regeringen föreslår att den
+              bemyndigas att ikläda staten högst det utgiftsåtagande som följer
+              av fastställd EU-budget för 2006 avseende åtagandebemyndiganden.
+            </p>
+            <p>
+              Medlemsstaternas avgifter ett visst år svarar inte direkt mot
+              åtagandebemyndiganden men kan dock användas som en grov fördelning
+              av åtagandena. I kommissionens budgetförslag föreslås att åtagandebemyndiganden
+              om 121 288 miljoner euro skall ställas till förfogande för 2006
+              (1 107 359 miljoner kronor räknat på 9,13 kr per euro). Sveriges
+              andel av detta 2006 uppgår med fördelning enligt andel av egna
+              medel till 2,69 %, dvs. 3 263 miljoner euro (29 791 miljoner kronor).
+            </p>
+            <p>
+              Inga motioner har väckts med anledning av propositionens förslag.
+            </p>
+            <p xml:id="IDAT2EXB" rend="r4">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              På förslag av finansutskottet har riksdagen den 23 november 2005
+              ställt sig bakom regeringens förslag till utgiftsram för 2006
+              för det aktuella utgiftsområdet (bet. 2005/06:FiU1, rskr. 2005/06:34).
+              Under riksdagens fortsatta beredning av anslagen får denna ram
+              inte överskridas. För utgiftsområde 27 Avgiften till Europeiska
+              gemenskapen beslutade riksdagen att fastställa ramen till 28 066
+              miljoner kronor.
+            </p>
+            <p>
+              Utskottet tillstyrker regeringens förslag till medelstilldelning.
+              Vidare tillstyrker utskottet regeringens förslag om åtagandebemyndiganden.
+            </p>
+            <p xml:id="IDA32EXB" rend="rubrik2">
+              EU:s långtidsbudget
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAB3EXB" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <p rend="textiruta_">
+              Utskottet konstaterar i likhet med motionärerna att regeringen
+              redan driver kravet att EU:s budget inte ska överskrida 1 % av
+              bruttonationalinkomsten. Motionen avstyrks därmed.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAF3EXB" rend="r3">
+              Motionen
+            </p>
+            <p>
+              I
+              <seg rend="grad2">
+                motion U379
+              </seg>
+              av Göran Hägglund m.fl. (kd) tas frågan om förhandlingarna om
+              EU:s långtidsbudget upp. Motionärerna erinrar om att Sverige tillsammans
+              med fem andra nettobetalande medlemsländer har framfört att EU:s
+              budget inte bör överstiga 1,0 % av medlemsstaternas samlade bruttonationalinkomst.
+              Kristdemokraterna delar denna uppfattning och menar att EU:s utgifter
+              ska hållas till ett minimum eftersom belastningen på de nettobetalande
+              ländernas skattebetalare annars blir orimligt stor. Kristdemokraterna
+              anser att EU:s utgifter inte ska överskrida 1,0 % av den samlade
+              bruttonationalinkomsten och att varje skattekrona ska användas
+              så effektivt som möjligt. Motionärerna begär ett tillkännagivande
+              om att regeringen inom EU ska verka för att EU:s långtidsbudget
+              inte ska överskrida 1 % av bruttonationalinkomsten (yrkande 1).
+            </p>
+            <p xml:id="IDAP3EXB" rend="r4">
+              Bakgrund
+            </p>
+            <p>
+              I den nu aktuella budgetpropositionen (prop. 2005/06:1, utg.omr.
+              27) anför regeringen att målet för den svenska budgetpolitiken
+              i EU ligger fast i enlighet med riksdagens beslut (prop. 1994/95:40,
+              bet. 1994/95:FiU5, rskr. 1994/95:67). Detta innebär bl.a. att
+              Sverige ska verka för en effektiv och återhållsam budgetpolitik
+              inom unionen. Målet innebär även att Sverige ska verka för en
+              kostnadseffektiv användning av EU:s budgetmedel. Vidare erinrar
+              regeringen om att Sverige tillsammans med Frankrike, Storbritannien,
+              Tyskland, Nederländerna och Österrike har krävt att ett nytt finansiellt
+              perspektiv - Agenda 2007 - inte ska överstiga 1,00 % av EU:s BNI.
+            </p>
+            <p>
+              Finansutskottet välkomnade i förra årets betänkande om det aktuella
+              utgiftsområdet (bet. 2004/05:FiU5) att regeringen i diskussionerna
+              om Agenda 2007 hade fört en stram linje och förutsatte att regeringen
+              skulle fortsätta att agera i enlighet med de av riksdagen fastställda
+              målen.
+            </p>
+            <p>
+              Frågan om det finansiella perspektivet behandlas i EU:s ministerråd.
+              Inför varje möte i ministerrådet där frågan är aktuell samråder
+              regeringen med EU-nämnden om förhandlingarna.
+            </p>
+            <p>
+              När det gäller frågan om att varje skattekrona ska användas så
+              effektivt som möjligt kan nämnas att kommissionen i sitt meddelande
+              om EU:s långtidsbudget 2007-2013, KOM (2004) 487, analyserar det
+              europeiska mervärde som dess förslag om långtidsbudget ger upphov
+              till. Kommissionen använder sig av kriterierna effektivitet, kostnadseffektivitet
+              och samordning. Av faktapromemoria 2004/05:FPM42 om meddelandet
+              framgår att regeringen håller med om behovet av att analysera
+              och redovisa det europeiska mervärdet av de föreslagna åtgärderna.
+              Regeringen anser dock att den mervärdesanalys som kommissionen
+              presenterar behöver fördjupas.
+            </p>
+            <p>
+              I en rapport från Sieps (Svenska institutet för europapolitiska
+              studier)
+              <hi rend="superscript">
+                1
+              </hi>
+              [
+              <seg type="html-hanvisning">
+                Daniel Tarschys, The Enigma of European Added Value. Setting
+                Priorities for the European Union. Sieps rapport 2005:4.
+              </seg>
+              ] diskuteras begreppet europeiskt mervärde. En stor utmaning
+              är enligt rapporten att göra en djupare studie av EU:s samlade
+              utgifter och identifiera vilka områden som är över- respektive
+              underfinansierade. Mer pengar är inte det enda sättet att få till
+              stånd ett djupare samarbete i Europa. Det finns, framhålls i rapporten,
+              också gott om tillfällen att öka effekterna genom att omdisponera
+              medel som redan står under EU:s kontroll.
+            </p>
+            <p xml:id="IDAF4EXB" rend="r4">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              I likhet med motionärerna kan utskottet konstatera att regeringen
+              redan driver kravet om att EU:s budget inte ska överskrida 1,00
+              % av bruttonationalinkomsten.
+            </p>
+            <p>
+              Någon riksdagens åtgärd är således inte påkallad och motion U379
+              (kd) yrkande 1 avstyrks därmed.
+            </p>
+            <p xml:id="IDAP4EXB" rend="rubrik2">
+              Ansökan och mottagande av EU-bidrag
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAT4EXB" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <p rend="textiruta_">
+              Utskottet avstyrker en motion om ansökan och mottagande av EU-bidrag
+              med hänvisning till vidtagna åtgärder.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAX4EXB" rend="r3">
+              Motionen
+            </p>
+            <p>
+              I
+              <seg rend="grad2">
+                motion FI214
+              </seg>
+              av Karin Granbom m.fl. (fp, m, kd, c) begärs ett tillkännagivande
+              om behovet av en utredning som ser över vilka strukturella problem
+              som föreligger i samband med ansökan och mottagande av EU-bidrag.
+            </p>
+            <p>
+              Ett sätt att minska Sveriges nettobetalning till EU vore enligt
+              motionärerna att öka inflödet. Sverige och svenskarna utnyttjar
+              tyvärr inte fullt ut sina möjligheter att få stöd från EU-fonder
+              och EU-program. I dag står regeringen passiv inför det faktum
+              att Sverige förlorar bidrag från EU på grund av att vi själva
+              inte tar itu med svenska hinder. Detta måste ändras.
+            </p>
+            <p xml:id="IDAE5EXB" rend="r4">
+              Bakgrund
+            </p>
+            <p>
+              Regeringen beslutade i december 2004 om direktiv till en särskild
+              utredare med uppdrag att lämna förslag till en organisation för
+              genomförande av EU:s sammanhållningspolitik m.m. inför den kommande
+              programperioden 2007-2013, Organisationsutredningen för regional
+              tillväxt (dir. 2004:177). Utredningens huvuduppgift är att föreslå
+              former för en bättre samordning mellan EU:s strukturfonder och
+              den svenska nationella regionala utvecklingspolitiken.
+            </p>
+            <p>
+              I direktiven konstateras att den nuvarande utformningen av genomförandeorganisationerna
+              i realiteten innebär att det finns flera genomförandesystem för
+              den nationella regionala utvecklingspolitiken samt för EU:s sammanhållningspolitik
+              och sysselsättningspolitik. Många av de organisationer och myndigheter,
+              som i en remissbehandling lämnat synpunkter på en tidigare rapport,
+              har förordat en bättre samordning mellan de olika politikområdena.
+            </p>
+            <p>
+              Utredningen har levererat ett delbetänkande (Stärkt konkurrenskraft
+              och sysselsättning i en ny geografi - en samlad förvaltning med
+              politisk styrning, SOU 2005:93). Slutbetänkandet kommer i januari
+              2006.
+            </p>
+            <p>
+              I delbetänkandet konstateras att i den kommande strukturfondsperioden
+              ska fondernas ändamål bli tydligare. Programmen blir färre och
+              ska vara utformade för att komplettera varandra.
+            </p>
+            <p>
+              Utredningen finner att trots att strukturfonderna tillsammans
+              med den nationella medfinansieringen omfattar mycket stora ekonomiska
+              resurser, är det svårt att utläsa långsiktigt positiva effekter
+              på näringsliv och sysselsättning.
+            </p>
+            <p>
+              Stödmedlen har av allt att döma fördelats till alltför många
+              små projekt utan enhetligt mål och sammanhang. En ny organisation
+              bör inriktas på så långtgående samordning som möjligt av politikområden
+              som avser regional utveckling för att leda till fler konkurrenskraftiga
+              företag och fler människor i arbete. Förvaltningsorganisationen
+              ska, enligt utredningens uppfattning, bidra till att strategier
+              och program kan förverkligas. I slutbetänkandet kommer man att
+              återkomma med förslag till processer och organisation för att
+              utarbeta regionala och nationella utvecklingsstrategier och program.
+            </p>
+            <p>
+              Verket för näringslivsutveckling, Nutek, har i uppdrag att bl.a.
+              identifiera möjliga förenklingar och förbättringar i strukturfondssystemet
+              och förse regeringen med lägesrapporter för samtliga strukturfondsprogram.
+              Nutek arbetar med samordning för att få samma bedömning av projekten
+              hos de olika förvaltningsmyndigheterna och skapar plattformar
+              för att få ut information snabbt och därmed minska riskerna för
+              senare eventuella återbetalningskrav.
+            </p>
+            <p>
+              Nutek levererar lägesrapporter till regeringen om hur det går
+              i arbetet med EU:s strukturfonder i Sverige. Rapporterna täcker
+              in alla strukturfondsprogram som Sverige tar del av. De visar
+              hur många beslut som har fattats, hur mycket pengar som har betalats
+              ut till projekt och hur mycket som har rekvirerats till Sverige
+              från EU-kommissionen. I en rapport från mars 2005 konstaterar
+              Nutek att beslutstakten, utbetalningstakten och rekvisitionshanteringen
+              är god för de allra flesta program.
+            </p>
+            <p>
+              I regeringens skrivelse 2005/06:23 Sveriges handlingsprogram
+              för tillväxt och sysselsättning anger regeringen att man avser
+              att under 2006 lägga fram en samlad nationell strategi för regional
+              utveckling i syfte att stärka styrningen och dialogen mellan de
+              nationella, regionala och lokala nivåerna. Syftet är att klargöra
+              regeringens mål för den regionala utvecklingspolitiken och genomförandet
+              av sammanhållningspolitiken i linje med Europeiska kommissionens
+              initiativ att stärka den strategiska inriktningen för sammanhållningspolitiken.
+            </p>
+            <p xml:id="IDAFAFXB" rend="r4">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Frågan om samordningen mellan EU:s strukturfonder och den svenska
+              nationella regionala utvecklingspolitiken har aktualiserats i
+              den ovan redovisade utredningen. Vidare har Nutek i uppdrag att
+              identifiera möjliga förenklingar och förbättringar i strukturfondssystemet.
+            </p>
+            <p>
+              Utskottet finner inte skäl till att ställa sig bakom motion Fi214
+              (fp, m, kd, c), vilken därmed avstyrks.
+            </p>
+            <p xml:id="IDAVAFXB" rend="AvsnittsRubrik">
+              Särskilda yttranden
+            </p>
+          </div>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDAZAFXB">
+                  <p rend="ettsarskiltyttrande">
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="ettsarskiltyttrande">
+                    EU:s långtidsbudget, punkt 3 (kd)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p>
+                    Else-Marie Lindgren (kd) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Förhandlingarna om EU:s långtidsbudget är aktuella. Jag vill
+              erinra om att Sverige tillsammans med fem andra nettobetalande
+              medlemsländer har framfört att EU:s budget inte bör överstiga
+              1,0 % av medlemsstaternas samlade bruttonationalinkomst. Kristdemokraterna
+              delar denna uppfattning och menar att EU:s utgifter ska hållas
+              till ett minimum eftersom belastningen på de nettobetalande ländernas
+              skattebetalare annars blir orimligt stor. Varje skattekrona ska
+              användas så effektivt som möjligt.
+            </p>
+            <p>
+              Det är av stor vikt att regeringen driver denna linje i de pågående
+              förhandlingarna.
+            </p>
+          </div>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDA1CFXB">
+                  <p rend="ettsarskiltyttrande">
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="ettsarskiltyttrande">
+                    Hanteringen av EU-medel (m, fp, kd, c)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p>
+                    Gunnar Axén (m), Christer Nylander (fp), Roger Tiefensee (c),
+                    Cecilia Widegren (m), Tomas Högström (m), Gunnar Nordmark (fp)
+                    och Else-Marie Lindgren (kd) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Regeringen utnyttjar budgetmedel relaterade till EU i syfte att
+              kringgå utgiftstaket och reglerna för budgetprocessen. Vi vill
+              i detta sammanhang framhålla att regeringens sätt att utnyttja
+              EU-ersättningarna till de svenska jordbruksföretagarna i budgetreglerande
+              syfte är helt oacceptabelt. För att regeringen ska klara utgiftstaket
+              utbetalas nu i stort sett alla EU-ersättningar på fel kalenderår,
+              dvs. i början av det påföljande året i stället för i november
+              det år medlen borde utbetalas. Regeringens agerande ger svenska
+              bönder en sämre konkurrensförmåga jämfört med kollegerna i resten
+              av Europa. De EU-ersättningar som förskjuts över årsskiftet motsvarar
+              hela arbetsinkomsten i svenska jordbruk.
+            </p>
+            <p>
+              Regeringens laborerande med EU-ersättningarna sker i syfte att
+              på papperet klara utgiftstaket men drabbar de svenska jordbrukarna
+              orimligt hårt.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDA3EFXB" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAAFFXB" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2005/06:1 Budgetpropositionen för 2006 utgiftsområde
+              27:
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen bemyndigar regeringen att ikläda staten de åtaganden
+                    som följer av EU-budgeten för budgetåret 2006 avseende åtagandebemyndiganden
+                    (avsnitt 5).
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen för 2006 anvisar anslag under utgiftsområde 27 Avgiften
+                    till Europeiska gemenskapen enligt följande uppställning:
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellunderrubrik grad2">
+              Tusental kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell>
+                  <p rend="tabellhuvudvanster grad1">
+                    Anslag
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger grad1">
+                    Anslagstyp
+                  </p>
+                </cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    93:1 Avgiften till Europeiska gemenskapen
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    ramanslag
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    28 066 000
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext grad1">
+                    Summa
+                  </p>
+                </cell>
+                <cell/>
+                <cell>
+                  <p rend="tabellkroppsiffror grad1">
+                    28 066 000
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAHLFXB" rend="rubrik2">
+              Motioner från allmänna motionstiden hösten 2005
+            </p>
+            <p rend="behandlatdokument_">
+              2005/06:Fi214 av Karin Granbom m.fl. (fp, m, kd, c):
+            </p>
+            <p type="html-endastettyrkande">
+              Riksdagen tillkännager för regeringen som sin mening vad i motionen
+              anförs om behovet av en utredning som ser över vilka strukturella
+              problem som föreligger i samband med ansökan och mottagande av
+              EU-bidrag.
+            </p>
+            <p rend="behandlatdokument_">
+              2005/06:U379 av Göran Hägglund m.fl. (kd):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad i motionen
+                    anförs om att regeringen inom EU skall verka för att EU:s långtidsbudget
+                    inte skall överskrida 1 % av BNI.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDA5MFXB" rend="BilageRubrik">
+              Förslag till beslut om anslag inom utgiftsområde 27 Avgiften
+              till Europeiska gemenskapen
+            </p>
+            <p>
+              Utskottets förslag överensstämmer med regeringens förslag till
+              anslagsfördelning inom utgiftsområdet.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellunderrubrik grad2">
+              Tusental kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell>
+                  <p rend="tabellhuvudvanster grad1">
+                    Anslag
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    Utskottets förslag
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    93:1 Avgiften till Europeiska gemenskapen
+                    <seg rend="grad2">
+                      (ram)
+                    </seg>
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    28 066 000
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext grad1">
+                    Summa
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror grad1">
+                    28 066 000
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

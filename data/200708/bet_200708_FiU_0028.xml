@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200708_FiU_0028">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksrevisionen har lämnat sin årsredovisning för 2007 till riksdagen. Finansutskottet tycker att det är bra att Riksrevisionen utvecklat olika nyckeltal i årsredovisningen. Men Riksrevisionen bör återkomma med en tydlig redovisning av om de ökade nedlagda resurserna per granskning, där extern kompetens i form av konsulter varit en viktig del, medfört avsedd kvalitetshöjning. Vidare borde effekterna av tidigare års felaktigt redovisade pensionskostnader ha framgått tydligare av årsredovisningen. Riksdagen avslutade ärendet med detta.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Riksrevisionens årsredovisning (FiU28)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Redogörelsen läggs till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GV09116</idno>
+              <title>2008-05-21</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">116</biblScope>
+              <note type="display-reference">2008-05-21</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GV09115</idno>
+              <title>2008-05-20</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">115</biblScope>
+              <note type="display-reference">2008-05-20</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GV0K198</idno>
+              <title>2007/08:198</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">198</biblScope>
+              <note type="display-reference">2007/08:198</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="redogorelse">
+              <idno type="riksdagen">GV04RRS10</idno>
+              <title>Riksrevisionens styrelses redogörelse angående Riksrevisionens årsredovisning för 2007</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">RRS10</biblScope>
+              <note type="display-reference">redogorelse 2007/08:RRS10 Riksrevisionens styrelses redogörelse angående Riksrevisionens årsredovisning för 2007</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2008-05-16">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2008-05-16">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-05-12">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-05-12">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-05-12">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-05-06">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-05-06">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-05-06">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-04-22">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-04-22">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2008-05-21">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-05-21">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-05-21">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-05-20">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-05-20">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-05-19">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-05-19">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-05-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-05-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2007/08:FiU28
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Riksrevisionens årsredovisning
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBCPE" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            Efter avslutad revision föreslår finansutskottet att riksdagen
+            lägger Riksrevisionens årsredovisning för 2007 till handlingarna.
+            Årsredovisningen har överlämnats från Riksrevisionens styrelse
+            i form av en redogörelse (redog. 2007/08:RRS10). Utskottet konstaterar
+            att den anlitade revisorn bedömer att Riksrevisionens årsredovisning
+            i allt väsentligt är rättvisande. Revisionsberättelsen är således
+            ren. Utskottet välkomnar att Riksrevisionen utvecklat olika nyckeltal
+            i årsredovisningen. Dock anser utskottet att Riksrevisionen bör
+            återkomma till riksdagen med en tydlig redovisning av huruvida
+            de ökade nedlagda resurserna per granskning, där extern kompetens
+            i form av konsulter varit en viktig del, medfört avsedd kvalitetshöjning.
+            Vidare borde effekterna av tidigare års felaktigt redovisade pensionskostnader
+            enligt utskottet ha framgått tydligare av årsredovisningen.
+          </p>
+          <p>
+            Utöver årsredovisningen kommenteras i betänkandet också en rapport
+            av Riksrevisionen som redovisar resultatet av 2008 års uppföljning
+            av granskningsrapporter och revisionsberättelser med invändning.
+            Rapporten är den andra i sitt slag och är svar på finansutskottets
+            önskemål om att Riksrevisionen ska redovisa för riksdagen vad
+            granskningarna har lett till. Utskottet är positivt till uppföljningsrapporten
+            och konstaterar att ytterligare steg har tagits i riktning mot
+            att fokusera uppföljningen på effekterna i den granskade verksamheten.
+          </p>
+          <p xml:id="IDAMBCPE" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Riksrevisionens årsredovisning för 2007
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger redogörelse 2007/08:RRS10 till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 6 maj 2008
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Thomas Östros (s), Ulf Sjösten (m), Anna Lilliehöök (m), Sonia
+            Karlsson (s), Lars Elinderson (m), Roger Tiefensee (c), Monica
+            Green (s), Johan Pehrson (fp), Hans Hoff (s), Peder Wachtmeister
+            (m), Agneta Gille (s), Ulla Andersson (v), Emma Henriksson (kd),
+            Mikaela Valtersson (mp), Ann-Charlotte Hammar Johnsson (m) och
+            Christina Zedell (s).
+          </p>
+          <p xml:id="IDAOECPE" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            Enligt lagen (2006:999) med ekonomiadministrativa bestämmelser
+            m.m. för riksdagsförvaltningen, Riksdagens ombudsmän och Riksrevisionen
+            ska Riksrevisionen senast den 22 februari lämna en årsredovisning
+            till riksdagen för det senast avslutade räkenskapsåret. Riksrevisionens
+            styrelse har överlämnat myndighetens årsredovisning till riksdagen
+            i form av en redogörelse (redog. 2007/08:RRS10).
+          </p>
+          <p>
+            Ingen motion har väckts med anledning av redogörelsen.
+          </p>
+          <p>
+            Finansutskottet ansvarar för att revision görs av Riksrevisionen.
+            För den uppgiften anlitas revisionsbyrån Grant Thornton Sweden
+            AB. Revisionsberättelsen och revisionspromemorian (inklusive en
+            rättelse till revisionspromemorian) finns tillgängliga hos finansutskottet
+            (dnr 060-2270-2007/08).
+          </p>
+          <p>
+            I detta sammanhang kommenteras också Uppföljningrapport 2008,
+            som innehåller Riksrevisionens egen uppföljning av resultatet
+            av sina granskningar. Denna rapport publicerades den 18 april
+            2008.
+          </p>
+          <p>
+            I en bilaga i betänkandet finns en förteckning över behandlade
+            förslag.
+          </p>
+          <p xml:id="IDABFCPE" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAFFCPE" rend="rubrik2">
+            Riksrevisionens årsredovisning för 2007
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDALFCPE" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Efter avslutad revision lägger riksdagen Riksrevisionens årsredovisning
+                för 2007 till handlingarna. Utskottet konstaterar att den anlitade
+                revisorn bedömer att Riksrevisionens årsredovisning i allt väsentligt
+                är rättvisande. Utskottet välkomnar att Riksrevisionen utvecklat
+                olika nyckeltal i årsredovisningen. Dock bör Riksrevisionen återkomma
+                till riksdagen med en tydlig redovisning av huruvida de ökade
+                nedlagda resurserna per granskning medfört avsedd kvalitetshöjning.
+                Vidare borde effekterna av tidigare års felaktigt redovisade pensionskostnader
+                ha framgått tydligare av årsredovisningen. Utskottet är positivt
+                till Riksrevisionens uppföljningsrapport 2008 och konstaterar
+                att ytterligare steg har tagits i riktning mot att fokusera uppföljningen
+                på effekterna i den granskade verksamheten.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAXFCPE" rend="r3">
+              Redogörelsen
+            </p>
+            <p>
+              Riksrevisorerna skriver i årsredovisningen att målet för 2007
+              var att prioritera granskningsverksamheten. Detta har uppnåtts
+              dels genom minskad administration, dels genom ökad kostnadseffektivitet
+              i verksamheten.
+            </p>
+            <p xml:id="IDA3FCPE" rend="r4">
+              Anslag och anslagssparande
+            </p>
+            <p>
+              I tabell 1 redovisas disponibla anslag, utfall samt anslagssparande
+              för budgetåret 2007.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 1 Anslag och anslagssparande 2007
+            </p>
+            <p rend="tabellunderrubrik grad2">
+              Tusental kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              <graphic url="Shape{2D9E2A7A-4807-44D1-A63D-E04634B84E4A}.png"/>
+            </p>
+            <p>
+              Utgifterna på anslaget 90:1 Riksrevisionen överstiger de anvisade
+              medlen med ca 1,5 miljoner kronor. Det innebär att en del av det
+              ingående anslagssparandet tagits i anspråk för att finansiera
+              verksamheten under 2007. För anslag 8:5 Riksrevisionen: Internationellt
+              utvecklingssamarbete har 92 % av anslaget utnyttjats. Uppdragen
+              under första hälften av verksamhetsåret 2007 kom inte upp till
+              samma nivå som 2006. Under andra halvåret ökade dock verksamhetens
+              omfattning. Riksrevisionen bedömer för båda anslagen att verksamheternas
+              omfattning motsvarar anslagsutrymmet.
+            </p>
+            <p xml:id="IDAZGCPE" rend="r4">
+              Verksamhetens kostnader
+            </p>
+            <p>
+              De totala kostnaderna för Riksrevisionens verksamhet inklusive
+              transfereringar uppgick 2007 till sammanlagt 335 miljoner kronor.
+              Av tabell 2 framgår hur kostnaderna totalt och uppdelat på verksamhetsgrenar
+              förändrats mellan 2006 och 2007. En nyhet i årsredovisningen för
+              2007 är den del som benämns Övrig avrapportering och externa kontakter.
+              Kostnaderna för denna verksamhet har tidigare år huvudsakligen
+              redovisats som effektivitetsrevision eller gemensamma kostnader.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 2 Kostnader för verksamhetsgrenarna
+            </p>
+            <p rend="tabellunderrubrik grad2">
+              Tusental kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              <graphic url="Shape{5EA50DF9-71D4-4C31-9C82-5D794261D4EC}.png"/>
+            </p>
+            <p>
+              Som framgår av tabellen har kostnaderna för årlig revision ökat
+              marginellt jämfört med 2006. Samtidigt har kostnaderna för effektivitetsrevision
+              ökat med drygt 18 miljoner kronor eller 13 %. Detta är en följd
+              av den ökade satsningen på denna del av verksamheten. Den internationella
+              verksamheten har minskade kostnader till följd av bl.a. en nedgång
+              inom det internationella utvecklingssamarbetet. Kostnaderna för
+              Övrig rapportering och externa kontakter har ökat med närmare
+              9 miljoner kronor eller hela 41 %, vilket förklaras av att flera
+              av de aktiviteter som redovisas här är nya för året.
+            </p>
+            <p>
+              Myndighetens operativa tid har ökat från 58 % 2006 till 63 %
+              2007 samtidigt som de administrativa kostnaderna minskat från
+              170,5 till 166,4 miljoner kronor. Operativ tid definieras som
+              den tid som redovisas på ovanstående verksamhetsgrenar (externa
+              prestationer) medan icke-operativ tid är tid nedlagd på exempelvis
+              stödverksamhet och kompetensutveckling (interna prestationer).
+            </p>
+            <p>
+              Antalet årsarbetskrafter för verksamhetsåret 2007 var 287, vilket
+              innebär en minskning med 6 årsarbetskrafter jämfört med 2006.
+              Minskningen kan nästan uteslutande hänföras till stödverksamhet
+              och administration. Samtidigt har driftskostnaderna per årsarbetskraft
+              ökat med ca 10 % 2007 jämfört med 2006. Den största delen av ökningen
+              förklaras av ökade personalkostnader. Avgångar under 2007 har
+              också inneburit att kostnaderna för rekrytering ökat. Riksrevisionen
+              har haft ett par år med relativt hög personalomsättning.
+            </p>
+            <p xml:id="IDA1HCPE" rend="r4">
+              Årlig revision
+            </p>
+            <p>
+              Riksrevisionen har under året lämnat revisionsberättelser för
+              totalt 260 myndigheter och revisorsintyg avseende delårsrapporter
+              för 84 myndigheter. Granskningen har omfattat de objekt som anges
+              i lag och har genomförts i tid och i enlighet med god revisionssed.
+              Riksrevisonen har vidare förordnat revisorer i 27 bolag och 6
+              stiftelser under 2007. Revision av bolag och stiftelser har ökat
+              genom en inriktning och koncentration på färre bolag där en mer
+              kraftfull insats genomförts.
+            </p>
+            <p>
+              Riksrevisionen ska sedan den 1 januari 2004 ta ut avgift för
+              årlig revision. Avgiften ska beräknas så att full kostnadstäckning
+              uppnås. Riksrevisionen disponerar inte avgifterna. Den avgiftsbelagda
+              verksamheten uppvisar ett överskott på 7,2 miljoner kronor 2007.
+            </p>
+            <p xml:id="IDAHIDPE" rend="r4">
+              Effektivitetsrevisionen
+            </p>
+            <p>
+              Målet för effektivitetsrevisionen var enligt verksamhetsplanen
+              för 2007 att slutföra minst 30 granskningsrapporter med hög kvalitet
+              och huvudsakligen inom ett antal fastlagda granskningsinriktningar.
+              Granskningsinriktningarna var bl.a. Regeringens styrning, uppföljning
+              och rapportering, Informationskvalitet i staten samt Statliga
+              bolag och stiftelser. Det kvantitativa målet om minst 30 granskningar
+              nåddes.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 3 Kostnader för effektivitetsgranskningar
+            </p>
+            <p rend="tabellunderrubrik grad2">
+              Tusental kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              <graphic url="Shape{CE719638-BB6E-4913-93A0-124A8DBDE5AE}.png"/>
+            </p>
+            <p>
+              Av tabell 3 framgår den genomsnittliga kostnaden per granskning.
+              I jämförelse med 2006 har styckkostnaden per granskning ökat från
+              3,1 till 3,3 miljoner kronor. En anledning till de ökade kostnaderna
+              är enligt Riksrevisionen att flera av de nya granskningsinriktningarna
+              krävt nya typer av kompetens då de avsett mer komplicerade områden.
+            </p>
+            <p xml:id="IDADJDPE" rend="r4">
+              Internationell verksamhet
+            </p>
+            <p>
+              Den internationella verksamheten finansieras till viss del av
+              anslaget 90:1 Riksrevisionen. Denna del av verksamheten avser
+              bl.a. samverkan inom ramen för Intosai (International Organization
+              of Supreme Audit Institutions) samt samarbete inom EU.
+            </p>
+            <p>
+              Vidare ska Riksrevisionen bedriva internationellt utvecklingssamarbete
+              med syfte att utveckla institutionell kapacitet inom statlig revision
+              i fattiga länder. Denna del finansieras av anslag 8:6 Riksrevisionen:
+              Internationellt utvecklingssamarbete. Riksrevisionen har under
+              2007 bedrivit sex samarbetsprojekt i södra Afrika, i Östeuropa
+              och på Balkan. Vidare påbörjades under hösten ett samarbete med
+              revisionsmyndigheten i Indonesien. Det internationella utvecklingssamarbetet
+              är nu i högre grad orienterat mot den externa revisionens roll
+              i reformeringen av systemet för offentlig finansiell styrning
+              i respektive land. Särskilt viktigt är det enligt Riksrevisionen
+              att stödja utvecklingen av parlamentens kontrollmakt. Kostnaderna
+              för den internationella verksamheten har minskat jämfört med 2006
+              främst beroende på att det tidigare dominerande samarbetet med
+              Moçambique avslutades i början av 2007.
+            </p>
+            <p>
+              Riksrevisionen bedriver även avgiftsfinansierad internationell
+              verksamhet i mindre omfattning. Verksamheten ska bedrivas med
+              full kostnadstäckning. Uppdragsverksamheten uppvisar ett mindre
+              överskott 2007.
+            </p>
+            <p xml:id="IDAPJDPE" rend="r4">
+              Övrig avrapportering och externa kontakter
+            </p>
+            <p>
+              I syfte att öka kunskapen om revisionens resultat och möjligheter
+              har Riksrevisionen under året genomfört ett antal aktiviteter
+              på olika arenor och för olika målgrupper. Bland annat har tio
+              av riksdagens utskott fått en allmän genomgång av Riksrevisionens
+              verksamhet och en fördjupad presentation av granskningsverksamheten
+              inom respektive utskotts område. Vidare har Riksrevisionen genomfört
+              ett seminarium i samarbete med Europeiska revisionsrätten och
+              deltagit i Kvalitetsmässan. Temat för dessa två aktiviteter var
+              hur revisionen kan bidra till en effektivare verksamhet. Kostnaderna
+              för efterarbete (dvs. efter publiceringsdatum) har ökat tre år
+              i rad. Detta ligger i linje med den ökade uppmärksamhet som granskningarna
+              fått och med den uttalade ambitionen att öka kommunikationsinsatserna
+              efter publicering.
+            </p>
+            <p>
+              Till Övrig avrapportering räknas Riksrevisionens årliga rapport
+              samt rapporten Uppföljning av Riksrevisionens granskningar. Sistnämnda
+              rapport publicerades första gången 2007.
+            </p>
+            <p xml:id="IDAYJDPE" rend="r4">
+              Styrelsen
+            </p>
+            <p>
+              Riksrevisionens styrelse prövar fritt vilka beslut riksdagen
+              bör överväga med anledning av riksrevisorernas iakttagelser och
+              rekommendationer. Styrelsen har under året slutbehandlat 25 effektivitetgranskningar.
+              I 22 fall har styrelsen utnyttjat sin initiativrätt och överlämnat
+              ärendet till riksdagen i form av en framställning eller redogörelse.
+              Styrelsen lade tre granskningar till handlingarna.
+            </p>
+            <p xml:id="IDA4JDPE" rend="r3">
+              Externrevision av revisionsbyrån Grant Thornton Sweden AB
+            </p>
+            <p>
+              Revisionsberättelse från revisionsbyrån Grant Thornton Sweden
+              AB (här kallad externrevisorn) inkom till finansutskottet den
+              20 mars 2008. Riksrevisionens årsredovisning för 2007 bedöms av
+              externrevisorn vara i allt väsentligt rättvisande, årsredovisningen
+              är således ren. Som komplement till revisionsberättelsen sammanfattas
+              iakttagelserna vid granskningen i en revisionspromemoria.
+            </p>
+            <p xml:id="IDAEKDPE" rend="r4">
+              Måluppfyllelse och formulering av mål
+            </p>
+            <p>
+              Externrevisorn har tidigare rekommenderat att målbegreppet för
+              effektivitetsrevisionen borde ses över, vara mer relevant för
+              verksamheten och tydligare för läsaren. För den internationella
+              verksamheten har föreslagits att målen och graden av måluppfyllelse
+              borde förtydligas i årsredovisningen. I årets revisionspromemoria
+              skriver externrevisorn att man anser att Riksrevisionen har utvecklat
+              redovisningen av effektivitetsrevisionens arbete under 2007. Vad
+              gäller den internationella verksamheten anser externrevisorn att
+              viss otydlighet kvarstår vad gäller redovisning av mål, hur målen
+              uppnåtts samt hur det ska mätas huruvida uppsatta mål uppnåtts.
+            </p>
+            <p xml:id="IDAKKDPE" rend="r4">
+              Felaktig redovisning av pensionsavtal
+            </p>
+            <p>
+              Externrevisorn påpekar att Riksrevisionen under åren 20032006
+              har redovisat felaktiga pensionskostnader till följd av att de
+              tre riksrevisorerna redovisats under fel pensionsavtal. Kostnaden
+              har reserverats som en periodavgränsningspost och har påverkat
+              årets resultat med ca 5 miljoner kronor. En effekt av detta är
+              att hela det reserverade beloppet på 9,6 miljoner kronor kommer
+              att belasta anslaget för 2008 och således påverka ramarna för
+              verksamheten under 2008. Mot bakgrund av att detta är en väsentlig
+              händelse och dessutom en jämförelsestörande post anser externrevisorn
+              att informationen kring den är knapphändig i årsredovisningen.
+              Externrevisorn rekommenderar även en mer regelbunden avstämning
+              och kontroll av pensionsskulder samt utökad kommunikation med
+              Statens pensionsverk för att säkerställa att inrapporterade uppgifter
+              är kompletta och korrekta. Mot bakgrund av det inträffade har
+              Riksrevisionen i januari 2008 påbörjat en genomgång av rutiner
+              och ansvarsfördelning mellan ekonomi och personalfunktion, enligt
+              externrevisorn.
+            </p>
+            <p xml:id="IDAQKDPE" rend="r4">
+              Ökade konsultkostnader
+            </p>
+            <p>
+              Externrevisorn påpekar att konsultkostnaderna ökat med 4,5 miljoner
+              kronor och att de därmed uppgår till 32,1 miljoner kronor 2007
+              (enligt den rättelse som inkommit till den ursprungliga revisionspromemorian).
+              Som en följd av ökade kostnader trots minskat antal årsarbetskrafter
+              har nyckeltalet driftskostnader per årsarbetskraft ökat med 10
+              % 2007. Den ökade driftskostnaden per årsarbetskraft förklaras
+              också av att den retroaktivt debiterade pensionskostnaden ingår
+              i årets driftskostnader.
+            </p>
+            <p xml:id="IDAWKDPE" rend="r3">
+              Riksrevisionens uppföljningsrapport 2008
+            </p>
+            <p>
+              Detta är Riksrevisionens andra uppföljningsrapport i sitt slag.
+              Den huvudsakliga mottagaren är riksdagen. Rapporten är ett svar
+              på finansutskottets önskemål om att Riksrevisionen ska redovisa
+              för riksdagen vad granskningarna har lett till. Uppföljningen
+              ska ge riksdagen underlag för att bedöma Riksrevisionens resultat,
+              dvs. om granskningen har bidragit till en bättre statlig verksamhet.
+              I huvudsak avser uppföljningen åtgärder som vidtagits t.o.m. januari
+              2008.
+            </p>
+            <p xml:id="IDA2KDPE" rend="r4">
+              Regeringens och riksdagens behandling av granskningarna
+            </p>
+            <p>
+              Riksrevisionen har sedan starten och fram t.o.m. december 2007
+              publicerat 120 granskningsrapporter inom effektivitetsrevisionen.
+              I budgetpropositionen för 2008 anger regeringen att 67 granskningsrapporter
+              är slutbehandlade. Det motsvarar tre fjärdedelar av de totalt
+              90 rapporter som publicerats mellan 2003 och 2006. Det är enligt
+              Riksrevisionen ibland svårt att förstå på vilka grunder regeringen
+              bedömer att ett revisionsärende är avslutat och vilka beslut som
+              regeringen hänvisar till. Regeringen har i flera fall angett att
+              ett granskningsärende lagts till handlingarna (ad acta) innan
+              det formellt har kommenterats i budgetpropositionen. I ytterligare
+              några fall har granskningen lagts till handlingarna innan riksdagen
+              har fattat beslut om styrelsens framställning eller redogörelse.
+              I ett sådant fall beslutade riksdagen om bifall till framställningen.
+              I några fall är hänvisningarna felaktiga.
+            </p>
+            <p>
+              Riksrevisionens styrelse har lämnat drygt tre av fyra granskningsrapporter
+              vidare till riksdagen för behandling i flertalet fall i form av
+              framställning till riksdagsbeslut. Samtliga redogörelser som har
+              behandlats av riksdagen har lagts till handlingarna. Av de 49
+              framställningar som hittills har behandlats har 11 bifallits helt
+              eller delvis medan 38, eller drygt tre fjärdedelar, har avslagits.
+              I de flesta fall motiverar det beredande utskottet sitt beslut
+              om avslag med att regeringen har aviserat att granskningen och
+              rekommendationerna bereds i Regeringskansliet eller att regeringen
+              och de granskade organisationerna redan har tagit initiativ till
+              förändringar. Det formella beslutet om avslag betyder dock inte
+              att utskottet ansett granskningen oviktig. I många fall gör utskottet
+              en markering om vilka brister det anser angeläget att åtgärda
+              eller vad det förväntar sig att regeringen ska åstadkomma och
+              vid ett senare tillfälle informera riksdagen om.
+            </p>
+            <p xml:id="IDAFLDPE" rend="r4">
+              Djupare granskning av fem effektivitetsrapporter
+            </p>
+            <p>
+              Riksrevisionen har valt ut fem granskningsrapporter från 2004
+              och 2005 som följts upp lite djupare. Samtliga har av regeringen
+              angetts som slutbehandlade. Ett viktigt syfte med denna djupare
+              uppföljning är att se om det är möjligt att efter några år kunna
+              spåra inte bara vidtagna eller planerade åtgärder, utan också
+              mer påtagliga effekter i verksamheten som ett resultat av granskningen.
+              Uppföljningsresultaten bygger på relevant dokumentation samt på
+              intervjuer med eller upplysningar från företrädare för de granskade
+              organisationerna och Regeringskansliet.
+            </p>
+            <p>
+              Exempelvis visar uppföljningen av en granskning om arbetslöshetsförsäkringen
+              att ett flertal åtgärder har vidtagits av de granskade organisationerna
+              för att stärka kontrollfunktionen inom detta område. Problemen
+              som iakttogs i granskningarna har minskat sedan rapporterna publicerades.
+              De granskade organisationerna har i samband med uppföljningen
+              uttalat att granskningarna utgjort ett bra stöd i förändringsarbetet
+              för att uppnå en bättre kontrollfunktion.
+            </p>
+            <p>
+              Ett annat exempel, en fördjupad uppföljning av en granskning
+              om återgång i arbete efter förtidspensionering, visar att regeringen
+              och Försäkringskassan inte beaktat flertalet av de rekommendationer
+              som Riksrevisionen lämnade. Dock konstaterar Riksrevisionen att
+              de problem som påpekades i granskningen getts större uppmärksamhet.
+              Regeringen och Försäkringskassan har initierat eller genomfört
+              visst arbete som har anknytning till de problem Riksrevisionen
+              pekade på i sin granskning.
+            </p>
+            <p xml:id="IDARLDPE" rend="r4">
+              Tematisk uppföljning av 27 granskningsrapporter
+            </p>
+            <p>
+              I ett särskilt avsnitt redovisas resultatet av uppföljningen
+              för 27 granskningsrapporter tematiskt under rubrikerna Statliga
+              bolags verksamhet och styrning, Statens tillsyn över kommunal
+              och privat verksamhet, Arbetsförmedling och arbetsmarknadspolitiska
+              insatser samt Skyddet av statens informationstillgångar.
+            </p>
+            <p>
+              När det exempelvis gäller bolagens externa rapportering och de
+              ekonomiska målen samt kapitalstrukturen i fastighetsbolagen har
+              regeringen vidtagit en del åtgärder som ligger i linje med Riksrevisionens
+              rekommendationer. Vidare har regeringen aviserat att man ska se
+              över formerna för styrningen av de statliga bolagen. På tillsynsområdet
+              har regeringen tagit vissa initiativ till att åtgärda bristerna
+              i statens tillsyn på olika områden utifrån de enskilda granskningarna.
+              Regeringen har uttalat en avsikt att få till stånd en effektivare
+              och tydligare statlig tillsyn som även ska vara likvärdig och
+              konkurrensneutral i hela landet. Några konkreta resultat av ett
+              sådant mer samlat grepp om statens tillsyn har ännu inte presenterats.
+            </p>
+            <p xml:id="IDA0LDPE" rend="r4">
+              Bilaga med kortfattad uppföljning av 63 granskningsrapporter
+            </p>
+            <p>
+              Uppföljningsrapporten innehåller också en separat bilaga med
+              en kortfattad beskrivning av resultatet från uppföljningen av
+              63 granskningsrapporter inom effektivitetsrevisionen. Resultatet
+              presenteras per utskott. För de tidigast publicerade granskningsrapporterna
+              har information från skriftliga dokument ofta kompletterats med
+              upplysningar från de granskade myndigheterna och bolagen och ibland
+              också från Regeringskansliet.
+            </p>
+            <p xml:id="IDAAMDPE" rend="r4">
+              Behandlingen av den årliga revisionens invändningar
+            </p>
+            <p>
+              Den årliga revisionen avseende verksamhetsåret 2006 resulterade
+              i att elva myndigheter fick invändning i revisionsberättelsen.
+              Riksrevisionen redovisar hur de berörda myndigheterna och regeringen
+              har behandlat dessa invändningar. Uppföljningen visar att de brister
+              som ledde till invändningarna är omhändertagna på ett tillfredsställande
+              sätt.
+            </p>
+            <p xml:id="IDAGMDPE" rend="r4">
+              Riksrevisorernas avslutande kommentarer
+            </p>
+            <p>
+              Riksrevisorerna skriver i uppföljningsrapportens avslutande kommentarer
+              att det allmänna intrycket utifrån årets uppföljning är att Riksrevisionens
+              granskning ger upphov till en mängd åtgärder i den statliga verksamheten.
+              I samband med uppföljningen har företrädare för såväl berörda
+              myndigheter som Regeringskansliet uttryckt att granskningarna
+              har medverkat till att viktiga frågor blivit uppmärksammade. De
+              har också varit till hjälp i det arbete som följt därefter. Exempel
+              på granskningar där resultaten tagits om hand och omsatts i konkreta
+              åtgärder är de om marklösen och fastighetsmäklare. Samtidigt konstaterar
+              riksrevisorerna att problem i vissa fall kvarstår flera år efter
+              granskningen. Riksrevisorerna betonar behovet av att regeringen
+              utvecklar sin rapportering till riksdagen av hur granskningsresultaten
+              tas om hand. För att det ska kunna ske behövs enligt riksrevisorerna
+              förändringar i särskilt tre avseenden, nämligen
+            </p>
+            <p rend="punktlistaLista">
+              en mer sammanhållen redovisning av regeringens vidtagna eller
+              planerade åtgärder,
+            </p>
+            <p rend="punktlistaLista">
+              en tydligare angivelse av på vilka grunder regeringen anger en
+              granskningsrapport som slutbehandlad samt
+            </p>
+            <p rend="punktlistaLista">
+              krav på rapportering från myndigheter till regeringen när det
+              gäller åtgärder med anledning av granskningsrapporter.
+            </p>
+            <p xml:id="IDABNDPE" rend="r3">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              Utskottet konstaterar att den anlitade revisorn bedömer att Riksrevisionens
+              årsredovisning i allt väsentligt är rättvisande. Revisionsberättelsen
+              är således ren.
+            </p>
+            <p xml:id="IDAHNDPE" rend="r4">
+              Utvecklad redovisning av nyckeltal
+            </p>
+            <p>
+              Utskottet välkomnar att Riksrevisionen har utvecklat redovisningen
+              av nyckeltal i årsredovisningen. Exempelvis går det i årsredovisningen
+              för 2007 att utläsa kostnader och förbrukade timmar uppdelat på
+              områdesbevakning, förstudier och granskningar. Också den genomsnittliga
+              kostnaden per avslutad granskning redovisas. En annan nyhet är
+              att Riksrevisionen särredovisar kostnaderna och resultaten för
+              Övrig avrapportering och externa kontakter. Utskottet anser att
+              dessa förändringar sammantaget ökar informationsvärdet i årsredovisningen.
+            </p>
+            <p xml:id="IDANNDPE" rend="r4">
+              Ökade resursinsatser per granskning
+            </p>
+            <p>
+              Kostnaderna för de olika delarna av Riksrevisionens verksamhet
+              har utvecklats åt skilda håll. Kostnaderna för den internationella
+              verksamheten har minskat rejält samtidigt som kostnaderna för
+              särskilt Effektivitetsrevision samt Övrig avrapportering och externa
+              kontakter ökat kraftigt. Sistnämnda kostnadsökningar är enligt
+              vad Riksrevisionen skriver i årsredovisningen resultatet av en
+              medveten satsning. Utskottet noterar att den ökade satsningen
+              på granskningsverksamheten har åstadkommits bl.a. genom minskade
+              administrativa kostnader. Den s.k. operativa tiden har också ökat.
+              Under året har Riksrevisionen slutfört 30 granskningsrapporter,
+              vilket innebär att det kvantitativa mål som sattes upp i myndighetens
+              verksamhetsplan för 2007 har uppnåtts. Samtidigt noterar utskottet
+              att kostnaden per granskningsrapport ökat från 3,1 till 3,3 miljoner
+              kronor. I årsredovisningen förklarar Riksrevisionen kostnadsökningen
+              med att man velat öka resursinsatserna i varje enskild granskning
+              i syfte att öka kvaliteten genom bredare och djupare granskningar.
+              En del av resursökningen har tillförts i form av extern kompetens
+              genom exempelvis samarbete med universitet och högskolor. Utskottet
+              anser att Riksrevisionen bör återkomma till riksdagen med en tydlig
+              redovisning av huruvida de ökade nedlagda resurserna per granskning,
+              där extern kompetens i form av konsulter varit en viktig del,
+              också medfört den avsedda kvalitetshöjningen. För verksamheten
+              som helhet har ökade konsultkostnader bidragit till att verksamhetens
+              kostnader ökat trots att antalet årsarbetskrafter minskat. Konsultkostnaderna
+              ökade med 4,5 miljoner kronor och uppgick sammanlagt till drygt
+              32 miljoner kronor 2007.
+            </p>
+            <p xml:id="IDATNDPE" rend="r4">
+              Övrig avrapportering och externa kontakter
+            </p>
+            <p>
+              Utskottet noterar att kostnaderna för verksamhetsgrenen Övrig
+              avrapportering och extern kommunikation ökar med hela 41 % eller
+              7,5 miljoner kronor. Bakom ökningen ligger som framgår av årsredovisningen
+              en del nya aktiviteter, bl.a. den uppföljningsrapport som publicerades
+              första gången 2007. Uppföljningsrapporten har tagits fram enligt
+              önskemål från finansutskottet och kommenteras under särskild rubrik
+              nedan. Det är enligt utskottet bra att Riksrevisionen arbetar
+              strategiskt och långsiktigt med att kommunicera resultatet av
+              granskningsverksamheten till relevanta målgrupper. Med tanke på
+              att exempelvis uppföljningsrapporten och en del andra aktiviteter
+              på detta område är nya för 2007 är det också naturligt att kostnaderna
+              ökat kraftigt jämfört med året innan. Utskottet förutsätter dock
+              att kostnaderna på detta område framöver kommer att stabiliseras,
+              i och med att verksamheten finner sina former.
+            </p>
+            <p xml:id="IDAZNDPE" rend="r4">
+              Den internationella verksamheten
+            </p>
+            <p>
+              Som framgått ovan har kostnaderna för den internationella delen
+              av verksamheten minskat kraftigt 2007, vilket bl.a. resulterat
+              i att verksamheten uppvisar ett ganska högt anslagssparande. Nedgången
+              jämfört med 2006 beror enligt Riksrevisionen på att det tidigare
+              dominerande samarbetet med Moçambique avslutades i början av 2007.
+              Utskottet anser att målen och graden av måluppfyllelse för den
+              internationella verksamheten bör förtydligas i årsredovisningen.
+            </p>
+            <p xml:id="IDA5NDPE" rend="r4">
+              Pensionsskulden
+            </p>
+            <p>
+              Externrevisorn anmärker på att årsredovisningen alltför knapphändigt
+              redovisar effekterna på årets resultat av tidigare års felaktigt
+              redovisade pensionskostnader (5 miljoner kronor). Hela det reserverade
+              beloppet på 9,6 miljoner kronor kommer vidare att belasta anslaget
+              för 2008 och således påverka ramarna för verksamheten 2008. Utskottet
+              anser att informationen om effekterna av tidigare års felaktigt
+              redovisade pensionskostnader borde ha framgått tydligare av årsredovisningen.
+              Detta mot bakgrund av att det är en väsentlig händelse och en
+              jämförelsestörande post. Utskottet förutsätter vidare att Riksrevisionen,
+              för att undvika liknande händelser i framtiden, förbättrar rutinerna
+              för avstämning och kontroll av pensionsskulder.
+            </p>
+            <p xml:id="IDAFODPE" rend="r4">
+              Riksrevisionens uppföljningsrapport 2008
+            </p>
+            <p>
+              Vid behandlingen av förra årets uppföljningsrapport, som också
+              var den första i ordningen, betonade utskottet vikten av att fokus
+              i uppföljningen, utöver regeringens åtgärder med anledning av
+              granskningarna, ligger på effekterna i den granskade verksamheten
+              (bet. 2006/07:FiU18). I vilken mån har exempelvis en myndighets
+              verksamhet förbättrats som en följd av Riksrevisionens granskning?
+              Utskottet ansåg vidare att förra årets uppföljningsrapport var
+              en utmärkt början på en fördjupad uppföljning av huruvida staten
+              får ett mer effektivt utbyte av sina insatser tack vare Riksrevisionens
+              verksamhet. I samband med årets uppföljningsrapport kan konstateras
+              att ytterligare steg tagits i den riktning utskottet efterfrågade,
+              dvs. att fokusera uppföljningen på effekterna i den granskade
+              verksamheten. Det gäller i synnerhet det avsnitt i rapporten som
+              beskriver en djupare uppföljning av fem effektivitetsrapporter.
+              Årets uppföljningsrapport innehåller även i övrigt tydlig redovisning
+              av resultatet av Riksrevisionens granskningar.
+            </p>
+            <p>
+              Riksrevisorerna betonar i sina avslutande kommentarer behovet
+              av att utveckla regeringens rapportering till riksdagen av hur
+              granskningsresultaten tas om hand. Utskottet anser att denna fråga
+              ligger inom ramen för den parlamentariska utredning som har i
+              uppdrag att följa upp revisionsreformen och vars uppdrag ska redovisas
+              senast den 1 november 2008.
+            </p>
+            <p xml:id="IDAOODPE" rend="r4">
+              Utskottets förslag till riksdagsbeslut
+            </p>
+            <p>
+              Utskottet föreslår att riksdagen lägger redogörelsen angående
+              Riksrevisionens årsredovisning 2007 till handlingarna.
+            </p>
+            <p xml:id="IDAUODPE" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAXODPE" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDA0ODPE" rend="rubrik2">
+              Redogörelsen
+            </p>
+            <p>
+              Redogörelse 2007/08:RRS10 Riksrevisionens styrelses redogörelse
+              angående Riksrevisionens årsredovisning för 2007.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

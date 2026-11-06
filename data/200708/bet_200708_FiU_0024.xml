@@ -1,0 +1,2883 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200708_FiU_0024">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Finansutskottet har gjort en utvärdering av penningpolitiken under treårsperioden 2005-2007. Utskottets grundläggande bedömning är att Riksbanken under perioden har fört en väl avvägd penningpolitik. Utskottet konstaterar dock att inflationen började stiga snabbt i slutet av 2007 på ett sätt som inte fångats upp i Riksbankens prognoser. Med facit i hand innebär detta att Riksbanken möjligtvis borde ha höjt reporäntan lite snabbare under kanske framför allt 2006 för att motverka den snabbt stigande inflationstakten under 2007. Finansutskottet har beslutat att vart fjärde år ge externa experter i uppdrag att utvärdera den svenska penningpolitiken. Den första utvärderingen beräknas vara klar hösten 2011.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Utvärdering av penningpolitiken (FiU24)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Riksdagen godkänner vad utskottet anfört.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GV09129</idno>
+              <title>2008-06-16</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">129</biblScope>
+              <note type="display-reference">2008-06-16</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GV09129</idno>
+              <title>2008-06-16</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">129</biblScope>
+              <note type="display-reference">2008-06-16</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GV0K247</idno>
+              <title>2007/08:247</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">247</biblScope>
+              <note type="display-reference">2007/08:247</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GV0K248</idno>
+              <title>2007/08:248</title>
+              <biblScope unit="riksdag-session">2007/08</biblScope>
+              <biblScope unit="document-number">248</biblScope>
+              <note type="display-reference">2007/08:248</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2008-06-12">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2008-06-12">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-06-09">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-06-09">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-06-09">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-06-09">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-06-05">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-06-05">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-05-22">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-05-22">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-05-13">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-04-08">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2008-06-16">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-06-16">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-06-16">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-06-16">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-06-16">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-06-13">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-06-13">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-06-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-06-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2007/08:FiU24
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Utvärdering av penningpolitiken
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACBKUL" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            Utskottet redovisar sin återkommande utvärdering av penningpolitiken
+            under den senaste treårsperioden, som nu omfattar perioden 20052007.
+            Utskottet redovisar även en uppföljning av professorerna Francesco
+            Giavazzis och Frederic Mishkins utvärdering av den svenska penningpolitiken
+            19952005 vilka beslut och åtgärder som vidtagits med anledning
+            av utvärderingen.
+          </p>
+          <p>
+            Utskottets grundläggande bedömning är att Riksbanken under perioden
+            20052007 fört en väl avvägd penningpolitik. Inflationen har varit
+            låg under större delen av perioden och legat under inflationsmålet
+            men inom det s.k. toleransintervallet. Trots den låga inflationen
+            har tillväxten i den svenska ekonomin varit relativt hög. Inflationen
+            har stigit successivt under perioden, och utskottets utvärdering
+            visar att Riksbankens prognoser ganska väl fångat den stigande
+            inflationstrenden. Riksbankens inflationsbedömningar under perioden
+            har varit jämförelsevis träffsäkra. Utvärderingen visar också
+            att det finns ett tydligt samband mellan Riksbankens syn på utvecklingen
+            vid olika tillfällen och direktionens tagna räntebeslut. Utskottet
+            konstaterar dock att inflationen började stiga snabbt i slutet
+            av 2007 på ett sätt som inte fångats upp i Riksbankens prognoser.
+            Med facit i hand innebär detta att Riksbanken möjligtvis borde
+            ha höjt reporäntan lite snabbare under kanske framför allt 2006
+            för att motverka den snabbt stigande inflationstakten under 2007.
+            Inflationsuppgången beror dock till stor del på kraftigt stigande
+            priser på energi och livsmedel, vilka torde ha varit svåra att
+            förutse under 2005 och 2006. Utskottet konstaterar vidare att
+            Riksbanken, i likhet med så gott som alla prognosmakare, under
+            perioden gjort felbedömningar av tillväxt- och sysselsättningsutvecklingen,
+            bl.a. på grund av att man missbedömt produktiviteten. Som underlag
+            för utvärderingen använder utskottet bl.a. Riksbankens rapport
+            Underlag för utvärdering av penningpolitiken 20052007. Utskottet
+            anser att nästa års underlagsrapport bör kompletteras med djupare
+            analyser av orsakerna till varför Riksbanken felbedömt t.ex. produktivitets-
+            och sysselsättningsutvecklingen.
+          </p>
+          <p>
+            Utskottets uppföljning av utvärderingen av den svenska penningpolitiken
+            19952005 visar att den har varit mycket värdefull. Till följd
+            av utvärderingen har såväl riksdagen som Riksbanken genomfört
+            en rad åtgärder som ytterligare bidrar till att öka öppenheten
+            och den offentliga diskussionen om penningpolitiken samt till
+            en i förlängningen fortsatt väl fungerande svensk penningpolitik.
+            Riksbanken har enligt utskottet ytterligare befäst sin position
+            som en av de bästa centralbankerna i världen. Utskottet konstaterar
+            att det finns behov av regelbundet återkommande externa utvärderingar.
+            Utskottet har därför beslutat att vart fjärde år ge externa experter
+            i uppdrag att utvärdera den svenska penningpolitiken. Den första
+            utvärderingen enligt detta schema beräknas vara klar hösten 2011.
+          </p>
+          <p xml:id="IDAPBKUL" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Uppföljning av utvärderingen 19952005
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen godkänner vad utskottet anfört om resultatet av utvärderingen
+                  av den svenska penningpolitiken 19952005.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation (v)
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Utvärdering av penningpolitiken 20052007
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen godkänner vad utskottet anfört om penningpolitiken
+                  20052007.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 5 juni 2008
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Thomas Östros (s), Ulf Sjösten (m), Anna Lilliehöök (m), Sonia
+            Karlsson (s), Lars Elinderson (m), Roger Tiefensee (c), Monica
+            Green (s), Peder Wachtmeister (m), Agneta Gille (s), Göran Pettersson
+            (m), Ulla Andersson (v), Tommy Ternemar (s), Emma Henriksson (kd),
+            Mikaela Valtersson (mp), Christina Zedell (s) och Gunnar Andrén
+            (fp).
+          </p>
+          <p xml:id="IDAEHKUL" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAHHKUL" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            När den nya riksbankslagen trädde i kraft 1 januari 1999 beslutade
+            utskottet att göra en årlig utvärdering av den förda penningpolitiken.
+            Utvärderingarna har tidigare redovisats i anslutning till utskottets
+            årliga behandling av Riksbankens förvaltning. I slutet av 2007
+            beslutade utskottet att utvärderingarna i framtiden ska redovisas
+            i ett separat betänkande. I detta betänkande presenteras utvärderingen
+            av den svenska penningpolitiken 20052007.
+          </p>
+          <p>
+            Förutom utvärderingen av penningpolitiken perioden 20052007 redovisas
+            i betänkandet en uppföljning av En utvärdering av den svenska
+            penningpolitiken 19952005 (2006/07:RFR1) vilka åtgärder och beslut
+            som vidtagits med anledning av utvärderingen.
+          </p>
+          <p xml:id="IDARHKUL" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAVHKUL" rend="rubrik2">
+            Uppföljning av utvärderingen 19952005
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDA1HKUL" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen godkänner vad utskottet anfört om uppföljningen av
+                utvärderingen av den svenska penningpolitiken 19952005. Uppföljningen
+                visar att utvärderingen varit mycket värdefull. Till följd av
+                utvärderingen har såväl riksdagen som Riksbanken genomfört en
+                rad åtgärder som ytterligare bidrar till att öka öppenheten och
+                den offentliga diskussionen om penningpolitiken samt till en i
+                förlängningen fortsatt väl fungerande svensk penningpolitik.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksbanken har enligt utskottet befäst sin position som en av
+                de bästa centralbankerna i världen. Tidvis har dock Riksbankens
+                kommunikation varit föremål för en intensiv debatt. Kritik har
+                bl.a. framförts mot Riksbankens beslut att inte ge penningpolitiska
+                signaler mellan de penningpolitiska mötena. Dagens penningpolitik
+                kräver en starkt utvecklad öppenhet. Samtidigt är det utskottets
+                uppfattning att de penningpolitiska besluten ska följa riksbankslagens
+                intentioner. Diskussionen och besluten om räntan ska ske kollektivt
+                på direktionens penningpolitiska möten. Alltför detaljerad information
+                inför beslutssammanträdena riskerar att föregripa direktionens
+                diskussion och beslut och leda till att de verkliga besluten fattas
+                innan och utanför direktionens möten. Riksbankens nya kommunikationspolicy,
+                som presenterades i maj 2008, förefaller att tillgodose Riksbankens
+                och marknadernas behov av att ge och få information mellan de
+                penningpolitiska mötena utan att viktiga principer för det penningpolitiska
+                beslutsfattandet åsidosätts.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Utskottet välkomnar riksbanksfullmäktiges arbete med att utveckla
+                sin kontrollerande funktion, bl.a. vad gäller den penningpolitiska
+                processen.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Uppföljningen visar att det finns behov av regelbundet återkommande
+                externa utvärderingar. Utskottet har därför beslutat att vart
+                fjärde år ge externa experter i uppdrag att utvärdera den svenska
+                penningpolitiken. Den första utvärderingen enligt detta schema
+                beräknas vara klar hösten 2011.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation (v).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAVINUL" rend="r3">
+              Inledning
+            </p>
+            <p>
+              Utskottet beslutade våren 2005 att genomföra en extern och oberoende
+              utvärdering av penningpolitiken 19952005. Uppdraget gick till
+              de internationellt välrenommerade professorerna Francesco Giavazzi
+              och Frederic Mishkin. Den färdiga utvärderingen presenterades
+              i november 2006 och behandlades av utskottet våren 2007 efter
+              att utvärderingen varit på remiss hos ett antal instanser (se
+              Rapport från riksdagen 2006/07:RFR1 samt betänkande 2006/07:FiU27).
+            </p>
+            <p>
+              Nedan presenteras kortfattat slutsatserna i Giavazzis och Mishkins
+              utvärdering samt vilka beslut och åtgärder som Riksbanken och
+              riksdagen vidtagit och genomfört med anledning av utvärderingen.
+            </p>
+            <p xml:id="IDA4INUL" rend="r3">
+              Slutsatserna i Giavazzis och Mishkins utvärdering
+            </p>
+            <p>
+              Utvärderingens övergripande slutsats var att Riksbanken stod
+              sig väl i jämförelse med de bästa centralbankerna i världen samt
+              att den svenska penningpolitiken förbättrats avsevärt till följd
+              av inflationsmålspolitiken och Riksbankens ökade självständighet.
+              Enligt utvärderingen hade dock inflationen under senare delen
+              av utvärderingsperioden konsekvent underskridit Riksbankens inflationsmål,
+              vilket varit förknippat med produktionsbortfall och högre arbetslöshet.
+              Utvärderarna menade också att Riksbanken varit något mindre effektiv
+              att tydligt kommunicera sin strategi för penningpolitiken.
+            </p>
+            <p>
+              I utvärderingen presenterades nio rekommendationer uppdelade
+              på genomförandet av penningpolitiken samt styrningen av penningpolitiken.
+              Rekommendationerna presenteras kortfattat i punkterna nedan:
+            </p>
+            <p xml:id="IDAHJNUL" rend="r4">
+              Genomförandet av penningpolitiken
+            </p>
+            <p>
+              <seg rend="grad1">
+                Rekommendation 1:
+              </seg>
+              Riksbanken bör förtydliga att flexibiliteten i inflationsmålsregimen
+              innebär att den penningpolitik som banken bedriver syftar till
+              att dämpa svängningar i både inflationen och sysselsättningen
+              (produktionen). Det bör i inledningen till Riksbankens inflationsrapporter
+              finnas ett uttalande och en förklaring om att Riksbanken bedriver
+              en flexibel inflationsmålsregim som syftar till att dämpa svängningar
+              i såväl sysselsättningen (och produktionen) som inflationen.
+            </p>
+            <p>
+              <seg rend="grad1">
+                Rekommendation 2:
+              </seg>
+              Riksbanken bör förtydliga att tillgångspriser (huspriser, aktievärden
+              och valutakurser) inte är självständiga mål för penningpolitiken.
+              En flexibel inflationsmålsregim som går ut på att dämpa svängningar
+              i sysselsättningen och inflationen bör inte fokusera på tillgångspriser
+              eller reagera på dessa utöver deras konsekvenser för sysselsättning
+              och inflation. Viss hänsyn bör tas till svängningar i tillgångspriser
+              eftersom de kan påverka den framtida inflationen och sysselsättningen
+              via effekter på hushållens förmögenheter eller stabiliteten i
+              de finansiella instituten.
+            </p>
+            <p>
+              <seg rend="grad1">
+                Rekommendation 3:
+              </seg>
+              Ett varaktigt underskridande av inflationsmålet talar för att
+              penningpolitiken bör luta mot att bli mer expansiv (medan ett
+              varaktigt överskridande av inflationsmålet bör föranleda att penningpolitiken
+              blir relativt sett stramare). Utvärderarna argumenterar för att
+              penningpolitiken bör utvecklas till en kompenserande och historieberoende
+              räntepolitik.
+            </p>
+            <p>
+              <seg rend="grad1">
+                Rekommendation 4:
+              </seg>
+              Riksbanken bör lämna mer information om den framtida räntebana
+              som ligger till grund för bankens inflationsprognoser och ekonomiska
+              prognoser, men klargöra att en sådan räntebana omgärdas av osäkerhet.
+              Banken bör i sina inflationsrapporter tillhandahålla information
+              om denna räntebana med hjälp av kurvor (trattdiagram) som visar
+              den framtida räntebanans ungefärliga riktning men även den osäkerhet
+              som omgärdar den, och därmed inte binder Riksbanken till en särskild
+              styrräntenivå i framtiden.
+            </p>
+            <p>
+              <seg rend="grad1">
+                Rekommendation 5:
+              </seg>
+              Inflationsmålet bör definieras i termer av ett prisindex som
+              inte direkt påverkas av boendekostnader. Det nuvarande KPI-måttet
+              inkluderar en viktig post som i huvudsak utgörs av bolåneräntan
+              multiplicerad med ett index för värdet på fastighetsstocken. Detta
+              mått är inte det som Riksbanken bör fokusera på för att stabilisera
+              ekonomin. Det absolut bästa sättet att lösa detta problem skulle
+              vara att Statistiska centralbyrån ändrade definitionen av KPI
+              på det sätt som har skett i andra länder, däribland euroområdet,
+              för att rensa bort husprisers och räntors inflytande på KPI-måttet.
+              En annan lösning skulle vara att Riksbanken klargör att inflationsmålet
+              definieras i form av ett mått som inte omfattar räntor och huspriser
+              (t.ex. UND1X).
+            </p>
+            <p>
+              <seg rend="grad1">
+                Rekommendation 6:
+              </seg>
+              Det finns inga övertygande skäl att ändra inflationsmålets nivå
+              från 2 %. Ytterligare undersökningar om vad som är en lämplig
+              nivå för inflationsmålet kan emellertid vara givande om de utförs
+              av fackexperter.
+            </p>
+            <p xml:id="IDAOKNUL" rend="r4">
+              Styrningen av penningpolitiken
+            </p>
+            <p>
+              <seg rend="grad1">
+                Rekommendation 7:
+              </seg>
+              Dialogen mellan Sveriges riksdag och Riksbanken behöver förbättras
+              genom att offentliggörandet av inflationsrapporten skiljs från
+              diskussionen om rapporten i finansutskottet. Inflationsrapporten
+              bör göras tillgänglig för alla parter, däribland riksdagens finansutskott,
+              vid samma tidpunkt, men det bör ske minst en till två veckor före
+              finansutskottets utfrågning om rapporten. Finansutskottet bör
+              överväga att i sin utvärdering anlita externa experter. Detta
+              skulle väsentligt höja kvaliteten på den penningpolitiska debatten
+              och öka möjligheterna att ställa Riksbanken till svars.
+            </p>
+            <p>
+              <seg rend="grad1">
+                Rekommendation 8:
+              </seg>
+              Riksdagen är en viktig plats för offentliga debatter om penningpolitiken.
+              Om debatten om penningpolitiken bland allmänheten och i synnerhet
+              i riksdagen förbättras, finns det inte samma behov för regeringsföreträdare
+              att uttrycka sina egna åsikter om penningpolitiken.
+            </p>
+            <p>
+              <seg rend="grad1">
+                Rekommendation 9:
+              </seg>
+              Personer som nomineras till Riksbankens direktion bör framträda
+              i utfrågningar i finansutskottet innan de utses. Eftersom centralbanker
+              är en av de statliga myndigheter som har störst självständighet
+              måste deras tjänstemän genomgå en noggrann offentlig granskning
+              innan de utses.
+            </p>
+            <p>
+              Vid sidan av dessa rekommendationer föreslås i utvärderingen
+              att bl.a. Riksbankens interna organisation omprövas. En tydlig
+              åtskillnad bör etableras mellan direktionsledamöternas roll och
+              ledningen av banken. Det operativa ansvaret för bankens verksamhet
+              bör läggas på riksbankschefen, och övriga direktionsledamöter
+              bör få utrymme att ägna sig åt sin huvudsakliga uppgift att fatta
+              penningpolitiska beslut. I utvärderingen föreslås också att det
+              rullande schemat för utnämning av direktionsledamöter återställs
+              till det ursprungligen tänkta schemat om en tillsättning per år.
+              Dessutom anser utvärderarna att man bör överväga att minska antalet
+              ledamöter i direktionen samt att den karensperiod på ett år som
+              i dag finns när ledamöter lämnar sin tjänst även bör omfatta politiska
+              uppdrag. I utvärderingen föreslås också att Riksbanken i sitt
+              analysarbete bör lägga mer resurser på att analysera utvecklingen
+              i den reala ekonomin, särskilt vad gäller produktivitetstillväxten
+              och arbetsmarknaden.
+            </p>
+            <p xml:id="IDAGLNUL" rend="r3">
+              Åtgärder som genomförts till följd av utvärderingen
+            </p>
+            <p>
+              Nedan redovisas de viktigaste åtgärderna som kommit till stånd
+              till följd av Giavazzis och Mishkins utvärdering eller förändringar
+              som ligger i linje med utvärderingens resultat.
+            </p>
+            <p xml:id="IDAMLNUL" rend="r4">
+              Åtgärder och beslut tagna av Riksbanken och riksbanksfullmäktige
+            </p>
+            <p>
+              ·. Från och med Penningpolitisk rapport 2007:1 offentliggör Riksbanken
+              sin egen prognos över reporäntans utveckling. Riksbanken går längre
+              än vad utvärderingen rekommenderar i rekommendation 4 genom att
+              Riksbanken redovisar såväl den specifika ränteprognosen som ett
+              osäkerhetsintervall.
+            </p>
+            <p>
+              ·. Sedan Inflationsrapport 2006:2 (nuvarande Penningpolitisk
+              rapport) har Riksbanken i linje med utvärderingens rekommendation
+              1 publicerat en kortfattad deklaration om penningpolitiken i Sverige
+              samt att banken bedriver en flexibel inflationsmålspolitik. Riksbanken
+              har också, i linje med utvärderingens rekommendation 2, på olika
+              sätt förtydligat att tillgångspriser inte utgör självständiga
+              mål i penningpolitiken. Däremot anger banken i sin deklaration
+              i de penningpolitiska rapporterna att banken löpande tar hänsyn
+              till förändringar i tillgångspriser och andra finansiella variabler
+              i de penningpolitiska besluten.
+            </p>
+            <p>
+              ·. I linje med utvärderingens förslag infördes den 1 januari
+              2008 en ny ledningsorganisation i Riksbanken. Den nya organisationen
+              (genom förändrad instruktion) innebär i korthet att direktionen
+              i högre grad än tidigare delegerar den dagliga operativa verksamheten
+              till riksbankschefen. Dessutom har det ansvar som direktionsledamöterna
+              hade inom vissa sakområden tagits bort. Uppgiften att bereda och
+              lägga fram förslag eller underlag till direktionen ligger nu i
+              stället på stabschefen och/eller ansvarig avdelningschef. Enligt
+              den nya instruktionen kan dock direktionen ge en eller flera vice
+              riksbankschefer i uppdrag att företräda banken inom särskilda
+              verksamhetsområden eller i vissa frågor. Förste vice riksbankschefen
+              Irma Rosenberg har t.ex. fått i uppdrag att företräda Riksbanken
+              inom området Penning- och valutapolitik och vice riksbankschefen
+              Lars Nyberg har fått motsvarande uppdrag inom området finansiell
+              stabilitet.
+            </p>
+            <p>
+              ·. I ambitionen att ytterligare öka öppenheten och tydligheten
+              beslutade Riksbanken i maj 2007 att förändra sin kommunikation
+              gentemot allmänheten och marknaderna. Beslutet innebar bl.a. att
+              Riksbanken ska hålla presskonferens efter varje penningpolitiskt
+              möte, dvs. även efter möten där reporäntan inte har förändrats.
+              Tidigare har presskonferenser endast hållits om reporäntan höjts
+              eller sänkts. Beslutet innebar också att direktionsledamöterna,
+              i tal och anföranden, inte längre ska ge några signaler om ränteförändringar
+              mellan de penningpolitiska mötena (i undantagsfall ska dock signaler
+              kunna ges om det finns anledning till det). Vidare beslutades
+              att ledamöterna ska namnges i de penningpolitiska protokollen
+              (tidigare angavs endast en ledamot ansåg etc.). I oktober 2007
+              beslutade banken att även publicera ränteprognoser i samband med
+              de penningpolitiska mötena som inte föregås av en penningpolitisk
+              rapport och en brett genomarbetad prognos. Detta bl.a. för att
+              minska risken för överraskningar.
+            </p>
+            <p>
+              ·. Namnet på det underliggande inflationsmåttet UND1X har ändrats
+              till KPIX. Däremot har Riksbanken i sitt remissyttrande över utvärderingen
+              (samt även finansutskottet i bet. 2006/07:FiU27) motsatt sig huvudförslaget
+              i utvärderingens rekommendation 5 att inflationsmålet bör definieras
+              i termer av ett prisindex som inte direkt påverkas av boendekostnader.
+              Inflationsmålet definieras fortfarande i termer av konsumentprisindex
+              (KPI).
+            </p>
+            <p>
+              ·. I linje med utvärderingens förslag har Riksbanken under de
+              senaste åren lagt större resurser på analyser av den reala ekonomins
+              utveckling, särskilt vad gäller produktiviteten i ekonomi samt
+              utvecklingen på arbetsmarknaden. Olika projekt för att förbättra
+              förståelsen av den reala ekonomin och förbättra prognoserna har
+              satts i gång. Bland annat har Riksbanken vidareutvecklat sina
+              kortsiktsmodeller för utvecklingen på den svenska arbetsmarknaden.
+            </p>
+            <p>
+              I remissyttrandet motsatte sig Riksbanken även utvärderingens
+              rekommendation 3 om att Riksbanken borde fundera på att införa
+              ett kompenserande räntepolitik (vilket även utskottet gjorde i
+              bet. 2006/07:FiU27).
+            </p>
+            <p xml:id="IDA2MNUL" rend="r4">
+              Åtgärder och beslut vidtagna av finansutskottet och riksdagen
+            </p>
+            <p>
+              ·. Den offentliga utfrågningen av riksbankschefen bör ske ungefär
+              två veckor efter att Riksbanken offentliggjort den penningpolitiska
+              rapporten, enligt utskottets beslut. Vid den offentliga utfrågningen
+              bör även protokollet från direktionens penningpolitiska möte vara
+              offentliggjort.
+            </p>
+            <p>
+              ·. De offentliga utfrågningarna med riksbankschefen bör förberedas
+              genom att externa experter bjuds in till utskottet för att kommentera
+              den penningpolitiska rapporten och Riksbankens penningpolitiska
+              beslut. Denna rutin har varit i kraft sedan våren 2007.
+            </p>
+            <p>
+              ·. Finansutskottet bör hålla interna utfrågningar med riksbanksfullmäktiges
+              presidium två gånger per år (vår och höst) eller vid behov. Detta
+              för att utveckla informationen mellan utskottet och fullmäktige
+              samt föra en dialog med fullmäktige om fullmäktiges kontrollfunktion.
+            </p>
+            <p>
+              ·. Utskottet ska även i fortsättningen genomföra årliga utvärderingar
+              av penningpolitiken för de gångna tre åren. Utvärderingarna ska
+              dock redovisas i ett separat betänkande, jämfört med tidigare
+              då utvärderingarna redovisades i samband utskottets behandling
+              av Riksbankens förvaltning och dispositionen av förra årets vinst.
+            </p>
+            <p>
+              ·. Utskottet har vidare beslutat att den första av de två penningpolitiska
+              redogörelser som Riksbanken enligt riksbankslagen årligen ska
+              lämna till finansutskottet ska vara en underlagsrapport för utvärdering
+              av penningpolitiken. Den första redogörelsen i form av en underlagsrapport
+              lämnades till utskottet våren 2008. Penningpolitisk rapport 3
+              varje år ska i likhet med tidigare rutiner utgöra den andra enligt
+              lagen krävda redogörelsen.
+            </p>
+            <p>
+              ·. Som ett viktigt komplement till utskottets egna utvärderingar
+              bör utskottet vart fjärde år ge externa experter i uppdrag att
+              utvärdera den svenska penningpolitiken (se vidare avsnittet Extern
+              utvärdering av penningpolitiken vart fjärde år nedan).
+            </p>
+            <p>
+              ·. Riksdagen beslutade nyligen om en ändring av riksbankslagen
+              med innebörden att mandatperioderna för ledamöterna i direktionen
+              ändras från dagens sex år till fem eller sex år. Detta för att
+              öka möjligheterna att återupprätta det rullande schemat vid tillsättningar
+              av direktionsledamöter. Däremot har utskottet i betänkande 2006/07:FiU27
+              avvisat utvärderingens förslag om att antalet ledamöter i direktionen
+              skulle kunna minskas från sex ledamöter till fem eller t.o.m.
+              fyra ledamöter.
+            </p>
+            <p xml:id="IDAQONUL" rend="r3">
+              Extern utvärdering av penningpolitiken vart fjärde år
+            </p>
+            <p>
+              Som framgår av punkterna ovan har utskottet beslutat att det
+              vart fjärde år bör genomföras en extern utvärdering av den svenska
+              penningpolitiken. Det är enligt utskottets mening viktigt för
+              den öppna debatten om penningpolitiken att det med viss regelbundenhet
+              sker en oberoende genomgång av penningpolitikens ramverk och resultat.
+              Utvärderingen av penningpolitiken 19952005 kommer att stå som
+              övergripande modell för kommande utvärderingar. Däremot kommer
+              inriktningen på utvärderingarna att bestämmas från gång till gång.
+              Det planerade schemat för utvärderingarna framgår av diagram1.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 1. Schema för utskottets externa utvärderingar
+            </p>
+            <p>
+              <graphic url="Shape{41C60DCD-D73A-4E35-9B04-96EF6825F0E2}.png"/>
+            </p>
+            <p>
+              Upphandlingen av den första utvärderingen påbörjas hösten 2009.
+              Själva utvärderingen drar i gång hösten 2010 efter riksdagsvalet
+              och beräknas vara klar hösten 2011. Riksdagsbehandlingen av utvärderingen
+              förväntas ske våren 2012. Sedan börjar schemat om med slutlig
+              riksdagsbehandling av nästa utvärdering våren 2016. Utskottets
+              beslut att med viss regelbundet genomföra externa och oberoende
+              utvärderingar av penningpolitiken ligger i linje med rekommendation
+              7 och 8 i utvärderingen av den svenska penningpolitiken 19952005.
+            </p>
+            <p xml:id="IDAFPNUL" rend="r3">
+              Riksbankens kommunikation
+            </p>
+            <p>
+              Riksbanken redovisar i underlagsrapporten för utvärdering av
+              penningpolitiken 20052007 att Riksbanken under utvärderingsperioden
+              fått kritik och reaktioner på dels sina egna ränteprognoser, dels
+              beslutet i maj 2007 att direktionsledamöterna inte längre ska
+              ge några signaler om kommande ränteförändringar mellan de penningpolitiska
+              mötena. Kritiken har till övervägande del handlat om att prognoserna
+              som Riksbanken redovisat har överraskat marknaderna, som t.ex.
+              i februari 2007 då Riksbankens bedömningar av den framtida ränteutvecklingen
+              låg under den som marknaden i genomsnitt räknade med eller som
+              i juni 2007 då Riksbanken justerade upp sin prognos över ränteutvecklingen.
+              Båda gångerna fick marknadens reaktioner effekter på räntan och
+              kronkursen. På samma sätt blev diskussionen intensiv i samband
+              med att Riksbanken i februari 2008 höjde reporäntan med ytterligare
+              0,25 procentenheter till 4,25 %.
+            </p>
+            <p>
+              Som bl.a. en reaktion på reaktionerna och kritiken beslutade
+              direktionen i början av maj 2008 om en kommunikationspolicy för
+              Riksbanken, inklusive en policy för Riksbankens penningpolitiska
+              kommunikation mot allmänheten och marknaderna. Den viktigaste
+              förändringen jämfört med tidigare var att direktionen som svar
+              på den tidigare kritiken beslutade om en något mer utvidgad kommunikation
+              mellan de penningpolitiska mötena. Enligt den nya policyn ska
+              direktionsledamöterna mellan de penningpolitiska mötena i t.ex.
+              tal kunna redogöra för viktiga penningpolitiska frågeställningar.
+              De ska även, efter att protokollen offentliggjorts, kunna redogöra
+              för sina personliga avvägningar, kommentera ny statistik och relatera
+              den till tidigare prognoser samt redogöra för vilka variabler
+              som är viktiga eller särskilt viktiga vid den aktuella tidpunkten.
+              För att inte störa den penningpolitiska beslutsprocessen ska dock
+              Riksbanken vara återhållsam med information nära ett penningpolitiskt
+              möte, enligt direktionens beslut.
+            </p>
+            <p xml:id="IDAOPNUL" rend="r3">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              Våren 2005 beställde utskottet en extern utvärdering av den svenska
+              penningpolitiken under perioden 19952005. Anledningen var att
+              det gått tio år sedan inflationsmålet officiellt började användas
+              som ankare i penningpolitiken samt att det gått sex år sedan Riksbanken
+              genom lagstiftning fick ett ökat penningpolitiskt oberoende gentemot
+              riksdagen och regeringen. Uppdraget att genomföra utvärderingen
+              gick till professor Francesco Giavazzi samt till professor Frederic
+              Mishkin, som sedan hösten 2006 är govenor i den amerikanska centralbanken
+              Federal Reserve.
+            </p>
+            <p>
+              Enligt utskottets mening visar genomgången ovan att utvärderingen
+              har varit mycket värdefull. Till följd av utvärderingens resultat
+              och rekommendationer har såväl Riksbanken som riksdagen under
+              de senaste åren genomfört en rad åtgärder som ytterligare bidrar
+              till att öka öppenheten, insynen och den offentliga diskussionen
+              om den svenska penningpolitiken och dess utformning. I förlängningen
+              bidrar åtgärderna och det pågående förändringsarbetet till en
+              fortsatt väl fungerande svensk penningpolitik.
+            </p>
+            <p>
+              En av de mer genomgripande förändringarna, som fått effekter
+              på såväl Riksbankens interna arbets- och beslutprocess som marknadernas
+              analyser av Riksbanken och penningpolitiken, är att Riksbanken
+              sedan början av 2007 publicerar egna prognoser över den kommande
+              ränteutvecklingen. Det är ännu för tidigt att fullt ut utvärdera
+              effekterna av förändringen. Systemet har endast varit i kraft
+              under drygt ett år och det under en tid då den internationella
+              ekonomin präglats av svagare ekonomisk utveckling och omfattande
+              finansiell oro. Utskottet kan dock ändå konstatera att systemet
+              hittills har fungerat tillfredsställande. Såväl den ekonomiska
+              analysen som motiven till Riksbankens räntebeslut har förbättrats
+              och fördjupats. Prognoserna över den s.k. räntebanan har tvingat
+              fram en tydligare och mer sammanhållen bild av Riksbankens syn
+              på ekonomins och räntans utveckling.
+            </p>
+            <p>
+              Andra viktiga åtgärder som utskottet särskilt vill framhålla
+              är förändringen i Riksbankens ledningsorganisation samt beslutet
+              att i protokollen från de penningpolitiska mötena namnge vilka
+              direktionsledamöter som sagt vad under mötena. Utskottet konstaterar
+              att det i Riksbanken under det senaste decenniet vuxit fram en
+              stark kultur av öppenhet gentemot allmänhet och marknader om bankens
+              verksamhet och beslut. Detta är en utveckling som skapar förtroende
+              och lägger grunden för en effektiv penningpolitik och en demokratisk
+              insyn i politikens utformning. De senaste årens förändringsarbete
+              innebär, enligt utskottets mening, att Riksbanken befäster den
+              position som en av de bästa centralbankerna i världen som banken
+              tilldelades i Giavazzis och Mishkins utvärdering.
+            </p>
+            <p>
+              Utskottet vill i detta sammanhang erinra om att fullmäktige i
+              Riksbanken som en följd av utvärderingen påbörjat ett arbete med
+              att vidareutveckla fullmäktiges roll att kontrollera Riksbankens
+              verksamhet, den s.k. kontrollfunktionen. Kontrollfunktionen är
+              inte närmare preciserad i riksbankslagen eller lagens förarbeten,
+              utan funktionen har löpande fått tolkas av sittande fullmäktige.
+              En av de viktigaste delarna i kontrollfunktionen är uppföljningen
+              av direktionens verksamhet, bl.a. genom ordförandens och vice
+              ordförandens rätt att närvara vid direktionens sammanträden. Utskottet
+              välkomnar och stöder fullmäktiges utvecklingsarbete. Det är enligt
+              utskottets mening viktigt för insynen och granskningen av Riksbankens
+              verksamhet att fullmäktige fyller och vidareutvecklar sin kontrollerande
+              funktion, bl.a. vad gäller den penningpolitiska processen. Utskottet
+              har, som framgår av redovisningen ovan, beslutat att hålla interna
+              utfrågningar med fullmäktiges presidium två gånger per år eller
+              vid behov för att utveckla dialogen mellan fullmäktige och utskottet.
+            </p>
+            <p>
+              Utskottet vill här ytterligare kommentera Riksbankens kommunikation
+              gentemot allmänheten och marknaderna. Under det senaste året har
+              kommunikationen varit föremål för en tidvis intensiv debatt. Den
+              kritik som framförts har bl.a. handlat om att Riksbanken blivit
+              otydligare och svårare att förutse. Detta bl.a. som en följd av
+              Riksbankens beslut för drygt ett år sedan att ledamöterna i direktionen
+              inte längre ska ge några signaler om ränteförändringar mellan
+              de penningpolitiska mötena. Debatten har blossat upp när Riksbankens
+              ränteprognoser och räntebeslut vid några tillfällen skiljts sig
+              från de förväntningar som funnits på marknaden, som t.ex. i februari
+              2008 då Riksbanken höjde reporäntan med 0,25 procentenheter, medan
+              marknaderna förväntade sig en oförändrad räntenivå.
+            </p>
+            <p>
+              Utskottets principiella inställning är att inflationsmålspolitiken
+              kräver en starkt utvecklad öppenhet samt att Riksbanken tydligt
+              och begripligt redovisar och informerar om varför olika räntebeslut
+              tagits. Som utskottet anfört ovan är också Riksbankens öppenhet
+              omfattande sett i ett internationellt perspektiv. Bakgrunden och
+              förklaringarna till Riksbankens olika beslut diskuteras och redovisas
+              på många olika sätt, bl.a. på presskonferenser, i penningpolitiska
+              rapporter, i uppföljningar mellan de penningpolitiska rapporterna,
+              i protokollen från direktionens möten samt i en stor mängd tal
+              och anföranden som hålls av direktionens ledamöter.
+            </p>
+            <p>
+              Däremot delar utskottet den uppfattning som Riksbanken offentligt
+              uttryckt när det gäller beslutsprocessen. De penningpolitiska
+              besluten ska följa riksbankslagens intentioner samt Riksbankens
+              arbetsordning och instruktion. Diskussionen och besluten om räntan
+              och andra penningpolitiska frågor ska ske kollektivt på direktionens
+              penningpolitiska möten. Detta är inte minst viktigt för insynen
+              och kontrollen av Riksbankens verksamhet och beslutsprocess, bl.a.
+              eftersom ordföranden och vice ordföranden i fullmäktige har rätt
+              att närvara på direktionens sammanträden. En alltför omfattande
+              och detaljerad information till allmänheten och marknaderna inför
+              beslutssammanträdena riskerar att föregripa direktionens diskussion
+              och beslut och leda till att de verkliga besluten fattas innan
+              och utanför direktionens penningpolitiska möten.
+            </p>
+            <p>
+              Detta utesluter emellertid inte att Riksbanken via tal och pressmeddelanden
+              eller i annan form bör informera och hålla en dialog med allmänheten
+              och marknaderna även mellan de penningpolitiska mötena. Det är
+              dock, enligt utskottets mening, rimligt att karaktären på informationen
+              är av sådan art att den inte föregriper direktionens kommande
+              räntebeslut.
+            </p>
+            <p>
+              Utskottet noterar att direktionen i början av maj 2008 presenterade
+              en ny kommunikationspolicy för Riksbanken. Den viktigaste förändringen
+              jämfört med tidigare är att direktionen som svar på det senaste
+              årets kritik beslutat om en något mer utvidgad kommunikation mellan
+              de penningpolitiska mötena. Enligt den nya policyn ska direktionsledamöterna
+              mellan de penningpolitiska mötena i t.ex. tal kunna redogöra för
+              viktiga penningpolitiska frågeställningar. De ska även, efter
+              att protokollen offentliggjorts, kunna redogöra för sina personliga
+              avvägningar, kommentera ny statistik och relatera den till tidigare
+              prognoser samt redogöra för vilka variabler som är viktiga vid
+              den aktuella tidpunkten. För att inte störa den penningpolitiska
+              beslutsprocessen ska dock Riksbanken vara återhållsam med information
+              nära ett penningpolitiskt möte, enligt kommunikationspolicyn.
+            </p>
+            <p>
+              Enligt utskottets mening förefaller Riksbankens nya policy att
+              tillgodose Riksbankens och marknadernas behov av att ge och få
+              information mellan de penningpolitiska mötena utan att viktiga
+              principer för det penningpolitiska beslutsfattandet åsidosätts.
+            </p>
+            <p>
+              I utvärderingen föreslås att Riksbanken i sitt analysarbete bör
+              lägga mer resurser på att analysera utvecklingen i den reala ekonomin,
+              särskilt vad gäller produktivitetstillväxten och arbetsmarknaden.
+              Utskottet behandlar denna fråga mer utförligt under ställningstagandet
+              i avsnittet Utvärdering av penningpolitiken 20052007.
+            </p>
+            <p>
+              Utvärderingen av den svenska penningpolitiken 19952005 visar
+              enligt utskottets mening att det finns behov av en regelbundet
+              återkommande extern utvärdering av penningpolitikens resultat
+              och uppbyggnad. Som framgår av redovisningen ovan har utskottet
+              därför beslutat att vart fjärde år ge externa experter i uppdrag
+              att utvärdera den svenska penningpolitiken. Den första utvärderingen
+              enligt detta schema beräknas vara klar hösten 2011.
+            </p>
+            <p xml:id="IDA2QNUL" rend="rubrik2">
+              Utvärdering av penningpolitiken 20052007
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDACRNUL" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen godkänner vad utskottet anfört om penningpolitiken
+                20052007.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Utskottets grundläggande bedömning är att Riksbanken under perioden
+                fört en väl avvägd penningpolitik.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Inflationen har varit låg under större delen av perioden och
+                legat under inflationsmålet men inom det s.k. toleransintervallet.
+                Den låga inflationen beror bl.a. på ett lågt resursutnyttjande
+                i periodens inledning samt på en snabb produktivitetstillväxt
+                2005 och 2006. Trots den låga inflationen har tillväxten i den
+                svenska ekonomin varit relativt hög. Inflationen har stigit successivt
+                under perioden, och utvärderingen visar att Riksbankens prognoser
+                ganska väl fångat upp den stigande inflationstrenden. Dessutom
+                har Riksbankens inflationsbedömningar under perioden varit jämförelsevis
+                träffsäkra. Utvärderingen visar också att det finns ett tydligt
+                samband mellan Riksbankens syn på utvecklingen vid olika tillfällen
+                och direktionens tagna räntebeslut.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Mot slutet av 2007 och inledningen av 2008 började dock inflationen
+                att stiga på ett sätt som inte fångats upp i Riksbankens prognoser.
+                Med facit i hand innebär detta att Riksbanken möjligtvis borde
+                ha höjt reporäntan lite snabbare under kanske framför allt 2006
+                för att motverka den snabbt stigande inflationstakten under 2007.
+                Inflationsuppgången beror dock till stor del på kraftigt stigande
+                priser på energi och livsmedel, vilka torde ha varit svåra att
+                förutse under 2005 och 2006. Utvärderingen visar vidare att Riksbanken,
+                i likhet med så gott som alla prognosmakare, under perioden gjort
+                felbedömningar av tillväxt- och sysselsättningsutvecklingen, bl.a.
+                på grund av att man missbedömt produktiviteten. Utskottet konstaterar
+                att det i Riksbankens underlagsrapport för utvärdering saknas
+                djupare analyser av orsakerna till varför man felbedömt t.ex.
+                produktivitets- och sysselsättningsutvecklingen. Utskottet anser
+                att nästa års rapport bör kompletteras med denna typ av lärande
+                analyser. Genomgången av prognoserna understryker vikten av att
+                satsa resurser på att öka kunskapen och förståelsen av den reala
+                ekonomins utveckling, precis som professorerna Francesco Giavazzi
+                och Frederic Mishkin konstaterade i sin utvärdering av den svenska
+                penningpolitiken 19952005.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDA0RNUL" rend="r3">
+              Inledning
+            </p>
+            <p>
+              Sedan 1999 har Riksbanken ett lagfäst oberoende gentemot riksdagen
+              och regeringen. Beslut om ränteförändringar tas av en direktion
+              bestående av sex medlemmar som enligt riksbankslagen (SFS 1988:1385)
+              inte får söka eller ta emot instruktioner i penningpolitiska frågor.
+              Enligt regeringsformen får inte heller någon myndighet bestämma
+              hur Riksbanken ska besluta i frågor som rör penningpolitiken.
+              Riksbankens mål är enligt riksbankslagen att upprätthålla ett
+              fast penningvärde. Riksbanken ska också främja ett säkert och
+              effektivt betalningsväsende.
+            </p>
+            <p>
+              Riksbanken är en myndighet under riksdagen, och utskottet granskar
+              varje år den förda penningpolitiken. Granskningen omfattar de
+              senaste tre åren, eftersom det tar upp till ett par år innan den
+              förda penningpolitiken får full effekt på ekonomin och inflationen.
+              Den nu aktuella utvärderingen gäller perioden 20052007. Tidigare
+              har utvärderingar utförts för perioderna 19961998, 19971999, 19982000,
+              19992001, 20002002, 20012003, 20022004, 20032005 (bet. 1998/99:FiU23,
+              1999/2000:FiU23, 2000/01:FiU23, 2001/02:FiU23, 2002/03:FiU23,
+              2003/04:FiU23, 2004/05:FiU23 samt 2005/06:FiU23). För perioden
+              20042006 gjordes ingen utvärdering eftersom utskottet då behandlade
+              professorerna Francesco Giavazzis och Frederic Mishkins utvärdering
+              av den svenska penningpolitiken 19952005.
+            </p>
+            <p xml:id="IDADSNUL" rend="r3">
+              Inflationsmålspolitiken
+            </p>
+            <p>
+              Enligt riksbankslagen är målet för penningpolitiken att upprätthålla
+              ett fast penningvärde. Redan i januari 1993, kort efter det att
+              den fasta växelkursen övergavs och kronan började flyta på den
+              internationella valutamarknaden, beslutade dåvarande riksbanksfullmäktige
+              att den operativa penningpolitiken skulle bedrivas utifrån ett
+              inflationsmål. Målet började formellt gälla fr.o.m. den 1 januari
+              1995 och gäller än i dag. Målet formuleras enligt följande:
+            </p>
+            <p>
+              ·. Inflationen ska, mätt som årlig procentuell förändring av
+              konsumentprisindex (KPI), vara 2 %.
+            </p>
+            <p>
+              ·. Runt målet 2 % finns ett toleransintervall på ±1 procentenhet.
+              Intervallet markerar dels att det är svårt att hela tiden uppnå
+              det exakta målet 2 %, dels att alltför stora avvikelser från målet
+              inte accepteras.
+            </p>
+            <p xml:id="IDAXSNUL" rend="r3">
+              Riksbankens penningpolitiska strategi
+            </p>
+            <p>
+              I varje penningpolitisk rapport samt i Riksbankens rapport Penningpolitiken
+              i Sverige 2007 redovisar Riksbanken grundstenarna i den strategi
+              banken använder för att nå inflationsmålet. Strategin presenteras
+              i korthet i punkterna nedan:
+            </p>
+            <p>
+              ·. Utöver KPI vägleds penningpolitiken av olika mått på den underliggande
+              inflationen i ekonomin. Ett sådant viktigt mått är KPIX. Måttet
+              är rensat från direkta effekter av förändringar i indirekta skatter
+              och subventioner samt från räntekostnader för egnahem. Enligt
+              Riksbanken finns det dock inget enskilt inflationsmått som vid
+              varje tidpunkt visar vilken penningpolitik som behövs.
+            </p>
+            <p>
+              ·. Penningpolitiken inriktas normalt på att inflationsmålet ska
+              uppnås inom två år. Anledningen är att penningpolitiken påverkar
+              den ekonomiska utvecklingen med viss fördröjning. Tvåårshorisonten
+              ger Riksbanken utrymme att ta hänsyn till den realekonomiska utvecklingen
+              i de penningpolitiska besluten, t.ex. utvecklingen i produktionen
+              och sysselsättningen. Under vissa omständigheter kan Riksbanken
+              låta inflationen nå målet bortom tvåårshorisonten. När en sådan
+              situation uppstår ska detta göras tydligt i samband med de penningpolitiska
+              besluten.
+            </p>
+            <p>
+              ·. Riksbankens prognoser utgår ifrån antagandet att reporäntan
+              utvecklas på ett sådant sätt att penningpolitiken kan betraktas
+              som väl avvägd. I normalfallet innebär en väl avvägd penningpolitik
+              att inflationen är nära inflationsmålet på två års sikt samtidigt
+              som inflationen och utvecklingen i den reala ekonomin inte visar
+              alltför stora svängningar.
+            </p>
+            <p>
+              ·. Penningpolitiken ska präglas av öppenhet och tydlighet. Det
+              är en förutsättning för att en trovärdighet för målet ska kunna
+              kombineras med en flexibel tolkning av målet på kort sikt.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 1. Olika inflationsmått som används av Riksbanken
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell>
+                  <p rend="tabellhuvudvanster">
+                    Mått
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudvanster">
+                    Definition
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Konsumentprisindex (KPI)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Genomsnittlig prisutveckling för hushållens konsumtion mätt enligt
+                    SCB.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Underliggande inflation (KPIX)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    KPI exklusive hushållens räntekostnader för egnahem samt direkta
+                    effekter av ändrade indirekta skatter och subventioner.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Underliggande inflation (KPIX exkl. energi)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    KPIX exklusive utvecklingen av energivaror som t.ex. bensin,
+                    olja och el.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    EU-harmoniserat index för konsumentpriser (HIKP)
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkropptext">
+                    KPI exklusive bl.a. räntekostnader, bostadsrättsavgifter, viss
+                    hälso- och sjukvård, fastighetsskatt, avskrivningar, reparationer,
+                    försäkringar och egnahem. I HIKP ingår avgifter för barn- och
+                    äldreomsorg, vilket inte ingår i KPI.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Normalt håller Riksbankens direktion sex penningpolitiska möten
+              under ett år. Vid tre av dessa möten publiceras en penningpolitisk
+              rapport och vid de tre andra mötena publiceras en penningpolitisk
+              uppföljning. Cirka två veckor efter varje penningpolitiskt möte
+              offentliggörs ett protokoll som beskriver den diskussion som ledde
+              fram till det aktuella räntebeslutet samt hur de olika direktionsledamöterna
+              argumenterade och röstade.
+            </p>
+            <p xml:id="IDA3XNUL" rend="r3">
+              Riksbankens ränteprognoser
+            </p>
+            <p>
+              Från och med penningpolitisk rapport 2007:1 publicerar Riksbanken
+              en egen ränteprognos eller rättare sagt Riksbanken publicerar
+              ekonomiska prognoser (inklusive ränteprognoser) baserade på direktionens
+              bedömning av reporäntans framtida utveckling. Fram t.o.m. inflationsrapport
+              2005:2 byggde Riksbankens ekonomiska prognoser på antagandet om
+              att reporäntan skulle vara oförändrad under hela prognosperioden.
+              Från och med inflationsrapport 2005:3 och till inflationsrapport
+              2006:3 byggde prognoserna på antagandet att reporäntan utvecklades
+              i linje med finansmarknadens förväntningar om den framtida ränteutvecklingen.
+            </p>
+            <p>
+              Förutom att det nya systemet med egna ränteprognoser har förbättrat
+              Riksbankens möjligheter att göra mer realistiska prognoser samt
+              ökat möjligheterna att jämföra Riksbankens prognoser med andra
+              prognosmakares bedömningar har systemet även förändrat den penningpolitiska
+              strategin och handlingsreglerna inom penningpolitiken. Tidigare,
+              när Riksbankens prognoser byggde på antagandet om en oförändrad
+              reporänta, styrdes penningpolitiken normalt efter den s.k. enkla
+              handlingsregeln om prognoserna över inflationen på ett till två
+              års sikt överskred (eller underskred) inflationsmålet skulle reporäntan
+              normalt höjas (eller sänkas). Som redovisades ovan under avsnittet
+              Riksbankens penningpolitiska strategi diskuterar Riksbanken nu
+              i termer av en väl avvägd penningpolitik där inflationen normalt
+              är nära inflationsmålet på två års sikt samtidigt som inflationen
+              och den reala ekonomin inte uppvisar alltför stora svängningar.
+            </p>
+            <p xml:id="IDAJYNUL" rend="r3">
+              Utvecklingen under utvärderingsperioden
+            </p>
+            <p xml:id="IDAMYNUL" rend="r4">
+              Konjunkturen
+            </p>
+            <p>
+              Den ekonomiska utvecklingen var stark såväl internationellt som
+              i Sverige under 20052007. Konjunkturuppgången, som påbörjades
+              i slutet av 2002 och början av 2003, fortsatte att stiga under
+              2004 och 2005 och förstärktes ytterligare under 2006. Hög efterfrågan,
+              stigande företagsvinster och låga räntor bidrog till att investeringarna
+              steg snabbt samtidigt som även den privata konsumtionen ökade
+              starkt, till följd av stigande löner och ökad sysselsättning.
+              Den internationella konjunkturen började mattas av mot slutet
+              av 2006 och under 2007, främst i Förenta staterna där den ekonomiska
+              aktiviteten dämpades markant till följd av den finansiella oron
+              och krisen på den amerikanska bostadsmarknaden.
+            </p>
+            <p>
+              Skillnaden i tillväxt mellan olika regioner var till en början
+              stor. Drivande i uppgången var Förenta staterna och länderna i
+              Asien, framför allt den starkt expanderande kinesiska ekonomin,
+              medan t.ex. tillväxten i euroområdet var relativt svag. Efterhand
+              steg även tillväxten i euroområdet. Sammantaget ökade BNP i världsekonomin
+              med knappt 5 % per år under perioden 20052007 jämfört med knappt
+              4 % under perioden 20022004 (se diagram 2). I Sverige steg BNP
+              under samma perioder med 3,3 % respektive 2,8 % per år.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 2. Tillväxten i världsekonomin under utvärderingsperioden
+            </p>
+            <p>
+              <graphic url="Shape{C93189AE-D0A3-47A4-8601-BD7AE867C76D}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Konjunkturinstitutet, Riksbanken och Statistiska centralbyrån.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAFZNUL" rend="r4">
+              Inflationen
+            </p>
+            <p>
+              Trots den höga tillväxten var inflationstrycket relativt begränsat.
+              Sammantaget ökade priserna i OECD-området med i genomsnitt 2,6
+              % per år under utvärderingsperioden, vilket kan jämföras med omkring
+              3,8 % per år under de tidigare högkonjunkturåren i slutet av 1990-talet
+              och början av 2000-talet. Anledningen var bl.a. att resursutnyttjandet
+              inledningsvis var ganska lågt samt att produktiviteten ökade starkt
+              både internationellt och i Sverige. Dessutom motverkades en tilltagande
+              inflation av den pågående globaliseringen och en ökad internationell
+              konkurrens. I takt med att konjunkturen förbättrades, sysselsättningen
+              och resursutnyttjandet ökade och priserna på energi och olja steg
+              började inflationen att pressas uppåt, framför allt mot slutet
+              av perioden. Bland enskilda länder var det stigande inflationstrycket
+              tydligast i Förenta staterna, där den amerikanska centralbanken,
+              Federal Reserve, redan vid mitten av 2004 började höja styrräntan
+              för att begränsa prisökningarna.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 2. Inflationen i några länder och länderområden
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    Snitt 20022004
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    Snitt 20052007
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Euroområdet
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2,1
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2,2
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    EU 25
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2,0
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2,2
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    OECD-länderna
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2,4
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2,6
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    USA
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2,2
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    3,2
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Storbritannien
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,3
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2,2
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Danmark
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,8
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,8
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Norge
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,4
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,5
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Sverige
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,7
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,3
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Konjunkturinstitutet och Statistiska centralbyrån.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Som framgår av diagram 3 var den svenska inflationen låg under
+              både 2005 och 2006, trots hög tillväxt och tilltagande sysselsättning.
+              Detta förklaras bl.a. av ett lågt resursutnyttjande i inledningsskedet
+              samt en stark produktivitetstillväxt, vilket dämpade uppgången
+              i arbetskraftskostnaderna.
+            </p>
+            <p>
+              Dessutom hölls inflationen inledningsvis nere av låga hyreshöjningar
+              och sjunkande livsmedelspriser. Av diagrammet framgår också att
+              inflationen började stiga kraftigt under senare delen av 2007
+              till följd av bl.a. en betydligt svagare produktivitetstillväxt
+              än tidigare samt kraftigt stigande priser på råvaror och livsmedel.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 3. Svenska inflationen 20052007 enligt KPI och KPIX
+            </p>
+            <p>
+              <graphic url="Shape{B1A3810F-1D1D-43C9-BD7E-1E76E8527C3C}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Konjunkturinstitutet, Riksbanken och Statistiska centralbyrån.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Under utvärderingsperioden steg de svenska priserna mätt med
+              KPI med i genomsnitt 1,4 % per år, vilket är under Riksbankens
+              inflationsmål men inom målets toleransintervall. Mätt med det
+              underliggande inflationsmåttet KPIX steg priserna med 1,1 %, vilket
+              även det är under inflationsmålet men strax över målets nedre
+              toleransgräns. Under sista året i utvärderingsperioden steg KPI
+              med 2,2 %, vilket är något över målet, men inom toleransintervallet.
+              KPIX steg med 1,2 %, vilket är under målet, men även det inom
+              toleransintervallet.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 3. Svenska inflationen 20052007 enligt olika inflationsmått
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    KPI
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    KPIX
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    HIKP
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2005
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    0,5
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    0,8
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    0,8
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2006
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,4
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,2
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,5
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2007
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2,2
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,2
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,7
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    Genomsnitt 20052007
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,4
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,1
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,3
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Konjunkturinstitutet, Riksbanken och Statistiska centralbyrån.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDARDL2C" rend="r4">
+              Räntorna
+            </p>
+            <p>
+              I takt med att aktiviteten och sysselsättningen i den amerikanska
+              ekonomin steg allt snabbare började den amerikanska centralbanken
+              sommaren 2004 att strama åt den tidigare mycket lätta penningpolitiken.
+              Den s.k. styrräntan höjdes från 1 % till 5,25 % sommaren 2006.
+              Räntan låg kvar på 5,25 % fram till hösten 2007 då centralbanken
+              började sänka reporäntan på grund av den svagare konjunkturen
+              och oron på finans- och bostadsmarknaderna. På några månader sänktes
+              reporäntan med 1 procentenhet, och takten i sänkningarna tilltog
+              i början av 2008.
+            </p>
+            <p>
+              I euroområdet låg styrräntan kvar på 2-procentsnivån fram till
+              slutet av 2005 då den europeiska centralbanken, ECB, påbörjade
+              en successiv åtstramning av penningpolitiken för att dämpa ett
+              stigande inflationstryck. Räntan höjdes med 2 procentenheter fram
+              till sommaren 2007.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 4. Centralbankernas räntor 20042007
+            </p>
+            <p>
+              <graphic url="Shape{E455E4B4-1C6D-4EEA-865B-10C019B6BC4F}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Riksbanken.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Den allt starkare svenska konjunkturen gjorde att även Riksbanken
+              påbörjade en serie räntehöjningar i början av 2006, från den tidigare
+              historiskt låga räntenivån på 1,5 %. Som framgår av tabell 2 och
+              diagram 4 höjdes räntenivån gradvis till 4 % i slutet av 2007.
+              Reporäntan höjdes ytterligare i början av 2008.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 4. Riksbankens ränteändringar under 20052007
+            </p>
+          </div>
+          <div type="html-continuation">
+            <table>
+              <row>
+                <cell>
+                  <p rend="tabellhuvudvanster">
+                    Ändringsdatum
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    Förändring
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellhuvudhoger">
+                    Nivå efter förändringen
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2005-06-20
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    -0,50
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,50
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2006-01-19
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    +0,25
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    1,75
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2006-02-22
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    +0,25
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2,00
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2006-06-19
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    +0,25
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2,25
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2006-08-29
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    +0,25
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2,50
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2006-10-25
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    +0,25
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    2,75
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2006-12-14
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    +0,25
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    3,00
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2007-02-14
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    +0,25
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    3,25
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2007-06-19
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    +0,25
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    3,50
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2007-09-06
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    +0,25
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    3,75
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="tabellkropptext">
+                    2007-10-29
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    +0,25
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="tabellkroppsiffror">
+                    4,00
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Riksbanken.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDANRL2C" rend="r4">
+              Kronan
+            </p>
+            <p>
+              Värdet på den svenska kronan försämrades ganska dramatiskt under
+              inledningen av utvärderingsperioden, från ett indexvärde i början
+              av 2005 på omkring 124 till ett indexvärde i slutet av 2005 på
+              drygt 130 (ju högre indexvärde, desto svagare kronkurs).
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 5. Kronans värde enligt TCW-index 20052007
+            </p>
+            <p>
+              <graphic url="Shape{BAFD92CD-72F9-4BC1-8890-DDE5829F49E1}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Riksbanken.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Som framgår av diagram 6 förklaras kronans försvagning bl.a.
+              av att värdet på dollarn började stiga i takt med stigande amerikanska
+              räntor och oförändrade eller t.o.m. sänkta svenska räntor. Kronan
+              stärktes dock under 2006 och 2007 när värdet på dollarn på nytt
+              började sjunka. Från slutet av 2005 till slutet av 2007 steg kronans
+              värde mot dollarn med nästan 25 %. Av diagrammet framgår också
+              att kronan under perioden varit relativt stabil mot euron.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 6. Kronans kurs mot euro och US-dollar 20052007
+            </p>
+            <p>
+              <graphic url="Shape{1534D4A6-73CB-4279-9155-B2F6AAEA70B4}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Konjunkturinstitutet, Riksbanken och Statistiska centralbyrån.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAWSL2C" rend="r4">
+              Riksbankens prognoser
+            </p>
+            <p>
+              I diagrammen nedan görs en översiktlig presentation av Riksbankens
+              prognoser över inflationen, BNP-utvecklingen och sysselsättningen
+              2007 gjorda 2005, 2006 och 2007, dvs. de prognoser som låg till
+              grund för direktionens räntebeslut för att påverka utvecklingen
+              under 2007. Som redovisats tidigare tar det normalt mellan ett
+              till två år innan ränteförändringar får full effekt på den ekonomiska
+              aktiviteten och inflationen. I diagrammen jämförs också Riksbankens
+              prognoser med Konjunkturinstitutets (KI) prognoser. Jämförelserna
+              är endast en fingervisning om skillnader och likheter mellan prognoserna,
+              bl.a. eftersom prognoserna inte är gjorda vid exakt samma tillfällen
+              och informationen om den faktiska utvecklingen kan ha varit olika
+              vid de olika prognostillfällena. Jämfört med tidigare har det
+              emellertid under senare år blivit lättare att jämföra prognoserna
+              eftersom Riksbanken sedan hösten 2005 bygger sina prognoser på
+              bedömningar om ränteutvecklingen. Tidigare antog Riksbanken att
+              reporäntan var oförändrad under prognosperioden (se avsnittet
+              Riksbankens ränteprognoser).
+            </p>
+            <p>
+              Första gången Riksbanken redovisade utförliga prognoser över
+              utvecklingen 2007 var i inflationsrapporterna från 2005. Och som
+              framgår av diagram 7 räknade Riksbanken under 2005 med att BNP
+              skulle öka med ca 2,5 % under 2007, vilket endast är något under
+              utfallet för 2007 på 2,6
+            </p>
+            <p>
+              % (enligt Statistiska centralbyråns senaste beräkning). Däremot
+              visar diagrammet att Riksbanken under 2006, men framför allt under
+              2007, överskattade tillväxttakten för 2007. I början av 2007 förväntade
+              sig Riksbanken att BNP skulle stiga med 3,5 %, vilket är nästan
+              1 procentenhet högre än utfallet. Även KI överskattade den förväntade
+              tillväxttakten. Till skillnad från Riksbanken överskattade KI
+              tillväxten för 2007 under hela utvärderingsperioden, med en topp
+              i början av 2007 då KI räknade med att BNP 2007 skulle stiga med
+              hela 3,9 %.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 7. Riksbankens och Konjunkturinstitutets BNP-prognoser
+              för 2007
+            </p>
+            <p>
+              <graphic url="Shape{7DAB9BDE-8568-4991-AEB0-CF5E912C4F5F}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Konjunkturinstitutet, Riksbanken och Statistiska centralbyrån.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              En förklaring till överskattningarna är att den statistik som
+              redovisades under inledningen av 2007 visade på en utveckling
+              i linje med prognoserna. SCB reviderade dock under hösten 2007
+              ned utfallet för första halvåret 2007 relativt kraftigt, vilket
+              innebar att konjunkturförloppet fick ett delvis annorlunda utseende
+              än vad som tidigare redovisats.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 8. Riksbankens och Konjunkturinstitutets KPI-prognoser
+              för 2007
+            </p>
+            <p>
+              <graphic url="Shape{7E73FBFB-329D-450C-9365-FD086B3CE351}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Konjunkturinstitutet, Riksbanken och Statistiska centralbyrån.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Som framgår av diagram 8 låg både Riksbankens och KI:s prognoser
+              över KPI-inflationen 2007 relativt nära det verkliga utfallet
+              under hela perioden 20052007. Riksbanken räknade i genomsnitt
+              under 2005 och 2006 med att KPI-inflationen under 2007 skulle
+              stanna på 2,1, vilket kan jämföras med utfallet på 2,2 %. KI räknade
+              under samma period med ett genomsnitt på 2 %. Både Riksbanken
+              och KI justerade dock ned KPI-prognosen relativt kraftigt i början
+              av 2007. Anledningen var bl.a. att man då räknade med att nedgången
+              i energipriserna under hösten 2006 skulle få större effekt på
+              KPI-inflationen under 2007 än vad som sedan blev fallet.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 9. Riksbankens och Konjunkturinstitutets KPIX-prognoser
+              för 2007
+            </p>
+            <p>
+              <graphic url="Shape{BEDA31BA-ACBA-4E42-A421-664CBAF0966B}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Konjunkturinstitutet, Riksbanken och Statistiska centralbyrån.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              När det gäller prognoserna över den underliggande inflationen,
+              KPIX, överskattade såväl Riksbanken som KI KPIX-inflationen för
+              2007, åtminstone under 2005 och 2006. Sammantaget låg prognoserna
+              under 2005 och 2006 mellan 0,2 till 0,7 procentenheter över utfallet
+              på 1,2 %. I likhet med prognoserna för KPI-inflationen justerades
+              KPIX-prognoserna ned relativt kraftigt i början av 2007, till
+              följd av nedgången i energipriserna under andra halvan av 2006.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 10. Riksbankens och Konjunkturinstitutets sysselsättningsprognoser
+              för 2007
+            </p>
+            <p>
+              <graphic url="Shape{8C81F116-E6FB-4933-8965-E8E8BBE48307}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Konjunkturinstitutet, Riksbanken och Statistiska centralbyrån.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              En viktig del i det penningpolitiska beslutsunderlaget är prognoserna
+              över arbetsmarknadens utveckling. Som framgår av diagram 10 underskattade
+              såväl Riksbanken som Konjunkturinstitutet den historiskt kraftiga
+              sysselsättningstillväxten under 2007. Under 2005 och 2006 låg
+              Riksbankens prognoser över ökningen av antalet sysselsatta 2007
+              på mellan 0,6 % och 1,2 %. Under 2007 justerades prognoserna upp
+              kraftigt mot det verkliga utfallet på 2,4 %. Ungefär samma mönster
+              finns i KI:s prognoser med den skillnaden att KI något snabbare
+              är Riksbanken justerade upp prognoserna mot utfallet. En genomgång
+              av sysselsättningsprognoserna för 2006 visar att både Riksbanken
+              och KI inledningsvis även underskattade sysselsättningstillväxten
+              2006 (framgår dock inte av diagram 10). Båda räknade under 2004
+              och 2005 med att sysselsättningen 2006 skulle stiga med mellan
+              0,6 och 1,3 procentenheter. Utfallet blev 1,8 %.
+            </p>
+            <p xml:id="IDAOVL2C" rend="r3">
+              Riksbankens utvärderingsunderlag
+            </p>
+            <p>
+              Från och med 2008 lämnar Riksbanken en fristående rapport till
+              utskottet med underlag för utvärdering av penningpolitiken. Rapporten
+              utgör den första av de två skriftliga redogörelser som Riksbanken
+              enligt riksbankslagen årligen ska lämna till utskottet. Tidigare
+              ingick underlaget i Riksbankens första penningpolitiska rapport
+              (tidigare inflationsrapport) varje år. Årets underlagsrapport
+              behandlar penningpolitiken 20052007. Nedan redovisas sammanfattningsvis
+              Riksbankens beskrivningar av utvecklingen under perioden samt
+              Riksbankens analyser och bedömningar av inflationen, penningpolitiken
+              och prognoserna.
+            </p>
+            <p xml:id="IDAUVL2C" rend="r4">
+              Inflationen och tillväxten
+            </p>
+            <p>
+              Trots den starka tillväxten var inflationstrycket i den svenska
+              ekonomin relativt lågt under 2005 och 2006. Ett lågt resursutnyttjande
+              och en stark produktivitetstillväxt bidrog till att hålla nere
+              prisökningarna och kostnadsutvecklingen. Energipriserna varierade
+              kraftigt under utvärderingsperioden, vilket fått effekt på inflationen
+              mätt enligt KPI (energipriserna svarar för knappt 10 % av varorna
+              i KPI). Från 2005 till mitten av 2006 steg priserna på el och
+              oljeprodukter, som t.ex. bensin, diesel och villaolja, snabbt.
+              Därefter sjönk energipriserna relativt kraftigt för att återigen
+              börja stiga relativt snabbt från mitten av 2007. Sammantaget bidrog
+              energipriserna till att höja inflationstakten under 2005 och 2006
+              räknat som årsgenomsnitt medan de bidrog till att hålla nere inflationstakten
+              under 2007, trots den snabba uppgången i framför allt priset på
+              olja mot slutet av 2007.
+            </p>
+            <p>
+              Rensat för energipriser steg den underliggande inflation KPIX
+              med 0,4 % 2005, 0,6 % 2006 och 1,5 % 2007. Under 2007 var KPIX-inflationen
+              exklusive energi i genomsnitt 0,9 procentenheter högre än under
+              2006, vilket förklaras av snabba prisökningar på bl.a. tjänster
+              och livsmedel. Priserna på livsmedel steg stark mot slutet 2007,
+              till följd av bl.a. högre energi- och gödningsmedelspriser, låga
+              lagernivåer och brister på vissa grödor.
+            </p>
+            <p>
+              Analyser i Riksbankens s.k. allmänna jämviktsmodell Ramses visar
+              att den kraftiga produktivitetstillväxten är en de viktigaste
+              orsakerna till de senaste årens låga svenska inflation. Enligt
+              Ramses skulle KPIX-inflationen varit 1 procentenhet högre under
+              både 2005 och 2006 om produktiviteten i stället för att öka snabbt
+              hade stigit i linje med det tidigare historiska mönstret. Under
+              samma period hade den svenska BNP-tillväxten varit ca 0,8 procentenheter
+              lägre om produktiviteten enbart ökat enligt tidigare trend. Under
+              2007 avtog dock den tidigare mycket starka produktivitetstillväxten
+              och ökningen var lägre än normalt. Detta har bidragit till att
+              KPIX ökat snabbare under 2007 samt att BNP stigit långsammare
+              jämfört med en historiskt normal utveckling av produktiviteten.
+            </p>
+            <p xml:id="IDAAWL2C" rend="r4">
+              Prognoserna
+            </p>
+            <p>
+              I diagrammen 11 och 12 redovisas Riksbankens prognoser över KPI-
+              och KPIX-utvecklingen i de inflations- eller penningpolitiska
+              rapporterna jämfört med utfall. Både prognoserna och utfallet
+              avser den procentuella utvecklingen per kvartal jämfört med samma
+              kvartal året innan. I diagrammen är det svårt att urskilja enskilda
+              prognoser. Tanken med diagrammet är i stället att ge en visuell
+              och övergripande bild över Riksbankens prognoser och hur prognoserna
+              följer den faktiska utvecklingen.
+            </p>
+            <p>
+              Diagram 11 visar att inflationen mätt enligt KPI ökat trendmässigt
+              under utvärderingsperioden, och enligt Riksbanken har de prognoser
+              Riksbanken gjort sedan mitten av 2005 väl fångat den utvecklingen.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 11. Riksbankens KPI-prognoser
+            </p>
+            <p>
+              <graphic url="Shape{21AFB2D0-CE6B-4361-BE72-A2DCD7E82938}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Riksbankens underlagsrapport.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              I den första inflationsrapporten 2005 justerade Riksbanken ned
+              sin bedömning av inflationsutvecklingen, till följd av låga importpriser,
+              prispress inom livsmedelsbranschen samt lägre hyreshöjningar än
+              förväntat. Inflationen förväntades vara fortsatt låg 2005 för
+              att sedan stiga i takt med att tillväxten och kostnadstrycket
+              i ekonomin ökade. KPIX väntades ligga i linje med inflationsmålet
+              på ett par års sikt, men inflationen förväntades vara låg under
+              en stor del av prognosperioden. I inflationsrapport 2005:2 justerades
+              inflationsprognoserna ned ytterligare bl.a. på grund av nationalräkenskaperna
+              för första kvartalet 2005 visade att tillväxten var betydligt
+              svagare än förväntat. Resursutnyttjandet och kostnadstrycket i
+              ekonomin bedömdes vara lägre än tidigare beräknat. I inflationsrapport
+              2005:3 justerades inflationen upp till en nivå som ungefär låg
+              i linje med utfallet för 2007. Prognoserna låg sedan i stort sett
+              stilla kring den nivån under 2006 och 2007, bortsett från i penningpolitisk
+              rapport 2007:1 då inflationsprognoserna justerades ned till följd
+              av en förväntan om att nedgången i energipriserna hösten 2006
+              skulle ge en relativt stor press nedåt på inflationen under 2007.
+              I penningpolitisk rapport 2007:2 togs den tidigare nedjusteringen
+              tillbaka och prognosen låg återigen på en nivå i linje med utfallet
+              2007.
+            </p>
+            <p>
+              Riksbanken gör i underlagsrapporten en jämförelse mellan Riksbankens
+              prognoser och andra prognosmakares prognoser för KPI-inflationen
+              2007 gjorda 2006 och 2007. Resultat visar att Riksbankens prognoser
+              tillhörde de mest träffsäkra under perioden, bortsett början av
+              2007 då Riksbanken gjorde en större prognosmiss än övriga prognosmakare.
+              Ett annat mått på träffsäkerheten under perioden är att Riksbankens
+              KPI-prognoser tillhörde de 25 % mest träffsäkra prognoserna vid
+              drygt 80 % av prognostillfällena, enligt utvärderingsunderlaget.
+            </p>
+            <p>
+              Som framgår av diagram 12 har inflationen mätt enligt KPIX inte
+              ökat lika trendmässigt som KPI-inflationen, utan utvecklingen
+              har varit mer varierad. KPIX-inflationen har under utvärderingsperioden
+              legat mellan 0,4 % och 1,7 %. Enligt Riksbanken har bankens prognoser
+              legat ungefär kring dessa nivåer. Däremot överskattades KPIX-inflationen
+              för 2007.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 12. Riksbankens KPIX-prognoser
+            </p>
+            <p>
+              <graphic url="Shape{42400BDA-0221-42BB-8405-E72D3B2F97C7}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Riksbankens underlagsrapport.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              I diagram 13 redovisas Riksbankens BNP-prognoser per kvartal
+              jämfört med utfallet per kvartal. Enligt Riksbanken visar diagrammet
+              att Riksbankens generella bedömning att BNP-tillväxten skulle
+              öka fram till mitten av 2006 var riktig. Däremot underskattade
+              banken styrkan i uppgången, dvs. tillväxttakten blev betydligt
+              högre än vad Riksbanken räknade med. De prognoser som Riksbanken
+              gjorde i början av utvärderingsperioden över BNP-tillväxten 2007
+              låg relativt nära det verkliga utfallet. Prognoserna som gjordes
+              i slutet av 2006 och början av 2007 låg dock en bra bit över utfallet,
+              dvs. Riksbanken överskattade då BNP-utvecklingen.
+            </p>
+            <p>
+              Den jämförelse som Riksbanken gjort med andra prognosmakare visar
+              att samtliga missbedömt kraften i BNP-uppgången under 2006. Riksbankens
+              prognoser ligger ungefär i mitten av bedömningarna, dvs. ungefär
+              på genomsnittet av samtliga bedömningar. Prognosmakarnas BNP-prognoser
+              för 2007 som gjordes 2005 och 2006 låg, till skillnad från prognoserna
+              för 2006, relativt nära utfallet. Riksbanken låg även i detta
+              fall i mitten av bedömningarna och var enligt Riksbanken relativt
+              träffsäkra. I början av 2007 justerade prognosmakarna upp sina
+              bedömningar av tillväxten 2007, vilket ledde till en överskattning
+              av tillväxttakten jämfört med utfallet. Även Riksbanken reviderade
+              sin prognos för 2007, men banken tillhörde under senare delen
+              av 2007 dem som var minst optimistiska om BNP-tillväxten 2007,
+              dvs. Riksbanken hade en av de lägsta överskattningarna. Vid t.ex.
+              mitten av 2007 var det många prognosmakare som förväntade sig
+              att BNP skulle stiga runt 4 % eller mer 2007. Riksbanken räknade
+              i penningpolitisk rapport 2007:2 med en tillväxt på drygt 3 %.
+              Utfallet för 2007 blev 2,6 %.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 13. Riksbankens BNP-prognoser
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p>
+              <graphic url="Shape{7D54F3D6-D568-4076-A78B-A4D81FBFFA1F}.png"/>
+            </p>
+            <p rend="tabellfot">
+              Källa: Riksbankens underlagsrapport.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDANYL2C" rend="r4">
+              Penningpolitiken
+            </p>
+            <p>
+              Riksbanken anger i utvärderingsunderlaget att Riksbanken allmänt
+              under 2005 och 2006 såg framför sig en fortsatt konjunkturuppgång
+              där resursutnyttjandet och kostnadstrycket i den svenska ekonomin
+              efterhand skulle öka. Pristrycket bedömdes ändå vara fortsatt
+              lågt på grund av ett antal faktorer som höll tillbaka inflationen,
+              däribland den snabbt stigande produktiviteten.
+            </p>
+            <p>
+              Den övergripande penningpolitiska avvägningen handlade, enligt
+              Riksbanken, om i vilken takt reporäntan borde höjas med tanke
+              på den låga inflationen i utgångsläget, den fortsatta konjunkturuppgången
+              samt risken för en alltför snabb ökning av inflation längre fram
+              i tiden. Utgångspunkten var att reporäntan borde höjas i en takt
+              som gjorde att inflationen gradvis steg mot inflationsmålet på
+              sikt. Inflationen bedömdes därmed ligga under målet en relativt
+              lång period innan den närmades sig målet. En sådan politik skulle
+              enligt Riksbanken bidra till att inflationen mätt enligt KPI hamnade
+              runt 2 % 2007 och att den underliggande inflationen hamnade runt
+              1,5 % (utfallet blev som redovisats tidigare en inflation på 2,2
+              % mätt enligt KPI och 1,2 % mätt enligt KPIX). Den förda penningpolitiken
+              skulle bidra till en fortsatt hög tillväxten i ekonomin. Riksbankens
+              övergripande bedömning av penningpolitiken under utvärderingsperioden
+              är att den varit väl avvägd, givet den information som fanns vid
+              beslutstillfällena och utvecklingen i ekonomin.
+            </p>
+            <p xml:id="IDAWYL2C" rend="r5">
+              De penningpolitiska besluten 2005
+            </p>
+            <p>
+              Den information som fanns tillgänglig i början av 2005 tydde,
+              enligt Riksbankens underlagsrapport, på att uppgången i konjunkturen
+              skulle fortsätta ungefär som tidigare förväntat. Någon ökad sysselsättning
+              syntes ännu inte i statistiken, men prognoserna om en ökad tillväxttakt
+              talade för att läget på arbetsmarknaden skulle börja ljusna efterhand.
+              Inflationen var låg och flera faktorer, bl.a. ett lågt resursutnyttjande
+              och ett stigande konkurrenstryck från omvärlden, talade för att
+              inflationen skulle fortsätta att vara låg under en stor del av
+              den kommande tvåårsperioden. Sammantaget manade den samlade informationen
+              till en viss försiktighet i penningpolitiken, och reporäntan behölls
+              oförändrad på 2 % vid direktionens sammanträden under första kvartalet
+              2005.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 14. Reporäntan och ränteprognoser (terminsräntor) gjorda
+              2005
+            </p>
+            <p>
+              <graphic url="Shape{DEF7FCF3-5B80-41F2-8DEF-F1E831AC6177}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Riksbankens underlagsrapport.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Vid det penningpolitiska sammanträdet i april konstaterades att
+              osäkerheten om konjunkturuppgången ökat. Priset på olja hade stigit
+              oväntat kraftigt och återhämtningen i euroområdet var svagare
+              än förväntat. Inflationen bedömdes dock utvecklas i linje med
+              tidigare prognoser, varför räntan återigen lämnades oförändrad
+              på 2 %. I juni sänktes reporäntan med 0,5 procentenheter till
+              1,5 %, bl.a. på grund av att det statistiska utfallet för första
+              kvartalet 2005 visade att BNP-tillväxten varit betydligt svagare
+              än förväntat. Sammantaget gjorde Riksbanken bedömningen att inflationen
+              på ett par års sikt skulle ligga under inflationsmålet. En viss
+              oro uttrycktes dock över att penningpolitiken möjligtvis var för
+              expansiv hushållen lånade pengar i en snabb takt samtidigt som
+              bostadspriserna steg.
+            </p>
+            <p>
+              Under andra halvåret 2005 visade ny statistik att uppgången i
+              konjunkturen tagit ny fart samt att försvagningen under första
+              kvartalet varit mindre djup än vad den tidigare statistiken visat.
+              Det kom också vissa indikationer på att arbetsmarknaden var på
+              väg att förbättras. Riksbanken bedömde att inflationen skulle
+              fortsätta att stiga framöver, på grund av bl.a. ett ökat resursutnyttjande,
+              men att uppgången skulle vara måttlig. Reporäntan lämnades oförändrad
+              på 1,5 % vid direktionens möten i augusti och oktober. Vid direktionens
+              möte i december konstaterades att den ekonomiska utvecklingen
+              var något starkare än tidigare förväntat samt att tillväxtutsikterna
+              blivit mindre osäkra än vad de var tidigare. Riksbanken bedömde
+              att inflationen skulle öka i måttlig takt framöver, och reporäntan
+              lämnades oförändrad på 1,5 %. Samtidigt gjorde Riksbanken bedömningen
+              att riskerna för en högre inflation nu var större än riskerna
+              för en lägre inflation. För första gången under utvärderingsperioden
+              reserverade sig ledamöter mot direktionens beslut. Vice riksbankscheferna
+              Villy Bergström, Lars Nyberg samt Eva Srejber reserverade sig
+              mot decemberbeslutet och ansåg i stället att reporäntan borde
+              ha höjts med 0,25 procentenheter.
+            </p>
+            <p>
+              Från och med inflationsrapport 2005:3 baserade Riksbanken sina
+              prognoser på marknadsaktörernas förväntningar (de s.k. implicita
+              terminsräntorna), vilka framgår i diagram 14. Riksbankens bedömning
+              av reporänteförväntningarna i inflationsrapport 2005:3 var att
+              en sådan utveckling av reporäntan skulle innebära en rimlig inflationsutveckling
+              under de närmaste åren. Riksbankens bedömning i inflationsrapport
+              2005:4 var att reporäntan kanske skulle behöva höjas mer under
+              det kommande halvåret än vad marknadsaktörernas förväntningar
+              indikerade.
+            </p>
+            <p xml:id="IDAVZL2C" rend="r5">
+              De penningpolitiska besluten 2006
+            </p>
+            <p>
+              Vid direktionens möten i januari och februari 2006 höjdes reporäntan
+              med sammanlagt 0,5 procentenheter till 2 %. Riksbanken räknade
+              då med att konjunkturen skulle fortsätta att stiga under året
+              men att uppgången skulle mattas av efterhand. Situationen på arbetsmarknaden
+              hade förbättrats ytterligare och inflationen förväntades öka och
+              ligga nära målet på ett par års sikt. Kostnadstrycket i ekonomin
+              hölls dock tillbaka av den snabbt stigande produktiviteten. Efter
+              höjningarna av reporäntan i början av året bedömde Riksbanken
+              att reporäntan sedan skulle utvecklas i linje marknadsaktörernas
+              förväntningar, se diagram 15. Vid mötet i februari angav direktionen
+              att reporäntan kanske skulle kunna höjas i en något långsammare
+              takt än vad som indikerades av marknadsaktörernas förväntningar.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 15. Reporäntan och ränteprognoser (terminsräntor) gjorda
+              2006
+            </p>
+            <p>
+              <graphic url="Shape{8E7591AA-389E-47A8-BEBE-275B48C0427A}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Riksbankens underlagsrapport.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Vid direktionens möte i april hölls räntan oförändrad men vid
+              mötet i juni höjdes räntan på nytt med 0,25 procentenheter till
+              2,25 %. Ny statistik visade att tillväxt och sysselsättning steg
+              lite snabbare än tidigare förväntat. Prognoserna över inflationen
+              på kort sikt justerades upp något, medan prognoserna på lite längre
+              sikt visade att inflationen skulle stiga mot inflationsmålet i
+              ungefär samma takt som Riksbanken tidigare bedömt under förutsättning
+              att reporäntan höjdes gradvis. Vid junimötet angav direktionen
+              också att det möjligtvis fanns behov av att höja reporäntan något
+              mer under det närmaste året än vad marknadsaktörerna förväntade
+              sig.
+            </p>
+            <p>
+              Under andra halvåret visade indikatorer och statistik att konjunkturen
+              var starkare än vad Riksbanken tidigare räknat med. Sysselsättningen
+              steg snabbt samtidigt som efterfrågan, hushållens skuldsättning
+              och huspriserna fortsatte att öka. Sammantaget gjorde Riksbanken
+              bedömningen att reporäntan skulle behöva höjas ytterligare för
+              att hålla inflationen kring inflationsmålet. Reporäntan höjdes
+              med 0,25 procentenheter varje gång vid mötena i augusti, oktober
+              och december, till en nivå i slutet av året på 3 %.
+            </p>
+            <p xml:id="IDAR0L2C" rend="r5">
+              De penningpolitiska besluten 2007
+            </p>
+            <p>
+              I början av 2007 räknade Riksbanken med en fortsatt stark konjunktur,
+              stigande sysselsättning och en snabbt ökad produktivitet, även
+              om banken bedömde att produktivitetstillväxten skulle mattas av
+              något på grund av den förbättrade arbetsmarknaden. Inflationen
+              bedömdes dock stiga långsammare än vad man förväntat i tidigare
+              prognoser bl.a. till följd lägre energipriser och en starkare
+              krona. Vid direktionens möte i februari höjdes reporäntan med
+              0,25 procentenheter till 3,25 %. I februari var det också första
+              gången Riksbanken redovisade en egen ränteprognos. Enligt prognosen
+              skulle reporäntan behöva höjas ytterligare någon eller några gånger
+              under det första halvåret 2007 för att inflationen skulle hamna
+              på målet.
+            </p>
+            <p>
+              Vid mötet i mars skedde endast marginella förändringar av bankens
+              bedömningar av konjunktur- och inflationsutsikterna. Reporäntan
+              lämnades oförändrad på 3,25 % samtidigt som Riksbanken, liksom
+              i februari, gjorde bedömningen att reporäntan skulle behöva höjas
+              ytterligare 0,25 procentenheter under de kommande månaderna och
+              att man därefter sannolikt skulle kunna avvakta med ytterligare
+              räntehöjningar. Vice riksbankschefen Svante Öberg reserverade
+              sig mot beslutet och ansåg att reporäntan borde höjas med 0,25
+              procentenheter.
+            </p>
+            <p>
+              Vid mötet i maj förändrades Riksbankens syn på utvecklingen.
+              Bilden av ett stigande kostnadstryck hade förstärkts under de
+              gångna månaderna, enligt underlagsrapporten. Avtalsförhandlingarna
+              föreföll resultera i högre lönepåslag än vad Riksbanken räknat
+              med i tidigare prognoser. Finanspolitiken såg ut att bli mer expansiv
+              än vad man tidigare antagit samtidigt som arbetslösheten sjönk
+              snabbare än förväntat. Samtidigt motverkades den stigande inflationen
+              av fortsatt god produktivitet och låga importpriser. Direktionen
+              beslutade att hålla reporäntan oförändrad. Någon ny ränteprognos
+              publicerades inte vid mötet i maj, men däremot gjordes en kvalitativ
+              bedömning av prognosen i februari. Enligt den bedömningen skulle
+              reporäntan sannolikt behöva höjas mer än vad ränteprognosen från
+              februari visade till följd av det stigande kostnadstrycket. Vice
+              riksbankscheferna Svante Öberg och Lars Nyberg reserverade sig
+              mot beslutet och ansåg att reporäntan borde höjas med 0,25 procentenheter
+              samt att ränteprognosen borde revideras upp.
+            </p>
+            <p type="html-diagramrubrik" rend="grad1">
+              Diagram 16. Reporäntan och Riksbankens ränteprognoser gjorda
+              2007
+            </p>
+            <p>
+              <graphic url="Shape{4859596B-21FD-43E9-8E3D-53455B35FF95}.png"/>
+            </p>
+          </div>
+          <div rend="tabellfotavsnitt_">
+            <p rend="tabellfot">
+              Källa: Riksbankens underlagsrapport.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Vid mötet i juni visade ny statistik att den svenska BNP-tillväxten
+              avtagit snabbt under första kvartalet 2007. Enligt Riksbanken
+              tydde dock olika faktorer på att försvagningen var tillfällig.
+              Statistiken visade också att situationen på arbetsmarknaden blivit
+              allt stramare samt att kostnadstrycket ökat. Den tidigare mycket
+              höga produktivitetstillväxten hade avtagit markant, vilket tillsammans
+              med höga löneökningar fått till effekt att arbetskraftskostnaderna
+              per enhet skjutit i höjden under första kvartalet 2007, efter
+              att i stort sett ha legat stilla under tre år. Det stigande kostnadstrycket
+              i kombination med en fortsatt stark konjunktur innebar att Riksbanken
+              höjde reporäntan med 0,25 procentenheter till 3,5 %. Samtidigt
+              justerades ränteprognosen upp. Direktionen bedömde att reporäntan
+              borde ligga kring 4 % i slutet av 2007 för att följas av ytterligare
+              en eller ett par räntehöjningar under de kommande åren. Vice riksbankschefen
+              Svante Öberg reserverade sig mot ränteprognosen och den penningpolitiska
+              rapporten. Han ansåg att reporäntan sannolikt kommer att behöva
+              höjas mer än vad som framgår av huvudscenariots ränteprognos.
+            </p>
+            <p>
+              Under andra halvåret förstärktes, enligt underlagsrapporten,
+              bilden av en stram arbetsmarknad och ett stigande kostnadstryck.
+              Samtidigt började företag och hushåll att revidera upp sina förväntningar
+              över inflationens utveckling under det närmaste året. Enligt Riksbankens
+              bedömning var utvecklingen av produktiviteten nyckelfaktorn för
+              hur inflationen skulle utvecklas de närmaste åren. Mot detta stod
+              att osäkerheten om den internationella konjunkturutvecklingen
+              ökat betydligt under sommaren och hösten, till följd av den finansiella
+              oron och krisen på den amerikanska bolånemarknaden.
+            </p>
+            <p>
+              Direktionen beslutade dock både vid mötet i september och vid
+              mötet i oktober att reporäntan framöver skulle behöva höjas i
+              samma takt som direktionen räknade med i juni. Reporäntan höjdes
+              vid både tillfällena med 0,25 procentenheter till en nivå på 4
+              %. Vice riksbankschefen Svante Öberg reserverade sig vid oktobermötet
+              mot den penningpolitiska rapporten och ansåg att inflationstrycket
+              och därmed behovet av att höja reporäntan framöver skulle bli
+              större än vad som framgick av den penningpolitiska rapporten.
+            </p>
+            <p>
+              I slutet av 2007 tilltog osäkerheten om den internationella konjunkturutvecklingen
+              samtidigt som den svenska inflationen steg snabbare än tidigare
+              beräknat, till följd av bl.a. kraftigt stigande priser på energi
+              och livsmedel. Direktionen beslutade dock vid sitt möte i december
+              att lämna räntan oförändrad på 4 %. Vice riksbankschefen Svante
+              Öberg reserverade sig mot beslutet och ansåg att reporäntan borde
+              höjas med 0,25 procentenheter.
+            </p>
+            <p xml:id="IDAZ1L2C" rend="r3">
+              Externa bedömningar av den svenska penningpolitiken
+            </p>
+            <p>
+              Nedan sammanfattas Internationella valutafondens (IMF) och OECD:s
+              bedömningar av den svenska penningpolitiska utvecklingen under
+              perioden 20042007, i den mån organisationerna under perioden kommenterat
+              penningpolitiken i sina respektive rapporter.
+            </p>
+            <p xml:id="IDA51L2C" rend="r4">
+              Internationella valutafonden
+            </p>
+            <p>
+              Normalt gör IMF varje år en s.k. artikel IV-konsultation i varje
+              medlemsland om den ekonomiska och finansiella utvecklingen. Det
+              är sedan upp till varje enskilt land att publicera de uttalanden
+              och den rapport som blir resultatet av konsultationerna. Sverige
+              har sedan början av 1990-talet offentliggjort IMF:s rapporter.
+            </p>
+            <p xml:id="IDAF2L2C" rend="r5">
+              2004 års konsultation (maj 2004)
+            </p>
+            <p>
+              Sedan förra konsultationen 2003 har den svenska penningpolitiken
+              bedrivits mot bakgrund av den kraftigt fallande inflationen under
+              2003 och början av 2004, konstaterar IMF. Riksbanken har sänkt
+              reporäntan med 0,75 procentenheter till 2 %. Inflationen förväntas
+              ligga under inflationsmålet de kommande två åren. De inhemska
+              riskerna för stigande inflation är relativt balanserade. Detta
+              talar för att reporäntan bör hållas oförändrad under den närmaste
+              tiden. I takt med att den inhemska och internationella tillväxten
+              tilltar stiger inflationstrycket i den svenska ekonomin, vilket
+              talar för att reporäntan bör höjas på sikt. Om inte regeringen
+              bedriver en tillräckligt stram finanspolitik, är det dock troligt
+              att höjningen av reporäntan behöver påbörjas tidigare än vad som
+              annars hade behövt vara fallet.
+            </p>
+            <p>
+              IMF anser vidare att Riksbanken under de senaste åren erhållit
+              en hög trovärdighet för sitt sätt att bedriva penningpolitiken.
+              Däremot har Riksbanken inte alltid varit lika lyckosam i sitt
+              sätt att kommunicera sin politik och strategi till allmänheten
+              och marknaderna. Det finns, enligt IMF, utrymme för att förbättra
+              kommunikationen, bl.a. när det gäller Riksbankens beslutsregler
+              samt beslutet att förlänga prognoshorisonten till över två år.
+            </p>
+            <p xml:id="IDAO2L2C" rend="r5">
+              2005 års konsultation (maj 2005)
+            </p>
+            <p>
+              En kraftig produktivitetstillväxt och en dämpad arbetsmarknad
+              har enligt IMF inneburit att inflation varit lägre än tidigare
+              förväntat. Låga importpriser och fallande livsmedelspriser har
+              också bidragit till den låga inflationen. Detta har skapat utrymme
+              för en långtgående sänkning av reporäntorna under 2004. Både den
+              nominella och reala räntan ligger på historiskt låga nivåer. Det
+              finns en bred enighet om att tillväxten i den svenska ekonomin
+              kommer att vara hög även framöver samt att resursutnyttjandet
+              i ekonomin gradvis kommer att stiga under 2005 och 2006. Detta
+              betyder att utrymmet för att ytterligare sänka reporäntorna är
+              mycket begränsat. De finanspolitiska stimulanser som regeringen
+              planerar för 2005 och 2006 gör att den ekonomiska politiken i
+              utgångsläget är tillräckligt efterfrågestimulerande. Om arbetsmarknaden
+              utvecklas som förväntat kommer inflationen att successivt stiga
+              mot inflationsmålet på två års sikt, även om den nu mycket snabba
+              produktivitetstillväxten avtar något.
+            </p>
+            <p xml:id="IDAU2L2C" rend="r5">
+              2006 år konsultation (feb 2007)
+            </p>
+            <p>
+              Inflationen i den svenska ekonomin bedöms stiga under de närmaste
+              två åren, enligt IMF. Det gör att Riksbanken förväntas fortsätta
+              att strama åt penningpolitiken och höja reporäntan framöver. Riksbanken
+              höjde med 1,5 procentenheter under 2006 till en nivå på 3 %, och
+              ytterligare höjningar är att vänta. Realräntan är fortfarande
+              nära noll och penningpolitiken är i nuläget ganska expansiv. Enligt
+              IMF bör en neutral reporänta ligga kring 4 %, vilket Riksbanken
+              inte motsatt sig i diskussionerna med IMF:s delegation.
+            </p>
+            <p>
+              IMF anser vidare att de förändringar Riksbanken gjort i sin penningpolitiska
+              strategi förbättrat Riksbankens kommunikation med allmänheten
+              och marknaderna. IMF konstaterar också att Riksbanken planerar
+              att offentliggöra sin egen ränteprognos. IMF välkomnar Riksbankens
+              initiativ. Initiativet innebär att Riksbanken ytterligare markerar
+              sin position som en av de bästa centralbankerna i världen. Den
+              utvärdering av den svenska penningpolitiken 19952005 som gjorts
+              på initiativ av riksdagen kommer att ytterligare bidra till förbättringen
+              av det penningpolitiska ramverket och den penningpolitiska strategin.
+            </p>
+            <p xml:id="IDA32L2C" rend="r4">
+              OECD
+            </p>
+            <p>
+              Till skillnad från IMF granskar OECD penningpolitiken mer oregelbundet
+              och då oftast från en mer långsiktig och övergripande utgångspunkt.
+              I OECD:s Sverigerapport 2007 (februari 2007) analyserar OECD globaliseringens
+              effekter på inflationen, varför den svenska inflationen under
+              flera år legat under inflationsmålet samt vilka konsekvenser det
+              får för penningpolitiken. I punkterna nedan sammanfattas OECD:s
+              rekommendationer:
+            </p>
+            <p>
+              ·. Fallande priser inom vissa sektorer som beror på ökad konkurrens
+              och marknadsavregleringar är till nytta för svenska konsumenter
+              och bör därför välkomnas. Ytterligare reformer bör genomföras
+              för att öka konkurrensen inom främst byggsektorn och elsektorn
+              där prisnivåerna fortfarande ligger signifikant över EU-genomsnittet.
+            </p>
+            <p>
+              ·. Riksbankens beslut att ibland förlänga tidshorisonten i inflationsmålet,
+              dvs. att ibland låta det ta mer än två år innan inflationen ligger
+              kring inflationsmålet, verkar enligt OECD vara en förnuftig politik
+              så länge de s.k. positiva utbudschockerna är temporära. När inflationsutvecklingen
+              på kort och medellång sikt blir mer osäker bör Riksbanken i högre
+              grad än tidigare hålla koll på och förankra de långsiktiga inflationsförväntningarna
+              i ekonomin kring inflationsmålet.
+            </p>
+            <p>
+              ·. Globaliseringen, den ökade konkurrensen och den stigande produktiviteten
+              har inneburit att Riksbanken underskattat inflationsutvecklingen.
+              Inflationen har år efter år hamnat under inflationsmålet. Detta
+              innebär att Riksbanken bör satsa mer resurser på att förbättra
+              prognoserna och mer noggrant analysera de underliggande orsakerna
+              till inflationsutvecklingen.
+            </p>
+            <p>
+              ·. Riksbanken bör ytterligare klargöra att banken endast tar
+              hänsyn till fastighetsprisernas utveckling i de penningpolitiska
+              besluten om prisutvecklingen bedöms få effekt på den framtida
+              prisstabiliteten. Riksbanken bör i sina rapporter redovisa ytterligare
+              uppgifter om fastighetspriserna och hushållens skuldsättning och
+              hur dessa variabler påverkar prisstabiliteten samt i vilken utsträckning
+              penningpolitiken kan motverka olika effekter.
+            </p>
+            <p xml:id="IDA53L2C" rend="r3">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              Utskottet har granskat inflationsutvecklingen och penningpolitiken
+              under perioden 20052007. Granskningen fokuserar på utfallet 2007.
+              Tidigare har utskottet utvärderat utfallet 2005 (bet. 2005/06:FiU23).
+              Däremot har ingen fördjupad prövning gjorts av utfallet 2006.
+              Anledningen är bl.a. att utskottet våren 2007 beslutade att avstå
+              från att genomföra en utvärdering av penningpolitiken 20042006,
+              eftersom utskottet då behandlade den externa utvärderingen av
+              den svenska penningpolitiken 19952005. Materialet som presenteras
+              ovan och de bedömningar som görs nedan är dock till stor del giltiga
+              även för 2005 och 2006.
+            </p>
+            <p>
+              Som underlag för årets utvärdering har utskottet bl.a. använt
+              Riksbankens rapport Underlag för utvärdering av penningpolitiken
+              20052007. Rapporten är ett resultat av att utskottet, som en följd
+              av utvärderingen av den svenska penningpolitiken 19952005, våren
+              2007 beslutade att Riksbanken årligen ska lämna en underlagsrapport
+              för utvärdering till utskottet. Underlagsrapporten ska utgöra
+              den första av de två penningpolitiska redogörelser som Riksbanken
+              enligt riksbankslagen årligen ska lämna till utskottet. Utskottets
+              allmänna intryck av årets rapport är att den på ett förtjänstfullt
+              och fördjupat sätt beskriver utvecklingen under perioden. Rapporten
+              är emellertid den första i sitt slag, och det finns utrymme för
+              förbättringar och ytterligare fördjupningar. Underlagsrapporten
+              kommenteras ytterligare av utskottet längre ned i detta avsnitt.
+            </p>
+            <p>
+              Utskottets grundläggande bedömning av utvecklingen 20052007 är
+              att Riksbanken under perioden fört en väl avvägd penningpolitik.
+            </p>
+            <p>
+              Inflationen mätt enligt konsumentprisindex, KPI, har under större
+              delen av perioden varit låg och legat under Riksbankens inflationsmål
+              på 2 %. Den låga inflationen beror bl.a. på ett lågt resursutnyttjande
+              i inledningen av perioden samt på en snabb produktivitetstillväxt
+              i den svenska ekonomin under framför allt 2005 och 2006. Andra
+              förklaringar är stigande global konkurrens samt ett svagt internationellt
+              pristryck.
+            </p>
+            <p>
+              Sammantaget steg KPI-inflationen under perioden med i genomsnitt
+              1,4 % per år. Inflationen har därmed legat inom det s.k. toleransintervallet
+              på ±1 procentenhet, vilket är det intervall inom vilken inflationen
+              bör tillåtas variera. Undantaget är 2005 då KPI-inflationen steg
+              med endast 0,5 % i genomsnitt under året, dvs. en halv procentenhet
+              under toleransintervallets nedre gräns. Mätt enligt det underliggande
+              inflationsmåttet KPIX steg inflationen med i genomsnitt 1,1 %
+              per år, även det under inflationsmålet men inom toleransintervallet.
+              Trots den låga inflationen har tillväxten i den svenska ekonomin
+              varit relativt hög. I genomsnitt steg BNP med drygt 3 % per år
+              under perioden samtidigt som sysselsättningen ökade kraftigt under
+              både 2006 och 2007 efter en svagare utveckling 2005.
+            </p>
+            <p>
+              Redovisningen ovan visar att KPI-inflationen stigit successivt
+              under perioden, från de ovan redovisade 0,5 % 2005 till i genomsnitt
+              2,2 % 2007, vilket är över inflationsmålet men inom toleransintervallet.
+              Genomgången av Riksbankens inflationsbedömningar under perioden
+              visar enligt utskottets mening att prognoserna ganska väl fångat
+              upp den stigande inflationstrenden. Prognoser över inflationen
+              2007 har under en stor del av perioden legat relativt nära det
+              slutliga genomsnittliga utfallet, trots att inflationen under
+              perioden påverkats av kraftigt varierande priser på t.ex. energi.
+              Både utskottets och Riksbankens egna jämförelser med andra prognosmakare
+              visar dessutom att Riksbankens inflationsbedömningar under perioden
+              varit jämförelsevis träffsäkra.
+            </p>
+            <p>
+              Under perioden har Riksbanken höjt reporäntan med 2,5 procentenheter,
+              från historiskt låga 1,5 % vid mitten av 2005 till 4 % i slutet
+              av 2007. Genomgången av räntehöjningarna och underlaget vid beslutstillfällena
+              visar att höjningarna genomförts i takt med att banken justerat
+              upp sina bedömningar av inflations- och kostnadsutvecklingen.
+              Enligt utskottets mening finns det ett tydligt samband mellan
+              den syn på inflations- och konjunkturutvecklingen som Riksbanken
+              presenterat vid olika tillfällen och direktionens tagna räntebeslut.
+            </p>
+            <p>
+              Utskottet konstaterar dock att inflationen började stiga kraftigt
+              under andra halvan av 2007 och i början av 2008 på ett sätt som
+              inte fångats upp i de prognoser som Riksbanken presenterat under
+              utvärderingsperioden. Med facit i hand innebär detta att Riksbanken
+              möjligtvis borde ha höjt reporäntan lite snabbare under kanske
+              framför allt 2006 för att motverka den snabbt stigande inflationstakten
+              under senare delen av 2007. Möjligtvis borde Riksbanken inte heller
+              ha genomfört den relativt kraftiga sänkning av reporäntan som
+              direktionen beslutade om i juni 2005. Utskottet kan dock konstatera
+              att den snabba inflationsuppgången 2007 till en betydande del
+              beror på kraftigt stigande priser på energi och livsmedel, vilka
+              torde ha varit svåra att förutse under 2005 och 2006. Dessutom
+              förklaras räntesänkningen vid mitten av 2005 bl.a. av att Statistiska
+              centralbyrån (SCB) redovisade en oväntat svag tillväxt för första
+              kvartalet 2005, vilket bl.a. fick Riksbanken att omvärdera sin
+              tidigare relativt positiva syn på tillväxten och inflationsutvecklingen.
+              Senare under hösten 2005 kom ny reviderad statistik som visade
+              att den ekonomiska avmattningen i början av året inte varit så
+              djup som den tidigare statistiken visat.
+            </p>
+            <p>
+              Utskottets genomgång av Riksbankens prognoser visar vidare att
+              Riksbanken i likhet med så gott som alla övriga prognosmakare
+              underskattade tillväxten i den svenska ekonomin under 2006 samt
+              överskattade tillväxttakten under 2007. Felbedömningarna berodde
+              bl.a. på att man underskattade produktivitetstillväxten 2006 samt
+              överskattade produktivitetstillväxten 2007.
+            </p>
+            <p>
+              Som framgår av redovisningen ovan har Riksbanken också, i likhet
+              med andra prognosmakare, kraftigt underskattat uppgången i den
+              svenska sysselsättningen under 2006 och 2007.
+            </p>
+            <p>
+              Utskottet vill i detta sammanhang erinra om att professorerna
+              Francesco Giavazzi och Frederic Mishkin i sin utvärdering av den
+              svenska penningpolitiken 19952005 föreslog att Riksbanken med
+              anledning av de prognosmissar Riksbanken gjort under de senaste
+              åren borde lägga ned mer resurser på att analysera utvecklingen
+              i den reala ekonomin, särskilt vad gäller produktivitetstillväxten
+              och arbetsmarknaden. Utskottet kan konstatera att Riksbanken under
+              de senaste åren ökat sina ansträngningar på dessa områden. Däremot
+              saknar utskottet i Riksbankens underlag för utvärdering av penningpolitiken
+              20052007 djupare analyser av orsakerna till varför Riksbanken
+              missbedömt t.ex. produktivitets- och sysselsättningsutvecklingen.
+              Enligt utskottets mening borde underlagsrapporten kunna fungera
+              som ett bra forum för presentation av mer djupgående analyser
+              på dessa områden. Utskottet anser därför att nästa års underlagsrapport
+              bör kompletteras med denna typ av lärande analyser.
+            </p>
+            <p>
+              Utskottet anser vidare att genomgången av utvärderingsperiodens
+              prognoser understryker vikten av att satsa resurser på att öka
+              kunskapen och förståelsen av den reala ekonomins utveckling.
+            </p>
+            <p xml:id="IDAH5L2C" rend="AvsnittsRubrik">
+              Reservation
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservation. I rubriken anges vilken punkt
+              i utskottets förslag till riksdagsbeslut som behandlas i avsnittet.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAO5L2C">
+                  <p rend="reservation">
+                    Uppföljning av utvärderingen 19952005, punkt 1 (v)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="reservanter">
+                    av Ulla Andersson (v).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDASAM2C" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Jag anser att förslaget till riksdagsbeslut under punkt 1 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen godkänner vad som anförs i reservationen.
+            </p>
+            <p xml:id="IDAZAM2C" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Vänsterpartiet anser att det är bra att riksdagen och finansutskottet
+              utvärderar den svenska penningpolitiken, både genom externt utlagda
+              utvärderingar och genom utskottets årliga utvärderingar. Till
+              följd av Francesco Giavazzis och Frederic Mishkins utvärdering
+              av penningpolitiken 19952005 har flera viktiga åtgärder vidtagits
+              för att öka öppenheten och debatten om utformningen av den svenska
+              penningpolitiken, vilket framgår av utskottets uppföljning av
+              utvärderingen.
+            </p>
+            <p>
+              Vänsterpartiet har emellertid flera grundläggande invändningar
+              mot det svenska penningpolitiska ramverket och den rådande penningpolitiska
+              regimen. De viktigaste invändningarna beskrivs i punkterna nedan:
+            </p>
+            <p>
+              ·.
+              <seg rend="grad1">
+                Synen på sysselsättning och arbetslöshet.
+              </seg>
+              Det i lag fastställda målet för penningpolitiken är att Riksbanken
+              ska upprätthålla ett fast penningvärde, vilket Riksbanken definierat
+              som ett inflationsmål på 2 % med ett toleransintervall på ±1 %.
+              Något kompletterande mål för t.ex. BNP eller sysselsättningen
+              finns inte eftersom sådana mål inte anses vara förenliga med EU:s
+              regelverk. Den nuvarande penningpolitiska regimen baseras på teorin
+              om en naturlig arbetslöshetsnivå eller s.k. jämviktsarbetslöshet.
+              Det centrala i teorin är att ekonomin strävar mot en naturlig
+              arbetslöshetsnivå och att försök att pressa ned arbetslösheten
+              under den nivån enbart leder till ökad inflation. Nivån på den
+              naturliga arbetslösheten bestäms, enligt teorierna, av arbetsmarknadens
+              funktionssätt. Förenklat implicerar detta att ju mer avreglerad
+              arbetsmarknaden är, desto bättre fungerar den. Vänsterpartiet
+              anser att resonemangen om jämviktsarbetslösheten vilar på en såväl
+              teoretiskt som empiriskt bräcklig grund. Är det verkligen korrekt
+              att beskriva arbetsmarknaden som
+              <seg rend="grad2">
+                en
+              </seg>
+            </p>
+            <p>
+              ·.
+              <seg rend="grad1">
+                Penningpolitiska regimen ger stabilitetsproblem.
+              </seg>
+              Även om man tror på teorierna om jämviktsarbetslöshet är, enligt
+              Vänsterpartiets uppfattning, den nuvarande utformningen av penningpolitiken
+              problematisk. Under den nuvarande penningpolitiska regimen, med
+              rörlig växelkurs, har Riksbanken huvudansvaret för stabiliseringspolitiken.
+              Problemet är att en penningpolitik som enbart vägleds av ett inflationsmål
+              saknar mekanismer för att stabilisera ekonomin kring fullt resursutnyttjande.
+              Det kan ofta uppkomma lägen där utvecklingen i den reala ekonomin
+              motiverar en annan penningpolitik än den som följer av en strikt
+              tillämpning av inflationsmålet. Forskning av t.ex. den amerikanska
+              ekonomen Kenneth Rogoff visar att det i allmänhet inte är önskvärt
+              att penningpolitik bedrivs utifrån en strikt prisstabiliseringsnorm.
+              En sådan norm leder till ökad variabilitet i sysselsättningen
+              och produktionen. Enligt Vänsterpartiets uppfattning är det orimligt
+              att penningpolitiken saknar uppsatta mål för att stabilisera produktionen
+              och sysselsättningen. Priset för dagens prisstabilitetsmål är
+              högt. Ett underutnyttjande av ekonomins produktionsmöjligheter,
+              även om det är tillfälligt, minskar våra framtida möjligheter
+              till konsumtion och sysselsättning. Produktionsbortfall i dag
+              betalas inte tillbaka i morgon med ränta.
+            </p>
+            <p>
+              ·.
+              <seg rend="grad1">
+                Styrningen av Riksbanken måste demokratiseras.
+              </seg>
+              Kombinationen av ett ensidigt mål om prisstabilitet och en lagstadgad
+              oberoende riksbank medför att finanspolitiska åtgärder för att
+              öka sysselsättningen ofta riskerar att motverkas av Riksbanken
+              genom räntehöjningar. Riksbankens motiv är att ökad sysselsättning
+              riskerar att hota inflationsmålet. Detta leder till ett olyckligt
+              dubbelkommando i den ekonomiska politiken. Vänsterpartiet anser
+              att besluten om räntan måste underställas riksbanksfullmäktige
+              så att man får till stånd en samverkande finans- och penningpolitik
+              som understöder det övergripande målet om full sysselsättning
+              i ekonomin.
+            </p>
+            <p>
+              Jag föreslår att riksdagen godkänner vad jag har anfört om utformningen
+              av den svenska penningpolitiken. Mot bakgrund av den grundläggande
+              kritik mot den nuvarande penningpolitiska regimen som jag framfört
+              ovan finner jag ingen anledning att framföra konkreta synpunkter
+              på utskottets uppföljning av utvärderingen 19952005 samt utvärderingen
+              20052007.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

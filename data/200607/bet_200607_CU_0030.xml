@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200607_CU_0030">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Civilutskottet har redovisat för riksdagen sin granskning av EU-kommissionens grönbok om översynen av konsumentregelverket, KOM(2006)744). Översynen omfattar åtta EU-direktiv som har till syfte att skydda konsumenterna. Regeringen tycker att det vore bra att reglera gemensamma frågeställningar för konsumentskyddet i ett så kallat horisontellt instrument. Instrumentet bör omfatta alla konsumentavtal och kompletteras med en översyn och modernisering av de separata direktiven. Målsättningen bör enligt regeringen vara att uppnå fullständig harmonisering på en hög konsumentskyddsnivå. Utskottet framhåller i sin redovisning att det delar regeringens uppfattning och förutsätter att översynen innebär att nivån på det svenska konsumentskyddet kan bibehållas och att konsumentskyddet, såväl det nationella som det europeiska, utvecklas. Riksdagen avslutade ärendet med detta.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Grönboken om översynen av konsumentregelverket (CU30)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Utskottet redovisar för riksdagen resultatet av sin granskning enligt 10 kap. 4 § riksdagsordningen av EG-kommissionens grönbok, KOM (2006) 744 slutlig, om översynen av konsumentregelverket.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren beslöt bifalla utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GU09104</idno>
+              <title>2007-05-10</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">104</biblScope>
+              <note type="display-reference">2007-05-10</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GU09104</idno>
+              <title>2007-05-10</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">104</biblScope>
+              <note type="display-reference">2007-05-10</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2007-05-04">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2007-05-04">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2007-04-26">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2007-04-26">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2007-04-26">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2007-04-12">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-04-12">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-04-12">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-03-29">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-02-27">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-02-27">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2007-05-10">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2007-05-10">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-05-10">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-05-10">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-05-09">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-05-09">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2007-05-08">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2007-05-08">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Civilutskottets utlåtande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2006/07:CU30
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Grönboken om översynen av konsumentregelverket
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDAMRX1C" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I utlåtandet redovisar utskottet för riksdagen resultatet av
+            sin granskning enligt 10 kap. 4 § riksdagsordningen av Europeiska
+            kommissionens grönbok om översynen av konsumentregelverket, KOM(2006)
+            744 slutlig. Översynen omfattar åtta direktiv vars syfte är att
+            skydda konsumenterna. Kommissionen har uppmanat berörda parter
+            att senast den 15 maj 2007 inkomma med synpunkter på 30 frågor
+            som har identifierats i grönboken.
+          </p>
+          <p>
+            I utlåtandet redovisas översynens mål och skälen för översynen.
+            Vidare lämnas bl.a. en översiktlig redovisning av de frågor som
+            ställs i grönboken.
+          </p>
+          <p>
+            Utskottet har vid en utfrågning med företrädare för Integrations-
+            och jämställdhetsdepartementet erfarit att regeringen anser att
+            det vore lämpligt att reglera för konsumentregelverket gemensamma
+            frågeställningar i ett s.k. horisontellt instrument som kompletteras
+            med översyn och modernisering av de separata direktiven. Ett sådant
+            horisontellt instrument bör omfatta alla konsumentavtal. Målsättningen
+            för harmoniseringen bör enligt regeringen vara att uppnå fullständig
+            harmonisering på en hög konsumentskyddsnivå.
+          </p>
+          <p>
+            Utskottet ansluter sig till regeringens bedömningar och förutsätter
+            att översynen kommer att innebära att den nuvarande svenska konsumentskyddsnivån
+            kan bibehållas och att konsumentskyddet, såväl det nationella
+            som det europeiska, kan vidareutvecklas inom ramen för det nya
+            gemensamma regelverket.
+          </p>
+          <p>
+            I ärendet har anmälts två motivreservationer.
+          </p>
+          <p xml:id="IDARTX1C" rend="AvsnittsRubrik">
+            Utskottets anmälan
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  EG-kommissionens grönbok
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Utskottet redovisar härmed för riksdagen resultatet av sin granskning
+                  enligt 10 kap. 4 § riksdagsordningen av EG-kommissionens grönbok,
+                  KOM(2006) 744 slutlig, om översynen av konsumentregelverket.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 1 (s, mp) motiveringen
+          </p>
+          <p rend="reservationsreferens_">
+            Reservation 2 (v) motiveringen
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 12 april 2007
+          </p>
+          <p>
+            På civilutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Carina Moberg
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Carina Moberg (s),
+            Inger René (m), Andreas Norlén (m), Lennart Pettersson (c), Christina
+            Oskarsson (s), Jan Ertsborn (fp), Hillevi Larsson (s), Christine
+            Jönsson (m), Yvonne Andersson (kd), Anti Avsan (m), Egon Frid
+            (v), Ameer Sachet (s), Lars Tysklind (fp), Jan Lindholm (mp),
+            Katarina Brännström (m), Eva Sonidsson (s) och Fredrik Lundh (s).
+          </p>
+          <p xml:id="IDAEQX1C" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDANSX1C" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Kammaren har i enlighet med 10 kap. 4 § riksdagsordningen den
+            14 februari 2007 hänvisat Europeiska kommissionens grönbok om
+            översynen av konsumentregelverket, KOM(2006) 744 slutlig, till
+            civilutskottet för granskning. Med grönboken, som antogs den 8
+            februari 2007, uppmanar Europeiska kommissionen alla berörda parter
+            att senast den 15 maj 2007 inkomma med synpunkter på 30 frågor
+            som har identifierats i grönboken. Grönboken behandlas inom generaldirektoratet
+            för hälsa och konsumentskydd. Svaren och synpunkterna kommer att
+            offentliggöras på generaldirektoratets webbplats, såvida parterna
+            inte har något att invända. Kommissionen kommer att granska inläggen
+            och offentliggöra en sammanfattning första halvåret 2007. På grundval
+            av resultatet av samrådet kommer kommissionen att ta ställning
+            till om det finns behov av ny lagstiftning. Eventuella lagförslag
+            kommer att åtföljas av en konsekvensbedömning.
+          </p>
+          <p>
+            I Europaparlamentet har grönboken remitterats till utskottet
+            för den inre marknaden och konsumentskydd. Utskottet för ekonomi
+            och valutafrågor skall inkomma med ett yttrande. Den preliminära
+            tidsplanen för Europaparlamentets behandling av grönboken innebär
+            att plenarbehandling kan förväntas äga rum i september 2007.
+          </p>
+          <p>
+            Företrädare för Justitiedepartementet samt Integrations- och
+            jämställdhetsdepartementet har vid utskottets sammanträde den
+            27 februari 2007 lämnat information om grönboken. Statssekreterare
+            Christer Hallerby, Integrations- och jämställdhetsdepartementet,
+            jämte medarbetare, har vid utskottets sammanträde den 20 mars
+            2007 redovisat Regeringskansliets faktapromemoria (2006/07:FPM58)
+            Grönbok om översyn av konsumentregelverket.
+          </p>
+          <p>
+            Regeringen har föranstaltat om remissbehandling av grönboken.
+            En förteckning över remissinstanserna finns i
+            <seg rend="grad2">
+              bilaga 2
+            </seg>
+            . Remissvaren finns tillgängliga i ärendet. Utskottet har tagit
+            del av de till Integrations- och jämställdhetsdepartementet inkomna
+            remissvaren liksom en av en privatperson upprättad promemoria
+            som getts in i ärendet.
+          </p>
+          <p>
+            Regeringen kommer att avge sitt yttrande till kommissionen efter
+            det att förevarande utlåtande behandlats i kammaren.
+          </p>
+          <p xml:id="IDAVXX1C" rend="rubrik2">
+            Grönboken
+          </p>
+          <p xml:id="IDAQXX1C" rend="r3">
+            Inledning
+          </p>
+          <p>
+            Syftet med grönboken är att från alla berörda parter få synpunkter
+            om möjliga handlingsstrategier när det gäller översynen av konsumentregelverket
+            och få svar på ett antal konkreta frågor.
+          </p>
+          <p xml:id="IDAXRX1C" rend="r3">
+            Skälen för översynen
+          </p>
+          <p>
+            Kommissionen anser att de flesta direktiv som ingår i konsumentregelverket
+            inte längre helt uppfyller kraven på dagens föränderliga marknader.
+            Detta gäller särskilt med tanke på den digitala tekniken och de
+            digitala tjänsternas (t.ex. nedladdning av musik) allt större
+            betydelse. Som exempel nämns även att programvaror och data inte
+            omfattas av konsumentköpsdirektivet. Vidare påpekas att s.k. onlineauktioner
+            regleras på olika sätt i medlemsstaterna. Detta är möjligt eftersom
+            det allmänna distansavtalsdirektivet ger medlemsstaterna rätt
+            att undanta auktioner från tillämpningsområdet.
+          </p>
+          <p>
+            I grönboken framhålls särskilt att EU:s nuvarande regler om konsumentskydd
+            är splittrade. En anledning är att medlemsstaterna enligt nuvarande
+            direktiv kan anta strängare regler i sin nationella lagstiftning.
+            En annan anledning är att flera frågor regleras på olika sätt
+            i direktiven eller lämnas olösta. Det anges vara vanligt att dessa
+            skillnader medför extra kostnader för företag.
+          </p>
+          <p>
+            Det påpekas vidare att regelskillnader mellan medlemsstaterna
+            även bidrar till att minska konsumenters benägenhet att göra köp
+            över gränserna eftersom de inte kan vara säkra på vilket skydd
+            de har vid inköp som är gränsöverskridande.
+          </p>
+          <p xml:id="IDAIWX1C" rend="r3">
+            Översynens mål
+          </p>
+          <p>
+            Det övergripande målet med översynen anges i grönboken vara att
+            skapa en verklig inre marknad för konsumenterna genom att hitta
+            rätt balans mellan ett gott konsumentskydd och företagens konkurrenskraft,
+            samtidigt som subsidiaritetsprincipen till fullo respekteras.
+            Syftet är enligt redovisningen att stärka konsumenternas förtroende
+            för den inre marknaden genom att garantera dem ett gott skydd
+            i hela EU. Konsumenterna skall kunna lita på att de har likvärdiga
+            rättigheter överallt och tillgång till likvärdiga påföljder om
+            något går fel. I grönboken framhålls även nödvändigheten av att
+            se till att företag, inte minst små och medelstora företag, kan
+            dra nytta av ett mer förutsägbart regelverk och enklare EU-regler
+            så att deras kostnader för att följa bestämmelserna blir lägre,
+            och mer generellt göra det lättare för dem att bedriva handel
+            i hela EU, oavsett var de är etablerade.
+          </p>
+          <p xml:id="IDAIVX1C" rend="r3">
+            Översynens omfattning
+          </p>
+          <p>
+            De åtta direktiv som omfattas av översynen är:
+          </p>
+          <p rend="punktlistaLista">
+            Direktiv 85/577/EEG för att skydda konsumenter i de fall då avtal
+            ingås utanför fasta affärslokaler (hemförsäljningsdirektivet)
+          </p>
+          <p rend="punktlistaLista">
+            Direktiv 90/314/EEG om paketresor, semesterpaket och andra paketarrangemang
+            (paketresedirektivet)
+          </p>
+          <p rend="punktlistaLista">
+            Direktiv 93/13/EEG om oskäliga villkor i konsumentavtal (direktivet
+            om oskäliga avtalsvillkor)
+          </p>
+          <p rend="punktlistaLista">
+            Direktiv 94/47/EG om skydd för köpare vad avser vissa aspekter
+            i avtal om nyttjanderätten till fast egendom på tidsdelningsbasis
+            (direktivet om tidsdelat boende)
+          </p>
+          <p rend="punktlistaLista">
+            Direktiv 97/7/EG om konsumentskydd vid distansavtal (det allmänna
+            distansavtalsdirektivet)
+          </p>
+          <p rend="punktlistaLista">
+            Direktiv 98/6/EG om konsumentskydd i samband med prismärkning
+            av varor som erbjuds konsumenter (prismärkningsdirektivet)
+          </p>
+          <p rend="punktlistaLista">
+            Direktiv 98/27/EG om förbudsföreläggande för att skydda konsumenters
+            intressen (förbudsföreläggandedirektivet)
+          </p>
+          <p rend="punktlistaLista">
+            Direktiv 1999/44/EG om vissa aspekter rörande försäljning av
+            konsumentvaror och härmed förknippade garantier (konsumentköpsdirektivet).
+          </p>
+          <p>
+            Direktiven bygger på minimiharmonisering. Det innebär att medlemsstaterna
+            har möjlighet att föreskriva ett mer omfattande skydd än det som
+            säkerställs i direktiven. Många medlemsstater har utnyttjat denna
+            möjlighet.
+          </p>
+          <p xml:id="IDA0QWDM" rend="r3">
+            Alternativa tillvägagångssätt för översynen
+          </p>
+          <p>
+            Kommissionen för fram två alternativa tillvägagångssätt för en
+            översyn av konsumentregelverket. Det ena är vertikalt och innebär
+            att de befintliga direktiven ses över var för sig. Det andra tillvägagångssättet
+            är blandat och mer horisontellt. Det utgår från att man antar
+            ett eller flera horisontella raminstrument där frågor som gäller
+            hela regelverket regleras, och om nödvändigt kompletterar med
+            sektorsspecifika regler.
+          </p>
+          <p>
+            Med det vertikala tillvägagångssättet skulle de befintliga direktiven
+            kunna ändras var för sig för att anpassas till marknaden och den
+            tekniska utvecklingen. Kommissionen konstaterar att även om detta
+            tillvägagångssätt medför att luckor i enskilda direktiv skulle
+            kunna täppas till, så är det tidskrävande, eftersom samma frågor
+            skulle behandlas i separata lagstiftningsprocesser. Det poängteras
+            vidare att detta tillvägagångssätt inte medför att volymen rättsakter
+            skulle minska och att gemensamma begrepp även i fortsättningen
+            skulle regleras i de olika direktiven.
+          </p>
+          <p>
+            Med ett blandat tillvägagångssätt skulle enligt kommissionen
+            gemensamma frågeställningar kunna regleras på ett systematiskt
+            sätt i ett horisontellt instrument. Som exempel på detta tillvägagångssätt
+            nämns direktivet om otillbörliga affärsmetoder (2005/29/EG). I
+            grönboken framhålls att detta tillvägagångssätt skulle förenkla
+            konsumentregelverket. Omarbetningen skulle även medföra att regelverkets
+            volym minskade. Det horisontella instrumentet skulle, anför kommissionen,
+            i de fall så behövs kompletteras med en del vertikala åtgärder
+            (t.ex. en revidering av direktivet om tidsdelat boende för att
+            lösa de särskilda problemen i detta direktiv, däribland definitionen
+            av tidsdelningsbasis).
+          </p>
+          <p xml:id="IDAGRWDM" rend="r3">
+            Möjlig räckvidd för ett horisontellt instrument
+          </p>
+          <p>
+            Väljs det blandade tillvägagångssättet är det enligt kommissionen
+            av vikt att ställning tas till det horisontella instrumentets
+            räckvidd. I grönboken presenteras tre alternativa förslag på lösningar.
+            En första möjlig lösning anges vara att anta ett raminstrument
+            med stor räckvidd som kan tillämpas på både inhemska och gränsöverskridande
+            transaktioner. Det framhålls att regelverket blir avsevärt enklare
+            för både konsumenter och företag om det finns ett enda instrument
+            för alla konsumentavtal. I vissa fall skulle emellertid sektorspecifika
+            regler (för t.ex. finansiella tjänster och försäkringar) fortsätta
+            att gälla. Exempel på sådana regler är bestämmelserna om perioden
+            för hävningsrätt och definitionen av en konsument när det gäller
+            finansiella tjänster.
+          </p>
+          <p>
+            Det andra alternativet vore att införa ett horisontellt instrument
+            som enbart gäller gränsöverskridande avtal. Konsumenter som handlar
+            av en utländsk näringsidkare skulle härigenom få ett enhetligt
+            skydd i hela EU. En nackdel som kommissionen ser med detta alternativ
+            är att konsumenter och näringsidkare tvingas följa olika bestämmelser
+            beroende på om transaktionen är gränsöverskridande eller inhemsk.
+          </p>
+          <p>
+            Det tredje alternativ som förs fram är att skapa ett horisontellt
+            instrument som endast gäller distanshandel (såväl inhemsk som
+            distansöverskridande) och som skulle ge enhetliga regler för denna
+            handel. I grönboken påpekas att den största nackdelen med det
+            alternativet skulle vara att olika bestämmelser skulle gälla för
+            distanshandel och direkta transaktioner.
+          </p>
+          <p xml:id="IDASRWDM" rend="r3">
+            Grad av harmonisering
+          </p>
+          <p>
+            Det betonas i grönboken att oavsett vilket alternativ som väljs
+            för översynen av konsumentregelverket, måste ställning tas till
+            vilken grad av harmonisering som skall eftersträvas.
+          </p>
+          <p>
+            Tre alternativa harmoniseringsgrader föreslås i grönboken. Det
+            första alternativet är full harmonisering. Kommissionen påpekar
+            att med detta alternativ måste val göras mellan olika existerande
+            (nationella) lösningar. I grönboken tas som exempel på detta den
+            i konsumentköpsdirektivet givna möjligheten att föreskriva skyldighet
+            för konsumenten att reklamera inom två månader (efter att ett
+            fel upptäckts) för att kunna åberopa att varan är felaktig, jfr
+            23 § konsumentköplagen (1990:932). Denna skyldighet skulle vid
+            full harmonisering kunna antingen avskaffas eller göras obligatorisk.
+          </p>
+          <p>
+            Eftersom det kan vara svårt att uppnå fullständig harmonisering
+            ur alla aspekter, och för att undvika att skapa nya hinder på
+            den inre marknaden, kan det även, enligt kommissionen, vara nödvändigt
+            att i vissa fall komplettera harmoniseringen med en bestämmelse
+            om ömsesidigt erkännande i fråga om vissa aspekter som omfattas
+            av den föreslagna lagstiftningen men som inte är fullständigt
+            harmoniserade.
+          </p>
+          <p>
+            Kommissionen föreslår som ett andra alternativ en kombination
+            av minimiharmonisering och en bestämmelse om ömsesidigt erkännande.
+            Detta skulle medföra att medlemsstaterna skulle behålla möjligheten
+            att ha strängare konsumentskyddsregler i sin nationella lagstiftning,
+            men i princip inte ha rätt att tillämpa dem på näringsidkare som
+            är etablerade i andra medlemsstater.
+          </p>
+          <p>
+            Ytterligare ett alternativ skulle enligt kommissionen kunna vara
+            minimiharmonisering, så småningom kombinerad med (eventually combined
+            with) principen om ursprungsland. Detta alternativ skulle innebära
+            att en medlemsstat behåller möjligheten att ha strängare nationella
+            konsumentskyddande regler, men att näringsidkare som är etablerade
+            i andra länder bara behöver följa sin nationella lagstiftning.
+          </p>
+          <p>
+            Kommissionen drar slutsatsen att de två sistnämnda alternativen
+            inte skulle leda till någon förenkling och rationalisering av
+            regelverket. Regelverket skulle fortfarande vara splittrat och
+            påverka konsumenternas förtroende för den inre marknaden i negativ
+            riktning. Dessa alternativ skulle enligt kommissionen inte heller
+            garantera den höga konsumentskyddsnivå i gemenskapen som föreskrivs
+            i EG-fördraget. Enligt artikel 153 skall gemenskapen främja konsumenternas
+            intressen och säkerställa en hög konsumentskyddsnivå.
+          </p>
+          <p xml:id="IDAHSWDM" rend="r3">
+            Närmare om frågeställningarna i grönboken
+          </p>
+          <p>
+            I en bilaga till grönboken finns en förteckning över 30 frågor
+            som skall behandlas i samrådet. Bilagan är indelad i tre typer
+            av frågeställningar.
+          </p>
+          <p>
+            De tre första frågorna är som framgått av övergripande natur.
+            Den inledande frågan avser vilket tillvägagångssätt som skall
+            användas vid översynen. De alternativ som lämnas är (1) Ett vertikalt
+            tillvägagångssätt med en översyn av de enskilda direktiven, (2)
+            Ett blandat tillvägagångssätt med antagande av ett raminstrument
+            som reglerar övergripande frågor som är relevanta för alla konsumentavtal
+            samt vid behov en revidering av de enskilda direktiven och (3)
+            Ingen ändring, dvs. ingen översyn.
+          </p>
+          <p>
+            Den andra frågan gäller vilken räckvidd ett eventuellt s.k. horisontellt
+            instrument skulle ha. Här lämnas också tre alternativ: (1) Det
+            bör omfatta alla konsumentavtal, oavsett om det handlar om inhemska
+            eller gränsöverskridande transaktioner, (2) Det bör bara omfatta
+            gränsöverskridande avtal och (3) Det bör bara omfatta distansavtal,
+            men både gränsöverskridande och inhemska sådana.
+          </p>
+          <p>
+            Den tredje övergripande frågan rör graden av harmonisering av
+            framtidens konsumentskydd. Alternativen är (1) Den ändrade lagstiftningen
+            bör grundas på en fullständig harmonisering som kompletteras med
+            en bestämmelse om ömsesidigt erkännande i frågor som inte är fullständigt
+            harmoniserade och (2) Den ändrade lagstiftningen bör grundas på
+            minimiharmonisering i kombination med en bestämmelse om ömsesidigt
+            erkännande eller med ursprungslandsprincipen.
+          </p>
+          <p>
+            De följande frågorna delas in i två kategorier: de som är gemensamma
+            för hela regelverket (t.ex. definitionen av konsumenter) eller
+            för mer än ett direktiv (t.ex. ångerrätten), och de som är specifika
+            för köpeavtalet, vilket är det absolut vanligaste konsumentavtalet.
+            Den första kategorin innehåller 12 horisontella frågor (4.14.10).
+            Kommissionen betonar vikten av en enhetlig definition av begreppen
+            konsument respektive näringsidkare. Enhetliga begrepp, framhålls
+            det, gör det möjligt att mer exakt avgränsa regelverkets tillämpningsområde.
+            Kommissionen frågar vidare om det bör införas en allmän princip
+            om ärligt uppsåt och god sed i avtalstransaktioner. Syftet skulle
+            vara att täppa till framtida luckor i lagstiftningen. Andra viktiga
+            frågor som tas upp rör konsumenter som agerar via en mellanhand,
+            individuellt framförhandlade avtalsvillkor, ångerrätten, allmänna
+            avtalsvillkor om påföljder samt rätten till skadestånd.
+          </p>
+          <p>
+            Härefter följer 14 frågor (5.15.10) som är specifika för köpeavtal.
+            Det gällande konsumentköpsdirektivet reglerar köp. Direktivet
+            omfattar inte tillhandahållande av digitala innehåll. Den första
+            frågan gäller huruvida direktivet bör utvidgas till att omfatta
+            (a) andra typer av avtal än köp som avser tillhandahållande av
+            varor (t.ex. biluthyrning) och (b) avtal om tillhandahållande
+            av digitala tjänster till konsumenter (t.ex. nedladdning av musik
+            från Internet). Andra frågor rör t.ex. begagnade varor som säljs
+            på offentliga auktioner, definition av avlämnande av varan, riskens
+            övergång, fel på varan, bevisbördan, val av tillgänglig påföljd
+            och garantier. Frågan om offentliga auktioner ställs mot bakgrund
+            av medlemsstaternas olika reglering av s.k. onlineauktioner.
+          </p>
+          <p>
+            I en avslutande fråga lämnas möjlighet att föreslå andra frågor
+            eller områden som rör konsumentskydd som behöver undersökas närmare
+            eller behandlas på EU-nivå.
+          </p>
+          <p xml:id="IDAATWDM" rend="AvsnittsRubrik">
+            Utskottets granskning
+          </p>
+          <p xml:id="IDADTWDM" rend="r3">
+            Faktapromemorian
+          </p>
+          <p>
+            Regeringen välkomnar grönboken om översynen av konsumentregelverket
+            och anför att Sverige eftersträvar ett fullgott konsumentskydd
+            på en hög skyddsnivå inom EU och anser att utvecklingen av den
+            gemensamma inre marknaden gynnas av så likformiga regler som möjligt.
+            Det är dock viktigt att regelverket är tillräckligt dynamiskt
+            för att möjliggöra att hänsyn tas till utvecklingen på marknaden.
+            Regelförenkling är en aspekt som enligt regeringen bör beaktas
+            vid översynen av konsumentregelverket.
+          </p>
+          <p>
+            Regeringen anser att det vore lämpligt att reglera gemensamma
+            frågeställningar på ett systematiskt sätt i ett horisontellt instrument.
+            Mot bakgrund av den snabba utvecklingen av förhållandena på marknaden
+            är det viktigt att ha ett mer dynamiskt regelsystem än endast
+            vertikala direktiv för skilda områden. Det är dock nödvändigt
+            att komplettera detta arbete med översyn och modernisering av
+            de separata direktiven. På det civilrättsliga konsumentskyddets
+            område bör det huvudsakliga syftet vara att skapa balans mellan
+            parterna i ett enskilt avtal. Ett högt konsumentskydd måste säkerställas,
+            samtidigt som näringslivets intressen måste beaktas. Regeringen
+            förordar därför ett blandat tillvägagångssätt. Ett eventuellt
+            horisontellt instrument bör omfatta alla konsumentavtal, såväl
+            inhemska som gränsöverskridande. Det finns enligt regeringens
+            uppfattning ingen anledning att begränsa harmoniseringen till
+            gränsöverskridande avtal. Målsättningen för harmoniseringen bör
+            vara att uppnå fullständig harmonisering på en hög konsumentskyddsnivå.
+          </p>
+          <p>
+            Enhetliga och tydliga definitioner av begreppen konsument och
+            näringsidkare bör, enligt regeringen, eftersträvas i översynsarbetet.
+            De horisontella frågeställningarna rör centrala områden inom den
+            svenska konsumentlagstiftningen. Sverige bör verka för enhetliga
+            regler samtidigt som väl fungerande nationella lösningar måste
+            beaktas.
+          </p>
+          <p>
+            Effekten av olika lösningar på de frågeställningar som specifikt
+            rör köpeavtal måste, anför regeringen, analyseras noga innan något
+            alternativ väljs som avviker från rådande rättsläge.
+          </p>
+          <p xml:id="IDASTWDM" rend="r3">
+            Utskottets ställningstagande
+          </p>
+          <p>
+            Utskottet kan inledningsvis konstatera att tidsramarna för detta
+            utlåtande har varit snäva. För att det skall vara möjligt att
+            på ett meningsfullt sätt bereda frågeställningar som tas upp i
+            en grönbok torde ofta krävas att Regeringskansliet på olika sätt
+            kan lämna information i relevanta delar. Häri ingår att i de fall
+            så är erforderligt i ett inledande stadium kunna lämna information
+            om grönbokens innehåll samt att inom de tidsramar som lagts fast
+            i olika sammanhang ta fram och redovisa en Faktapromemoria.
+          </p>
+          <p>
+            Det är med tillfredställelse som utskottet i detta ärende kan
+            konstatera att Regeringskansliet i nämnda delar, särskilt när
+            det gäller ett snabbt framtagande av en Faktapromemoria, har uppfyllt
+            dessa krav.
+          </p>
+          <p>
+            Civilutskottet kan liksom kommissionen konstatera att det mot
+            bakgrund av den utveckling som skett på marknaderna, den fragmentering
+            av reglerna som ägt rum samt den bland konsumenterna konstaterade
+            bristen på förtroende för konsumentregelverket föreligger ett
+            behov av en översyn av detta regelverk. Som regeringen har konstaterat
+            skall givetvis subsidiaritetsprincipen till fullo respekteras
+            vid den fortsatta översynen.
+          </p>
+          <p>
+            Utskottet har tagit del av remissinstansernas synpunkter på grönboken.
+            Det råder en stor majoritet, i vilken ingår bl.a. Konsumentverket
+            och Näringslivets Delegation för Marknadsrätt, för att vid översynen
+            begagna sig av ett blandat tillvägagångssätt med antagande av
+            ett raminstrument som reglerar övergripande frågor som är relevanta
+            för alla konsumentavtal samt vid behov en revidering av de enskilda
+            direktiven. Likaså råder det en stor majoritet för att översynen
+            bör omfatta alla konsumentavtal, oavsett om det handlar om inhemska
+            eller gränsöverskridande transaktioner. Samma klara majoritet
+            förespråkar att den ändrade lagstiftningen grundas på en fullständig
+            harmonisering som kompletteras med en bestämmelse om ömsesidigt
+            erkännande i frågor som inte är fullständigt harmoniserade.
+          </p>
+          <p>
+            Utskottet kan konstatera att den snabba utvecklingen på marknaden
+            kräver ett mer dynamiskt regelsystem än det som kan uppnås med
+            endast ett antal vertikala direktiv. Liksom regeringen anser civilutskottet
+            att det vore lämpligt att reglera gemensamma frågeställningar
+            på ett systematiskt sätt i ett horisontellt instrument. Det kan
+            som påpekats gälla bl.a. definitioner av begreppen konsument och
+            näringsidkare. Det är dock nödvändigt att komplettera detta med
+            översyn och modernisering av de separata direktiven som finns
+            på olika områden. Det huvudsakliga syftet med konsumentskyddet
+            på det civilrättsliga området bör vara att skapa balans mellan
+            parterna i ett enskilt avtal. Ett högt konsumentskydd måste således
+            säkerställas, samtidigt som näringslivets intressen beaktas. Enligt
+            civilutskottet måste effekten av olika lösningar på de i grönboken
+            redovisade konkreta frågorna analyseras noga. Olika väl fungerande
+            nationella lösningar måste härvid givetvis kunna beaktas. Utskottet
+            väljer att på detta stadium inte ta ställning till de nämnda mer
+            konkreta frågeställningarna. Utlåtandet begränsas till de tre
+            inledande övergripande frågor som förs fram i grönboken.
+          </p>
+          <p>
+            Liksom regeringen förordar civilutskottet ett blandat tillvägagångssätt
+            vid översynen av konsumentregelverket. Ett eventuellt horisontellt
+            instrument bör omfatta alla konsumentavtal, såväl inhemska som
+            gränsöverskridande. Enligt civilutskottets mening bör strävan
+            i det fortsatta arbetet vara att uppnå fullständig harmonisering
+            på en hög konsumentskyddsnivå.
+          </p>
+          <p>
+            Utskottet förutsätter att översynen kommer att innebära att den
+            nuvarande svenska konsumentskyddsnivån kan bibehållas och att
+            konsumentskyddet, såväl det nationella som det europeiska, kan
+            vidareutvecklas inom ramen för det nya gemensamma regelverket.
+            Utskottet vill särskilt poängtera vikten av att Sverige i den
+            fortsatta översynen med kraft verkar för att detta blir fallet.
+          </p>
+          <p>
+            Utskottet förutsätter vidare att regeringen fortlöpande kommer
+            att hålla utskottet informerat om hur arbetet med översynen fortskrider,
+            och hur de synpunkter som utskottet fört fram i förevarande utlåtande
+            kunnat tillgodoses i det fortsatta förhandlingsarbetet.
+          </p>
+          <p xml:id="IDAOUWDM" rend="AvsnittsRubrik">
+            Reservationer
+          </p>
+          <table>
+            <row>
+              <cell xml:id="IDASUWDM">
+                <p rend="reservation grad1">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="reservation grad1">
+                  EG-kommissionens grönbok motiveringen (s, mp)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p>
+                  av Carina Moberg (s), Christina Oskarsson (s), Hillevi Larsson
+                  (s), Ameer Sachet (s), Jan Lindholm (mp), Eva Sonidsson (s) och
+                  Fredrik Lundh (s).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p xml:id="IDANWWDM" rend="r4">
+            Ställningstagande
+          </p>
+          <p>
+            Vår utgångspunkt är ett högt konsumentskydd i hela Europa och
+            att Sverige skall fortsätta att vara ett föregångsland när det
+            gäller konsumentfrågor. Full harmonisering är att föredra om det
+            är troligt att man kan uppnå och bibehålla en sådan hög ambitionsnivå.
+            Emellertid finns i dagsläget anledning att uttrycka viss osäkerhet
+            i frågan om harmoniseringsgrad.
+          </p>
+          <p>
+            Ett skäl till denna osäkerhet är att vi känner en stor skepsis
+            inför den nuvarande regeringens ambitioner på det konsumentpolitiska
+            området. Denna skepsis grundar sig på tidigare, väl dokumenterade,
+            diskussioner i dessa frågor. Vi vill således markera att vi inte
+            vill överlåta till regeringen att, förbehållslöst och utifrån
+            sina grundprinciper för den nationella konsumentpolitiken, ta
+            ställning till harmoniseringen av konsumentpolitiken på EU-nivån.
+          </p>
+          <p>
+            Ett annat skäl till vår osäkerhet är att det framstår som svårt
+            att förutsäga på vilken nivå som det gemensamma konsumentskyddet
+            kan komma att läggas. Vi saknar underlag för bedömning av detta.
+            Underlaget skulle bl.a. kunna innehålla en analys av hur den svenska
+            konsumentskyddsnivån förhåller sig till övriga medlemsländers.
+          </p>
+          <p>
+            Vi är vidare oroade för att möjligheterna att bedriva konsumentpolitik
+            i alltför stor utsträckning skall begränsas och befarar att utvecklingen
+            av konsumentfrågorna kan komma att hämmas av en fullt ut genomförd
+            harmonisering.
+          </p>
+          <p>
+            Det är enligt vår mening av största betydelse att en levande
+            och stark dialog förs med riksdagen i dessa frågor. Mot bakgrund
+            av den tvekan vi nu har redovisat är det än mer nödvändigt att
+            regeringen under processens gång, med lämpliga tidsintervall,
+            återkommer till riksdagen och civilutskottet och redovisar hur
+            förhandlingarna går och redogör för uppkomna alternativ till ställningstaganden
+            i aktuella frågor.
+          </p>
+          <table>
+            <row>
+              <cell xml:id="IDAAXWDM">
+                <p rend="reservation grad1">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="reservation grad1">
+                  EG-kommissionens grönbok motiveringen (v)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p>
+                  av Egon Frid (v).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p xml:id="IDA4AYDM" rend="r4">
+            Ställningstagande
+          </p>
+          <p>
+            Jag anser att den i grönboken nämnda översynen av konsumentregelverket
+            bör göras. Dock får inte strävan efter likformiga regler inom
+            EU gå ut över varje nations möjligheter att ha en konsumentskyddslagstiftning
+            som är strängare till förmån för konsumenterna än vad direktivens
+            miniminivå kräver. Likaså får inte behovet av regelförenklingar
+            och principen om balans mellan parterna i ett avtalsförhållande
+            gå ut över konsumentskyddet. Ambitionen måste vara att höja miniminivån
+            när det gäller konsumentskyddet i EG-direktiven. Jag kan dock
+            inte överskatta Sveriges möjlighet att påverka frågan i en sådan
+            riktning. Därför förordar jag användningen av ett blandat tillvägagångssätt
+            och införandet av ett horisontellt instrument som enbart gäller
+            gränsöverskridande avtal detta eftersom det är vid de gränsöverskridande
+            avtalssituationerna som problem riskerar att uppstå för konsumenterna.
+            När det gäller graden av harmonisering förordar jag såsom framgår
+            ovan att möjligheten för varje medlemsland att ha strängare konsumentskyddsregler
+            i sin nationella lagstiftning behålls.
+          </p>
+          <p xml:id="IDAEBYDM" rend="Bilaga">
+            Bilaga 1
+          </p>
+          <p xml:id="IDAHBYDM" rend="BilageRubrik">
+            Förteckning över behandlade förslag
+          </p>
+          <p rend="behandlatdokument_">
+            Kommissionens grönbok om översynen av konsumentregelverket, KOM(2006)
+            744 slutlig
+          </p>
+          <p xml:id="IDANBYDM" rend="Bilaga">
+            Bilaga 2
+          </p>
+          <p xml:id="IDAQBYDM" rend="BilageRubrik">
+            Förteckning över remissinstanser
+          </p>
+          <p>
+            Följande instanser har av regeringen beretts tillfälle att framföra
+            sina synpunkter på Europeiska kommissionens grönbok om översynen
+            av konsumentregelverket, KOM(2006) 744 slutlig.
+          </p>
+          <p rend="uppraknadlista">
+            1. Kommerskollegium
+          </p>
+          <p rend="uppraknadlista">
+            2. Styrelsen för ackreditering och teknisk kontroll, Swedac
+          </p>
+          <p rend="uppraknadlista">
+            3. Datainspektionen
+          </p>
+          <p rend="uppraknadlista">
+            4. Kammarkollegiet
+          </p>
+          <p rend="uppraknadlista">
+            5. Lotteriinspektionen
+          </p>
+          <p rend="uppraknadlista">
+            6. Göteborgs universitet, Centrum för konsumentforskning
+          </p>
+          <p rend="uppraknadlista">
+            7. Juridiska fakultetsnämnden vid Stockholms universitet
+          </p>
+          <p rend="uppraknadlista">
+            8. Juridiska fakultetsnämnden vid Uppsala universitet
+          </p>
+          <p rend="uppraknadlista">
+            9. Konkurrensverket
+          </p>
+          <p rend="uppraknadlista">
+            10. Post- och telestyrelsen
+          </p>
+          <p rend="uppraknadlista">
+            11. Verket för näringslivsutveckling (Nutek)
+          </p>
+          <p rend="uppraknadlista">
+            12. Allmänna reklamationsnämnden
+          </p>
+          <p rend="uppraknadlista">
+            13. Konsumentverket/KO
+          </p>
+          <p rend="uppraknadlista">
+            14. Marknadsdomstolen
+          </p>
+          <p rend="uppraknadlista">
+            15. Företagarna
+          </p>
+          <p rend="uppraknadlista">
+            16. Konsumenternas Bank- och finansbyrå
+          </p>
+          <p rend="uppraknadlista">
+            17. Konsumenternas Elrådgivningsbyrå AB
+          </p>
+          <p rend="uppraknadlista">
+            18. Konsumenternas försäkringsbyrå
+          </p>
+          <p rend="uppraknadlista">
+            19. Konsumenternas tele- och Internetbyrå, Ktib
+          </p>
+          <p rend="uppraknadlista">
+            20. Konsumentföreningen Stockholm
+          </p>
+          <p rend="uppraknadlista">
+            21. Konsumentvägledarnas Förening
+          </p>
+          <p rend="uppraknadlista">
+            22. Marknadsetiska Rådet
+          </p>
+          <p rend="uppraknadlista">
+            23. Näringslivets Delegation för Marknadsrätt
+          </p>
+          <p rend="uppraknadlista">
+            24. Näringslivets Regelnämnd, NNR
+          </p>
+          <p rend="uppraknadlista">
+            25. Swedma Swedish Direct Marketing Association
+          </p>
+          <p rend="uppraknadlista">
+            26. Svensk Distanshandel
+          </p>
+          <p rend="uppraknadlista">
+            27. Svensk Handel
+          </p>
+          <p rend="uppraknadlista">
+            28. Svenska Bankföreningen
+          </p>
+          <p rend="uppraknadlista">
+            29. Svenska Fondhandlareföreningen
+          </p>
+          <p rend="uppraknadlista">
+            30. Svenskt Näringsliv
+          </p>
+          <p rend="uppraknadlista">
+            31. Sveriges advokatsamfund
+          </p>
+          <p rend="uppraknadlista">
+            32. Sveriges Annonsörer
+          </p>
+          <p rend="uppraknadlista">
+            33. Sveriges Callcenter Förening SCCF Service AB
+          </p>
+          <p rend="uppraknadlista">
+            34. Sveriges Försäkringsförbund
+          </p>
+          <p rend="uppraknadlista">
+            35. Sveriges Kommuner och Landsting
+          </p>
+          <p rend="uppraknadlista">
+            36. Sveriges Konsumenter i samverkan
+          </p>
+          <p rend="uppraknadlista">
+            37. Sveriges Konsumenter
+          </p>
+          <p rend="uppraknadlista">
+            38. Sveriges Marknadsförbund
+          </p>
+          <p rend="uppraknadlista">
+            39. Sveriges Mediebyråer
+          </p>
+          <p rend="uppraknadlista">
+            40. Sveriges Reklamförbund
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

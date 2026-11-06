@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200506_KU_0037">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Personuppgiftslagen (PUL) ändras så att behandling av personuppgifter som inte innefattar några större integritetsrisker underlättas. Det betyder att den som skriver personuppgifter i till exempel löpande text i ordbehandlingsdokument, i e-post eller på Internet, inte ska behöva tillämpa PUL:s alla hanteringsregler. Behandling i sådant material ska vara tillåten utan andra restriktioner än att någons personliga integritet inte får kränkas. Överträdelser av PUL ska bara vara straffbara om de begåtts uppsåtligen eller av grov oaktsamhet. Oaktsamhet av normalgraden avkriminaliseras alltså. Lagändringarna föreslås börja gälla den 1 januari 2007.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Personuppgiftslagen blir enklare (KU37)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen. Avslag på motionerna</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GT09121</idno>
+              <title>2006-05-11</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">121</biblScope>
+              <note type="display-reference">2006-05-11</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GT09121</idno>
+              <title>2006-05-11</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">121</biblScope>
+              <note type="display-reference">2006-05-11</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GT0K254</idno>
+              <title>2005/06:254</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">254</biblScope>
+              <note type="display-reference">2005/06:254</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="SOU">
+            <bibl type="SOU">
+              <idno type="riksdagen">GSB36</idno>
+              <title>SOU 2004:6</title>
+              <biblScope unit="riksdag-session">2004</biblScope>
+              <biblScope unit="document-number">6</biblScope>
+              <note type="display-reference">2004:6</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1998:204</idno>
+              <note type="display-reference">2006:398</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GT03173</idno>
+              <title>Översyn av personuppgiftslagen</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">173</biblScope>
+              <note type="display-reference">proposition 2005/06:173 Översyn av personuppgiftslagen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GT02K26</idno>
+              <title>med anledning av prop. 2005/06:173 Översyn av personuppgiftslagen</title>
+              <title type="sub">av Tobias Krantz m.fl. (FP)</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">K26</biblScope>
+              <note type="display-reference">motion 2005/06:K26 med anledning av prop. 2005/06:173 Översyn av personuppgiftslagen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GT02K27</idno>
+              <title>med anledning av prop. 2005/06:173 Översyn av personuppgiftslagen</title>
+              <title type="sub">av Kerstin Lundgren m.fl. (C)</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">K27</biblScope>
+              <note type="display-reference">motion 2005/06:K27 med anledning av prop. 2005/06:173 Översyn av personuppgiftslagen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GT02T500</idno>
+              <title>IT</title>
+              <title type="sub">av Christer Winbäck m.fl. (FP)</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">T500</biblScope>
+              <note type="display-reference">motion 2005/06:T500 IT</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2006-05-09">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2006-05-09">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2006-05-03">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2006-05-03">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2006-05-03">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2006-05-03">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2006-05-03">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-05-02">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-05-02">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-04-27">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-04-27">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-04-20">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2006-05-11">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2006-05-11">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2006-05-11">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-05-11">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-05-11">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-05-10">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-05-10">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-05-09">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-05-09">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Konstitutionsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2005/06:KU37
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Översyn av personuppgiftslagen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDABB4MC" rend="AvsnittsRubrik">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlas regeringens proposition 2005/06:173 Översyn
+            av personuppgiftslagen samt två motioner som väckts med anledning
+            av propositionen och ett motionsyrkande från allmänna motionstiden
+            2005.
+          </p>
+          <p>
+            Utskottet tillstyrker regeringens lagförslag och avstyrker motionerna.
+          </p>
+          <p>
+            I betänkandet finns tre reservationer och ett särskilt yttrande.
+          </p>
+          <p xml:id="IDAQB4MC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Missbruksmodell i personuppgiftslagen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen antar regeringens förslag till lag om ändring i personuppgiftslagen
+                  (1998:204). Därmed bifaller riksdagen proposition 2005/06:173.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Nytt mer rättssäkert förslag
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2005/06:K27.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 1 (c)
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  3.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Revidering av EG-direktivet
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2005/06:K26 yrkande 1.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  4.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Allmänhetens tillgång till information om förtroendevalda
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2005/06:T500 yrkande 13.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 2 (fp)
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  5.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Utvidgning av missbruksmodellen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2005/06:K26 yrkande 2.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 3 (fp)
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  6.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Revidering av yttrandefrihetsgrundlagen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion 2005/06:K26 yrkande 3.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 2 maj 2006
+          </p>
+          <p>
+            På konstitutionsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Göran Lennmarker
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Göran Lennmarker
+            (m), Göran Magnusson (s), Barbro Hietala Nordlund (s), Pär Axel
+            Sahlberg (s), Inger Jarl Beck (s), Ingvar Svensson (kd), Mats
+            Einarsson (v), Anders Bengtsson (s), Henrik S Järrel (m), Helene
+            Petersson (s), Helena Bargholtz (fp), Kerstin Lundgren (c), Billy
+            Gustafsson (s), Nils Fredrik Aurelius (m), Karin Åström (s), Gustav
+            Fridolin (mp) och Martin Andreasson (fp).
+          </p>
+          <p xml:id="IDAYO4MC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDA1O4MC" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Av propositionen framgår hur ärendet har behandlats fram till
+            dess att propositionen avlämnades till riksdagen.
+          </p>
+          <p xml:id="IDABP4MC" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Den 16 april 1998 beslutade riksdagen att anta regeringens förslag
+            om en ny personuppgiftslag (prop. 1997/98:44, bet. 1997/98:KU18,
+            rskr. 1997/98:180, SFS 1998:204). Personuppgiftslagen ersätter
+            datalagen (1973:289). Genom personuppgiftslagen genomförs Europaparlamentets
+            och rådets direktiv 95/46/EG av den 24 oktober 1995 om skydd för
+            enskilda med avseende på behandling av personuppgifter och om
+            det fria flödet av sådana uppgifter (EG-direktivet).
+          </p>
+          <p>
+            Begreppen missbruksmodell och hanteringsmodell introducerades
+            i förarbetena till personuppgiftslagen (SOU 1997:39 s. 179 ff.
+            och prop. 1997/98:44 s. 36 f.).
+          </p>
+          <p>
+            Förenklat uttryckt reglerar en lagstiftning uppbyggd enligt en
+            hanteringsmodell själva hanteringen av personuppgifter oavsett
+            om hanteringen kan betecknas som harmlös eller känslig från integritetssynpunkt.
+            Regleringen omfattar all användning av personuppgifter oavsett
+            syfte, omfattning eller art. I en sådan modell finns därmed regler
+            om hur personuppgifter skall hanteras från det att de samlas in
+            till dess de utplånas.
+          </p>
+          <p>
+            En reglering enligt en missbruksmodell koncentrerar sig i stället
+            på utnyttjande av personuppgifter som kan karakteriseras som ett
+            missbruk. Så länge inte personuppgifterna missbrukas på så sätt
+            att den personliga integriteten kränks är behandlingen tillåten.
+            De som förespråkar en sådan modell brukar utgå från att själva
+            hanteringen av personuppgifterna skall vara i det närmaste fri.
+            Det väsentliga i modellen blir i stället att identifiera vilken
+            användning av personuppgifter som utgör ett sådant missbruk att
+            den bör förbjudas, dvs. i första hand skadeståndsbeläggas eller
+            kriminaliseras.
+          </p>
+          <p>
+            Redan vid genomförandet av EG-direktivet konstaterade regeringen
+            att den då föreslagna hanteringsmodellen framstod som omodern
+            (prop. 1997/98:44 s. 37). Mycket av den användning av personuppgifter
+            som den ökade datoriseringen har medfört måste enligt regeringen
+            betraktas som harmlös. Alltfler medborgare har tillgång till dator
+            samt e-post och annan kommunikation i världsomspännande nätverk
+            såsom Internet. Regeringen ansåg därför att det fanns starka skäl
+            att verka för att det blir möjligt att gå från en lagstiftning
+            efter en hanteringsmodell till en mer missbruksinriktad lagstiftning.
+          </p>
+          <p>
+            Även riksdagen har vid flera tillfällen understrukit behovet
+            av dels en revidering av EG-direktivet, dels en översyn av personuppgiftslagen.
+            I samband med att riksdagen behandlade motioner från den allmänna
+            motionstiden 1998 gav riksdagen regeringen till känna att regeringen
+            med kraft bör verka inom EU för att EG-direktivet revideras samt
+            se till att en översyn av personuppgiftslagen kommer till stånd.
+            En sådan översyn skulle ha till syfte att, så långt det är möjligt
+            inom det nuvarande EG-direktivets ram, åstadkomma en förändring
+            av lagstiftningen i riktning mot ett regelverk som tar sikte på
+            missbruk av personuppgifter (bet. 1998/99:KU15, rskr. 1998/99:147).
+            Riksdagen har därefter vid flera tillfällen och senast våren 2002
+            understrukit vikten av att regeringen fortsätter arbetet såväl
+            i EU som nationellt med att få till stånd en mer missbruksinriktad
+            reglering (bet. 2001/02:KU22 s. 14).
+          </p>
+          <p>
+            Regeringen har efter personuppgiftslagens tillkomst 1998 vidtagit
+            åtgärder för att underlätta behandlingen av personuppgifter. Sammantaget
+            har lagstiftningsarbetet medfört att skyddet för personuppgifter
+            i högre grad än tidigare inriktas på de förfaranden som medför
+            mer betydelsefulla integritetsrisker och att lagstiftningen i
+            viss utsträckning kan sägas ha närmat sig en sådan missbruksinriktad
+            regleringsmodell som riksdagen och regeringen har förespråkat.
+            Åtgärder har också vidtagits på internationell nivå hos EG-kommissionen
+            och Europarådet. Vidare har Sverige tillsammans med Storbritannien,
+            Österrike och Finland utarbetat förslag till lättnader i EG-direktivet
+            och presenterat dessa för EG-kommissionen i en gemensam skrivelse.
+            Sverige har för egen del dessutom i olika sammanhang under hand
+            till EG-kommissionen framfört sina önskemål om en revidering av
+            direktivet mot en missbruksmodell.
+          </p>
+          <p>
+            Ytterst sätter EG-direktivet om personuppgifter en gräns för
+            hur den nationella lagstiftningen på området får utformas. Det
+            står nu enligt regeringen klart att EG-kommissionen inte inom
+            någorlunda överskådlig tid kommer att presentera några förslag
+            till ändringar i direktivet. Detta framgår av Första rapporten
+            om genomförandet av dataskyddsdirektivet (KOM [2003] 265 slutlig
+            s. 8 f.). Enligt regeringens uppfattning bör personuppgiftslagen
+            inom direktivets nuvarande ram så långt som det är möjligt ändras
+            så att den underlättar sådan vardaglig behandling av personuppgifter
+            som typiskt sett inte innefattar några större integritetsrisker.
+            För stora traditionella register och databaser där integritetsriskerna
+            generellt sett är större torde däremot personuppgiftslagens detaljerade
+            hanteringsreglering till stora delar vara både ändamålsenlig och,
+            med hänsyn till direktivet, nödvändig samt inte heller vålla några
+            påtagliga tillämpningsproblem.
+          </p>
+          <p xml:id="IDA2P4MC" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            I propositionen föreslås att behandling av personuppgifter som
+            inte ingår i eller är avsedda att ingå i en samling av personuppgifter
+            som har strukturerats för att påtagligt underlätta sökning efter
+            eller sammanställning av personuppgifter skall omfattas av en
+            missbruksmodell. En sådan behandling får inte utföras om den innebär
+            en kränkning av den registrerades integritet.
+          </p>
+          <p>
+            Det föreslås vara förenat med straff att bryta även mot en missbruksregel.
+            En avkriminalisering föreslås dock så att straff skall få utkrävas
+            endast vid uppsåt och grov oaktsamhet.
+          </p>
+          <p>
+            Vidare föreslår regeringen att den skall få meddela föreskrifter
+            om sådana undantag som är tillåtna enligt artikel 13.1 EG-direktivet.
+          </p>
+          <p>
+            Lagändringen föreslås träda i kraft den 1 januari 2007.
+          </p>
+          <p xml:id="IDAPQ4MC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDATQ4MC" rend="rubrik2">
+            Missbruksmodell i personupgiftslagen
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDA0Q4MC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <p rend="textiruta_">
+              Utskottet föreslår att riksdagen antar regeringens förslag till
+              lag om ändring i personuppgiftslagen (1998:204). Utskottet avstyrker
+              motionerna 2005/06:K26 yrkandena 1 och 2, 2005/06:K27 och 2005/06:T500
+              yrkande 13.
+            </p>
+            <p rend="textiruta_">
+              Jämför reservationerna 1 (c), 2 (fp) och 3 (fp).
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDADR4MC" rend="r4">
+              Propositionen
+            </p>
+            <p>
+              Bestämmelserna syftar till att underlätta en sådan behandling
+              av personuppgifter som inte ingår i eller är avsedda att ingå
+              i en samling av personuppgifter som har strukturerats för att
+              påtagligt underlätta sökning efter eller sammanställning av personuppgifter.
+              Som en sammanfattande benämning på detta används begreppet ostrukturerat
+              material. Det är strukturen på materialet där personuppgifterna
+              ingår som är avgörande. Vilken typ av personuppgifter som behandlas
+              eller i vilket medium de förekommer, t.ex. i text, ljud eller
+              bild eller annat, inverkar inte på bedömningen.
+            </p>
+            <p>
+              Behandlingen av personuppgifter i ostrukturerat material föreslås
+              undantas från samtliga hanteringsregler i personuppgiftslagen
+              som det har bedömts möjligt att inom ramen för EG-direktivet om
+              personuppgifter göra undantag från. Detta betyder att den som
+              behandlar personuppgifter t.ex. i löpande text i ordbehandlingsprogram,
+              i e-post eller på Internet samt i enstaka ljud- eller bildupptagningar
+              inte skall behöva beakta bestämmelserna om grundläggande krav
+              på behandling av personuppgifter (9 §) eller när behandling av
+              personuppgifter är tillåten (10 §). Inte heller skall den personuppgiftsansvarige
+              behöva iaktta förbuden i 13 och 21 §§ mot att behandla känsliga
+              personuppgifter eller uppgifter om lagöverträdelser m.m. eller
+              de särskilda villkor för behandling av personnummer som uppställs
+              i 22 §. Vidare skall den personuppgiftsansvarige inte vara skyldig
+              att tillämpa bestämmelserna om när information till den registrerade
+              skall lämnas (23, 24 och 26 §§). Han eller hon skall inte heller
+              vara skyldig att på begäran av den registrerade bl.a. rätta. personuppgifter
+              enligt 28 § samt skall inte behöva iaktta förbudet i 33 § mot
+              överföring av personuppgifter till tredje land som inte har en
+              adekvat nivå för skyddet av personuppgifterna. Slutligen föreslås
+              en sådan behandling undantas från skyldigheten enligt 42 § att
+              lämna upplysningar till allmänheten.
+            </p>
+            <p>
+              Skall materialet, t.ex. den löpande texten, infogas i en databas
+              med en personuppgiftsanknuten struktur, exempelvis ett ärendehanteringssystem,
+              måste däremot hanteringsreglerna tillämpas.
+            </p>
+            <p>
+              För ostrukturerat material som undantas från de angivna hanteringsreglerna
+              föreslås i stället gälla att behandling inte skall få utföras
+              om den innebär en kränkning av den registrerades personliga integritet.
+            </p>
+            <p xml:id="IDAUR4MC" rend="r4">
+              Förslagets förenlighet med EG-direktivet
+            </p>
+            <p>
+              När EG-direktivet genomfördes i svensk lagstiftning konstaterade
+              regeringen att bestämmelserna i EG-direktivet innebär att själva
+              hanteringen av personuppgifter regleras, oavsett om hanteringen
+              kan sägas utgöra ett missbruk och att Sverige såsom medlem i Europeiska
+              unionen hade att i svensk lagstiftning genomföra de hanteringsregler
+              som direktivet föreskriver (prop. 1997/98:44 s. 36). Ändringsförslaget
+              syftar inte till att helt gå ifrån grundkonstruktionen med en
+              hanteringsmodell. Förslaget syftar snarare till att i en begränsad
+              omfattning tillföra lagen inslag av en missbruksmodell i sådana
+              hänseenden där vägande praktiska skäl talar för förenkling och
+              en lättnad i hanteringsregleringen.
+            </p>
+            <p>
+              Regeringen lämnar i propositionen en redovisning för förslagets
+              förenlighet med EG-rätten, bl.a. möjligheten till begränsning
+              av omfattningen av direktivet, intresseavvägning enligt artikel
+              7 och undantaget i artikel 8 för hänsynen till viktigt allmänt
+              intresse.
+            </p>
+            <p>
+              En summarisk beskrivning av den förnyade analys som regeringen
+              gjort och som resulterar i ståndpunkten att behandling av personuppgifter
+              i ostrukturerat material t.ex. i form av text och ljud- och bildupptagningar
+              kan hänföras till en sådan fri- och rättighet som avses i artikel
+              13.1 g ges här. För en mer utförlig redogörelse hänvisas till
+              propositionen s. 29 ff.
+            </p>
+            <p xml:id="IDAAS4MC" rend="r4">
+              Artikel 13.1
+            </p>
+            <p>
+              En begränsning av omfattningen av direktivet måste vara en nödvändig
+              åtgärd med hänsyn till olika uppräknade intressen bl.a. - såvitt
+              här är av intresse - skyddet av den registrerades eller andras
+              fri- och rättigheter (artikel 13.1 g).
+            </p>
+            <p>
+              Regeringen anför att rådet och kommissionen visserligen i samband
+              med att den gemensamma ståndpunkten om direktivet antogs av rådet
+              avgett en gemensam förklaring om att sådana rättigheter som att
+              utföra behandling av uppgifter inte avses med hänvisningen till
+              andras fri- och rättigheter. Enligt regeringen skall denna förklaring
+              dock inte inverka på bedömningen eftersom EG-domstolen vid flera
+              tillfällen uttalat att sådana förklaringar inte kan tillmätas
+              någon rättslig status och betydelse vid utrönandet av den rätta
+              innebörden av en bestämmelse i ett EG-direktiv, i vart fall inte
+              när innehållet i förklaringen inte uttrycks i den aktuella bestämmelsen.
+            </p>
+            <p>
+              Utgångspunkten för regeringens bedömning är att distribuering
+              av ostrukturerat material till andra oftast är fråga om ett utnyttjande
+              av den yttrandefrihet som tillkommer varje medborgare enligt såväl
+              regeringsformen som Europakonventionen.
+            </p>
+            <p>
+              De tidigare bedömningar som redovisas i förarbetena till personuppgiftslagen,
+              om regeringens och Lagrådets tveksamhet inför att yttrandefriheten
+              skulle omfattas av de fri- och rättigheter som avsågs i artikel
+              13.1 eftersom artikel 9 särskilt nämner personuppgifter "som sker
+              uteslutande för journalistiska ändamål eller konstnärligt eller
+              litterärt skapande", har gjorts i ett annat sammanhang i samband
+              med att regeringen behandlade frågan om personuppgiftslagens förhållande
+              till tryckfrihetsförordningen och yttrandefrihetsgrundlagen. Artikel
+              9 ansågs möjliggöra för Sverige att låta dessa grundlagar gälla
+              oförändrade.
+            </p>
+            <p>
+              Det förhållandet att yttrandefriheten i ett visst avseende nämns
+              i artikel 9 kan inte anses innebära att just den fri- och rättigheten
+              inte skulle omfattas av uttrycket fri- och rättigheter i artikel
+              13.
+            </p>
+            <p>
+              Regeringen gör alltså bedömningen att behandlingen av personuppgifter
+              i ostrukturerat material t.ex. i form av text och ljud- och bildupptagningar
+              kan hänföras till en sådan fri- och rättighet som avses i artikel
+              13.1 g och som kan berättiga medlemsstaterna att göra nödvändiga
+              begränsningar av vissa bestämmelser i direktivet.
+            </p>
+            <p>
+              Att begränsningarna skall vara nödvändiga innebär att det skall
+              göras en intresseavvägning mellan de ifrågavarande fri- och rättigheterna
+              dvs. rätten till integritetsskydd och rätten att för t.ex. yttrandefrihets-
+              och informationsändamål få hantera ostrukturerat material vägs
+              mot varandra.
+            </p>
+            <p xml:id="IDA0S4MC" rend="r4">
+              Artiklarna 7 och 8
+            </p>
+            <p>
+              Vissa artiklar i direktivet får medlemsstaterna i sina nationella
+              lagar inte göra undantag från. Till dessa hör artiklarna 7 och
+              8.
+            </p>
+            <p>
+              Enligt artikel 7 f EG-direktivet får personuppgifter behandlas
+              om behandlingen är nödvändig för ändamål som rör berättigade intressen
+              hos den registeransvarige eller hos den eller de tredje män till
+              vilka uppgifterna har lämnats ut, utom när sådana intressen uppvägs
+              av den registrerades intresse eller dennes grundläggande fri-
+              och rättigheter som kräver skydd under artikel 1.1. Enligt regeringen
+              står det klart att det är möjligt att med stöd av bestämmelsen
+              om en intresseavvägning i artikel 7 f införa en särskild bestämmelse
+              som tillåter sådan behandling av personuppgifter i ostrukturerat
+              material som inte innefattar ett missbruk av personuppgiften.
+            </p>
+            <p>
+              Från förbudet i artikel 8.1 mot behandling av känsliga personuppgifter
+              får undantag enligt artikel 8.4 göras med hänsyn till ett viktigt
+              allmänt intresse. Som framgått av regeringens bedömning av undantag
+              från direktivet enligt 13.1 anser regeringen att hantering av
+              ostrukturerat material kan anses vara en fri- och rättighet. Att
+              fri- och rättigheter kan utövas i samhället är enligt regeringen
+              naturligtvis ett allmänt intresse och dessutom ett viktigt sådant.
+            </p>
+            <p xml:id="IDAGT4MC" rend="r4">
+              Lagrådets yttrande
+            </p>
+            <p>
+              Lagrådet har i sitt yttrande anfört att det vid sin genomgång
+              av lagförslaget i relation till direktivets bestämmelser inte
+              kunnat undgå att känna tvekan inför den friare tolkning av direktivet
+              som nu förordas för att möjliggöra den föreslagna partiella systemändringen.
+              Enligt Lagrådet kvarstår osäkerhet främst om huruvida hänvisningen
+              i direktivets artikel 13.1 g till skyddet av den registrerades
+              eller andras fri- och rättigheter har så generell syftning som
+              den nu framlagda tolkningen bygger på. Ett annat problem som Lagrådet
+              ser är att den allmänt hållna lagregel (första stycket i en ny
+              5 a §) som föreslås för att avgränsa det område som avses undantaget
+              från hanteringsregleringen inrymmer uttryck som måste antas ge
+              upphov till tillämpningssvårigheter.
+            </p>
+            <p>
+              Lagrådet har vidare anfört att utformningen av den föreslagna
+              undantagsregleringen, även bortsett från de EG-rättsliga aspekterna,
+              ger anledning till tvekan. Varken bestämmelsen om begränsning
+              av tillämpningsområdet eller den bestämmelse som skall gälla för
+              det undantagna området ger enligt Lagrådet någon fastare ledning
+              för rättstillämpningen. Förslaget måste således antas medföra
+              påtagliga problem från rättssäkerhetssynpunkt.
+            </p>
+            <p>
+              Trots de betänkligheter som förslaget väcker vill Lagrådet inte
+              avstyrka att reformen genomförs. Lagrådet noterar här att remissinstanserna
+              har ställt sig övervägande positiva till åtgärden och att något
+              bearbetningsbart alternativ till den valda utformningen av lagförslaget
+              inte har kommit till synes i ärendet.
+            </p>
+            <p xml:id="IDAUT4MC" rend="r4">
+              Ikraftträdande
+            </p>
+            <p>
+              Lagen föreslås träda i kraft den 1 januari 2007. På så sätt ges
+              tid för Datainspektionen att förbereda informationsinsatser för
+              personuppgiftsansvariga m.fl.
+            </p>
+            <p xml:id="IDA0T4MC" rend="r3">
+              Motionerna
+            </p>
+            <p>
+              I motion 2005/06:K27 av Kerstin Lundgren m.fl. (c) anför motionärerna
+              att regeringen skyndsamt bör återkomma till riksdagen med åtgärder
+              som säkrar en rättssäker tillämpning av lagen.
+            </p>
+            <p>
+              I motion 2005/06:K26 av Tobias Krantz m.fl. (fp) anför motionärerna
+              att regeringen skall fortsätta anstränga sig för att förmå EG-kommissionen
+              att ändra personuppgiftsdirektivet i enlighet med tidigare riksdagsbeslut
+              (yrkande 1). Motionärerna anför vidare att även sammanställningar
+              med en tydligt personuppgiftsanknuten struktur skall omfattas
+              av missbruksregeln om sammanställningen fyller ett allmännyttigt
+              ändamål som kan omfattas av informations- och yttrandefriheten
+              (yrkande 2). Motionärerna nämner som exempel databaser över författare
+              som innehåller biografiska och/eller bibliografiska uppgifter.
+            </p>
+            <p>
+              I motion 2005/06:T500 av Christer Winbäck m.fl. (fp) anför motionärerna
+              att regeringen skall se över personuppgiftslagen för att säkerställa
+              allmänhetens tillgång till information om förtroendevalda (yrkande
+              13). Motionärerna menar att en del kommuner är så restriktiva
+              att de inte publicerar fullmäktigeledamöterna på kommunens hemsida.
+            </p>
+            <p xml:id="IDAIU4MC" rend="r3">
+              Gällande rätt när det gäller publicering av uppgifter om förtroendevalda
+            </p>
+            <p>
+              Enligt 10 § personuppgiftslagen får personuppgifter behandlas
+              bara om den registrerade har lämnat sitt samtycke till behandlingen
+              eller om behandlingen är nödvändig för att
+            </p>
+            <p>
+              a) ett avtal med den registrerade skall kunna fullgöras eller
+              åtgärder som den registrerade begärt skall kunna vidtas innan
+              ett avtal träffas,
+            </p>
+            <p>
+              b) den personuppgiftsansvarige skall kunna fullgöra en rättslig
+              skyldighet,
+            </p>
+            <p>
+              c) vitala intressen för den registrerade skall kunna skyddas,
+            </p>
+            <p>
+              d) en arbetsuppgift av allmänt intresseskall kunna utföras,
+            </p>
+            <p>
+              e) den personuppgiftsansvarige eller en tredje man till vilken
+              personuppgifter lämnas ut skall kunna utföra en arbetsuppgift
+              i samband med myndighetsutövning, eller
+            </p>
+            <p>
+              f) ett ändamål som rör ett berättigat intresse hos den personuppgiftsansvarige
+              eller hos en sådan tredje man till vilken personuppgifterna lämnas
+              ut skall kunna tillgodoses, om detta intresse väger tyngre än
+              den registrerades intresse av skydd mot kränkning av den personliga
+              integriteten.
+            </p>
+            <p>
+              Känsliga uppgifter, till vilka bl.a. politisk uppfattning hör,
+              får med vissa undantag inte behandlas alls (13 §). Det är endast
+              om den registrerade har lämnat sitt uttryckliga samtycke till
+              behandlingen eller på ett tydligt sätt offentliggjort uppgifterna
+              som uppgifterna får behandlas (16 §).
+            </p>
+            <p>
+              När det gäller publicering på Internet gäller förutom ovanstående
+              grundförutsättningar att det enligt 33 § är förbjudet att till
+              tredje land föra över personuppgifter som är under behandling
+              om landet inte har en adekvat nivå för skyddet av personuppgifterna.
+              Förbudet gäller också överföring av personuppgifter för behandling
+              i tredje land. Överföringsförbudet har fått minskad betydelse
+              efter en dom från EG-domstolen om överföring till tredje land.
+              Utskottet återkommer till detta i det följande.
+            </p>
+            <p>
+              Frågan om en skyddsnivå är adekvat skall bedömas med hänsyn till
+              samtliga omständigheter som har samband med överföringen. Särskild
+              vikt skall läggas vid uppgifternas art, ändamålet med behandlingen,
+              hur länge behandlingen skall pågå, ursprungslandet, det slutliga
+              bestämmelselandet och de regler som finns för behandlingen i det
+              tredje landet.
+            </p>
+            <p>
+              Överföringsreglerna fick denna lydelse år 2000. Tidigare var
+              överföringsförbudet strängare och träffade också från integritetssynpunkt
+              okänsliga uppgifter som oavsett var i världen de hamnar knappast
+              behöver något särskilt skydd (prop. 1999/2000:11, bet. 1999/2000:KU7,
+              rskr. 1999/2000:51).
+            </p>
+            <p>
+              När det gäller frågan om överföring av personuppgifter till tredje
+              land har EG-domstolen i en dom den 6 november 2003 i mål C-101/01,
+              det s.k. konfirmandlärarmålet, uttalat att det inte föreligger
+              någon "överföring av .uppgifter till tredje land" i den mening
+              som avses i artikel 25 i direktiv 95/46 när en person som befinner
+              sig i en medlemsstat lägger ut personuppgifter på en webbsida
+              som är lagrad hos en fysisk eller juridisk person som hyser den
+              webbplats där sidan kan läsas och som är etablerad i samma medlemsstat
+              eller i en annan medlemsstat, varvid uppgifterna blir åtkomliga
+              för alla som kopplar upp sig på Internet, inklusive personer i
+              tredje land.
+            </p>
+            <p>
+              Regeringen har den 1 januari 2001 ändrat personuppgiftsförordningen
+              (1998:1191) för att underlätta för kommuner och landsting att
+              publicera namnuppgifter per Internet. Som exempel kan nämnas att
+              en kommun eller ett landsting till tredje land enligt 12 § får
+              föra över personuppgifter som ingår i
+            </p>
+            <p>
+              1. ett diarium och som anges i 15 kap. 2 § sekretesslagen (1980:100),
+            </p>
+            <p>
+              2. en kallelse till ett sammanträde med fullmäktige eller en
+              nämnd,
+            </p>
+            <p>
+              3. en kungörelse om sammanträde med fullmäktige, eller
+            </p>
+            <p>
+              4. ett justerat protokoll som har förts vid ett sammanträde med
+              fullmäktige eller en nämnd.
+            </p>
+            <p>
+              Personuppgifter som direkt pekar ut den registrerade får med
+              några undantag inte föras över. Detta gäller dock inte en förtroendevald,
+              när det gäller hans eller hennes uppdrag.
+            </p>
+            <p xml:id="IDADW4MC" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Riksdagen har tidigare gett regeringen till känna att den med
+              kraft bör verka inom EU för att en revidering sker av EG-direktivet.
+              Syftet med ändringen skulle vara att direktivet ger uttryck för
+              en missbruksmodell. I avvaktan på att en ändring av direktivet
+              kommer till stånd, har riksdagen begärt att regeringen återkommer
+              med förslag om en missbruksmodell inom EG-direktivets nuvarande
+              ram. Så har regeringen gjort och det finns ingen anledning att
+              anta att inte regeringen fortsätter att verka för en ändring av
+              EG-direktivet. Utskottet anser att motion 2005/06:K26 yrkande
+              1 (fp) är tillgodosedd och att den skall avstyrkas.
+            </p>
+            <p>
+              I en motion begärs, med hänvisning till att Lagrådet har haft
+              invändningar när det gäller rättssäkerheten i det lämnade förslaget,
+              att regeringen skyndsamt skall återkomma med åtgärder för att
+              säkerställa rättssäkerheten i lagens tillämpning. Lagrådet har
+              påpekat att något bearbetningsbart alternativ till den valda utformningen
+              inte har kommit till synes i ärendet. Mot bakgrund av detta, att
+              Datainspektionen givits tid att utarbeta informationsmaterial
+              innan den föreslagna lagen träder i kraft samt att regeringen
+              naturligtvis är oförhindrad att även innan EG-direktivet har ändrats
+              återkomma med lagstiftningsförslag i frågan avstyrker utskottet
+              motion 2005/06:K27 (c).
+            </p>
+            <p>
+              De föreslagna lättnaderna i hanteringsmodellen förutsätter att
+              det material som bearbetas är ostrukturerat. Ytterligare undantag
+              från hanteringsmodellen kräver med största sannolikhet att EG-direktivet
+              ändras först. Hur lagstiftningen skall se ut när det gäller sammanställningar
+              som fyller ett allmännyttigt ändamål som kan omfattas av informations-
+              och yttrandefriheten är en fråga som får anstå till dess att EG-direktivet
+              ändras. Motion 2005/06:K26 yrkande 2 (fp) avstyrks.
+            </p>
+            <p>
+              Redan med gällande bestämmelser finns ett utrymme att publicera
+              uppgifter om de förtroendevalda. Någon ytterligare åtgärd är utskottet
+              inte berett att föreslå. Motion 2005/06:T550 yrkande 13 (fp) avstyrks.
+            </p>
+            <p xml:id="IDATW4MC" rend="rubrik2">
+              Revidering av yttrandefrihetsgrundlagen
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDA0W4MC" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <p rend="textiruta_">
+              Utskottet avstyrker en motion om revidering av yttrandefrihetsgrundlagen
+              med hänvisning till pågående utredningsarbete.
+            </p>
+            <p rend="textiruta_">
+              Jämför särskilt yttrande (fp).
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDADX4MC" rend="r4">
+              Yttrandefrihetsgrundlagens bestämmelser om utgivare
+            </p>
+            <p>
+              Enligt 4 kap. 1 § yttrandefrihetsgrundlagen (YGL) skall radioprogram
+              och tekniska upptagningar ha en utgivare. Med teknisk upptagning
+              avses enligt 1 kap. 1 § fjärde stycket YGL upptagningar som innehåller
+              text, bild eller ljud och som kan läsas, avlyssnas eller på annat
+              sätt uppfattas endast med tekniskt hjälpmedel.
+            </p>
+            <p>
+              Enligt 4 kap. 4 § skall det av en teknisk upptagning framgå vem
+              som är utgivare. Utgivaren skall se till att varje exemplar av
+              upptagningen har en sådan uppgift. Av sådan teknisk upptagning,
+              skrift eller bild som avses i 1 kap. 9 § första stycket 1 skall
+              framgå vem som är utgivare av databasen. Utgivaren skall se till
+              att varje exemplar har en sådan uppgift.
+            </p>
+            <p>
+              Databasregeln i 1 kap. 9 § innebär att YGL:s regler om radioprogram
+              skall tillämpas också när vissa särskilt uppräknade aktörer med
+              hjälp av elektromagnetiska vågor på särskild begäran tillhandahåller
+              allmänheten upplysningar direkt ur en databas under förutsättning
+              att den mottagande inte kan ändra innehållet i registret.
+            </p>
+            <p>
+              Databasregeln omfattar alltså överföringar av information från
+              databaser, dvs. överföringar av lagrad information. Det är allmänheten
+              som skall tillhandahållas upplysningarna. En annan förutsättning
+              är att tillhandahållandet sker på särskild begäran eller enligt
+              överenskommelse i förväg. Det är härvid utan betydelse om det
+              finns flera meddelanden tillgängliga för mottagaren att välja
+              bland eller om endast ett meddelande är tillgängligt. Dessutom
+              förutsätts att mottagaren inte kan ändra innehållet i databasen.
+            </p>
+            <p>
+              Det obligatoriska grundlagsskyddet gäller endast för vissa aktörer,
+              nämligen redaktioner för tryckta periodiska skrifter eller för
+              radioprogram, företag för yrkesmässig framställning av tekniska
+              upptagningar samt nyhetsbyråer. Dessa aktörer brukar med ett gemensamt
+              begrepp kallas traditionella massmedieföretag.
+            </p>
+            <p>
+              Andra aktörer än de i databasregeln uppräknade massmedieföretagen
+              kan genom att ansöka om och beviljas utgivningsbevis få ett frivilligt
+              grundlagsskydd
+            </p>
+            <p xml:id="IDA1X4MC" rend="r4">
+              Tryck- och yttrandefrihetsberedningen
+            </p>
+            <p>
+              Regeringen beslutade den 30 april 2003 att tillkalla en beredning
+              med uppgift att följa utvecklingen på det tryck- och yttrandefrihetsrättsliga
+              området samt utreda och lämna förslag till lösningar av olika
+              problem på detta område (dir. 2003:04, 2003:58).
+            </p>
+            <p>
+              Beredningen har ett brett uppdrag. En särskilt viktig uppgift
+              för beredningen är att lämna förslag till hur de problem som är
+              relaterade till den tekniska och mediala utvecklingen skall lösas.
+            </p>
+            <p>
+              Beredningen bör enligt direktiven vid sina överväganden eftersträva
+              att tekniken inte skall vara av avgörande betydelse för mediernas
+              grundlagsskydd. I beredningens uppdrag ligger därför också att
+              överväga frågan om det mot bakgrund av den tekniska och mediala
+              utvecklingen är möjligt att i längden behålla en teknikberoende
+              grundlagsreglering av yttrandefriheten i medierna och om det på
+              sikt finns anledning att slå samman TF och YGL till en grundlag
+              omfattande såväl tryckfrihet som annan yttrandefrihet.
+            </p>
+            <p>
+              Beredningen skall också stå till regeringens förfogande för rådgivning
+              i tryck- och yttrandefrihetsrättsliga frågor, överväga om ny teknik
+              för framställning av skrifter och tekniska upptagningar omfattas
+              av grundlagarna och ytterligare analysera huruvida det frivilliga
+              grundlagsskyddet i databasregeln (1 kap. 9 § YGL) kan komma i
+              konflikt med bestämmelser med syfte att skydda den personliga
+              integriteten.
+            </p>
+            <p>
+              Beredningen avlämnade i november 2004 delbetänkandet Vissa tryck-
+              och yttrandefrihetsrättsliga frågor - Internationellt rättsligt
+              bistånd, brottskatalogen, målhandläggningsfrågor m.m. (SOU 2004:114).
+              Beredningen fortsätter sitt arbete med bl.a. frågan om en mer
+              teknikoberoende grundlagsreglering av yttrandefriheten.
+            </p>
+            <p xml:id="IDASY4MC" rend="r3">
+              Motionen
+            </p>
+            <p>
+              I motion 2005/06:K26 av Tobias Krantz m.fl. (fp) anför motionärerna
+              att yttrandefrihetsgrundlagen bör ses över i syfte att utöka dess
+              tillämpning på webbpublicering (yrkande 3). Motionärerna anser
+              att regeringen bör initiera en samlad översyn av medierelaterad
+              lagstiftning i syfte att åstadkomma mer enhetlighet i reglerna,
+              med tryckfrihetens nivå som utgångspunkt. Särskilt nämns utgivaransvaret
+              för webbpublikationer samt för s.k. bloggar.
+            </p>
+            <p xml:id="IDAYY4MC" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Tryck- och yttrandefrihetsberedningen har ett brett uppdrag.
+              Beredningen fortsätter sitt arbete med bl.a. frågan om en mer
+              teknikoberoende grundlagsreglering av yttrandefriheten. Utskottet
+              finner inte anledning att föregå beredningens resultat och avstyrker
+              motion 2005/06:K26 yrkande 3 (fp).
+            </p>
+            <p xml:id="IDABZ4MC" rend="AvsnittsRubrik">
+              Reservationer
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservationer. I rubriken anges vilken
+              punkt i utskottets förslag till riksdagsbeslut som behandlas i
+              avsnittet.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAKZ4MC">
+                  <p rend="reservation">
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Nytt mer rättssäkert förslag, punkt 2 (c)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Kerstin Lundgren (c).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAD14MC" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Jag anser att förslaget till riksdagsbeslut under punkt 2 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen om att regeringen skall återkomma med ett
+              mer rättssäkert förslag. Därmed bifaller riksdagen motion 2005/06:K27.
+            </p>
+            <p xml:id="IDAL14MC" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Centerpartiet välkomnar regeringens förslag om en enklare tillämpning
+              av personuppgiftslagen. Lagrådet har haft synpunkter på att utformningen
+              av den föreslagna undantagsregleringen ger anledning till tvekan,
+              eftersom det inte ges någon fastare vägledning för rättstillämpningen.
+            </p>
+            <p>
+              Centerpartiets mening är att vår lagstiftning måste vara lätt
+              att tillämpa och att tillämpningen måste vara förutsägbar. Det
+              skall gå att förutse vad som är tillåtet och vad som är förbjudet.
+              Regeringen bör skyndsamt återkomma med åtgärder för att säkerställa
+              rättssäkerheten i lagens tillämpning. Detta bör riksdagen med
+              bifall till motion 2005/06:K27 ge regeringen till känna.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAZ14MC">
+                  <p rend="reservation">
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Allmänhetens tillgång till information om förtroendevalda, punkt
+                    4 (fp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Helena Bargholtz (fp) och Martin Andreasson (fp).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAS34MC" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 4 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen om allmänhetens tillgång till uppgifter
+              om förtroendevalda. Därmed bifaller riksdagen motion 2005/06:T500
+              yrkande 13.
+            </p>
+            <p xml:id="IDA134MC" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Det är särskilt viktigt att personuppgiftslagens konsekvenser
+              för möjligheterna till samhällsinformation på Internet uppmärksammas.
+              Vissa kommuner har en ytterst restriktiv tillämpning av personuppgiftslagen
+              och vägrar därför att ens publicera namnen på kommunfullmäktigeledamöter
+              på kommunens hemsida, såvida dessa inte uttryckligen gett sitt
+              tillstånd. Det är inte rimligt att någon anonymt skall kunna utöva
+              ett förtroendeuppdrag i det allmännas tjänst. Regeringen bör därför
+              ge Datainspektionen i uppdrag att aktualisera denna fråga med
+              Sveriges kommuner och landsting, berörda myndigheter och andra
+              lämpliga parter samt överväga en förtydligande lagstiftning om
+              så är påkallat. Detta bör riksdagen med bifall till motion 2005/06:T500
+              yrkande 13 ge regeringen till känna.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAE44MC">
+                  <p rend="reservation">
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Utvidgning av missbruksmodellen, punkt 5 (fp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Helena Bargholtz (fp) och Martin Andreasson (fp).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDA354MC" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 5 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen om utvidgning av missbruksmodellen. Därmed
+              bifaller riksdagen motion 2005/06:K26 yrkande 2.
+            </p>
+            <p xml:id="IDAIA5MC" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Det huvudsakliga innehållet i regeringens proposition är bra.
+              Det är utmärkt att införa en missbruksmodell som norm för hanteringen
+              av personuppgifter i icke strukturerade sammanhang. Dock finns
+              det fortfarande en del databaser vars innehåll är indexerat med
+              en tydligt personuppgiftsanknuten struktur som enligt Folkpartiets
+              mening inte bör omfattas av hanteringsmodellen. Dessa skulle kunna
+              beskrivas som databaser med ett allmännyttigt ändamål, t.ex. att
+              tillhandahålla uppgifter om offentliga personer eller andra personer
+              som röner allmänt intresse. Ett exempel är databaser över författare
+              som innehåller biografiska och/eller bibliografiska uppgifter.
+              Även med en hanteringsmodell finns det risk att osanna eller sårande
+              uppgifter kan publiceras i sådana sammanhang. Det finns dock andra
+              juridiska instrument för detta. Därför bör sådana databaser också
+              omfattas av missbruksregeln. Detta bör riksdagen med bifall till
+              motion 2005/06:K26 yrkande 2 ge regeringen till känna.
+            </p>
+            <p xml:id="IDASA5MC" rend="AvsnittsRubrik">
+              Särskilt yttrande
+            </p>
+          </div>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDAWA5MC">
+                  <p rend="ettsarskiltyttrande">
+                    Revidering av yttrandefrihetsgrundlagen, punkt 6 (fp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    Helena Bargholtz (fp) och Martin Andreasson (fp) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Villkoren för publicering på Internet har kringskurits mer än
+              vad som enligt vår mening är rimligt. Yttrandefriheten är viktig
+              för oss, och det är önskvärt att yttrandefrihetsgrundlagens bestämmelser
+              mer skall efterlikna tryckfrihetens när de skiljer sig åt. En
+              samlad översyn av medierelaterad lagstiftning är motiverad. Mycket
+              av det material som publiceras på Internet följer inte yttrandefrihetsgrundlagens
+              bestämmelser om ansvarig utgivare m.m.
+            </p>
+            <p>
+              Det är enligt vår mening inte en lämplig ordning att ställa krav
+              på att det skall finnas en ansvarig utgivare för en webbpublikation
+              om den inte är identisk med en papperspublikation som har utgivningsbevis.
+              De flesta bloggar torde bestå av en person som helt utan någon
+              redaktionell granskning eller utgivningsplan publicerar sina åsikter
+              och reflektioner. Yttrandefrihetsgrundlagen och de andra lagar
+              som rör denna medieform är ohjälpligt efter sin tid. Personuppgiftslagens
+              genomslag i yttrandefriheten med anledning av en sådan förändring
+              bör preciseras vid en översyn av lagstiftningen.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAAC5MC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDADC5MC" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2005/06:173 Översyn av personuppgiftslagen:
+            </p>
+            <p type="html-endastettyrkande">
+              Riksdagen antar regeringens förslag till lag om ändring i personuppgiftslagen
+              (1998:204).
+            </p>
+            <p xml:id="IDAPC5MC" rend="rubrik2">
+              Följdmotioner
+            </p>
+            <p rend="behandlatdokument_">
+              2005/06:K26 av Tobias Krantz m.fl. (fp):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad i motionen
+                    anförs om fortsatta ansträngningar att förmå EG-kommissionen att
+                    ändra personuppgiftsdirektivet i enlighet med tidigare riksdagsbeslut.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad i motionen
+                    anförs om att även sammanställningar med en tydligt personuppgiftsanknuten
+                    struktur skall omfattas av missbruksregeln om sammanställningen
+                    fyller ett allmännyttigt ändamål som kan omfattas av informations-
+                    och yttrandefriheten.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad i motionen
+                    anförs om en översyn av yttrandefrihetsgrundlagen i syfte att
+                    utöka dess tillämpning på webbpublicering.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="behandlatdokument_">
+              2005/06:K27 av Kerstin Lundgren m.fl. (c):
+            </p>
+            <p type="html-endastettyrkande">
+              Riksdagen tillkännager för regeringen som sin mening vad i motionen
+              anförs om att regeringen skyndsamt bör återkomma till riksdagen
+              med åtgärder som säkrar en rättssäker tillämpning av lagen.
+            </p>
+            <p xml:id="IDAUF5MC" rend="rubrik2">
+              Motion från allmänna motionstiden hösten 2005
+            </p>
+            <p rend="behandlatdokument_">
+              2005/06:T500 av Christer Winbäck m.fl. (fp):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    13.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad i motionen
+                    anförs om att se över personuppgiftslagen för att säkerställa
+                    allmänhetens tillgång till information om förtroendevalda.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDADH5MC" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{5AC217D0-BC24-43A2-A838-87466E5B646E}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{36F042B6-D79B-4AFC-BB63-A0FBDE771F6D}.tif"/>
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{5A7EAC7C-3CB9-447D-961E-7C64992F0ABF}.tif"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

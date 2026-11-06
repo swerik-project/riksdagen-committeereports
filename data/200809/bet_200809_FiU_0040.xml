@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_FiU_0040">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Den svenska staten ska delta i en nyemission i SAS. Statens ägarandel i SAS är 21,4 %, och nyemissionen innebär en investering på cirka 1,28 miljarder kronor för statens del. SAS har sedan 2001 haft en otillfredsställande ekonomisk utveckling. SAS styrelse beslutat om en ny strategisk inriktning och affärsplan kallad Core SAS. Nyemissionen ska ge nytt kapital på på cirka 6 miljarder kronor för att genomföra Core SAS och förbättra kapitalstrukturen.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Svenska staten deltar i nyemission i SAS (FiU40)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen. Avslag på motionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0983</idno>
+              <title>2009-03-12</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">83</biblScope>
+              <note type="display-reference">2009-03-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0983</idno>
+              <title>2009-03-12</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">83</biblScope>
+              <note type="display-reference">2009-03-12</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GW0K192</idno>
+              <title>2008/09:192</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">192</biblScope>
+              <note type="display-reference">2008/09:192</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GW03124</idno>
+              <title>Nyemission i SAS AB (publ)</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">124</biblScope>
+              <note type="display-reference">proposition 2008/09:124 Nyemission i SAS AB (publ)</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GW02Fi19</idno>
+              <title>Nyemission i SAS AB (publ)</title>
+              <title type="sub">av Mikaela Valtersson m.fl. (MP)</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">Fi19</biblScope>
+              <note type="display-reference">motion 2008/09:Fi19 Nyemission i SAS AB (publ)</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-03-10">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-03-10">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-03-10">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-03-10">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-03-10">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-03-10">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-03-10">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2009-03-12">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-03-12">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-03-12">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-03-12">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-03-12">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-03-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-03-11">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-03-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-03-10">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:FiU40
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Nyemission i SAS AB (publ)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDAGBONB" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet behandlar utskottet regeringens proposition 2008/09:124
+            med förslag om att staten ska delta i aktuell nyemission i SAS
+            AB (publ) samt en följdmotion. I propositionen anförs att bolagets
+            kapitalstruktur behöver förstärkas för att man ska kunna genomföra
+            nödvändiga åtgärder i syfte att skapa förutsättningar för ett
+            lönsamt SAS. I nuvarande finansiella läge kan sannolikt inte nyemissionen
+            genomföras om inte den största aktieägaren, den svenska staten,
+            deltar. Statens ägarandel är 21,4 % och denna andel är oförändrad
+            efter nyemissionen. Utskottet tillstyrker förslagen i propositionen.
+          </p>
+          <p>
+            Därmed ställer sig utskottet bakom förslagen om att regeringen
+            för statens räkning deltar i aktuell nyemission i SAS AB (publ)
+            genom att teckna aktier upp till ett belopp om högst 1,3 miljarder
+            kronor samt att medel på 1,3 miljarder kronor för ändamålet anvisas
+            på tilläggsbudget för innevarande år på anslaget 1:21
+            <seg rend="grad2">
+              Kapitalinsatser i statliga bolag
+            </seg>
+            under utgiftsområde 24 Näringsliv.
+          </p>
+          <p>
+            Utskottet förutsätter att den praxis som hittills har rått vid
+            förändringar i statens ägande i SAS och som innebär att riksdagen
+            fattar beslut i sådana frågor, även fortsättningsvis tillämpas
+            av regeringen.
+          </p>
+          <p>
+            Samtliga motionsyrkanden som behandlas i betänkandet avstyrks.
+          </p>
+          <p>
+            I betänkandet finns 2 reservationer.
+          </p>
+          <p xml:id="IDA3DONB" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Statens deltagande i nyemission i SAS AB (publ)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen bemyndigar regeringen
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  dels att för statens räkning delta i aktuell nyemission i SAS
+                  AB (publ) genom att teckna aktier upp till ett belopp om högst
+                  1 300 000 000 kr,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  dels att vidta övriga nödvändiga åtgärder för att genomföra statens
+                  deltagande i nyemissionen.
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen proposition 2008/09:124 punkterna 1
+                  och 2 samt avslår motion
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2008/09:Fi19 av Mikaela Valtersson m.fl. (mp) yrkandena 13.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 1 (mp)
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Höjd ram för utgiftsområde 24 Näringsliv samt höjt anslag
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  dels för 2009 höjer ramen för utgiftsområde 24 Näringsliv med
+                  1 300 000 000 kr till 6 486 480 000 kr,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  dels, utöver beslutade medel, anvisar 1 300 000 000 kr för 2009
+                  på ramanslaget 1:21 Kapitalinsatser i statliga bolag, som därmed
+                  uppgår till 1 301 000 000 kr.
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen proposition 2008/09:124 punkt 3.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation 2 (mp) villkorad
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 10 mars 2009
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Bertil Kjellberg (m), Sonia Karlsson (s), Lars Elinderson (m),
+            Roger Tiefensee (c), Monica Green (s), Carl B Hamilton (fp), Hans
+            Hoff (s), Peder Wachtmeister (m), Göran Pettersson (m), Ulla Andersson
+            (v), Tommy Ternemar (s), Emma Henriksson (kd), Mikaela Valtersson
+            (mp), Ann-Charlotte Hammar Johnsson (m), Jörgen Hellman (s) och
+            Christina Zedell (s).
+          </p>
+          <p xml:id="IDAQQQNB" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDATQQNB" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Styrelsen i SAS AB (publ) har den 3 februari 2009 beslutat om
+            en nyemission om ca 6 miljarder kronor, med företrädesrätt för
+            bolagets aktieägare. Emissionsbeslutet kräver godkännande av en
+            extra bolagsstämma som man avser att hålla den 13 mars 2009. I
+            proposition 2008/09:124 Nyemission i SAS AB (publ) föreslår regeringen
+            att riksdagen bemyndigar regeringen att för statens räkning delta
+            i aktuell nyemission i SAS AB genom att teckna aktier till ett
+            belopp om högst 1,3 miljarder kronor, motsvarande svenska statens
+            pro rata-andel, samt bemyndigar regeringen att vidta övriga nödvändiga
+            åtgärder för att genomföra statens deltagande i nyemissionen.
+            För att finansiera deltagandet i nyemissionen föreslås att riksdagen
+            godkänner regeringens förslag att på tilläggsbudget för 2009 höja
+            ramen för utgiftsområde 24 Näringsliv med 1,3 miljarder kronor
+            samt att öka det under utgiftsområde 24 Näringsliv uppförda anslaget
+            1:21
+            <seg rend="grad2">
+              Kapitalinsatser i statliga bolag
+            </seg>
+            med 1,3 miljarder kronor.
+          </p>
+          <p>
+            Regeringen har föreslagit att riksdagen förkortar motionstiden
+            till 13 dagar, vilket riksdagen har beslutat den 12 februari 2009.
+          </p>
+          <p>
+            Med anledning av regeringens förslag har en motion väckts. Förslagen
+            i propositionen och motionen återges i
+            <seg rend="grad2">
+              bilaga 1
+            </seg>
+            .
+          </p>
+          <p>
+            Finansutskottet har berett näringsutskottet tillfälle att yttra
+            sig i ärendet. Näringsutskottets yttrande återfinns i
+            <seg rend="grad2">
+              bilaga 2
+            </seg>
+            .
+          </p>
+          <p xml:id="IDAORQNB" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p rend="mellanrubrik grad2">
+            Bakgrund
+          </p>
+          <p>
+            År 2001 förändrades ägarstrukturen i SAS (prop. 2000/01:124,
+            bet. 2000/01:TU17, rskr. 2000/01:153). Aktierna i de tidigare
+            nationella moderbolagen byttes ut mot aktier i ett nytt, samlat
+            moderbolag, SAS AB (publ) ), i det följande benämnt SAS. Svenska
+            staten är ägare med 21,4 % av aktierna i moderbolaget SAS. SAS
+            är i dag Nordens största flygbolag och har som verksamhetsmål
+            att erbjuda flygtransporter och därtill relaterade tjänster till
+            den nordiska hemmamarknaden. SAS har en stark marknadsposition
+            om mellan 40 och 60 % i de skandinaviska länderna.
+          </p>
+          <p>
+            SAS har sedan 2001 haft en otillfredsställande ekonomisk utveckling.
+            Konkurrensen både inom Skandinavien och på internationella linjer
+            har ökat samtidigt som kostnaderna i SAS varit för höga. Koncernen
+            redovisade under perioden 20022005 betydande förluster. Efter
+            genomförande av kostnadsminskningar och som en följd av bättre
+            marknadsvillkor, redovisade koncernen en vinst på 195 miljoner
+            kronor 2006. Beaktas reavinsten från försäljningen av hotellverksamheten
+            till Rezidor uppgick 2006 års resultat till 4 740 miljoner kronor.
+            Styrelse och ledning bedömde att avkastningen inte var tillräcklig
+            och lanserade ett nytt åtgärdsprogram 2007, Strategy 2011. Ett
+            antal interna och externa faktorer har dock försenat genomförandet
+            av programmet, och trots en stark högkonjunktur under 2007 var
+            vinstnivån, om 636 miljoner kronor, otillfredsställande.
+          </p>
+          <p>
+            Resultatet för 2008 blev en förlust om 6,3 miljarder kronor.
+            Dotterbolaget Spanair svarade för större delen av det negativa
+            resultatet med en förlust på 4,9 miljarder kronor. Strax före
+            bokslutet 2008 meddelade SAS att en grupp katalanska investerare
+            tecknat avtal med SAS om förvärv av 80,1 % av aktierna i Spanair.
+            Den för SAS kvarstående finansiella exponeringen uppgår till högst
+            200 miljoner euro.
+          </p>
+          <p>
+            Med undantag för 2007 har kassaflödet från verksamheten sedan
+            den nya koncernstrukturen infördes 2001 inte varit tillräckligt.
+            Bolaget har delvis finansierat verksamheten genom försäljning
+            av tillgångar. Från 2007 till 2008 minskade det egna kapitalet
+            från 17,1 miljarder kronor till 8,6 miljarder kronor. Under samma
+            period har skulder och andra förpliktelser ökat från 31,6 miljarder
+            kronor till 34,8 miljarder kronor. SAS har inte lämnat någon utdelning
+            sedan 2001.
+          </p>
+          <p xml:id="IDACSQNB" rend="r4">
+            En ny strategisk inriktning och affärsplan
+          </p>
+          <p>
+            Mot bakgrund av SAS otillfredsställande utveckling samt de utmaningar
+            som finns på flygmarknaden har styrelsen beslutat om en ny strategisk
+            inriktning och affärsplan kallad Core SAS, vilken består av fem
+            delar:
+          </p>
+          <p rend="uppraknadlista">
+            1. Koncentration till den nordiska hemmamarknaden.
+          </p>
+          <p rend="uppraknadlista">
+            2. Nedläggning av olönsamma rutter och anpassning till affärsresenärernas
+            behov, reducerad flygplansflotta.
+          </p>
+          <p rend="uppraknadlista">
+            3. Ett nytt besparingsprogram som reducerar kostnaderna med 1,7
+            miljarder kronor per år samt årliga besparingar med 1,3 miljarder
+            kronor till följd av de genomförda omförhandlingarna av kollektivavtal.
+            Merparten av besparingsprogrammet förväntas genomföras under 2009.
+            Efter dessa besparingar återstår fortfarande ett kostnadsgap på
+            1 miljard kronor i jämförelse med relevanta konkurrenter, huvudsakligen
+            relaterat till kollektivavtal.
+          </p>
+          <p rend="uppraknadlista">
+            4. SAS-koncernens organisation med tre nationella dotterbolag
+            förenklas och en mer centraliserad organisation skapas för att
+            underlätta beslutsfattande. Totalt kommer antalet anställda inom
+            koncernen att minska från ca 23 000 till ca 14 000 (ca 40 % minskning).
+            Av denna minskning är det omkring 5 000 heltidsanställda som påverkas
+            av försäljningar av verksamheter, varav ca 3 000 avser Spanair.
+            Utöver detta påverkas ca 3 500 heltidsanställda av planerade produktionsneddragningar,
+            omorganisering samt outsourcing.
+          </p>
+          <p rend="uppraknadlista">
+            5. En nyemission om ca 6 miljarder kronor för att genomföra ovanstående
+            åtgärder och förbättra kapitalstrukturen.
+          </p>
+          <p rend="mellanrubrik grad2">
+            Förslaget till nyemission
+          </p>
+          <p>
+            SAS styrelse har beslutat att genomföra en nyemission om ca 6
+            miljarder kronor genom att emittera stamaktier med företrädesrätt
+            för befintliga aktieägare. Företrädesrättsemissionen är villkorad
+            av godkännande vid extra bolagsstämma som förväntas äga rum den
+            13 mars 2009. Avstämningsdag för rätt att delta i nyemissionen
+            är den 18 mars 2009, och teckningsperioden kommer att löpa fr.om.
+            den 23 mars 2009 t.o.m. den 6 april 2009. Beloppet som aktiekapitalet
+            ska ökas med, det antal aktier som ska emitteras samt teckningskursen
+            kommer att fastställas av styrelsen senast den 12 mars 2009. De
+            nyemitterade aktierna kommer i alla avseenden att vara likställda
+            med de befintliga stamaktierna.
+          </p>
+          <p>
+            Den svenska regeringen har till styrelsen uttalat sitt stöd för
+            processen. De danska och norska regeringarna har var för sig också
+            till styrelsen uttalat sitt stöd för processen och klargjort att
+            de kommer att föreslå att respektive parlament lämnar tillstånd
+            att, under vissa förutsättningar, teckna sina respektive pro rata-andelar
+            i emissionen. Knut och Alice Wallenbergs Stiftelse, genom Foundation
+            Asset Management (FAM), har vidare till styrelsen uttalat sitt
+            stöd för processen och har bekräftat sin avsikt att under vissa
+            förutsättningar teckna sin pro rata-andel i emissionen. Tillsammans
+            innehar de fyra ovan nämnda aktieägarna 57,6 % av alla utestående
+            aktier och röster i SAS. J.P. Morgan, Nordea och SEB har bekräftat
+            sin förväntan att under vissa förutsättningar ingå garantiavtal
+            avseende resterande 42,4 % av aktierna i emissionen.
+          </p>
+          <p xml:id="IDAXTQNB" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDA1TQNB" rend="rubrik2">
+            Statens deltagande i nyemission i SAS AB (publ)
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDABUQNB" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen bemyndigar regeringen dels att för statens räkning
+                delta i aktuell nyemission i SAS genom att teckna sin andel av
+                aktierna upp till ett belopp om högst 1,3 miljarder kronor, dels
+                att vidta övriga nödvändiga åtgärder för att genomföra statens
+                deltagande i nyemissionen.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation 1 (mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAOUQNB" rend="r4">
+              Propositionen
+            </p>
+            <p>
+              Core SAS innehåller enligt regeringens bedömning nödvändiga åtgärder
+              för att skapa förutsättningar för ett lönsamt SAS som kan ge en
+              marknadsmässig avkastning till aktieägarna. Affärsplanen är emellertid
+              förknippad med risker på såväl intäkts- som kostnadssidan. Dessa
+              risker har beaktats i analysen. Regeringen har i sin bedömning
+              fäst vikt vid styrelsens och ledningens tilltro till förmågan
+              att genomföra affärsplanen. Oron på den finansiella marknaden
+              med tillhörande lågkonjunktur medför dock att utvecklingen inom
+              flygindustrin är svår att bedöma. För att genomföra de omfattande
+              förändringarna i verksamheten kan det enligt regeringens analys
+              krävas några år med lägre avkastning än vad som är långsiktigt
+              acceptabelt.
+            </p>
+            <p>
+              Regeringen har i ägarförvaltningen verkat för att skapa en nära
+              dialog med övriga huvudägare och konstaterar att det i dag finns
+              en samsyn om bolagets framtid. Fortsatt effektivisering och kostnadsminskning,
+              tillsammans med den nya strategiska inriktningen, är nödvändigt
+              för att uppnå ett lönsamt och konkurrenskraftigt SAS.
+            </p>
+            <p>
+              I det rådande finansiella läget kan sannolikt nyemissionen inte
+              genomföras om inte den största aktieägaren, den svenska staten,
+              deltar. Därmed kommer heller inte Core SAS, med de för konkurrenskraften
+              och lönsamheten nödvändiga åtgärderna, att kunna genomföras. Ett
+              sådant beslut skulle inte vara i linje med regeringens mål att
+              öka värdet på aktieinnehavet i SAS genom att som ägare verka för
+              lägre kostnader i och effektivisering av verksamheten. Regeringen
+              anser därför att svenska staten ska delta i den föreslagna nyemissionen.
+            </p>
+            <p>
+              Det belopp till vilket svenska staten ska teckna aktier i nyemissionen
+              kan variera beroende på den av styrelsen beslutade storleken på
+              emissionen. Vid en nyemission om 6 miljarder kronor uppgår detta
+              belopp till 1,28 miljarder kronor för svenska staten. I det fall
+              beloppet understiger 1,3 miljarder kronor kommer mellanskillnaden
+              inte att utnyttjas.
+            </p>
+            <p xml:id="IDA3UQNB" rend="r4">
+              Motionen
+            </p>
+            <p>
+              <seg rend="grad2">
+                Miljöpartiet avvisar i motion Fi19
+              </seg>
+              regeringens förslag att svenska staten ska delta i den aktuella
+              nyemissionen i SAS. Miljöpartiet har tidigare i samband med regeringens
+              proposition om försäljning av vissa statliga bolag föreslagit
+              att SAS bör säljas (prop. 2006/07:57, motion 2006/07:N12). Motionärerna
+              menar att staten i huvudsak inte bör äga företag som finns på
+              fungerande konkurrensutsatta marknader och att det i nuläget dessutom
+              är förenat med stora affärsrisker att delta i nyemissionen, vilket
+              innebär att skattepengar äventyras.
+            </p>
+            <p>
+              Enligt motionärerna är SAS ett bolag som länge haft ekonomiska
+              problem. Staten har vid ett flertal tillfällen varit tvungen att
+              gå in med ägartillskott. Den affärsplan som bolaget presenterat
+              för att klara neddragningarna medför stora ekonomiska risker,
+              och det är inte säkert att besparingsplanerna kommer att lyckas.
+              SAS har tidigare presenterat liknande planer och misslyckats.
+            </p>
+            <p>
+              Vidare anser motionärerna att det statliga ägandet kan vara en
+              hämsko när det gäller att reglera och ställa hårdare miljökrav
+              på flygtrafiken, i ett läge när flygindustrin står inför stora
+              strukturella problem i form av en stor och växande andel av klimatutsläppen
+              i Sverige och världen. Behovet av flygresor på kortare och medellånga
+              distanser kommer att minska när snabba tågförbindelser byggs ut.
+              Motionärerna föreslår att riksdagen genom ett tillkännagivande
+              ställer sig bakom vad som anförs i motionen om att sälja SAS och
+              bemyndigar regeringen att genomföra en försäljning av statens
+              andelar i SAS.
+            </p>
+            <p xml:id="IDAQVQNB" rend="r4">
+              Näringsutskottets yttrande
+            </p>
+            <p rend="grad1">
+              Information från riksdagens utredningstjänst
+            </p>
+            <p>
+              Riksdagens utredningstjänst har, på näringsutskottets uppdrag,
+              tagit fram översiktlig jämförande information om den ekonomiska
+              situationen och kostnadsstrukturen för SAS och flygbolagen Finnair,
+              Norwegian Air och Lufthansa. Uppgifter om flygbolagens flygplansflotta
+              med avseende på variationen bland planen och fördelningen mellan
+              egna och leasade plan har vidare inhämtats. Slutligen har information
+              om SAS relativa betydelse för inrikestrafiken i Sverige redovisats.
+            </p>
+            <p>
+              Bland den information som redovisas i promemorian kan noteras
+              att soliditeten 2008 för SAS låg på 20 %, medan den för Finnair,
+              Lufthansa och Norwegian Air låg på respektive 38,1, 30,4 och 28
+              %. Mellan 2007 och 2008 har soliditeten försämrats med 15 procentenheter
+              för SAS, jämfört med 8,9 procentenheter för Finnair. För Lufthansa
+              och Norwegian har soliditeten förbättrats med respektive 1,7 och
+              6 procentenheter. I jämförelse med Finnair och Lufthansa är SAS
+              aktie den mest volatila. När det gäller SAS betydelse för inrikestrafiken
+              sägs i promemorian att SAS andel av genomförda inrikeslandningar
+              var ca 27 % under 2008 och att andelen passagerare som flög med
+              SAS inrikes under 2008 var ca 25 %.
+            </p>
+            <p rend="grad1">
+              Näringsutskottets ställningstagande
+            </p>
+            <p>
+              Regeringen har gjort bedömningen att den affärsplan som SAS styrelse
+              nyligen presenterat innehåller sådana åtgärder som krävs för att
+              skapa förutsättningar för ett lönsamt SAS. Detta innebär att SAS
+              kan ge marknadsmässig avkastning till aktieägarna, bl.a. den svenska
+              staten. För att affärsplanen ska kunna genomföras krävs en förstärkning
+              av bolagets kapitalstruktur genom en nyemission. En sådan skulle
+              sannolikt inte kunna genomföras om inte den svenska staten, som
+              är den största aktieägaren, deltar.
+            </p>
+            <p>
+              Mot denna bakgrund anser utskottet att riksdagen bör bemyndiga
+              regeringen att för statens räkning delta i den planerade nyemissionen
+              genom att teckna aktier upp till ett belopp om högst 1,3 miljarder
+              kronor och att vidta de övriga åtgärder som krävs för att genomföra
+              statens deltagande i nyemissionen. Riksdagen bör också besluta
+              om att för 2009 höja ramen för utgiftsområde 24 Näringsliv med
+              1,3 miljarder kronor och att höja anslaget Kapitalinsatser i statliga
+              bolag (1:21) med samma belopp.
+            </p>
+            <p>
+              Utskottets ställningstagande innebär att riksdagen bör avslå
+              motion 2008/09:Fi19 (mp), i vilken regeringens förslag avvisas.
+              När det gäller yrkandet i motionen om att riksdagen ska bemyndiga
+              regeringen att sälja statens andel i SAS vill utskottet påpeka
+              att regeringen redan för närvarande har en sådan möjlighet. Enligt
+              budgetlagen (26 §) gäller nämligen att regeringen får besluta
+              om försäljning av aktier i ett företag där staten har mindre än
+              hälften av rösterna för samtliga aktier, om inte riksdagen bestämt
+              annat. När det gäller SAS finns inget sådant tidigare beslut av
+              riksdagen. Även motionens båda yrkanden om försäljning av SAS
+              bör avslås av riksdagen.
+            </p>
+            <p>
+              Näringsutskottet förutsätter att regeringen fortlöpande håller
+              utskottet underrättat om utvecklingen i SAS. Utskottet vill ha
+              löpande information om utfallet av arbetet med affärsplanen och
+              den effektivisering och kostnadsminskning som ingår i denna plan.
+            </p>
+            <p xml:id="IDAPWQNB" rend="r4">
+              Kompletterande information
+            </p>
+            <p rend="grad1">
+              SAS ekonomi
+            </p>
+            <p>
+              Ur helårsrapporten för 2008 framgår att omsättningen i SAS-koncernen
+              uppgick till 53 195 miljoner kronor, vilket var en ökning med
+              2 597 miljoner kronor (5,1 %) jämfört med 2007. Med hänsyn tagen
+              till valutaeffekt ökade intäkterna med 4 %. Koncernens kostnader
+              ökade från 49 378 miljoner kronor 2007 till 53 817 miljoner kronor
+              2008, vilket var en ökning med 4 439 miljoner kronor (9 %). Av
+              denna ökning svarade ökade kostnader för flygbränsle för 2 083
+              miljoner kronor. Rensat för positiv valutaeffekt ökade bränslekostnaden
+              med 2 323 miljoner kronor. Koncernens totala kostnad för flygbränsle
+              2008 uppgick till 9 637 miljoner kronor. Bränslepriserna föll
+              under fjärde kvartalet tillbaka, vilket var positivt för koncernens
+              resultatutveckling. Samtidigt stärktes dollarn i värde på kort
+              tid, vilket försämrade resultatutvecklingen.
+            </p>
+            <p>
+              Rörelseresultatet i kvarvarande verksamheter före avskrivningar,
+              nedskrivningar samt leasingkostnader (EBITDAR) blev före engångsposter
+              3 892 miljoner kronor, vilket var en försämring med 1 363 miljoner
+              kronor jämfört med 2007. Resultat från avvecklade verksamheter
+              uppgick totalt till -5 305 miljoner kronor, varav Spanair svarade
+              för -4 895 miljoner kronor. Försäljning har under året skett av
+              SAS Media, SAS Facility Management, ST Aerospace Solutions (Europé)
+              och Aerolineas de Baleares. I januari 2009 ingicks slutliga avtal
+              om försäljningen av 80,1 % av Spanair, som såldes för 1 euro,
+              och avyttringen av aktieinnehavet i Air Baltic.
+            </p>
+            <p>
+              SAS kvarstår som minoritetsägare i Spanair med 19,9 % av aktierna
+              och kommer att vara en industriell partner till Spanair för att
+              assistera vid genomförandet av Spanairs strategiska plan. Enligt
+              propositionen uppgår den för SAS kvarstående finansiella exponeringen
+              till högst 200 miljoner euro. Av SAS pressmeddelande framgår att
+              den finansiella exponeringen till största delen består av lånefordringar
+              och garantier för vissa operationella åtaganden.
+            </p>
+            <p rend="grad1">
+              Core SAS
+            </p>
+            <p>
+              <seg rend="grad2">
+                Ett förstärkt fokus på den nordiska hemmamarknaden
+              </seg>
+              innebär försäljning av de företag som inte är direkt inkluderade
+              i kärnverksamheten, såsom British Midland (SAS äger 20 %), Air
+              Greenland (SAS äger 37,5 %), Spirit Airlines, Cubic Air Cargo
+              (såldes den 1 februari 2009), Trust (en del av SAS Cargo), Estonian
+              Air (SAS äger 49 %) och Skyways Express (SAS äger 25 %).
+            </p>
+            <p>
+              <seg rend="grad2">
+                Fokus på affärsresenärer och lönsamma affärsrutter
+              </seg>
+              innebär en kraftig neddragning av antalet rutter (40 %). Flygplansflottan
+              reduceras med sammanlagt 20 flygplan.
+            </p>
+            <p>
+              <seg rend="grad2">
+                Förbättrad kostnadsbas.
+              </seg>
+              Av SAS genomförd benchmarking gentemot relevanta konkurrenter,
+              baserat på 2007 års siffror, indikerar ett kostnadsgap på ca 4
+              miljarder kronor efter att full resultateffekt från besparingsprogrammet
+              Strategy 2011 om 1 miljard kronor uppnåtts. Core SAS innehåller
+              åtgärder för att ytterligare minska detta gap med ca 3 miljarder
+              kronor, bestående av 1,7 miljarder kronor från ett nytt besparingsprogram
+              och 1,3 miljarder kronor i årliga besparingar till följd av omförhandlingarna
+              av alla kollektivavtal. Av besparingarna inom ramen för Strategy
+              2001 utgörs 0,7 miljarder kronor av initiativ som implementerats
+              under 2008 men som ännu inte gett resultateffekt och 0,3 miljarder
+              kronor från initiativ som kommer att implementeras under 2009.
+              Efter genomförda besparingar kommer det kvarstående kostnadsgapet
+              till konkurrenterna att vara 1 miljard kronor. Resultateffekten
+              för kostnadsprogrammet kommer 20092011, där mer än hälften kommer
+              under 2009 och större delen av återstoden under 2010 samt en mindre
+              del under 2011. Omförhandlingen av kollektivavtalen är klara och
+              ses som ett genombrott. Besparingen består av lönefrysning, produktivitetsförbättringar,
+              förändringar av försäkringar och pensioner samt lönereduktioner.
+            </p>
+            <p>
+              <seg rend="grad2">
+                Förenklad organisation
+              </seg>
+              där den största förändringen ligger i avbolagiseringen av de
+              nationella bolag som haft ett helhetsansvar för verksamheten i
+              respektive land. Omkring 3 000 anställda inom SAS kommer att bli
+              övertaliga. Ytterligare 5 600 anställda kommer att lämna koncernen
+              i de verksamheter som ska avyttras eller outsourcas. Av dessa
+              utgör Spanair omkring 3 000 personer. Totalt berörs ca 9 000 personer
+              i nuvarande koncernbolag. Länderna är överens om den förenklade
+              organisationen. Det är inte klart hur många av de 3 000 övertaliga
+              som kommer att bli uppsagda per land.
+            </p>
+            <p>
+              <seg rend="grad2">
+                Genomförande av en nyemission om ca 6 miljarder kronor
+              </seg>
+              . Efter genomförandet kommer koncernens eget kapital att förstärkas
+              från ca 9 miljarder kronor till ca 15 miljarder kronor och eget
+              kapital i förhållande till totalt kapital förbättras från ca 20
+              % till ca 30 %.
+            </p>
+            <p rend="grad1">
+              Ställningstagande i Danmark och Norge
+            </p>
+            <p>
+              I Danmark fattar Finansudvalget självständigt beslut om eventuellt
+              kapitaltillskott. Den 26 februari 2009 fattade Finansudvalget
+              beslut om att tillstyrka regeringens ansökan om att den danska
+              staten ska delta i SAS nyemission motsvarande landets ägarandel
+              på 14,3 %. Företrädare för alla partier stod bakom beslutet. I
+              Norge har Næringskomiteen den 26 februari tillstyrkt att den norska
+              staten deltar med sin pro rata-andel i nyemissionen. Beslut i
+              Stortinget fattas den 12 mars 2009.
+            </p>
+            <p rend="grad1">
+              Tidigare ägartillskott
+            </p>
+            <p>
+              Riksdagen har vid ett tillfälle under den senaste 20-årsperioden
+              beslutat om kapitaltillskott till SAS. År 1989 beslutade riksdagen
+              att staten skulle köpa in nyemitterade aktier i AB Aerotransport
+              (ABA) till ett belopp av 352,5 miljoner kronor. Nyemissionen var
+              föranledd av ökade investeringsbehov i SAS-konsortiet. ABA var
+              vid tillfället svenskt moderbolag för det skandinaviska luftfartssamarbetet
+              inom ramen för konsortiet SAS. Sverige ägde genom ABA tre sjundedelar
+              av SAS-konsortiet medan de danska och norska moderbolagen ägde
+              två sjundedelar vardera. ABA ägdes till 50 % av Svensk Interkontinental
+              Lufttrafik AB (SILA) och till 50 % av svenska staten (prop. 1989/90:16,
+              bet. 1989/90:TU6, rskr. 1989/90:35).
+            </p>
+            <p>
+              I samband med en omstrukturering av det svenska ägandet i SAS
+              19921993 blev svenska staten, genom en nyemission, ägare av halva
+              aktiekapitalet i SILA. Betalning erlades genom att samtliga statens
+              aktier i ABA och samtliga aktier i ett av staten helägt bolag
+              tillfördes SILA. Det sistnämnda bolaget innehöll en revers (en
+              skuldförbindelse) på 119,3 miljoner kronor utfärdad av staten
+              samt banktillgodohavanden på 50 000 kr motsvarande bolagets aktiekapital.
+              ABA blev därmed ett helägt dotterbolag till SILA som även fortsättningsvis
+              ägde tre sjundedelar av SAS.
+            </p>
+            <p>
+              År 1996 bytte SILA namn till SAS Sverige AB. Regeringen föreslog
+              på tilläggsbudget 1997 att staten skulle lösa lånet för skuldreversen.
+              Reversbeloppet och räntan uppgick till 130 miljoner kronor (prop.
+              1996/97:150, bet. 1996/97:FiU20, rskr. 1996/97:118). Några kapitaltillskott
+              eller andra ekonomiska förpliktelser från svenska staten har inte
+              gjorts efter bolagets notering 2001.
+            </p>
+            <p rend="grad1">
+              Bemyndigande om ändrat statligt ägande av SAS
+            </p>
+            <p>
+              Förändringar i det statliga ägandet eller i ägarstrukturen av
+              SAS har hittills beslutats av riksdagen. En kort historik visar
+              att 1992 bemyndigade riksdagen regeringen att besluta om försäljning
+              av statens aktier i bl.a. AB Aerotransport, som vid tillfället
+              var svenskt moderbolag för det skandinaviska luftfartssamarbetet
+              inom ramen för konsortiet SAS (prop. 1991/92:69, bet. 1991/92:NU10,
+              rskr. 1991/92:92). År 1993 överfördes detta bemyndigande till
+              SILA i samband med att statens ägande i SAS överfördes till det
+              börsnoterade SILA (prop. 1992/93:59, bet. 1992/93:TU20, rskr.
+              1992/93:209). Vid riksdagens behandling av 1996 års proposition
+              om aktiv förvaltning av statens företagsägande återkallades det
+              obegränsade bemyndigandet avseende bl.a. SAS. Näringsutskottet
+              betonade att regeringen inte fick besluta om minskning av statens
+              ägande eller lämnande av kapitaltillskott utan riksdagens bemyndigande
+              (prop. 1995/96:141, bet. 1995/96:NU26, rskr. 1995/96:302). År
+              1997 bemyndigade riksdagen regeringen att besluta om en eventuell
+              minskning av statens ägarandel i SAS Sverige AB från dåvarande
+              50 % ned till en nivå som innebar att statens röstetal inte understeg
+              35 % (prop. 1996/97:126, bet. 1996/97:TU9, rskr. 1996/97:104).
+              Denna minskning genomfördes inte. Vid riksdagens behandling av
+              budgetlagen preciserades vilka av de bemyndiganden om försäljning
+              som riksdagen tidigare beslutat om som skulle gälla sedan budgetlagen
+              trätt i kraft. SAS Sverige AB, som då ägdes till 50 % av staten,
+              omfattades inte av ett sådant försäljningsbemyndigande (prop.
+              1995/96:220, bet. 1996/97:KU3, rskr. 1996/97:25). År 2001 godkände
+              riksdagen den förändrade aktiestrukturen i SAS, vilket innebar
+              att statens aktier i SAS Sverige AB byttes mot aktier i ett av
+              SAS nybildat holdingbolag som i sin tur äger de tre bolagen SAS
+              Danmark A/S, SAS Norge ASA och SAS Sverige AB. Därmed blev det
+              en gemensam aktie i stället för tre separata aktier samt en bolagsstyrelse
+              och en bolagsstämma. Statens aktier i SAS Sverige AB byttes mot
+              aktier i det nybildade holdingbolaget. Det innebar att statens
+              ägarandel om 50 % i SAS Sverige AB (som i sin tur var delägare
+              till SAS-konsortiet med tre sjundedelar) byttes ut mot en ägarandel
+              motsvarande 50 % av tre sjundedelar, dvs. 21,4 % i det nybildade
+              holdingbolaget. Statens ägande i SAS förändrades inte genom omstruktureringen.
+              Trafikutskottet tog ställning för den föreslagna ändringen av
+              aktiestrukturen inom ramen för ett oförändrat statligt ägande
+              (prop. 2000/01:124, bet. 2000:01/TU17, rskr. 2000/01:119). Denna
+              ägarstruktur gäller än i dag. I samband med riksdagens behandling
+              2007 av regeringens proposition om försäljning av vissa statligt
+              ägda företag avstyrkte riksdagen en motion från Miljöpartiet om
+              ett bemyndigande för regeringen att helt eller delvis avyttra
+              statens aktier i SAS med motiveringen att det inte fanns någon
+              anledning att ta ställning till det statliga ägandet av andra
+              företag än de som togs upp i den aktuella propositionen (prop.
+              2006/07:57, bet. 2006/07:NU16, rskr. 2006/07:130).
+            </p>
+            <p xml:id="IDAEZQNB" rend="r4">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              Finansutskottet delar, i likhet med näringsutskottet, regeringens
+              bedömning att den nya strategiska inriktningen och affärsplanen
+              bör skapa förutsättningar för ett lönsamt SAS. Avyttringen av
+              Spanair och andra olönsamma delar av koncernen har förbättrat
+              konkurrensförutsättningarna väsentligt. Av stor vikt är också
+              genombrottet i de fackliga avtalen som minskar kostnadsgapet till
+              konkurrenterna. Utskottet delar inte den bild som motionärerna
+              tecknar om att SAS tidigare presenterat liknande planer som misslyckats.
+              Tidigare affärsplaner har, enligt vad utskottet erfar, genomförts
+              om än med förseningar på mellan ett till två år. Den föregående
+              affärsplanen, Strategy 2011, har till stora delar genomförts och
+              de förseningar som uppkommit är i huvudsak hänförliga till förhandlingarna
+              om kollektivavtalen. Den nya affärsplanen Core SAS innehåller,
+              enligt utskottets bedömning, åtgärder som bolaget självt har möjlighet
+              att påverka varför planen bedöms som trovärdig. Det finns risker
+              för SAS i omvärlden, och hur stora dessa risker är beror i hög
+              grad på hur konjunkturen utvecklas. I och med genomförandet av
+              Core SAS bedömer utskottet att SAS får en viss stresstålighet
+              och ska kunna klara såväl nedgång i efterfrågan som svängningar
+              i oljepris och valutakurser. Genomförandet av affärsplanen förutsätter
+              en förstärkning av bolagets kapitalstruktur genom en nyemission.
+              Finansutskottet delar såväl näringsutskottets som regeringens
+              bedömning att nyemissionen i det rådande finansiella läget sannolikt
+              inte kan genomföras om inte den svenska staten, som är den största
+              aktieägaren, deltar.
+            </p>
+            <p>
+              Motionärerna framför att staten vid ett flertal tillfällen tidigare
+              varit tvungen att gå in med ägartillskott. Utskottet kan konstatera
+              att sett till den senaste 20-årsperioden har staten vid ett enda
+              tillfälle, 1989, gett ett direkt ägartillskott. Vidare ställde
+              staten 1993 ut en skuldrevers på 119 miljoner kronor. Denna löstes
+              1997. De tidigare statliga ägartillskotten har således varit av
+              begränsad omfattning.
+            </p>
+            <p>
+              Vid bolagsstämman eller strax dessförinnan kommer ledningen för
+              SAS att presentera det prospekt som ska ligga till grund för aktieägarnas
+              beslut om att delta i nyemissionen. Prospektet är till sitt innehåll
+              i huvudsak känt genom de presentationer av Core SAS som SAS ledning
+              har redovisat. Om det skulle visa sig att prospektet vid offentliggörandet
+              innehåller information som på ett avgörande sätt avviker från
+              den information som funnits tillgänglig vid riksdagens behandling
+              av ärendet, förutsätter utskottet att regeringen underrättat utskottet
+              om detta. Näringsutskottet framför i sitt yttrande att utskottet
+              vill ha löpande information om utfallet av arbetet med affärsplanen
+              och den effektivisering och kostnadsminskning som ingår i denna
+              plan. Finansutskottet förutsätter, i likhet med näringsutskottet,
+              att regeringen fortlöpande håller riksdagen underrättad om utvecklingen
+              i SAS.
+            </p>
+            <p>
+              Vidare förutsätter utskottet att den praxis som hittills har
+              rått vid förändringar i statens ägande i SAS och som innebär att
+              riksdagen fattar beslut i sådana frågor, även fortsättningsvis
+              tillämpas av regeringen. Denna ordning motiveras av att det svenska
+              ägandet bygger på ett nära samarbete med den danska respektive
+              norska staten, såväl regering som parlament, och betydelsen av
+              att länderna gemensamt har 50 % av aktierna.
+            </p>
+            <p>
+              Därmed tillstyrker finansutskottet, i likhet med näringsutskottet,
+              regeringens förslag, punkterna 1 och 2 och avstyrker motion Fi19
+              (mp) yrkandena 13.
+            </p>
+            <p xml:id="IDAXZQNB" rend="rubrik2">
+              Höjd ram för utgiftsområde 24 Näringsliv samt höjt anslag
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDA3ZQNB" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen dels höjer ramen för 2009 för utgiftsområde 24 Näringsliv
+                med 1 300 000 000 kr till 6 486 480 000 kr, dels anvisar 1 300
+                000 000 kr för 2009 på ramanslaget 1:21 Kapitalinsatser i statliga
+                bolag.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation 2 (mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAK0QNB" rend="r4">
+              Propositionen
+            </p>
+            <p>
+              I enlighet med proposition 2008/09:1 ska statens utgifter för
+              kapitalinsatser för statligt ägda bolag belasta det under utgiftsområde
+              24 Näringsliv uppförda anslaget 1:21
+              <seg rend="grad2">
+                Kapitalinsatser i statliga bolag. Regeringen avser att ta detta
+                anslag i anspåk för deltagande i nyemissionen i SAS. För att möjliggöra
+                detta föreslår regeringen att ramen för utgiftsområde 24 Näringsliv
+                höjs med 1,3 miljarder kronor och att det under utgiftsområdet
+                uppförda anslaget 1:21 Kapitalinsatser i statliga bolag
+              </seg>
+              ökas med 1,3 miljarder kronor.
+            </p>
+            <p xml:id="IDAY0QNB" rend="r4">
+              Konsekvenser enligt propositionen
+            </p>
+            <p>
+              Det kapitaltillskott med 1,3 miljarder kronor som krävs för nyemissionen
+              i SAS ökar de takbegränsade utgifterna samt försämrar statsbudgetens
+              saldo och den konsoliderade statsskulden med motsvarande belopp.
+              Det finansiella sparandet påverkas däremot inte, då staten byter
+              en tillgång mot en annan.
+            </p>
+            <p>
+              I det aktuella fallet kommer staten att delta i nyemissionen
+              tillsammans med och på samma villkor som ett antal privata investerare.
+              Statens ägarandel i SAS kommer efter nyemissionen att vara oförändrad.
+              SAS förutsätts vidare att fortsätta att verka på fullt kommersiella
+              villkor. Enligt regeringens bedömning är åtgärderna därmed inte
+              att betrakta som statsstöd i EG-fördragets bemärkelse.
+            </p>
+            <p xml:id="IDAB1QNB" rend="r4">
+              Näringsutskottets yttrande
+            </p>
+            <p>
+              Näringsutskottet tillstyrker regeringens förslag om att för 2009
+              höja ramen för utgiftsområde 24 Näringsliv med 1,3 miljarder kronor
+              och att höja anslaget Kapitalinsatser i statliga bolag (1:21)
+              med samma belopp.
+            </p>
+            <p xml:id="IDAH1QNB" rend="r4">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              Syftet med anslaget 1:21 Kapitalinsatser i statliga bolag är
+              att ha en etablerad ordning för kapitaltillskott till statligt
+              ägda bolag. Då anslaget endast får användas av regeringen efter
+              beslut av riksdagen i varje enskilt fall är det uppförda beloppet
+              på statsbudgeten endast 1 miljon kronor. Varje beslut om kapitaltillskott
+              innefattar således att riksdagen även anvisar medel på anslaget.
+              Utskottet kan konstatera att det föreslagna kapitaltillskottet
+              på tilläggsbudget om 1,3 miljarder kronor med god marginal ryms
+              under det beslutade utgiftstaket för 2009. I det fall det anvisade
+              beloppet visar sig överstiga statens andel av nyemissionen kommer
+              mellanskillnaden inte att utnyttjas, i enlighet med vad som framförs
+              i propositionen.
+            </p>
+            <p>
+              Mot bakgrund av vad som ovan anförts tillstyrker finansutskottet,
+              i likhet med näringsutskottet, regeringens förslag, punkt 3.
+            </p>
+            <p xml:id="IDAR1QNB" rend="AvsnittsRubrik">
+              Reservationer
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservationer. I rubriken anges vilken
+              punkt i utskottets förslag till riksdagsbeslut som behandlas i
+              avsnittet.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAY1QNB">
+                  <p rend="reservation">
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Statens deltagande i nyemission i SAS AB (publ), punkt 1 (mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Mikaela Valtersson (mp).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAR3QNB" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Jag anser att förslaget till riksdagsbeslut under punkt 1 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen avslår regeringens begäran om att för statens räkning
+              delta i aktuell nyemission i SAS AB (publ) och tillkännager för
+              regeringen som sin mening vad som anförs i reservationen om att
+              sälja SAS. Därmed bifaller riksdagen motion
+            </p>
+            <p rend="stallningstagandereservation_">
+              2008/09:Fi19 av Mikaela Valtersson m.fl. (mp) yrkandena 13 och
+            </p>
+            <p rend="stallningstagandereservation_">
+              avslår proposition 2008/09:124 punkterna 1 och 2.
+            </p>
+            <p xml:id="IDA03QNB" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Miljöpartiet har tidigare i samband med regeringens proposition
+              om försäljning av vissa statliga bolag föreslagit att SAS säljs
+              (prop. 2006/07:57, mot. 2006/07:N12). Från Miljöpartiets sida
+              anser vi att det är svårt att se någon samhällspolitisk nytta
+              med att staten äger flygbolag. Tidigare när verksamheten var ny
+              och det var monopol åtminstone på inrikesflyget fanns anledningar
+              till statligt ägande. I dag är flygtrafiken konkurrensutsatt,
+              och det statliga ägandet kan snarare vara en hämsko när det gäller
+              att reglera och ställa hårdare miljökrav på flygtrafiken.
+            </p>
+            <p>
+              Det är vidare av högsta vikt att vara försiktig och varsam med
+              skattepengar; därmed är det också viktigt att staten inte tar
+              på sig affärsrisker om det inte finns synnerliga skäl till detta.
+              Jag anser att den affärsplan SAS AB har presenterat för att klara
+              av att göra neddragningar och anpassa verksamheten till lägre
+              efterfrågan medför stora ekonomiska risker för aktieägarna då
+              det inte är säkert att besparingsplanerna kommer att lyckas. SAS
+              har tidigare presenterat liknande planer som misslyckats. Jag
+              anser inte heller att det finns några synnerliga skäl för staten
+              att hålla ett flygbolag under armarna. Det vi behöver investera
+              i nu är förnybar energi, hållbar transportinfrastruktur som spårväg
+              och järnväg och energieffektiviseringar.
+            </p>
+            <p>
+              Från Miljöpartiets sida står vi fast vid att SAS bör säljas.
+              Riksdagen bör därför avslå regeringens förslag om att delta i
+              aktuell nyemission i SAS AB och i stället tillkännage för regeringen
+              som sin mening vad som anförs i reservationen om att sälja SAS
+              och bemyndiga regeringen att snarast möjligt inleda en försäljning
+              av statens andelar i SAS.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAH4QNB">
+                  <p rend="reservation">
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="reservation">
+                    Höjd ram för utgiftsområde 24 Näringsliv samt höjt anslag, punkt
+                    2 (mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p rend="reservanter">
+                    av Mikaela Valtersson (mp).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="villkor">
+              Under förutsättning av bifall till reservation 1
+            </p>
+            <p xml:id="IDAGARNB" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Jag anser att förslaget till riksdagsbeslut under punkt 2 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen avslår regeringens begäran om att för 2009 höja ramen
+              för utgiftsområde 24 Näringsliv med 1,3 miljarder kronor samt
+              öka anslaget 1:21 Kapitalinsatser i statliga bolag med motsvarande
+              belopp. Därmed avslår riksdagen proposition 2008/09:124 punkt
+              3.
+            </p>
+            <p xml:id="IDANARNB" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Regeringens förslag om höjd ram för utgiftsområde 24 Näringsliv
+              med 1,3 miljarder kronor och en motsvarande ökning av anslaget
+              1:21 Kapitalinsatser i statliga bolag bör avslås av riksdagen
+              med hänvisning till vad som framförs i Miljöpartiets kommittémotion
+              2008/09:Fi19.
+            </p>
+            <p xml:id="IDATARNB" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAWARNB" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAZARNB" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2008/09:124 Nyemission i SAS AB (publ):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen bemyndigar regeringen att för statens räkning delta
+                    i aktuell nyemission i SAS AB (publ) genom att teckna aktier upp
+                    till ett belopp om högst 1,3 miljarder kronor (avsnitt 4).
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen bemyndigar regeringen att vidta övriga nödvändiga åtgärder
+                    för att genomföra statens deltagande i nyemissionen (avsnitt 4).
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen beslutar att för 2009 höja ramen för utgiftsområde
+                    24 Näringsliv med 1,3 miljarder kronor samt öka det under utgiftsområde
+                    24 Näringsliv uppförda anslaget 1:21 Kapitalinsatser i statliga
+                    bolag med 1,3 miljarder kronor (avsnitt 5).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAVDRNB" rend="rubrik2">
+              Följdmotionen
+            </p>
+            <p rend="behandlatdokument_">
+              2008/09:Fi19 av Mikaela Valtersson m.fl. (mp):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om att sälja SAS.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen avslår regeringens begäran att delta i nyemission i
+                    SAS.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen bemyndigar regeringen att genomföra en försäljning
+                    av statens andelar i SAS.
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+          <div type="html-yttrandebilaga">
+            <p xml:id="IDARGRNB" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <div rend="betankande_">
+              <table>
+                <row>
+                  <cell>
+                    <p rend="HuvudRubrik_">
+                      Näringsutskottets betänkande
+                    </p>
+                    <p rend="HuvudRubrikRad2_">
+                      2008/09:NU7
+                    </p>
+                  </cell>
+                  <cell/>
+                </row>
+                <row>
+                  <cell>
+                    <p rend="DokumentRubrik_">
+                      Nyemission i SAS AB
+                    </p>
+                  </cell>
+                </row>
+                <row>
+                  <cell cols="2"/>
+                </row>
+                <row>
+                  <cell cols="2"/>
+                </row>
+              </table>
+              <div type="html-tillxutskottet">
+                <p xml:id="IDAPHRNB" rend="AvsnittsRubrik">
+                  Till finansutskottet
+                </p>
+                <p>
+                  Finansutskottet har berett näringsutskottet tillfälle att avge
+                  yttrande över proposition 2008/09:124 om nyemission i SAS AB.
+                </p>
+                <p>
+                  En motion har väckts med anledning av propositionen.
+                </p>
+                <p>
+                  Statssekreterare Ola Alterå, Näringsdepartementet, lämnade samma
+                  dag som propositionen avlämnades den 12 februari information om
+                  propositionen till utskottet.
+                </p>
+              </div>
+              <div type="html-continuation">
+                <p xml:id="IDA2HRNB" rend="AvsnittsRubrik">
+                  Utskottets överväganden
+                </p>
+                <p xml:id="IDACIRNB" rend="rubrik2">
+                  Propositionen
+                </p>
+                <p xml:id="IDAFIRNB" rend="rubrik3">
+                  Bakgrund
+                </p>
+                <p>
+                  Styrelsen i SAS AB har den 3 februari 2009 beslutat om en nyemission
+                  om ca 6 miljarder kronor, med företrädesrätt för bolagets aktieägare.
+                  Emissionsbeslutet kräver godkännande av en extra bolagsstämma
+                  som ska hållas den 13 mars 2009. Regeringen konstaterar i propositionen
+                  att ärendet innefattar hantering av affärskänslig information
+                  och insiderinformation. Om regeringen skulle ha hämtat in yttranden
+                  och upplysningar från myndigheter, sammanslutningar eller enskilda
+                  skulle den nämnda informationen ha blivit offentliggjord, vilket
+                  skulle ha inneburit risk för betydande ekonomisk skada för staten
+                  och bolaget. Regeringen har dock hämtat in underlag från finansiella
+                  och juridiska rådgivare.
+                </p>
+                <p>
+                  Regeringen redovisar i propositionen bakgrunden till förslagen
+                  avseende marknadssituationen, uppgifter om SAS, styrelsens förslag
+                  till ny strategisk inriktning och den av styrelsen beslutade nyemissionen.
+                </p>
+                <p xml:id="IDAOIRNB" rend="rubrik3">
+                  Nyemission
+                </p>
+                <p>
+                  Regeringen föreslår i propositionen (med förslag om förkortad
+                  motionstid till 13 dagar) att riksdagen ska bemyndiga regeringen
+                  att för statens räkning delta i den aktuella nyemissionen i SAS
+                  genom att teckna aktier upp till ett belopp om högst 1,3 miljarder
+                  kronor. Riksdagen föreslås vidare bemyndiga regeringen att vidta
+                  övriga nödvändiga åtgärder för att genomföra statens deltagande
+                  i nyemissionen.
+                </p>
+                <p>
+                  Styrelsen och ledningen i SAS har presenterat en ny strategisk
+                  inriktning och affärsplan, benämnd Core SAS. Den innehåller fem
+                  huvudområden fokus på den nordiska hemmamarknaden, fokus på affärsresenärer,
+                  ny effektiv organisation, förbättrad kostnadsbas och förstärkt
+                  kapitalstruktur. Denna nya inriktning tillsammans med affärsplanen
+                  innehåller, enligt regeringens bedömning, nödvändiga åtgärder
+                  för att skapa förutsättningar för ett lönsamt SAS som kan ge en
+                  marknadsmässig avkastning till aktieägarna. Väsentliga förutsättningar
+                  för affärsplanen har varit att styrelse och ledning i början av
+                  året i avtal med de fackliga organisationerna kommit överens om
+                  årliga besparingar på 1,3 miljarder kronor och att SAS ingått
+                  avtal om avyttring av ägandet i dotterbolaget Spanair.
+                </p>
+                <p>
+                  För att genomföra åtgärderna i affärsplanen behöver bolagets
+                  kapital-struktur förstärkas genom en nyemission. Regeringens analys
+                  visar att ett deltagande i nyemissionen kan ge en marknadsmässig
+                  avkastning, under förutsättning av ett framgångsrikt genomförande
+                  av Core SAS. Investeringen ligger därmed i linje med regeringens
+                  mål om värdeskapande i bolag med statligt ägande. Affärsplanen
+                  är emellertid förknippad med risker på såväl intäkts- som kostnadssidan.
+                  Dessa risker har beaktats i analysen. Regeringen har i sin bedömning
+                  fäst vikt vid styrelsens och ledningens tilltro till förmågan
+                  att genomföra affärsplanen. De risker som finns avser styrelse
+                  och ledning att hantera med fortsatt effektivisering och kostnadsminskning.
+                  Oron på den finansiella marknaden med tillhörande lågkonjunktur
+                  medför dock att utvecklingen i flygindustrin är svår att bedöma.
+                  För att genomföra de planerade, omfattande förändringarna i verksamheten
+                  kan det, enligt regeringens analys, krävas några år med lägre
+                  avkastning än vad som är långsiktigt acceptabelt.
+                </p>
+                <p>
+                  De åtgärder som genomförts av SAS under de senaste åren har varit
+                  kraftfulla men inte tillräckliga, sägs det. Regeringen har i ägarförvaltningen
+                  verkat för att skapa en nära dialog med övriga huvudägare och
+                  konstaterar att det finns en samsyn med övriga huvudägare om bolagets
+                  framtid. Fortsatt effektivisering och kostnadsminskning, tillsammans
+                  med den nya strategiska inriktningen, är nödvändigt för att uppnå
+                  ett lönsamt och konkurrenskraftigt SAS.
+                </p>
+                <p>
+                  Regeringen har haft att ta ställning till styrelsens förslag
+                  om en nyemission i SAS. I det rådande finansiella läget kan sannolikt
+                  nyemissionen inte genomföras om inte den största aktieägaren,
+                  den svenska staten, deltar. Därmed skulle inte heller Core SAS,
+                  med de för konkurrenskraften och lönsamheten nödvändiga åtgärderna,
+                  kunna genomföras. Ett sådant beslut skulle inte vara i linje med
+                  regeringens mål att öka värdet på aktieinnehavet i SAS genom att
+                  som ägare verka för lägre kostnader i och effektivisering av verksamheten.
+                  Regeringen anser därför att svenska staten ska delta i den föreslagna
+                  nyemissionen.
+                </p>
+                <p>
+                  Det belopp till vilket den svenska staten ska teckna aktier i
+                  nyemissionen kommer att bero på den av styrelsen beslutade storleken
+                  på emissionen. Vid en nyemission om 6 miljarder kronor kommer
+                  detta belopp att uppgå till 1,28 miljarder kronor för svenska
+                  staten. I det fall beloppet skulle komma att understiga 1,3 miljarder
+                  kronor kommer mellanskillnaden inte att utnyttjas.
+                </p>
+                <p xml:id="IDADJRNB" rend="rubrik3">
+                  Finansiering
+                </p>
+                <p>
+                  I budgetpropositionen för 2009 (prop. 2008/09:1 utg.omr. 24 Näringsliv)
+                  meddelade regeringen att statens utgifter för kapitalinsatser
+                  för statligt ägda bolag ska belasta det under utgiftsområde 24
+                  uppförda anslaget Kapitalinsatser i statliga bolag (1:21)
+                  <seg rend="grad2">
+                    .
+                  </seg>
+                  Regeringen avser att ta detta anslag i anspråk för det föreslagna
+                  kapitaltillskottet. För att möjliggöra detta föreslår regeringen
+                  att ramen för utgiftsområde 24 Näringsliv höjs med 1,3 miljarder
+                  kronor och att det nämnda anslaget ökas med samma belopp.
+                </p>
+                <p xml:id="IDANJRNB" rend="rubrik3">
+                  Konsekvenser
+                </p>
+                <p>
+                  Det kapitaltillskott som krävs för nyemissionen i SAS beräknas
+                  öka de takbegränsade utgifterna, försämra statsbudgetens saldo
+                  och den konsoliderade statsskulden med motsvarande belopp. Det
+                  finansiella sparandet påverkas dock inte, eftersom staten byter
+                  en tillgång mot en annan.
+                </p>
+                <p>
+                  I förhållande till EG:s bestämmelser om statligt stöd kan ett
+                  kapitaltillskott ges om staten som ägare agerar på ett sätt som
+                  skulle accepteras av en privat investerare som arbetar på normala
+                  marknadsmässiga villkor, den s.k. marknadsekonomiska investerarprincipen,
+                  sägs det i propositionen. Principen innebär att statens agerande
+                  ska jämföras med hur en privat investerare som har en långsiktig
+                  syn på lönsamhet skulle agera i motsvarande situation. I det aktuella
+                  fallet kommer staten att delta i nyemissionen tillsammans med,
+                  och på samma villkor som, ett antal privata investerare. Statens
+                  ägarandel i SAS kommer efter nyemissionen att vara oförändrad.
+                  SAS förutsätts vidare fortsätta att verka på fullt kommersiella
+                  villkor. Enligt regeringens bedömning är åtgärderna därmed inte
+                  att betrakta som statsstöd i EG-fördragets bemärkelse.
+                </p>
+                <p xml:id="IDAWJRNB" rend="rubrik2">
+                  Motionen
+                </p>
+                <p>
+                  Regeringens begäran att delta i nyemissionen i SAS bör avslås,
+                  anförs det i kommittémotion 2008/09:Fi19 (mp). I stället bör riksdagen
+                  bemyndiga regeringen att genomföra en försäljning av statens andel
+                  i SAS och genom ett tillkännagivande ställa sig bakom vad som
+                  anförs i motionen om att sälja SAS.
+                </p>
+                <p>
+                  SAS har länge haft stora ekonomiska problem, och staten har vid
+                  ett flertal tillfällen varit tvungen att gå in med ägartillskott,
+                  säger motionärerna. De anser att flygindustrin står inför stora
+                  strukturella problem i form av växande klimatutsläpp i Sverige
+                  och världen. Behovet av flygresor på kortare och medellånga distanser
+                  bedöms också komma att minska vid utbyggnad av snabba tågförbindelser.
+                  Syftet med den föreslagna nyemissionen är att SAS ska klara att
+                  göra neddragningar och anpassa verksamheten till lägre efterfrågan.
+                  Den affärsplan som bolaget presenterat för att klara neddragningarna
+                  medför stora ekonomiska risker, och det är inte säkert att besparingsplanerna
+                  kommer att lyckas, menar motionärerna. De hänvisar till att SAS
+                  tidigare har presenterat liknande planer som misslyckats.
+                </p>
+                <p>
+                  I motionen erinras om att Miljöpartiet i samband med regeringens
+                  förslag om försäljning av vissa statliga bolag (prop. 2006/07:57)
+                  våren 2007 föreslog att SAS skulle säljas (mot. 2006/07:N12).
+                  I den nämnda motionen anfördes att det är svårt se någon samhällspolitisk
+                  nytta med att staten äger flygbolag, medan det tidigare, när verksamheten
+                  var ny och det var monopol åtminstone på inrikesflyget, ansågs
+                  kunna finnas anledningar till statligt ägande. I dagsläget är
+                  flygtrafiken konkurrensutsatt, och det statliga ägandet kan snarare
+                  vara en hämsko när det gäller att reglera och ställa hårdare miljökrav
+                  på flygtrafiken, menar motionärerna. Om beslut om försäljning
+                  hade fattats våren 2007 och en försäljning genomförts, skulle
+                  frågan om att nu delta i en nyemission inte ha varit aktuell,
+                  påpekar motionärerna. De menar att det var fel av regeringen att
+                  inte då ta tillfället i akt och sälja statens andel i SAS.
+                </p>
+                <p>
+                  Motionärerna anser vidare att det är av största vikt att vara
+                  försiktig med skattemedel och att staten inte bör ta på sig affärsrisker
+                  om det inte finns synnerliga skäl. Staten bör i huvudsak inte
+                  äga företag som finns på fungerande konkurrensutsatta marknader.
+                  Att delta i nyemissionen är förenat med stora affärsrisker, och
+                  motionärerna ser inget skäl till att staten i onödan ska äventyra
+                  skattemedel. I stället bör regeringen arbeta för att hitta en
+                  ny ägare till SAS och att sälja statens andel i bolaget. Sverige
+                  bör investera i förnybar energi, hållbar transportinfrastruktur
+                  såsom spårväg och järnväg samt energieffektiviseringar, anför
+                  motionärerna.
+                </p>
+                <p xml:id="IDAFKRNB" rend="rubrik2">
+                  Vissa kompletterande uppgifter
+                </p>
+                <p xml:id="IDAIKRNB" rend="rubrik3">
+                  Information av statssekreterare Ola Alterå
+                </p>
+                <p>
+                  Statssekreterare Ola Alterå, Näringsdepartementet, informerade
+                  den 12 februari närings- och finansutskotten om propositionens
+                  innehåll och besvarade frågor från utskottens ledamöter. Statssekreteraren
+                  meddelade bl.a. att regeringen ser nyemissionen frikopplad från
+                  olika långsiktiga lösningar. Vidare sade han att regeringen gör
+                  samma bedömning som styrelsen beträffande de åtgärder som nu är
+                  aktuella och att staten har en bra dialog med de danska och norska
+                  ägarna. Regeringen bedömer att nyemissionen är affärsmässigt riktig
+                  en bedömning som enligt statssekreteraren delas av den största
+                  privata ägaren, Knut och Alice Wallenbergs stiftelse. När det
+                  gäller SAS flygplansflotta sades att denna bör minska. Beträffande
+                  frågan om SAS agerande på miljöområdet hänvisade statssekreteraren
+                  till de skärpta krav på hållbarhetsredovisning från de statliga
+                  bolagen som regeringen nyligen beslutat om och som självfallet
+                  också omfattar SAS. När det gällde frågor om SAS ansvar för flygtrafik
+                  inom Sverige sade statssekreteraren att detta inte är frågor som
+                  ska styra statens agerande som delägare av SAS utan de måste ses
+                  i andra sammanhang.
+                </p>
+                <p xml:id="IDAOKRNB" rend="rubrik3">
+                  Akten i ärendet
+                </p>
+                <p>
+                  Utskottet beslutade vid utskottets sammanträde den 17 februari
+                  att begära hos Näringsdepartementet att få ta del av akten till
+                  propositionen. Akten har funnits tillgänglig för utskottets ledamöter
+                  på Näringsdepartementet.
+                </p>
+                <p xml:id="IDAUKRNB" rend="rubrik3">
+                  Information från riksdagens utredningstjänst
+                </p>
+                <p>
+                  Riksdagens utredningstjänst har, på utskottets uppdrag, tagit
+                  fram översiktlig jämförande information om den ekonomiska situationen
+                  och kostnadsstrukturen för SAS och flygbolagen Finnair, Norwegian
+                  Air och Lufthansa. Uppgifter om flygbolagens flygplansflotta med
+                  avseende på variationen bland planen och fördelningen mellan egna
+                  och leasade plan har vidare inhämtats. Slutligen har information
+                  om SAS relativa betydelse för inrikestrafiken i Sverige redovisats.
+                </p>
+                <p>
+                  Bland den information som redovisas i promemorian kan noteras
+                  att soliditeten 2008 för SAS låg på 20 %, medan den för Finnair,
+                  Lufthansa och Norwegian låg på respektive 38,1, 30,4 och 28 %.
+                  Mellan 2007 och 2008 har soliditeten försämrats med 15 procentenheter
+                  för SAS, jämfört med 8,9 procentenheter för Finnair. För Lufthansa
+                  och Norwegian har soliditeten förbättrats med respektive 1,7 och
+                  6 procentenheter. I jämförelse med Finnair och Lufthansa är SAS
+                  aktie den mest volatila. Beträffande SAS betydelse för inrikestrafiken
+                  sägs i promemorian att SAS andel av genomförda inrikeslandningar
+                  var ca 27 % under 2008, och att andelen passagerare som flög med
+                  SAS inrikes under 2008 var ca 25 %.
+                </p>
+                <p xml:id="IDA3KRNB" rend="rubrik3">
+                  Budgetlagen
+                </p>
+                <p>
+                  I motion 2008/09:Fi19 (mp) föreslås att riksdagen ska bemyndiga
+                  regeringen att sälja statens andel i SAS. I lagen (1996:1059)
+                  om statsbudgeten (budgetlagen) regleras bl.a. överlåtelse av statens
+                  egendom. Enligt 26 § budgetlagen får regeringen besluta om försäljning
+                  av aktier i ett företag där staten har mindre än hälften av rösterna
+                  för samtliga aktier, om inte riksdagen bestämt annat. Regeringen
+                  får enligt samma bestämmelse inte utan riksdagens bemyndigande
+                  genom försäljning eller på annat sätt minska statens ägarandel
+                  i företag där staten har hälften eller mer än hälften av rösterna
+                  för samtliga aktier. Enligt 29 § budgetlagen ska försäljning av
+                  statens egendom genomföras affärsmässigt, om inte särskilda skäl
+                  talar mot det. Med affärsmässighet avses att priset blir så fördelaktigt
+                  som möjligt för staten och att försäljning till underpris inte
+                  sker.
+                </p>
+                <p xml:id="IDADLRNB" rend="rubrik3">
+                  Frågans hantering i Danmark och Norge
+                </p>
+                <p>
+                  I Danmark fattar Finansudvalget självständigt beslut om eventuellt
+                  kapitaltillskott. Den 26 februari fattade Finansudvalget beslut
+                  om att stödja förslaget om att den danska staten ska delta i nyemissionen.
+                  Företrädare för alla partier stod bakom beslutet. I Norge har,
+                  enligt uppgift, naeringskomiteen startat sin behandling av frågan
+                  den 26 februari. Debatt och beslut är planerade till den 12 mars.
+                </p>
+                <p xml:id="IDAJLRNB" rend="rubrik2">
+                  Näringsutskottets ställningstagande
+                </p>
+                <p>
+                  Regeringen har gjort bedömningen att den affärsplan som SAS styrelse
+                  nyligen presenterat innehåller sådana åtgärder som krävs för att
+                  skapa förutsättningar för ett lönsamt SAS. Detta innebär att SAS
+                  kan ge marknadsmässig avkastning till aktieägarna, bl.a. den svenska
+                  staten. För att affärsplanen ska kunna genomföras krävs en förstärkning
+                  av bolagets kapitalstruktur genom en nyemission. En sådan skulle
+                  sannolikt inte kunna genomföras om inte den svenska staten, som
+                  är den största aktieägaren, deltar.
+                </p>
+                <p>
+                  Mot denna bakgrund anser utskottet att riksdagen bör bemyndiga
+                  regeringen att för statens räkning delta i den planerade nyemissionen
+                  genom att teckna aktier upp till ett belopp om högst 1,3 miljarder
+                  kronor och att vidta de övriga åtgärder som krävs för att genomföra
+                  statens deltagande i nyemissionen. Riksdagen bör också besluta
+                  om att för 2009 höja ramen för utgiftsområde 24 Näringsliv med
+                  1,3 miljarder kronor och att höja anslaget Kapitalinsatser i statliga
+                  bolag (1:21) med samma belopp.
+                </p>
+                <p>
+                  Utskottets ställningstagande innebär att riksdagen bör avslå
+                  motion 2008/09:Fi19 (mp), i vilken regeringens förslag avvisas.
+                  När det gäller yrkandet i motionen om att riksdagen ska bemyndiga
+                  regeringen att sälja statens andel i SAS vill utskottet påpeka
+                  att regeringen redan för närvarande har en sådan möjlighet. Enligt
+                  budgetlagen (26 §) gäller nämligen, som redovisats, att regeringen
+                  får besluta om försäljning av aktier i ett företag där staten
+                  har mindre än hälften av rösterna för samtliga aktier, om inte
+                  riksdagen bestämt annat. När det gäller SAS finns inget sådant
+                  tidigare beslut av riksdagen. Även motionens båda yrkanden om
+                  försäljning av SAS bör avslås av riksdagen.
+                </p>
+                <p>
+                  Näringsutskottet förutsätter att regeringen fortlöpande håller
+                  utskottet underrättat om utvecklingen i SAS. Utskottet vill ha
+                  löpande information om utfallet av arbetet med affärsplanen och
+                  den effektivisering och kostnadsminskning som ingår i denna plan.
+                </p>
+                <p rend="justeringsdatum">
+                  Stockholm den 27 februari 2009
+                </p>
+                <p>
+                  På näringsutskottets vägnar
+                </p>
+                <p rend="ordforanden_">
+                  Karin Pilsäter
+                </p>
+                <p rend="deltagare_">
+                  Följande ledamöter har deltagit i beslutet: Karin Pilsäter (fp),
+                  Tomas Eneroth (s), Björn Hamilton (m), Hans Rothenberg (m), Carina
+                  Adolfsson Elgestam (s), Marie Weibull Kornias (m), Staffan Anger
+                  (m), Kent Persson (v), Per Bolund (mp), Cecilie Tenfjord-Toftby
+                  (m), Karin Granbom Ellison (fp) och Carina Hägg (s).
+                </p>
+              </div>
+              <div type="html-avvikandemeningar">
+                <p xml:id="IDAHNRNB" rend="AvsnittsRubrik">
+                  Avvikande mening
+                </p>
+                <div type="html-rubrikavvikandemening">
+                  <table>
+                    <row>
+                      <cell xml:id="IDALNRNB">
+                        <p rend="enavvikandemening">
+                          Nyemission i SAS AB (mp)
+                        </p>
+                      </cell>
+                    </row>
+                    <row>
+                      <cell>
+                        <p>
+                          Per Bolund (mp) anför:
+                        </p>
+                      </cell>
+                    </row>
+                  </table>
+                  <p>
+                    Jag anser, i likhet med vad som anförs i motion 2008/09:Fi19
+                    (mp), att riksdagen bör avslå propositionen. Syftet med den föreslagna
+                    nyemissionen är att SAS ska klara att göra neddragningar och anpassa
+                    verksamheten till lägre efterfrågan. Den affärsplan som bolaget
+                    presenterat för att klara neddragningarna medför stora ekonomiska
+                    risker, och det är inte säkert att besparingsplanerna kommer att
+                    lyckas. SAS har tidigare presenterat liknande planer som misslyckats.
+                  </p>
+                  <p>
+                    SAS är ett bolag som länge haft stora ekonomiska problem. Flygindustrin
+                    står också inför stora strukturella problem i form av stora och
+                    växande andelar av klimatutsläppen i Sverige och världen. Behovet
+                    av flygresor på kortare och medellånga distanser kommer att minska
+                    när snabba tågförbindelser byggs ut i Sverige och världen. Det
+                    är av högsta vikt att vara försiktig och varsam med skattemedel,
+                    och staten bör inte ta på sig affärsrisker om det inte finns synnerliga
+                    skäl till detta.
+                  </p>
+                  <p>
+                    Riksdagen bör i stället för att bemyndiga regeringen att delta
+                    i en nyemission uppmana regeringen att sälja statens andel i SAS.
+                    Miljöpartiet har tidigare i samband med behandlingen av regeringens
+                    proposition om försäljning av vissa statliga bolag (mot. 2006/07:N12)
+                    föreslagit att SAS ska säljas. Partiet menade då att det är svårt
+                    att se någon samhällspolitisk nytta med att staten äger flygbolag.
+                    Tidigare när verksamheten var ny och det var monopol åtminstone
+                    på inrikesflyget fanns anledningar till statligt ägande. Nu är
+                    flygtrafiken konkurrensutsatt, och det statliga ägandet kan snarare
+                    vara en hämsko när det gäller att reglera och ställa hårdare miljökrav
+                    på flygtrafiken. Om en försäljning av statens andel i SAS hade
+                    genomförts våren 2007, hade frågan om att nu delta i en nyemission
+                    inte varit aktuell. Jag menar att det var fel av regeringen att
+                    inte då ta tillfället i akt och sälja statens andel i SAS.
+                  </p>
+                  <p>
+                    Staten bör i huvudsak inte äga företag som finns på fungerande
+                    konkurrensutsatta marknader. Att delta i nyemissionen är förenat
+                    med stora affärsrisker, och jag ser inget skäl till att staten
+                    i det här läget ska äventyra skattemedel i onödan. I stället bör
+                    regeringen aktivt arbeta för att hitta en ny ägare till SAS och
+                    sälja statens andel i bolaget. Det Sverige behöver investera i
+                    nu är förnybar energi, hållbar transportinfrastruktur såsom spårväg
+                    och järnväg samt energieffektiviseringar. Sådana investeringar
+                    är betydligt viktigare än att fortsätta hålla ett flygbolag under
+                    armarna.
+                  </p>
+                  <p>
+                    Sammanfattningsvis står jag och Miljöpartiet fast vid att SAS
+                    bör säljas. Riksdagen bör alltså avslå regeringens proposition
+                    och i stället uppmana regeringen att snarast möjligt inleda en
+                    försäljning av SAS. Det finns nu inga skäl till ett statligt ägande
+                    av flygbolag. Riksdagen bör således bifalla motion 2008/09:Fi19
+                    (mp).
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

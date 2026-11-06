@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200506_MJU_0007">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sade nej till motioner om skogsvård från allmänna motionstiden 2005.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Motioner om skogspolitik (MJU7)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Avslag på samtliga motioner.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag till beslut</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GT0987</idno>
+              <title>2006-03-15</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">87</biblScope>
+              <note type="display-reference">2006-03-15</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GT0983</idno>
+              <title>2006-03-09</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">83</biblScope>
+              <note type="display-reference">2006-03-09</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GT02MJ279</idno>
+              <title>Viltfoderproduktion</title>
+              <title type="sub">av Bertil Kjellberg (M)</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">MJ279</biblScope>
+              <note type="display-reference">motion 2005/06:MJ279 Viltfoderproduktion</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GT02MJ449</idno>
+              <title>Skog till nytta för alla</title>
+              <title type="sub">av Åsa Domeij m.fl. (MP, -)</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">MJ449</biblScope>
+              <note type="display-reference">motion 2005/06:MJ449 Skog till nytta för alla</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GT02MJ519</idno>
+              <title>En liberal jordbruks-, skogs- och fiskepolitik</title>
+              <title type="sub">av Anita Brodén m.fl. (FP)</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">MJ519</biblScope>
+              <note type="display-reference">motion 2005/06:MJ519 En liberal jordbruks-, skogs- och fiskepolitik</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GT02MJ595</idno>
+              <title>Hållbart skogsbruk</title>
+              <title type="sub">av Björn von der Esch m.fl. (KD)</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">MJ595</biblScope>
+              <note type="display-reference">motion 2005/06:MJ595 Hållbart skogsbruk</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GT02Ub373</idno>
+              <title>Efter Gudrun - behovet av en forskningsstudie med långt tidsperspektiv</title>
+              <title type="sub">av Maria Larsson (KD)</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">Ub373</biblScope>
+              <note type="display-reference">motion 2005/06:Ub373 Efter Gudrun - behovet av en forskningsstudie med långt tidsperspektiv</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2006-03-07">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2006-03-07">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2006-03-01">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2006-03-01">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2006-03-01">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2006-03-01">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-02-21">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-02-21">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-02-02">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-02-02">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2006-03-15">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2006-03-15">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-03-09">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-03-09">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-03-08">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-03-08">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-03-07">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-03-07">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Miljö- och jordbruksutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2005/06:MJU7
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Skogspolitik - särskild ordning
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDABZ4JC" rend="AvsnittsRubrik">
+            Sammanfattning
+          </p>
+          <p>
+            I detta betänkande behandlas ett antal motioner från allmänna
+            motionstiden 2005 som rör vissa skogsfrågor. Motionerna tar upp
+            förslag som utskottet har behandlat i tidigare betänkanden under
+            mandatperioden. Utskottet avstyrker i särskild ordning samtliga
+            motioner.
+          </p>
+          <p>
+            I betänkandet finns fyra särskilda yttranden.
+          </p>
+          <p xml:id="IDALZ4JC" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Skogsfrågor som har behandlats tidigare under mandatperioden
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motionerna 2005/06:Ub373, 2005/06:MJ279, 2005/06:MJ449
+                  yrkandena 1, 5, 14-16, 19-22, 24, 27, 28, 32-34, 51, 53, 54 och
+                  60, 2005/06:MJ519 yrkandena 17 och 18 samt 2005/06:MJ595 yrkandena
+                  1, 5, 10 och 13.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 21 februari 2006
+          </p>
+          <p>
+            På miljö- och jordbruksutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Catharina Elmsäter-Svärd
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Catharina Elmsäter-Svärd
+            (m), Åsa Domeij (mp), Sinikka Bohlin (s), Alf Eriksson (s), Lennart
+            Fremling (fp), Rune Berglund (s), Rolf Lindén (s), Christina Axelsson
+            (s), Lars Lindblad (m), Carina Ohlsson (s), Jan Andersson (c),
+            Jan-Olof Larsson (s), Bengt-Anders Johansson (m), Christin Hagberg
+            (s), Anita Brodén (fp), Björn von der Esch (kd) och Sven-Erik
+            Sjöstrand (v).
+          </p>
+          <p xml:id="IDAW24JC" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            I betänkandet behandlas motioner från allmänna motionstiden 2005
+            som rör vissa skogsfrågor. Motionerna tar upp förslag som utskottet
+            har tagit ställning till och avstyrkt i tidigare betänkanden under
+            mandatperioden. Utskottet behandlar nu i särskild ordning dessa
+            motioner.
+          </p>
+          <p xml:id="IDA324JC" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p>
+            De i bilagan upptagna motionsförslagen rör förslag som utskottet
+            tidigare under mandatperioden har behandlat och avstyrkt i betänkandena
+            2003/04:MJU16 Uppföljning av skogspolitiken, 2004/05:MJU9 Ändringar
+            i skogsvårdslagen m.m. samt 2005/06:MJU3 Svenska miljömål - ett
+            gemensamt uppdrag m.m. Utskottet vidhåller tidigare bedömningar
+            och finner inte skäl att nu ta upp dessa frågor till förnyad behandling.
+            Samtliga motionsyrkanden avstyrks.
+          </p>
+          <p xml:id="IDAE34JC" rend="AvsnittsRubrik">
+            Särskilda yttranden
+          </p>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDAI34JC">
+                  <p rend="ettsarskiltyttrande">
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="ettsarskiltyttrande">
+                    Skogsfrågor som har behandlats tidigare under mandatperioden
+                    (m)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p>
+                    Catharina Elmsäter-Svärd (m), Lars Lindblad (m) och Bengt-Anders
+                    Johansson (m) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Utskottet har inom ramen för motionshantering i särskild ordning
+              avstått från att närmare behandla de motioner som finns upptagna
+              i bilagan. I fråga om de motionsförslag som vi anser att utskottet
+              borde ha tillstyrkt avstår vi från att nu reservera oss med hänsyn
+              till behandlingen i särskild ordning.
+            </p>
+          </div>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDAH54JC">
+                  <p rend="ettsarskiltyttrande">
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="ettsarskiltyttrande">
+                    Skogsfrågor som har behandlats tidigare under mandatperioden
+                    (fp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p>
+                    Lennart Fremling (fp) och Anita Brodén (fp) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Utskottet har inom ramen för motionshantering i särskild ordning
+              avstått från att närmare behandla de motioner som finns upptagna
+              i bilagan. I fråga om de motionsförslag som vi anser att utskottet
+              borde ha tillstyrkt avstår vi från att nu reservera oss med hänsyn
+              till behandlingen i särskild ordning.
+            </p>
+          </div>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDAHJAKC">
+                  <p rend="ettsarskiltyttrande">
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="ettsarskiltyttrande">
+                    Skogsfrågor som har behandlats tidigare under mandatperioden
+                    (kd)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p>
+                    Björn von der Esch (kd) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Utskottet har inom ramen för motionshantering i särskild ordning
+              avstått från att närmare behandla de motioner som finns upptagna
+              i bilagan. I fråga om de motionsförslag som jag anser att utskottet
+              borde ha tillstyrkt avstår jag från att nu reservera mig med hänsyn
+              till behandlingen i särskild ordning.
+            </p>
+          </div>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDAELAKC">
+                  <p rend="ettsarskiltyttrande">
+                    4.
+                  </p>
+                </cell>
+                <cell>
+                  <p rend="ettsarskiltyttrande">
+                    Skogsfrågor som har behandlats tidigare under mandatperioden
+                    (mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell/>
+                <cell>
+                  <p>
+                    Åsa Domeij (mp) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Utskottet har inom ramen för motionshantering i särskild ordning
+              avstått från att närmare behandla de motioner som finns upptagna
+              i bilagan. I fråga om de motionsförslag som jag anser att utskottet
+              borde ha tillstyrkt avstår jag från att nu reservera mig med hänsyn
+              till behandlingen i särskild ordning.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDABNAKC" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAENAKC" rend="rubrik2">
+              Motioner från allmänna motionstiden hösten 2005
+            </p>
+            <p rend="behandlatdokument_">
+              2005/06:Ub373 av Maria Larsson (kd):
+            </p>
+            <p type="html-endastettyrkande">
+              Riksdagen tillkännager för regeringen som sin mening vad i motionen
+              anförs om att tillsätta en forskargrupp som långsiktigt kan följa
+              och dokumentera vad som följer i stormen Gudruns spår.
+            </p>
+            <p rend="behandlatdokument_">
+              2005/06:MJ279 av Bertil Kjellberg (m):
+            </p>
+            <p type="html-endastettyrkande">
+              Riksdagen tillkännager för regeringen som sin mening vad i motionen
+              anförs om att i samband med översynen av skogsvårdslagen bör behovet
+              av viltfoderproduktion beaktas.
+            </p>
+            <p rend="behandlatdokument_">
+              2005/06:MJ449 av Åsa Domeij m.fl. (mp, -):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om ett erkännande av skogens många värden.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    5.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen beslutar ändra SVL 1 § så att miljömålet generellt
+                    skall blir överordnat produktionsmålet enligt motionens intentioner.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    14.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen beslutar om ändring i lagstiftningen så att kraven
+                    på generell hänsyn ökar till den rådgivningsnivå som tillämpas
+                    av skogsvårdsorganisationen.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    15.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om behovet av aktiva åtgärder för att öka lövträdsandelen
+                    i våra skogar.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    16.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen beslutar om ändring i lagstiftningen så att grön skogsbruksplan
+                    eller motsvarande beskrivnings- och handlingsplan blir obligatoriskt
+                    för godkännande av avverkningsanmälan.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    19.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om markberedning på känsliga marker.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    20.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om att skogsbruk bör bedrivas så att naturlig
+                    föryngring kan tillämpas i största möjliga mån.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    21.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen begär att regeringen lägger fram förslag angående rapporteringsplikt
+                    för skogsbrukaren om utförda åtgärder samt resultat av återväxt
+                    enligt motionens intentioner.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    22.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om röjning och underröjning och anmälan av gallring.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    24.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen begär att regeringen lägger fram förslag till ändring
+                    i lagstiftningen så att bekämpningsmedel i skogen och kemisk behandling
+                    av skogsplantor förbjuds.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    27.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om en skogslogistik som syftar till att minska
+                    det totala transportarbetet.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    28.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen beslutar att skyddsdikning görs tillståndspliktig samt
+                    att det generella dikningsförbud som nu gäller i södra Sverige
+                    skall gälla överallt.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    32.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om att arealerna med naturvårdsbränning och
+                    hyggesbränning måste öka.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    33.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om behovet av att arbetet med identifiering
+                    och skydd av nyckelbiotoper fortsätter.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    34.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om ökad satsning på ädellöv och löv genom forskning,
+                    information och stöd.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    51.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om att skogens rekreationsvärde nära tätorter
+                    är så viktigt att det bör prioriteras före produktion.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    53.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om behovet av bredare kunskaper inom skogsvårdsorganisationen
+                    och på länsstyrelser samt ökat samarbete dem emellan.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    54.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om vikten av en fortsatt regional förankring
+                    inom Skogsstyrelsen.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    60.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    i motionen anförs om behovet av fler kvinnor inom skogsnäringen.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="behandlatdokument_">
+              2005/06:MJ519 av Anita Brodén m.fl. (fp):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    17.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad i motionen
+                    anförs om skogens potential som energi- och råvarukälla.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    18.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad i motionen
+                    anförs om inrättandet av ett nationellt skogsprogram.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="behandlatdokument_">
+              2005/06:MJ595 av Björn von der Esch m.fl. (kd):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad i motionen
+                    anförs om behovet av en brett upplagd utredning som tar ett helhetsgrepp
+                    på de långsiktiga konsekvenserna av stormkatastrofen i början
+                    av år 2005.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    5.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen begär att regeringen lägger fram förslag om en "katastrofparagraf"
+                    i skogsvårdslagen, i vilken det tydligt bör framgå att bestämmelserna
+                    i skogsvårdslagen och skogsvårdsförordningen tillfälligt kan upphävas
+                    i en katastrofsituation, samt vilken myndighet som skall fatta
+                    dessa beslut.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    10.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad i motionen
+                    anförs om att ramverket för skogscertifiering inte skall tillåta
+                    ett certifieringsmonopol utan garantera frihet att etablera nya
+                    certifieringssystem.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    13.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad i motionen
+                    anförs om att Sverige skall förhindra sådana beslut som innebär
+                    att skogspolitiken blir ett EU-gemensamt politikområde, även om
+                    vårt land skulle bli ensamt bland medlemsländerna om denna uppfattning.
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

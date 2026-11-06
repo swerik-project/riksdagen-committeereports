@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_UU_0001">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen godkände regeringens förslag i budgetpropositionen om anslag till internationell samverkan på totalt 1 162 miljoner kronor för 2002. De största anslagen rör bidrag till internationella organisationer (500 miljoner kronor), Nordiska ministerrådet (297 miljoner kronor) och fredsfrämjande verksamhet (152 miljoner kronor).</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Anslag till internationell samverkan (UU1)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0945</idno>
+              <title>2001-12-11</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">45</biblScope>
+              <note type="display-reference">2001-12-11</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0944</idno>
+              <title>2001-12-10</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">44</biblScope>
+              <note type="display-reference">2001-12-10</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K103</idno>
+              <title>2001/02:103</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">103</biblScope>
+              <note type="display-reference">2001/02:103</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GP031</idno>
+              <title>Budgetpropositionen för 2002</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">1</biblScope>
+              <note type="display-reference">proposition 2001/02:1 Budgetpropositionen för 2002</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02U343</idno>
+              <title>Utgiftsområde 5 Internationell samverkan</title>
+              <title type="sub">av Göran Lennmarker m.fl. (M)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">U343</biblScope>
+              <note type="display-reference">motion 2001/02:U343 Utgiftsområde 5 Internationell samverkan</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02U351</idno>
+              <title>Internationell samverkan</title>
+              <title type="sub">av Holger Gustafsson m.fl. (KD)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">U351</biblScope>
+              <note type="display-reference">motion 2001/02:U351 Internationell samverkan</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2001-11-29">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2001-11-22">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2001-11-22">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2001-11-22">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2001-11-15">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2001-11-15">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2001-10-16">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2001-12-11">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2001-12-11">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2001-12-11">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2001-12-11">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2001-12-10">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2001-12-10">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2001-12-07">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2001-12-07">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2001-12-06">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2001-12-06">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Utrikesutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:UU1
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Utgiftsområde 5 Internationell samverkan
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning Utskottet behandlar i detta betänkande regeringens
+            framställning i proposition 2001/02:1 avseende anslagsäskanden
+            för år 2002 under utgiftsområde 5 Internationell samverkan. Regeringen
+            föreslår att totalt 1 162 miljoner kronor anvisas till anslag
+            inom detta utgiftsområde. I betänkandet tillstyrker utskottet
+            regeringens förslag till medelsramar för de olika anslagen. Vidare
+            tillstyrker utskottet regeringens förslag till bemyndiganderam
+            vad gäller anslag 5:6 Fredsfrämjande verksamhet. Utskottet tar
+            även ställning till två motionsyrkanden som rör förslag till anslagsförändringar
+            inom utgiftsområdet. Båda motionsyrkandena avstyrks. Till betänkandet
+            är fogat två reservationer.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Bemyndigande att besluta
+            om bidrag för fredsfrämjande verksamhet Riksdagen bemyndigar regeringen
+            att under 2002, i fråga om ramanslaget 5:6 Fredsfrämjande verksamhet,
+            besluta om bidrag som inklusive tidigare åtaganden innebär utgifter
+            på högst 155 000 000 kr efter år 2002. Därmed bifaller riksdagen
+            proposition 2001/02:1 utgiftsområde 5 punkt 1. 2. Anslagen för
+            2002 under utgiftsområde 5 Internationell samverkan Riksdagen
+            anvisar, med de anslagsvillkor utskottet angivit, för budgetåret
+            2002 anslag inom utgiftsområde 5 Internationell samverkan i enlighet
+            med kolumnen Utskottets förslag i efterföljande specifikation.
+            Därmed bifaller riksdagen proposition 2001/02:1 utgiftsområde
+            5 punkt 2 samt avslår motionerna 2001/02:U343 yrkande 4 och 2001/02:U351
+            yrkande 13. Reservation 1 (m) Reservation 2 (kd) Stockholm den
+            22 november 2001 På utrikesutskottets vägnar Viola Furubjelke
+            Följande ledamöter har deltagit i beslutet: Viola Furubjelke (s),
+            Göran Lennmarker (m), Sören Lekberg (s), Berndt Ekholm (s), Lars
+            Ohly (v), Bertil Persson (m), Carina Hägg (s), Liselotte Wågö
+            (m), Agneta Brendt (s), Marianne Jönsson (s), Murad Artin (v),
+            Sten Tolgfors (m), Marianne Samuelsson (mp), Marianne Andersson
+            (c), Karl-Göran Biörsmark (fp), Fanny Rizell (kd) och Rosita Runegrund
+            (kd). Specifikation avseende förslag till beslut om anslag under
+            utgiftsområde 5 Internationell samverkan Utskottets förslag överensstämmer
+            med regeringens förslag till anslagsfördelning. Tusental kronor
+            -------------------------------------------------------------
+            Anslag (anslagstyp) UtskottetsRes Res förslag (m)[1] (kd) -------------------------------------------------------------
+            5:1 Nordiskt samarbete (ram) 1 556 -------------------------------------------------------------
+            5:2 Ekonomiskt bistånd till 5 756 svenska medborgare i utlandet
+            m.m. samt diverse kostnader för rättsväsendet (ram) -------------------------------------------------------------
+            5:3 Bidrag till vissa 500 internationella 435 organisationer (ram)
+            -------------------------------------------------------------
+            5:4 Nordiska ministerrådet (ram) 296 771 -------------------------------------------------------------
+            5:5 Organisationen för ekonomiskt 27 115 samarbete och utveckling
+            (OECD) (ram) -------------------------------------------------------------
+            5:6 Fredsfrämjande verksamhet 151 [2] (ram) 711 -------------------------------------------------------------
+            5:7 Svenska institutet (ram) 64 257 6 000 -------------------------------------------------------------
+            5:8 Övrig information om Sverige 9 266 i utlandet (ram) -------------------------------------------------------------
+            5:9 Utredningar och andra 1 659 insatser på det utrikespolitiska
+            området (ram) -------------------------------------------------------------
+            5:10Information och studier om 9 000 9 4 säkerhetspolitik och
+            000 000 fredsfrämjande utveckling (ram) -------------------------------------------------------------
+            5:11Bidrag till Stockholms 22 016 internationella fredsforskningsinstitut
+            (SIPRI) (obet.) -------------------------------------------------------------
+            5:12Forskning till stöd för 11 706 nedrustning och internationell
+            säkerhet (ram) -------------------------------------------------------------
+            5:13Utrikespolitiska Institutet 10 826 (obet.) -------------------------------------------------------------
+            5:14Forskningsverksamhet av 5 978 särskild utrikes- och säkerhetspolitisk
+            betydelse (ram) -------------------------------------------------------------
+            5:15Inspektionen för strategiska 20 310 produkter (ram) -------------------------------------------------------------
+            5:16Europainformation m.m. (ram) 16 800 10 000 -------------------------------------------------------------
+            5:17Föreningen Norden (ram) 7 128 -------------------------------------------------------------
+            Summa 1 162 290 -------------------------------------------------------------
+            **FOOTNOTES** [1]: Moderaterna föreslår i motion 2001/02:U343
+            att anslaget för Utrikesförvaltningen återförs till utg. omr.
+            5 (yrkande 1) och att det anslaget anvisas 1 872 miljoner kr (yrkande
+            2). Yrkandena behandlas inte i detta betänkande. [2]: Moderaterna
+            föreslår i motion 2001/02:U343 yrkande 3 att anslaget skall flyttas
+            till utg.omr 7. Yrkandet behandlas inte i detta betänkande.
+          </p>
+          <p>
+            2001/02 UU1 Redogörelse för ärendet Bakgrund Med anledning av
+            förslag i den ekonomiska vårpropositionen år 2001 godkände riksdagen
+            att fr.o.m. år 2002 flytta de delar av utgiftsområde 5 som rör
+            utrikesförvaltningen till utgiftsområde 1, anslaget 90:5 Regeringskansliet
+            m.m. (prop. 2000/01:100, bet. 2000/01:KU23, rskr. 2000/01:273276).
+            Utrikesutskottet kommer därför framdeles att behandla de frågor
+            som rör utrikesförvaltningen i ett yttrande till konstitutionsutskottet.
+            Detta betänkande avhandlar således endast internationell samverkan,
+            som omfattar politikområdet Utrikes- och säkerhetspolitik. Endast
+            två motioner rörande utgiftsområde 5 har väckts, vars yrkanden
+            behandlas under Utskottets överväganden. Propositionens huvudsakliga
+            innehåll Allmänt om utgiftsområdet Politikområdet Utrikes- och
+            säkerhetspolitik består av 17 anslag fördelade på följande delområden:
+            Internationella organisationer, Fredsfrämjande verksamhet, Information
+            om Sverige i utlandet, Nedrustning och säkerhetspolitiska frågor
+            samt Övriga utrikespolitiska frågor. Politikområdets verksamhet
+            omfattar frågor som gäller Sveriges förhållande till och överenskommelser
+            med andra stater och internationella organisationer. Regeringen
+            anför i propositionen att målet för politikområdet är att säkerställa
+            Sveriges intressen i förbindelserna med andra länder. Två myndigheter,
+            Svenska institutet och Inspektionen för strategiska produkter,
+            finansieras inom utgiftsområdet. Regeringens förslag till ram
+            för utgiftsområde 5 för år 2002 är 1 162 miljoner kronor. Internationella
+            organisationer och fredsfrämjande verksamhet Det delområde som
+            benämns Internationella organisationer omfattar Sveriges obligatoriska
+            bidrag till vissa internationella organisationer, framför allt
+            Förenta nationerna, Europarådet, Organisationen för säkerhet och
+            samarbete i Europa (OSSE), den gemensamma utrikes- och säkerhetspolitiken
+            inom EU (GUSP), Nordiska ministerrådet och Organisationen för
+            ekonomiskt samarbete och utveckling (OECD). Delområdet Fredsfrämjande
+            verksamhet avser deltagande i fredsfrämjande insatser, främst
+            inom ramen för FN och OSSE. FN är på olika sätt engagerat i fredsfrämjande
+            och krishantering runt om i världen. Regeringen framhåller i propositionen
+            att omfattningen av FN:s fredsfrämjande insatser har utvidgats.
+            Mandaten har stärkts och breddats och inbegriper delvis nya arbetsuppgifter,
+            t.ex. i Kosovo och Östtimor. FN:s behov av att snabbare än hittills
+            kunna erhålla militära och civila resurser för krisinsatser kvarstår.
+            Trots viktiga initiativ för att stärka FN:s fredsfrämjande arbete
+            brottas verksamheten med stora politiska och ekonomiska problem.
+            I propositionen betonas att konfliktförebyggande är en högt prioriterad
+            uppgift för Sverige. Information om Sverige i utlandet Regeringen
+            framhåller i propositionen att de statliga insatserna för information
+            om Sverige i utlandet har som mål att ge Sverige ett gott anseende,
+            att skapa förtroende för vårt land som samarbetspartner och därigenom
+            främja svenska intressen och bidra till tillväxt och sysselsättning
+            i Sverige. I propositionen understryks att de svenska utlandsmyndigheterna
+            utgör regeringens främsta instrument för att sprida information
+            om Sverige och svensk kultur i andra länder. Detta arbete utförs
+            i samarbete med Svenska institutet. Svenska institutets verksamhet
+            syftar till att sprida kunskap om Sverige i utlandet och handha
+            utbyte med andra länder bl.a. avseende kultur, utbildning och
+            forskning. Medel från anslaget Övrig information om Sverige i
+            utlandet fördelas dels på de svenska utlandsmyndigheterna för
+            informations-, kultur- och främjandeverksamhet, dels till Nämnden
+            för Sverigefrämjande i utlandet (NSU) för strategiska insatser.
+            Nedrustning och säkerhetspolitiska frågor Delområdet Nedrustning
+            och säkerhetspolitiska frågor omfattar de anslag vilka finansierar
+            information och forskning kring dylika frågor. I propositionen
+            framhålls bl.a. att det i internationella förhandlingar och nedrustningsarbete
+            krävs vetenskaplig sakkunskap, varför studier och utredningar
+            i dessa frågor fyller en viktig funktion. Ett annat syfte med
+            studierna är att öka allmänhetens kunskap och engagemang för nedrustning
+            och säkerhetspolitiska frågor. Övriga utrikespolitiska frågor
+            Inom utgiftsområde 5 återfinns även anslaget för Inspektionen
+            för strategiska produkter, som ansvarar för att kontrollera export
+            av krigsmateriel och strategiska produkter. Anslaget Europainformation
+            finansierar den EU-information som ges ut av UD:s press och informationsenhet.
+            Inom ramen för de övriga utrikespolitiska frågorna inom utgiftsområde
+            5 ligger tillika det statliga bidraget till Föreningen Nordens
+            verksamhet, vissa kostnader för Sveriges deltagande i det nordiska
+            samarbetet samt ekonomiskt bistånd till svenska medborgare i utlandet.
+          </p>
+          <p>
+            Utskottets överväganden Utskottets förslag i korthet Utskottet
+            föreslår att riksdagen antar regeringens förslag till medelsfördelning
+            inom utgiftsområde 5 Internationell samverkan. Samtidigt föreslår
+            utskottet att riksdagen bemyndigar regeringen att under 2002 få
+            ikläda staten ekonomiska förpliktelser som inklusive tidigare
+            gjorda åtaganden innebär utgifter på högst 155 miljoner kronor
+            efter år 2002 för ramanslaget 5:6 Fredsfrämjande verksamhet. Utskottet
+            avstyrker de i sammanhanget väckta motionerna om ändringar av
+            anslagsfördelningen inom utgiftsområdet. Jämför reservationerna
+            1 (m) och 2 (kd). Utskottet väljer i det följande att gå igenom
+            regeringens förslag till fördelning av medel inom utgiftsområde
+            5. För att nå fullständighet, redovisas samtliga anslag kortfattat,
+            dvs. även de anslag för vilka utskottet ej har kommentarer att
+            ge. Slutligen behandlas de två motioner som faller inom utgiftsområdet
+            samt propositionens förslag. Internationella organisationer Över
+            anslag 5:3, Bidrag till vissa internationella organisationer,
+            finansieras de obligatoriska avgifter som Sverige är folkrättsligt
+            bundet att betala för sitt medlemskap i ett flertal internationella
+            organisationer. De svenska bidragen till respektive organisation
+            styrs således av gällande fördelningsnycklar. Beträffande Förenta
+            nationerna (FN) kan noteras att bidragsskalorna för såväl FN:s
+            reguljära budget som för FN:s fredsbevarande insatser har fastställts
+            av generalförsamlingen. Sveriges bidragsandel i båda skalorna
+            uppgick år 2001 till 1,033 % och kommer för år 2002 att vara 1,035
+            %. Inom ramen för anslaget finansieras även Sveriges bidragsandel
+            till Organisationen för förbud mot kemiska vapen (OPCW), till
+            den förberedande kommissionen för upprättandet av Internationella
+            kontrollorganisationen under fördraget om fullständigt förbud
+            mot kärnsprängningar (CTBTO) samt till andra konventionsorgan.
+            Vidare täcks Sveriges bidragsandel för arbetet med att stärka
+            konventionen om förbud mot biologiska vapen samt obligatoriska
+            kostnader som uppkommit i samband med bl.a. internationella konventioners
+            uppföljnings- och granskningskonferenser. Vad gäller Sveriges
+            bidrag till Organisationen för säkerhet och samarbete i Europa
+            (OSSE) kan konstateras att två olika bidragsskalor tillämpas,
+            varav skalan för större missioner och projekt nyligen reviderats
+            och träder i kraft den 1 januari 2002. Sveriges andel i den skalan
+            kommer oförändrat att uppgå till 4,07 %. För den övriga gemensamma
+            budgeten till OSSE är den svenska bidragsandelen 3,55 %. Även
+            svenska kostnader för vissa delar av EU:s gemensamma utrikes-
+            och säkerhetspolitik (GUSP) belastar anslag 5:3. Det gäller kostnader
+            där nationell finansiering av gemensamma insatser fordras. Under
+            budgetåret 2002 kommer detta, enligt propositionen, främst att
+            röra sig om åtgärder för Satellitcentret i Spanien och Institutet
+            för säkerhetspolitiska studier i Frankrike, som båda syftar till
+            att stärka EU:s förmåga att uppfylla sina åtaganden på krishanteringsområdet.
+            Likaså finansieras Sveriges obligatoriska bidrag till Europarådet
+            och ytterligare ett tiotal organisationer under anslag 5:3. Från
+            anslag 5:4 betalas Sveriges andel till Nordiska ministerrådets
+            budget. I det budgetförslag som ministerrådet utarbetat för år
+            2002 uppgår budgeten till 774 miljoner danska kr. Budgeten fastställs
+            dock inte förrän i november 2001, då även en prisomräkning kommer
+            att ske. Sveriges andel är 34,3 %, varför regeringen beräknat
+            anslaget till 296 771 000 kr. Anslag 5:5 omfattar Sveriges obligatoriska
+            bidrag till Organisationen för ekonomiskt samarbete och utveckling
+            (OECD). På grund av upprättandet av en pensionsfond har den svenska
+            avgiften till OECD från år 2001 ökat med ett belopp i storleksordningen
+            35 miljoner franska franc. Anslaget omfattar tillika Sveriges
+            bidrag till andra organ som administreras av OECD, bl.a. det internationella
+            energiprogrammet (IEA), Europeiska transportministerkonferensen
+            (ECMT) och Centret för utbildningsforskning (CERI). För år 2002
+            föreslår regeringen att anslag 5:5 tilldelas 27 115 000 kr. Utskottet
+            kan konstatera att regeringen räknar med att kostnaderna för de
+            obligatoriska bidragen år 2002 till samtliga de organisationer
+            som ingår i anslag 5:3 kommer att uppgå till totalt 500 435 000
+            kr. Beträffande redovisningen för och presentationen av anslagen
+            5:3 och 5:4, kan noteras viss diskrepans mellan å ena sidan de
+            texter i propositionen som beskriver beräknad framtida kostnad
+            för Sverige för respektive organisation och å andra sidan de anslagsförslag
+            som redovisas. Exempelvis aviserar regeringen för anslag 5:5 ökade
+            utgifter för Sverige på ca 3,4 miljoner franska franc till följd
+            av en större ombyggnad av OECD:s lokaler samt att den svenska
+            avgiften till OECD ökar med ca 35 miljoner franska franc på grund
+            av inbetalningar till pensionsfonden. De budgetbelopp som beräknats
+            för 2002 och kommande två år har dock inte höjts i motsvarande
+            mån. Utskottet har samtidigt inhämtat uppgifter om att bidragen
+            till bl.a. OECD och Nordiska ministerrådet riskerar att bli högre
+            än vad som framgår av beräkningarna. Utskottet vill därför understryka
+            vikten av att tillräckliga ekonomiska resurser avsätts för att
+            Sverige till fullo skall kunna uppfylla sina åtaganden och utan
+            dröjsmål kunna betala in de medlemsavgifter till internationella
+            organisationer, som fastställts i gällande bidragsskalor. Det
+            skulle uppfattas som besvärande och ej i god ordning om nästa
+            års budget belastas av utgifter som redan nu hade kunnat förutses.
+            Fredsfrämjande verksamhet Anslag 5:6 finansierar fredsfrämjande
+            verksamhet, främst vad gäller deltagande med svensk personal i
+            internationella fredsfrämjande insatser. Regeringen framhåller
+            i propositionen att efterfrågan på svensk personal på senare år
+            har ökat från FN:s, OSSE:s, EU:s och andra organisationers sida.
+            Man räknar även med ytterligare krav på resurser till följd av
+            den snabba utvecklingen av EU:s försvars- och säkerhetspolitik
+            (ESDP). Anslaget för 2002 beräknas till 151 711 000 kr. Beträffande
+            utgiftsprognosen för innevarande budgetår noterar utskottet att
+            budgeten för fredsfrämjande insatser beräknas uppgå till 194 294
+            000 kr. Om så blir fallet skulle det innebära att hela anslagssparandet
+            på 44,8 miljoner kr måste utnyttjas. Det framgår emellertid inte
+            av budgetpropositionen exakt vad under året som är anledningen
+            till att det beviljade anslagsbeloppet för år 2001, 149 453 000
+            kr, visat sig vara otillräckligt. Utskottet ser detta som bristfällig
+            information och vill därför understryka vikten av att fortsättningsvis
+            i budgetpropositionen få en förklarande redovisning i de fall
+            då utfall eller utgiftsprognoser överstiger tidigare fattade anslagsbeslut.
+            Detta för att möjliggöra uppföljning och bättre kunna utvärdera
+            vilka resurser som behövs för kommande år. Utskottet har från
+            annat håll inhämtat att en del av förklaringen till att årets
+            beräknade utfall blir högre än prognostiserat beror på att lönekostnaderna
+            för militära insatser utomlands ökat. Fredsfrämjande verksamhet
+            och att aktivt kunna delta i utformningen av EU:s konfliktförebyggande
+            arbete är profilfrågor för Sverige i det internationella samarbetet.
+            Tillräckliga och realistiska resurser måste avsättas för denna
+            verksamhet för att Sverige med trovärdighet skall kunna genomdriva
+            och delta i fredsfrämjande aktiviteter. Finansiering av svensk
+            medverkan i internationella fredsfrämjande insatser sker även
+            genom utnyttjande av anslag inom utgiftsområde 6, Totalförsvar,
+            samt utgiftsområde 7, Internationellt bistånd. Utskottet har noterat
+            att reger-ingen avser att genomföra en översyn av samordningsmöjligheterna
+            av den fredsfrämjande verksamheten inom utgiftsområdena 5 och
+            7. De motioner vari yrkas att anslaget för fredsfrämjande verksamhet
+            skall flyttas eller slås ihop med anslag inom andra utgiftsområden
+            behandlas av konstitutionsutskottet. För internationella fredsfrämjande
+            insatser, ramanslaget 5:6, föreslås i propositionens punkt 1 att
+            regeringen under 2002 får ikläda staten förpliktelser som tillsammans
+            med tidigare gjorda utestående förpliktelser innebär utgifter
+            på högst 155 000 000 kr efter år 2002. Vad gäller utskottets möjligheter
+            att följa upp tidigare års utfall av ekonomiska åtaganden kan
+            noteras att det först blir möjligt i nästa års budgetbehandling,
+            på grund av att det nuvarande systemet med bemyndiganden infördes
+            först för budgetåret 2001. Utskottet kan konstatera att det äskade
+            anslaget för år 2002 av naturliga skäl endast kan baseras på en
+            uppskattning av vilka resurser som kommer att efterfrågas och
+            har förståelse för svårigheten i detta. Mot bakgrund av vad som
+            anförts i propositionen anser utskottet dock att den föreslagna
+            utgiftsnivån är rimlig. Utskottet tillstyrker därmed propositionens
+            punkt 1 om bemyndigande att under år 2002, i fråga om ramanslaget
+            5:6 Fredsfrämjande verksamhet, besluta om bidrag som inklusive
+            tidigare gjorda åtaganden innebär utgifter på högst 155 000 000
+            kr efter år 2002. Information om Sverige i utlandet Anslag 5:8
+            avser främjande- och informationsinsatser som i första hand utförs
+            av de svenska utlandsmyndigheterna. Anslaget används även till
+            journalistinbjudningar, personutbyte, seminarier m.m. Även den
+            verksamhet som bedrivs av Nämnden för Sverigefrämjande i utlandet
+            (NSU) finansieras via anslaget. Regeringen föreslår att 3 000
+            000 kr överförs till anslaget 5:7, Svenska institutet, varför
+            anslaget 5:8 beräknats till 9 266 000 kr. Anslag 5:7 finansierar
+            de kostnader Svenska institutet (SI) har för att bedriva sin informationsverksamhet
+            och för att främja utbyte och samarbete inom bl.a. utbildnings-
+            och kulturområdet. Anslaget omfattar även Svenska kulturhuset
+            i Paris. Svenska institutet har därutöver särskilda uppdrag och
+            tilldelas anslag från andra utgiftsområden i statsbudgeten (utgiftsområdena
+            7, 16 och 17). Regeringen redovisar i propositionen argument för
+            att tillföra SI:s verksamhet 4 000 000 kr. Höjningen föreslås
+            ske genom en omfördelning inom utgiftsområde 5 där, som framgår
+            ovan, 3 000 000 kr tas från anslag 5:8 Övrig information om Sverige
+            i utlandet och 1 000 000 kr överförs från anslaget 5:16 Europainformation
+            m.m. Därmed föreslås anslag 5:7 uppgå till 64 257 000 kr för år
+            2002. Utskottet noterar i sammanhanget att vissa synpunkter framkommit
+            från Riksrevisionsverket på underlaget för årsredovisningen för
+            Svenska institutet samt att ett flertal av balansposterna innehöll
+            felaktigheter och brister av olika slag. Inga andra direkta invändningar
+            framfördes dock i revisionsberättelsen. Synpunkterna har fått
+            till resultat att SI fortsatt sin strävan att förbättra de ekonomiadministrativa
+            rutinerna, och enligt utskottets uppgifter avser Svenska institutet
+            att samtidigt förbättra rutinerna vad gäller återrapportering.
+            Nedrustning och säkerhetspolitiska frågor Via anslag 5:9 Utredningar
+            och andra insatser på det utrikespolitiska området ges stöd till
+            verksamhet som främjar svensk utrikespolitik, bl.a. studier och
+            utredningar som har en direkt påverkan på nedrustnings- och icke-spridningsarbetet
+            och verksamhet som ökar allmänhetens engagemang och förståelse
+            för dessa frågor. För år 2002 har anslaget beräknats till 1 659
+            000 kr. Anslag 5:10 Information och studier om säkerhetspolitik
+            och fredsfrämjande utveckling finansierar stöd till organisationer
+            och stiftelser i syfte att främja studier och information om fredsfrämjande
+            och säkerhetspolitiska frågor. Utskottet noterar att, för budgetåret
+            2001, har beslut fattats om stöd till 15 organisationer och 78
+            projekt. Anslaget för år 2002 beräknar regeringen uppgå till 9
+            000 000 kr. Anslag 5:11 finansierar bidrag till Stockholms internationella
+            fredsforskningsinstitut (SIPRI) för att främja forskning i konflikt-
+            och samarbetsfrågor. Utskottet har uppmärksammat regeringens önskan
+            om att SIPRI säkerställer en högre grad av extern finansiering
+            för att på så vis minska beroendet av statliga medel. Även frågan
+            om samfinansiering med andra regeringar har diskuterats mot bakgrund
+            av att SIPRI är ett internationellt institut. För år 2002 har
+            anslaget beräknats till 22 016 000 kr. Anslag 5:12, Forskning
+            till stöd för nedrustning och internationell säkerhet, syftar
+            till att bidra med teknisk och vetenskaplig sakkunskap för att
+            Sverige skall kunna delta aktivt i det internationella arbetet
+            inom nedrustning, icke-spridning och rustningskontroll. För år
+            2002 anhåller regeringen om 11 706 000 kr för anslaget. Anslag
+            5:13 finansierar Utrikespolitiska Institutet (UI), vars verksamhet
+            bl.a. syftar till att främja intresset för internationella frågor
+            samt att genom forskning och information öka allmänhetens kunskap
+            om dessa frågor. Utrikespolitiska Institutets finansiella situation
+            är svår. Behovet av ökad extern finansiering av institutets verksamhet
+            har därför diskuterats, och Riksbankens Jubileumsfond har uttryckt
+            intresse av att eventuellt ge stöd till forskningssatsningar vid
+            UI. Jubileumsfonden har låtit utföra en utvärdering av institutets
+            nuvarande verksamhet och en arbetsgrupp bestående av representanter
+            för bl.a. Jubileumsfonden, UI och UD har på fondens uppdrag utarbetat
+            en rapport om en möjlig reformering av verksamheten. UI erhöll
+            för år 2001 en tillfällig anslagsökning på 1 200 000 kr, vilket
+            finansierades genom att motsvarande summa omfördelades från anslaget
+            5:14 Forskningsverksamhet av särskild utrikes- och säkerhetspolitisk
+            betydelse. Detta belopp föreslås från år 2002 återföras till anslaget
+            5:14, varpå anslaget 5:13 för år 2002 beräknas bli 10 826 000
+            kr. Anslaget 5:14 finansierar direktstöd till enskilda forskare
+            och forskningsprogrammet på UI, som bedrivs enligt särskilt avtal
+            mellan UI och staten. Viss del av anslaget används till forskning
+            om europeisk säkerhet, vilket sker i samarbete med olika forskningsinstitut.
+            I propositionen beräknas anslaget uppgå till 5 978 000 kr. Övriga
+            utrikespolitiska frågor Inom ramen för Övriga utrikespolitiska
+            frågor återfinns bl.a. anslaget 5:1 Nordiskt samarbete. Anslaget
+            används till kostnader för Sveriges deltagande i samarbetet inom
+            ramen för bl.a. Nordiska ministerrådet och Nordiska samarbetskommittén
+            men täcker även andra former av nordiskt samarbete, däribland
+            det svensk-norska samarbetet. (Sveriges bidrag till Nordiska ministerrådets
+            budget ligger däremot under anslag 5:4.) För år 2002 anhåller
+            regeringen om 1 556 000 kr för anslaget 5:1. Anslag 5:2 Ekonomiskt
+            bistånd till svenska medborgare i utlandet m.m. täcker två olika
+            områden. Det första är tillfälligt ekonomiskt bistånd för svenska
+            medborgare som råkar i nöd under utlandsvistelse, vilket är författningsreglerat
+            och efterfrågestyrt. Det andra området är periodiskt understöd
+            i ömmande fall till svenska medborgare som är bosatta utomlands.
+            Enligt propositionen minskar årligen antalet personer som har
+            rätt till periodiskt understöd, varför dessa kostnader reduceras.
+            Å andra sidan har antalet frihetsberövade svenska medborgare utomlands
+            stigit, och regeringen räknar med ökade advokat- och evakueringskostnader
+            för 2002. Sammantaget begärs ett anslag på 5 756 000 kr. Anslag
+            5:15 finansierar Inspektionen för strategiska produkter (ISP).
+            ISP:s verksamhetskostnader täcks av avgifter som redovisas mot
+            särskild inkomsttitel på statsbudgeten. På regeringens begäran
+            har Statskontoret genomfört en granskning av avgiftssystemet och
+            lämnat vissa förslag på ändringar. Riksrevisionsverket har i sin
+            revisionsberättelse för år 2000 inte framfört några invändningar
+            avseende ISP. Regeringen föreslår i propositionen att ISP tillförs
+            500 000 kr för att kunna förnya verksamheten och därigenom möta
+            de krav som ställs på extern informationsgivning, ökat internationellt
+            samarbete på området och för en fortsatt utveckling av licenshanteringssystemet.
+            Därmed skulle anslaget för år 2002 uppgå till 20 310 000 kr. Anslag
+            5:17 täcker medel till Föreningen Nordens verksamhet, som bl.a.
+            syftar till att sprida information om det nordiska samarbetet.
+            Regeringen föreslår att anslaget tilldelas 7 128 000 kr för år
+            2002. Anslag 5:16 finansierar informationsarbete om aktuella EU-frågor
+            och regeringens förda EU-politik, bl.a. med syfte att öka allmänhetens
+            kunskaper om EU och stimulera Europadebatten. Verksamheten innefattar
+            exempelvis produktion av informationsmaterial, webbplats, seminarier,
+            projektbidrag och praktisk information om euron. Utskottet noterar
+            att regeringen föreslår att den parlamentariska kommitté som har
+            i uppgift att stimulera en bred debatt om Europeiska unionens
+            utveckling och framtid inför 2004 års regeringskonferens skall
+            tillföras 10 000 000 kr per år under perioden 20022004 för externa
+            informationsinsatser och fördelning av projektbidrag. (Däremot
+            ligger kostnaderna för själva kommittén under utgiftsområde 1
+            anslaget 90:5 Regeringskansliet m.m.) Vidare föreslår regeringen
+            att 1 000 000 kr överförs till anslaget 5:7 Svenska institutet,
+            i enlighet med vad som framgått ovan. Anslag 5:16 beräknas därmed
+            uppgå till 16 800 000 kr. Utskottet noterar att regeringen föreslår
+            att den parlamentariska kommittén för debatt om Europeiska unionens
+            utveckling och framtid inför 2004 års regeringskonferens tillförs
+            medel för externa informationsinsatser och fördelning av projektbidrag
+            samt att dessa skall kunna utgå till ideella organisationer och
+            stiftelser. Utskottet noterar också att det i kommitténs uppdragsbeskrivning
+            (dir. 2001:35) bl.a. framhålls att kommittén bör samarbeta med
+            enskilda organisationer, folkrörelser, folkbildningsorganisationer,
+            bibliotek, nätverk etc., samt att det är angeläget att verksamhet
+            sker genom samarbete med ungdomsorganisationer och skolor. Utskottet
+            konstaterar att i uppdragsbeskrivningen nämnda samarbetspartner
+            inte alltid är ideella organisationer eller stiftelser. Enligt
+            vad utskottet inhämtat förekommer det också att projekt, som det
+            kan vara av intresse att stödja, bedrivs av landsting och i regional
+            samverkan. Med avvikelse från propositionen på denna punkt menar
+            utskottet därför att riksdagen bör föreskriva att anvisade medel
+            får användas för externa informationsinsatser och för fördelning
+            av projektbidrag samt att dessa skall kunna utgå till ideella
+            föreningar, stiftelser, kommuner, kommunalförbund, landsting,
+            regionförbund och länsstyrelser samt till folkbildningsorganisationer
+            och liknande sammanslutningar. Utskottet kan konstatera att regeringen
+            för år 2002 uppger en rad prioriterade områden vad gäller EU-
+            information: utvidgningen, miljön, sysselsättningen, Nicefördraget,
+            debatten om EU:s utveckling och framtid samt information om eurons
+            införande i andra EU- länder. I budgetpropositionen för år 2001
+            aviserade regeringen att den för år 2002 skulle göra en ny helhetsbedömning
+            av regeringens EU-information till allmänheten. I budgetpropositionen
+            för 2002 framhålls att en särskild utredare skall tillsättas för
+            att utreda regeringens Europainformation vad beträffar inriktning,
+            ansvar och resurstillgång. Utskottet noterar i detta sammanhang
+            att regeringen till utredningen avser att knyta en referensgrupp
+            med företrädare för riksdagen. Anvisande av anslag inom utgiftsområdet
+            Som framgår ovan har anslaget för utrikesförvaltningen fr.o.m.
+            budgetåret 2002 flyttats från utgiftsområde 5 till utgiftsområde
+            1, anslag 90:5 Regeringskansliet m.m. Utskottet kan konstatera
+            att anslaget år 2001 för utgiftsområde 5, som då även omfattade
+            utrikesförvaltningen, uppgick till 3 023 miljoner kronor. I beräkningen
+            av anslaget för år 2002 har regeringen utgått från detta belopp
+            som ramnivå och sedan överfört 1 807 miljoner kronor till utgiftsområde
+            1. Som ett resultat av de förslag som framgår i propositionen,
+            har ramnivån reducerats med ytterligare 65 miljoner kronor och
+            slutligen tillförts 11 miljoner kronor för pris- och löneomräkningar.
+            Därmed föreslås i propositionen den nya ramnivån för år 2002 uppgå
+            till 1 162 miljoner kronor. Utskottet har i ett yttrande till
+            finansutskottet, 2001/02:UU1y, tillstyrkt regeringens förslag
+            beträffande ramen för utgiftsområdet. I propositionens punkt 2
+            föreslår regeringen att riksdagen för budgetåret 2002 anvisar
+            anslagen under utgiftsområde 5 Internationell samverkan enligt
+            den tabell som framgår av efterföljande bilaga och som beskrivits
+            ovan. I motion 2001/02:U343 (m) yrkande 4 framhålls att riksdagen
+            bör besluta att avskaffa anslag 5:10 Information och studier om
+            säkerhetspolitik och fredsfrämjande utveckling. I motion 2001/02:U351
+            (kd) yrkande 13 framhåller Kristdemokraterna att EG-kommissionen
+            bör ta ett större ansvar för information, studier och utbyten
+            inom Europa, varför regeringens förslag bör minskas enligt följande
+            tabell: -----------------------------------------------------------
+            Anslag Regeringens förslag Förändring -----------------------------------------------------------
+            5:7 Svenska institutet 64 257 6 000 -----------------------------------------------------------
+            5:10 Information och studier om 9 000 4 000 säkerhetspolitik och
+            fredsfrämjande utveckling -----------------------------------------------------------
+            5:16 Europainformation m.m. 16 800 10 000 ------------------------------------------------------------
+            Summa 1 162 290 20 000 ------------------------------------------------------------
+            Utskottet finner regeringens förslag vad gäller anslagen under
+            utgiftsområde 5, Internationell samverkan, väl avvägda och tillstyrker
+            propositionens punkt 2 vad gäller anslagsbelopp under utgiftsområdet.
+            Därmed avstyrker utskottet motionerna 2001/02:U343 (m) yrkande
+            4 och 2001/02:U351 (kd) yrkande 13. Avslutningsvis vill utskottet
+            anföra följande. Som led i sin uppföljande och utvärderande verksamhet
+            har utskottet granskat hur riksdagens beslut om anslag omsatts
+            i de regleringsbrev som regeringen under det gångna budgetåret
+            utfärdat för utgiftsområde 5 Utrikesförvaltning och internationell
+            samverkan och utgiftsområde 7 Internationellt bistånd. Vidare
+            har granskats om riksdagens vilja, så som den tagit sig uttryck
+            i bl.a. betänkandetexter, har tagits i beaktande vid utformningen
+            av regleringsbrev till underlydande myndigheter. Inga betydande
+            avvikelser från vad utskottet angivit har därvid kunnat konstateras.
+            En dylik granskning kommer att genomföras under nästa riksmöte
+            för den budgettilldelning som riksdagen nu beslutar om. Reservationer
+            Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer. I rubriken anges inom parentes
+            vilken punkt i utskottets förslag till riksdagsbeslut som behandlas
+            i avsnittet. 1. Anslagen för 2002 under utgiftsområde 5 Internationell
+            samverkan (punkt 2) (m) av Göran Lennmarker, Bertil Persson, Liselotte
+            Wågö och Sten Tolgfors (alla m). Förslag till riksdagsbeslut Vi
+            anser att utskottets förslag under punkt 2 borde ha följande lydelse:
+            2. Riksdagen anvisar, med de anslagsvillkor utskottet angivit,
+            för budgetåret 2002 anslag inom utgiftsområde 5 Internationell
+            samverkan i enlighet med den kolumn som betecknats med Res (m)
+            i den specifikation som följer efter utskottets förslag till beslut.
+            Därmed bifaller riksdagen motion 2001/02:U343 yrkande 4 samt delvis
+            proposition 2001/02:1 utgiftsområde 5 punkt 2 och avslår motion
+            2001/02:U351 yrkande 13. Ställningstagande Enligt vår uppfattning
+            bör organisationer för fred och nedrustning hänvisas till samma
+            stödsystem som övrigt föreningsliv och således inte belasta Utrikesdepartementets
+            budget. Anslaget 5:10 Information och studier om säkerhetspolitik
+            och fredsfrämjande utveckling bör därför avskaffas. 2. Anslagen
+            för 2002 under utgiftsområde 5 Internationell samverkan (punkt
+            2) (kd) av Fanny Rizell och Rosita Runegrund (båda kd) Förslag
+            till riksdagsbeslut Vi anser att utskottets förslag under punkt
+            2 borde ha följande lydelse: 2. Riksdagen anvisar, med de anslagsvillkor
+            utskottet angivit, för budgetåret 2002 anslag inom utgiftsområde
+            5 Internationell samverkan i enlighet med den kolumn som betecknats
+            med Res (kd) i den specifikation som följer efter utskottets förslag
+            till beslut. Därmed bifaller riksdagen motion 2001/02:U351 yrkande
+            13 samt delvis proposition 2001/02:1 utgiftsområde 5 punkt 2 och
+            avslår motion 2001/02:U343 yrkande 4. Ställningstagande Vi vill
+            framhålla att det är möjligt att göra besparingar bland några
+            anslag inom utgiftsområde 5. Vad gäller information, studier och
+            utbyten inom Europa borde EG-kommissionen ta ett större ansvar,
+            och därför kan nedskärningar göras inom anslag 5:7 Svenska institutet
+            (6 miljoner kronor), anslag 5:10 Information och studier om säkerhetspolitik
+            och fredsfrämjande utveckling (4 miljoner kronor) samt anslag
+            5:16 Europainformation (10 miljoner kronor). Vi sparar därmed
+            sammanlagt 20 miljoner kronor i jämförelse med regeringens förslag.
+            Bilaga Förteckning över behandlade förslag
+          </p>
+          <p>
+            Propositionen I proposition 2001/02:1 utgiftsområde 5 Internationell
+            samverkan föreslår regeringen 1. att riksdagen bemyndigar regeringen
+            att under år 2002, i fråga om ramanslaget 5:6 Fredsfrämjande verksamhet,
+            besluta om bidrag som inklusive tidigare gjorda åtaganden innebär
+            utgifter på 155 000 000 kronor efter år 2002, 2. att riksdagen
+            för budgetåret 2002 anvisar anslagen under utgiftsområde 5 Internationell
+            samverkan enligt följande uppställning: Tusental kronor --------------------------------------------------------
+            Anslag Anslagstyp --------------------------------------------------------
+            5:1 Nordiskt samarbete ramanslag 1 556 --------------------------------------------------------
+            5:2 Ekonomiskt bistånd till svenska ramanslag 5 medborgare i utlandet
+            756 m.m. samt diverse kostnader för rättsväsendet --------------------------------------------------------
+            5:3 Bidrag till vissa ramanslag 500 internationella organisationer
+            435 -------------------------------------------------------- 5:4
+            Nordiska ministerrådet ramanslag 296 771 --------------------------------------------------------
+            5:5 Organisationen för ekonomiskt ramanslag 27 samarbete och 115
+            utveckling (OECD) --------------------------------------------------------
+            5:6 Fredsfrämjande verksamhet ramanslag 151 711 --------------------------------------------------------
+            5:7 Svenska institutet ramanslag 64 257 --------------------------------------------------------
+            5:8 Övrig information om Sverige i ramanslag 9 utlandet 266 --------------------------------------------------------
+            5:9 Utredningar och andra insatser ramanslag 1 på det utrikespolitiska
+            659 området --------------------------------------------------------
+            5:10 Information och studier om ramanslag 9 säkerhetspolitik och
+            000 fredsfrämjande utveckling --------------------------------------------------------
+            5:11 Bidrag till Stockholms obetecknat 22 internationella fredsforsk-
+            016 ningsinstitut (SIPRI) anslag --------------------------------------------------------
+            5:12 Forskning till stöd för ramanslag 11 nedrustning och internationell
+            706 säkerhet --------------------------------------------------------
+            5:13 Utrikespolitiska Institutet obetecknat 10 826 anslag --------------------------------------------------------
+            5:14 Forskningsverksamhet av särskild ramanslag 5 utrikes- och
+            978 säkerhetspolitisk betydelse --------------------------------------------------------
+            5:15 Inspektionen för strategiska ramanslag 20 produkter 310 --------------------------------------------------------
+            5:16 Europainformation m.m. ramanslag 16 800 --------------------------------------------------------
+            5:17 Föreningen Norden ramanslag 7 128 --------------------------------------------------------
+            Summa 1 162 290 --------------------------------------------------------
+          </p>
+          <p>
+            Motioner från allmänna motionstiden 2001/02:U343 av Göran Lennmarker
+            m.fl. (m): 4. Riksdagen beslutar att avskaffa utgiftsområde 5
+            anslag 5:10 Information och studier om säkerhetspolitik och fredsfrämjande
+            utveckling i enlighet med vad som anförs i motionen. 2001/02:U351
+            av Holger Gustafsson m.fl. (kd): 13. Riksdagen anvisar med följande
+            förändringar i förhållande till regeringens förslag anslagen under
+            utgiftsområde 5 Internationell samverkan enligt uppställning:
+            ----------------------------------------------------------- Anslag
+            Regeringens förslag Förändring -----------------------------------------------------------
+            5:7 Svenska institutet 64 257 6 000 -----------------------------------------------------------
+            5:10 Information och studier om 9 000 4 000 säkerhetspolitik och
+            fredsfrämjande utveckling -----------------------------------------------------------
+            5:16 Europainformation m.m. 16 800 10 000 ------------------------------------------------------------
+            Summa 1 162 290 20 000 ------------------------------------------------------------
+            Elanders Gotab, Stockholm 2001
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

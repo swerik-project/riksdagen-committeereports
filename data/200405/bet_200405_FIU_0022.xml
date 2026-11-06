@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200405_FIU_0022">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sade nej till motioner från allmänna motionstiden 2004 om förvaltningspolitiska frågor. Skälet är att det redan pågår arbete i de frågor som motionerna tar upp. En av motionerna handlar om möjligheten att använda öppen programvara och öppna standarder i den offentliga förvaltningen. I andra motioner diskuteras prissättningen på samhällets informationstjänster samt potentialen i att reducera antalet myndigheter. Slutligen avhandlas frågor om ISO-certifiering (kvalitets- och miljöledning) samt ett processorienterat arbetssätt i den offentliga förvaltningen.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Motioner om förvaltningspolitiska frågor (FiU22)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Avslag på motionerna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GS09100</idno>
+              <title>2005-04-07</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">100</biblScope>
+              <note type="display-reference">2005-04-07</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GS0999</idno>
+              <title>2005-04-06</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">99</biblScope>
+              <note type="display-reference">2005-04-06</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GS02Fi261</idno>
+              <title>Öppen informationsinfrastruktur</title>
+              <title type="sub">av Gustav Fridolin m.fl. (MP)</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">Fi261</biblScope>
+              <note type="display-reference">motion 2004/05:Fi261 Öppen informationsinfrastruktur</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GS02Fi263</idno>
+              <title>Minskning av antalet myndigheter</title>
+              <title type="sub">av Torkild Strandberg och Christer Nylander (FP)</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">Fi263</biblScope>
+              <note type="display-reference">motion 2004/05:Fi263 Minskning av antalet myndigheter</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GS02Fi272</idno>
+              <title>ISO</title>
+              <title type="sub">av Barbro Hietala Nordlund och Kurt Kvarnström (S)</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">Fi272</biblScope>
+              <note type="display-reference">motion 2004/05:Fi272 ISO</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GS02Fi276</idno>
+              <title>Krav på processorienterat arbetssätt</title>
+              <title type="sub">av Berit Högman (S)</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">Fi276</biblScope>
+              <note type="display-reference">motion 2004/05:Fi276 Krav på processorienterat arbetssätt</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2005-03-18">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2005-03-18">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2005-03-18">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2005-03-10">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2005-03-10">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-02-15">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-02-15">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2005-01-25">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2005-04-07">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2005-04-07">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2005-04-06">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2005-04-06">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2005-04-05">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2005-04-05">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2005-04-04">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2005-04-04">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Finansutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2004/05:FIU22
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Vissa förvaltningspolitiska frågor
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I detta betänkande behandlas frågor med anledning
+            av fyra motioner inom området förvaltningspolitik. En fråga rör
+            möjligheten att använda öppen programvara och öppna standarder
+            i den offentliga förvaltningen. Vidare diskuteras prissättningen
+            på samhällets informationstjänster samt potentialen i att reducera
+            antalet myndigheter. Slutligen avhandlas frågor rörande ISO-certifiering
+            (kvalitets- och miljöledning) samt ett processorienterat arbetssätt
+            i den offentliga förvaltningen. Samtliga motionsyrkanden i betänkandet
+            avstyrks av utskottet, huvudsakligen med motiveringen att omfattande
+            arbete i dessa frågor redan pågår i Regeringskansliet och i statsförvaltningen.
+            Till betänkandet fogas tre reservationer.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Öppen programvara och
+            öppna standarder Riksdagen avslår motion2004/05:Fi261 av Gustav
+            Fridolin m.fl. (mp) yrkandena 1 och 3. Reservation 1 (mp) 2. Prissättningen
+            på samhällets informationstjänster Riksdagen avslår motion2004/05:Fi261
+            av Gustav Fridolin m.fl. (mp) yrkande 2. Reservation 2 (mp) 3.
+            Minskning av antalet myndigheter Riksdagen avslår motion2004/05:Fi263
+            av Torkild Strandberg och Christer Nylander (båda fp). Reservation
+            3 (m, fp, kd, c) 4. ISO-certifiering Riksdagen avslår motion2004/05:Fi272
+            av Barbro Hietala Nordlund och Kurt Kvarnström (båda s). 5. Processorientering
+            i staten Riksdagen avslår motion2004/05:Fi276 av Berit Högman
+            (s). Stockholm den 10 mars 2005 På finansutskottets vägnar Arne
+            Kjörnsberg Följande ledamöter har deltagit i beslutet: Arne Kjörnsberg
+            (s), Mikael Odenberg (m), Carin Lundberg (s), Sonia Karlsson (s),
+            Kjell Nordström (s), Mats Odell (kd), Agneta Ringman (s), Gunnar
+            Axén (m), Bo Bernhardsson (s), Christer Nylander (fp), Hans Hoff
+            (s), Agneta Gille (s), Yvonne Ruwaida (mp), Cecilia Widegren (m),
+            Gunnar Nordmark (fp), Siv Holma (v) och Jörgen Johansson (c).
+          </p>
+          <p>
+            Redogörelse för ärendet Utskottet behandlar i detta betänkande
+            sex motionsyrkanden inom området förvaltningspolitik. Samtliga
+            yrkanden väcktes under den allmänna motionstiden 2004. Motionsyrkandena
+            tar upp användningen av öppen programvara och öppna standarder
+            i den offentliga förvaltningen, prissättningen på samhällets informationstjänster,
+            minskning av antalet myndigheter, ISO-certifiering samt processorientering
+            i staten. Under ärendets beredning har finansutskottet hållit
+            en utfrågning rörande processorientering med Kjell Jansson, generaldirektör
+            för Nutek. Finansutskottet har även besökt Statskontoret och där
+            fått övergripande redogörelser för nuläget avseende flera av de
+            frågor som tas upp i betänkandet.
+          </p>
+          <p>
+            Utskottets överväganden Öppen programvara och öppna standarder
+            Utskottets förslag i korthet I motionen föreslås en utredning
+            om att övergå till öppen programvara i den offentliga förvaltningen
+            samt att offentlig information i första hand ska göras tillgänglig
+            via öppna standarder. Förslagen avstyrks mot bakgrund av det arbete
+            som redan pågår i dessa frågor. Jämför reservation 1 (mp). Motionen
+            I motion Fi261 av Gustav Fridolin m.fl. (mp) behandlas frågor
+            rörande öppen mjukvara och öppna standarder. Med öppen mjukvara
+            avser motionärerna funktionsbibliotek, datorprogram eller operativsystem
+            där källkoden finns fritt tillgänglig. Statskontoret har i en
+            förstudie tittat på vilka effekter ett införande av öppen mjukvara
+            i den offentliga förvaltningen skulle kunna medföra. Denna förstudie
+            visar enligt motionärerna i huvudsak på positiva effekter i form
+            av förenklad licenshantering, minskat leverantörsberoende, sänkta
+            kostnader m.m. Trots att fördelarna med öppen mjukvara är många
+            så har användningen i offentlig förvaltning i stort sett uteblivit.
+            Mot denna bakgrund vill motionärerna att regeringen utreder frågan
+            om att övergå till öppen mjukvara i den offentliga förvaltningen
+            (yrkande 1). Enligt motionärerna ska hemsidor och tjänster skapade
+            för allmänheten med offentliga medel inte kräva att användaren
+            måste införskaffa leverantörspecifik och ofri programvara. Motionärerna
+            menar att man i dag ofta använder slutna standarder där det finns
+            fullgoda öppna alternativ och dessutom används öppna standarder
+            felaktigt, vilket kan minska informationens tillgänglighet. I
+            praktiken handlar det om att anpassa och utvärdera webbsidor,
+            välja rätt dokumentformat och använda genomtänkta informationsstrukturer.
+            Enligt motionärerna ska offentlig information i första hand göras
+            tillgänglig via öppna standarder (yrkande 3). Bakgrund Inom Statskontoret
+            bedrivs sedan 2002 ett arbete som syftar till att lyfta fram kunskapen
+            om s.k. öppen programvara. Bakgrunden är bl.a. att marknaden för
+            IT-programvaror i Sverige domineras av ett fåtal aktörer och att
+            konkurrensen och därmed valfriheten är bristfällig. Öppen programvara
+            är enligt Statskontorets definition en programvara där källkoden
+            är tillgänglig och kan användas, förändras, förbättras, kopieras
+            och distribueras av den som så önskar. Öppen programvara behöver
+            inte vara gratis och är normalt inte licensfri. Ett exempel på
+            en öppen programvara är operativsystemet Linux. I motsats till
+            vad som gäller för öppen programvara får man vid s.k. proprietär
+            programvara inte tillgång till källkoden, man får inte ändra i
+            programmet och man får inte ge bort kopior. Ett exempel på proprietär
+            programvara är operativsystemet Microsoft XP. Öppen programvara
+            använder företrädesvis öppna standarder. Standarder i detta sammanhang
+            är definitioner av filformat och standarder för informationsutbyte,
+            dvs. protokoll och format för kommunikation mellan olika programvaror
+            och system. Ett exempel på en öppen standard är HTML (Hyper-Text
+            Markup Language). I en enkät som Statskontoret ställde till samtliga
+            myndigheter uppgav 53 % av dem som svarade att de använt någon
+            form av öppen programvara. Annars är det främst inom universitets-
+            och högskolevärlden som öppen programvara används i någon större
+            omfattning. Våren 2004 gjorde Statskontoret en omfattande undersökning
+            av erfarenheterna av att använda öppen programvara i den offentliga
+            sektorn. Av undersökningen framgick att införandet av produkter
+            baserade på öppen programvara sällan varit föremål för en kostnadsanalys,
+            även om de flesta svarande angav besparingsskäl som ett av de
+            viktigaste skälen till att man valde en öppen produkt. Även om
+            öppen programvara förekom i mer eller mindre omfattning, har myndigheterna
+            samtidigt behållit sina proprietära system (som t.ex. Microsoft
+            Office). Undersökningen visade också att de myndigheter som bytt
+            från proprietär till öppen programvara inte upplevt några större
+            problem. Det enda riktiga krånglet som rapporterades gällde konvertering
+            av makron och mallar från Microsoft Office till en öppen produkt.
+            Övergångsproblemen tycks annars främst vara av organisatorisk
+            art, dvs. vanans makt är stor. För samtliga områden gäller omdömet
+            att man kan rekommendera produkten eller systemet för andra att
+            använda. Själva produkten betygssätts högt men det är för många
+            en hög tröskel att byta miljö. Utifrån de insamlade erfarenheterna
+            har Statskontoret dragit slutsatsen att man behöver fördjupa kunskapen
+            inom ett antal områden: Hur ska man t.ex. följa upp kostnaderna
+            för öppen programvara och hur mäter man verksamhetsnyttan av att
+            programvaror är öppna i förvaltningen? Utskottets ställningstagande
+            Motionärerna vill att regeringen tillsätter en utredning om frågan
+            att övergå till öppen programvara i den offentliga förvaltningen
+            (yrkande 1). Utskottet vill här framhålla att användningen av
+            ny teknik, t.ex. val av programvara, är en fråga som varje myndighet
+            själv har att ta ställning till. Givetvis bör myndigheterna välja
+            den teknik och de system som är lämpligast från verksamhets- och
+            effektivitetssynpunkt. Utskottet kan vidare konstatera att det
+            sedan ett par år tillbaka pågår en omfattande kunskapsinsamling
+            i frågan om öppen programvara under ledning av Statskontoret.
+            Statskontoret har även nyligen tagit fram en upphandlingspolicy,
+            som poängterat betydelsen av att myndigheterna beaktar öppen programvara
+            som ett alternativ vid upphandlingar. Utskottet anser att ökad
+            kunskap kring öppen programvara är viktigt, inte minst för att
+            stimulera konkurrensen på marknaden för programvaror. En annan
+            form av konkurrensstimulering uppnås genom att öppna standarder
+            inte begränsar t.ex. företag, som vill lämna offert på elektronisk
+            väg, till vissa tekniska format. Som Statskontoret framhåller
+            behövs dock ytterligare analyser av vilka kostnader och vilken
+            verksamhetsnytta de öppna alternativen ger upphov till i jämförelse
+            med motsvarande proprietära alternativ. I motionen påtalas vikten
+            av att använda genomtänkta informationsstrukturer och öppna standarder
+            på myndigheternas webbplatser (yrkande 3). I detta sammanhang
+            vill utskottet peka på det arbete som sedan länge bedrivs inom
+            ramen för den s.k. 24-timmarsmyndigheten. Begreppet står för en
+            förvaltning där modern informations- och kommunikationsteknik
+            används optimalt för att effektivisera processerna, ge stöd, hjälp
+            och service åt medborgarna samt bidra till ökad insyn och rättssäkerhet.
+            I juni 2003 tillsatte regeringen en delegation för att driva på
+            utvecklingen av 24-timmarsmyndigheten. Delegationen sorterar under
+            Finansdepartementet och består av företrädare för stat, kommun,
+            landsting, forskarvärlden och näringslivet. Delegationen ska bl.a.
+            finna möjliga finansieringslösningar för myndigheters och kommuners
+            e-tjänster. Arbetet ska bedrivas fram till den 1 november 2006.
+            Regeringen har även gett Statskontoret i uppdrag att utarbeta
+            ett system för återkommande uppföljningar av 24-timmarsmyndigheten.
+            Med utgångspunkt i uppföljningsresultatet ska Statskontoret vid
+            behov föreslå vilka åtgärder som kan krävas för att uppnå målen
+            med 24-timmarsmyndigheten. Uppdraget ska vara slutfört i maj 2005.
+            I anslutning till frågan om genomtänkta informationsstrukturer
+            och öppna standarder vill utskottet även påminna om det arbete
+            som bedrivs inom Nämnden för elektronisk förvaltning (e-nämnden).
+            E-nämnden, som inrättades av regeringen i november 2003, arbetar
+            för att fastställa gemensamma grundläggande standarder för myndigheternas
+            webbplatser i syfte att underlätta den elektroniska kommunikationen
+            med medborgare och företag och mellan myndigheter. Under första
+            halvåret 2004 har e-nämnden fastställt sina första vägledningar.
+            En av dessa vägledningar ska vara till stöd för myndigheternas
+            utveckling av sina webbplatser. Syftet är att så många användare
+            som möjligt, oberoende av egenskaper och förmågor, ska kunna söka
+            och läsa information samt interagera via webbplatsen. Mot bakgrund
+            av det arbete som redan bedrivs i frågorna avstyrks motion Fi261
+            yrkandena 1 och 3. Prissättningen på samhällets informationstjänster
+            Utskottets förslag i korthet Utskottet avstyrker motionärernas
+            förslag om att låta utreda hur samhällets grundläggande informationstjänster
+            kan göras fritt tillgängliga via Internet. Jämför reservation
+            2 (mp). Motionen I motion Fi261 av Gustav Fridolin m.fl. (mp)
+            tar motionärerna upp frågan om tillgången till samhällets grundläggande
+            informationsresurser, t.ex. kartdata från Lantmäteriet och väderinformation
+            från SMHI. Enligt motionärerna är licensavgifterna många gånger
+            orimliga för information som i grunden redan är betald med offentliga
+            medel. Motionärerna vill att regeringen utreder hur samhällets
+            grundläggande informationsresurser som finansieras med offentliga
+            medel kan göras fritt tillgängliga via Internet, med undantag
+            för information som kan skada rikets säkerhet eller den personliga
+            integriteten (yrkande 2). Bakgrund I avgiftsförordningen (1992:191)
+            slås fast att en myndighet ska ha bemyndigande för att ta ut en
+            avgift och bestämma storleken på den. Där står också att full
+            kostnadstäckning gäller som ekonomiskt mål om inget annat beslutats.
+            Enligt regeringsformen är det riksdagen som ska fatta beslut om
+            s.k. offentligrättsliga eller tvingande avgifter. Att besluta
+            om att införa avgifter för prestationer som efterfrågas frivilligt
+            (uppdragsverksamhet) hör till regeringens kompetensområde. Regeringen
+            har i olika sammanhang uttalat som sin mening att myndigheternas
+            avgifter ska utformas på ett sätt som leder till ett optimalt
+            utnyttjande av myndighetens resurser. Om myndigheten inte har
+            ett särskilt uttalat författningsmässigt stöd har den ändå möjlighet
+            att ta ut avgifter för elektronisk information med stöd av ett
+            generellt bemyndigande i 4 § 9 avgiftsförordningen (1992:191).
+            Det förutsätter att verksamheten är av tillfällig natur eller
+            av mindre omfattning. Om avgifter för informationstjänster ska
+            kunna sättas högre än full kostnadstäckning krävs ett särskilt
+            regeringsbeslut. Regeringen kan t. ex. ställa krav på att avgifterna,
+            utöver att de ska täcka uttagskostnaden, även ska bidra till att
+            finansiera myndighetens åligganden enligt instruktionen eller
+            annan författning. Ett sådant krav gäller bl.a. för Lantmäteriet
+            och SMHI, då dessa myndigheter är ålagda att via uppdrag finansiera
+            sådan uppgiftsinsamling m.m. som är nödvändig för att myndigheten
+            ska kunna fullgöra sina åligganden. Riksrevisionen har i en rapport
+            (2004:17) konstaterat att det finns väsentliga brister i regeringens
+            och myndigheternas hantering av offentligrättsliga avgifter. Bristerna
+            gäller såväl regeringens insyn som regeringens styrning av tvingande
+            avgifter. En framställning, RRS8, från Riksrevisionens styrelse
+            med anledning av denna rapport har remitterats till finansutskottet
+            för behandling. Ett nytt EU-direktiv, Vidareutnyttjande av information
+            från Offentlig sektor (2003/98/EG), ska vara infört den 1 juli
+            2005. Direktivet är en del i uppfyllandet av handlingsplanen för
+            eEurope 2002 - Ett informationssamhälle för alla och syftar till
+            en öppen och ökad användning av tillgänglig information från offentlig
+            sektor. Direktivet ställer ett antal minimikrav på förvaltningen
+            för att säkerställa att samma grundvillkor gäller för alla aktörer
+            på den europeiska informationsmarknaden. I villkoren regleras
+            frågor som rör tillgängliga format, avgiftsprinciper, öppenhet,
+            licenser m.m. I direktivet framhålls bl.a. att medlemsländerna
+            bör uppmuntra så låga avgifter som möjligt även om minimikravet
+            är att avgifterna inte får överstiga full kostnadstäckning. Direktivet
+            ska ses som ett första steg i att göra informationen mer tillgänglig,
+            och det kommer att följas upp i en översyn som ska presenteras
+            senast den 1 juli 2008. När direktivet togs fram var man från
+            Sveriges sida mycket positiv till förslaget. Statskontoret har
+            på uppdrag av regeringen analyserat konsekvenserna av det nya
+            EU-direktivet (dnr 2002/291-5). Statskontoret konstaterar att
+            flera myndigheter, bl.a. Lantmäteriet, bedriver en omfattande
+            verksamhet i konkurrens med andra aktörer och att de konkurrensproblem
+            som därmed uppstår kan hämma den totala marknadens tillväxt. Samtidigt
+            konstateras att försäljningsintäkterna i många fall är ett villkor
+            för att myndighetens kärnverksamhet ska kunna bedrivas med hög
+            kvalitet och service. Med andra ord, det finns en tydlig målkonflikt
+            mellan konkurrensneutralitet och budgethänsyn. För att uppfylla
+            direktivets intentioner kan det enligt Statskontoret vara nödvändigt
+            med en tydligare (organisatorisk) åtskillnad mellan myndigheternas
+            källinsamling av data och deras vidareförädling och försäljning
+            av data. Utskottets ställningstagande Motionärerna yrkar på fri
+            tillgång till samhällets grundläggande informationsresurser (yrkande
+            2). I det sammanhanget vill utskottet poängtera att alltfler myndigheter
+            i dag tillhandahåller åtminstone en del av sin information fritt
+            via webben. SMHI lägger t.ex. ut aktuella väderprognoser på sin
+            hemsida, och på Lantmäteriets hemsida kan man hitta tätortskartor
+            från hela landet. Många myndigheter, däribland Lantmäteriet och
+            SMHI, tar dock även ut avgifter för en stor del av sina informationstjänster.
+            Avgiftssättningen är föremål för ett omfattande regelverk. Som
+            framgått av bakgrundsbeskrivningen ovan har vissa brister i myndigheternas
+            hantering av avgiftssättningen påtalats av Riksrevisionen i en
+            skrivelse till riksdagen (2004/05:RRS8). Denna skrivelse kommer
+            att behandlas av finansutskottet i ett särskilt betänkande senare
+            i vår. Mot bakgrund av den kommande utskottsbehandlingen av Riksrevisionens
+            skrivelse avstyrks motion Fi261 (mp) yrkande 2. Minskning av antalet
+            myndigheter Utskottets förslag i korthet Med hänvisning bl.a.
+            till det arbete som bedrivs i Ansvarskommittén avstyrker utskottet
+            motionärernas förslag om att reducera antalet myndigheter i Sverige.
+            Jämför reservation 3 (m, fp, kd, c). Motionen I motion Fi263 av
+            Torkild Strandberg och Christer Nylander (fp) framhålls att antalet
+            myndigheter i Sverige bör reduceras. Enligt motionärerna är behovet
+            av prioriteringar inom offentlig sektor stort. Om byråkrati och
+            administration begränsas kan kärnverksamheten få mer resurser
+            och skatteuttaget minska. Effektiviseringar i administrationen
+            kan enligt motionärerna också bli nödvändiga framöver då behovet
+            av arbetskraft i såväl offentlig som privat sektor kommer att
+            öka. Motionärerna ifrågasätter det stora antalet myndigheter i
+            Sverige, som man menar är resultatet av en överdriven regleringsiver.
+            Motionärerna vill att Sverige påbörjar en kritisk genomgång av
+            myndigheterna, som den som startade i Danmark 2002. Syftet med
+            den danska genomgången var bl.a. att genomföra effektiviseringar,
+            minska dubbelarbete och avveckla myndigheter med huvudsakligen
+            opinionsbildande verksamhet. Sedan genomgången startade har man
+            i Danmark lagt ned 374 myndigheter, vilket enligt den danska regeringen
+            inneburit en besparing på 350 miljoner kronor. Utskottets ställningstagande
+            Utskottet delar inte motionärernas uppfattning om att antalet
+            myndigheter är ett resultat av en överdriven regleringsiver. En
+            kartläggning som Statskontoret genomförde 2001 visar att strukturomvandlingen
+            i staten varit omfattande på 1990-talet och även i början av 2000-talet.
+            Mellan 1990 och 1998 mer än halverades det totala antalet myndigheter.
+            Den främsta orsaken är att små regionala och lokala myndigheter
+            slagits samman eller upphört att vara egna myndigheter för att
+            i stället ingå i en gemensam myndighet. Så har t.ex. skett i och
+            med bildandet av Tullverket, Arbetsmiljöverket och Skatteverket.
+            Inom försvaret har över 100 myndigheter upphört för att ingå i
+            den nya myndigheten Försvarsmakten. Under samma period har myndigheternas
+            verksamhet renodlats och koncentrerats till kärnverksamheten.
+            Myndigheterna har blivit färre till antalet men ofta större räknat
+            i antalet anställda. Men också antalet sysselsatta i staten har
+            sjunkit kraftigt under hela 1990-talet fram till 2001. De tre
+            senaste åren har antalet sysselsatta i staten åter ökat något.
+            Utskottets uppfattning är att arbetet med att rationalisera och
+            effektivisera myndighetsstrukturen är en ständigt pågående process.
+            Regeringens riktlinjer för organisering av statsförvaltningen
+            anges bl.a. i den förvaltningspolitiska propositionen 1997/98:136
+            Statlig förvaltning i medborgarens tjänst, och i det förvaltningspolitiska
+            handlingsprogrammet. I ett interpellationssvar (2004/05:54) anför
+            statsrådet Sven-Erik Österberg att myndighetsstrukturen ska avgöras
+            av de krav som ställs på samhället att ge medborgarna en effektiv
+            service i enlighet med uppsatta mål. Regeringen redovisar årligen
+            i budgetpropositionen vilka övergripande organisations- och strukturförändringar
+            som genomförts under de senaste åren. Då det emellertid saknas
+            detaljerad statistik över antalet statliga myndigheter på central,
+            regional och lokal nivå har Statskontoret i sitt regleringsbrev
+            för 2005 fått i uppdrag att utveckla den löpande statistiken på
+            detta område. Den parlamentariskt tillsatta Ansvarskommittén har
+            i uppdrag att se över strukturen och uppgiftsfördelningen inom
+            den offentliga samhällsorganisationen. I juni 2004 fick kommittén
+            ett tilläggsdirektiv av regeringen, som innebär att man även ska
+            se över den statliga styrningen av samhällsorganisationen. På
+            den nationella nivån ska kommittén överväga en organisatorisk
+            samordning eller sammanläggning av myndigheter. På den regionala
+            nivån ska särskilt länsstyrelsernas roll uppmärksammas. Utskottet
+            kan sammanfattningsvis konstatera att omfattande strukturrationaliseringar
+            och sammanslagningar av myndigheter genomförts under det senaste
+            decenniet och huruvida ytterligare sammanläggningar eller andra
+            rationaliseringar behövs är en fråga som Ansvarskommittén utreder
+            närmare. Mot denna bakgrund avstyrks motion Fi263 (fp). ISO-certifiering
+            Utskottets förslag i korthet Utskottet avstyrker motionärens förslag
+            om en översyn av för- och nackdelar för statliga verk med en certifiering
+            enligt ISO-standard. Motionen I motion Fi272 av Barbro Hietala
+            Nordlund och Kurt Kvarnström (s) efterfrågas en översyn av för-
+            och nackdelar för statliga verk med en certifiering enligt ISO-standard.
+            Motionären påpekar att kvalitetssäkring, kvalitetsarbete och kvalitetsledning
+            i dag görs inom stora delar av näringslivet, såväl nationellt
+            som internationellt och att det handlar om att skapa ordning och
+            utveckla verksamheten ur både kund- och miljöperspektiv. Uttalade
+            kundkrav har enligt motionären medverkat till att ISO-certifiering
+            har en så stor omfattning i dag. För kvalitetsledning (ISO 9001)
+            har åtta principer fastställts, som enligt motionären skulle kunna
+            tillämpas/användas av de statliga verkens högsta ledning. Principernas
+            rubriker är: kundfokus, ledarskap, medarbetarnas engagemang, processinriktning,
+            systemangreppssätt för ledning, ständig förbättring, faktabaserade
+            beslut samt ömsesidigt fördelaktiga relationer till leverantörer.
+            Enligt motionären skulle det kvalitetsarbete som i dag pågår för
+            24-timmarsmyndigheten naturligt kunna kopplas till certifieringskriterierna.
+            Mot bakgrund av detta anser motionären att en översyn bör genomföras
+            för att analysera vilka för- och nackdelar statliga verk kan ha
+            av certifiering med ISO 9001 (kvalitetsledning), ISO 14001 (miljöledning)
+            och AFS 2001:1 (internt miljöarbete). Bakgrund Att arbeta efter
+            en standard för kvalitetsledning, miljöledning eller internt arbetsmiljöarbete
+            har som syfte att åstadkomma ett strukturerat sätt att arbeta
+            med verksamhetsförbättring. Att dessutom certifiera sitt ledningssystem
+            enligt en viss standard, som t.ex. ISO 9001 eller ISO 14001, innebär
+            att en organisation låter en utomstående neutral part granska
+            den och bedöma om den uppfyller de krav som finns i respektive
+            kravstandard. Certifieringen blir då ett slags kvalitetsstämpel
+            gentemot kunder och andra intressenter. Kvalitetsledning - ISO
+            9001 Kvalitetsledningssystem bygger på den internationella standarden
+            ISO 9001 som tagits fram av ISO (International Organization for
+            Standardisation) och är det mest spridda ledningssystemet internationellt.
+            Syftet med kvalitetsledningssystem är att säkerställa att kundens
+            krav uppfylls genom att ett strukturerat arbetssätt för kvalitetsfrågor
+            i företaget införs. Ledningssystem för kvalitet användes ursprungligen
+            i tillverkningsindustrin, men tillämpningen ökar inom tjänsteföretag
+            och offentlig verksamhet. För närvarande finns cirka en halv miljon
+            organisationer världen över med utställda certifikat och i Sverige
+            har ca 5 000 organisationer certifierats enligt ISO 9001. Enligt
+            KKR (Statens kvalitets- och kompetensråd) har intresset bland
+            statliga myndigheter för ISO 9001 ökat. Flera myndigheter har
+            börjat använda ISO 9001 för att kvalitetssäkra hela eller delar
+            av sin verksamhet. Hit hör bl.a. Ekonomistyrningsverket (ESV),
+            Naturvårdsverket, Statens fastighetsverk och SMHI. Ofta begränsas
+            ambitionen hos myndigheterna till att bli certifieringsbara, inte
+            certifierade. Av de uppräknade myndigheterna är det exempelvis
+            bara SMHI som certifierat sig enligt både ISO 9001 och ISO 14001.
+            Naturvårdsverket och Statens fastighetsverk är enbart certifierade
+            enligt ISO 14001. ESV har stannat vid certifierbarhet. En orsak
+            till att många myndigheter väljer att bli certifieringsbara, ej
+            certifierade, är sannolikt de relativt höga kostnaderna för certifiering.
+            Dessutom har man i och med certifierbarheten redan uppnått fördelen
+            med ett mer strukturerat och kvalitetsinriktat arbetssätt. Till
+            skillnad från privata företag har en myndighet i allmänhet inte
+            heller samma behov av ett certifikat i bemärkelsen kvalitetsstämpel
+            gentemot omvärlden. Den senaste versionen av ISO 9001 innehåller
+            en tydligare processinriktning samt krav på ständiga förbättringar
+            och mätning av kundtillfredsställelse. Miljöledning - ISO 14001
+            och EMAS Miljöledningssystem bygger på den internationella standarden
+            ISO 14001. Syftet med miljöledningssystem är att företagen ska
+            minska sin miljöpåverkan genom att - utifrån sina egna förutsättningar
+            - sätta miljömål och förbättra sitt arbetssätt, sina produkter
+            eller tjänster. Lagkraven utgör basen. Cirka 3 600 organisationer
+            har i dagsläget certifierats enligt ISO 14001 i Sverige. ISO 14001
+            ingår i ISO 14000-familjen som omfattar standarder för miljörevision,
+            miljömärkning, livscykelanalys och miljöprestanda. En organisation
+            som uppfyller kraven och som granskas av en oberoende part erhåller,
+            precis som för kvalitetssystemet ISO 9001, ett certifikat. När
+            det gäller kraven på ordning och reda, organisation och erfarenhetsåterföring
+            har ISO 14001 stora likheter med ISO 9001, som också stått modell
+            för förstnämnda. Många organisationer väljer att integrera olika
+            ledningssystem till ett verksamhetssystem, där de olika delarna
+            ingår. En ny version av ISO 14001 blev klar i december 2004. Standarden
+            har omarbetats för att bli enklare och tydligare, för att närma
+            sig ISO 9001 och i viss mån även för att ta hänsyn till små och
+            medelstora företags behov. I detta arbete har Nutek deltagit under
+            ledning av SIS (Swedish Standards Institute). Förutom den internationella
+            standarden ISO 14001 finns inom EU ett annat etablerat standardiserat
+            system för miljöstyrning, EMAS (Eco Management and Audit Scheme).
+            EMAS och ISO 14001 liknar varandra i sin uppbyggnad, men till
+            skillnad från ISO 14001 kräver EMAS en offentliggjord miljöredovisning.
+            Arbetsmiljöledning - AFS 2001:1 Enligt arbetsmiljölagen är alla
+            arbetsgivare skyldiga att införa Systematiskt arbetsmiljöarbete
+            (AFS 2001:1), oavsett verksamhetens storlek och natur. Certifiering
+            enligt AFS 2001:1 är frivillig och innebär att en oberoende part
+            granskat arbetsmiljösystemet. Certifiering av arbetsmiljöarbete
+            har en betydligt mer begränsad omfattning än certifiering av kvalitets-
+            och miljöledningssystem. I dagsläget har drygt hundratalet organisationer
+            i Sverige certifierats enligt AFS 2001:1. I AFS 2001:1 definieras
+            systematiskt arbetsmiljöarbete enligt följande: Med systematiskt
+            arbetsmiljöarbete menas i dessa föreskrifter arbetsgivarens arbete
+            med att undersöka, genomföra och följa upp verksamheten på ett
+            sådant sätt att ohälsa och olycksfall i arbetet förebyggs och
+            en tillfredsställande arbetsmiljö uppnås. Utskottets ställningstagande
+            Utskottet anser att det är angeläget att utveckla och ständigt
+            förbättra statsförvaltningen med hjälp av ISO och andra modeller
+            som t.ex. EU:s EMAS-modell för miljöstyrning. Valet av modell
+            och arbetssätt måste dock göras i respektive myndighet. I syfte
+            att åstadkomma ett strukturerat sätt att arbeta med verksamhetsförbättring
+            är det heller inte nödvändigt att en myndighet certifieras av
+            en utomstående part. Detta är ju också en kostnadsfråga då certifiering
+            kan vara förenat med stora kostnader. Som KKR (Statens kvalitets-
+            och kompetensråd) konstaterar har många myndigheter också börjat
+            använda ISO 9001 och ISO 14001 i syfte att kvalitetssäkra sin
+            verksamhet och minska sin miljöpåverkan, dock utan att låta certifiera
+            sig. Ekonomistyrningsverket (ESV) är ett exempel på detta. Beträffande
+            certifiering av arbetsmiljöarbete (enligt AFS 2001:1) så är förutsättningarna
+            lite annorlunda. AFS 2001:1 står för Systematiskt arbetsmiljöarbete
+            och är reglerat enligt arbetsmiljölagen, dvs. alla arbetsgivare
+            är skyldiga att införa AFS 2001:1, och certifiering framstår i
+            det sammanhanget som än mindre relevant. Mot denna bakgrund avstyrks
+            motion Fi272 (s). Processorientering i staten Utskottets förslag
+            i korthet Utskottet avstyrker motionärens förslag om att ett generellt
+            krav på ett processorienterat arbetssätt bör riktas till samtliga
+            statliga myndigheter. Motionen I motion Fi276 av Berit Högman
+            (s) anförs att krav på ett processorienterat arbetssätt bör riktas
+            till samtliga statliga myndigheter. Enligt motionären ställer
+            medborgarna allt större krav på effektivitet och tillgänglighet
+            i offentlig verksamhet. Bäst resultat i dessa avseenden når enligt
+            motionären de myndigheter som arbetat med processorientering.
+            Regeringen har i dag ökad effektivitet som ett generellt krav
+            på statliga myndigheter samtidigt som man har ambitionen att sänka
+            sjukfrånvaron inom den statliga sektorn. Poängen med processorientering
+            är att fler mål kan nås samtidigt, t.ex. ökad nytta för medborgaren
+            och ökat välbefinnande för medarbetarna. I det processorienterade
+            arbetssättet utgår man från kundens/medborgarens krav och gör
+            även regelbundna mätningar av medborgarens uppfattning om verksamheten.
+            Regeringen bör enligt motionären med större tydlighet än i dag
+            ålägga statliga myndigheter och verk att arbeta på ett processinriktat
+            sätt. Bakgrund Processorientering går tillbaka till början av
+            1970-talet, då större industrikoncerner sökte effektivare metoder
+            för främst logistik och kostnadskontroll. Erfarenheterna från
+            detta arbete har lett till att processsynsättet efterhand vunnit
+            global spridning inom både näringsliv och förvaltning. Synsättet
+            har de senaste åren också mött ökat intresse som en följd av att
+            nya ISO 9001 (standard för kvalitetsledning) baseras på ett processynsätt.
+            KKR:s uppdrag att belysa potentialen i processynsättet Regeringen
+            har uppdragit åt Statens kvalitets- och kompetensråd (KKR) att
+            i dialog med Ekonomistyrningsverket (ESV) belysa potentialen i
+            att lägga processynsättet till grund för att effektivisera statsförvaltningen
+            och för att utveckla mål- och resultatstyrningen ur ett medborgarperspektiv.
+            Uppdraget redovisades i juni 2004 i rapporten "Processbaserad
+            verksamhetsstyrning i staten". En process definieras av KKR som
+            en kedja eller ett nätverk av länkade aktiviteter som i ett återkommande
+            flöde skapar värde för en kund. Processen kan brytas ned i delprocesser,
+            aktiviteter och arbetsmoment till ett sammanhängande arbetsflöde.
+            Ett exempel är PRV:s patentprocess, där en patentansökan kommer
+            in, registreras, fördelas på handläggare och handläggs varefter
+            ett beslut fattas och expedieras. En processansats syftar ytterst
+            till att uppfylla kundernas krav på verksamheten. För detta krävs
+            effektiva och kvalitetssäkrade processer och mer direkta syften
+            med en processansats är därför att effektivisera och kvalitetssäkra
+            verksamheten. Enligt KKR erbjuder processynsättet både enskilda
+            myndigheter och staten som helhet en väg att skapa kostnadseffektiva
+            och rättssäkra verksamheter som samtidigt tillgodoser högt ställda
+            krav från medborgare och företag. Processorientering är ett relativt
+            begrepp. KKR beskriver följande tre ansatser som innebär olika
+            grad av processorientering: Processynsättet kan användas för hela
+            eller delar av verksamheten med effektivisering, kvalitetssäkring
+            eller kundorientering som syfte. Inga konsekvenser uppstår för
+            organisation, roller och ansvar. När en processorienterad ledningsstruktur
+            etableras påverkas ansvarsfördelningen mellan linjeorganisationen
+            och processen. Processerna får tyngd och ett tydligt utrymme i
+            organisationens ledning och styrning. I en fullt ut processbaserad
+            organisation leds, styrs och utvecklas hela verksamheten utifrån
+            processerna och utifrån ett kundorienterat synsätt. Detta innebär
+            att organisationen har en processorienterad ledningsstruktur och
+            att det operativa arbetet har processorienterats. Erfarenheter
+            i staten Många myndigheter arbetar med att processorientera verksamheten
+            eller med att skapa ett processbaserat kvalitetssystem. I KKR:s
+            studie kontaktades statliga myndigheter med fler än 20 anställda
+            samt statliga affärsdrivande verk. Drygt 40 av dessa uppgav att
+            de tillämpar en processansats. Få myndigheter har dock kommit
+            så långt att de har lagt processerna till grund för verksamhetens
+            styrning genom att sätta mål och utveckla mätsystem som utgår
+            från processerna. Processynsättet har använts av bl.a. Ekonomistyrningsverket
+            (ESV) och Statens kärnkraftinspektion (SKI) när det gäller verksamheten
+            i sin helhet. Syftet har främst varit att kvalitetssäkra arbetet.
+            Båda myndigheterna har gjort det genom att införa kvalitetsledningssystem
+            som bygger på verksamhetens processer. ESV har utgått från standarden
+            ISO 9001, medan SKI har utvecklat sitt system utan stöd av någon
+            specifik standard. I ingetdera fallet har organisation, roller
+            eller ansvar påverkats annat än i begränsad omfattning. Andra
+            exempel där man tillämpat processynsättet på delar av verksamheten
+            är Verket för högskoleservice (VHS) i antagningsprocessen och
+            Jordbruksverket i jordbrukarstödsprocessen. Båda myndigheterna
+            har enligt KKR uppnått mycket stora effektiviseringsvinster. En
+            högre grad av processorientering, en struktur för processledning,
+            har använts för hela eller delar av verksamheten av bl.a. Patent-
+            och registreringsverket (PRV), Vägverket, Luftfartsverket och
+            Migrationsverket. Migrationsverkets styrning har utvärderats av
+            Statskontoret och resultatet presenteras i rapporten Tydligare
+            styrning av Migrationsverket (2004:20). I rapporten framgår att
+            Migrationsverkets processansvar var otydligt för berörda aktörer.
+            Ansvaret vilade på svaga formella grunder och var inte kopplat
+            till erforderliga styrmedel. De myndigheter som gått längst i
+            att bli en fullständigt processbaserad organisation är Tullverket
+            och Försäkringskassan i Östergötland. Tullverket beskrivs av KKR
+            som Sveriges enda helt processtyrda och processorganiserade myndighet.
+            Tullverket har bl.a. definierat de två processerna "effektiv handel"
+            och "brottsbekämpning", som tillsammans uppfyller verksamhetens
+            syfte och som lagts till grund för verksamhetens styrning och
+            fortsatta utveckling. Tullverket har med processutvecklingen förbättrat
+            alla interna relevanta nyckeltal. Exempelvis har kostnaden per
+            handlagt ärende minskat kraftigt. Kundundersökningar visar samtidigt
+            att företagen anser att Tullverkets service har ökat dramatiskt.
+            Förändringarna har dock inte skett smärtfritt. Sättet att implementera
+            dem uppifrån och ned i organisationen har medfört betydande konsekvenser,
+            bl.a. när det gäller roller och mandat, främst för regioncheferna
+            men även för många andra chefer på regionnivå. Processerna har
+            ännu inte brutits ned och implementerats fullt ut på operativ
+            nivå, och förståelsen i den operativa verksamheten för det processorienterade
+            arbetssättet är än så länge begränsad. KKR konstaterar sammanfattningsvis
+            att processynsättet har en betydande potential när det gäller
+            att effektivisera statsförvaltningen. Framför allt när det gäller
+            processer som går över myndighets- och sektorsgränser. Erfarenheterna
+            från de studerade myndigheterna visar samtidigt att det finns
+            många begränsningar och fallgropar på vägen och att det tar tid
+            att få intern acceptans för processynsättet och att processorientera
+            verksamheten. Enligt KKR är den mest uppenbara fallgropen, som
+            många myndigheter hamnar i, att processarbetet begränsas till
+            en detaljerad kartläggning utan tydligt syfte och utan koppling
+            till styrningen. Erfarenheten pekar mot att processprojekt som
+            startas utan tydligt ledningsengagemang och strategiskt fokus
+            har sämre förutsättningar att lyckas. Detsamma gäller om projekt
+            är ensidigt toppstyrda, utan att medarbetarna involveras och känner
+            delägarskap. Utskottets ställningstagande Utskottet anser att
+            det är positivt att alltfler myndigheter processorienterar verksamheten
+            med medborgare och företag i fokus. KKR bistår myndigheterna i
+            detta arbete och sprider kunskap och information om goda exempel.
+            Som framgår av KKR:s studie är Tullverket ett sådant gott exempel,
+            där man genom ett konsekvent tillämpat processynsätt uppnått stora
+            förbättringar och effektiviseringar i verksamheten. Ett annat
+            exempel är Migrationsverket, men här har processansatsen varit
+            förenad med avsevärda problem, vilket framgår av Statskontorets
+            utvärdering. Utskottet anser att mer kunskap och erfarenhet kring
+            det processbaserade arbetssättet måste inhämtas innan man kan
+            ta ställning till processansatsens potential mer generellt bland
+            statliga myndigheter. Det ligger också genom 7 § verksförordningen
+            (1995:1322) i myndigheternas uppdrag att genom samarbete med andra
+            myndigheter ta tillvara de fördelar som kan vinnas för staten
+            som helhet. Hur detta samarbete över myndighetsgränser genomförs
+            anser dock utskottet vara en fråga för berörda myndigheter att
+            ta ställning till. Mot denna bakgrund avstyrks motion Fi276 (s).
+          </p>
+          <p>
+            Reservationer Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer. I rubriken anges vilken
+            punkt i utskottets förslag till riksdagsbeslut som behandlas i
+            avsnittet. 1. Öppen programvara och öppna standarder, punkt 1
+            (mp) av Yvonne Ruwaida (mp). Förslag till riksdagsbeslut Jag anser
+            att förslaget till riksdagsbeslut under punkt 1 borde ha följande
+            lydelse: Riksdagen tillkännager för regeringen som sin mening
+            vad som anförs i reservationen om öppen programvara och öppna
+            standarder. Därmed bifaller riksdagen motion 2004/05:Fi261 av
+            Gustav Fridolin m.fl. (mp) yrkandena 1 och 3. Ställningstagande
+            Öppna programvaror vidareutvecklas av såväl ideella krafter och
+            kommersiella företag som av andra användare. Genom att licensavtalen
+            för öppen programvara vanligen tillåter att förändringar i koden
+            sprids kan fler aktörer än den ursprungliga skaparen bidra med
+            förbättringar. Det betyder att slutanvändaren inte riskerar att
+            låsas in i ett slutet system eller att bli beroende av en enskild
+            leverantör. Öppna programvaror har länge funnits som en naturlig
+            del av Internet, och en majoritet av alla webbservrar kör i dag
+            med någon av de öppna operativsystemen. Det ger dem en stark legitimitet
+            som säkra och stabila produkter. Statskontoret har redan i dag
+            förbättrat villkoren för öppen programvara genom att förbättra
+            upphandlingsreglerna, men ännu har det i praktiken inte betytt
+            någon större förändring. Trots att fördelarna är många med öppna
+            programvaror har hittills användningen i offentlig förvaltning
+            i stort sett uteblivit. Många inom förvaltningen tvekar att ta
+            det första steget. Valet faller på det man redan har i drift,
+            för att det erbjuder en (måhända falsk) känsla av trygghet. Det
+            finns en vinst för både kommuner, landsting och landet i stort
+            om öppna programvaror kan utnyttjas i större utsträckning. Jag
+            ställer mig därför bakom motionärens förslag om att tillsätta
+            en utredning för att bl.a. se över vilka konsekvenser en övergång
+            till öppna eller fria programvaror i statliga, landstingskommunala
+            och kommunala förvaltningar och myndigheter skulle få i form av
+            kostnader, besparingar och möjlighet till arbetstillfällen, vilka
+            av de offentligt använda datorprogrammen som går att ersätta med
+            öppna alternativ och hur den offentliga upphandlingen av programvara
+            kan förbättras för att bättre ta hänsyn till öppna programvarors
+            fördelar. Vidare borde det vara självklart att den offentliga
+            information som finns tillgänglig på Internet görs tillgänglig
+            för alla, oavsett teknisk plattform eller hjälpmedel. De som inte
+            vill eller kan köra de vanligaste systemen på grund av fysiska
+            förutsättningar eller andra skäl ska inte diskrimineras. Öppna
+            standarder förenklar användandet för alla. Mot denna bakgrund
+            tillstyrker jag motion Fi261 (mp) yrkandena 1 och 3 . 2. Prissättningen
+            på samhällets informationstjänster, punkt 2 (mp) av Yvonne Ruwaida
+            (mp). Förslag till riksdagsbeslut Jag anser att förslaget till
+            riksdagsbeslut under punkt 2 borde ha följande lydelse: Riksdagen
+            tillkännager för regeringen som sin mening vad som anförs i reservationen
+            om prissättningen på samhällets informationstjänster. Därmed bifaller
+            riksdagen motion 2004/05:Fi261 av Gustav Fridolin m.fl. (mp) yrkande
+            2. Ställningstagande Sverige ligger långt framme när det gäller
+            informationsteknisk utveckling. Informationsteknik är dock beroende
+            av underliggande information. Många potentiella innovatörer hindras
+            i dag från att pröva sina idéer på grund av orimliga licensavgifter
+            för information som i grunden redan är betald med offentliga medel.
+            All information som finansieras från det offentliga är alla skattebetalares
+            gemensamma egendom och bör också göras tillgänglig för alla, självklart
+            med undantag för information som kan skada rikets säkerhet eller
+            den personliga integriteten. Det finns exempel från andra länder
+            där man kommit betydligt längre än Sverige i dessa avseenden.
+            Engelska BBC gör exempelvis alla sina produktioner tillgängliga
+            via Internet. Amerikanska NASA gör likadant med den mest grundläggande
+            av sin information. Att det finns ett stort behov av att låta
+            utreda myndigheternas avgiftssättning bekräftas inte minst av
+            den framställning till riksdagen, angående brister och oklarheter
+            i hanteringen av offentligrättsliga avgifter, som Riksrevisionens
+            styrelse nyligen lagt fram (2004/05:RRS8). Mot denna bakgrund
+            tillstyrker jag motion Fi261 (mp) yrkande 2. 3. Minskning av antalet
+            myndigheter, punkt 3 (m, fp, kd, c) av Mikael Odenberg (m), Mats
+            Odell (kd), Gunnar Axén (m), Christer Nylander (fp), Cecilia Widegren
+            (m), Gunnar Nordmark (fp) och Jörgen Johansson (c). Förslag till
+            riksdagsbeslut Vi anser att förslaget till riksdagsbeslut under
+            punkt 3 borde ha följande lydelse: Riksdagen tillkännager för
+            regeringen som sin mening vad som anförs i reservationen om minskning
+            av antalet myndigheter. Därmed bifaller riksdagen motion 2004/05:Fi263
+            av Torkild Strandberg och Christer Nylander (båda fp). Ställningstagande
+            Myndigheterna har en central roll i den demokratiska beslutsprocessen.
+            Den svenska demokratin bygger på principen om en självständig
+            statförvaltning. Myndigheterna ska på ett effektivt, opartiskt
+            och rättssäkert sätt tjäna medborgarna, sina yttersta uppdragsgivare.
+            I dagens Sverige pekar mycket på att den principen är hotad. Myndighets-Sverige
+            expanderar kraftigt, myndigheterna ägnar sig alltmer åt politisk
+            propaganda, utnämningsmakten missbrukas och utredningsväsendet
+            håller på att tappa i kvalitet och oberoende. Sedan sekelskiftet
+            har 31 helt nya myndigheter tillkommit enligt en färsk rapport
+            från Statskontoret. Samtidigt är ett stort antal nya myndigheter
+            på väg att bildas eller är på förslag. I dag har Sverige sammanlagt,
+            enligt Statskontoret, 234 myndigheter som lämnar årsredovisning
+            till regeringen. Tillsammans omsätter myndigheterna 207 miljarder
+            kronor och har drygt 192 000 årsarbetskrafter. Orsakerna bakom
+            tendensen att skapa nya myndigheter är flera. En är att regeringen
+            har belönat lojala företrädare för sina samarbetspartier med myndighetschefstjänster,
+            en annan att regeringen i avsaknad av konkreta åtgärdsförslag
+            på ett sakområde vill visa handlingskraft. Att då inrätta en ny
+            myndighet ger intryck av politisk vilja, prioritering och engagemang.
+            Ett talande exempel är EU 2004-kommitténs förslag om att det borde
+            inrättas en ny permanent myndighet som ska fördela bidrag till
+            organisationer för EU-information. Många av de nystartade myndigheterna
+            är små. Detta innebär höga administrationskostnader och större
+            sårbarhet jämfört med större myndigheter, vilket bidrar till att
+            minska effektiviteten i statsförvaltningen. I takt med att den
+            offentliga byråkratin växer ökar också krånglet för företag och
+            enskilda medborgare. Den offentliga förvaltningen blir alltmer
+            svåröverskådlig, vilket försvårar ansvarsutkrävande och kontroll.
+            Slutligen bör regeringen också ta fram en strategi för hur antalet
+            myndigheter ska kunna reduceras. Mot denna bakgrund tillstyrker
+            vi motion Fi263 (fp).
+          </p>
+          <p>
+            Bilaga Förteckning över behandlade förslag Motioner från allmänna
+            motionstiden hösten 2004 2004/05:Fi261 av Gustav Fridolin m.fl.
+            (mp): 1. Riksdagen tillkännager för regeringen som sin mening
+            vad i motionen anförs om att låta utreda öppen mjukvara i offentlig
+            förvaltning. 2. Riksdagen tillkännager för regeringen som sin
+            mening vad i motionen anförs om att utreda hur samhällets grundläggande
+            informationsresurser som finansieras med offentliga medel kan
+            göras allmänt och fritt tillgängliga via Internet, med undantag
+            för information som kan skada rikets säkerhet eller privatpersoners
+            integritet eller säkerhet. 3. Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om att offentlig information
+            i första hand skall göras tillgänglig via öppna standarder. 2004/05:Fi263
+            av Torkild Strandberg och Christer Nylander (båda fp): Riksdagen
+            tillkännager för regeringen som sin mening vad i motionen anförs
+            om att reducera antalet myndigheter i Sverige. 2004/05:Fi272 av
+            Barbro Hietala Nordlund och Kurt Kvarnström (båda s): Riksdagen
+            tillkännager för regeringen som sin mening vad i motionen anförs
+            om på vilket sätt en eventuell översyn kan göras av för- och nackdelar
+            för statliga verk med en certifiering enligt ISO-standard. 2004/05:Fi276
+            av Berit Högman (s): Riksdagen tillkännager för regeringen som
+            sin mening vad som i motionen anförs om ett generellt krav på
+            att processorienterat arbetssätt bör riktas till samtliga statliga
+            myndigheter.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

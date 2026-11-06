@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200607_FiU_0018">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksrevisionen har lämnat sin årsredovisning för 2006 till riksdagen. Riksdagen avslutade ärendet utan att göra något mer.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Riksrevisionens årsredovisning för 2006 (FiU18)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Redogörelsen läggs till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren beslöt bifalla utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GU09108</idno>
+              <title>2007-05-16</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">108</biblScope>
+              <note type="display-reference">2007-05-16</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GU09108</idno>
+              <title>2007-05-16</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">108</biblScope>
+              <note type="display-reference">2007-05-16</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GU0K154</idno>
+              <title>2006/07:154</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">154</biblScope>
+              <note type="display-reference">2006/07:154</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="redogorelse">
+              <idno type="riksdagen">GU04RRS10</idno>
+              <title>Riksrevisionens årsredovisning för 2006</title>
+              <biblScope unit="riksdag-session">2006/07</biblScope>
+              <biblScope unit="document-number">RRS10</biblScope>
+              <note type="display-reference">redogorelse 2006/07:RRS10 Riksrevisionens årsredovisning för 2006</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2007-05-11">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2007-05-11">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2007-05-02">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2007-05-02">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2007-05-02">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-04-24">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2007-04-24">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-04-17">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2007-04-17">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2007-05-16">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2007-05-16">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2007-05-16">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-05-16">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2007-05-16">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-05-15">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2007-05-15">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2007-05-14">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2007-05-14">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2006/07:FiU18
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Riksrevisionens årsredovisning för 2006
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDABJFTM" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            Riksrevisionens årsredovisning för 2006 har överlämnats till
+            riksdagen i form av en redogörelse (redog. 2006/07:RRS10). Utskottet
+            föreslår efter genomförd revision att riksdagen lägger Riksrevisionens
+            årsredovisning till handlingarna. Utöver behandlingen av årsredovisningen
+            redovisas i betänkandet också en uppföljningsrapport som Riksrevisionen
+            tagit fram med anledning av sina granskningar. I vilken mån leder
+            Riksrevisionens granskningar till att staten får ett mer effektivt
+            utbyte av sina insatser? Utskottet anser att rapporten är en utmärkt
+            början på en fördjupad uppföljning av Riksrevisionens granskningsverksamhet.
+          </p>
+          <p xml:id="IDAIJFTM" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Riksrevisionens årsredovisning för 2006
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger redogörelse 2006/07:RRS10 till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 24 april 2007
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Pär Nuder (s), Ulf Sjösten (m), Anna Lilliehöök (m), Sonia Karlsson
+            (s), Hans Hoff (s), Peder Wachtmeister (m), Agneta Gille (s),
+            Ulla Andersson (v), Tommy Ternemar (s), Emma Henriksson (kd),
+            Mikaela Valtersson (mp), Ann-Charlotte Hammar Johnsson (m), Jörgen
+            Hellman (s), Per Åsling (c), Gunnar Andrén (fp) och Christina
+            Andersson (c).
+          </p>
+          <p xml:id="IDAJMFTM" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            Enligt lagen (2002:1023) med instruktion för Riksrevisionen ska
+            myndigheten senast den 22 februari varje år lämna årsredovisning
+            för det senaste budgetåret till riksdagen. Enligt samma lag beslutar
+            Riksrevisionens styrelse om årsredovisning. Styrelsen har överlämnat
+            årsredovisningen för 2006 till riksdagen i form av en redogörelse
+            (redog. 2006/07:RRS10).
+          </p>
+          <p>
+            Ingen motion har väckts med anledning av redogörelsen.
+          </p>
+          <p>
+            Utöver Riksrevisionens årsredovisning behandlas i detta sammanhang
+            också Riksrevisionens rapport Uppföljning av Riksrevisionens granskningar
+            från mars 2007.
+          </p>
+          <p>
+            Finansutskottet ansvarar för att revision görs av Riksrevisionen.
+            För den uppgiften har utskottet anlitat Lindebergs Grant Thornton.
+            Revisionsberättelsen och revisionspromemorian finns tillgängliga
+            hos finansutskottet (dnr 060-2220-06/07).
+          </p>
+          <p>
+            I en bilaga till betänkandet finns en förteckning över behandlade
+            förslag.
+          </p>
+          <p xml:id="IDA2MFTM" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAANFTM" rend="rubrik2">
+            Riksrevisionens årsredovisning för 2006
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAGNFTM" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Efter avslutad revision lägger riksdagen Riksrevisionens årsredovisning
+                för 2006 till handlingarna.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDASNFTM" rend="r3">
+              Redogörelsen
+            </p>
+            <p>
+              Årsredovisningen fastställdes av styrelsen vid ett sammanträde
+              den 21 februari 2007.
+            </p>
+            <p>
+              Riksrevisionen har två huvuduppgifter: att årligen granska myndigheternas
+              årsredovisning (årlig revision) och att granska om staten med
+              hänsyn till allmänna samhällsintressen får ett effektivt utbyte
+              av sina insatser (effektivitetsrevision). Riksrevisionen ska även
+              bedriva internationell verksamhet. Verksamheten finansieras i
+              huvudsak med anslag. En mindre del av verksamheten finansieras
+              med avgifter.
+            </p>
+            <p>
+              Under 2006 har granskningsverksamheten omorganiserats. Syftet
+              var att öka effektiviteten i verksamheten genom en gemensam operativ
+              ledning för all granskningsverksamhet, dvs. både för årlig revision
+              och för effektivitetsrevision.
+            </p>
+            <p xml:id="IDA4NFTM" rend="r4">
+              Finansiering av Riksrevisionens verksamhet
+            </p>
+            <p>
+              Riksrevisionens verksamhet finansieras med anslag 90:1 Riksrevisionen
+              under utgiftsområde 2 Samhällsekonomi och finansförvaltning samt
+              anslag 8:6 Riksrevisionen: Internationella uppdrag under utgiftsområde
+              7 Internationellt bistånd.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 1 Anslag och anslagssparande 2006
+            </p>
+            <p rend="tabellunderrubrik grad2">
+              1 000-tal kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              <graphic url="Shape{49941407-7F06-4490-BF77-4C4565AB71AA}.png"/>
+            </p>
+            <p>
+              Anslagssparandet på anslag 90:1 Riksrevisionen minskar något
+              jämfört med föregående år men ligger fortfarande över 3 % av tilldelade
+              medel. Inriktningen för 2006 var att öka resursinsatsen inom effektivitetsrevisionen,
+              men arbetet med omorganisationen samt hög personalomsättning innebar
+              att de genomförda rekryteringarna endast kunde hålla resurserna
+              på en oförändrad nivå. Riksrevisonen utnyttjade 96,4 % av anslaget
+              under 2006. För anslag 8:6 Riksrevisionen: Internationella uppdrag
+              har 96,7 % av anslaget utnyttjats.
+            </p>
+            <p>
+              Riksrevisionen tar ut en avgift för årlig revision samt för revision
+              i de fall som avses i aktiebolagslagen (2005:551) och stiftelselagen
+              (1994:1220). Avgiften ska beräknas så att full kostnadstäckning
+              uppnås. Den avgiftsfinansierade verksamheten uppvisar ett underskott
+              med 2,3 miljoner kronor för 2006. Riksrevisionen kommer under
+              2007 att se över tidsanvändningen inom myndigheten med sikte på
+              att öka andelen fakturerad tid.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 2 Kostnader för verksamhetsgrenarna
+            </p>
+            <p rend="tabellunderrubrik grad2">
+              1 000-tal kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              <graphic url="Shape{CE7262D4-0F55-4107-B5C7-8FF7C6DF33D9}.png"/>
+            </p>
+            <p xml:id="IDAQPFTM" rend="r4">
+              Verksamhetsgren Årlig revision
+            </p>
+            <p>
+              Riksrevisionen har under året avlämnat revisionsberättelser för
+              totalt 257 myndigheter samt avgett revisorsintyg avseende delårsrapporter
+              för 121 myndigheter. Granskningen har omfattat de objekt som anges
+              i lag och genomförts i tid och i enlighet med god revisionssed.
+              Antalet revisionsberättelser har minskat med drygt 20 jämfört
+              med 2005. Nedgången är i allt väsentligt kopplad till sammanslagningen
+              av de allmänna försäkringskassorna och Riksförsäkringsverket.
+            </p>
+            <p>
+              Inom Riksrevisionen finns ett internt råd som ska bidra till
+              kvalitetssäkringen av den årliga revisionen. En intressentundersökning
+              riktad till myndigheter, statliga bolag och Regeringskansliet,
+              som Riksrevisionen genomfört under 2006, visar att den årliga
+              revisionen överlag får ett gott betyg.
+            </p>
+            <p xml:id="IDAZPFTM" rend="r4">
+              Verksamhetsgren Effektivitetsrevision
+            </p>
+            <p>
+              Målsättningen för 2006 har varit att genomföra 35 granskningar
+              huvudsakligen inom följande granskningsinriktningar:
+            </p>
+            <p>
+              ·. Regeringens styrning, uppföljning och rapportering
+            </p>
+            <p>
+              ·. Förvaltningens förmåga att fullgöra sina åtaganden
+            </p>
+            <p>
+              ·. Förvaltningens interna styrning och kontroll
+            </p>
+            <p>
+              ·. Statliga bolag och stiftelser
+            </p>
+            <p>
+              ·. Staten och arbetsutbudet
+            </p>
+            <p>
+              ·. Hoten mot samhället
+            </p>
+            <p>
+              ·. Offentliga finanser.
+            </p>
+            <p>
+              Riksrevisionen har producerat 32 granskningsrapporter, vilket
+              är tre färre än volymmålet för 2006.
+            </p>
+            <p>
+              Kostnaderna för effektivitetsrevisionen uppgick till totalt 131
+              miljoner kronor 2006, vilket är en ökning jämfört med föregående
+              år (se tabell 2). Ambitionen var en större ökning, men den uppnåddes
+              inte på grund av att rekryteringar inte kunnat genomföras i önskad
+              takt.
+            </p>
+            <p>
+              Intressentundersökningen som nämndes ovan visar att rapporteringen
+              anses hålla en hög standard samtidigt som förbättringar efterfrågas
+              vad gäller tydligheten i slutsatser och rekommendationer. Effektivitetsrevisionen
+              får totalt sett ett gott betyg av de tillfrågade.
+            </p>
+            <p xml:id="IDA2BGUM" rend="r4">
+              Internationell verksamhet
+            </p>
+            <p>
+              Enligt Riksrevisionens instruktion ska myndigheten bedriva internationell
+              verksamhet i enlighet med vad riksdagen har beslutat. Riksrevisionen
+              får även i övrigt inom sitt verksamhetsområde utföra uppdrag och
+              tillhandahålla tjänster på det internationella området. Den internationella
+              verksamheten finansieras dels av anslag 8:6 Riksrevisionen: Internationella
+              uppdrag, dels av anslag 90:1 Riksrevisionen. Sistnämnda del av
+              verksamheten avser exempelvis samverkan inom ramen för International
+              Organization of Supreme Audit Institutions (Intosai). Riksrevisionen
+              är Sveriges Supreme Audit Institution (SAI) och företräder Sverige
+              internationellt inom området offentlig revision. Riksrevisionen
+              kan även bedriva viss avgiftsfinansierad internationell verksamhet.
+            </p>
+            <p>
+              Det internationella utvecklingssamarbetet bedrivs främst i projektform,
+              där syftet är att Riksrevisionen ska stärka den institutionella
+              kapaciteten (roll, lagstiftning, kompetens, resurser, ledarskap
+              m.m.) hos revisionsmyndigheter i enskilda utvecklingsländer.
+            </p>
+            <p>
+              Under 2006 har metodutvecklingen inom Riksrevisionen på området
+              fortsatt. Verksamhetsutvecklingen har avsett såväl administrativa
+              rutiner, processer för den löpande verksamheten som mer strategiska
+              frågor.
+            </p>
+            <p>
+              Riksrevisionen har under 2006 bedrivit sex samarbetsprojekt i
+              södra Afrika, i Östeuropa och på Balkan samt gett stöd till ett
+              regionalt samarbete mellan revisionsmyndigheter i södra Afrika
+              (Afrosai-E). Under året har externa utvärderingar gjorts av flera
+              samarbetsprojekt.
+            </p>
+            <p>
+              Kostnaderna för den internationella verksamheten har mellan 2004
+              och 2006 ökat med 28 % (anslag 90:1) respektive 47 % (anslag 8:6).
+              Utvecklingen visar att Riksrevisionen nu etablerat den internationella
+              verksamheten. Den bedrivs nu i huvudsak på avsedd nivå.
+            </p>
+            <p xml:id="IDAOCGUM" rend="r3">
+              Riksrevisionens uppföljningsrapport
+            </p>
+            <p>
+              I förordet till rapporten Uppföljning av Riksrevisionens granskningar
+              skriver riksrevisorerna följande:
+            </p>
+            <p rend="citat">
+              En naturlig del av vårt uppdrag är att följa upp vad som har
+              hänt till följd av vår granskning. Det är först när effekterna
+              av våra granskningar blir synliga som vi kan säga att vi bidragit
+              till ett effektivare resursutnyttjande och ett ökat förtroende
+              för förvaltningen i staten. [ ] vi riksrevisorer anser inte att
+              det räcker med att de faktiska åtgärderna stannar vid nya utredningar,
+              nya uttalanden eller allmänna riktlinjer. Om vi ska få till stånd
+              förbättringar och effektiviseringar inom staten så krävs att riksdagen
+              och regeringen utkräver det ansvar som våra rapporter ger underlag
+              för. De problem som vi pekat på måste snabbt åtgärdas.
+            </p>
+            <p>
+              Uppföljningsrapporten omfattar de hittills 80 rapporter inom
+              effektivitetsrevisionen som regeringen hunnit kommentera i budgetpropositionen.
+              Rapporterna är publicerade mellan december 2003 och augusti 2006.
+            </p>
+            <p>
+              Uppföljningen är inriktad på att visa hur granskningsrapporterna
+              har behandlats av regeringen, Riksrevisionens styrelse och riksdagen.
+              Därutöver har Riksrevisionen följt upp vad som har hänt i den
+              statliga verksamheten, dvs. vilka åtgärder som myndigheterna och
+              bolagen har vidtagit. Syftet har inte varit att redovisa vad som
+              har hänt med varje enskild granskning utan att visa vad som hänt
+              med granskningarna på en aggregerad nivå.
+            </p>
+            <p xml:id="IDA3CGUM" rend="r4">
+              Riksdagens behandling av granskningarna
+            </p>
+            <p>
+              Riksrevisionens uppföljning visar att riksdagen i ett fåtal fall
+              begärt att regeringen vidtar åtgärder med anledning av styrelsens
+              framställningar och redogörelser. Motiven för riksdagens beslut
+              att avslå framställningar och lägga redogörelser till handlingarna
+              är oftast att regeringen och granskade organisationer redan har
+              påbörjat eller planerar olika insatser.
+            </p>
+            <p>
+              Riksrevisionens styrelse har t.o.m. augusti 2006 lämnat granskningsresultat
+              i tre av fyra rapporter vidare till riksdagen för behandling.
+              Av totalt 80 granskningsrapporter lämnades 40 som framställningar
+              och 21 som redogörelser. Återstående 19 rapporter lades till handlingarna.
+            </p>
+            <p>
+              I genomsnitt tog det 8,7 månader från det att Riksrevisionen
+              publicerade en granskningsrapport till det att riksdagen fattade
+              sitt beslut med anledning av framställningen eller redogörelsen.
+            </p>
+            <p>
+              Riksrevisionens granskningar används också på andra sätt som
+              underlag i den politiska debatten. Även i interpellationer, frågor
+              och motioner används granskningsrapporterna som ett kunskapsunderlag.
+              Sammanlagt 63 motioner väcktes med anledning av styrelsens framställningar
+              och redogörelser och därutöver ca 130 övriga motioner som hänvisar
+              till en eller flera av Riksrevisionens granskningar. Vidare har
+              det ställts 23 interpellationer och 37 frågor till ansvarigt statsråd
+              där en granskningsrapport utgjort underlag.
+            </p>
+            <p xml:id="IDAMDGUM" rend="r4">
+              Regeringens och myndigheternas åtgärder till följd av granskningen
+            </p>
+            <p>
+              Cirka en tredjedel av de 80 granskningsrapporterna innehåller
+              rekommendationer som enbart riktar sig till regeringen. I ytterligare
+              drygt hälften av rapporterna är rekommendationerna riktade till
+              regeringen samt till en eller flera myndigheter eller bolag. I
+              resterande granskningar (drygt 10 %) är rekommendationerna riktade
+              enbart till de myndigheter eller bolag som granskas.
+            </p>
+            <p>
+              Uppföljningen visar att regeringen och övriga granskade organisationer
+              vidtar någon form av åtgärd med anledning av alla Riksrevisionens
+              granskningar. Ibland inträffar detta redan under pågående granskning.
+              Men ofta tar det tid. De första initiativ som regeringen tar innebär
+              i regel att Riksrevisionens iakttagelser och rekommendationer
+              övervägs och bereds. Med tiden blir åtgärderna mer konkreta. Styrningen
+              av verksamheten ändras, och uppdrag lämnas. Myndigheternas och
+              bolagens åtgärder är ofta en konsekvens av regeringens initiativ.
+            </p>
+            <p>
+              Riksrevisionens granskningar behandlas ibland tillsammans med
+              annat underlag, exempelvis från offentliga utredningar och andra
+              myndigheter. Det innebär att Riksrevisionens iakttagelser och
+              rekommendationer inte ges någon särskild ställning. Det medför
+              också att det inflytande Riksrevisionens granskningar har på de
+              åtgärder som till slut vidtas blir svårt att urskilja.
+            </p>
+            <p>
+              I budgetpropositionen redovisar och kommenterar regeringen iakttagelserna
+              i Riksrevisionens granskningsrapporter. Redovisningen är ibland
+              mer kortfattad, ibland mer utförlig.
+            </p>
+            <p>
+              Riksrevisionen har klassificerat regeringens åtgärder i ett antal
+              kategorier som grovt beskriver vilka åtgärder regeringen har aviserat
+              eller vidtagit. De största kategorierna åtgärder är de där regeringen
+              hänvisar till pågående beredning eller pågående arbete eller att
+              den överväger rekommendationerna och avser att återkomma till
+              riksdagen med sådana som är av styrningskaraktär.
+            </p>
+            <p>
+              Regeringen har, efter önskemål från finansutskottet, uttalat
+              en ambition att successivt och i ökad utsträckning göra det tydligt
+              när ett granskningsärende bedöms färdigbehandlat. I budgetpropositionen
+              för 2007 meddelar regeringen att tre granskningsrapporter är färdigbehandlade.
+            </p>
+            <p>
+              Sammanfattningsvis anser Riksrevisionen att det än så länge är
+              otydligt vad som har hänt i den faktiskt bedrivna verksamheten.
+              Det är sällan som mer genomgripande förändringar har ägt rum.
+              Riksrevisionen har sett få spår av att de problem man pekat på
+              i de tidigaste granskningarna är undanröjda. Det gäller också
+              i de fall där regeringen anser att ett granskningsärende är färdigbehandlat.
+            </p>
+            <p xml:id="IDAEEGUM" rend="r4">
+              Regeringens behandling av den årliga revisionens invändningar
+            </p>
+            <p>
+              I sin uppföljningsrapport tar Riksrevisionen även upp hur regeringen
+              behandlat den årliga revisionens invändningar. Den vanligaste
+              orsaken till invändning i revisionsberättelsen är att myndigheterna
+              överskrider tilldelade anslag eller bemyndiganderamar samt att
+              de gör framtida åtaganden utan att ha fått sådant bemyndigande.
+            </p>
+            <p>
+              I budgetpropositionen behandlar regeringen den årliga revisionens
+              invändningar inom ramen för respektive utgiftsområde och politikområde.
+              Den vanligaste kommentaren är att regeringen konstaterar att myndigheten
+              vidtagit lämpliga åtgärder och att den avser att följa upp myndighetens
+              arbete. I några fall har regeringen av riksdagen begärt bemyndigande
+              för myndigheten. De åtgärder som vidtas förefaller i de flesta
+              fall leda till att orsaken till invändningen åtgärdas.
+            </p>
+            <p xml:id="IDANEGUM" rend="r3">
+              Externrevisionen
+            </p>
+            <p>
+              Enligt lagen (2002:1023) med instruktion för Riksrevisionen svarar
+              finansutskottet för att det görs en revision av myndigheten. För
+              detta anlitar utskottet revisionsfirman Lindebergs Grant Thornton.
+              Revisionsberättelse samt revisions-pm inkom till finansutskottet
+              den 19 mars 2007. I revisionsberättelsen konstateras att årsredovisningen
+              har upprättats i enlighet med förordningen om myndigheters årsredovisning
+              och budgetunderlag, anslagsdirektiv och övriga beslut för myndigheten.
+              Årsredovisningen bedöms vara i allt väsentligt rättvisande. Som
+              komplement till revisionsberättelsen har Lindebergs Grant Thornton
+              även upprättat ett revisions-pm som sammanfattar iakttagelserna
+              vid granskningen av räkenskapsåret 2006.
+            </p>
+            <p xml:id="IDATEGUM" rend="r4">
+              Kommentarer till årsredovisningen
+            </p>
+            <p>
+              Som kommentar till årsredovisningen skriver externrevisorn att
+              man tidigare efterlyst en mer kvalitativ utvärdering för att uppfylla
+              de krav som formulerats i anslagsdirektivet. I årsredovisningen
+              anger Riksrevisionen att dessa synpunkter kommer att tillgodoses
+              genom en särskild uppföljningsrapport. Externrevisorerna anser,
+              med reservation för att de ännu inte sett den slutgiltiga versionen,
+              att uppföljningsrapporten på ett bra sätt kompletterar årsredovisningen.
+            </p>
+            <p>
+              Vidare påpekar externrevisorerna att målen och graden av måluppfyllelse
+              i den internationella verksamheten bör beskrivas tydligare i årsredovisningen.
+            </p>
+            <p>
+              Man efterlyser också en tydligare förklaring av vad som innefattas
+              i begreppet interna prestationer vid redovisningen av antalet
+              årsarbetskrafter.
+            </p>
+            <p xml:id="IDA5EGUM" rend="r4">
+              Kommentarer till resultaträkningen
+            </p>
+            <p>
+              När det gäller den avgiftsfinansierade internationella verksamheten
+              finns indikationer på brister i rutinen för hur uppdrag klassificeras
+              med avseende på finansieringskälla.
+            </p>
+            <p>
+              Externrevisorerna påpekar vidare att anslagssparandet för internationella
+              uppdrag hamnat på en avsevärt lägre nivå än tidigare år beroende
+              på dels minskat anslag (6 miljoner kronor), dels en ökning i antalet
+              internationella projekt.
+            </p>
+            <p xml:id="IDAIFGUM" rend="r4">
+              Granskning av intern kontroll och redovisningsrutiner
+            </p>
+            <p>
+              Inom årlig revision ligger nyckeltalet för operativ tid i förhållande
+              till total tid relativt långt under budget. Det är enligt externrevisorerna
+              en bidragande orsak till att erhållen timtaxa 2006 inte ger full
+              kostnadstäckning.
+            </p>
+            <p>
+              Inom effektivitetsrevision noteras att andelen nedlagd tid på
+              områdesbevakning ökat i förhållande till andelen nedlagd tid på
+              granskning. Ökningen under 2006 förklaras av ett antal riktade
+              områdesuppdrag, instudering av nya granskningsområden samt ökad
+              tid och planering för att få en mer effektiv granskning. Externrevisorerna
+              rekommenderar dock att denna utveckling följs upp framöver.
+            </p>
+            <p xml:id="IDARFGUM" rend="r3">
+              Finansutskottets ställningstagande
+            </p>
+            <p>
+              Utskottet konstaterar att den anlitade revisorn bedömer att Riksrevisionens
+              årsredovisning för 2006 i allt väsentligt är rättvisande. Revisionsberättelsen
+              är således ren.
+            </p>
+            <p>
+              Den årliga revisionens kostnader minskar såväl i absoluta tal
+              som i andel av de totala kostnaderna, vilket främst förklaras
+              av ett minskat antal revisionsberättelser till följd av att myndigheter
+              har avvecklats eller omstrukturerats. Kostnaderna för de båda
+              övriga verksamhetsgrenarna, effektivitetsrevision och internationell
+              verksamhet, har ökat. För verksamhetsområdet effektivitetsrevision
+              har andelen nedlagd tid på områdesbevakning ökat i förhållande
+              till andelen nedlagd tid på granskning. Samtidigt kan utskottet
+              konstatera att antalet granskningsrapporter understiger volymmålet
+              för 2006, vilket möjligtvis antyder att tiden nedlagd på granskning
+              varit otillräcklig. Utskottet noterar också att externrevisorn
+              rekommenderar att tidsanvändningen inom granskning respektive
+              områdesbevakning följs upp framöver.
+            </p>
+            <p>
+              Det är enligt utskottet tillfredsställande att det tidigare år
+              mycket höga anslagssparandet inom den internationella verksamheten
+              reducerats kraftigt 2006 och att verksamheten nu är mer i linje
+              med tilldelade medel. En nyordning som påverkar hanteringen av
+              anslagssparandet är att sedan den 1 januari 2007 regleras Riksrevisionen
+              av lagen (2006:999) med ekonomiadministrativa bestämmelser m.m.
+              för riksdagsförvaltningen, Riksdagens ombudsmän och Riksrevisionen.
+              Lagen innebär bl.a. att myndigheten får använda outnyttjade medel
+              (anslagssparande) under följande år.
+            </p>
+            <p>
+              Den uppföljningsrapport som Riksrevisionen tagit fram med anledning
+              av sina granskningar svarar väl mot tidigare uttryckta önskemål
+              från finansutskottet. Utskottet anser att rapporten är en utmärkt
+              början på en fördjupad uppföljning av huruvida staten får ett
+              mer effektivt utbyte av sina insatser tack vare Riksrevisionens
+              verksamhet. Utskottet vill betona vikten av att fokus i uppföljningen,
+              utöver regeringens åtgärder med anledning av granskningarna, ligger
+              på effekterna i den granskade verksamheten. I vilken mån har exempelvis
+              en myndighets verksamhet förbättrats som en följd av Riksrevisionens
+              granskning? Uppföljningen bör kunna fördjupas i takt med antalet
+              genomförda granskningar och också i takt med den tid regeringen
+              och enskilda myndigheter och bolag har till sitt förfogande att
+              vidta åtgärder med anledning av granskningarna. I rapporten följer
+              Riksrevisionen också upp riksdagsbehandlingen av granskningarna.
+              En sådan uppföljning kan naturligtvis ge en del intressant information
+              och kommer in som ett naturligt led i verkställighetskedjan från
+              riksdagen ned till en enskild myndighet. Som utskottet tidigare
+              påpekat är det dock tveksamt om själva riksdagsbehandlingen säger
+              något om effekterna av en viss granskning (bet. 2005/06:FiU25).
+              Att exempelvis riksdagen lägger ett ärende från Riksrevisionens
+              styrelse till handlingarna eller avslår detsamma kan ibland bero
+              på att regeringen redan vidtagit relevanta åtgärder, dvs. att
+              granskningen fått avsedd effekt och att några ytterligare åtgärder
+              från riksdagens sida inte är nödvändiga.
+            </p>
+            <p>
+              Utskottet föreslår att riksdagen lägger redogörelsen för Riksrevisionens
+              årsredovisning till handlingarna.
+            </p>
+            <p xml:id="IDADGGUM" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAGGGUM" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAJGGUM" rend="rubrik2">
+              Redogörelsen
+            </p>
+            <p>
+              Redogörelse 2006/07:RRS10 Riksrevisionens årsredovisning för
+              2006.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

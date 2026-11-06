@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_SOU_0018">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen lade till handlingarna regeringens redovisning av fördelningen av medel från Allmänna arvsfonden under 2001.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Allmänna arvsfonden under 2001 (SoU18)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09102</idno>
+              <title>2002-04-25</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">102</biblScope>
+              <note type="display-reference">2002-04-25</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09102</idno>
+              <title>2002-04-25</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">102</biblScope>
+              <note type="display-reference">2002-04-25</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K229</idno>
+              <title>2001/02:229</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">229</biblScope>
+              <note type="display-reference">2001/02:229</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="skr">
+              <idno type="riksdagen">GP03125</idno>
+              <title>Redovisning av fördelningen av medel från Allmänna arvsfonden under budgetåret 2001</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">125</biblScope>
+              <note type="display-reference">regeringsskrivelse 2001/02:125 Redovisning av fördelningen av medel från Allmänna arvsfonden under budgetåret 2001</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02So45</idno>
+              <title>med anledning av skr. 2001/02:125 Redovisning av fördelningen av medel från Allmänna arvsfonden under budgetåret 2001</title>
+              <title type="sub">av Ingrid Burman m.fl. (V)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">So45</biblScope>
+              <note type="display-reference">motion 2001/02:So45 med anledning av skr. 2001/02:125 Redovisning av fördelningen av medel från Allmänna arvsfonden under budgetåret 2001</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2002-04-16">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-04-11">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-04-09">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-04-09">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-03">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-03">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2002-04-25">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-04-25">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-04-25">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-04-25">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-04-25">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2002-04-24">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-04-23">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-04-23">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Socialutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:SOU18
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Redovisning av fördelningen av medel från Allmännaarvsfonden
+            under budgetåret 2001
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I betänkandet behandlas regeringens skrivelse
+            2001/02:125 Redovisning av fördelningen av medel från Allmänna
+            arvsfonden under budgetåret 2001 jämte en motion som väckts med
+            anledning av skrivelsen. Utskottet konstaterar att den särskilde
+            utredaren som haft i uppdrag att göra en översyn av Allmänna arvsfonden
+            och Arvsfondsdelegationens rättsliga ställning m.m. (dir. 2000:91)
+            överlämnat betänkandet Allmänna arvsfonden och Arvsfondsdelegationen
+            (SOU 2002:19) till regeringen den 15 februari 2002. Betänkandet
+            har sänts på remiss. Utskottet anser att den fortsatta beredningen
+            bör avvaktas och avstyrker därmed den aktuella motionen. Utskottet
+            anser att skrivelsen inte bör föranleda någon åtgärd från riksdagens
+            sida. I betänkandet finns en reservation.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Den organisatoriska
+            placeringen av Allmänna arvsfonden Riksdagen avslår motion 2001/02:So45.
+            Reservation (v) 2. Regeringens skrivelse Riksdagen lägger skrivelsen
+            till handlingarna. Stockholm den 9 april 2002 På socialutskottets
+            vägnar Ingrid Burman Följande ledamöter har deltagit i beslutet:
+            Ingrid Burman (v), Chris Heister (m), Susanne Eberstein (s), Conny
+            Öhman (s), Hans Hjortzberg-Nordlund (m), Elisebeht Markström (s),
+            Lars Gustafsson (kd), Cristina Husmark Pehrsson (m), Kenneth Johansson
+            (c), Catherine Persson (s), Lars Elinderson (m), Tullia von Sydow
+            (s), Lena Olsson (v), Rosita Runegrund (kd), Marina Pettersson
+            (s), Harald Nordlund (fp) och Lotta N Hedström (mp).
+          </p>
+          <p>
+            2001/02 SoU18 Redogörelse för ärendet Skrivelsens huvudsakliga
+            innehåll I skrivelsen lämnas en redogörelse för förvaltningen
+            av Allmänna arvsfonden och en översiktlig beskrivning av fördelningen
+            av medel ut fonden. Vidare redovisas hur regeringen och Arvsfondsdelegationen
+            fördelat medlen ur Allmänna arvsfonden under budgetåret 2001.
+            Slutligen anges några områden som enligt regeringens mening bör
+            uppmärksammas vid kommande fördelning av stöd ur Allmänna arvsfonden.
+          </p>
+          <p>
+            Utskottets överväganden Regeringens skrivelse m.m. Utskottets
+            förslag i korthet Riksdagen bör avslå en motion om den organisatoriska
+            placeringen av Allmänna arvsfonden med hänvisning till den fortsatta
+            beredningen av ärendet. Riksdagen bör lägga regeringens skrivelse
+            till handlingarna. Jämför reservation (v). Allmänna arvsfondens
+            förvaltning m.m. Allmänna arvsfonden har till ändamål att främja
+            verksamhet av ideell karaktär till förmån för barn, ungdomar och
+            personer med funktionshinder. Närmare bestämmelser om Allmänna
+            arvsfonden finns i lagen (1994:243) om Allmänna arvsfonden. Allmänna
+            arvsfondens egendom förvaltas av Kammarkollegiet som en särskild
+            fond. Fondens bokförda värde uppgick den 31 december 2001 till
+            ca 1 096 miljoner kronor och marknadsvärdet till ca 3 359 miljoner
+            kronor. För budgetåret 2002 finns ca 257 miljoner kronor att dela
+            ut. I skrivelsen redovisar regeringen att vid socialutskottets
+            behandling av regeringens skrivelse (skr. 1999/2000:125) om fördelningen
+            av medel från Allmänna arvsfonden under budgetåret 1999 och Riksdagens
+            revisorers förslag (1999/2000:RR9) angående Allmänna arvsfonden
+            hemställde utskottet (bet. 2000/01:SoU2) att riksdagen skulle
+            ge regeringen till känna att en översyn av flera olika frågeställningar
+            i anslutning till Allmänna arvs- fonden och Arvsfondsdelegationen
+            borde göras bl.a. när det gäller frågor kring deras rättsliga
+            ställning och revision. Riksdagen biföll vad utskottet hemställt
+            (rskr. 2000/01:21). Regeringen beslutade den 7 december 2000 om
+            direktiv för en särskild utredare med uppdrag att göra en översyn
+            av Allmänna arvsfondens och Arvsfondsdelegationens rättsliga ställning
+            m.m. (dir. 2000:91). Betänkandet Allmänna arvsfonden och Arvsfondsdelegationen
+            (SOU 2002:19) överlämnades till regeringen den 15 februari 2002.
+            Fördelning av stöd ur Allmänna arvsfonden Regeringen eller, efter
+            regeringens bemyndigande, Arvsfondsdelegationen eller annan myndighet
+            beslutar om fördelningen av stöd ur Allmänna arvsfonden enligt
+            8 § lagen (1994:243) om Allmänna arvsfonden (arvsfondslagen).
+            I förordningen (1994:952) om Allmänna arvsfonden regleras Arvsfondsdelegationens
+            arbetsuppgifter. Delegationen skall fördela stöd ur fonden, följa
+            upp projekt som beviljats stöd samt informera allmänheten om fondens
+            ändamål och användningsområde. Delegationen skall överlämna till
+            regeringen att avgöra ärenden som är av principiell betydelse
+            eller annars är av större vikt eller när delegationen anser att
+            stöd bör lämnas med mer än 300 000 kr. Regeringen kan i fråga
+            om fördelning av stöd för ett särskilt ändamål bestämma att Arvsfondsdelegationen
+            får besluta om stöd överstigande 300 000 kr. Totalt har ca 242
+            miljoner kronor fördelats under år 2001. Av dessa medel har ca
+            201,5 miljoner kronor fördelats genom löpande handläggning av
+            organi- sationernas egna initiativ under året och resterande medel,
+            ca 40,5 miljoner kronor, har fördelats inom ramen för de särskilda
+            satsningar som Arvsfondsdelegationen ansvarat för. Under året
+            har regeringen dessutom fattat beslut om att avsätta medel för
+            särskilda satsningar. Vissa av dessa särskilda satsningar är pågående
+            och andra nya där medel ännu inte börjat fördelas. Sammanlagt
+            78 projekt med syfte att utveckla och förnya verksamhet till förmån
+            för barn under 12 år har beviljats stöd med ca 55,7 miljoner kronor.
+            Ca 19,7 miljoner kronor har fördelats till verksamhet till förmån
+            för ungdomar 1225 år genom sammanlagt 77 beslut. När det gäller
+            verksamhet till förmån för personer med funktionshinder har 165
+            projekt beviljats stöd med sammanlagt ca 126 miljoner kronor.
+            I skrivelsen redovisas också särskilda satsningar, dvs. de medel
+            regeringen avsätter ur Allmänna arvsfonden för särskilda ändamål
+            under en viss period. Vad beträffar satsningar till förmån för
+            barn under 12 år redovisas att regeringen i november 2000 beslutat
+            om en treårig satsning mot rasism, främlingsfientlighet, homofobi
+            och diskriminering riktad till barn och personer med funktionshinder
+            av utländsk härkomst. Sammanlagt avser regeringen att fördela
+            30 miljoner kronor under perioden. Hälften till barn under 12
+            år och hälften till funktionshindrade. När det gäller satsning
+            till förmån för ungdomar mellan 12 och 25 år har medel avsatts
+            bl.a. till projekt rörande ungas arbete med konsumentfrågor, stöd
+            för att stärka flickors villkor och ungdomars arbete med generationsövergripande
+            frågor. Kommande inriktning för stöd ur Allmänna arvsfonden Ett
+            område som regeringen vill uppmärksamma är barns och ungdomars
+            hälsoutveckling, särskilt utvecklingen av psykisk ohälsa. Under
+            1990-talet har denna form av ohälsa ökat, särskilt bland unga
+            vuxna och bland barn och ungdomar, med symptom i form av ökad
+            ängslan, oro, ångest och sömnbesvär. Det finns också betydande
+            skillnader i ohälsa mellan olika grupper av befolkningen. Regeringen
+            anser det därför ange- läget att utveckla nya modeller där ideella
+            organisationer, själva eller tillsammans med offentliga samhällsorgan
+            kan förbättra barns och ungdomars psykiska hälsa och motarbeta
+            ojämlikhet i hälsan hos barn och ungdomar. När det gäller verksamhet
+            till förmån för barn nämns utöver den fortsatta satsningen mot
+            rasism och främlingsfientlighet bl.a. projekt som syftar till
+            att stimulera till arbete med de grundläggande värderingarna i
+            samhället och hur de påverkar relationerna mellan unga människor.
+            Andra områden som nämns är barns inflytande och delaktighet i
+            kultur- och samhällslivet, stöd till riskgrupper och individer
+            med riskbeteende vad avser alkoholskador samt barn med neuropsykiatriska
+            problem som tal- och skrivsvårigheter, ADHD, DAMP m.m. När det
+            gäller ungdomar avser regeringen att särskilt uppmärksamma projekt
+            i syfte att stärka ungdomars inflytande i samhället, projekt att
+            förebygga brott av och mot unga och att stärka stödet till unga
+            brottsoffer, projekt som syftar till att öka kunskapen om och
+            stärka homo- och bisexuella ungdomars och unga transpersoners
+            situation och livsvillkor samt projekt som syftar till att finna
+            nya vägar att öka ungdomars inflytande och delaktighet på den
+            europeiska nivån. Såvitt avser funktionshindrade anförs att särskilda
+            medel bl.a. avsatts för projekt inom kulturområdet som kan minska
+            fördomar, påverka attityder och tydliggöra hur personer med funktionshinder
+            bemöts, informationsinsatser där assistansyrkets karaktär och
+            innehåll kan beskrivas på ett sakligt sätt för att allmänt öka
+            kunskapen om assistansyrket, utvecklande av metoder inom folkhälsoområdet
+            som rör kost, motion och andra aktiviteter som kan vidmakthålla
+            och utveckla det friska hos personer med funktionshinder. Motion
+            I motion So45 av Ingrid Burman m.fl. (v) begärs tillkännagivande
+            till regeringen om vad i motionen anförs om den organisatoriska
+            placeringen av Allmänna arvsfonden. Utredningen föreslår att Arvsfondsdelegationen
+            utvecklas utifrån nuvarande organisation till en mer fristående
+            funktion som en nämndmyndighet inom Regeringskansliet. Förslaget
+            innebär visserligen en mer fristående roll men innebär samtidigt
+            att Regeringskansliet som värdmyndighet värnas. Motionärerna anför
+            att de delar Riksdagens revisorers uppfattning att Allmänna arvsfonden
+            och Arvsfondsdelegationen bör ges en frikopplad ställning till
+            Regeringskansliet för att därigenom nå en tydligare rättslig ställning
+            och likställas med andra myndigheter. För att säkerställa att
+            den beredning som pågår i Regeringskansliet har Riksdagens revisorers
+            förslag som utgångspunkt i sitt fortsatta arbete bör detta, enligt
+            motionärerna, ges regeringen till känna. Bakgrund och tidigare
+            behandling I betänkande 2000/01:SoU2 behandlade utskottet dels
+            redovisningen av fördelningen av medel från Allmänna arvsfonden
+            under budgetåret 1999, dels Riksdagens revisorers förslag angående
+            Allmänna arvsfonden (1999/2000:RR9). Utskottet anförde följande
+            med anledning av revisorernas förslag: Socialutskottet anser att
+            Riksdagens revisorers rapport ger stöd för att flera olika frågeställningar
+            i anslutning till Allmänna arvsfonden och Arvsfondsdelegationen
+            bör bli föremål för ytterligare utredning. Utskottet föreslår
+            därför att en utredning bör få i uppdrag att ge en allsidig belysning
+            av olika frågeställningar i sammanhanget samt, om det behövs,
+            föreslå förändringar. Vad utskottet nu anfört med anledning av
+            Riksdagens revisorers förslag samt motionerna bör riksdagen som
+            sin mening ge regeringen till känna. Utskottets ställningstagande
+            Utskottet konstaterar att betänkandet Allmänna arvsfonden och
+            Arvsfondsdelegationen (SOU 2002:19) överlämnades till regeringen
+            den 15 februari 2002. Betänkandet har sänts på remiss och remisstiden
+            går ut den 24 juni 2002. Utskottet anser att den fortsatta beredningen
+            av ärendet bör avvaktas. Riksdagen bör inte nu ta något initiativ
+            på området. Motion So45 (v) avstyrks därmed. Utskottet anser att
+            skrivelsen inte bör föranleda någon åtgärd från riksdagens sida.
+            Reservation Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservation. I rubriken anges inom parentes
+            vilken punkt i utskottets förslag till riksdagsbeslut som behandlas
+            i avsnittet. Den organisatoriska placeringen av Allmänna arvsfonden
+            (punkt 1) av Ingrid Burman (v) och Lena Olsson (v). Förslag till
+            riksdagsbeslut Vi anser att utskottets förslag under punkt 1 borde
+            ha följande lydelse: Riksdagen tillkännager som sin mening vad
+            som anförs i reservationen. Riksdagen bifaller därmed motion 2001/02:So45.
+            Ställningstagande Utredningen om Allmänna arvsfonden och Arvsfondsdelegationen
+            föreslår att Arvsfondsdelegationen utvecklas utifrån nuvarande
+            organisation till en mer fristående funktion som nämndmyndighet
+            inom Regeringskansliet. Förslaget innebär visserligen en mer fristående
+            roll men innebär samtidigt att Regeringskansliet som värdmyndighet
+            värnas. Vi delar Riksdagens revisorers uppfattning att Allmänna
+            arvsfonden och Arvsfondsdelegationen bör ges en frikopplad ställning
+            i förhållandet till Regeringskansliet för att därigenom nå en
+            tydligare rättslig ställning och likställas med andra myndigheter.
+            För att säkerställa att den beredning som pågår i Regeringskansliet
+            har Riksdagens revisorers förslag som utgångspunkt i sitt fortsatta
+            arbete bör vad vi nu anfört ges regeringen till känna. Bilaga
+            Förteckning över behandlade förslag Skrivelsen Regeringens skrivelse
+            2001/02:125 Redovisning av fördelningen av medel från Allmänna
+            arvsfonden under budgetåret 2001.
+          </p>
+          <p>
+            Motion 2001/02:So45 av Ingrid Burman m.fl. (v): Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om den organisatoriska
+            placeringen av Allmänna arvsfonden.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200304_KU_0018">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Sametingslagen ändras när det gäller fördelningen av ansvaret för sametingsvalet mellan olika myndigheter, registrering av partier med mera, överklagande av beslut om fastställande av röstlängd, mandatfördelning, tidsfrister för valet och omval. Även lagen om behandling av personuppgifter i verksamhet med val och folkomröstningar ändras eftersom det behövs bestämmelser om personuppgiftsbehandling i samband med sametingsvalen.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Ändringar i sametingslagen (KU18)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen. Avslag på motionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottet</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GR09110</idno>
+              <title>2004-05-06</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">110</biblScope>
+              <note type="display-reference">2004-05-06</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GR09110</idno>
+              <title>2004-05-06</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">110</biblScope>
+              <note type="display-reference">2004-05-06</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GR0K213</idno>
+              <title>2003/04:213</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">213</biblScope>
+              <note type="display-reference">2003/04:213</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="SOU">
+            <bibl type="SOU">
+              <idno type="riksdagen">GQB377</idno>
+              <title>SOU 2002:77</title>
+              <biblScope unit="riksdag-session">2002</biblScope>
+              <biblScope unit="document-number">77</biblScope>
+              <note type="display-reference">2002:77</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1992:1433</idno>
+              <note type="display-reference">2004:538</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2001:183</idno>
+              <note type="display-reference">2004:539</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GR0386</idno>
+              <title>Ändringar i sametingslagen (1992:1433), m.m.</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">86</biblScope>
+              <note type="display-reference">proposition 2003/04:86 Ändringar i sametingslagen (1992:1433), m.m.</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GR02K17</idno>
+              <title>med anledning av prop. 2003/04:86 Ändringar i sametingslagen (1992:1433), m.m.</title>
+              <title type="sub">av Tobias Krantz m.fl. (FP)</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">K17</biblScope>
+              <note type="display-reference">motion 2003/04:K17 med anledning av prop. 2003/04:86 Ändringar i sametingslagen (1992:1433), m.m.</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2004-05-06">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2004-04-30">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2004-04-30">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2004-04-30">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2004-04-29">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2004-04-29">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2004-04-22">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2004-04-22">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2004-03-30">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2004-05-06">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2004-05-06">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2004-05-06">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2004-05-06">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2004-05-06">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2004-05-04">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2004-05-04">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Konstitutionsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2003/04:KU18
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Ändringar i sametingslagen, m.m.
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I betänkandet behandlar utskottet regeringens
+            proposition 2003/04:86 Ändringar i sametingslagen (1992:1433),
+            m.m. samt en motion som väckts med anledning av propositionen.
+            De behandlade förslagen avser ändringar i bestämmelser rörande
+            val till Sametinget. Utskottet tillstyrker propositionen och avstyrker
+            motionen. Till betänkandet har fogats en reservation och två särskilda
+            yttranden.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Lag om ändring i sametingslagen
+            (1992:1433) Riksdagen antar regeringens förslag till lag om ändring
+            i sametingslagen (1992:1433). 2. Lag om ändring i lagen (2001:183)
+            om behandling av personuppgifter i verksamhet med val och folkomröstningar
+            Riksdagen antar regeringens förslag till lag om ändring i lagen
+            (2001:183) om behandling av personuppgifter i verksamhet med val
+            och folkomröstningar. 3. Definition av begreppet same Riksdagen
+            avslår motion 2003/04:K17 yrkandena 1 och 2. Reservation (fp)
+            4. Könsneutral lagtext Riksdagen avslår motion 2003/04:K17 yrkande
+            3. Stockholm den 29 april 2004 På konstitutionsutskottets vägnar
+            Gunnar Hökmark Följande ledamöter har deltagit i beslutet: Gunnar
+            Hökmark (m), Göran Magnusson (s), Barbro Hietala Nordlund (s),
+            Pär Axel Sahlberg (s), Kenth Högström (s), Henrik S Järrel (m),
+            Anders Bengtsson (s), Tobias Krantz (fp), Kerstin Lundgren (c),
+            Helene Petersson (s), Nils Fredrik Aurelius (m), Billy Gustafsson
+            (s), Inger Jarl Beck (s), Liselott Hagberg (fp) och Tuve Skånberg
+            (kd).
+          </p>
+          <p>
+            2003/04 KU18 Redogörelse för ärendet Ärendet och dess beredning
+            Regeringen beslutade den 19 oktober 2000 att en särskild utredare
+            skulle tillkallas för att göra en översyn av Sametingets organisation,
+            av sametingslagen (1992:1433) och av förordningen (1993:327) med
+            instruktion för Sametinget. I uppdraget ingick bl.a. att lämna
+            förslag till ett förenklat röstningsförfarande i sametingsvalen
+            och att se över tidpunkten för val. Utredningen skulle vid behov
+            lämna förslag till indelning i valdistrikt, införande av en procentspärr
+            och en ökning av det antal personer som krävs för att registrera
+            ett parti. Slutligen skulle förslag lämnas beträffande möjligheten
+            till extra val och, om behov föreligger, till ändrade former för
+            partistöd. Utredningen, som antog namnet Sametingsutredningen,
+            överlämnade i oktober 2002 betänkandet Sametingets roll i det
+            svenska folkstyret (SOU 2002:77). Betänkandet har remissbehandlats.
+            Regeringen tar i den nu aktuella propositionen upp vissa av de
+            förslag till ändringar i sametingslagen som behandlats i Sametingsutredningens
+            betänkande. Ändringarna rör fördelningen av ansvaret för sametingsvalet
+            mellan olika myndigheter, registrering av partier m.m., överklagande
+            av beslut om fastställande av röstlängd, mandatfördelning, tidsfrister
+            för valet och omval. Regeringen avser att i annat sammanhang behandla
+            de övriga frågor som behandlats i betänkandet. I propositionen
+            föreslås även ändringar i lagen (2001:183) om behandling av personuppgifter
+            i verksamhet med val och folkomröstningar. Ändringarna föranleds
+            av att Valmyndigheten i sitt remissvar i anledning av utredningens
+            betänkande påpekat behovet av bestämmelser om personuppgiftsbehandling
+            i samband med sametingsvalen. De föreslagna ändringarna ansluter
+            nära till de redan befintliga bestämmelser som gäller de allmänna
+            valen. De berörda myndigheterna, Sametinget, Valmyndigheten och
+            Länsstyrelsen i Norrbottens län, har under hand beretts tillfälle
+            att lämna synpunkter på förslaget. Yttrande från Lagrådet har
+            inhämtats. Lagrådet har lämnat de remitterade förslagen utan erinran.
+            Efter lagrådsgranskningen har, efter framställning från Sametinget,
+            sista dagen för anmälan till röstlängden enligt 3 kap. 4 § sametingslagen
+            ändrats till den 20 oktober. Vidare har i förtydligande syfte
+            gjorts en justering i den nya 3 kap. 37 § sametingslagen. Ändringarna
+            har bedömts vara av sådan beskaffenhet att en förnyad lagrådsbehandling
+            inte är nödvändig.
+          </p>
+          <p>
+            Utskottets överväganden Röstlängden Utskottets förslag i korthet
+            Utskottet delar regeringens bedömning att den som tagits upp i
+            den preliminära röstlängden hos länsstyrelsen bör få överklaga
+            valnämndens beslut om att ta upp annan person i röstlängden. Vidare
+            tillstyrker utskottet att det införs en bestämmelse med innebörden
+            att länsstyrelsens beslut att en person inte uppfyller kraven
+            för att anses som same medför att inte heller dennes barn skall
+            kunna anses som same på den grunden att föräldern har varit upptagen
+            i röstlängden. Utskottet avstyrker motion 2003/04:K17 yrkandena
+            1 och 2. Jämför reservationen. Propositionen Endast samer har
+            enligt 3 kap. 3 § sametingslagen rösträtt i valen till Sametinget.
+            Enligt 1 kap. 2 § avses med same den som anser sig vara same och
+            gör sannolikt att han har eller har haft samiska som språk i hemmet,
+            eller gör sannolikt att någon av hans föräldrar, far- eller morföräldrar
+            har eller har haft samiska som språk i hemmet, eller har en förälder
+            som är eller har varit upptagen i röstlängden till Sametinget.
+            I propositionen anges att Sametinget har ansett definitionen av
+            begreppet same vara oklar. Detta har fått till följd att valnämnden
+            efter ett beslut av Sametinget i plenum tillåtit att även icke-samer
+            som gift sig med en samisktalande person tas upp i röstlängden.
+            Tolkningen överensstämmer enligt regeringens uppfattning inte
+            med avsikten med den aktuella bestämmelsen. Regeringen finner
+            dock att det inte finns skäl att föreslå en ändring i definitionen
+            av begreppet same. Emellertid anser regeringen att det förhållandet
+            att problem av det nämnda slaget kan uppstå när det gäller att
+            bedöma vem som skall ha rätt att upptas i röstlängden tyder på
+            att denna i dag omfattar personer som inte uppfyller de objektiva
+            kriterier för upptagande som anges i sametingslagen. Dessa kan
+            finnas kvar i röstlängden till dess de avlider eller själva begär
+            att bli strukna. I dag finns enligt 3 kap. 5 § sametingslagen
+            en möjlighet att överklaga valnämndens beslut att inte uppta en
+            person i röstlängden. Överklagande skall ske hos länsstyrelsen
+            i det län där Sametinget har sitt säte, dvs. för närvarande Länsstyrelsen
+            i Norrbottens län. Rätten att överklaga gäller bara den som inte
+            tagits upp i längden. I propositionen föreslås att lagen ändras
+            så att den som upptagits i den preliminära röstlängden skall kunna
+            överklaga ett beslut om att en annan person tagits upp i längden
+            under påstående av att denne förts upp i längden utan att vara
+            berättigad till det. Därvid föreslås att texten formuleras så
+            att det framgår att valnämndens fastställande av den preliminära
+            röstlängden utgör ett enda beslut och att överklagandena avser
+            beslutet i den del det rör upptagande av en viss person i längden.
+            Överklagandena skall, i likhet med vad som hittills gällt för
+            överklaganden, prövas av länsstyrelsen. För att det skall vara
+            praktiskt möjligt för den samiska allmänheten att få kännedom
+            om den preliminära röstlängdens innehåll och därmed göra bruk
+            av möjligheten att överklaga föreslås vidare att det föreskrivs
+            att den preliminära röstlängden skall hållas tillgänglig för granskning.
+            Valmyndigheten och Sametinget skall i samråd bestämma vid vilken
+            tid och på vilken plats som röstlängden skall hållas tillgänglig.
+            Dessa uppgifter skall också kungöras i Post- och Inrikes Tidningar.
+            Slutligen föreslår regeringen att bestämmelsen i 1 kap. 2 § förses
+            med ett tillägg, enligt vilket ett barn till den som har varit
+            upptagen i röstlängden inte skall betraktas som same, om länsstyrelsen
+            beslutat att föräldern inte uppfyller kraven för att betraktas
+            som same. Motionen I motion 2003/04:K17 av Tobias Krantz m.fl.
+            (fp) föreslås att riksdagen tillkännager för regeringen som sin
+            mening vad i motionen anförs dels om ändring i bestämmelserna
+            som definierar vem som är same (yrkande 1), dels om att Sametinget
+            i plenum ges möjlighet att föreslå valnämnden om en person skall
+            tas upp i röstlängden (yrkande 2). Motionärerna anser att det
+            ytterst måste vara den enskilda människan - inte staten, traditionen
+            eller utomstående bedömare - som avgör i vilken mån man känner
+            tillhörighet till en nationell minoritet eller en språklig gemenskap.
+            I motionen uttalas vidare att Sametinget i plenum måste ges möjlighet
+            att föreslå valnämnden om en person, som enligt gällande definition
+            kan betraktas som icke-same, skall tas upp i röstlängden. Enligt
+            motionärernas mening är det olämpligt att ett icke-samiskt organ
+            skall kunna avgöra om en person är same eller inte. Bakgrund Propositionen
+            1992/93:32 om samerna och samisk kultur m.m. innehåller bl.a.
+            det förslag som legat till grund för den gällande definitionen
+            av same i sametingslagen. Departementschefen anför i propositionen
+            (s. 36) bl.a. att den definition av begreppet same som föreslås
+            i propositionen får betydelse vid tillämpning av sametingslagen
+            när det gäller att avgöra vilka som skall ha rösträtt till Sametinget
+            och vilka som är valbara till Sametinget. Vidare anför departementschefen
+            följande. Det finns flera sätt att definiera en minoritet. Man
+            kan välja objektiva kriterier såsom härstamning, ras, språk, bosättning
+            och yrke. Man kan också utgå från personens egen uppfattning om
+            sig själv. Enligt en sådan, subjektiv, definition tillhör de personer
+            minoriteten som själva anser sig göra det. I Sverige har den subjektiva
+            minoritetsdefinitionen förespråkats under senare tid (jfr SOU
+            1984:58, Invandrar- och minoritetspolitiken s. 55). Såväl minoriteten
+            som samhället har emellertid intresse av att förena det subjektiva
+            kriteriet med objektiva kriterier. Det gäller särskilt om en minoritet
+            har särskilda rättigheter. När kriterierna väl är fastlagda torde
+            det främst vara en angelägenhet för minoriteten själv att göra
+            bedömningen om en viss person uppfyller kriterierna. Allt talar
+            enligt min mening för att utgångspunkten även i sametingslagen
+            bör vara den subjektiva minoritetsdefinitionen - envar måste självfallet
+            ha rätt att avstå från att räknas som tillhörande en minoritet.
+            Det finns emellertid, som också Samerättsutredningen framhåller,
+            skäl att förena den subjektiva definitionen med något eller några
+            objektiva kriterier. Jag har för min del i likhet med utredningen
+            fastnat för att språket bör vara ett sådant objektivt kriterium
+            i en definition av begreppet same i sametingslagen. Sametingsutredningen
+            har i sitt betänkande Sametingets roll i det svenska folkstyret
+            (SOU 2002:77 s. 195) anfört som sin sin bedömning att de nu gällande
+            kriterierna för bedömningen om man är same är väl avvägda. Beträffande
+            kriterierna har utredningen därvid anfört följande. De är enligt
+            vår uppfattning generöst utformade och enligt uppgift avkrävs
+            den som ansöker om registrering inte heller någon omfattande bevisning
+            för att styrka sina uppgifter. I normalfallet godtas i stället
+            sökandens uppgifter, vilket innebär att även tillämpningen av
+            regelverket är generös. Utredningen ser positivt på detta, det
+            är viktigt att så många samer som möjligt låter registrera sig.
+            Det får dock ankomma på Sametinget att noga följa utvecklingen,
+            så att inte den generösa utformningen på lång sikt urholkar den
+            samiska förankringen i Sametinget. Det räcker i dag för att upptas
+            på röstlängden att sökanden anser sig vara same och har en förälder
+            som har varit upptagen på röstlängden. På mycket lång sikt skulle
+            denna bestämmelse kunna innebära att en släkt som alltmer fjärmade
+            sig från det samiska språket skulle kunna bibehålla sin rösträtt
+            om varje generation lät registrera sig. I sammanhanget har Sametingsutredningen
+            vidare noterat som ett konkret problem i fråga om röstlängden
+            att det från Sametingets sida påståtts att definitionen av same
+            i sametingslagen är oklar och att detta fått som följd att även
+            en person utan annan samisk anknytning än ett giftermål med en
+            same tas upp i röstlängden. Utredningen har därvid yttrat följande
+            (s. 196). För utredningen är det oklart på vilken grund detta
+            kunnat ske. Som framgått krävs det enligt lagtexten utöver att
+            personen upplever sig vara same att ett av de tre objektiva kriterierna
+            i lagtexten är uppfyllda. Kriterierna i punkten 2 och 3 är i ett
+            sådant fall uteslutna, de ställer krav om att sökandens föräldrar,
+            far- eller morföräldrar haft samiska som språk i hemmet eller
+            att en av föräldrarna varit upptagen i röstlängden. Det enda som
+            möjligen därför skulle kunna återstå är att valnämnden ansett
+            att kriteriet under punkt 1 i samedefinitionen att den som gör
+            sannolikt att han har eller har haft samiska som språk i hemmet
+            skulle kunna innefatta även den som gifter sig med en person som
+            talar samiska. Enligt Sametingsutredningens uppfattning har en
+            sådan långtgående tolkning av lagtexten inte varit avsedd. Sametingsutredningen
+            har därvid hänvisat till vissa uttalanden av Samerättsutredningen
+            i samband med att den utredningen föreslog att same skulle definieras
+            på det sätt som gäller i dag, men med det tillägget att personen
+            eller hans föräldrar, far- eller morföräldrar lärt sig samiska
+            som första språk. Om make anförde Samerättsutredningen följande
+            (SOU 1989:41 s. 135): Som nämnts gäller för närvarande enligt
+            rennäringslagen att make till person med renskötselrätt också
+            får sådan rätt. Det är väl i och för sig inte helt orimligt att
+            make eller maka åtminstone efter viss tid i bestående äktenskap
+            skall jämställas med mannen resp. hustrun även när det gäller
+            frågan om samisk etnicitet. I enlighet med samhällets inställning
+            i andra sammanhang skulle det också kunna övervägas att samboförhållande
+            jämställs med äktenskap. En sådan utvidgning av personkretsen
+            skulle emellertid kunna leda alltför långt. Exempelvis skulle
+            den vars mor en gång varit gift med en same kunna betraktas som
+            same även om varken hans mor eller hans far är av samisk härkomst.
+            I propositionen 1992/93:32 om samerna och samisk kultur m.m. berörs
+            inte frågan om make. Regeringen föreslår dock i propositionen
+            att det inte skall vara ett krav att personen eller hans föräldrar,
+            far- eller morföräldrar lärt sig samiska som första språk. Departementschefen
+            anför därvid följande (s. 35-36): Det främsta skälet till att
+            även jag väljer språket som ett kriterium är att Finland och Norge
+            använder det kriteriet. Om språket inte vore ett kriterium i en
+            svensk definition skulle den situationen kunna uppstå att en person
+            kan anses som same i Norge och Finland men inte i Sverige och
+            vice versa. I Finland definieras same som den person som lärt
+            sig samiska som första språk eller haft föräldrar, far- eller
+            morföräldrar som lärt sig samiska som första språk. I Norge anses
+            den person vara same som förklarar att han uppfattar sig själv
+            som same och har samiska som hemspråk eller att han har eller
+            har haft någon förälder, far- eller morförälder med samiska som
+            hemspråk. Samerättsutredningens förslag i fråga om det språkliga
+            kriteriet stämmer närmast överens med den finska definitionen.
+            Jag har för min del lagt den norska definitionen till grund för
+            mitt förslag. Jag anser att den av mig föreslagna definitionen
+            återspeglar en något generösare inställning från statsmakternas
+            sida till vem som bör anses som same i sametingslagens mening.
+            Den lägger inte avgörande vid vilken ordning samiska och svenska
+            har lärts i hemmet. Mot den nu redovisade bakgrunden gör Sametingsutredningen
+            den tolkningen, att med hemmet avses i sametingslagen det ursprungliga
+            hem som personen har växt upp i. Som redan har framgått blir Sametingsutredningens
+            slutsats därmed att valnämnden, när den i röstlängden tagit upp
+            personer som gift sig med en person som talar samiska, gjort en
+            alltför långtgående tolkning av lagtexten. Eftersom Sametingsutredningen
+            anser att lagtexten i sig inte är oklar på den nu aktuella punkten,
+            har den inte heller funnit skäl att lägga fram förslag till en
+            förändring av lagtexten. I stället menar utredningen att det får
+            ankomma på Sametingets valnämnd att i framtiden på eget ansvar
+            göra en rimlig uttolkning av lagtexten (a. bet. s. 197). Med hänvisning
+            till att en felaktig röstlängd skulle kunna påverka Sametingets
+            legitimitet har Sametingsutredningen dock föreslagit att det skall
+            vara möjligt att överklaga den preliminära röstlängden till länsstyrelsen
+            med påstående att någon förts upp på röstlängden utan att ha varit
+            berättigad till det. Sådan rätt att överklaga skall enligt utredningsförslaget,
+            som i dessa delar överensstämmer med den nu föreliggande propositionen,
+            tillkomma bara den som är upptagen i den preliminära röstlängden
+            (a. bet. s. 198). I sitt remissyttrande över Sametingsutredningens
+            förslag i dessa delar (dnr Jo2002/2206) har Sametinget yttrat
+            att det utgår från att besvärsmöjligheten till länsstyrelsen är
+            en temporär lösning. Sametinget anser att det är olämpligt att
+            ett icke-samiskt organ skall kunna avgöra om en person är same
+            eller inte. Enligt Sametingets mening bör det i stället komma
+            till stånd en egen av Sametinget inrättad överprövningsmyndighet
+            liknande den som riksdagen har inrättat. I övrigt stöder Sametinget
+            utredningsförslaget i nu aktuella delar. Tidigare riksdagsbehandling
+            Vid behandlingen av regeringens proposition 1992/93:32 med bl.a.
+            förslag om inrättande av ett Sameting behandlade konstitutionsutskottet
+            även följdmotioner om att införa en möjlighet att överklaga länsstyrelsens
+            beslut över anmärkning mot röstlängd (bet. 1992/93:KU17). Utskottet,
+            som avstyrkte motionerna, anförde att valet till Sameting gäller
+            utseende av en statlig myndighets ledamöter vilket gör att det
+            inte kan jämställas med politiska val. Vidare uttalade utskottet
+            att vad regeringen anfört i propositionen om rösträttsbestämmelserna
+            får anses ge utrymme för en generös bedömning. De frågor som i
+            detta avseende kan komma att bli föremål för valnämndens och -
+            vid överklagande - länsstyrelsens prövning, borde enligt utskottet
+            kunna bli begränsade till sin art och omfattning. Mot bakgrund
+            härav ansåg utskottet att skäl saknas för att låta frågor om rösträtt
+            till Sametinget bli föremål för prövning av ytterligare en instans.
+            Utskottets ställningstagande I motion 2003/04:K17 tas upp viktiga
+            frågor som har koppling till definitionen av vem som är same i
+            sametingslagens mening. Utskottet finner det angeläget att de
+            förslag som tas upp i propositionen leder till lagstiftning i
+            så god tid före valet till Sametinget år 2005 att reglerna kan
+            träda i kraft och tillämpas vid detta val. Utskottet är inte berett
+            att nu ta ställning till frågor rörande mera grundläggande reformer
+            av gällande ordning för vem som i det aktuella sammanhanget skall
+            anses som same. Mot den anförda bakgrunden anser utskottet att
+            riksdagen bör avslå motion 2003/04:K17 yrkandena 1 och 2.Valet
+            till sameting gäller utseende av en statlig myndighets ledamöter.
+            Även med beaktande av Sametingets särskilda uppgifter anser utskottet
+            därför att det är en lämplig ordning att överklagande av valnämndens
+            beslut i fråga om vilka personer som skall tas upp i röstlängden,
+            i likhet med vad som hittills har gällt, sker hos länsstyrelsen.
+            På grunder som närmare har utvecklats i propositionen och av Sametingsutredningen
+            i dess betänkande kan utskottet vidare konstatera att defintionen
+            av samebegreppet i det nu aktuella sammanhanget inte i sig är
+            oklar. Utskottet finner också de nu gällande kriterierna för bedömningen
+            av om man är same vara väl avvägda. Något behov av att ytterligare
+            utvidga kretsen av personer som kan tas upp i röstlängden föreligger
+            således inte. Följaktligen bör inte heller införas någon möjlighet
+            för sametinget att ta initiativ till att valnämnden i röstlängden
+            tar upp personer som faller utanför denna personkrets. Mot den
+            anförda bakgrunden anser utskottet att riksdagen bör avslå motion
+            2003/04:K17 yrkandena 1 och 2. Utskottet föreslår i övrigt att
+            riksdagen bifaller propositionen i här berörda delar. Reservation
+            (fp): Förslag till riksdagsbeslut Vi anser att utskottets förslag
+            under punkt ___ borde ha följande lydelse: Riksdagen tillkännager
+            för regeringen som sin mening vad som anförs i reservation ___
+            om ändring i bestämmelserna som definierar vem som är same och
+            om att sametinget i plenum ges möjlighet att föreslå valnämnden
+            om en person skall tas upp i röstlängden. Därmed bifaller riksdagen
+            motion 2003/04:K17 yrkandena 1 och 2. Ställningstagande Vi anser
+            att det ytterst måste vara den enskilda människan - inte staten,
+            traditionen eller utomstående bedömare - som avgör i vilken mån
+            man känner tillhörighet till en nationell minoritet eller en språklig
+            gemenskap. Sametinget i plenum måste ges möjlighet att föreslå
+            valnämnden om en person, som enligt gällande definition kan betraktas
+            som icke-same, skall tas upp i röstlängden. Enligt vår mening
+            är det olämpligt att ett icke-samiskt organ skall kunna avgöra
+            om en person är same eller inte. Valnämndens ställning Utskottets
+            förslag i korthet Utskottet tillstyrker förslaget i propositionen
+            om att vissa delar av ansvaret för valet förs över från Sametingets
+            valnämnd till Valmyndigheten och länsstyrelsen. Propositionen
+            Valen till Sametinget handhas i stor utsträckning av Sametinget
+            ensamt genom dess valnämnd. Enligt regeringens mening bör inte
+            Sametinget ensamt handha valen på det sätt som hittills varit
+            fallet. I propositionen föreslås att vissa av Sametingets valnämnds
+            uppgifter i samband med val bör överföras till Valmyndigheten
+            och länsstyrelsen i det län där Sametinget har sitt säte. Valmyndigheten
+            kommer därigenom att ansvara för det förberedande arbetet och
+            organisationen av röstningen, medan Länsstyrelsen i Norrbottens
+            län ansvarar för röstsammanräkning och mandatfördelning. Sametingets
+            valnämnd bör enligt regeringens förslag behålla sina nuvarande
+            uppgifter med att utse valförrättare och ordna vallokaler samt
+            upprätta röstlängden. Den sistnämnda uppgiften innefattar bedömningen
+            av vem som är att anse som same. Denna bedömning måste, enligt
+            propositionen, i första hand anses vara en intern samisk angelägenhet.
+            Duplettröstkort och duplettytterkuvert utfärdas enligt 3 kap.
+            7 § sametingslagen av valnämnden. Av praktiska skäl bör, enligt
+            propositionen, dessa kunna utfärdas inte bara av Valmyndigheten,
+            utan även av valnämnden och länsstyrelsen. Ordningen för sametingsvalet
+            kommer därmed att vara utformad på liknande sätt som den som gäller
+            för de allmänna valen enligt 7 kap. 9 § vallagen. Enligt 3 kap.
+            32 a § i dess nuvarande lydelse skall valnämnden utse efterträdare
+            till ordinarie ledamöter som avgår under mandatperioden och ytterligare
+            ersättare för ordinarie ledamöter som inträder som ordinarie ledamot
+            eller avgår. I propositionen föreslås att bestämmelsen ändras
+            så att denna uppgift handhas av länsstyrelsen. Utskottets ställningstagande
+            Utskottet delar regeringens bedömning och tillstyrker regeringens
+            förslag i här berörda delar. Tidsfrister för sametingsvalet Utskottets
+            förslag i korthet Utskottet tillstyrker förslaget i propositionen
+            om att de tidsfrister för genomförande av val som anges i sametingslagen
+            utsträcks. Propositionen I propositionen anförs att olägenheter
+            kan uppkomma på grund av den begränsade tid som står till förfogande
+            för förberedande åtgärder inför val till Sametinget. Särskilt
+            den tid som står till buds för att sända ut röstkort har ansetts
+            vara för kort. Valet skall enligt sametingslagen hållas den tredje
+            söndagen i maj. Partier och kandidater skall anmälas senast den
+            25 mars valåret. Röstkort skall sändas ut senast 30 dagar före
+            valet, vilket i praktiken innebär att arbetet med att sända ut
+            röstkort skall utföras under en tid av drygt tre veckor. I propositionen
+            anges vidare att det också bör beaktas att påskhelgen kan infalla
+            under denna tid. Vidare anges det som ett problem att överklaganden
+            av valnämndens beslut att upprätta den preliminära röstlängden
+            skall handläggas av länsstyrelsen under den korta tiden mellan
+            den 25 februari, då tiden för överklagande av beslutet går ut,
+            och omkring den 10 mars, då länsstyrelsens prövning skall ske.
+            Enligt Sametingets valnämnd är denna tid för kort för att nämnden
+            skall kunna fullt ut bemöta de skäl som anförts. Slutligen anförs
+            att det med utökade möjligheter att överklaga beslut som innebär
+            att en viss person upptagits i röstlängden också är nödvändigt
+            att förlänga handläggningstiden i länsstyrelsen. Regeringen anför
+            som sin bedömning att en rimlig handläggningstid är två månader.
+            Med en sådan förlängning kommer tiden för överklagande av beslutet
+            om preliminär röstlängd att gå ut den 15 december året före valåret,
+            preliminär röstlängd skall ha upprättats den 15 november och anmälan
+            till röstlängden skall komma in senast den 1 november jämfört
+            med tiderna enligt de nu gällande reglerna som är den 25 februari
+            valåret, den 10 februari respektive den 15 januari. Sametinget
+            har efter remisstidens utgång anfört att tiden mellan sista dagen
+            för anmälan till röstlängden och sista dagen för upprättande av
+            röstlängden med utredningens förslag blir tämligen kort. Regeringen
+            instämmer i detta och föreslår därför att sista dagen för anmälan
+            till röstlängden skall vara den 20 oktober året före valåret.
+            Utskottets ställningstagande Utskottet delar regeringens bedömning
+            och tillstyrker regeringens förslag i här berörda delar. Mandatfördelning
+            Utskottets förslag i korthet Utskottet tillstyrker förslaget i
+            propositionen om att talet 1,4 används som första divisor vid
+            fördelningen av mandat i Sametinget. Gällande bestämmelser Sametingslagen
+            saknar bestämmelser som fungerar som spärr mot småpartier. Det
+            krävs vidare endast tre personer för att registrera ett parti.
+            Detta har ansetts bidra till att de 31 ledamöterna i Sametinget
+            representerar för närvarande nio partier, varav de tre minsta
+            endast har ett mandat vardera. Enligt 3 kap. 32 § sametingslagen
+            skall mandaten, vid mandatfördelningen mellan grupper, partier
+            och liknande sammanslutningar, fördelas proportionellt på grundval
+            av valresultatet. Härvid skall mandaten, ett efter annat, tilldelas
+            den grupp, det parti eller motsvarande som för var gång uppvisar
+            det största jämförelsetalet. Detta beräknas genom att gruppernas,
+            partiernas eller sammanslutningarnas röstetal delas med det tal
+            som är ett högre än det dubbla antalet mandat som redan har tilldelats
+            gruppen, partiet eller sammanslutningen (divisorn). Det är således
+            den s.k. rena uddatalsmetoden med 1,0 som första divisor som tillämpas.
+            För de allmänna valen gäller att jämförelsetalet, så länge ett
+            parti inte ännu tilldelats något mandat, beräknas genom att partiets
+            röstetal i valkretsen delas med 1,4 (den s.k. jämkade uddatalsmetoden).
+            Först därefter beräknas jämförelsetalet på samma sätt som enligt
+            sametingslagen, dvs. genom att partiets röstetal delas med det
+            tal som är ett högre än det dubbla antalet av de mandat som redan
+            tilldelats partiet i valkretsen. Genom att talet 1,4 används som
+            första divisor motverkas att småpartier får mandat. Att valet
+            till Sametinget i detta avseende kommit att få en från de allmänna
+            valen avvikande reglering har sin grund i att det vid Sametingets
+            tillkomst ansågs att det inte borde finnas någon spärr mot småpartier.
+            Enligt departementschefen borde Sametinget, för att det skulle
+            kunna representera alla samer, vara så uppbyggt att även mindre,
+            samiska sammanslutningar skulle kunna nominera sina kandidater
+            (prop. 1992/93:32 s. 48). Propositionen Regeringen bedömer att
+            skäl numera saknas att värna om att mindre, samiska sammanslutningar
+            skall kunna bli representerade i Sametinget, eftersom utvecklingen
+            gått mot etablerade partier. Behovet av en stabiliserande faktor
+            är av den anledningen mera angeläget. En särreglering som den
+            aktuella är därför inte längre motiverad. Första divisor i sametingsvalet
+            bör därför i framtiden vara 1,4. Utskottets ställningstagande
+            Utskottet delar regeringens bedömning och tillstyrker regeringens
+            förslag i här berörda delar. Registrering av grupper och partier
+            m.m. Utskottets förslag i korthet Utskottet tillstyrker förslaget
+            i propositionen om att grupper, partier och liknande sammanslutningar
+            som inte redan har mandat i Sametinget måste ha ett dokumenterat
+            stöd av minst 50 personer för att kunna bli registrerade och få
+            ställa upp i valet. Gällande bestämmelser Enligt 3 kap. 9 § sametingslagen
+            skall det av en anmälan av kandidater till Sametinget framgå vilken
+            grupp, vilket parti eller liknande sammanslutning som kandidaterna
+            tillhör. Anmälan skall också innehålla uppgift om namn på minst
+            tre kandidater i bestämd ordningsföljd. Sametingets valnämnd beslutar
+            härefter om registrering av gruppen, partiet eller den liknande
+            sammanslutningen. Andra än kandidater för registrerade grupper,
+            partier eller liknande sammanslutningar är inte valbara. Bestämmelsen
+            innebär således att det krävs tre personer för att registrera
+            ett parti. Propositionen I propositionen anförs att det förhållandet
+            att det bara krävs tre personer för att registrera grupper, partier
+            och liknande sammanslutningar har betydelse för splittringen av
+            rösterna i sametingsvalet. I likhet med Sametingsutredningen anser
+            regeringen att ett skärpt krav inför registreringen skulle ha
+            en dämpande effekt på röstsplittringen och föreslår därför att
+            det införs ett krav på att minst 50 personer skall stödja grupper,
+            partier eller liknande sammanslutningar för att de skall få registreras
+            och ha rätt att ställa upp i valet. Bestämmelsen i 3 kap. 9 §
+            sametingslagen föreslås därför kompletterad med ett krav på att
+            grupper, partier m.m. utöver vad som krävs enligt bestämmelsens
+            nuvarande lydelse skall ha ett dokumenterat stöd av minst 50 röstberättigade
+            personer, inklusive de angivna kandidaterna. Vidare föreslås att
+            detta skall gälla endast grupper, partier och liknande sammanslutningar
+            som inte har mandat i Sametinget. Skälet härtill är att det anses
+            vara lämpligt ur demokratisk synvinkel att de partier som redan
+            är representerade i Sametinget kan komma under väljarnas bedömning.
+            Om ett parti misslyckas med att få mandat i det kommande valet
+            skall dock det skärpta registreringskravet omfatta partiet i nästföljande
+            val. Utskottets ställningstagande Utskottet delar regeringens
+            bedömning och tillstyrker regeringens förslag i här berörda delar.
+            Omval Utskottets förslag i korthet Utskottet tillstyrker förslaget
+            i propositionen om att regler om omval införs i sametingslagen.
+            Bakgrund I samband med valet till Sametinget 2001 uppstod behov
+            av att genomföra ett omval. Bestämmelser om omval saknades dock
+            i sametingslagen, till skillnad mot vad som är fallet enligt vallagen
+            beträffande allmänna val. Som en temporär lösning på problemet
+            utfärdade regeringen en förordning med tillfällig giltighet, förordningen
+            (2001:725) om valdag m.m. för omval till Sametinget. I förordningen
+            föreskrevs bl.a. att den röstlängd som upprättats för det ordinarie
+            valet skulle användas också vid omvalet. Förordningen upphörde
+            att gälla den 1 januari 2002. Propositionen Regeringen föreslår
+            att regler om omval införs i sametingslagen. Därvid föreslås att
+            dagen för omval, på motsvarande sätt som vid de allmänna valen,
+            bestäms av Valmyndigheten efter samråd med länsstyrelsen och Sametingets
+            valnämnd. Vidare föreslås att samma röstlängd används som vid
+            det ordinarie valet. Utskottets ställningstagande Utskottet delar
+            regeringens bedömning och tillstyrker regeringens förslag i här
+            berörda delar. Behandling av personuppgifter Utskottets förslag
+            i korthet Utskottet tillstyrker förslaget i propostionenpropositionen
+            om att lagen (2001: 183) om behandling av personuppgifter i verksamhet
+            med val och folkomröstningar ändras så att lagen gäller även valen
+            till Sametinget. Propositionen I propositionen föreslås att lagen
+            (2001:183) om behandling av personuppgifter i verksamhet med val
+            och folkomröstningar skall göras tillämplig även på valen till
+            Sametinget. Det anförs att det för behandlingen av personuppgifter
+            i samband med valen bör finnas en särskild databas (databas för
+            sametingsvalet) som används för tillhandahållande av den information
+            som behövs för framställning av röstlängd, röstkort och valsedlar
+            samt sammanräkning av valresultat, tillsyn, kontroll, uppföljning
+            och planering av verksamheten samt statistik om valen. Dessa ändamål
+            överensstämmer med vad som föreskrivs i lagen för de allmänna
+            valen. Till databasen skall Valmyndigheten, länsstyrelsen och
+            Sametinget ha direktåtkomst när det hålls val till Sametinget.
+            De föreslagna ändringarna i lagen är av teknisk karaktär och innebär
+            att i huvudsak samma regler om personuppgiftsbehandling skall
+            tillämpas vid valet till Sametinget som vid allmänna val. Med
+            en ny reglering av personuppgiftsbehandlingen som den beskrivna
+            blir 4 kap. sametingslagen till största delen överflödigt. Kapitlet
+            bör därför, enligt regeringens uppfattning, upphävas. Nuvarande
+            4 kap. 4 § bör dock bibehållas och erhålla ny placering i lagen.
+            Den bestämmelsen innebär att inhämtning av personuppgifter från
+            folkbokföringen får ske för kontroll m.m. av uppgifter som avser
+            sameröstlängden, såsom uppgifter i en anmälan till längden. Utskottets
+            ställningstagande Utskottet delar regeringens bedömning och tillstyrker
+            regeringens förslag i här berörda delar. Könsneutral lagtext Utskottets
+            förslag i korthet Utskottet avstyrker motion 2003/04:K17 yrkande
+            3 om könsneutral lagtext med hänvisning till att utskottet förutsätter
+            att regeringen kommer att behandla denna fråga i annat sammanhang.
+            Motionen I motion 2003/04:K17 av Tobias Krantz m.fl. (fp) föreslås
+            att riksdagen tillkännager för regeringen som sin mening vad i
+            motionen anförs om att sametingslagen skall vara könsneutral (yrkande
+            3). Bakgrund Riktlinjer från Statsrådsberedningen Statsrådsberedningen
+            har gett ut vissa anvisningar för författningsskrivning i den
+            s.k. Gröna boken (Ds 1998:66). I denna hänvisas i fråga om språket
+            i nya författningar och i ändringsförfattningar till bl.a. Statsrådsberedningens
+            promemoria 1994:4 Några riktlinjer för författningsspråket och
+            Myndigheternas föreskrifter: Handbok i författningsskrivning (Ds
+            1998:43). I Statsrådsberedningens promemoria från 1994 (reviderad
+            1998-06-30) framhålls (s. 12) att ett sätt att skriva könsneutralt
+            är att använda sig av han eller hon (inte han/hon). Enligt promemorian
+            rekommenderas denna lösning t.ex. när författningen är kort eller
+            när kombinationen bara behöver användas några få gånger. Om texten
+            däremot kräver ett ymnigt bruk av pronomen blir kombinationen
+            störande, särskilt vid böjning. I promemorian anförs att ett annat
+            och ofta bättre sätt är att använda pluralformer i stället för
+            singularformer. Ett tredje sätt anges vara att med hjälp av omskrivningar
+            undvika personliga pronomen i texten. Avslutningsvis anges i promemorian
+            att det i regel går att skriva könsneutralt med hjälp av de angivna
+            sätten. Men om det av någon anledning inte går, kan man i ändringsförfattningar
+            behålla han, honom, hans. I nyskrivna författningar bör man enligt
+            promemorian emellertid välja könsneutrala alternativ. I Myndigheternas
+            skrivregler (Femte utökade upplagan), Ds 2001:48, anges (avsnitt
+            4.4.1) beträffande användningen av pronomenet han att detta tidigare
+            alltid användes i många texter, särskilt författningstexter, när
+            man syftade på båda könen. Det anges fortfarande vara användbart
+            när man avser både män och kvinnor eller där substantivet är en
+            abstraktion. I texter där man måste skilja på könen eller i texter
+            som man vill göra helt könsneutrala kan man välja något eller
+            några av följande sätt: han eller hon, upprepning av huvudordet,
+            omskrivning med plural eller könsneutrala substantiv. Tidigare
+            riksdagsbehandling m.m. I samband med behandlingen av lag om tystnadsplikt
+            för präst inom Svenska kyrkan m.m. år 1979 avstyrkte utskottet
+            (KU 1979/80:7) ett motionsyrkande om ändring av ordet han i lagtexten
+            till orden han eller hon. Utskottet hyste förståelse för de av
+            motionärerna framlagda synpunkterna. Utskottet framhöll att det
+            i de föreslagna lagtexterna använda ordet han självfallet inte
+            betecknade enbart män. Ordet var i stället uppenbart använt som
+            ersättningsord för substantiv som betecknar både män och kvinnor.
+            Av Statsrådsberedningens promemoria 1979:2 med några riktlinjer
+            för författningsspråket framgick enligt utskottet att denna könsneutrala
+            användning av ordet han var hävdvunnen i svenskt lagspråk och
+            att anvisningarna innebär att ordet även fortsättningsvis skall
+            användas på detta sätt i flertalet fall. Enligt utskottets mening
+            hade det likväl varit lämpligare om annat uttryck än han begagnats
+            i lagtexten. Utskottet fann dock att angelägenheten av att ny
+            lagstiftning kom till stånd på området var så stor att den tog
+            över den olägenhet som låg i att lagtexterna inte fått en helt
+            tillfredsställande språklig utformning. Lagutskottet behandlade
+            år 1979 (LU 1979/80:10) ett motionsyrkande om att riksdagen hos
+            regeringen skulle begära att vid översyn av äldre lagar och utarbetandet
+            av nya lagtexter författningarna skulle utformas könsneutralt.
+            Lagutskottet redogjorde för vad som anfördes i Statsrådsberedningens
+            promemoria 1979:2 om användningen av ordet han och språklig modernisering
+            av äldre författningar (se ovan). Lagutskottet delade motionärernas
+            uppfattning om att språket i åtskilliga både äldre och yngre författningar
+            stod i mindre god samklang med strävandena mot jämställdhet mellan
+            män och kvinnor. En modernisering av författningsspråket tedde
+            sig enligt utskottets mening erforderlig, och utskottet såg därför
+            med tillfredsställelse att dittills tillämpade regler för författningsskrivandet
+            setts över och kompletterats av Statsrådsberedningen i samarbete
+            med departementets rättschefer och att framkomna synpunkter redovisats
+            i Statsrådsberedningens PM 1979:2. Lagutskottet framhöll att promemorians
+            språkregler och anvisningar för en modernisering av författningsspråket
+            var avsedda att tillämpas inte bara när nya författningar utarbetas
+            utan också då äldre lagar och förordningar ändras i sakligt hänseende.
+            Enligt lagutskottets mening tillgodosåg de nya riktlinjerna i
+            allt väsentligt de krav på författningsspråket som kunde ställas
+            från jämställdhetssynpunkt. I Kyrkoförfattningsutredningens slutbetänkande
+            (SOU 1987:4) En ny kyrkolag m.m. berörs bruket av de personliga
+            pronomenen han och hon i författningstexterna. Konstruktionen
+            med han eller hon ansågs enligt utredningen bli onödigt tung,
+            och för att få ett så naturligt och lättläst språk som möjligt
+            valde man att använda pronomenet han i sammanhang där det behövdes
+            ett personligt pronomen i singularis. Utredningen trodde inte
+            att det skulle uppstå några problem för den som läste utredningens
+            lagtexter att förstå att han enligt gängse bruk här användes i
+            allmän betydelse och syftade på båda könen. Även i Kommunallagsgruppens
+            slutbetänkande Ny lag om kommuner och landsting (Ds 1988:52) berördes
+            svårigheten att skriva könsneutralt. Utredningen fullföljde 1983
+            års demokratiberednings arbete (se Principer för ny kommunallag,
+            SOU 1985:29) med att göra lagen könsneutral, men man försökte
+            undvika de dubbla pronomenen som ofta leder till tunga formuleringar.
+            Utredningen har på olika sätt försökt att komma runt de problem
+            som enligt utredningen nödvändigtvis uppstår när man skall skriva
+            en könsneutral författningstext. Det ansågs mödan värt eftersom
+            endast ett tjugotal paragrafer berördes. Konstitutionsutskottet
+            behandlade vidare motionsyrkanden om ett könsneutralt språk såväl
+            under riksmötet 1997/98 som under de tre riksmötena närmast dessförinnan.
+            Vid behandlingen under riksmötet 1994/95 underströk utskottet
+            betydelsen av att det språk som används i officiella texter i
+            så stor utsträckning som möjligt är könsneutralt. Utskottet ansåg
+            sig kunna utgå i från att de nämnda riktlinjerna för språket i
+            lagar och andra författningar samt inom den offentliga förvaltningen
+            följdes. Utskottet ansåg att motionen borde lämnas utan bifall
+            (bet. 1994/95:KU13). Vid riksmötet 1995/96 saknades det enligt
+            utskottets mening anledning att göra någon annan bedömning än
+            vid tidigare riksmöten. Den då aktuella motionen avstyrktes (bet.
+            1995/96:KU7). Utskottet vidhöll sin tidigare inställning även
+            vid riksmötet 1997/98 (bet. 1997/98:KU5) och avstykteavstyrkte
+            även då den aktuella motionen. Utskottets ställningstagande Utskottet
+            vill än en gång stryka under betydelsen av att språk i officiella
+            texter används på ett könsneutralt sätt i så stor utsträckning
+            som möjligt. Enligt utskottets mening tillgodoser de nu redovisade
+            riktlinjerna för författningsskrivning i allt väsentligt de krav
+            på författningsspråket som kan ställas i detta avseende. Mot den
+            bakgrunden hyser utskottet förståelse för de av motionärerna framlagda
+            synpunkterna. Av propositionen framgår emellertid att regeringen
+            avser att i annat sammanhang behandla de övriga frågor som Sametingsutredningen
+            har behandlat i betänkandet Sametingets roll i det svenska folkstyret
+            (SOU 2002:77). Utskottet förutsätter att regeringen i samband
+            därmed även behandlar frågan om att i sametingslagen genomgående
+            föra in ett annat uttryck än han. Reservation (fp): Förslag till
+            riksdagsbeslut Vi anser att utskottets förslag under punkt ___
+            borde ha följande lydelse: Riksdagen tillkännager för regeringen
+            som sin mening vad som anförs i reservation ___ om att sametingslagen
+            skall vara könsnseutral. Därmed bifaller riksdagen motion 2003/04:K17
+            yrkande 3. Ställningstagande Vi anser att förändringar bör göras
+            i lagtexten så att sametingslagen blir könsneutral. Reservation
+            Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservation. I rubriken anges inom parentes
+            vilken punkt i utskottets förslag till riksdagsbeslut som behandlas
+            i avsnittet. Definition av begreppet same (punkt 3) av Tobias
+            Krantz (fp) och Liselott Hagberg (fp). Förslag till riksdagsbeslut
+            Vi anser att utskottets förslag under punkt 3 borde ha följande
+            lydelse: Riksdagen tillkännager för regeringen som sin mening
+            vad som anförs i reservationen om ändring i bestämmelserna som
+            definierar vem som är same och om att Sametinget i plenum ges
+            möjlighet att föreslå valnämnden om en person skall tas upp i
+            röstlängden. Därmed bifaller riksdagen motion 2003/04:K17 yrkandena
+            1 och 2. Ställningstagande Vi anser att det ytterst måste vara
+            den enskilda människan - inte staten, traditionen eller utomstående
+            bedömare - som avgör i vilken mån han eller hon känner tillhörighet
+            till en nationell minoritet eller en språklig gemenskap. Sametinget
+            i plenum måste ges möjlighet att föreslå valnämnden om en person
+            som enligt gällande definition kan betraktas som icke-same skall
+            tas upp i röstlängden. Enligt vår mening är det olämpligt att
+            ett icke- samiskt organ skall kunna avgöra om en person är same
+            eller inte. Särskilda yttranden Utskottets beredning av ärendet
+            har föranlett följande särskilda yttranden. 1. Sametingsfrågor
+            2. av Gunnar Hökmark (m), Henrik S Järrel (m), Nils Fredrik Aurelius
+            (m) och Tuve Skånberg (kd). Frågan om vem som är same eller ej
+            aktualiserar frågor som handlar om huruvida det offentliga och
+            staten över huvud taget skall ha synpunkter på en enskild medborgares
+            etniska eller annan tillhörighet. Inför det offentliga bör varje
+            medborgare vara just medborgare och inget annat. Detta bör också
+            vara statens utgångspunkt vid synen på minoriteter av olika slag
+            i det svenska samhället. Frågan om minoritetstillhörighet bör
+            ägas av dem som definierar sig som en gemenskap, inte av staten.
+            Det är inte som tillhöriga ett kollektiv utan som individer som
+            staten skall bemöta de enskilda medborgarna - oavsett om det handlar
+            om minoritetstillhörighet eller ej. Det problem som propositionen
+            syftar till att hantera uppstår ur det faktum att Sametinget är
+            en offentlig myndighet, vilket i sin tur kräver en offentlig lagreglering
+            i frågan om hur det avgörs vem som är berättigad att välja företrädare
+            till Sametinget. 3. Frågan om den samiska tillhörigheten bör enligt
+            vår mening avgöras i ett samspel mellan den enskilde och det samiska
+            samfundet. Det förutsätter dock att den samiska gemenskapen och
+            dess representation inte har karaktären av en offentlig myndighet
+            med de formella krav på tillhörighet och lagreglering som detta
+            ställer. 4. 5. Ändringar i sametingslagen m.m. 6. av Kerstin Lundgren
+            (c). Den enskilda individen utgör utgångspunkten för samhällsbygget.
+            En långtgående decentralisering av offentlig makt och ansvar förutsätter
+            ett starkt skydd för individerna mot godtycke och övergrepp. Till
+            Sametinget har decentraliserats offentliga myndighetsuppgifter,
+            och därmed följer kravet på ett starkt skydd för den enskilde.
+            I grunden delar jag Sametingets åsikt att det är olämpligt att
+            ett icke samiskt organ skall kunna avgöra om en person är same
+            eller inte. I likhet med Sametinget utgår jag dels från att besvärsmöjligheten
+            till länsstyrelsen blir en temporär lösning, dels från att fortsatt
+            dialog kan forma en annan ordning för att säkerställa skyddet
+            för den enskilde individen. Bilaga 1 Förteckning över behandlade
+            förslag
+          </p>
+          <p>
+            Propositionen 2003/04:86 Ändringar i sametingslagen (1992:1433),
+            m.m.: Riksdagen antar regeringens förslag till 1. lag om ändring
+            i sametingslagen (1992:1433), 2. lag om ändring i lagen (2001:183)
+            om behandling av personuppgifter i verksamhet med val och folkomröstningar.
+          </p>
+          <p>
+            Följdmotion 2003/04:K17 av Tobias Krantz m.fl. (fp): 1. Riksdagen
+            tillkännager för regeringen som sin mening vad i motionen anförs
+            om ändring i bestämmelserna som definierar vem som är same. 2.
+            Riksdagen tillkännager för regeringen som sin mening vad i motionen
+            anförs om att Sametinget i plenum ges möjlighet att föreslå valnämnden
+            om en person skall tas upp i röstlängden. 3. Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om att sametingslagen
+            skall vara könsneutral.
+          </p>
+          <p>
+            Bilaga 2 Regeringens lagförslag Regeringens lagförslag Utskottets
+            lagförslag Reservanternas lagförslag Konventionstexter Lagrådsyttrande
+            som begärts av utskottet Yttranden från andra utskott Övrigt
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

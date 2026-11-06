@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200910_AU_0014">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen sa nej till sex motioner om ledighet. Motionerna handlar bland annat om rätten till tjänstledighet för förtroendeuppdrag inom Svenska kyrkan och för att delta i frivilligförsvaret.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Nej till motioner om ledighet (AU14)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Avslag på motionerna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GX09116</idno>
+              <title>2010-05-05</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">116</biblScope>
+              <note type="display-reference">2010-05-05</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GX09116</idno>
+              <title>2010-05-05</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">116</biblScope>
+              <note type="display-reference">2010-05-05</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GW02Kr8</idno>
+              <title>Kyrkoantikvariska frågor</title>
+              <title type="sub">av Christina Axelsson (S)</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">Kr8</biblScope>
+              <note type="display-reference">motion 2008/09:Kr8 Kyrkoantikvariska frågor</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GW02Kr9</idno>
+              <title>Kyrkoantikvariska frågor</title>
+              <title type="sub">av Leif Pagrotsky m.fl. (S)</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">Kr9</biblScope>
+              <note type="display-reference">motion 2008/09:Kr9 Kyrkoantikvariska frågor</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02A273</idno>
+              <title>Ledighet vid frivilligutbildning</title>
+              <title type="sub">av Eva Flyborg (FP)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">A273</biblScope>
+              <note type="display-reference">motion 2009/10:A273 Ledighet vid frivilligutbildning</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02A297</idno>
+              <title>Ledighet för kyrkouppdrag</title>
+              <title type="sub">av Christina Axelsson (S)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">A297</biblScope>
+              <note type="display-reference">motion 2009/10:A297 Ledighet för kyrkouppdrag</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02Kr286</idno>
+              <title>De ekonomiska villkoren för Svenska kyrkan</title>
+              <title type="sub">av Carina Hägg m.fl. (S)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">Kr286</biblScope>
+              <note type="display-reference">motion 2009/10:Kr286 De ekonomiska villkoren för Svenska kyrkan</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GX02K368</idno>
+              <title>Utredning av röddagskonto</title>
+              <title type="sub">av Helena Bargholtz och Ulf Nilsson (FP)</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">K368</biblScope>
+              <note type="display-reference">motion 2009/10:K368 Utredning av röddagskonto</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2010-05-03">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2010-05-03">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2010-04-27">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-04-27">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-04-27">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2010-04-26">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-04-22">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-04-22">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-04-13">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-04-13">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2010-05-05">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2010-05-05">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-05-05">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-05-05">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-05-04">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-05-04">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-05-03">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-05-03">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Arbetsmarknadsutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2009/10:AU14
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Vissa frågor om ledighet
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACRWFE" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I detta betänkande behandlar arbetsmarknadsutskottet sex motionsyrkanden
+            om ledighetsfrågor, bl.a. rätt till tjänstledighet för förtroendeuppdrag
+            inom Svenska kyrkan och för aktiviteter inom frivilligförsvaret.
+            Utskottet föreslår att riksdagen avslår samtliga motionsyrkanden.
+          </p>
+          <p rend="lagtextindrag_">
+            En reservation har lämnats av företrädare för Socialdemokraterna.
+          </p>
+          <p xml:id="IDAMRWFE" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Rätt till ledighet för förtroendeuppdrag inom Svenska kyrkan
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motionerna
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2008/09:Kr8 av Christina Axelsson (s),
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2008/09:Kr9 av Leif Pagrotsky m.fl. (s) yrkande 2,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2009/10:Kr286 av Carina Hägg m.fl. (s) yrkande 2 och
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2009/10:A297 av Christina Axelsson (s).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation (s)
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Rätt till ledighet för aktiviteter inom frivilligförsvaret m.m.
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motionerna
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2009/10:K368 av Helena Bargholtz och Ulf Nilsson (båda fp) och
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2009/10:A273 av Eva Flyborg (fp).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 22 april 2010
+          </p>
+          <p>
+            På arbetsmarknadsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Hillevi Engström
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Hillevi Engström
+            (m), Berit Högman (s), Sylvia Lindgren (s), Elisabeth Svantesson
+            (m), Annika Qarlsson (c), Lars Lilja (s), Maria Stenberg (s),
+            Jan Ericson (m), Luciano Astudillo (s), Désirée Pethrus Engström
+            (kd), Anna König Jerlmyr (m), Josefin Brink (v), Ann-Christin
+            Ahlberg (s), Hans Backman (fp), Ulf Holm (mp), Reza Khelili Dylami
+            (m) och Gulan Avci (fp).
+          </p>
+          <p xml:id="IDATXWFE" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            I detta betänkande behandlar arbetsmarknadsutskottet sex motionsyrkanden
+            som avser ledighetsområdet. Fyra motionsyrkanden härrör från den
+            allmänna motionstiden 2009, medan två ingår i följdmotioner med
+            anledning av regeringens skrivelse 2008/09:220
+            <seg rend="grad2">
+              Kyrkoantikvariska frågor.
+            </seg>
+            Skrivelsen och en följdmotion har behandlats i kulturutskottets
+            betänkande 2009/10:KrU4.
+          </p>
+          <p>
+            Motionerna från 2009/10 refereras utan årtal.
+          </p>
+          <p xml:id="IDAEIYFE" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAHIYFE" rend="r3">
+            Bakgrund
+          </p>
+          <p>
+            Med början under 1970-talet utökades möjligheterna till ledighet
+            från arbetet genom ny lagstiftning. Syftet var att skapa ökad
+            valfrihet och välfärd för de anställda. Exempel på ledighetslagar
+            är, utöver
+            <seg rend="grad2">
+              semesterlagen (1977:480), lagen (1974:981) om arbetstagares rätt
+              till ledighet för utbildning (studieledighetslagen), föräldraledighetslagen
+              (1995:584) och lagen (1997:1293) om rätt till ledighet för att
+              bedriva näringsverksamhet. I föräldraledighetslagen har det från
+              den 1 juli 2008 införts en ny ledighetsgrund. Föräldrar som vårdar
+              ett barn för vilket det lämnas helt vårdnadsbidrag ska ha rätt
+              till hel ledighet eller förkortning av normal arbetstid med hälften.
+              Från den 1 oktober 2008 finns även i vissa fall rätt till ledighet
+              för att prova annat arbete enligt lagen (2008:565) om rätt till
+              ledighet för att på grund av sjukdom prova annat arbete
+            </seg>
+            . Den sistnämnda ledighetslagen utgör ett led i den rehabiliteringskedja
+            med fasta hållpunkter som infördes den 1 juli 2008. Syftet med
+            ledighetslagen är att underlätta för sjukskrivna att prova annat
+            arbete och därmed återgå i arbete.
+          </p>
+          <p>
+            Därutöver finns ledighetsbestämmelser i ett stort antal lagar,
+            bl.a.
+            <seg rend="grad2">
+              lagen (1974:358) om facklig förtroendemans ställning på arbetsplatsen
+              (förtroendemannalagen), lagen (1976:580) om medbestämmande i arbetslivet,
+              förkortad MBL, och arbetsmiljölagen (1977:1160), förkortad AML.
+              Nämnas bör också lagen (1994:1809) om totalförsvarsplikt, som
+              innehåller regler om förbud mot uppsägning eller avskedande av
+              arbetstagare som fullgör sina skyldigheter enligt lagen. Vid sidan
+              av lag- och förordningsregleringen finns kompletterande ledighetsregler
+              i kollektivavtal. Viss ledighet följer enbart av kollektivavtal,
+              t.ex. ledighet för vissa familjeangelägenheter som att fira sin
+              egen 50-årsdag eller att delta vid en nära anhörigs begravning.
+              Rätt till ledighet kan också följa av tjänstereglementen, enskilda
+              avtal och sedvänja. För statligt anställda finns vissa särbestämmelser,
+              t.ex. anställningsförordningen (1994:373) och tjänstledighetsförordningen
+              (1984:111)
+            </seg>
+            . Enligt dessa regler kan en ledighet avse rätt att pröva ett
+            annat arbete eller en utlandstjänstgöring.
+          </p>
+          <p>
+            Regelförenklingsarbetet på Arbetsmarknadsdepartementets område
+            har bl.a. inriktats på arbetsmiljöområdet och semesterlagen. Regeringen
+            har aviserat att en proposition om en enklare ledighetslagstiftning
+            kommer att överlämnas till riksdagen under maj månad. Av den lagrådsremiss
+            som regeringen beslutade om i januari i år framgår bl.a. att syftet
+            är att förenkla lagstiftningen och minska företagens administrativa
+            kostnader. Därför föreslås vissa ändringar i de arbetsrättsliga
+            ledighetslagarna, semesterlagen undantagen. I lagrådsremissen
+            föreslås att lagarna samordnas, förenklas och förtydligas, bl.a.
+            i fråga om disposition, rubriker och tidsfrister. Vissa lagar
+            slås samman.
+            <seg rend="grad2">
+              Lagen (1979:1184) om rätt till ledighet för vissa föreningsuppdrag
+              inom skolan, m.m.
+            </seg>
+            upphävs. Enligt lagrådsremissen påverkas det materiella innehållet
+            i reglerna om rätt till ledighet endast i mindre omfattning av
+            de föreslagna ändringarna.
+          </p>
+          <p xml:id="IDAEKYFE" rend="orubrik2">
+            Rätt till tjänstledighet för förtroendeuppdrag inom Svenska kyrkan
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAIKYFE" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                I detta avsnitt behandlar utskottet motionsförslag om rätten
+                till tjänstledighet för förtroendeuppdrag inom Svenska kyrkan.
+                Utskottet föreslår att riksdagen avslår samtliga motionsyrkanden.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför reservation (s).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDATKYFE" rend="r3">
+              Bakgrund
+            </p>
+            <p>
+              I den numera upphävda
+              <seg rend="grad2">
+                kyrkolagen (1992:300)
+              </seg>
+              som framför allt reglerade förhållandet inom Svenska kyrkan fanns
+              en del bestämmelser som sannolikt är grunden till de motioner
+              som behandlas i detta avsnitt. Motionerna aktualiserar frågan
+              om rätt till ledighet för förtroendeuppdrag inom Svenska kyrkan.
+              I lagens andra kapitel om Svenska kyrkans demokratiska uppbyggnad
+              slog man fast att Svenska kyrkan genom sina församlingar upprätthöll
+              en riksomfattande verksamhet som var uppbyggd på demokratisk grund.
+              Vidare angavs det att Svenska kyrkans församlingar och stiftsmyndigheter
+              lokalt och regionalt ansvarade för kyrkans verksamhet och att
+              valda ombud för Svenska kyrkan samlades varje år till kyrkomöte.
+            </p>
+            <p>
+              I kyrkolagens tolfte kapitel om förtroendevalda reglerades rätten
+              till den ledighet från anställning som behövdes för uppdrag bl.a.
+              i kyrkofullmäktige, församlingsdelegerade, kyrkorådet och övriga
+              nämnder samt beredningar. I lagen gavs också möjlighet för bl.a.
+              kyrkofullmäktige och kyrkostämman i en församling att besluta
+              att förtroendevalda i församlingen i skälig omfattning skulle
+              få ersättning för resekostnader och andra utgifter som uppdraget
+              medförde samt ersättning för förlorad arbetsinkomst och arvode.
+            </p>
+            <p>
+              Resultatet av den ändrade relationen mellan staten och Svenska
+              kyrkan som genomfördes den 1 januari 2000 blev i detta avseende
+              att det i
+              <seg rend="grad2">
+                lagen (1998:1592) om införande av lagen (1998:1591) om Svenska
+                kyrkan,
+              </seg>
+              i det följande kallad införandelagen, tillfördes en bestämmelse
+              om rätt till ledighet för förtroendevalda inom Svenska kyrkan
+              t.o.m. år 2009. I lagens förarbeten (prop. 1997/98:116) angavs
+              att förslaget grundade sig på hänsyn till intresset av samsyn
+              i framför allt de grundläggande frågorna i statkyrkaprocessen
+              och den vikt som kyrkomötet lagt vid frågan. En sådan lösning
+              ansågs också rimlig med tanke på att omställningen skulle underlättas
+              för Svenska kyrkan. Det ansågs dock mot bakgrund av principen
+              om ökad likställighet mellan trossamfunden inte finnas skäl att
+              föreslå en permanent rätt till ledighet för förtroendeuppdrag,
+              utan rätten till ledighet begränsades till en tidsperiod om tio
+              år. Denna tidsbegränsade rätt till ledighet stadgades i 8 § införandelagen
+              och gällde fram t.o.m. den 31 december 2009.
+            </p>
+            <p xml:id="IDALLYFE" rend="r3">
+              Motionerna
+            </p>
+            <p>
+              <seg rend="grad2">
+                Socialdemokraterna anser i motion 2008/09:Kr9 yrkande 2 att det
+                ur demokratisk synvinkel är viktigt med rätt till tjänstledighet
+                för förtroendeuppdrag inom Svenska kyrkan. Övergångsbestämmelsen
+                om tjänstledighet och lagen om skattefrihet löpte ut i och med
+                utgången av 2009. Rätt till tjänstledighet är av stor demokratisk
+                vikt, detta för att kyrkan även framöver ska kunna rekrytera förtroendevalda
+                inom alla samhällsgrupper. Många viktiga beslut fattas inom Svenska
+                kyrkan vad gäller såväl vården av vårt gemensamma kulturarv som
+                begravningsverksamheten. Dessutom skulle en rätt till tjänstledighet
+                inte innebära någon kostnad för staten. Även Christina Axelsson
+                (s) i motionerna 2008/09:Kr8 och A297 och Carina Hägg m.fl. (s)
+                i motion Kr286 yrkande 2
+              </seg>
+              anser att det bör införas en rätt till ledighet för förtroendeuppdrag
+              inom Svenska kyrkan.
+            </p>
+            <p xml:id="IDAMMYFE" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet kan konstatera att Svenska kyrkan fram till utgången
+              av 2009 har haft en särställning bland de svenska samfunden när
+              det bl.a. gäller rätten till ledighet för förtroendevalda. Vid
+              beslutet om den ändrade relationen mellan staten och Svenska kyrkan
+              var en viktig utgångspunkt att det skulle skapas en ökad likställighet
+              mellan Svenska kyrkan och andra trossamfund. Utskottet anser att
+              man bör stå fast vid detta. Annars skulle förtroendevalda personer
+              som är verksamma i andra svenska samfund som har demokratiska
+              ordningar bli särbehandlade i detta avseende. Utskottet anser
+              dessutom att sådana förtroendevalda inte utan vidare kan jämföras
+              med förtroendevalda i de borgerliga kommunerna och landstingen
+              som har en lagfäst rätt till ledighet för att utöva av sina uppdrag.
+            </p>
+            <p>
+              Med hänvisning till det ovan anförda anser utskottet att motionerna
+              <seg rend="grad2">
+                2008/09:Kr8 (s), 2008/09:Kr9 yrkande 2 (s), Kr286 yrkande 2 (s)
+                och A297 (s)
+              </seg>
+              bör avslås.
+            </p>
+            <p xml:id="IDAGNYFE" rend="orubrik2">
+              Rätt till tjänstledighet för aktiviteter inom frivilligförsvaret
+              m.m.
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAKNYFE" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                I detta avsnitt behandlar utskottet motionsförslag om rätten
+                till tjänstledighet för aktiviteter inom frivilligförsvaret och
+                ett krav på en utredning om s.k. röddagskonto. Utskottet föreslår
+                att riksdagen avslår båda motionsyrkandena.
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDARNYFE" rend="r3">
+              Motionerna
+            </p>
+            <p>
+              <seg rend="grad2">
+                Eva Flyborg (fp) anser i motion A273
+              </seg>
+              att frågan om ledighet för utbildning och tjänstgöring inom frivilligförsvaret
+              bör få en lösning snarast. Frågan har behandlats i mer än 18 år
+              utan att man har kommit ett enda steg framåt. Med tanke på de
+              frivilliga försvarsorganisationernas ökade betydelse bör frågan
+              snarast lösas.
+            </p>
+            <p>
+              <seg rend="grad2">
+                Helena Bargholtz och Ulf Nilsson (båda fp) vill i motion K368
+              </seg>
+              att en utredning tillsätts för att se över möjligheterna att
+              fritt få disponera de nuvarande helgdagarna. Frågan om röddagskonto
+              är en stor arbetsmarknadspolitisk fråga som berör både arbetstidslagstiftning
+              och lokala och centrala avtal mellan arbetsgivare, anställda och
+              fack, men det är även en fråga om trosfrihet.
+            </p>
+            <p xml:id="IDAIOYFE" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet har vid ett antal tillfällen under den innevarande
+              mandatperioden behandlat motioner med liknande innehåll som i
+              motion A273 (fp) om rätt till ledighet för frivilligt försvarsarbete.
+            </p>
+            <p>
+              Utskottet vill i detta sammanhang nämna att det i Sverige finns
+              18 frivilliga försvarsorganisationer; dessa är ideella föreningar
+              som är fristående i förhållande till varandra och till Försvarsmakten
+              som de samverkar med. Enligt Försvarsmaktens webbplats anses frivilligorganisationerna
+              vara en viktig resurs för Försvarsmakten. Organisationerna rekryterar
+              och utbildar medborgare på frivillig basis för uppgifter inom
+              totalförsvaret.
+            </p>
+            <p>
+              I november 2008 överlämnade
+              <seg rend="grad2">
+                Utredningen om frivillig försvarsverksamhet
+              </seg>
+              sitt slutbetänkande (SOU 2008:101) med en rad olika förslag på
+              området. Några förslag om tjänstledighet för deltagande i aktiviteter
+              för frivilligförsvaret behandlades dock inte. Betänkandet bereds
+              för närvarande inom Regeringskansliet, och en del förslag har
+              redan överlämnats och i vissa fall behandlats av riksdagen (prop.
+              2008/09:140, bet. 2008/09:FöU10, rskr. 2008/09:292, prop. 2009/10:160).
+            </p>
+            <p>
+              Utskottet kan konstatera att det under de senaste åren pågått
+              ett omfattande arbete inom Försvarsmaktens och frivilligförsvarets
+              område utan att det utmynnat i något förslag i linje med det i
+              motion A273. Därtill kommer att Arbetsmarknadsdepartementet nyligen
+              sett över lagstiftningen på ledighetsområdet. Utskottet kan konstatera
+              att det inte heller i den beslutade lagrådsremissen om en enklare
+              ledighetslagstiftning finns förslag om tjänstledighet för frivilligt
+              försvarsarbete.
+            </p>
+            <p>
+              Utskottet har uppfattat att frågan om ledighet från ordinarie
+              arbete för deltagande i frivilligförsvaret ofta kan lösas genom
+              ett avtal eller en överenskommelse mellan den enskilde och dennes
+              arbetsgivare, åtminstone när det gäller kortare uppdrag.
+            </p>
+            <p>
+              Utskottet vill trots det ovan sagda uttrycka sin förståelse för
+              kravet på rätt till tjänstledighet för utbildning och tjänstgöring
+              inom frivilligförsvaret och utesluter inte att frågan framöver
+              kan få förnyad aktualitet.
+            </p>
+            <p>
+              När det gäller motion K368 (fp) kan utskottet konstatera att
+              liknande motionsyrkanden tidigare behandlats av riksdagen och
+              att samtliga avslagits.
+            </p>
+            <p>
+              De svenska helgdagarna regleras i en särskild lag,
+              <seg rend="grad2">
+                lagen (1989:253) om allmänna helgdagar
+              </seg>
+              . Av denna lag framgår att söndagar, inklusive påskdagen och
+              pingstdagen, är helgdagar. Därutöver har Sverige för närvarande
+              elva fristående övriga helgdagar. Av dessa helgdagar har merparten
+              en religiös koppling. Utskottet kan konstatera att både antalet
+              helgdagar och synen på helgdagar har skiftat genom tiderna. Att
+              anpassa och byta helgdagar är inget nytt. Under seklernas gång
+              har många helgdagar försvunnit och andra tillkommit.
+            </p>
+            <p>
+              Det är naturligt att frågor av det slag som motionen tar upp
+              väcks allt eftersom det blir en större etnisk och religiös mångfald
+              i samhället. Utskottet kan i sammanhanget konstatera att frågan
+              om en friare disposition av ledighet behandlades i utredningen
+              <seg rend="grad2">
+                Tid för arbete och ledighet
+              </seg>
+              (SOU 2002:58). Utskottet kan dock samtidigt konstatera att frågan
+              är komplicerad och kräver överväganden av vitt skilda slag. Frågan
+              är i hög grad en angelägenhet som arbetsmarknadens parter kan
+              förfoga över i kollektivavtal där förutsättningarna bör vara goda
+              att göra anpassningar till enskilda förhållanden.
+            </p>
+            <p>
+              Mot bakgrund av det ovan anförda finner utskottet inte det behövligt
+              att för närvarande föreslå några initiativ på dessa områden. Motionerna
+              <seg rend="grad2">
+                K368 (fp) och A273 (fp)
+              </seg>
+              avstyrks.
+            </p>
+            <p xml:id="IDA4PYFE" rend="AvsnittsRubrik">
+              Reservation
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservation. I rubriken anges vilken punkt
+              i utskottets förslag till riksdagsbeslut som behandlas i avsnittet.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDAIQYFE">
+                  <p rend="reservation">
+                    Rätt till ledighet för förtroendeuppdrag inom Svenska kyrkan,
+                    punkt 1 (s)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="reservanter">
+                    av Berit Högman (s), Sylvia Lindgren (s), Lars Lilja (s), Maria
+                    Stenberg (s), Luciano Astudillo (s) och Ann-Christin Ahlberg (s).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDAJRYFE" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Vi anser att förslaget till riksdagsbeslut under punkt 1 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen. Därmed bifaller riksdagen motionerna
+            </p>
+            <p rend="stallningstagandereservation_">
+              2008/09:Kr8 av Christina Axelsson (s),
+            </p>
+            <p rend="stallningstagandereservation_">
+              2008/09:Kr9 av Leif Pagrotsky m.fl. (s) yrkande 2,
+            </p>
+            <p rend="stallningstagandereservation_">
+              2009/10:Kr286 av Carina Hägg m.fl. (s) yrkande 2 och
+            </p>
+            <p rend="stallningstagandereservation_">
+              2009/10:A297 av Christina Axelsson (s).
+            </p>
+            <p xml:id="IDAURYFE" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Många viktiga beslut fattas inom Svenska kyrkan när det gäller
+              såväl vården av vårt gemensamma kulturarv som begravningsverksamheten.
+            </p>
+            <p>
+              De förtroendevalda inom Svenska kyrkan har till uppgift att vara
+              delaktiga i, ta ansvar för och utveckla verksamheten inom Svenska
+              kyrkan. De har ansvar för att Svenska kyrkan även fortsättningsvis
+              är en öppen folkkyrka för alla i hela landet, och de bevakar och
+              beslutar om underhållet av våra kyrkor en del av vårt kulturarv
+              samt beslutar i frågor som rör begravningsväsendet.
+            </p>
+            <p>
+              Svenska kyrkans medlemmar väljer sina förtroendevalda vart fjärde
+              år genom val där medlemmar över 16 år har rösträtt. Svenska kyrkan
+              hade 2009 drygt 36 000 förtroendevalda runtom i landet.
+            </p>
+            <p>
+              Vi anser att rätten till tjänstledighet för förtroendeuppdrag
+              inom Svenska kyrkan är av stor demokratisk vikt, detta för att
+              kyrkan även framöver ska kunna rekrytera förtroendevalda inom
+              alla samhällsgrupper. Det är viktigt att ge de förtroendevalda
+              en fortsatt laglig rätt till tjänstledighet så att de får tid
+              och möjlighet att fullfölja de uppdrag som de är valda till.
+            </p>
+            <p>
+              Detta bör ges regeringen till känna. Vi tillstyrker därför motionerna
+              2008/09:Kr8 (s), 2008/09:Kr9 yrkande 2 (s), Kr286 yrkande 2 (s)
+              och A297 (s).
+            </p>
+            <p xml:id="IDAGSYFE" rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAJSYFE" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAMSYFE" rend="rubrik2">
+              Motioner väckta med anledning av skrivelse 2008/09:220
+            </p>
+            <p rend="behandlatdokument_">
+              2008/09:Kr8 av Christina Axelsson (s):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om rätten till tjänstledighet för förtroendeuppdrag
+              inom Svenska kyrkan.
+            </p>
+            <p rend="behandlatdokument_">
+              2008/09:Kr9 av Leif Pagrotsky m.fl. (s):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om att det ur demokratisk synvinkel är viktigt
+                    med rätten till tjänstledighet för förtroendeuppdrag inom Svenska
+                    kyrkan.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDACUYFE" rend="rubrik2">
+              Motioner från allmänna motionstiden hösten 2009
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:K368 av Helena Bargholtz och Ulf Nilsson (båda fp):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om en utredning om röddagskonto.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:Kr286 av Carina Hägg m.fl. (s):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad som
+                    anförs i motionen om att det ur ett demokratiskt perspektiv är
+                    viktigt med rätten till tjänstledighet för förtroendeuppdrag inom
+                    Svenska kyrkan.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p rend="behandlatdokument_">
+              2009/10:A273 av Eva Flyborg (fp):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om lagstadgad rätt till ledighet för deltagande
+              i utbildning och tjänstgöring inom frivilligförsvaret.
+            </p>
+            <p rend="behandlatdokument_">
+              2009/10:A297 av Christina Axelsson (s):
+            </p>
+            <p>
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i motionen om rätten till tjänstledighet för förtroendeuppdrag
+              inom Svenska kyrkan.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

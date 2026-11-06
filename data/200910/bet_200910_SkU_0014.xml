@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200910_SkU_0014">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen godkände ett avtal mellan Sverige och Caymanöarna om upplysningar i skatteärenden. Riksdagen godkände även ett avtal om förfarande för ömsesidig överenskommelse vid justering av inkomst mellan företag i intressegemenskap och ett avtal för undvikande av dubbelbeskattning av fysiska personer.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Skatteavtal med Caymanöarna (SkU14)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till propositionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag.</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GX0932</idno>
+              <title>2009-11-18</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">32</biblScope>
+              <note type="display-reference">2009-11-18</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GX0932</idno>
+              <title>2009-11-18</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">32</biblScope>
+              <note type="display-reference">2009-11-18</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GX0K54</idno>
+              <title>2009/10:54</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">54</biblScope>
+              <note type="display-reference">2009/10:54</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2009:1111</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2009:1112</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">2009:1113</idno>
+              <note type="display-reference">-</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GX0319</idno>
+              <title>Avtal om upplysningar i skatteärenden och partiella skatteavtal med Caymanöarna</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">19</biblScope>
+              <note type="display-reference">proposition 2009/10:19 Avtal om upplysningar i skatteärenden och partiella skatteavtal med Caymanöarna</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2009-11-16">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2009-11-16">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2009-11-11">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-11-11">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2009-11-11">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2009-11-11">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-11-10">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2009-11-10">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-11-03">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2009-11-03">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2009-11-18">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2009-11-18">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2009-11-18">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-11-18">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2009-11-18">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-11-17">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2009-11-17">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-11-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2009-11-16">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Skatteutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2009/10:SkU14
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Avtal om upplysningar i skatteärenden och partiella skatteavtal
+                  med Caymanöarna
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACJQWD" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            I betänkandet tillstyrker utskottet regeringens förslag (prop.
+            2009/10:19) om att riksdagen dels ska godkänna avtal mellan Sverige
+            och Caymanöarna om upplysningar i skatteärenden, om förfarande
+            för ömsesidig överenskommelse vid justering av inkomst mellan
+            företag i intressegemenskap och för undvikande av dubbelbeskattning
+            av fysiska personer, dels ska anta lagar om dessa avtal.
+          </p>
+          <p>
+            Lagarna föreslås träda i kraft den dag regeringen bestämmer.
+          </p>
+          <p>
+            Ett särskilt yttrande (s, v och mp) har lämnats till betänkandet.
+          </p>
+          <p xml:id="IDAPJQWD" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Avtal om upplysningar i skatteärenden och partiella skatteavtal
+                  med Caymanöarna
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  dels godkänner
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  1. avtalet mellan Sverige och Caymanöarna om upplysningar i skatteärenden,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2. avtalet mellan Sverige och Caymanöarna om förfarande för ömsesidig
+                  överenskommelse vid justering av inkomst mellan företag i intressegemenskap,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  3. avtalet mellan Sverige och Caymanöarna för undvikande av dubbelbeskattning
+                  av fysiska personer,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  dels antar regeringens förslag till
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  4. lag om avtal mellan Sverige och Caymanöarna om upplysningar
+                  i skatteärenden,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  5. lag om avtal mellan Sverige och Caymanöarna om förfarande
+                  för ömsesidig överenskommelse vid justering av inkomst mellan
+                  företag i intressegemenskap,
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  6. lag om avtal mellan Sverige och Caymanöarna för undvikande
+                  av dubbelbeskattning av fysiska personer.
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  Därmed bifaller riksdagen proposition 2009/10:19 punkterna 16.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 10 november 2009
+          </p>
+          <p>
+            På skatteutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Lennart Hedquist
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Lennart Hedquist
+            (m), Lars Johansson (s), Annicka Engblom (m), Laila Bjurling (s),
+            Ulf Berg (m), Jörgen Johansson (c), Christin Hagberg (s), Lena
+            Asplund (m), Fredrik Olovsson (s), Lennart Sacrédeus (kd), Jessica
+            Polfjärd (m), Marie Engström (v), Karin Nilsson (c), Helena Leander
+            (mp), Hans Olsson (s), Birgitta Eriksson (s) och Lars Tysklind
+            (fp).
+          </p>
+          <p xml:id="IDAMNQWD" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAPNQWD" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            I proposition 2009/10:19 föreslår regeringen att riksdagen godkänner
+            avtal om upplysningar i skatteärenden och partiella skatteavtal
+            med Caymanöarna och införlivar avtalen i svensk rätt. Regeringens
+            förslag till riksdagsbeslut framgår av bilaga 1. Avtalstexterna
+            och regeringens lagförslag återfinns i bilaga 2.
+          </p>
+          <p>
+            Ingen motion har väckts i ärendet.
+          </p>
+          <p xml:id="IDAYNQWD" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Förhandlingar om avtal om upplysningar i skatteärenden och partiella
+            skatteavtal med Caymanöarna har förts under 2008 och 2009. Utkast
+            till avtal färdigställdes i mars 2009. Utkasten var upprättade
+            på engelska. Svenska översättningar har därefter upprättats. De
+            engelska texterna har remitterats till Kammarrätten i Stockholm
+            och Skatteverket. Avtalet om upplysningar i skatteärenden undertecknades
+            i Stockholm den 1 april 2009, och de partiella skatteavtalen undertecknades
+            i Paris den 17 juni 2009.
+          </p>
+          <p>
+            Finansdepartementet har upprättat förslag till
+          </p>
+          <p rend="punktlistaLista">
+            lag om avtal mellan Sverige och Caymanöarna om upplysningar i
+            skatteärenden
+          </p>
+          <p rend="punktlistaLista">
+            lag om avtal mellan Sverige och Caymanöarna om förfarande för
+            ömsesidig överenskommelse vid justering av inkomst mellan företag
+            i intressegemenskap
+          </p>
+          <p rend="punktlistaLista">
+            lag om avtal mellan Sverige och Caymanöarna för undvikande av
+            dubbelbeskattning av fysiska personer.
+          </p>
+          <p xml:id="IDAWOQWD" rend="rubrik2">
+            Propositionens huvudsakliga innehåll
+          </p>
+          <p>
+            Regeringen föreslår att riksdagen dels ska godkänna avtal mellan
+            Sverige och Caymanöarna om upplysningar i skatteärenden, om förfarande
+            för ömsesidig överenskommelse vid justering av inkomst mellan
+            företag i intressegemenskap och för undvikande av dubbelbeskattning
+            av fysiska personer, dels ska anta lagar om dessa avtal.
+          </p>
+          <p>
+            Lagarna förslås träda i kraft den dag regeringen bestämmer.
+          </p>
+          <p xml:id="IDA5OQWD" rend="r4">
+            Avtalet mellan Sverige och Caymanöarna om upplysningar i skatteärenden
+          </p>
+          <p>
+            Sverige har inte något avtal om upplysningar i skatteärenden
+            med Caymanöarna. Regeringen bedömer att avtal om upplysningar
+            i skatteärenden är viktiga för en effektiv skattekontroll genom
+            att de möjliggör samarbete mellan skattemyndigheterna i de avtalsslutande
+            parterna. Det är därför angeläget att få till stånd ett avtal
+            om upplysningar i skatteärenden med Caymanöarna.
+          </p>
+          <p>
+            Det föreslagna avtalet ansluter nära till OECD:s (Organisationen
+            för ekonomiskt samarbete och utveckling) modellavtal för informationsutbyte
+            i skatteärenden (Agreement on Exchange of Information on Tax Matters,
+            modellavtalet), vilket utarbetats inom ramen för OECD:s arbete
+            mot skadliga skatteregimer.
+          </p>
+          <p>
+            I artikel 1 anges avtalets syfte och tillämpningsområde. Av bestämmelsen
+            följer att avtalet omfattar utbyte av upplysningar som kan antas
+            vara relevanta vid tillämpning och verkställighet av parternas
+            interna lagstiftning rörande skatter som omfattas av avtalet.
+          </p>
+          <p>
+            I artikel 3 anges de skatter som omfattas av avtalet. I artikel
+            3.1 räknas de skatter som omfattas av avtalet upp. Såväl Skatteverket
+            som Kammarrätten i Stockholm har noterat att avtalet endast omfattar
+            svenska skatter. Bestämmelsen har, när det gäller skatt i Caymanöarna,
+            utformats i enlighet med önskemål från Caymanöarna. Såsom framgår
+            av punkt 9 i kommentaren till modellavtalet är en avtalsslutande
+            part, även om ett avtal om informationsutbyte inte omfattar någon
+            skatt i denna part, skyldig att lämna information avseende sådan
+            skatt i den andra parten som omfattas av avtalet. Det avgörande
+            för svenskt vidkommande är således att avtalet omfattar de svenska
+            skatter för vilka det finns ett svenskt intresse av att kunna
+            begära upplysningar från Caymanöarna. Av artikel 3.2 framgår att
+            avtalet ska tillämpas även på skatter av samma eller i huvudsak
+            likartat slag som efter undertecknandet av avtalet tas ut vid
+            sidan av eller i stället för de skatter som anges i artikel 3.1.
+          </p>
+          <p>
+            Artikel 5 innehåller bestämmelser om informationsutbyte på begäran
+            och artikel 6 innehåller bestämmelser om utomlands utförda skatteutredningar
+            som bl.a. innebär att svenska myndigheter kan begära att få närvara
+            vid skatteutredningar i Caymanöarna.
+          </p>
+          <p xml:id="IDARPQWD" rend="r4">
+            Avtalet mellan Sverige och Caymanöarna om förfarande för ömsesidig
+            överenskommelse vid justering av inkomst mellan företag i intressegemenskap
+          </p>
+          <p>
+            Om inkomst som ett företag i en part mottagit justeras på grund
+            av att villkor som avviker från marknadsmässiga villkor avtalats
+            mellan företag i intressegemenskap, kan detta leda till att samma
+            inkomst redovisas i båda parterna. Avtalet tillhandahåller ett
+            förfarande för parterna att ingå en ömsesidig överenskommelse
+            i syfte att undvika att en sådan justering leder till att inkomsten
+            beskattas i strid med armlängdsprincipen i en av parterna.
+          </p>
+          <p xml:id="IDAXPQWD" rend="r4">
+            Avtalet mellan Sverige och Caymanöarna för undvikande av dubbelbeskattning
+            av fysiska personer
+          </p>
+          <p>
+            Regeringen framhåller att skatteavtalen är allmänt sett viktiga
+            för att undanröja de hinder som en dubbelbeskattning kan innebära
+            för utbytet av varor och tjänster, för kapitalrörelser samt för
+            teknologins och arbetskraftens rörlighet och för utvecklingen
+            av ekonomiska förbindelser mellan stater och andra jurisdiktioner.
+          </p>
+          <p>
+            Avtalet innehåller i artiklarna 510 beskattningsregler avseende
+            inkomst av enskild tjänst, styrelsearvoden, pensioner, inkomst
+            av offentlig tjänst och belopp som mottas av studerande.
+          </p>
+          <p xml:id="IDADQRWD" rend="r4">
+            Offentligfinansiella effekter
+          </p>
+          <p>
+            Enligt regeringen förväntas förslagen i denna proposition inte
+            ge upphov till någon negativ offentligfinansiell effekt. Förslagen
+            kan emellertid komma att motverka ett framtida skattebortfall
+            genom möjligheten till informationsutbyte med Caymanöarna. Inte
+            heller bedöms förslagen ge upphov till några ökade kostnader eller
+            någon ökad arbetsbörda för Skatteverket eller för de allmänna
+            förvaltningsdomstolarna.
+          </p>
+          <p xml:id="IDAKQRWD" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAOQRWD" rend="rubrik2">
+            Avtal om upplysningar i skatteärenden och partiella skatteavtal
+            med Caymanöarna
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDAUQRWD" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Riksdagen bifaller regeringens förslag.
+              </p>
+            </div>
+            <div type="html-textovervagande">
+              <p rend="textiruta_">
+                Jämför särskilt yttrande (s, v, mp).
+              </p>
+            </div>
+          </div>
+          <div type="html-continuation">
+            <p>
+              Utskottet har inte något att invända mot regeringens förslag
+              och tillstyrker propositionen.
+            </p>
+            <p xml:id="IDAFRRWD" rend="AvsnittsRubrik">
+              Särskilt yttrande
+            </p>
+          </div>
+          <div type="html-rubriksarskiltyttrande">
+            <table>
+              <row>
+                <cell xml:id="IDAJRRWD">
+                  <p rend="ettsarskiltyttrande">
+                    Avtal om upplysningar i skatteärenden och partiella skatteavtal
+                    med Caymanöarna (s, v, mp)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    Lars Johansson (s), Laila Bjurling (s), Christin Hagberg (s),
+                    Fredrik Olovsson (s), Marie Engström (v), Helena Leander (mp),
+                    Hans Olsson (s) och Birgitta Eriksson (s) anför:
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p>
+              Flertalet större OECD-länder förhandlar i dag aktivt med de finansiella
+              skatteparadisen om att ingå informationsutbytesavtal på skatteområdet.
+              Syftet med att ingå informationsutbytesavtal är alltså att möjliggöra
+              för skattemyndigheten att få insyn i den skattskyldiges kapitalplaceringar
+              och inkomster i skatteparadiset.
+            </p>
+            <p>
+              Socialdemokraterna, Miljöpartiet de gröna och Vänsterpartiet
+              är givetvis positiva till det arbete mot skatteparadisen som genomförts.
+              Vi menar dock att det snarare är tidigare insatser av den föregående
+              regeringen och dess samarbetspartier (initiativet genom Nordiska
+              rådet) än nya initiativ av den borgerliga regeringen som åstadkommit
+              dagens resultat. Vi har också begärt att skatteparadisen skulle
+              tas upp som en prioriterad fråga under ordförandeåret. Regeringen
+              har nonchalerat detta.
+            </p>
+            <p>
+              Socialdemokraterna, Miljöpartiet de gröna och Vänsterpartiet
+              är positiva till att det nordiska projektet fortsätter och förlängs.
+              Det måste dock vara minst OECD:s modellavtal som gäller. Det är
+              ett golv, och inga signaler bör utgå till skatteparadisen om att
+              det är ett tak. Tvärtom måste Sverige verka för att OECD noga
+              följer och för medlemsstaterna sammanfattar hur avtalen praktiskt
+              fungerar för skattemyndigheterna i de olika medlemsstaterna. Att
+              nästan alla skatteparadis är beredda att skriva under modellavtalet
+              är en signal om att det nu går att ta ytterligare ett steg mot
+              transparens och informationsutbyte utan förbehåll. Vi menar att
+              Sverige ska ta initiativ inom OECD för att förbättra modellavtalet
+              i fråga om informationsutbytet.
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDATSRWD" rend="Bilaga">
+              Bilaga 1
+            </p>
+            <p xml:id="IDAWSRWD" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAZSRWD" rend="rubrik2">
+              Propositionen
+            </p>
+            <p rend="behandlatdokument_">
+              Proposition 2009/10:19 Avtal om upplysningar i skatteärenden
+              och partiella skatteavtal med Caymanöarna:
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    1.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen godkänner avtalet mellan Sverige och Caymanöarna om
+                    upplysningar i skatteärenden (avsnitt 4).
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    2.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen godkänner avtalet mellan Sverige och Caymanöarna om
+                    förfarande för ömsesidig överenskommelse vid justering av inkomst
+                    mellan företag i intressegemenskap (avsnitt 5).
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    3.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen godkänner avtalet mellan Sverige och Caymanöarna för
+                    undvikande av dubbelbeskattning av fysiska personer (avsnitt 6).
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    4.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen antar regeringens förslag till lag om avtal mellan
+                    Sverige och Caymanöarna om upplysningar i skatteärenden.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    5.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen antar regeringens förslag till lag om avtal mellan
+                    Sverige och Caymanöarna om förfarande för ömsesidig överenskommelse
+                    vid justering av inkomst mellan företag i intressegemenskap.
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p>
+                    6.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen antar regeringens förslag till lag om avtal mellan
+                    Sverige och Caymanöarna för undvikande av dubbelbeskattning av
+                    fysiska personer.
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDA3XRWD" rend="Bilaga">
+              Bilaga 2
+            </p>
+            <p xml:id="IDADYRWD" rend="BilageRubrik">
+              Regeringens lagförslag
+            </p>
+            <p>
+              <graphic url="shape{70726293-EFF5-4A53-B9E4-B45BDFABBFBC}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{30D4BF04-93A3-47CA-A5BE-2F46CF03746C}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{998F65C3-4410-4CF5-A7B4-E1F82B7DFC44}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{90B8F26B-6BDE-47EF-B1D9-B4FF91A2E330}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{7FE09B3F-B994-45EB-BB56-C95BEDF59DBB}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{DE877647-F85A-4526-9A9C-4C98EDDAFB7A}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{C8B2DB3A-4B59-4982-A89C-4644EB9FE251}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{CA48362C-1630-402E-B021-D1EF2CC0AA80}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{7F76973A-6345-42A5-9C5E-B53B31E8D7D8}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{EF04A54D-02BF-40C3-856B-66FAAB522000}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{3419E8F1-61D1-4423-BED5-C73FCC233AE5}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{EDCCE7B7-3D22-4F83-A1FD-EF98128BFDA0}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{1D7554F7-8E4C-45FC-BF28-81D3E1870DA8}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{FDC44BDB-1F5A-44DF-A826-8226DA85DF21}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{203E6A86-EE2F-4145-9ED8-6B2FF833A739}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{B1E1B33C-A9E8-46B0-A82F-3744347A9D98}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{44DBF2EB-2748-48B7-AE9D-577949867ED9}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{60CCF2E7-D25E-4F3F-AC60-C7FC08E275FF}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{7243BB38-85E7-4228-9E5D-91E86C0C1428}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{D83B23B4-2D05-4ED0-8A36-41119FC2324D}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{C2AA2F8D-3F48-4DCB-B0AC-F88BF94D7ACA}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{37F5695B-4FF8-4AFE-8267-DBE9F38E2909}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{5FF55311-4184-4D0B-BF67-FEB099924909}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{31387CA3-51FF-41F3-98EF-B624F6B9A1E9}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{D7CE402E-3180-4D15-94A9-52123D2CF0B3}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{133E3F53-5A06-4615-8F45-FC6CDA0E042B}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{83762749-46E1-481B-A923-DA58A9024770}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{BF04FAB1-0E02-401D-BC5A-F50F6606193B}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{9FC82B50-657A-4971-B567-8328BC27F8C3}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{EE513658-26ED-4CCA-8F0E-973FAC85770F}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{27C4D64C-8F2E-405C-A2B4-D1EA044CEF1F}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{C26D43F2-8666-48C2-A68E-A6FEBF753F9F}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{FEFA38A6-14FC-4D42-B956-F161D0455A17}.png"/>
+            </p>
+            <p>
+              <graphic url="shape{79EFDF7F-B611-47CA-A89C-DDC44906536E}.png"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

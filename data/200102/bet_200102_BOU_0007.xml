@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_BOU_0007">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen gav, med anledning av förslag från Riksdagens revisorer, regeringen i uppdrag att förbättra återrapporteringen om konsekvenserna av den omstrukturering av Lantmäteriet som genomförts under senare delen av 1990-talet. Regeringen fick också i uppdrag att göra en översyn av bl.a. åtskillnaden mellan myndighetsutövningen och uppdragsverksamheten, utfallet av den nya arbetsprocessen inom fastighetsbildningen samt omfattningen och inriktningen av tillsynsverksamheten. Översynen bör komma till stånd så snart som möjligt.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Det nya Lantmäteriet (BoU7)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammarn biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0973</idno>
+              <title>2002-02-21</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">73</biblScope>
+              <note type="display-reference">2002-02-21</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0973</idno>
+              <title>2002-02-21</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">73</biblScope>
+              <note type="display-reference">2002-02-21</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K156</idno>
+              <title>2001/02:156</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">156</biblScope>
+              <note type="display-reference">2001/02:156</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K157</idno>
+              <title>2001/02:157</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">157</biblScope>
+              <note type="display-reference">2001/02:157</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="frsrdg">
+              <idno type="riksdagen">GP04RR10</idno>
+              <title>Riksdagens revisorers förslag angående Lantmäteriet</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">RR10</biblScope>
+              <note type="display-reference">forslag 2001/02:RR10 Riksdagens revisorers förslag angående Lantmäteriet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Bo26</idno>
+              <title>med anledning av förs. 2001/02:RR10 Riksdagens revisorers förslag angående Lantmäteriet</title>
+              <title type="sub">av Annelie Enochson m.fl. (KD)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Bo26</biblScope>
+              <note type="display-reference">motion 2001/02:Bo26 med anledning av förs. 2001/02:RR10 Riksdagens revisorers förslag angående Lantmäteriet</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2002-02-14">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2002-02-14">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-02-12">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-02-12">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-02-12">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-01-24">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-01-24">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2002-02-21">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-02-21">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-02-21">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-02-21">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-02-21">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2002-02-20">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-02-19">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-02-19">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Bostadsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:BOU7
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Det nya Lantmäteriet
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I detta betänkande behandlar bostadsutskottet
+            Riksdagens revisorers förslag 2001/02:RR10 Det nya Lantmäteriet
+            jämte en med anledning av förslaget väckt motion. Inledningsvis
+            ställer sig utskottet bakom förslaget om att regeringens återrapportering
+            till riksdagen måste förbättras. Det sker bl.a. mot bakgrund av
+            bostadsutskottets och riksdagens tidigare principiella ställningstaganden
+            i fråga om vikten av ett bra beslutsunderlag. När det gäller Riksdagens
+            revisorers förslag till åtgärder rörande verksamheten inom Lantmäteriet
+            konstaterar utskottet att dessa har stor spännvidd, men att de
+            ändå bör behandlas samlat med utgångspunkt i de mål och riktlinjer
+            som lagts fast för verksamheten. Mot denna bakgrund föreslår utskottet
+            att en översyn skall komma till stånd bl.a. vad gäller åtskillnaden
+            mellan myndighetsutövningen och uppdragsverksamheten, utfallet
+            av den nya arbetsprocessen inom fastighetsbildningen samt omfattningen
+            och inriktningen av tillsynsverksamheten. Enligt utskottet bör
+            översynen komma till stånd så snart som möjligt. I första hand
+            förordar utskottet att den sker inom ramen för en av regeringen
+            aviserad utredning av den statliga lantmäteriverksamheten. Samtidigt
+            uttalar dock utskottet att regeringen, med tanke på frågornas
+            skilda karaktär, bör vara oförhindrad att också på annat sätt
+            vidta de åtgärder som kan föranledas av utskottets ställningstaganden.
+            Det kan t.ex. ske genom utredningsuppdrag i enskilda frågor, genom
+            direktiv till myndigheterna eller genom en dialog med berörda
+            intressenter. Avslutningsvis avstyrker utskottet ett motionsförslag
+            om att integrera den sjökartering som Sjöfartsverket har ansvaret
+            för med Lantmäteriets verksamhet. Enligt utskottets mening bör
+            denna typ av frågor behandlas i anslutning till beredningen av
+            budgeten eller i något annat sammanhang där det görs en bred genomlysning
+            av verksamheten vid de båda myndigheterna. Till betänkandet har
+            fogats en reservation (kd) avseende sjömätningen m.m.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Återrapporteringen
+            till riksdagen Riksdagen tillkännager för regeringen som sin mening
+            vad utskottet anfört under rubriken Återrapporteringen till riksdagen.
+            Därmed bifaller riksdagen förslagspunkt 1 i Riksdagens revisorers
+            förslag 2001/02:RR10. 2. Översyn av verksamheten inom Lantmäteriet
+            Riksdagen tillkännager för regeringen som sin mening vad utskottet
+            anfört under rubriken Översyn av verksamheten inom Lantmäteriet.
+            Därmed bifaller riksdagen delvis förslagspunkterna 2-5 i Riksdagens
+            revisorers förslag 2001/02: RR10 och motion 2001/02:Bo26 yrkande
+            2. 3. Sjömätningen m.m. Riksdagen avslår motion 2001/02:Bo26 yrkande
+            1. Reservation (kd) Stockholm den 12 februari 2002 På bostadsutskottets
+            vägnar Knut Billing Följande ledamöter har deltagit i beslutet:
+            Knut Billing (m), Lennart Nilsson (s), Lilian Virgin (s), Owe
+            Hellberg (v), Ulla-Britt Hagström (kd), Sten Andersson (-), Carina
+            Moberg (s), Inga Berggren (m), Anders Ygeman (s), Siw Wittgren-Ahl
+            (s), Sten Lundström (v), Annelie Enochson (kd), Helena Hillar
+            Rosenqvist (mp), Rigmor Stenmark (c), Yvonne Ångström (fp), Ewa
+            Thalén Finné (m) och Leif Jakobsson (s). Ärendet och dess beredning
+            Riksdagens revisorer beslutade hösten 2000 att genomföra en granskning
+            av Lantmäteriet och konsekvenserna av den genomgripande omorganisation
+            och omstrukturering av myndigheten som har genomförts under senare
+            delen av 1990-talet. Initiativet till granskningen togs av revisorerna
+            själva. Resultatet av revisorernas granskning har redovisats i
+            rapporten 2000/01:10 Det nya Lantmäteriet. Efter remissbehandling
+            har rapporten legat till grund för Riksdagens revisorers förslag
+            2001/02:RR10, som även det har rubriken Det nya Lantmäteriet.
+            Riksdagens revisorers förslag Inledning Riksdagen fattade våren
+            1994 beslut om en ny organisation för lantmäteri- och fastighetsdataverksamheten.
+            Beslutet innebar att en ny central myndighet - Lantmäteriverket
+            - bildades av Centralnämnden för fastighetsdata och delar av dåvarande
+            Statens lantmäteriverk. Överlantmätar-, statliga fastighetsbildnings-
+            och fastighetsregistermyndigheter slogs samtidigt samman till
+            en lantmäterimyndighet i varje län. Ett motiv till en omorganisation
+            var att uppdrag som kunde skada förtroendet för myndighetsutövningen
+            skulle skiljas från det statliga lantmäteriet. Ett annat motiv
+            var att lantmäteriverksamheten på såväl central, regional som
+            lokal nivå upplevdes som splittrad och oklar samt svår att överblicka
+            och förstå. Omorganisationen följdes av en omstrukturering och
+            rationalisering av Lantmäteriets verksamhet, däribland betydande
+            personalnedskärningar. Vidare infördes en ny arbetsprocess inom
+            fastighetsbildningen. Den av Riksdagens revisorer genomförda granskningen
+            inriktades främst på tre huvudteman. För det första beskrivs effekterna
+            av den långtgående uppdelningen av statliga myndighetsuppgifter
+            och uppdragsverksamhet. Granskningens andra huvudtema var förhållandet
+            mellan statlig och kommunal lantmäteriverksamhet. Granskningens
+            tredje del omfattade konsekvenserna av den integrering av fastighetsbildning
+            och fastighetsregistrering som genomfördes samt den förändrade
+            arbetsprocessen inom fastighetsbildningen. Den genomförda granskningen
+            och remissyttrandena över granskningsrapporten har legat till
+            grund för det förslag som revisorerna nu lagt fram. Förslaget
+            redovisas i sina huvuddrag i det följande. Redovisningen utgår
+            från de fem förslagspunkter som förs fram i förslaget. Återrapporteringen
+            till riksdagen Riksdagens revisorer redovisar i sitt förslag att
+            bostadsutskottet tidigare har framfört synpunkter på regeringens
+            redovisning av omorganisationens konsekvenser och förutsatt att
+            denna skall bli bättre. Enligt revisorerna finns det dock inget
+            som talar för att redovisningen till riksdagen har blivit mer
+            utförlig, i linje med bostadsutskottets uttalande. Revisorerna
+            föreslår därför att regeringen förbättrar sin återrapportering
+            till riksdagen om konsekvenserna av omorganisationen och de därpå
+            följande omstruktureringarna av verksamheten. Lantmäteriets organisation
+            Lantmäteriets organisation och indelning i verksamhetsområden
+            Lantmäteriet bedriver såväl avgiftsfinansierad som anslagsfinansierad
+            verksamhet. Verksamheten består dessutom av både myndighetsuppgifter
+            (inklusive myndighetsutövning) och uppdragsverksamhet. Enligt
+            revisorerna är det mot den bakgrunden nödvändigt att tydligare
+            avgränsa Lantmäteriets olika verksamheter. Det är exempelvis mindre
+            lämpligt att Lantmäteriets uppdelning i divisioner och resultatområden
+            inte sammanfaller med regeringens krav på redovisning av resultatområden
+            och verksamhetsområden (verksamhetsgrenar). Revisorerna föreslår
+            därför att regeringen och Lantmäteriet diskuterar möjligheterna
+            att skapa en bättre överensstämmelse mellan Lantmäteriets organisatoriska
+            och redovisningsmässiga indelning och de krav på redovisning av
+            verksamhets- och resultatområden som finns i regleringsbreven.
+            Uppdelningen av myndighetsuppgifter och uppdragsverksamhet Riksdagen
+            har tagit ställning för att Lantmäteriet skall skilja på myndighetsuppgifter
+            och uppdragsverksamhet. Syftet med denna åtskillnad är främst
+            att värna rättssäkerheten i myndighetsutövningen och att säkerställa
+            att anslagsfinansierade myndighetsuppgifter inte subventionerar
+            den avgiftsfinansierade uppdragsverksamheten. Enligt Riksdagens
+            revisorer har dock de senaste årens effektivitetssträvanden till
+            viss del bidragit till att den uppdelning som skall finnas mellan
+            myndighetsuppgifter och uppdragsverksamhet har blivit mer diffus.
+            Ett steg mot att förtydliga denna uppdelning vore enligt revisorerna
+            att ställa krav på en tydligare särredovisning av den konkurrensutsatta
+            kommersiella verksamheten. Ett ytterligare steg mot att tydliggöra
+            den organisatoriska uppdelningen vore att klarare avgränsa vilken
+            verksamhet lantmäterimyndigheterna får bedriva inom ramen för
+            begreppet lokal myndighetsservice, dvs. den begränsade uppdragsverksamhet
+            som utförs i anslutning till förrättningsverksamheten. En av regeringen
+            utlovad definition av begreppet har ännu inte utformats. Revisorerna
+            anser därför att förekomsten av lokal myndighetsservice inom Lantmäteriet
+            bör utredas. En intensifierad samverkan mellan Lantmäteriets fastighetsbildningsdivision
+            och Metria (dvs. uppdragsverksamheten) har enligt revisorerna
+            också bidragit till att gränsen mellan uppdragsverksamhet och
+            myndighetsuppgifter har blivit mer otydlig. Förekomsten av samverkanslösningar
+            riskerar att motverka ändamålet med riksdagens beslut om en tydlig
+            organisatorisk uppdelning. Revisorerna anser därför att regeringen
+            bör ta initiativ till att närmare utreda dessa risker samt föreslå
+            åtgärder för att riskerna skall minimeras. Metria Regeringen och
+            riksdagen har vid flera tillfällen tagit ställning till frågan
+            om en bolagisering av hela eller delar av Lantmäteriets uppdragsverksamhet
+            (Metria). Riksdagens senaste uttalande innebär att delar av Lantmäteriets
+            uppdragsverksamhet skall bolagiseras. Lantmäteriets uppfattning
+            är emellertid att någon bolagisering inte längre är aktuell. En
+            liknande uppfattning har framförts av representanter för Miljödepartementet.
+            Enligt revisorerna bör regeringen mot denna bakgrund för riksdagen
+            redovisa sin syn på en bolagisering av hela eller delar av Metria.
+            Riksdagen bör därefter på nytt ta ställning till om en bolagisering
+            skall genomföras. En bolagisering av hela eller delar av Metria
+            kan enligt revisorerna försvåras av att verksamheten under flera
+            år har redovisat negativa resultat. Trots detta har Lantmäteriet
+            inte på ett samlat sätt redovisat för regeringen hur man har för
+            avsikt att hantera Metrias problem. Regeringen har heller inte
+            närmare beskrivit för riksdagen vilka dessa problem är eller hur
+            Lantmäteriet avser att agera för att komma till rätta med problemen.
+            Revisorerna anser därför att regeringen bör redovisa för riksdagen
+            hur man har för avsikt att hantera den ekonomiska situationen
+            inom Lantmäteriets uppdragsdivision Metria. Lantmäteriet är genom
+            Metria en viktig aktör på marknaden för geografisk information.
+            Revisorerna konstaterar dock att Metrias position och agerande
+            på denna marknad uppfattas mycket olika av exempelvis Statskontoret
+            och Lantmäteriet. Det gäller bl.a. uppfattningen om huruvida Metria
+            åtnjuter otillbörliga konkurrensfördelar genom sin nära relation
+            till det övriga Lantmäteriet. Revisorerna anser därför att det
+            som grund för en bedömning av Lantmäteriets framtida organisation
+            bör genomföras en genomgripande objektiv analys av Metrias agerande
+            och position på marknaden för geografisk information. Resultatbonusavtal
+            och begreppet ekonomisk balans Begreppet ekonomisk balans Miljödepartementet,
+            Lantmäteriet och Ekonomistyrningsverket (ESV) tycks enligt Riksdagens
+            revisorer sakna en gemensam syn på hur begreppet ekonomisk balans
+            skall tillämpas. Lantmäteriet har i linje med formuleringar i
+            regleringsbrevet agerat för att balansera myndighetens totala
+            ekonomi. ESV har framfört krav på att varje resultatområde skall
+            balanseras. Trots skärpta krav i det senaste regleringsbrevet
+            på balans i enskilda resultatområden har Lantmäteriet, mot ESV:s
+            inrådan, genomfört prissänkningar inom resultatområden med balanserade
+            underskott. Revisorerna anser därför att Miljödepartementet, Lantmäteriet
+            och ESV bör genomföra ett fördjupat samråd kring avgiftssättning
+            bl.a. i syfte att skapa en samsyn kring begreppet ekonomisk balans.
+            I det sammanhanget bör det även diskuteras vilka principer som
+            bör råda för det framtida arbetet med att sanera Lantmäteriets
+            ekonomi. Resultatbonusavtal Lantmäteriets interna styrning innefattar
+            bl.a. ett resultatbonusavtal. Riksdagens revisorer ifrågasätter
+            det lämpliga i förekomsten av ett sådant avtal vid en myndighet
+            som bedriver såväl myndighetsuppgifter (inklusive myndighetsutövning)
+            som uppdragsverksamhet. Enligt revisorernas uppfattning saknas
+            det dessutom en samlad kunskap om hur utbredd denna styrform är
+            inom statsförvaltningen och vilka konsekvenser den har. Revisorerna
+            anser därför att regeringen bör tar initiativ till en utredning
+            om förekomsten av resultatbonusavtal inom statsförvaltningen i
+            allmänhet samt, om så behövs, ser över det resultatbonusavtal
+            som finns vid Lantmäteriet. Fastighetsbildningen och dess tillsyn
+            Den nya arbetsprocessen Införandet av en ny arbetsprocess i fastighetsbildningen
+            har inneburit flera stora förändringar. En övergång har skett
+            från en funktionsbaserad till en ärendebaserad organisation. I
+            stället för att flera olika handläggare ansvarar för olika moment
+            innefattar den nya arbetsprocessen det man betecknar ett enhandläggarmål.
+            Det innebär ett arbete präglat av en helhetssyn där en och samma
+            handläggare svarar för hela kedjan av arbetsmoment, från diarieföring
+            till arkivering, inklusive bl.a. mätning, förrättningsbeslut,
+            fastighetsregistrering samt fakturering. Ambitionen är i princip
+            att integrera tre olika befattningar (mätningsansvarig, förrättningslantmätare
+            och fastighetsregistrerare) i en. Införandet av en ny arbetsprocess
+            inom fastighetsbildningen har enligt revisorerna mött flera problem.
+            En följd av detta är att Lantmäteriet haft svårt att nå de mål
+            för minskade handläggningstider och sänkta kostnader som sattes
+            upp av regeringen. En inte oväsentlig del av skulden för bristande
+            måluppfyllelse ligger enligt Riksdagens revisorer på Lantmäteriet.
+            Myndigheten har inte på ett tillräckligt tydligt sätt fört ut
+            de gällande målen till de regionala lantmäterimyndigheterna och
+            inte reagerat på de signaler man fått om att målen uppfattades
+            som orealistiska. Revisorerna föreslår därför att regeringen tar
+            initiativ till en analys av målen för den nya arbetsprocessen
+            samt hur de har reviderats och följts upp under perioden 1997-2000.
+            Kompetens- och kvalitetsfrågor Lantmäteriet har inlett ett arbete
+            med att se över och förbättra kvaliteten inom fastighetsbildningsprocessen.
+            Ett framgångsrikt kvalitetsarbete med rättssäkerhetsanknytning
+            bör dock, enligt revisorerna, grundas på en mer systematisk analys
+            av de aktuella problemen. Enligt Riksdagens revisorer bör regeringen
+            därför ta initiativ till en oberoende granskning av kvaliteten
+            i fastighetsbildningsprocessen och dess utfall. Finansieringsprinciperna
+            inom fastighetsbildningen Den nya arbetsprocessen har inneburit
+            att den avgiftsfinansierade förrättningsverksamheten och den anslagsfinansierade
+            fastighetsregistreringen har integrerats. Med det integrerade
+            förfarandet kan det enligt revisorerna vara svårt att dra en tydlig
+            gräns mellan dessa båda finansieringsformer. Regeringen har tidigare
+            meddelat att det, när integreringen har genomförts, kan finnas
+            skäl att ta upp frågan om kostnaderna för fastighetsregistreringen
+            skall utgöra en del av förrättningstaxan. Riksdagens revisorer
+            föreslår därför att regeringen bör se över och klargöra finansieringsprinciperna
+            inom fastighetsbildningen efter införandet av den nya arbetsprocessen.
+            Regeringen bör även analysera om anslagen till fastighetsregistreringen
+            kan avvecklas och finansieringen i stället ske över förrättningstaxan.
+            Tillsynen av fastighetsbildningsverksamheten Lantmäteriet ansvarar
+            för tillsynen av såväl de kommunala som de statliga lantmäterimyndigheterna.
+            Av revisorernas förslag framgår att det saknas en plan för tillsynen
+            och att den endast behandlas summariskt i Lantmäteriets verksamhetsplan.
+            Vidare har kostnaderna för den formella tillsynen minskat betydligt
+            under de senaste åren. Detta bör enligt revisorerna ses mot bakgrund
+            av Lantmäteriets uttalanden om nödvändigheten av kontrollerande
+            tillsyn och det faktum att stora förändringar har skett inom fastighetsbildningsområdet
+            i och med tillkomsten av en ny lantmäteriorganisation, en ny arbetsprocess
+            inom fastighetsbildningen och kommunala lantmäterimyndigheter.
+            Revisorerna anser att tillsynen över Lantmäteriets verksamhet
+            bör utvecklas och att den bör riktas mer mot råd och stöd än s.k.
+            formell tillsyn. Samtidigt krävs det enligt förslaget en kontrollerande
+            formell tillsyn för att upptäcka sådana missförhållanden som inte
+            annars skulle komma fram. Enbart en reaktiv formell tillsyn av
+            de statliga lantmäterimyndigheterna och en begränsad formell tillsyn
+            riktad mot de kommunala lantmäterimyndigheterna är otillräcklig.
+            Sammanfattningsvis föreslår revisorerna att regeringen tar initiativ
+            till att Lantmäteriets formella tillsyn av såväl kommunala som
+            statliga lantmäterimyndigheter förstärks, att en plan upprättas
+            för tillsynsverksamheten. I denna bör det bl.a. framgå vilka avvägningar
+            Lantmäteriet gör mellan olika typer av kontrollerande och stödjande
+            insatser, att den formella tillsynen av de statliga lantmäterimyndigheterna
+            blir mer aktiv, att den formella tillsynen av de enskilda förrättningslantmätarnas
+            arbete utvecklas samt att tillsynen även omfattar den s.k. lokala
+            myndighetsservicen. Kommunal lantmäteriverksamhet Reglerna för
+            den organisatoriska inplaceringen av kommunala lantmäterimyndigheter
+            Av revisorernas rapport framgår att de kommunala lantmäterimyndigheterna
+            vanligen är inplacerade under kommunernas byggnadsnämnd respektive
+            byggnadsförvaltning eller motsvarande. Kommunerna kan enligt revisorerna
+            finna det rationellt med en nära integration mellan kommunens
+            planverksamhet och den kommunala lantmäterimyndigheten. Även ur
+            ett medborgarperspektiv kan denna samverkan uppfattas som effektivitetshöjande
+            och serviceorienterad. Revisorerna har emellertid i granskningen
+            uppmärksammat att det kan finnas risk för att rättssäkerheten
+            påverkas negativt vid en alltför nära relation mellan lantmäterimyndigheten
+            och kommunens planverksamhet. Den nära relationen mellan dessa
+            verksamheter understryks också av att flera kommunala lantmäterimyndigheter
+            har svårigheter att särredovisa sitt ekonomiska resultat. Detta
+            utgör inte sällan en integrerad del av den övriga kommunala verksamhetens
+            resultat. Mot denna bakgrund anser revisorerna att det i lagen
+            (1995:1393) om kommunal lantmäterimyndighet bör ställas krav på
+            ekonomisk särredovisning av de kommunala lantmäterimyndigheternas
+            verksamhet. Kraven på information om möjligheter att överlämna
+            ärenden En garanti för rättssäkerheten är att kommuner får begära
+            att fastighetsbildningsärenden där kommunen själv är sakägare
+            skall överlämnas till den statliga lantmäterimyndigheten. Den
+            kommunala fastighetsbildningsmyndigheten skall då överlämna ärendet.
+            Överlämnande skall också ske om annan sakägare begär det. Andelen
+            ärenden som har lämnats över till den statliga myndigheten på
+            dessa grunder är liten. Om detta sammanhänger med bristfällig
+            information om möjligheten till överlämnande, finns det enligt
+            revisorerna risk att rättssäkerheten äventyras. Vid de tolv tillsynsbesök
+            som Lantmäteriet hade genomfört vid kommunala lantmäterimyndigheter
+            t.o.m. november 2000 framförde man i åtta fall synpunkter på att
+            den kommunala lantmäterimyndighetens information om möjligheten
+            till överlämnande hade varit bristfällig. Mot denna bakgrund anser
+            revisorerna att det i lagen (1995:1393) om kommunal lantmäterimyndighet
+            bör ställas krav på att de kommunala lantmäterimyndigheterna skall
+            informera berörda sakägare om möjligheten att överlämna ärenden
+            där kommunen är sakägare till statlig lantmäterimyndighet. Översyn
+            av tillämpningen av de undantagsregler som gäller kommunal handläggning
+            Enligt bestämmelserna i 5 § 2-4 lagen om kommunal lantmäterimyndighet
+            skall vissa ärendetyper överlämnas till den statliga lantmäterimyndigheten
+            för handläggning. Stadgandena innebär att det är de kommunala
+            myndigheterna som avgör när ett överlämnande skall ske. För många
+            större sakägare, som ofta är verksamma över hela landet, vore
+            det enligt Riksdagens revisorer dock rationellt att kunna vända
+            sig till en (1) lantmäterimyndighet. Med de kommunala lantmäterimyndigheternas
+            tolkningsföreträde försvåras detta. Revisorerna konstaterar att
+            det finns många skilda uppfattningar bland remissinstanserna när
+            det gäller synen på de undantag från kommunal handläggning som
+            finns i lagen om kommunal lantmäterimyndighet. Mot bakgrund av
+            remissinstansernas synpunkter finner revisorerna det emellertid
+            motiverat att föreslå att lagen om kommunal lantmäterimyndighet
+            ändras så att de kommunala lantmäterimyndigheterna blir skyldiga
+            att samråda med den statliga myndigheten om ärenden som kan antas
+            omfattas av undantagen från kommunal handläggning. Revisorerna
+            anser också att det bör vara den statliga myndighetens ansvar
+            att avgöra om ett ärende omfattas av de villkor för överlämnande
+            som anges i 5 § 2-4 lagen om kommunal lantmäterimyndighet. Dessutom
+            anser revisorerna att det är angeläget att de problem som "de
+            större förrättningskunderna" upplever får en lösning, inte minst
+            för att öka rationaliteten i förrättningarna. Revisorerna anser
+            att det bör bli regeringens uppdrag att finna en lämplig form
+            för hur detta skall kunna ske. Riksdagens revisorer föreslår därför
+            sammanfattningsvis att lagen (1995:1393) om kommunal lantmäterimyndighet
+            ändras så att de kommunala lantmäterimyndigheterna blir skyldiga
+            att samråda med den statliga myndigheten om ärenden som kan falla
+            under de ärendetyper som anges i 5 § 2-4 lagen om kommunal lantmäterimyndighet,
+            att regeringen överväger om det bör vara den statliga myndighetens
+            ansvar att avgöra om ett ärende omfattas av de villkor för överlämnande
+            som anges i 5 § 2-4 lagen om kommunal lantmäterimyndighet samt
+            att regeringen utreder hur de större, rikstäckande förrättningskundernas
+            problem med splittrad ärendehandläggning skall kunna bemästras.
+            Motionsförslagen Med anledning av Riksdagens revisorers förslag
+            har det väckts en motion. I motion 2001/02:Bo26 (kd) uttalas att
+            revisorernas förslag är mycket bra, men att det bör kompletteras
+            på några punkter. Enligt motionen är det viktigt att en kommande
+            utredning på lantmäteriområdet även inbegriper lantmäteriets framtidsfrågor
+            - yrkande 2. Det innebär bl.a. att översynen bör omfatta utveckling
+            av lantmäteriets organisation så att ny digital teknik m.m. får
+            fullt genomslag, utveckling av ett nytt IT-stöd till inskrivningsmyndigheterna
+            och av elektroniska fastighetsaffärer samt ökad satsning på geografisk
+            informationsteknik. Det är enligt motionen viktigt att resultatdialogen
+            mellan regeringen och Lantmäteriet förbättras väsentligt och att
+            revisorernas förslag om ändringar i lagen om kommunal lantmäterimyndighet
+            genomförs. Enligt motionen bör det dessutom övervägas att integrera
+            Sjöfartsverkets sjökarteverksamhet och Lantmäteriverkets kartverksamhet
+            för att öka effektiviteten inom både sjö- och landkarteområdet.
+            En förutsättning för detta anges vara att sjömätningen även fortsättningsvis
+            ligger kvar inom Sjöfartsverkets ansvarsområde - yrkande 1.
+          </p>
+          <p>
+            2001/02 BoU7
+          </p>
+          <p>
+            Utskottets överväganden Lantmäteriets verksamhet Återrapporteringen
+            till riksdagen Utskottets förslag i korthet Riksdagen bör som
+            sin mening tillkännage för regeringen vad utskottet anför i detta
+            avsnitt. Utskottets ställningstagande görs bl.a. mot bakgrund
+            av bostadsutskottets och riksdagens tidigare principiella ställningstaganden
+            när det gäller vikten av ett fullgott beslutsunderlag. Därmed
+            tillstyrker utskottet revisorernas förslag i denna del. Den omorganisation
+            av lantmäteriverksamheten som riksdagen beslutade 1994 har lett
+            till stora förändringar inte bara när det gäller myndighetsstrukturen
+            utan även i fråga om arbetsmetoder. Efter omstruktureringen har
+            Lantmäteriverket under flera år dragits med betydande strukturella
+            problem. Det har bl.a. lett till att de ekonomiska resultaten
+            varit otillfredsställande. Även om dessa förhållanden naturligtvis
+            har redovisats i budgetpropositionen har denna redovisning inte
+            alltid varit tillfredsställande. Bostadsutskottet och riksdagen
+            har också från allmänna utgångspunkter riktat kritik mot det beslutsunderlag
+            som tillställts riksdagen. Mot bakgrund av Lantmäteriverkets ekonomiska
+            situation har den ekonomiska utvecklingen i verksamheten ägnats
+            särskild uppmärksamhet. Bostadsutskottet har därför vid flera
+            tillfällen av verkets generaldirektör orienterats om det pågående
+            förändringsarbetet och de ekonomiska följderna av detta. En huvudpunkt
+            i revisorernas förslag är att återrapporteringen till riksdagen
+            bör förbättras när det gäller konsekvenserna av omorganisationen
+            och den därpå följande omstruktureringen. Mot bakgrund av tidigare
+            principiella ställningstaganden delar utskottet denna uppfattning.
+            Även om det naturligtvis alltid kan finnas ett behov av kompletterande
+            information och upplysningar bör den grundläggande redovisningen
+            till riksdagen vara så fullständig som möjligt. Inte minst gäller
+            det i situationer där en verksamhet genomgått mer betydande förändringar.
+            Utskottets ställningstagande med anslutning till revisorernas
+            förslag i denna del bör riksdagen tillkännage för regeringen som
+            sin mening. Översyn av verksamheten inom Lantmäteriet Utskottets
+            förslag i korthet Riksdagen bör som sin mening tillkännage för
+            regeringen vad utskottet anför i detta avsnitt. Utskottet föreslår
+            att en översyn bör komma till stånd bl.a. vad gäller åtskillnaden
+            mellan myndighetsutövningen och uppdragsverksamheten, utfallet
+            av den nya arbetsprocessen inom fastighetsbildningen samt omfattningen
+            och inriktningen av tillsynsverksamheten. Utskottets ställningstagande
+            utgår från Riksdagens revisorers förslag samt motionsförslaget
+            i denna del. Riksdagens revisorers förslag till åtgärder när det
+            gäller verksamheten inom Lantmäteriet har stor spännvidd. Det
+            innebär att förslagen avser allt från relativt konkreta åtgärder
+            till en mera övergipande översyn av flera för verksamheten centrala
+            områden. Detta till trots har utskottet valt att behandla förslagen
+            samlat med utgångspunkt i de mål och riktlinjer som lagts fast
+            för verksamheten. En utgångspunkt för omorganisationen av lantmäteri-
+            och fastighetsdataverksamheten var att undanröja den splittring
+            och osäkerhet som i vissa avseenden rådde i fråga om bl.a. fastighetsbildningen.
+            En grundläggande avsikt med den nya organisationen har därför
+            varit att lägga fast de principer och riktlinjer som skall utgöra
+            basen för verksamheten på såväl kort som lång sikt. Dessa principer
+            ligger fortsatt fast, och de har heller inte satts i fråga av
+            revisorerna. Däremot lyfter revisorerna fram områden där principerna
+            kanske inte fått fullt genomslag eller som på annat sätt inte
+            anses svara mot de krav på verksamheten som i övrigt bör ställas.
+            De principiella riktlinjer som lades fast av riksdagen är i korthet
+            följande. Rättssäkerheten skall utgöra grunden för den nya organisationen.
+            Det innebär att den myndighet som handhar fastighetsbildningen
+            så långt möjligt bör vara obunden av andra statliga eller kommunala
+            intressen. Fastighetsbildningen bör i sin helhet betraktas som
+            myndighetsutövning. Vissa förrättningsmoment, främst av kart-
+            och mätningsteknisk art, bör emellertid kunna utföras av kommunala
+            mätningsorgan eller upphandlas i konkurrens. Uppdrag som kan skada
+            förtroendet för myndighetsutövningen bör avskiljas från myndigheten.
+            De verksamheter som särskilt pekats ut är kartografisk uppdragsverksamhet,
+            fristående förlagsverksamhet och fastighetsekonomisk uppdragsverksamhet.
+            De förslag som revisorerna lägger fram i fråga om Lantmäteriets
+            organisation syftar till att på olika sätt förbättra möjligheterna
+            att fylla det uppsatta målet att åstadkomma en åtskillnad mellan
+            myndighetsutövningen och uppdragsverksamheten. Utan att här gå
+            in i detalj på dessa förslag vill utskottet för sin del betona
+            vikten av att dessa skilda uppgifter hålls väl isär. Det finns
+            därför anledning att mot bakgrund av revisorernas förslag se över
+            hur den nuvarande organisationen svarar mot de riktlinjer som
+            lagts fast. När det gäller frågan om resultatbonusavtal innebär
+            revisorernas förslag dels att förekomsten av sådana avtal skall
+            utredas inom statsförvaltningen i sin helhet, dels att resultatbonusavtalen
+            vid Lantmäteriet, om så behövs, skall ses över. Även om det primärt
+            inte ankommer på bostadsutskottet att bedöma i vilken utsträckning
+            det kan erfordras en mer allmän översyn av förekomsten av resultatbonusavtal
+            inom statsförvaltningen har utskottet från sina utgångspunkter
+            inget att invända mot att en sådan översyn kommer till stånd.
+            Det är enligt utskottets mening också naturligt att de avtal som
+            finns inom Lantmäteriet ses över. Det kan ske antingen inom ramen
+            för en översyn av hela lantmäteriverksamheten eller i särskild
+            ordning. En viktig del i omstruktureringen av lantmäteriverksamheten
+            har varit införandet av en ny arbetsprocess inom fastighetsbildningen.
+            Som framgår av revisorernas redovisning avviker den nya processen
+            i väsentliga avseenden från den gamla. En så pass omfattande omläggning
+            som det här är fråga om innebär nästan alltid att det initialt
+            kan uppstå svårigheter av något slag. Utskottet delar mot den
+            bakgrunden revisorernas uppfattning att det kan finnas anledning
+            att se över hur den nya arbetsprocessen svarar mot de uppsatta
+            målen och i vilken utsträckning som målen är realistiska. Som
+            en naturlig del i en sådan utvärdering bör enligt utskottets mening
+            även ingå frågor om kvalitet och kostnader. Lantmäteriet har ansvar
+            för tillsynen av såväl statliga som kommunala lantmäterimyndigheter.
+            En förutsättning för att myndigheten skall kunna ta detta ansvar
+            är att tillsynen sker i organiserade former och med en viss regelbundenhet.
+            Även innehållet i tillsynen är naturligtvis viktigt. Det innebär
+            att tillsynen inte bara bör vara korrigerande utan också stödjande.
+            Utskottet delar mot denna bakgrund revisorernas uppfattning om
+            vikten av att tillsynen får en tillräcklig omfattning och en ändamålsenlig
+            utformning och inriktning. När det gäller den kommunala lantmäteriverksamheten
+            för revisorerna fram förslag som avser dels den organisatoriska
+            inplaceringen av de kommunala lantmäterimyndigheterna, dels hur
+            och när ärenden skall överlämnas från kommunal till statlig lantmäterimyndighet.
+            Utskottet kan konstatera att förslagen har kopplingar såväl till
+            kraven på rättssäkerhet som till frågor om den interna kommunala
+            organisationen och till relationen mellan statlig och kommunal
+            verksamhet. De ytterligare överväganden som måste till innan slutlig
+            ställning tas till förslagen måste därför göras med beaktande
+            av alla dessa faktorer. I en situation där Lantmäteriets verksamhet
+            ses över framstår det enligt utskottets mening som naturligt att
+            också frågor som rör den framtida tekniska utvecklingen lyfts
+            fram. I den mån det erfordras för att Lantmäteriet skall kunna
+            utnyttja ny teknik bör naturligtvis även dessa frågor beaktas.
+            Det innebär dock inte att arbetet skall inriktas på att föreslå
+            vilken ny teknik som skall införas, utan det skall i stället syfta
+            till att skapa förutsättningar för att tekniska framsteg kan tas
+            till vara i verksamheten. Den översyn av lantmäteriverksamheten
+            i olika avseenden som utskottet nu uttalat sig för bör komma till
+            stånd så snart som möjligt. I sitt förslag redovisar Riksdagens
+            revisorer att regeringen avser att tillsätta en utredning i syfte
+            att se över den statliga lantmäteriverksamheten där bl.a. en uppföljning
+            av Lantmäteriets omstrukturering ingår. Enligt vad utskottet erfarit
+            pågår inom Regeringskansliet arbetet med att utarbeta direktiv
+            till den aviserade utredningen. Det framstår mot denna bakgrund
+            som naturligt att de förslag som utskottet nu fört fram omfattas
+            av detta utredningsuppdrag. Med tanke på förslagens skilda karaktär
+            bör dock regeringen vara oförhindrad att också på annat sätt vidta
+            de åtgärder som kan föranledas av utskottets ställningstaganden.
+            Det kan t.ex. ske genom utredningsuppdrag i enskilda frågor, genom
+            direktiv till myndigheterna eller genom en dialog med berörda
+            intressenter. Bostadsutskottet anser att riksdagen som mening
+            bör tillkännage för regeringen vad som ovan anförts med anledning
+            av Riksdagens revisorers förslag i denna del samt motion 2001/02:Bo26
+            (kd) yrkande 2. Sjömätningen m.m. Utskottets förslag i korthet
+            Riksdagen bör avslå motionsförslaget om att integrera den sjökartering
+            som Sjöfartsverket har ansvaret för med Lantmäteriets verksamhet.
+            Utskottets ställningstagande motiveras bl.a. av att det är lämpligare
+            att behandla denna typ av frågor i ett vidare sammanhang, t.ex.
+            vid budgetberedningen. Jämför reservationen (kd). Enligt motion
+            2001/02:Bo26 (kd) yrkande 1 bör det övervägas att integrera den
+            sjökartering som Sjöfartsverket har ansvaret för med Lantmäteriets
+            verksamhet. En förutsättning för detta anges dock vara att ansvaret
+            för sjömätningen även efter en integrering ligger kvar hos Sjöfartsverket.
+            Det kan naturligtvis finnas anledning att från tid till annan
+            se över näraliggande verksamheter där ansvaret ligger hos olika
+            myndigheter. Utskottet vill för sin del inte utesluta att det
+            kan finnas fördelar med en sådan samordning av sjö- och landkartering
+            som motionärerna föreslår. Denna fråga kan dock inte ses isolerad
+            från den övriga verksamhet som de båda myndigheterna bedriver.
+            Med en sådan utgångspunkt framstår det enligt utskottets mening
+            som mera lämpligt att behandla denna typ av frågor i anslutning
+            till beredningen av budgeten eller i något annat sammanhang där
+            det görs en bred genomlysning av verksamheten vid de båda myndigheterna.
+            Utskottet är därför inte berett att nu ställa sig bakom förslaget
+            i motionen. Reservation Utskottets förslag till riksdagsbeslut
+            och ställningstaganden har föranlett följande reservation. I rubriken
+            anges inom parentes vilken punkt i utskottets förslag till riksdagsbeslut
+            som behandlas i avsnittet. Sjömätningen m.m. (punkt3) av Ulla-Britt
+            Hagström (kd) och Annelie Enochson (kd). Förslag till riksdagsbeslut
+            Vi anser att utskottets förslag under punkt 3 borde ha följande
+            lydelse: Riksdagen tillkännager för regeringen som sin mening
+            vad som anförs i reservationen. Därmed bifaller riksdagen motion
+            2001/02:Bo26 yrkande 1. Ställningstagande I dag har Lantmäteriet
+            ansvar för landkarteringen och Sjöfartsverket ansvar för sjökarteringen.
+            I grunden har dessa verksamheter många beröringspunkter. Som framhålls
+            i Kristdemokraternas motion finns det därför betydande fördelar
+            att vinna med en samordning av de båda verkens karteringsarbete.
+            Det kan förutsättas att en samordning ökar effektiviteten samtidigt
+            som de totala kostnaderna minskar. Inte minst visar erfarenheterna
+            från våra grannländer Danmark och Norge att så blir fallet. I
+            enlighet med förslaget i motionen bör därför ett arbete inledas
+            i syfte att åstadkomma en organisatorisk och verksamhetsmässig
+            samordning av land- och sjökarteringen. En förutsättning för den
+            av oss nu förordade samordningen är dock att ansvaret för sjömätningen
+            som sådan även fortsättningsvis ligger kvar hos Sjöfartsverket.
+            Det främsta skälet för detta är att Sjöfartsverket har den kompetens
+            och den utrustning som erfordras för att på ett effektivt sätt
+            bedriva denna del av karteringen. Det vi nu har anfört om en samordning
+            av Lantmäteriverkets och Sjöfartsverkets karteringsverksamhet
+            bör riksdagen tillkännage för regeringen som sin mening. Därmed
+            ställer sig riksdagen bakom förslaget i motion 2001/02:Bo26 (kd)
+            yrkande 1. Bilaga Förteckning över behandlade förslag Riksdagens
+            revisorers förslag Riksdagens revisorers förslag 2001/02:RR10:
+            1. Riksdagen tillkännager för regeringen som sin mening vad revisorerna
+            anfört i avsnitt 2.2.3 om återrapporteringen till riksdagen. 2.
+            Riksdagen tillkännager för regeringen som sin mening vad revisorerna
+            anfört i avsnitten 2.3.3, 2.6.3 och 2.7.3 om Lantmäteriets organisation.
+            3. Riksdagen tillkännager för regeringen som sin mening vad revisorerna
+            anfört i avsnitten 2.4.3 och 2.5.3 om resultatbonusavtal och begreppet
+            ekonomisk balans. 4. Riksdagen tillkännager för regeringen som
+            sin mening vad revisorerna anfört i avsnitten 2.8.3, 2.9.3, 2.10.3
+            och 2.16.3 om fastighetsbildningen och dess tillsyn. 5. Riksdagen
+            tillkännager för regeringen som sin mening vad revisorerna anfört
+            i avsnitten 2.12.3, 2.13.3 och 2.15.3 om kommunal lantmäteriverksamhet.
+          </p>
+          <p>
+            Följdmotion 2001/02:Bo26 av Annelie Enochson m.fl. (kd): 1. Riksdagen
+            tillkännager för regeringen som sin mening vad i motionen anförs
+            om att sjömätningen även fortsättningsvis skall ligga kvar inom
+            Sjöfartsverket. 2. Riksdagen tillkännager för regeringen som sin
+            mening vad i motionen anförs om direktiven till utredningen om
+            lantmäteriet.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200809_NU_0009">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Näringsutskottet har granskat Europeiska kommissionens grönbok Upphovsrätten i kunskapsekonomin. Utskottet välkomnar att en diskussion kommer till stånd på de områden som tas upp i grönboken. Den svenska lagstiftningen på området kännetecknas av en noggrant utarbetad balans mellan upphovsmannens ensamrätt till sitt verk och allmänna och enskilda intressen av att kunna använda verk utan tillstånd. Utskottet slår fast att de undantag mot och inskränkningar i upphovsmannens ensamrätt som finns i dag är bra och måste värnas. Mot den bakgrunden delar utskottet regeringens ståndpunkt att det varken är lämpligt eller önskvärt att förslag läggs om mer detaljerade regler på EU-nivå. Riksdagen avslutade ärendet med detta.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">EU-förslag om upphovsrätten i kunskapsekonomin (NU9)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Utlåtandet läggs till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0932</idno>
+              <title>2008-11-20</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">32</biblScope>
+              <note type="display-reference">2008-11-20</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GW0931</idno>
+              <title>2008-11-19</title>
+              <biblScope unit="riksdag-session">2008/09</biblScope>
+              <biblScope unit="document-number">31</biblScope>
+              <note type="display-reference">2008-11-19</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2008-11-17">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2008-11-17">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2008-11-14">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-11-13">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2008-11-13">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2008-11-11">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-11-11">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2008-11-11">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-10-21">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2008-10-21">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2008-11-20">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-11-20">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2008-11-20">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-11-19">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2008-11-19">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-11-18">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2008-11-18">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-11-17">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2008-11-17">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Näringsutskottets utlåtande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2008/09:NU9
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Upphovsrätten i kunskapsekonomin
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACRA0B" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            Näringsutskottet behandlar i detta utlåtande Europeiska kommissionens
+            grönbok Upphovsrätten i kunskapsekonomin (KOM(2008)466), daterad
+            den 16 juli 2008.
+          </p>
+          <p>
+            Utskottet välkomnar att en diskussion kommer till stånd på de
+            områden som tas upp i grönboken. Den svenska lagstiftningen på
+            området kännetecknas av en noggrant utarbetad balans mellan upphovsmannens
+            ensamrätt till sitt verk och allmänna och enskilda intressen av
+            att kunna använda verk utan tillstånd. Utskottet slår fast att
+            de undantag mot och inskränkningar i upphovsmannens ensamrätt
+            som finns i dag är bra och måste värnas. Mot den bakgrunden delar
+            utskottet regeringens ståndpunkt att det varken är lämpligt eller
+            önskvärt att förslag läggs om mer detaljerade regler på EU-nivå.
+          </p>
+          <p xml:id="IDAMRA0B" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Upphovsrätten i kunskapsekonomin
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger utlåtandet till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 11 november 2008
+          </p>
+          <p>
+            På näringsutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Karin Pilsäter
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Karin Pilsäter (fp),
+            Tomas Eneroth (s), Björn Hamilton (m), Hans Rothenberg (m), Carina
+            Adolfsson Elgestam (s), Maria Plass (m), Jan Andersson (c), Alf
+            Eriksson (s), Marie Weibull Kornias (m), Karin Åström (s), Mikael
+            Oscarsson (kd), Staffan Anger (m), Kent Persson (v), Börje Vestlund
+            (s), Karin Granbom Ellison (fp), Eva-Lena Jansson (s) och Lage
+            Rahm (mp).
+          </p>
+          <p xml:id="IDAOUA0B" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDARUA0B" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Kammaren har den 28 augusti 2008 hänvisat Europeiska kommissionens
+            grönbok Upphovsrätten i kunskapsekonomin (KOM(2008)466) till näringsutskottet.
+          </p>
+          <p>
+            Utskottet har mottagit faktapromemoria 2008/09:FPM12 om upphovsrätten
+            i kunskapsekonomin.
+          </p>
+          <p>
+            Upplysningar och synpunkter i ärendet har inför utskottet lämnats
+            av statssekreterare Magnus Graner, Justitiedepartementet, med
+            medarbetare samt vid ett annat tillfälle av tjänstemän från departementets
+            enhet för immaterialrätt och transporträtt.
+          </p>
+          <p>
+            Kommissionens syfte med grönboken är att få in synpunkter från
+            alla intressenter på området. Svar och kommentarer beträffande
+            frågorna i grönboken ska ha inkommit till kommissionen senast
+            den 30 november 2008.
+          </p>
+          <p xml:id="IDAAVA0B" rend="rubrik2">
+            Bakgrund
+          </p>
+          <p>
+            Balansen mellan upphovsmän och andra rättighetshavare å ena sidan
+            och användarna av de upphovsrättsligt skyddade verken å andra
+            sidan har i viss utsträckning harmoniserats inom EU. I direktivet
+            om harmonisering av vissa aspekter av upphovsrätt och närstående
+            rättigheter i informationssamhället (2001/29/EG), det s.k. infosoc-direktivet,
+            redovisas en uttömmande lista över undantag och inskränkningar
+            i upphovsmännens ensamrätt till sina verk och framföranden etc.
+            Medlemsstaterna har getts frihet att utforma undantagen
+            <hi rend="superscript">
+              1 [
+              <seg type="html-hanvisning">
+                Termerna undantag och inskränkningar kan i detta sammanhang betraktas
+                som synonymer enligt Justitiedepartementet.
+              </seg>
+              ]
+            </hi>
+            på sitt eget sätt, men de får inte införa regler om undantag
+            som går utöver direktivet.
+          </p>
+          <p>
+            Infosoc-direktivet behandlades 2005 av lagutskottet (prop. 2004/05:110,
+            bet. 2004/05:LU27). I betänkandet erinrade lagutskottet om syftena
+            bakom direktivet, nämligen att undanröja hinder mot den fria rörligheten
+            av varor och tjänster inom den inre marknaden och att anpassa
+            lagstiftningen så att den kunde svara upp mot den tekniska utvecklingen,
+            t.ex. vad gäller nya nyttjandeformer. Ytterligare ett syfte var
+            att, genom en hög skyddsnivå, uppmuntra till investeringar i kreativ
+            och innovativ verksamhet, vilket skulle gagna tillväxt och ökad
+            konkurrenskraft för europeisk industri.
+          </p>
+          <p>
+            Riksdagens beslut innebar att direktivet genomfördes genom ändringar
+            i lagen (1960:729) om upphovsrätt till litterära och konstnärliga
+            verk med ikraftträdande den 1 juli 2005.
+          </p>
+          <p>
+            Sedan infosoc-direktivet antogs av Europaparlamentet och ministerrådet
+            2001 har den tekniska utvecklingen fortskridit, framför allt när
+            det gäller IT-området och möjligheterna till digital spridning
+            av material. Mot den bakgrunden vill kommissionen starta en debatt
+            om hur ny kunskap av betydelse för forskning, vetenskap och utbildning
+            bäst kan spridas via Internet. I grönboken om upphovsrätten i
+            kunskapsekonomin
+            <hi rend="superscript">
+              2 [
+              <seg type="html-hanvisning">
+                I grönboken används termen kunskapsekonomi allmänt för att beskriva
+                ekonomisk verksamhet som inte grundas på naturresurser (som mark
+                och mineraler) utan på intellektuella resurser som sakkunskap
+                och expertis.
+              </seg>
+              ]
+            </hi>
+            ställs därför ett antal frågor av kommissionen.
+          </p>
+          <p xml:id="IDAXVA0B" rend="rubrik2">
+            Grönbokens huvudsakliga innehåll
+          </p>
+          <p>
+            Grönboken behandlar ett antal frågor med anknytning till de undantag
+            och inskränkningar i upphovsrätten som har betydelse för kunskapsspridningen.
+            Bör dessa undantag och inskränkningar ses över med hänsyn till
+            utvecklingen på området m.m. är en genomgående frågeställning
+            i grönboken.
+          </p>
+          <p>
+            Bland annat berörs följande frågor i grönboken:
+          </p>
+          <p rend="punktlistaLista">
+            Bör vissa undantag bli obligatoriska för att skapa rättslig förutsebarhet?
+            (För närvarande finns bara ett undantag som är obligatoriskt för
+            alla medlemsstater, nämligen tillfälliga former av mångfaldigande
+            som är flyktiga eller har underordnad betydelse i processen.)
+          </p>
+          <p rend="punktlistaLista">
+            Bör enskilda avtal mellan rättighetshavare och användare främjas
+            vid genomförande av undantagen och i andra situationer?
+          </p>
+          <p rend="punktlistaLista">
+            Hur stor räckvidd bör undantaget för bibliotek och arkiv ha när
+            det gäller formatbyte, antal kopior och skanning?
+          </p>
+          <p rend="punktlistaLista">
+            Beträffande undantaget till förmån för funktionshindrade: Bör
+            det finnas tvingande bestämmelser om tillgängliggörande för funktionshindrade
+            i ett visst format? Bör det klarläggas att undantaget också avser
+            andra funktionshinder än nedsatt syn och hörsel?
+          </p>
+          <p rend="punktlistaLista">
+            Bör undantaget för undervisning och forskning förtydligas, bl.a.
+            när det gäller distansutbildning?
+          </p>
+          <p rend="punktlistaLista">
+            Bör det införas ett undantag för s.k. användarskapat innehåll
+            <hi rend="superscript">
+              3 [
+              <seg type="html-hanvisning">
+                I en OECD-studie definierades användarskapat innehåll som innehåll
+                som gjorts offentligt tillgängligt via Internet, har krävt en
+                viss kreativ insats och som inte skapats enligt rutiner och praxis
+                som tillämpas i yrkeslivet.
+              </seg>
+              ]
+            </hi>
+            ? (Ett sådant finns inte för närvarande.)
+          </p>
+          <p>
+            Den nuvarande graden av harmonisering eller brist på sådan inom
+            EU framgår i viss mån i grönboken. Medlemsstaterna kan således
+            tillämpa olika grad av restriktivitet i fråga om undantagen. När
+            det gäller funktionshindrade omfattas i vissa länder enbart synskadade,
+            i andra länder både syn- och hörselskadade osv. Likaså är undantaget
+            för undervisnings- och forskningsändamål olika utformat genom
+            att vissa länder enbart har undantag för utbildning men inte för
+            forskning. Några länder har utvidgat detta undantag till att även
+            omfatta rätt till överföring till allmänheten; andra har begränsat
+            det till att enbart gälla rätt till mångfaldigande.
+          </p>
+          <p>
+            I grönboken beskrivs också det s.k. trestegstestet (artikel 5.5
+            i direktivet), dvs. att de undantag och inskränkningar som medges
+            genom direktivet endast får tillämpas i vissa särskilda fall som
+            inte strider mot det normala utnyttjandet av verket eller annat
+            alster och inte oskäligt inkräktar på rättsinnehavarnas legitima
+            intressen.
+          </p>
+          <p xml:id="IDAVXA0B" rend="AvsnittsRubrik">
+            Utskottets granskning
+          </p>
+          <p xml:id="IDAYXA0B" rend="rubrik2">
+            Faktapromemoria m.m.
+          </p>
+          <p>
+            I faktapromemorian med anledning av grönboken om upphovsrätten
+            i kunskapsekonomin (2008/09:FPM12) sammanfattas innehållet i grönboken.
+            Kortfattat beskrivs också gällande svenska regler och förslagets
+            effekter på dessa. Det erinras om att det i nu gällande svensk
+            lagstiftning finns undantag för bl.a. framställning av exemplar
+            för undervisningsändamål, framställning och spridning av exemplar
+            inom vissa arkiv och bibliotek, framställning av exemplar m.m.
+            till personer med funktionshinder och framställning av samlingsverk
+            för användning vid undervisning. Vidare beskrivs att det finns
+            bestämmelser om ett förenklat sätt att få till stånd ett avtal
+            om användning av upphovsrättsligt material, s.k. avtalslicenser
+            <hi rend="superscript">
+              1 [
+              <seg type="html-hanvisning">
+                Avtalslicenser innebär att upphovsrättshavarnas organisationer
+                kan sluta avtal dels för de egna medlemmarna, dels för andra s.k.
+                icke-medlemmar inom samma område. Detta underlättar för användare
+                att få tillstånd att använda verk mot ersättning.
+              </seg>
+              ]
+            </hi>
+            . I gällande svensk lagstiftning finns det inte någon motsvarighet
+            till ett särskilt undantag för användarskapat innehåll, men däremot
+            ett undantag för citat. Upphovsrätten är dessutom ett formskydd,
+            dvs. ett skydd för upphovsmannens personliga sätt att uttrycka
+            sig. Varken idéer eller fakta skyddas av upphovsrätten. Det innebär
+            att det är fritt att med egna ord återge innehållet ur ett upphovsrättsligt
+            skyddat verk, t.ex. genom ett referat.
+          </p>
+          <p>
+            Grönboken har av Regeringskansliet remitterats till en bred krets
+            intressenter bestående av myndigheter och intresseorganisationer,
+            och ett femtiotal remissvar har inkommit.
+          </p>
+          <p>
+            I en promemoria, daterad den 29 oktober 2008, redovisar regeringen
+            sin ståndpunkt i fråga om grönboken. Kommissionens initiativ med
+            grönboken om upphovsrätten i kunskapsekonomin välkomnas. De svenska
+            reglerna bygger sedan länge på en noggrant utmejslad balans mellan
+            olika intressen på det upphovsrättsliga området. Inskränkningar
+            för viss användning av verk inom t.ex. biblioteks- och arkivområdet,
+            undervisnings- och forskningsområdet och av personer med funktionsnedsättning
+            är en självklar del av den svenska upphovsrättslagen. Som komplettering
+            till inskränkningarna har Sverige ett väl utvecklat system av
+            kollektiva avtalslicenser med utsträckt verkan. Enligt regeringen
+            har Sverige goda erfarenheter av detta system, bl.a. på undervisningsområdet.
+          </p>
+          <p>
+            När det gäller eventuellt undantag för användarskapat innehåll
+            framhålls i promemorian att det redan finns inskränkningar för
+            citat m.m.
+          </p>
+          <p>
+            Regeringen kan i och för sig se att det kan finnas skäl att harmonisera
+            inskränkningarna ytterligare mot bakgrund av informationssamhällets
+            utveckling. Samtidigt var det förhållandevis nyligen som infosoc-direktivet
+            genomfördes. Vid förhandlingarna om direktivet framkom att det
+            måste finnas ett stort utrymme hos varje medlemsstat att anpassa
+            inskränkningarna efter förhållandena i landet. Det är därför varken
+            lämpligt eller önskvärt att förslag läggs fram om mer detaljerade
+            regler på EU-nivå. Regeringen förespråkar i stället mjukare åtgärder
+            på de områden där balansen inte kan anses tillgodosedd. Analys
+            och diskussioner kan bl.a. ske inom ramen för den kontaktkommitté
+            som finns inrättad enligt direktivet.
+            <hi rend="superscript">
+              2 [
+              <seg type="html-hanvisning">
+                Artikel 12.3: En kontaktpunkt inrättas härmed. Den ska bestå
+                av företrädare för de behöriga myndigheterna i medlemsstaterna.
+                - - -
+              </seg>
+              ]
+            </hi>
+          </p>
+          <p xml:id="IDAUYA0B" rend="rubrik2">
+            Subsidiaritets- och proportionalitetsprincipen
+          </p>
+          <p>
+            Grönboken avser endast att inhämta intressenternas synpunkter.
+            Det finns därför ingen anledning att gå in på subsidiaritets-
+            och proportionalitetsprincipen.
+          </p>
+          <p xml:id="IDA0YA0B" rend="rubrik2">
+            Vissa kompletterande uppgifter
+          </p>
+          <p>
+            Enligt uppgift från Regeringskansliet har Sverige relativt generösa
+            undantag. Som komplement till undantagen finns även de tidigare
+            nämnda avtalslicenserna. Avtalslicensmodellen fungerar i stort
+            sett bra där den finns, vilket bl.a. beror på att Sverige har
+            välutvecklade organisationer som företräder upphovsmännen på olika
+            områden. Att organisationerna inte bara kan sluta avtal för de
+            egna medlemmarna utan även för andra s.k. icke-medlemmar inom
+            samma område underlättar tillståndsklareringen, dvs. att användaren
+            får tillstånd att använda verket mot ersättning.
+          </p>
+          <p>
+            Regeringen beslutade i april 2008 om en översyn av vissa frågor
+            om upphovsrätt (särskild utredare: professor Jan Rosén). En del
+            av uppdraget (dir. 2008:37) gäller avtalslicensområdet, bl.a.
+            att utreda och ta ställning till om avtalslicensen för kopiering
+            inom myndigheter, företag och organisationer m.fl. bör utvidgas
+            till att också avse digital kopiering. Utredningen ska redovisas
+            i sin helhet i oktober 2010; dock ska ett delbetänkande om avtalslicensfrågorna
+            redovisas i oktober 2009.
+          </p>
+          <p>
+            Ett exempel på avtal som underlättar för forskare och andra att
+            använda information tecknades av det norska Nationalbiblioteket
+            och den norska förläggareföreningen i september 2008. Avtalet
+            innebär att böckerna ska inlevereras förutom som pliktexemplar
+            till Nationalbiblioteket även som digital kopia. Därefter kan
+            biblioteket indexera och lagra information i datorn. En annan
+            fördel är att materialet säkras för framtiden. Verken kan dock
+            inte spridas digitalt. För att söka fram information digitalt
+            ur verken måste forskarna komma till bibliotekets lokaler och
+            arbeta där. Den nya metoden innebär inte någon kommersiell eller
+            konkurrerande verksamhet till förlagen utan syftar enbart till
+            att stärka infrastrukturen när det gäller spridning av information.
+            Genom att parterna i Norge har ingått avtal om samarbete har rollerna
+            blivit tydligt definierade.
+          </p>
+          <p xml:id="IDAGZA0B" rend="rubrik2">
+            Utskottets ställningstagande
+          </p>
+          <p>
+            Utskottet välkomnar att en diskussion kommer till stånd på de
+            områden som tas upp i grönboken. Synpunkterna från utskottets
+            sida rör dels den övergripande frågan om det behövs en ytterligare
+            harmonisering av de aktuella reglerna, dels vissa särskilda frågor
+            som utskottet uppmärksammat.
+          </p>
+          <p>
+            Den svenska lagstiftningen på området kännetecknas av en noggrant
+            utarbetad balans mellan upphovsmannens ensamrätt till sitt verk
+            och allmänna och enskilda intressen av att kunna använda verk
+            utan tillstånd. Det är av vikt för hela samhället att skapande
+            verksamhet stimuleras. Genom en hög skyddsnivå uppmuntras till
+            investeringar i kreativ och innovativ verksamhet. Samtidigt är
+            det enligt utskottets mening väsentligt att viktiga allmänna och
+            enskilda intressen av att få nyttja verk tillgodoses. Sammantaget
+            leder detta till en väl avvägd balans.
+          </p>
+          <p>
+            Inledningsvis vill utskottet slå fast att de undantag mot och
+            inskränkningar i upphovsmannens ensamrätt som finns i dag i infosoc-direktivet
+            och i svensk lagstiftning är bra och måste värnas. Sammanfattningsvis
+            delar utskottet regeringens ståndpunkt att det varken är lämpligt
+            eller önskvärt att förslag läggs fram om mer detaljerade regler
+            på EU-nivå. Mjukare åtgärder bör dock i likhet med vad regeringen
+            förespråkar riktas mot de områden och länder där balansen inte
+            kan anses tillgodosedd. Dessa utgångspunkter förtydligas något
+            i det följande.
+          </p>
+          <p>
+            Infosoc-direktivet som nuvarande regler baseras på är enligt
+            utskottet tillfyllest för att uppnå en betydande grad av harmonisering,
+            vilket är positivt. En ytterligare harmonisering är däremot från
+            svensk synpunkt inte önskvärd eftersom nationella behov i medlemsstaterna
+            också kan behöva beaktas. En lagom grad av harmonisering bidrar
+            till en fri rörlighet av varor och tjänster inom den inre marknaden
+            samtidigt som nationella behov i viss utsträckning kan tillgodoses.
+          </p>
+          <p>
+            Med denna utgångspunkt anser utskottet liksom regeringen att
+            infosoc-direktivet inte bör omförhandlas. Nuvarande undantag bör
+            således kvarstå och något nytt undantag för användarskapat material
+            anser utskottet inte vara behövligt.
+          </p>
+          <p>
+            I stället bör inriktningen vara att reglerna kan behöva kompletteras
+            med mjukare åtgärder riktade mot de områden och inom de länder
+            där balansen inte kan anses tillgodosedd. Exempel på en mjuk åtgärd
+            är när kommissionen diskuterar om nya riktlinjer (s.k. codes of
+            conduct) med ett land som enligt kommissionen har problem med
+            tillämpning av undantagen.
+          </p>
+          <p>
+            Härefter övergår utskottet till några särskilda frågor som uppmärksammats
+            under behandlingen av grönboken.
+          </p>
+          <p>
+            Mot bakgrund av kommissionens frågor (15) och (16) rörande undantaget
+            till förmån för funktionshindrade (infosoc-direktivet artikel
+            5.3.b) vill utskottet framhålla följande. I Sverige har lagen
+            (1969:729) om upphovsrätt till litterära och konstnärliga verk
+            (upphovsrättslagen) bestämmelser om framställning av exemplar
+            m.m. till personer med funktionshinder. Utskottet vill på det
+            bestämdaste hävda att termen funktionshinder är ett relevant och
+            riktigt samlingsbegrepp. Att i en lagstiftning dra gränser mellan
+            olika slags funktionshinder är inte en framkomlig väg. Denna uppfattning
+            bör kommuniceras även till andra medlemsstater.
+          </p>
+          <p>
+            Såvitt gäller frågan om huruvida distansundervisning är inkluderad
+            i undantaget för undervisning eller forskning (fråga 20 i grönboken)
+            är utskottet medvetet om att ett angivet skäl (42) i infosoc-direktivet
+            pekar på att så är fallet. Dock sägs det i grönboken att detta
+            undantag ofta har tolkats snävt vid genomförandet så att distansstudier
+            eller Internetbaserade studier i hemmet inte omfattas. Mot den
+            bakgrunden anser utskottet att klargörande riktlinjer från kommissionen
+            behövs (utan att direktivet förändras).
+          </p>
+          <p>
+            När det gäller frågan om den upphovsrättsliga regleringen har
+            utskottet uppfattningen att en sådan bör vara teknikneutral. Utskottet
+            konstaterar att det i nuvarande lagstiftning finns enstaka undantag
+            som särskiljer analog och digital form. Det föranleder dock inte
+            utskottet att föreslå någon omförhandling av infosoc-direktivet.
+            Slutsatsen enligt utskottet är emellertid att frågor om teknikneutralitet
+            behöver analyseras vidare.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

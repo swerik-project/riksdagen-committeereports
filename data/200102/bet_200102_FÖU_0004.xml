@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_FÖU_0004">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen gjorde, med anledning av motionsförslag, ett tillkännagivande om att regeringen snarast ska återkomma till riksdagen med förslag om en avveckling av det s.k. sotningsmonopolet. Vidare avslog riksdagen motioner från allmänna motionstiden 2000 och 2001 om bl.a. samhällets räddningstjänst.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Avveckling av sotningsmonopolet (FöU4)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0987</idno>
+              <title>2002-03-22</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">87</biblScope>
+              <note type="display-reference">2002-03-22</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0986</idno>
+              <title>2002-03-21</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">86</biblScope>
+              <note type="display-reference">2002-03-21</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K188</idno>
+              <title>2001/02:188</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">188</biblScope>
+              <note type="display-reference">2001/02:188</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Fö208</idno>
+              <title>Totalförsvaret</title>
+              <title type="sub">av Åke Carnerö m.fl. (KD)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Fö208</biblScope>
+              <note type="display-reference">motion 2000/01:Fö208 Totalförsvaret</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Fö703</idno>
+              <title>Sotningsmonopolet</title>
+              <title type="sub">av Sten Tolgfors (M)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Fö703</biblScope>
+              <note type="display-reference">motion 2000/01:Fö703 Sotningsmonopolet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Fö705</idno>
+              <title>Sotningsmonopolet</title>
+              <title type="sub">av Amanda Agestav (KD)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Fö705</biblScope>
+              <note type="display-reference">motion 2000/01:Fö705 Sotningsmonopolet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Fö717</idno>
+              <title>Sotningsplikten för oljepannor</title>
+              <title type="sub">av Helena Bargholtz (FP)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Fö717</biblScope>
+              <note type="display-reference">motion 2000/01:Fö717 Sotningsplikten för oljepannor</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GO02Fö719</idno>
+              <title>Sotningsmonopolet</title>
+              <title type="sub">av Roy Hansson (M)</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">Fö719</biblScope>
+              <note type="display-reference">motion 2000/01:Fö719 Sotningsmonopolet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02A317</idno>
+              <title>Orättvisor i samhället</title>
+              <title type="sub">av Gudrun Schyman m.fl. (V)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">A317</biblScope>
+              <note type="display-reference">motion 2001/02:A317 Orättvisor i samhället</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Fö201</idno>
+              <title>Rekrytering av deltidsbrandmän</title>
+              <title type="sub">av Rolf Gunnarsson (M)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Fö201</biblScope>
+              <note type="display-reference">motion 2001/02:Fö201 Rekrytering av deltidsbrandmän</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Fö211</idno>
+              <title>Rekrytering av deltidsbrandmän</title>
+              <title type="sub">av Anders G Högmark och Jan-Evert Rådhström (M)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Fö211</biblScope>
+              <note type="display-reference">motion 2001/02:Fö211 Rekrytering av deltidsbrandmän</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Fö219</idno>
+              <title>Sotningsväsendet</title>
+              <title type="sub">av Sören Lekberg och Anita Johansson (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Fö219</biblScope>
+              <note type="display-reference">motion 2001/02:Fö219 Sotningsväsendet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Fö224</idno>
+              <title>Farligt gods</title>
+              <title type="sub">av Lars Björkman och Anders G Högmark (M)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Fö224</biblScope>
+              <note type="display-reference">motion 2001/02:Fö224 Farligt gods</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Fö233</idno>
+              <title>Tillsyn vid badanläggningar</title>
+              <title type="sub">av Kent Härstedt och Annika Nilsson (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Fö233</biblScope>
+              <note type="display-reference">motion 2001/02:Fö233 Tillsyn vid badanläggningar</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Fö234</idno>
+              <title>Avgifter för kommunal räddningstjänst</title>
+              <title type="sub">av Anita Sidén och Cecilia Magnusson (M)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Fö234</biblScope>
+              <note type="display-reference">motion 2001/02:Fö234 Avgifter för kommunal räddningstjänst</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Fö240</idno>
+              <title>Räddningsinsatser från Landvetter</title>
+              <title type="sub">av Urban Ahlin och Carina Ohlsson (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Fö240</biblScope>
+              <note type="display-reference">motion 2001/02:Fö240 Räddningsinsatser från Landvetter</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Fö242</idno>
+              <title>Deltidsbrandmännens situation</title>
+              <title type="sub">av Chatrine Pålsson (KD)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Fö242</biblScope>
+              <note type="display-reference">motion 2001/02:Fö242 Deltidsbrandmännens situation</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Fö262</idno>
+              <title>Räddningstjänstlagen</title>
+              <title type="sub">av Ann-Kristine Johansson (S)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Fö262</biblScope>
+              <note type="display-reference">motion 2001/02:Fö262 Räddningstjänstlagen</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Fö268</idno>
+              <title>Medeltida kyrkor</title>
+              <title type="sub">av Rigmor Stenmark och Birgitta Carlsson (C)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Fö268</biblScope>
+              <note type="display-reference">motion 2001/02:Fö268 Medeltida kyrkor</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02So501</idno>
+              <title>Ett bättre storstadsliv</title>
+              <title type="sub">av Agne Hansson m.fl. (C)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">So501</biblScope>
+              <note type="display-reference">motion 2001/02:So501 Ett bättre storstadsliv</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2002-03-11">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-03-11">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-03-07">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-03-07">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-02-12">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-02-12">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-01-31">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-01-31">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2002-03-22">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-03-22">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-03-22">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-03-21">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-03-21">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2002-03-20">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-03-19">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-03-19">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Försvarsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:FÖU4
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Samhällets räddningstjänst och sotningsväsendetm.m.
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Deltidsbrandmännens
+            situation Riksdagen avslår motionerna 2001/02:Fö201, 2001/02:Fö211
+            och 2000/01:Fö242. 2. Rekryteringen till brandmannayrket Riksdagen
+            avslår motion 2001/02:A317 yrkande 26. 3. Brandskydd för medeltida
+            kyrkor Riksdagen avslår motion 2001/02:Fö268. 4. Transporter av
+            farligt gods m.m. Riksdagen avslår motionerna 2001/02:Fö224 och
+            2001/02:So501 yrkande 13. 5. Räddningstjänst m.m. Riksdagen avslår
+            motionerna 2001/02:Fö240 och 2001/02:Fö262. 6. Säkerheten vid
+            allmänna badanläggningar Riksdagen avslår motion 2001/02:Fö233
+            yrkandena 1 och 2. 7. Avgifter för tillsyns- och myndighetsutövning
+            Riksdagen avslår motion 2001/02:Fö234. 8. Sotningsväsendet Riksdagen
+            tillkännager för regeringen som sin mening vad utskottet anfört
+            om sotningsväsendet. Därmed bifaller riksdagen delvis motionerna
+            2000/01:Fö208 yrkande 19, 2000/01:Fö703 yrkandena 1-3, 2000/01:
+            Fö705, 2000/01:Fö717, 2000/01:Fö719 och 2001/02:Fö219. Stockholm
+            den 7 mars 2002 På försvarsutskottets vägnar Henrik Landerholm
+            Följande ledamöter har deltagit i beslutet: Henrik Landerholm
+            (m), Tone Tingsgård (s), Christer Skoog (s), Karin Wegestål (s),
+            Stig Sandström (v), Åke Carnerö (kd), Olle Lindström (m), Ola
+            Rask (s), Rolf Gunnarsson (m), Håkan Juholt (s), Berndt Sköldestig
+            (s), Berit Jóhannesson (v), Margareta Viklund (kd), Anna Lilliehöök
+            (m), Lars Ångström (mp), Erik Arthur Egervärn (c) och Runar Patriksson
+            (fp).
+          </p>
+          <p>
+            2001/02 FöU4 Sammanfattning Utskottet behandlar i betänkandet
+            tolv motioner från den allmänna motionstiden 2001/02 och fem motioner
+            från den allmänna motionstiden 2000/01 som rör sotningsväsendet.
+            I motionerna tas bl.a. frågor upp som rör deltidsbrandmännens
+            situation, transporter av farligt gods, räddningstjänstlagen,
+            säkerheten vid badanläggningar, sotningsmonopolet m.m. När det
+            gäller transporter av farligt gods utgår utskottet ifrån att regeringen
+            noga följer denna angelägna fråga och vid en lämplig tidpunkt
+            återkommer till riksdagen med en redovisning. En sådan redovisning
+            kan bl.a. innehålla en uppföljning av beslutet om införandet av
+            säkerhetsrådgivare vid transporter av farligt gods m.m. Frågan
+            om monopolet inom sotningsväsendet har nära nog behandlats vid
+            varje riksmöte sedan riksdagen fattade beslut om en ny räddningstjänstlag
+            vid riksmötet 1986/87. Utskottet anser det anmärkningsvärt att
+            regeringen inte heller under innevarande riksmöte kommer att lämna
+            någon proposition i ärendet. Utskottet förutsätter att regeringen
+            snarast återkommer till riksdagen med förslag om en avveckling
+            av det s.k. sotningsmonopolet. Vad utskottet anfört om monopolet
+            inom sotningsväsendet bör riksdagen som sin mening ge regeringen
+            till känna. Motionsyrkandena i denna fråga föreslår utskottet
+            delvis bifallas av riksdagen. Övriga motionsyrkanden avstyrks
+            av utskottet.
+          </p>
+          <p>
+            Utskottets överväganden Rekrytering av deltidsbrandmän, brandskydd
+            m.m. Utskottets förslag i korthet Riksdagen avstyrker motionsyrkandena.
+            Motioner I motionerna Fö201 (m) av Rolf Gunnarsson, Fö211 (m)
+            av Anders G Högmark och Jan-Evert Rådhström och Fö242 (kd) av
+            Chatrine Pålsson framhålls bl.a. att deltidsbrandkårerna fyller
+            en viktig uppgift i vårt avlånga och glest befolkade land. Enligt
+            motionärerna finns det på många håll problem med att rekrytera
+            personer till dessa deltidskårer. I motionerna pekas också på
+            att deltidsbrandmännens låga löner ofta blir hårt beskatttade
+            genom orimliga marginalskatteeffekter. Enligt motion Fö211 har
+            även regeringen, som uppdrog åt Statens räddningsverk att till
+            den 1 november 2001 redovisa förutsättningarna för deltidsanställda
+            brandmän vad avser rekrytering, ersättning, utbildning och arbetsförhållanden,
+            också uppmärksammat problemen. Enligt motionärerna måste åtgärder
+            vidtas för att säkerställa deltidsbrandmännens medverkan i den
+            framtida brand- och räddningstjänsten. I partimotion A317 (v)
+            tas frågan upp om rekryteringen till brandmannayrket av personer
+            med utländsk bakgrund. Enligt Vänsterpartiet finns uppskattningar
+            om att det bland de 5 000 brandmännen i Sverige finns ca 1 % med
+            utländsk bakgrund. En orsak till detta är enligt motionen att
+            den allmänna uppfattningen alltjämt är att det krävs svensk medborgarskap
+            för att få tjänstgöra som brandman trots att detta krav inte längre
+            finns. En annan orsak är att rekryteringen till brandmannayrket
+            är annorlunda än till andra yrkeskårer, vilket många ungdomar
+            med utländsk bakgrund inte känner till. För att rekryteras till
+            brandman måste man först ha ett arbete på en brandstation för
+            att därefter få sin utbildning på någon av Räddningsverkets skolor.
+            Enligt Vänsterpartiet bör Räddningsverket utveckla åtgärder i
+            syfte att öka andelen personer med utländsk bakgrund inom brandmannayrket
+            (yrkande 26). I motion Fö268 (c) av Rigmor Stenmark och Birgitta
+            Carlsson föreslås en översyn av räddningstjänstlagen beträffande
+            brandskydd för medeltida kyrkor. Enligt motionärerna är det inte
+            rimligt att jämföra medeltida kyrkobyggnader med moderna lokaler
+            och därmed ha samma bestämmelser som för bygdegårdar, församlingshem,
+            varuhus, restauranger osv. där risken för brandspridning torde
+            vara betydligt större än i dessa medeltida kyrkor, ofta byggda
+            i sten. Utskottets ställningstagande Utskottet behandlade frågor
+            om deltidsbrandmännens situation m.m. vid förra riksmötet. I april
+            2001 redogjorde utskottet för de initiativ som regeringen vidtagit
+            i denna fråga (bet. 2000/01:FöU8 s. 8). Utskottet redovisade bl.a.
+            att Statens räddningsverk avslutat ett regeringsuppdrag där verket
+            tillsammans med berörda fackförbund, kommuner och Svenska Kommunförbundet
+            lämnat ett förslag till ett nytt utbildningssystem för den kommunala
+            räddningstjänstpersonalen. Förslaget syftade till när det gäller
+            deltidsutbildningen att göra den mer flexibel och därigenom underlätta
+            rekryteringen. Räddningsverket genomförde under år 2001 denna
+            nya deltidsutbildning på försök. Utskottet redovisade också försvarsminister
+            Björn von Sydows svar till ledamoten Tomas Eneroth (s), som i
+            skriftlig fråga till försvarsministern tagit upp deltidsbrandmännens
+            situation. Enligt försvarsministern har Statens räddningsverk
+            framhållit att det blivit svårare att rekrytera deltidsanställda
+            brandmän och att det medfört att 15 % av landets kommuner haft
+            problem med att upprätthålla den i räddningstjänstplanen angivna
+            beredskapen. Med hänsyn till detta övervägdes det därför inom
+            Regeringskansliet att ge Räddningsverket i uppdrag att redovisa
+            förhållandena för deltidsanställda brandmän vad avser rekrytering,
+            ersättning, utbildning och arbetsvillkor. Enligt vad som nu framkommit
+            har regeringen i juni 2001 gett Räddningsverket detta uppdrag.
+            Enligt uppdraget skall Räddningsverket göra en bedömning av framtida
+            behov av deltidsanställda brandmän och redovisa en analys av framtida
+            rekryteringsproblem. Räddningsverket skall även lämna förslag
+            till förändringar för att underlätta rekryteringen. Regeringen
+            har också i regleringsbrev för år 2001 uppdragit åt Räddningsverket
+            att redovisa en utvärdering av den försöksutbildning av deltidsbrandmän
+            som genomförts under år 2001. Utvärderingen skall redovisas senast
+            den 1 mars 2002. Som utskottet ser det har regeringen uppmärksammat
+            de problem som motionärerna pekar på och bereder därför nu frågan
+            inom Regeringskansliet. Utskottet bedömer att den beredning som
+            nu pågår borde kunna ge det underlag som behövs för att bl.a.
+            se om behov finns om ytterligare ekonomiska incitament för att
+            trygga bemanningen framöver i enlighet med vad som efterfrågas
+            i motionerna. Resultatet av denna beredning bör därför avvaktas.
+            Utskottet avstyrker därmed motionerna Fö201 (m), Fö211 (m) och
+            Fö242 (kd). Frågan om rekrytering till brandmannayrket av personer
+            med utländsk bakgrund har tidigare behandlats av utskottet. Vid
+            denna behandling (bet. 1999/2000:FöU5 s. 6) hänvisade utskottet
+            bl.a. till utredningsuppdraget om en reformerad räddningstjänstlagstiftning
+            (dir. 1999:94). Utredningsuppdraget är nyligen överlämnat till
+            regeringen (SOU 2002:10). I uppdraget har bl.a. ingått att lämna
+            förslag om räddningstjänstpersonalens kompetens och utbildning.
+            För denna del av uppdraget uppdrogs samma dag åt Statens räddningsverk
+            och Svenska Kommunförbundet att se över den kommunala räddningstjänstutbildningen.
+            Utskottet har erfarit att en särskild utredningsgrupp den 3 december
+            2001 redovisat ett förslag i denna fråga och att ärendet nu bereds
+            i Regeringskansliet. Utskottet vill i sammanhanget erinra om att
+            regeringen i propositionen (prop. 2001/02:10 s. 184) Fortsatt
+            förnyelse av totalförsvaret uppmärksammat frågor som tas upp i
+            Vänsterpartiets motion när det gäller Försvarsmaktens personalförsörjning.
+            Utskottet kan därvid glädjande nog konstatera att regeringen anser
+            att etnisk och kulturell mångfald bör betraktas som en förutsättning
+            för Försvarsmaktens personalförsörjning och för myndighetens förankring
+            i samhället som helhet. Beträffande rekryteringen till brandmannayrket
+            vill utskottet framhålla att detta är en kommunal personalförsörjningsfråga
+            som hanteras av den enskilda kommunen. Som utskottet ovan redogjort
+            för har nu Svenska Kommunförbundet tillsammans med Räddningsverket
+            gjort en översyn av den kommunala räddningstjänstutbildningen.
+            Utskottet utgår från att frågor som rör rekryteringen till brandmannayrket
+            i enlighet med vad som efterfrågas i motionen behandlas i detta
+            sammanhang. Utskottet anser att det inte finns anledning att nu
+            föregripa pågående beredningsarbete inom Regeringskansliet. Något
+            uttalande från riksdagen anser utskottet därför inte vara påkallat.
+            Motion A317 (v) yrkande 26 avstyrks av utskottet. Med anledning
+            av motion Fö268 (c) som tar upp frågan om en översyn av räddningstjänstlagen
+            beträffande brandskydd av medeltida kyrkor vill utskottet anföra
+            att räddningstjänstlagen nyligen blivit föremål för en översyn.
+            Av utredningsdirektiven (dir. 1999:94) framgår att utredaren bl.a.
+            skall beakta möjligheterna att minska detaljregleringen av den
+            kommunala räddningstjänsten och i övrigt modernisera bestämmelserna
+            i lagstiftningen i syfte att skapa en effektiv räddningstjänst
+            på såväl det kommunala som statliga området. Exempel på områden
+            som skall utredas är kommunala räddningstjänstplaner och ledningen
+            vid stora olyckshändelser. Lagstiftningen måste även med minskad
+            detaljreglering tillgodose det behov av reglering som krävs för
+            att stat och kommun skall kunna utöva tillsyn m.m. på ett ändamålsenligt
+            sätt. Utredaren har i januari 2002 överlämnat sitt betänkande
+            (SOU 2002:10) om en reformerad räddningstjänstlagstiftning. Frågan
+            bereds nu vidare inom Regeringskansliet. Som utskottet ser det
+            torde frågor av det slag som motionärerna pekar på ligga inom
+            ramen för denna översyn. Om behov av förändringar i enlighet med
+            förslagen i motion Fö268 (c) skulle bedömas föreligga utgår utskottet
+            från att regeringen tar sådana initiativ. Något uttalande från
+            riksdagen anser utskottet inte vara påkallat. Motion Fö268 (c)
+            avstyrks av utskottet. Farligt gods m.m. Utskottets förslag i
+            korthet Utskottet utgår ifrån att regeringen noga följer frågan
+            om transport av farligt gods och vid en lämplig tidpunkt återkommer
+            till riksdagen med en redovisning i denna angelägna fråga. Utskottet
+            avstyrker motionsyrkandena. Motioner I motion Fö224 (m) av Lars
+            Björkman och Anders G Högmark tas frågan upp om ett sammanhållet
+            informationssystem för farligt gods. Ett nationellt databaserat
+            system som skulle kunna hantera hela kedjan, tillverkare/importörer,
+            speditörer, transportörer, godsmottagare, larmcentraler, polis,
+            räddningsorganisation och Statens räddningsverk finns på marknaden.
+            Därmed skulle alla aktörer kunna vara anslutna till ett gemensamt
+            datanätverk där man kan lagra alla uppgifter om det farliga godset
+            och dess färdväg. Enligt motionärerna bör regeringen ge Räddningsverket
+            i uppdrag att finna vägar för en samordning och ett samutnyttjande
+            av det redan befintliga datanätverket. I partimotion So501 (c)
+            framhålls att tung trafik och transporter av farliga ämnen måste
+            flyttas från städernas innerområden och en övergång till säkra
+            spårbundna transporter av miljöfarliga varor bör utvecklas. För
+            att i största mån minska gas- och bränsletransporter genom storstäderna
+            bör dessa frakter styras över till ytterhamnarna (yrkande 13).
+            Utskottets ställningstagande Frågan om informationssystem för
+            farligt gods behandlades av utskottet vid förra riksmötet (bet.
+            2000/01:FöU5 s. 29-30). Utskottet hänvisade då till det nystartade
+            projektet inom Statens räddningsverk om användningen av transporttelematik
+            inom området farligt gods. Med transporttelematik menas då integration
+            av telekommunikation och informationsteknik inom transportområdet.
+            Den referensgrupp som knöts till projektet om användningen av
+            transporttelematik inom området för farligt gods bestod av representanter
+            från räddningstjänsten, tillsynsmyndigheterna, Räddningsverket,
+            SOS Alarm och transportföretagen. Enligt vad utskottet då erfor
+            hade Statens räddningsverk i två rapporter redovisat läget vad
+            beträffar användningen av transporttelematik inom området farligt
+            gods. Av rapporterna framgick att utvecklingen går mot en sammankoppling
+            av olika delsystem. Rent generellt finns stora delar av den nödvändiga
+            informationen lagrad i olika system och dessa behöver nu anpassas
+            till varandra. Det framgick också bl.a. att tillsynsmyndigheternas
+            vision är att på ett enda ställe kunna nå elektroniskt lagrad
+            information om transporter av farligt gods. Enligt vad utskottet
+            nu erfarit i fråga om telematikens användning inom området för
+            transporter av farligt gods har Vägverket gjort försök med att
+            följa vissa utvalda fordon lastade med farligt gods och lagra
+            data på deras rörelser. För närvarande studerar Vägverket riskerna
+            med transporter av farligt gods. Vägverket ser fördelarna med
+            telematikens användning ur perspektivet som ansvarig väghållare.
+            Räddningsverket ser fördelarna ur säkerhetssynpunkt genom att
+            telematiken kan ge räddningstjänsterna snabb information om att
+            en olycka inträffat och vad fordonets last innehåller. I fråga
+            om telematik för vägtransporter samarbetar de båda verken. Enligt
+            Räddningsverket använder alltfler företag GPS (Global Positioning
+            System) för att kunna följa sin fordonsflotta. Kostnaden för utrustningen
+            sjunker stadigt. Ett telematiksystem skulle i ett första steg
+            kunna vara applicerbart för de transporter av farligt gods på
+            väg som vid en olycka kan orsaka mycket allvarliga skador på människor
+            eller i miljön. Explosiva ämnen och föremål, kondenserade brännbara
+            gaser (t.ex. gasol), kondenserade giftiga gaser (t.ex. klor) skulle
+            då kunna vara sådana grupper av ämnen där ett krav på telematik
+            införs. Räddningsverkets uppfattning är dock att kostnaderna för
+            ett sådant system i nuläget inte är motiverat. Räddningsverket
+            ser att en ny riskbild framtonat det senaste året som innebär
+            att olyckor med farliga ämnen avsiktligt arrangeras genom t.ex.
+            terrorister som vill uppnå vissa mål. Detta är en ny ingrediens
+            i motiveringen för att införa ett telematiksystem som i varje
+            fall medger att ett fordon med mycket farliga ämnen kan spåras
+            om det bortförs för andra syften än endast transport. Som utskottet
+            ser det arbetar berörda myndigheter, transportföretag m.fl. mer
+            aktivt med säkerhetsåtgärder, varav utvecklingen av transporttelematik
+            ingår som ett moment i linje med vad som yrkas i motionen. Utskottet
+            finner det därför inte motiverat att riksdagen begär ytterligare
+            initiativ av regeringen i denna fråga. Motion Fö224 (m) avstyrks
+            av utskottet. Frågan om transporter av farligt gods i storstadsområden
+            m.m. behandlades utförligt av utskottet vid riksmötet 1999/2000
+            (bet. 1999/2000:FöU5 s. 8-9). Inledningsvis erinrade då utskottet
+            om de gällande internationella bestämmelserna för farligt gods-transporter
+            på väg och järnväg. Dessa bestämmelser gäller även vid nationella
+            transporter. När det gäller vägvalsstyrning spelar länsstyrelserna
+            en viktig roll då många transportleder berör flera kommuner. Med
+            stöd av trafikförordningen (1998:1276) beslutar länsstyrelsen
+            om lokala trafikföreskrifter som gäller för transporter av farligt
+            gods. Ur risksynpunkt anser utskottet att vägvalsstyrning är ett
+            mycket värdefullt instrument för att kunna styra om transporter
+            av farligt gods, så att befolkningstäta och miljöansträngda områden
+            avlastas från sådana transporter. Utskottet inser dock att möjligheterna
+            att styra om farligt gods i den befintliga infrastrukturen kan
+            vara begränsade. Detta gäller inte minst i järnvägsnätet. Utskottet
+            bedömer mot den bakgrunden därför det som särskilt viktigt att
+            säkerhetsaspekten rörande transport av farligt gods tidigt kommer
+            in i den regionala och lokala planeringsprocessen. Ett genomtänkt
+            samhällsbyggande bäddar, som utskottet ser det, för en framtida
+            säkrare ordning inom området för transport av farligt gods. Mot
+            bakgrund av de senaste årens allvarliga olyckor med farligt gods
+            ser utskottet det som självklart att regering och berörda myndigheter
+            m.m. tar initiativ till förändringar som ytterligare minimerar
+            riskerna vid transport av farligt gods. Utskottet kan i det sammanhanget
+            glädjande nog konstatera att Stockholms stad för närvarande utreder
+            frågan om transport av farligt gods i kommunen - i första hand
+            flygbränsletransporterna till Arlanda. Utredningen syftar till
+            att hitta en långsiktigt hållbar lösning på dessa transporter.
+            I detta arbete övervägs olika lösningar, bl.a. att frakta flygbränslet
+            på järnväg från någon lämplig ytterhamn till en depå, varifrån
+            sedan flygbränslet fraktas vidare i rörledning till Arlanda. Utskottet
+            ser positivt på de utredningsinitiativ som kommunen nu tagit och
+            den lösning som bl.a. övervägs om transport av flygbränslet i
+            rörledning till Arlanda. Utskottet ställer stora förhoppningar
+            till detta utredningsarbete och räknar med att den svårlösta frågan
+            med flygbränsletransporterna till Arlanda inom förestående tid
+            kan komma att lösas på ett långsiktigt tillfredsställande sätt.
+            Vid utskottets behandling av frågan om transport av farligt gods
+            under riksmötet 1999/2000 redogjorde också utskottet för en arbetsgrupp
+            för transporter av farligt gods på järnväg som tillsatts av generaldirektörerna
+            för Banverket och Räddningsverket. Arbetsgruppen, vari även ingår
+            representanter från trafikutövarna, kemikalieindustrin, vagnsägarna
+            och Svenska Kommunförbundet, skall bl.a. kartlägga erfarenheter
+            och risker samt föreslå eventuella åtgärder som kan reducera riskerna.
+            Utskottet har nu erfarit att arbetsgruppen har värderat ca 20
+            olika åtgärder avseende effektivitet, kostnad, genomförbarhet
+            och prioritet för att öka säkerheten vid transporter av farligt
+            gods på järnväg. Dessa åtgärder är bl.a. telematik, vägvalsstyrning,
+            förbättrad tillbudsrapportering, hastighetsnedsättning, förbättrad
+            vagnskonstruktion, information till allmänheten och tillsättande
+            av en permanent arbetsgrupp i riskfrågor om farligt gods. Inom
+            EU pågår också ett arbete med dessa frågor, och på förslag av
+            Tyskland införs i RID-reglerna för transport av farligt gods på
+            järnväg bestämmelser om att länderna måste upprätta planer för
+            olycksberedskap, informera berörd allmänhet och minska riskerna
+            genom olika åtgärder på de rangerbangårdar som har den största
+            hanteringen av farligt gods. Den nu permanenta arbetsgruppen i
+            riskfrågor om farligt gods har under år 2001 i första hand ägnat
+            sig åt frågor rörande säkerhet i järnvägstunnlar, säkerhet vid
+            rangerbangårdar, forskning och utveckling m.m. Utskottet utgår
+            ifrån att regeringen noga följer frågan om transport av farligt
+            gods och vid en lämplig tidpunkt återkommer till riksdagen med
+            en redovisning i denna angelägna fråga. En sådan redovisning kan
+            bl.a. innehålla en uppföljning av beslutet om införandet av säkerhetsrådgivare
+            vid transporter av farligt gods m.m. Som utskottet ser det pågår
+            det ett intensivt arbete med säkerhetsfrågorna inom området för
+            bl.a. transporter av farligt gods i enlighet med vad som efterfrågas
+            i motion So501 (c). Motion So501 (c) yrkande 13 avstyrks av utskottet.
+            Räddningstjänstlagen, räddningsinsatser m.m. Utskottets förslag
+            i korthet Utskottet avstyrker motionsyrkandena. Motioner I motion
+            Fö262 (s) av Ann-Kristine Johansson pekar motionären bl.a. på
+            erfarenheterna från den extrema situation som rådde hösten 2000
+            i Värmland och konstaterar att det finns brister i lagstiftningen
+            vid sådana påfrestningar på samhället. Ofta berörs flera kommuner,
+            och i många fall är det inte räddningstjänst, enligt räddningstjänstlagens
+            mening, i den kommun där dammen ligger, varför länsstyrelsen ibland
+            tvivelaktigt beslutat att ta över räddningstjänsten endast för
+            att framtvinga en ökad eller minskad tappning i ett vattendrag,
+            ett beslut som egentligen borde tas av dammägaren mycket tidigare
+            när signalerna om ökade vattenmängder kommer. Det finns ett glapp
+            i lagstiftningen mellan miljöbalkens vattenregleringsbestämmelser
+            och räddningstjänstlagens tvingande bestämmelser i en nödsituation.
+            En annan aspekt som finns som ett viktigt kriterium för räddningstjänsten
+            är "behov av ett snabbt ingripande". Om ordet "snabb" i kriteriet
+            för räddningstjänst "behov av snabbt ingripande" i sammanhanget
+            kunde betraktas som ett relativt begrepp och kanske röra sig om
+            veckor till månader vid den här typen av händelser med långsamma
+            förlopp skulle den kommunala räddningstjänsten kunna ta ett tvingande
+            beslut om ökad tappning med stöd av räddningstjänstlagen långt
+            innan några större översvämningar inträffat i kommunen och utan
+            att länsstyrelsens övertagande krävdes. Därför behövs det förändringar
+            i räddningstjänstlagen, kriterierna för räddningstjänst "behovet
+            av snabbt ingripande" är inte ändamålsenliga för denna typen av
+            händelser. Men även bristen i lagstiftningen, glappet mellan räddningstjänstlag
+            och miljöbalk, måste täppas igen. I motion Fö240 (s) av Urban
+            Ahlin och Carina Ohlsson tas frågor upp som rör räddningsinsatser
+            från Landvetter. Enligt motionärerna gör start- och landningsavgifterna
+            på Landvetter att Statens räddningsverk inte kan använda flygplatsen
+            utan i stället flyger ut förnödenheterna från Billund i Danmark,
+            eftersom flygplatsen i Billund inte tar ut någon sådan avgift.
+            Materielen som skickas ut av Räddningsverket är placerat i förråd
+            mycket nära Landvetter. Denna hantering måste anses vara synnerligen
+            opraktisk. Avgifterna på Landvetter gör att onödig tid spills
+            på att transportera materiel från förråd nära Landvetter till
+            flygplatsen i Billund, vilket leder till att hjälpen inte kommer
+            fram så fort som den borde ha kunnat göra. Regeringen bör undersöka
+            möjligheten att finna en lösning på detta problem. Utskottets
+            ställningstagande Med anledning av en motion togs frågan om räddningstjänstbegreppet
+            upp vid förra riksmötet (bet. 2000/01:FöU8 s. 7-8). Utskottet
+            erinrade då om att regeringen uppdragit åt en särskild utredare
+            att lämna förslag till en reformerad räddningstjänstlagstiftning
+            (dir. 1999:94). I uppdraget har ingått att bl.a. föreslå hur lagstiftningen
+            kan moderniseras och hur detaljregleringen av den kommunala räddningstjänsten
+            kan minskas. Vidare har i uppdraget ingått att tydliggöra gränsdragningen
+            mellan räddningstjänstlagstiftningen och annan lagstiftning som
+            reglerar olycks- och skadeförebyggande verksamhet. Utskottet kan
+            nu konstatera att utredningsuppdraget har slutförts och att ett
+            betänkande om en reformerad räddningstjänstlagstiftning har överlämnats
+            till regeringen (SOU 2002:10). Utskottet vill därtill erinra om
+            att Utredningen om kommuners och landsting beslutsfattande vid
+            extraordinära fredstida händelser i samhället nyligen har överlämnat
+            sitt slutbetänkande (SOU 2001:105) till justitieministern. Av
+            utredningsdirektiven (dir. 2001:40) framgår att en översyn skall
+            göras och förslag lämnas till de lagändringar som behövs för kommunernas
+            och landstingens organisation och beslutsfattande vid extraordinära
+            fredstida händelser. Frågan när en sådan reglering får tillämpas
+            och hur detta avgörs i varje situation skall också utredas. I
+            uppdraget ingår också att överväga om det med hänsyn till kommunernas
+            och landstingens behov finns anledning att förtydliga de regler
+            som styr deras planering inför extraordinära fredstida händelser
+            och, om så är fallet, lämna förslag till författningsändringar.
+            Som utskottet ser det har regeringen uppmärksammat de frågor som
+            motionären tar upp. Beredningen av de utredningar som utskottet
+            ovan redovisat pågår inom Regeringskansliet. Utskottet finner
+            inte anledning att med särskilda uttalanden föregripa detta beredningsarbete
+            utan vill avvakta till dess förslag i frågan föreligger från regeringen.
+            Motion Fö262 (s) avstyrks av utskottet. Storleken på start- och
+            landningsavgifterna på Landvetters flygplats och dess inverkan
+            på effektiviteten vid räddningsinsatser från Landvetter är en
+            fråga för den myndighet som svarar för insatsen, i detta fall
+            Statens räddningsverk. Enligt vad utskottet erfarit finns det
+            många aspekter att ta hänsyn till när Räddningsverket skall upphandla
+            transporter m.m. vid en räddningsinsats. Räddningsinsatserna måste
+            bl.a. utformas efter behov, tidsförhållanden och finansiering
+            för att kunna uppnå mesta möjliga nytta och största effektivitet.
+            Utskottet, som anser att detta är ett rimligt tillvägagångssätt,
+            har inte funnit anledning att ifrågasätta detta. Något utskottsinitiativ
+            anses därför inte vara påkallat. Motion Fö240 (s) avstyrks av
+            utskottet. Tillsynen vid badanläggningar, avgifter för tillsyn
+            m.m. Utskottets förslag i korthet Utskottet avstyrker motionsyrkandena.
+            Motioner I motion Fö233 (s) av Kent Härstedt och Annika Nilsson
+            tas frågor upp som rör tillsynen vid badanläggningar. Enligt motionärerna
+            finns det i dag inga särskilda rättsregler för säkerhetsfrågor
+            för badanläggningar utomhus eller inomhus, inte heller för hur
+            tillsynen skall gå till eller vem som skall utföra densamma. Det
+            som gäller är samma rättsliga regler som för resten av samhället.
+            Motionärerna pekar också på att det under den gångna sommaren
+            har inträffat flera tragiska drunkningsolyckor där barn förolyckats.
+            Det är enligt motionärernas mening angeläget att vi i Sverige
+            får en lag som gör det till ett obligatorium att det skall finnas
+            badvakter vid alla badanläggningar där allmänheten har tillträde,
+            att vi slår fast att det skall finnas krav på utbildningsnivå
+            för badvakter där vattensäkerheten skall ligga i paritet med de
+            krav som håller på att införas i övriga Europa samt att det skall
+            finnas krav på uppdatering av badvaktskompetensen (yrkandena 1
+            och 2). I motion Fö234 (m) av Anita Sidén och Cecilia Magnusson
+            framhålls den kommunala räddningstjänstens rätt att av företag
+            ta ut avgifter för tillsyns- och myndighetsutövning. Den kommunala
+            räddningstjänsten utför flera typer av tillsyn och myndighetsutövning.
+            Nuvarande räddningstjänstlag möjliggjorde 1986 för kommunerna
+            att ta betalt för brandsynen, det vill säga kontroll av brandskyddet
+            i vissa objekt, likaså möjliggjordes att ta betalt för tillsyn
+            av brandfarlig vara enligt lagen om brandfarlig och explosiv vara.
+            I andra delar av lagstiftningen finns inte liknande formuleringar
+            om kommuners möjlighet att ta betalt för tillsyn och myndighetsutövning.
+            Detta har skapat en osäkerhet om denna möjlighet i dessa lagrum.
+            I motionen nämns bl.a. exempel på kommunernas tillsyn över farliga
+            anläggningar med tonvikt på storskalig kemikaliehantering s.k.
+            Sevesoanläggningar. Motionärerna föreslår att det i lagar, om
+            det som åläggs kommuners räddningstjänster, förtydligas att kommuner
+            ges möjlighet att ta betalt av företagen för det säkerhetsarbete
+            de är skyldiga att utföra. Utskottets ställningstagande Utskottet
+            behandlade frågor om säkerheten vid badanläggningar vid förra
+            riksmötet (bet. 2000/01:FöU8 s. 9-10). Utskottet redogjorde då
+            för tidigare riksdagsbehandlingar (bet. 1996/97: BoU12 och 1999/2000:BoU9).
+            Bostadsutskottet som beredde dessa frågor våren 1997 och våren
+            2000 instämde i motionärernas uppfattning om att säkerheten vid
+            bad- och simanläggningar skall vara mycket god. Bostadsutskottet
+            hänvisade också till generella krav på säkerhet beträffande simanläggningar
+            som följer av bl.a. plan- och bygglagen jämte av Boverket utfärdade
+            byggregler samt 3 kap. 5 § ordningslagen (1993:1617). I sin beredning
+            anförde bostadsutskottet bl.a. också att ett ytterligare sätt
+            att förbättra säkerheten är att med andra insatser, som ökad tillsyn
+            t.ex. med hjälp av badvakter eller annan personal. I anslutning
+            härtill kan det naturligtvis också vara aktuellt att kräva viss
+            kompetens av den personal som har att svara för tillsynen. I vilken
+            utsträckning tillsynspersonal erfordras vid en sim- eller badanläggning
+            är dock primärt en fråga för den för anläggningen ansvarige att
+            avgöra. Även kommunerna måste enligt bostadsutskottets mening
+            anses ha ett betydande ansvar i hithörande frågor. I många fall
+            är det dessutom kommunen som driver eller på annat sätt ansvarar
+            för bad- och simanläggningar. Enligt utskottets mening har ingenting
+            nytt framkommit, sedan frågan senast behandlades i utskottet våren
+            2001, som skulle kunna föranleda en omprövning av utskottets tidigare
+            ställningstaganden om säkerheten vid badanläggningar. Utskottet
+            instämmer också i vad bostadsutskottet tidigare uttalat i denna
+            fråga. Motion Fö233 (s) yrkandena 1 och 2 avstyrks av utskottet.
+            När det gäller frågan om avgifter för tillsyns- och myndighetsutövning
+            har utskottet erfarit att den nyligen avslutade Räddningstjänstlagsutredningen
+            har behandlat denna fråga i sitt betänkande (SOU 2002:10) Reformerad
+            räddningstjänstlagstiftning. Betänkandet överlämnades till försvarsministern
+            den 25 januari 2002 och remissbehandlas för närvarande. Utskottet,
+            som kan förstå motionärernas synpunkter, anser dock att regeringens
+            beredning av frågan bör få slutföras och förslag föreligga innan
+            utskottet uttalar sig om frågan om avgifter för tillsyns- och
+            myndighetsutövning. Motion Fö234 (m) avstyrks av utskottet. Sotningsväsendet
+            Utskottets förslag i korthet Utskottet anser att det är anmärkningsvärt
+            att regeringen inte heller under innevarande riksmöte kommer att
+            lämna någon proposition i detta ärende. Utskottet förutsätter
+            att regeringen - när effekterna av bl.a. avregleringen av taxiväsendet
+            och elmarknadsreformen m.m. utvärderats - snarast återkommer till
+            riksdagen med förslag om en avveckling av det s.k. sotningsmonopolet.
+            Vad utskottet anfört i denna fråga bör riksdagen som sin mening
+            ge regeringen till känna. Motionsyrkandena föreslår utskottet
+            delvis bifallas av riksdagen. Motioner I ett flertal motioner
+            från allmänna motionstiden 2000/01 tas frågor upp som rör sotningsväsendet.
+            I kommittémotion 2000/01:Fö208 (kd) yrkande 19 av Åke Carnerö
+            m.fl. och motionerna 2000/01:Fö703 (m) yrkande 1 av Sten Tolgfors,
+            2000/01:Fö705 (kd) av Amanda Agestav, 2000/01:Fö717 (fp) av Helena
+            Bargholtz samt 2000/01:Fö719 (m) av Roy Hansson föreslås sotningsmonopolets
+            avskaffande. I motionerna motiveras detta bl.a. med att onödiga
+            kostnader som uppstår på grund av sotningsmonopolet drabbar villaägare
+            och hyresgäster i form av ökade boendekostnader. I dag tvingas
+            nämligen fastighetsägaren anlita den av kommunen utsedda sotaren
+            för sotning av rökkanaler, eldstäder, imkanaler m.m. och den obligatoriska
+            brand- skyddskontrollen. Det är inte tillåtet för en fastighetsägare
+            att sota själv, eller anlita annan lämplig person för att utföra
+            sotningen. Den lokala sotaren har monopol på sotning och säkerhetskontroller
+            inom sitt sotningsdistrikt. Det gör att varken pris eller kvalitetskonkurrens
+            förekommer, vilket starkt talar för att prisnivån är onödigt hög.
+            Det gör också att den enskilda fastighetsägaren inte har någon
+            valfrihet, vilket hindrar gemensamma uppköp av sotartjänster bland
+            fastighetsägare och försvårar val av lämpliga tidpunkter för sotning.
+            Vidare anförs i motionerna att regeringen förhalar frågan. Sotningsutredningen
+            föreslog för snart två år sedan att sotningsmonopolet skulle avskaffas.
+            Regeringen har dock ännu inte lagt fram förslag till riksdagen
+            i frågan trots att riksdagen på olika sätt uppmärksammat frågan.
+            I någon motion framhålls också att Svenska Kommunförbundet, SABO,
+            Sveriges Fastighetsägareförbund, Hyresgästernas Riksförbund, HSB:s
+            Riksförbund, Riksbyggen och Sveriges Bostadsrättsföreningars Centralorganisation
+            (SBC) i slutet av 1999 gemensamt begärde att sotningsmonopolet,
+            liksom kravet på sotning/rengöring av imkanaler, skulle slopas.
+            I motionerna 2000/01:Fö703 (m) yrkande 2 av Sten Tolgfors och
+            2001/02:Fö219 (s) av Sören Lekberg och Anita Johansson föreslås
+            att kravet på rengöring av imkanaler tas bort. I motion 2001/02:Fö219
+            (s) anförs att det, med hänsyn till att genomförandet av förslaget
+            om en reformering av sotningsväsendet kräver en tidsutdräkt av
+            flera år, är angeläget att vissa frågor kan brytas ut ur helheten
+            och behandlas separat. En sådan fråga, som enligt motionärernas
+            mening bör behandlas med förtur, är den obligatoriska rensningen
+            av imkanaler i bostadskök. Den anses inte av expertisen ha någon
+            brandförebyggande effekt utan betraktas som onödig och dyr. Obligatoriet
+            är således ineffektivt och höjer boendekostnaderna samtidigt som
+            det orsakar onödiga besvär för de boende i samband med att de
+            myndighetsutövande skorstensfejarna skall beredas tillträde till
+            lägenheterna. Liknande resonemang finns också i motion 2000/01:Fö703
+            (m). I motion 2000/01:Fö703 (m) yrkande 3 av Sten Tolgfors föreslås
+            att regeringen lägger fram förslag om förstärkt brandskyddskontroll
+            i enlighet med Sotningsutredningens förslag. I motionen, vari
+            även föreslås sotningsmonopolets avskaffande, framhålls att det
+            i hög grad ligger i fastighetsägarnas intresse att brandsäkerheten
+            i landets fastigheter är god. Det ligger likaså i fastighetsägarnas
+            intresse att värmeanläggningar fungerar effektivt och rökgångar
+            m.m. rensas och underhålls. Vidare ligger det i fastighetsägarnas
+            och övriga boendes intresse att sotning och brandsäkerhetsbesiktningar
+            kan ske smidigt, samordnat och effektivt. Utskottets ställningstagande
+            Inledningsvis vill utskottet erinra om att motioner som tog upp
+            frågor rörande konkurrensen inom sotningsväsendet behandlades
+            redan i samband med riksdagens beredning av nu gällande räddningstjänstlag
+            i november 1986 (bet. 1986/87:FöU2 s. 23). Nära nog vid varje
+            riksmöte sedan dess har motioner av detta slag behandlats av riksdagen.
+            Samtliga motioner, vari bl.a. yrkanden om en avveckling av det
+            s.k. sotningsmonopolets framförts, har avslagits av riksdagen.
+            Under de senaste tio årens riksmöten har detta skett med bl.a.
+            hänvisning till att frågan utreds eller avses bli utredd. Så t.ex.
+            anförde utskottet i oktober 1992 att regeringen avsåg tillkalla
+            en utredare med uppgift att lägga fram förslag om hur ordningen
+            med långvariga entreprenadavtal för skorstenfejarmästare kan förnyas.
+            Utredaren skulle också undersöka möjligheterna att öka inslaget
+            av konkurrens i verksamheten (bet. 1992/93:FöU1 s. 7). När utskottet
+            senast behandlade frågan om konkurrensen inom sotningsväsendet
+            i april 2000 (bet. 1999/2000:FöU5) lämnade utskottet en utförlig
+            redovisning av frågans grundliga beredning under senare år. Utskottet
+            uttryckte sin förståelse för att konsekvenserna av ett hävande
+            av monopolet måste belysas grundligt, så att fördelarna med en
+            konkurrensutsatt marknad gagnar brandsäkerheten inom sotningsväsendet.
+            Utskottet utgick dock ifrån att de fördjupade analyser i ärendet
+            som återstod skulle komma att beredas skyndsamt och att regeringen
+            skulle återkomma till riksdagen med förslag i ärendet, senast
+            under påföljande riksmöte 2000/01. I maj 2001 kom den senaste
+            statliga redovisningen om konkurrensen inom sotningsväsendet.
+            Då överlämnades utredningen (SOU 2001:42) Reformerat sotningsväsende
+            till försvarsministern. Utredningen konstaterade att det är förenat
+            med uppenbara fördelar om det kommunala sotningsmonopolet upphävs
+            och om ansvaret för rengöring och brandskyddskontroll (brandskyddsbesiktning)
+            kan föras över på den enskilde. Utskottet kan nu konstatera att
+            försvarsministern i svar på interpellation 2001/02:172 av Gunnel
+            Wallin (c) den 29 januari 2002 anfört att en reformering av sotningsväsendet
+            får anstå till dess resultatet av en utvärdering av de genomgripande
+            avregleringar och förändringar av offentlig verksamhet som genomdrivits
+            under senare år genomförts. Konsekvenserna av detta är, som utskottet
+            ser det, att regeringen inte heller kommer att lämna någon proposition
+            om ett reformerat sotningsväsende till riksdagen under innevarande
+            riksmöte. Utskottet anser detta anmärkningsvärt. I en föredragning
+            inför utskottet den 7 mars 2002 har representanter för Svenska
+            Kommunförbundet framhållit att nuvarande lagstiftning inom sotningsväsendet
+            är föråldrad och att den senaste tidens lokala förhandlingar om
+            taxor visat på stora lokala problem. Enligt Kommunförbundet hade
+            flertalet av Sveriges kommuner förväntat sig en proposition om
+            sotningsväsendet under hösten 2001 och inriktat sin planering
+            därefter. Kommunförbundet anser att den ordning som nu råder inom
+            området är ohållbar i längden. Om nu regeringen gör den bedömningen
+            att effekterna av bl.a. avregleringen av taxiväsendet och elmarknadsreformen
+            m.m. först bör utvärderas innan förslag till några förändringar
+            inom sotningsväsendet kan föreligga bör - enligt utskottets mening
+            - denna utvärdering prioriteras och genomföras med stor skyndsamhet.
+            När utvärderingen är genomförd förutsätter utskottet att regeringen
+            snarast återkommer till riksdagen med förslag om en avveckling
+            av det s.k. sotningsmonopolet. Förslag som rör brandsäkerhet,
+            brandskyddskontroll, rengöring av imkanaler m.m. bör naturligtvis
+            i det sammanhanget också redovisas för riksdagen. Vad utskottet
+            nu anfört och med anledning av motionerna 2000/01:Fö208 (kd) yrkande
+            19, 2000/01:Fö703 (m) yrkandena 1-3, 2000/01:Fö705 (kd), 2000/01:Fö717
+            (fp), 2000/01:Fö719 (m) och 2001/02:Fö219 (s) bör riksdagen som
+            sin mening ge regeringen till känna. Bilaga Förteckning över behandlade
+            förslag Motioner från allmänna motionstiden 2000/01 2000/01:Fö208
+            av Åke Carnerö m.fl. (kd): 19. Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om att regeringen snarast
+            bör lämna förslag om en avveckling av sotningsmonopolet som inte
+            äventyrar en hög brandsäkerhet. 2000/01:Fö703 av Sten Tolgfors
+            (m): 1. Riksdagen begär att regeringen lägger fram förslag som
+            säkerställer sotningsmonopolets avskaffande. 2. Riksdagen begär
+            att regeringen lägger fram förslag som säkerställer borttagande
+            av kravet på rengöring av imkanaler. 3. Riksdagen begär att regeringen
+            lägger fram förslag om förstärkt brandskyddskontroll i enlighet
+            med Sotningsutredningens förslag. 2000/01:Fö705 av Amanda Agestav
+            (kd): Riksdagen tillkännager för regeringen som sin mening vad
+            i motionen anförs om avreglering av sotningsmonopolet. 2000/01:Fö717
+            av Helena Bargholtz (fp): Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om behovet av förändringar
+            rörande sotningsväsendet. 2000/01:Fö719 av Roy Hansson (m): Riksdagen
+            tillkännager för regeringen som sin mening vad i motionen anförs
+            om att avskaffa sotningsmonopolet. Motioner från allmänna motionstiden
+            2001/02 2001/02:Fö201 av Rolf Gunnarsson (m): Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om villkoren
+            för och rekryteringen av deltidsbrandmän. 2001/02:Fö211 av Anders
+            G Högmark och Jan-Evert Rådhström (m): Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om skyndsamma
+            åtgärder för att säkerställa deltidsbrandmännens medverkan i den
+            framtida brand- och räddningstjänsten. 2001/02:Fö219 av Sören
+            Lekberg och Anita Johansson (s): Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om att slopa den obligatoriska
+            rensningen av imkanaler i bostadskök. 2001/02:Fö224 av Lars Björkman
+            och Anders G Högmark (m): Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om registrering och utnyttjande
+            av lagrad information kring farligt gods. 2001/02:Fö233 av Kent
+            Härstedt och Annika Nilsson (s): 1. Riksdagen tillkännager för
+            regeringen som sin mening vad i motionen anförs om behovet av
+            en översyn av säkerheten vid allmänna badanläggningar. 2. Riksdagen
+            tillkännager för regeringen som sin mening vad i motionen anförs
+            om att regeringen bör återkomma till riksdagen med förslag på
+            lämpliga åtgärder. 2001/02:Fö234 av Anita Sidén och Cecilia Magnusson
+            (m): Riksdagen tillkännager för regeringen som sin mening vad
+            i motionen anförs om den kommunala räddningstjänstens rätt att
+            av företag ta betalt för tillsyns- och myndighetsutövning. 2001/02:Fö240
+            av Urban Ahlin och Carina Ohlsson (s): Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om behovet
+            av att hindra onödig tidsspillan vid räddningsinsatser. 2001/02:Fö242
+            av Chatrine Pålsson (kd): Riksdagen begär att regeringen utreder
+            vilka förändringar som är möjliga att genomföra i syfte att stimulera
+            medborgare att åta sig frivilliga samhällsuppdrag, utan att behöva
+            drabbas av orimliga marginalskatteeffekter. 2001/02:Fö262 av Ann-Kristine
+            Johansson (s): Riksdagen tillkännager för regeringen som sin mening
+            vad i motionen anförs om räddningstjänstlagen. 2001/02:Fö268 av
+            Rigmor Stenmark och Birgitta Carlsson (c): Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om en översyn
+            av räddningstjänstlagen beträffande brandskydd för medeltida kyrkor.
+            2001/02:So501 av Agne Hansson m.fl. (c): 13. Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om att minimera
+            transporter av miljöfarligt gods i innerstadsområden. 2001/02:A317
+            av Gudrun Schyman m.fl. (v): 26. Riksdagen tillkännager för regeringen
+            som sin mening att Räddningsverket behöver utveckla åtgärder i
+            syfte att öka andelen personer med utländsk bakgrund inom brandmannayrket.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

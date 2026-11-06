@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200910_TU_0026">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">EU-kommissionen har presenterat ett arbetsdokument om framtidens strategi för de transeuropeiska transportnäten, förkortat TEN-T. TEN-T syftar bland annat till att knyta ihop EU-ländernas nätverk för transporter. Kommissionen vill ha in förslag och synpunkter kring de idéer och frågor som presenteras. Trafikutskottet har granskat dokumentet och vill bland annat framföra följande. Det är viktigt att de olika transportslagen samverkar och att transportsystemen blir mer miljövänliga. Effektiva och långsiktigt hållbara godstransportkorridorer behöver utvecklas. Intelligenta transportsystem bör utgöra en viktig del i den framtida strategin.. Det behövs ett fokus på tjänstekvaliteten för passagerare. Informationen till trafikanterna måste vara tillförlitlig och lättillgänglig. Hänsyn måste tas till ökad sårbarhet till följd av klimatförändringar. När det gäller sammanlänkningen med nät i tredjeländer måste den nordliga dimensionen och den gemensamma strategin för Östersjöområdet uppmärksammas. Det är viktigt med transparens när man genomför TEN-T och att arbetet följs upp och utvärderas. Riksdagen avslutade ärendet och skickade utlåtandet till Regeringskansliet och för kännedom till EU-kommissionen.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Framtidens strategi för EU-ländernas transportnät (TU26)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Utlåtandet läggs till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GX09143</idno>
+              <title>2010-06-23</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">143</biblScope>
+              <note type="display-reference">2010-06-23</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GX09142</idno>
+              <title>2010-06-22</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">142</biblScope>
+              <note type="display-reference">2010-06-22</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2010-06-16">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2010-06-15">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-06-15">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2010-06-15">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-06-15">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-06-15">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-06-08">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-06-08">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2010-06-23">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2010-06-23">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2010-06-23">
+            <label>Beslut</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-06-22">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-06-22">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-06-21">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-06-21">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-06-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-06-18">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Trafikutskottets utlåtande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2009/10:TU26
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Framtidens strategi för de transeuropeiska transportnäten
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACRSW" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            Utskottet behandlar i detta utlåtande kommissionens arbetsdokument
+            <seg rend="grad2">
+              Samråd om framtidens strategi för de transeuropeiska transportnäten
+            </seg>
+            , KOM (2010) 212.
+          </p>
+          <p>
+            Utskottet ansluter sig till de allmänna principerna för utformningen
+            av de transeuropeiska transportnäten (TEN-T) som redovisas i kommissionens
+            arbetsdokument. Utskottet betonar vikten av samverkan mellan transportslagen
+            och behovet av att skapa ett mer miljövänligt transportsystem.
+            Utskottet förespråkar i detta sammanhang utvecklingen av effektiva
+            och långsiktigt hållbara godstransportkorridorer. Utskottet välkomnar
+            även ett ökat fokus på tjänstekvaliteten för passagerare och anför
+            att detta måste understödjas av tillförlitlig och lättillgänglig
+            trafikantinformation. Vidare understryks att intelligenta transportsystem
+            bör utgöra en viktig del i den framtida strategin för TEN-T. Utskottet
+            pekar också på behovet av att ta hänsyn till de sårbarhetsfrågor
+            som uppstår till följd av de befarade klimatförändringarna.
+          </p>
+          <p>
+            Beträffande sammanlänkningen mellan TEN-T och nät i tredjeländer
+            framhåller utskottet betydelsen av den nordliga dimensionen i
+            EU:s externa och gränsöverskridande politik liksom vikten av den
+            gemensamma strategin för Östersjöområdet.
+          </p>
+          <p>
+            Utskottet framhåller behovet av transparens och tydlighet vid
+            genomförandet av TEN-T. Utskottet betonar också vikten av uppföljning
+            och utvärdering för att bl.a. säkerställa att gemenskapens medel
+            används på ett effektivt sätt.
+          </p>
+          <p xml:id="IDAWRSW" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Europeiska kommissionens arbetsdokument Samråd om framtidens
+                  strategi för de transeuropeiska transportnäten
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger utlåtandet till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="justeringsdatum">
+            Stockholm den 15 juni 2010
+          </p>
+          <p>
+            På trafikutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Lena Hallengren
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Lena Hallengren (s),
+            Oskar Öholm (m), Christina Axelsson (s), Sven Bergström (c), Hans
+            Stenberg (s), Nina Larsson (fp), Eliza Roszkowska Öberg (m), Annelie
+            Enochson (kd), Sten Bergheden (m), Peter Pedersen (v), Pia Nilsson
+            (s), Ingemar Vänerlöv (kd), Karin Svensson Smith (mp), Malin Löfsjögård
+            (m), Lars Mejern Larsson (s), Désirée Liljevall (s) och Ulf Grape
+            (m).
+          </p>
+          <p xml:id="IDAYUSW" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDA1USW" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Kammaren har den 1 juni 2010 hänvisat Europeiska kommissionens
+            arbetsdokument
+            <seg rend="grad2">
+              Samråd om framtidens strategi för de transeuropeiska transportnäten
+            </seg>
+            (KOM(2010) 212) till trafikutskottet.
+          </p>
+          <p>
+            I arbetsdokumentet, som publicerades den 4 maj 2010, uppmanar
+            kommissionen berörda parter att senast den 15 september 2010 lämna
+            förslag och synpunkter kring de idéer och frågor som presenteras
+            i dokumentet och i två anknytande dokument.
+          </p>
+          <p>
+            Utskottet har tidigare under mandatperioden i utlåtande 2008/09:TU10
+            behandlat kommissionens grönbok
+            <seg rend="grad2">
+              Transeuropeiska transportnät (TEN-T): En översyn av strategin
+              (KOM(2009) 44). Utskottet har vidare under innevarande riksmöte
+              i utlåtande 2009/10:TU4 behandlat kommissionens meddelande Hållbara
+              framtida transporter Ett integrerat, teknikstyrt och användarvänligt
+              transportsystem
+            </seg>
+            (KOM(2009) 279). Utskottet har också i yttrande 2009/10:TU1y
+            behandlat transportpolitiska frågor inom ramen för framtidsstrategin
+            EU 2020.
+          </p>
+          <p xml:id="IDATVSW" rend="rubrik2">
+            Arbetsdokumentets huvudsakliga innehåll
+          </p>
+          <p xml:id="IDAWVSW" rend="r3">
+            Inledning
+          </p>
+          <p>
+            Översynen av strategin för de transeuropeiska transportnäten
+            (TEN-T) bör enligt kommissionen ses mot bakgrund av den bredare
+            framtidsstrategin EU 2020 (KOM(2010) 2020) där kommissionen lägger
+            fram förslag om att modernisera och minska koldioxidutsläppen
+            inom transportsektorn. Översynen är också kopplad till det pågående
+            arbetet inom kommissionen med att utarbeta en vitbok för framtidens
+            transportpolitik.
+          </p>
+          <p>
+            Kommissionen påminner om att översynen av politiken för TEN-T
+            inleddes i februari 2009 med grönboken om den framtida utvecklingen
+            av TEN-T (KOM(2009) 44). Vid den efterföljande konsultationen
+            fanns enligt kommissionen ett majoritetsstöd för en struktur med
+            två nivåer: dels ett övergripande nät som ska utgöra basnivån
+            för TEN-T, dels ett stomnät som ska vara ett slags överbyggnad
+            till det övergripande nätet och där ett genuint europeiskt planeringsperspektiv
+            kan komma till uttryck. Kommissionen inrättade därefter sex expertgrupper
+            som bistått kommissionen i utarbetandet av en metod för planeringen
+            av framtidens TEN-T inför en stundande översyn av riktlinjerna
+            för dessa. Expertgrupperna har fokuserat på planeringsrelaterade
+            frågor, liksom finansiella och rättsliga aspekter.
+          </p>
+          <p xml:id="IDA5VSW" rend="r3">
+            Metod för TEN-T-planering
+          </p>
+          <p>
+            Kommissionen anför att det framtida
+            <seg rend="grad2">
+              övergripande nätet
+            </seg>
+            bör, liksom i dag, garantera tillgänglighet och tillträde till
+            stamnätet samt bidra till den inre sammanhållningen i unionen
+            och en effektiv inre marknad. Nätet ska enligt kommissionen på
+            ett lämpligt sätt länka samman alla EU:s regioner, vara multimodalt
+            och fungera som infrastrukturbas för sammodala tjänster för passagerar-
+            och godstrafik. Det framtida nätet ska uppdatera det nuvarande
+            övergripande nätet och bl.a. tillföra sådana utvalda och väldefinierade
+            förbindelser och noder som fattas i dagsläget och undanröja stickspår
+            och isolerade förbindelser som inte är befogade av geografiska
+            skäl.
+          </p>
+          <p>
+            <seg rend="grad2">
+              Stomnätet
+            </seg>
+            ska enligt kommissionen bestå av sträckningar och noder av högsta
+            strategiska och ekonomiska betydelse för hela EU. Nätet ska täcka
+            samtliga transportmedel, omfatta intelligenta transportsystem
+            (ITS) och vid behov tillhandahålla ytterligare infrastruktur,
+            inte minst för att knyta samman öst och väst. Enligt kommissionen
+            bör TEN-T också på ett mer strategiskt sätt knytas samman med
+            central infrastruktur i tredjeländer (kandidatländer och länder
+            som omfattas av den europeiska grannskapspolitiken, bl.a. i Medelhavsområdet).
+            Kommissionen understryker att det nya stomnätet inte ska uppfattas
+            som inledningen till ett nytt infrastrukturprogram med enorm räckvidd,
+            men att det snarare handlar om att garantera kontinuitet för pågående
+            projekt och att undanröja flaskhalsar.
+          </p>
+          <p>
+            De allmänna principerna för utformningen av TEN-T omfattar enligt
+            kommissionen följande:
+          </p>
+          <p rend="punktlistaLista">
+            Multimodalitet
+          </p>
+          <p rend="punktlistaLista">
+            Samtrafik och nätoptimering
+          </p>
+          <p rend="punktlistaLista">
+            Driftskompatibilitet och ökad effektivitet för alla transportsätt
+          </p>
+          <p rend="punktlistaLista">
+            Hållbarhet, genom minskade växthusgasutsläpp och efterlevnad
+            av EU:s miljölagstiftning
+          </p>
+          <p rend="punktlistaLista">
+            Uppmärksamhet på skyddet av biologisk mångfald
+          </p>
+          <p rend="punktlistaLista">
+            Fokus på tjänstekvalitet både för godstrafikkunder och passagerare
+          </p>
+          <p rend="punktlistaLista">
+            Trygg och säker transportinfrastruktur
+          </p>
+          <p rend="punktlistaLista">
+            Användning av avancerad teknik och ITS
+          </p>
+          <p rend="punktlistaLista">
+            Minimering av investerings-, underhålls- och driftskostnader.
+          </p>
+          <p>
+            Kommissionen meddelar vidare att planeringen av stomnätet omfattar
+            följande fyra successiva steg:
+          </p>
+          <p rend="punktlistaLista">
+            Identifiering av de noder som bestämmer nätets övergripande utformning.
+          </p>
+          <p rend="punktlistaLista">
+            Sammanlänkning av huvudnoderna och val av intermediära noder
+            som ska integreras i nätet.
+          </p>
+          <p rend="punktlistaLista">
+            Fastställande av de relevanta tekniska parametrar som ska tillämpas,
+            i förhållande till de funktionella behoven och kapacitetsbehovet.
+          </p>
+          <p rend="punktlistaLista">
+            Integrering av relevant materiell eller immateriell kompletterande
+            infrastruktur eller stödinfrastruktur.
+          </p>
+          <p>
+            Det förtydligas att huvudnoderna som bestämmer stomnätets basstruktur
+            kommer att vara de största och viktigaste noderna, såsom medlemsstaternas
+            huvudstäder och andra städer av överregional betydelse, stora
+            yttre hamnar, interkontinentala storhamnar och -flygplatser samt
+            de viktigaste inlandshamnarna och godsterminalerna. Mindre viktiga
+            städer, flygplatser, godsterminaler etc. kommer att utgöra intermediära
+            noder.
+          </p>
+          <p>
+            Kommissionen framhåller att stomnätet bör prioritera de transportinfrastrukturrelaterade
+            åtgärder som vuxit fram ur EU-politiska mål som t.ex. följer av
+            EU 2020-strategins transport-, energi-, klimat- eller innovationspolitik.
+            Kommissionen lyfter i sammanhanget fram ITS betydelse för att
+            bl.a. främja energieffektivitet, miljöprestanda, trygghet och
+            säkerhet samt mobilitet för passagerare och gods. Vidare påtalas
+            att TEN-T måste uppfylla krav på flexibilitet för att bl.a. ge
+            utrymme för löpande utveckling av kriterier och standarder. TEN-T
+            ska kunna beakta tekniska framsteg och följaktligen kunna ta emot
+            nya generationer fordon och stimulera till framsteg på infrastrukturområdet,
+            särskilt när det gäller energiförsörjningen för transporter. Kommissionen
+            anger att användningen av rena, alternativa bränslen bör främjas
+            som en integrerad del av den framtida TEN-T-utvecklingen.
+          </p>
+          <p xml:id="IDAZZTW" rend="r3">
+            Genomförande av TEN-T
+          </p>
+          <p>
+            Kommissionen understryker vikten av att garantera överensstämmelse
+            mellan nätplaneringens tillämpningsområde och de medel och verktyg
+            som står till förfogande för genomförandet, både på nationell
+            nivå och på gemenskapsnivå.
+          </p>
+          <p>
+            Efter det att planeringsprocessen utmynnat i definitionen av
+            TEN-T, är det nödvändigt att bedöma och prioritera olika infrastrukturprojekt.
+            För att projekt med högst mervärde för EU ska kunna genomföras
+            betonas i arbetsdokumentet vikten av hur sådana projekt ska identifieras
+            samt att dessa sedermera genomförs på ett samordnat sätt.
+          </p>
+          <p>
+            Enligt den nu gällande budgetplanen (20072013) finansieras TEN-T-projekt,
+            förutom genom nationell finansiering, genom samfinansiering från
+            TEN-T-programmet (8 miljarder euro), Europeiska regionala utvecklingsfonden
+            (Eruf) och sammanhållningsfonden (43 miljarder euro) samt lån
+            och andra finansiella instrument från Europeiska investeringsbanken
+            (65 miljarder euro). Kommissionen anser att det bör övervägas
+            att införa en integrerad EU-finansieringsram för att samordna
+            de olika EU-instrumenten för transportområdet. Denna finansieringsram
+            bör enligt kommissionen inte begränsas till stöd för investeringar
+            i infrastruktur, utan föreslås också kunna bidra till att integrera
+            andra inslag med anknytning till transportpolitiken (t.ex. införande
+            av ny teknik, gröna korridorer, forskning och utveckling på transportområdet)
+            i syfte att främja etableringen av integrerade transportsystem.
+          </p>
+          <p xml:id="IDAF0TW" rend="r3">
+            Den rättsliga och institutionella ramen för översynen av TEN-T-strategin
+          </p>
+          <p>
+            Inför den förestående revideringen av de befintliga riktlinjerna
+            för utbyggnaden av TEN-T uppger kommissionen att ett flertal ändringar
+            kommer att övervägas i EU-lagstiftningen, exempelvis en ny förordning
+            som gemensam rättsakt för riktlinjerna och beviljandet av finansiellt
+            gemenskapsstöd. Det föreslås vidare ändringar i definitionen av
+            mål, innehåll och tillämpningsområde i syfte att göra det lättare
+            att reagera på den löpande utvecklingen och uppfylla kraven på
+            flexibilitet.
+          </p>
+          <p xml:id="IDAL0TW" rend="r3">
+            Frågeställningar
+          </p>
+          <p>
+            Baserat på redogörelsen i arbetsdokumentet ställer kommissionen
+            ett antal frågor som berörda intressenter uppmanas ta ställning
+            till:
+          </p>
+          <p rend="punktlistaLista">
+            Är de principer och kriterier för utformning av stomnätet som
+            beskrivs i kommissionens arbetsdokument adekvata och praktiskt
+            tillämpliga? Vilka är deras starka respektive svaga punkter, och
+            är det något annat som bör beaktas?
+          </p>
+          <p rend="punktlistaLista">
+            I vilken utsträckning bidrar de kompletterande infrastrukturåtgärderna
+            till målet att skapa ett framtidsorienterat transportsystem? Finns
+            det något sätt att stärka deras bidrag till detta?
+          </p>
+          <p rend="punktlistaLista">
+            Vilken särskild roll skulle TEN-T-planeringen rent allmänt kunna
+            spela för att öka transportsektorns bidrag till Europa 2020-agendans
+            strategiska mål?
+          </p>
+          <p rend="punktlistaLista">
+            På vilket sätt kan de olika källorna till EU-finansiering samordnas
+            bättre och/eller kombineras för att påskynda TEN-T-projektens
+            genomförande och uppfyllandet av de politiska målen?
+          </p>
+          <p rend="punktlistaLista">
+            Hur kan EU:s finansieringsstrategi samordna och/eller kombinera
+            olika finansieringskällor på EU-nivå och nationell nivå samt offentlig
+            och privat finansiering?
+          </p>
+          <p rend="punktlistaLista">
+            Skulle införandet av en EU-finansieringsram vara ett lämpligt
+            sätt att åtgärda det bristande genomförandet när det gäller TEN-T-projekten
+            och de politiska målen?
+          </p>
+          <p rend="punktlistaLista">
+            På vilket sätt kan TEN-T-politiken dra nytta av de nya rättsliga
+            instrument och bestämmelser som beskrivs i kommissionens arbetsdokument?
+          </p>
+          <p xml:id="IDAD2TW" rend="AvsnittsRubrik">
+            Utskottets granskning
+          </p>
+          <p xml:id="IDAG2TW" rend="r3">
+            Inledande synpunkter
+          </p>
+          <p>
+            Det europeiska transportsystemet är en viktig förutsättning för
+            en fungerande europeisk marknad och hållbar tillväxt. Utskottet
+            välkomnar därför kommissionens initiativ till ett fortsatt samråd
+            om den framtida strategin för de transeuropeiska transportnäten
+            (TEN-T). Det är enligt utskottets mening angeläget att skapa en
+            bred delaktighet i utformningen av denna strategi. Genom ett omfattande
+            samrådsförfarande ges goda förutsättningar för att forma en väl
+            förankrad, ändamålsenlig och framtidsanpassad strategi till gagn
+            för hela unionen.
+          </p>
+          <p xml:id="IDAM2TW" rend="r3">
+            Planering av TEN-T
+          </p>
+          <p>
+            Utskottet är positivt till att kommissionen, efter konsultationen
+            om grönboken om översynen av politiken för TEN-T (KOM(2009) 44),
+            valt att arbeta vidare med ett planeringsalternativ bestående
+            av ett övergripande nät och ett stomnät.
+          </p>
+          <p>
+            Utskottet kan vidare ansluta sig till de allmänna principerna
+            för utformningen av TEN-T som redovisas i kommissionens arbetsdokument.
+            Utskottet vill understryka vikten av att de europeiska transportnätverken
+            utvecklas till transportkorridorer som på ett effektivt sätt kan
+            knyta länderna inom EU och angränsande områden närmare varandra.
+            Utskottet vill även betona att
+            <seg rend="grad2">
+              samverkan mellan transportslagen
+            </seg>
+            är betydelsefullt för att uppnå högre effektivitet och lägre
+            transportkostnader samt för att minska negativ miljöpåverkan.
+          </p>
+          <p>
+            <seg rend="grad2">
+              Klimatfrågorna kommer att finnas högt på de politiska dagordningarna
+              under lång tid såväl på den globala arenan som i EU och i de enskilda
+              medlemsstaterna. Övergången till ett samhälle som är anpassat
+              till klimatförändringarna och minskade utsläpp av växthusgaser
+              kommer att för överskådlig framtid vara en nödvändig utgångspunkt
+              för såväl den nationella som den internationella politiken. Behovet
+              av att dels minska utsläppen av växthusgaser, dels genomföra nödvändiga
+              anpassningar till ett förändrat klimat är särskilt påtagligt inom
+              transportsystemet. Transportsektorn måste bli mer miljövänlig
+              och medel måste satsas på klimatsmarta lösningar, exempelvis stöd
+              för att utveckla effektiva och långsiktigt hållbara godstransportkorridorer
+            </seg>
+            eller för att öka järnvägens och sjöfartens andel av godstransporterna.
+            Detta måste tydligt återspeglas i den framtida strategin för TEN-T.
+            Satsningarna bör utgå ifrån en gemensam strategi för minskade
+            utsläpp och nödvändig klimatanpassning. Utskottet vill i sammanhanget
+            framhålla att mycket återstår att göra över nationsgränserna för
+            att se till att godstågstrafiken genom Europa sker på ett mer
+            effektivt och smidigt sätt, och med en högre hastighet för att
+            därigenom kunna utgöra ett fullgott alternativ till lastbilstransporter.
+            Utskottet förespråkar särskilt s.k. gröna korridorer som ett sätt
+            att begränsa trafikens negativa miljöeffekter och minska trängseln,
+            samtidigt som konkurrenskraften ökas. I Sverige bedrivs ett arbete
+            med denna inriktning inom det logistikforum som regeringen inrättade
+            i maj 2007. Enligt utskottets uppfattning kan EU:s transportpolitik
+            utvecklas genom internationella partnerskap som skapar gröna transportkorridorer
+            till och från Norden. Detta system skulle kunna tjäna som exempel
+            inom övriga Europa.
+          </p>
+          <p>
+            Av stor betydelse för det europeiska transportsystemet är också
+            trafikutvecklingen i Europas städer. Det är enligt utskottet angeläget
+            att främja en
+            <seg rend="grad2">
+              hållbar rörlighet i våra städer
+            </seg>
+            . Utskottet vill därför understryka kopplingen mellan stadstransporter
+            och det transeuropeiska transportnätet.
+          </p>
+          <p>
+            En aspekt som enligt utskottet inte synes ha beaktats i tillräcklig
+            grad av kommissionen gäller de förändrade villkor som kommer att
+            gälla till följd av klimatförändringarna. Översvämningar, ras
+            och skred är exempel på händelser som kan förväntas ske med ökad
+            frekvens på grund av de befarade klimatförändringarna. En särskild
+            fokusering på
+            <seg rend="grad2">
+              sårbarhetsfrågor
+            </seg>
+            bör därför göras när det gäller såväl planerad som befintlig
+            infrastruktur. Enligt utskottets mening bör man i den gemensamma
+            transportpolitiken uppmärksamma frågan i än högre grad och verka
+            för att ny infrastruktur byggs under hänsynstagande till dessa
+            förväntade risker.
+          </p>
+          <p>
+            Utskottet instämmer med kommissionen i att
+            <seg rend="grad2">
+              intelligenta transportsystem (ITS), innovation och ny teknologi
+              utgör en viktig del i den framtida strategin för TEN-T. Genom
+              användningen av IT i transportsystemet erbjuds stora möjligheter
+              att bl.a. effektivisera transporter, minska logistikkostnader
+              och minska belastningen på miljön. Vidare bidrar ITS till att
+              systemen kan anpassas efter användarnas behov och önskemål av
+              sömlösa transporter och smidiga byten mellan transportslag. ITS
+              bidrar även till att öka säkerheten och minska sårbarheten i transportsystemet,
+              inte minst vid transporter av farligt gods. Utskottet vill i sammanhanget
+              framhålla kommissionens bedömning om att utformningen av TEN-T
+              måste tillgodose behovet av flexibilitet
+            </seg>
+            över tiden. Det måste vara möjligt för TEN-T att ta hänsyn till
+            den löpande tekniska utvecklingen, inte minst när det gäller användningen
+            av rena alternativa bränslen.
+          </p>
+          <p>
+            Utskottet vill även betona att TEN-T är av stor betydelse för
+            persontrafikens utveckling och ger bl.a. förutsättningar för att
+            det framtida resandet inom gemenskapen kan kanaliseras på ett
+            klimatsmartare, energieffektivare och säkrare sätt där järnvägen
+            ges en ökad roll. Utvecklingen av transportinfrastrukturen inom
+            gemenskapen bör därför inriktas mot att skapa kommunikationer
+            med utgångspunkt från resenärers, företags och samhällets behov
+            som samtidigt är förenligt med EU:s klimat- och energipaket. Utskottet
+            välkomnar ett ökat fokus på
+            <seg rend="grad2">
+              tjänstekvaliteten för passagerare
+            </seg>
+            och vill med anledning av detta särskilt framhålla vikten av
+            att transportsystemet understöds av system för trafik- och reseinformation
+            som förser resenärerna med information som är tillförlitlig och
+            lättillgänglig. Utskottet vill även betona vikten av att beakta
+            den demografiska utvecklingen. Med en åldrande befolkning kommer
+            bl.a. kraven på bra lösningar för resenärer med nedsatt rörlighet
+            att öka.
+          </p>
+          <p>
+            Kommissionens arbetsdokument berör frågan om sammanlänkning mellan
+            TEN-T och nät i tredjeländer. Utskottet vill i sammanhanget framhålla
+            den
+            <seg rend="grad2">
+              nordliga dimensionen i EU:s externa och gränsöverskridande politik
+              och även påminna om att EU-länderna i oktober 2009 enades om att
+              anta en gemensam strategi för Östersjöregionen
+            </seg>
+            . Strategin syftar bl.a. till att fördjupa och förbättra arbetet
+            inom några prioriterade politikområden, däribland tillgänglighet,
+            vilket innefattar transport- och infrastrukturfrågor. Strategin
+            bör i ett längre perspektiv kunna leda till ett än mer fördjupat
+            samarbete länderna emellan när det gäller t.ex. transport- och
+            infrastrukturplanering och på så vis skapa effektiva transportstråk
+            som kan utvecklas till gröna transportkorridorer. Utskottet vill
+            betona att EU:s Östersjöregion har en viktig transportpolitisk
+            roll, inte minst för framtidens råvaruförsörjning och handeln
+            med nya marknader i t.ex. Asien.
+          </p>
+          <p>
+            Utskottet vill också understryka vikten av att såväl den nordiska
+            triangeln som sjömotorvägarna även fortsättningsvis ses som prioriterade
+            initiativ. Utskottet vill dessutom framhålla behovet av att även
+            prioritera dels transportkorridoren norra axeln, som länkar samman
+            de nordliga delarna av Sverige, Norge, Finland och Ryssland, dels
+            den botniska korridoren, dvs. den nordsydliga transportkorridoren
+            som förbinder Barentsområdet i norra Sverige och Finland med den
+            viktiga nordiska triangeln i ländernas södra delar och därifrån
+            vidare ut i Europa.
+          </p>
+          <p xml:id="IDAV4TW" rend="r3">
+            Genomförande av TEN-T
+          </p>
+          <p>
+            TEN-T-strategin kan enbart framstå som trovärdig om den valda
+            planeringsmodellen och genomförandekapaciteten är i samklang.
+            Utskottet välkomnar mot denna bakgrund kommissionens förtydligande
+            om att planerna på ett stomnät inte ska uppfattas som inledningen
+            till ett nytt infrastrukturprogram med enorm räckvidd, men att
+            avsikten snarare är att garantera kontinuitet för pågående projekt
+            och att undanröja flaskhalsar samtidigt som nätet i stor utsträckning
+            bygger på befintlig infrastruktur.
+          </p>
+          <p>
+            Ny infrastruktur är dyr. Det har också visat sig vara svårt att
+            få träffsäkerhet i kalkylerna, och inte sällan underskattas kostnaderna.
+            Att i första hand undersöka möjligheten till ett optimalt utnyttjande
+            av befintliga anläggningar är därför rationellt. Utskottet finner
+            att den s.k.
+            <seg rend="grad2">
+              fyrstegsprincipen
+            </seg>
+            som tillämpas i Sverige kan tjäna som modell i detta sammanhang.
+            Principen innebär att man först ska överväga sådana åtgärder som
+            kan påverka transportbehovet och valet av transportsätt. I ett
+            andra steg prövas åtgärder som ger effektivare utnyttjande av
+            befintlig infrastruktur, i det tredje steget prövas begränsade
+            utbyggnadsåtgärder, och först i ett fjärde steg prövas nyinvesteringar
+            i form av omfattande om- eller nybyggnader. Utskottet vill i sammanhanget
+            också betona vikten av att använda upphandlingsinstrumentet för
+            ett mer effektivt byggande.
+          </p>
+          <p>
+            Utskottet vill vidare understryka behovet av
+            <seg rend="grad2">
+              transparens och tydlighet
+            </seg>
+            . Utskottet kan mot denna bakgrund ställa sig bakom kommissionens
+            förslag om en integrerad EU-finansieringsram för att samordna
+            de olika EU-instrumenten för transportområdet. Otydliga avgränsningar
+            mellan de olika finansieringsinstrumenten skulle härigenom kunna
+            undvikas. Utskottet vill betona vikten av att tilldelningen av
+            gemenskapsmedel sker enligt objektiva kriterier. En fördelning
+            av medel på diffusa eller kortsiktiga politiska bedömningsgrunder
+            riskerar att ske på bekostnad av en optimering av nyttan med stödet.
+          </p>
+          <p>
+            Utskottet vill också framhålla behovet av ett ökat fokus på kostnadskontrollen
+            av investeringsprojekten. Ett gediget arbete med kalkyler och
+            riskbedömningar bör göras i tidiga skeden i projekten. Utskottet
+            vill i sammanhanget också betona betydelsen av
+            <seg rend="grad2">
+              uppföljning och utvärdering
+            </seg>
+            av genomförda åtgärder. Detta är särskilt betydelsefullt på transportområdet
+            där det ofta handlar om stora och kostsamma investeringar. Det
+            är även viktigt med en löpande återrapportering om i vilken grad
+            insatta resurser bidrar till uppfyllelsen av fastlagda mål. Tillsammans
+            med kravet på god genomlysning borgar detta för att gemenskapens
+            medel används på ett effektivt och korrekt sätt och, inte minst,
+            för korrekta ändamål.
+          </p>
+          <p xml:id="IDA25TW" rend="Bilaga">
+            Bilaga
+          </p>
+          <p xml:id="IDACIUW" rend="BilageRubrik">
+            Förteckning över behandlade dokument
+          </p>
+          <p>
+            Europeiska kommissionens arbetsdokument
+            <seg rend="grad2">
+              Samråd om framtidens strategi för de transeuropeiska transportnäten
+              (KOM(2010) 212)
+            </seg>
+            .
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

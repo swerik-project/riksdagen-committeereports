@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200304_FIU_0019">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksbanken får rätt att ge ut föreskrifter och vitesförelägganden när det gäller verksamhet med anknytning till Riksbankens betalningssystem eller kontantförsörjningsuppdrag. Riksdagen ställde sig bakom Riksbankens lagförslag. De nya reglerna börjar gälla den juli 2004.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Ändringar i lagen om Sveriges riksbank (FiU19)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Delvis bifall till Riksbankens förslag.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottet</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GR09122</idno>
+              <title>2004-05-26</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">122</biblScope>
+              <note type="display-reference">2004-05-26</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GR09121</idno>
+              <title>2004-05-25</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">121</biblScope>
+              <note type="display-reference">2004-05-25</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GR0K242</idno>
+              <title>2003/04:242</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">242</biblScope>
+              <note type="display-reference">2003/04:242</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1988:1385</idno>
+              <note type="display-reference">2004:668</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="frsrdg">
+              <idno type="riksdagen">GR04RB3</idno>
+              <title>Vissa ändringar i lagen (1988:1385) om Sveriges riksbank</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">RB3</biblScope>
+              <note type="display-reference">forslag 2003/04:RB3 Vissa ändringar i lagen (1988:1385) om Sveriges riksbank</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TROWE" subtype="beredning" n="70" when="2004-05-20">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2004-05-17">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2004-05-17">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2004-05-17">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2004-05-13">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2004-05-13">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2004-05-06">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2004-05-06">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2004-05-26">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2004-05-26">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2004-05-26">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2004-05-25">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2004-05-25">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2004-05-21">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2004-05-21">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Finansutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2003/04:FIU19
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Ändringar i lagen (1988:1385) om Sveriges riksbank(2003/04:RB3)
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I betänkandet behandlar utskottet Riksbankens
+            förslag 2003/04:RB3 om vissa ändringar i lagen (1988:1385) om
+            Sveriges riksbank (riksbankslagen). Riksbanken föreslår ändringar
+            i riksbankslagen som innebär att Riksbanken ges rätt att utfärda
+            föreskrifter och vitesföreläggande såvitt avser verksamhet med
+            anknytning till Riksbankens betalningssystem eller kontantförsörjningsuppdrag.
+            Ändringarna föreslås träda i kraft den 1 juli 2004. Ingen motion
+            har väckts i ärendet. Utskottet tillstyrker Riksbankens lagförslag
+            med vissa tekniska justeringar.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Föreskriftsrätt Riksdagen
+            antar Riksbankens förslag till lag om ändring i lagen (1988:1385)
+            om Sveriges riksbank såvitt avser 1 kap. 2 §, med den ändringen
+            att 1 kap. 2 § får den lydelse som framgår av bilaga 3 (utskottets
+            lagförslag). Därmed bifaller riksdagen delvis förslag 2003/04:RB3
+            i denna del. 2. Vite m.m. Riksdagen antar Riksbankens förslag
+            till lag om ändring i lagen (1988:1385) om Sveriges riksbank såvitt
+            avser 6 kap. 9 §, 11 kap. 2 a och 3 §§. Därmed bifaller riksdagen
+            förslag 2003/04:RB3 i denna del. 3. Lagförslaget i övrigt Riksdagen
+            antar Riksbankens förslag till lag om ändring i lagen (1988:1385)
+            om Sveriges riksbank i den mån förslaget inte omfattas av vad
+            utskottet föreslagit ovan. Därmed bifaller riksdagen förslag 2003/04:RB3
+            i här behandlad del. Stockholm den 13 maj 2004 På finansutskottets
+            vägnar Sven-Erik Österberg Följande ledamöter har deltagit i beslutet:
+            Sven- Erik Österberg (s), Mikael Odenberg (m), Carin Lundberg
+            (s), Sonia Karlsson (s), Kjell Nordström (s), Lars Bäckström (v),
+            Agneta Ringman (s), Gunnar Axén (m), Bo Bernhardsson (s), Christer
+            Nylander (fp), Hans Hoff (s), Tomas Högström (m), Yvonne Ruwaida
+            (mp), Tommy Ternemar (s), Gunnar Nordmark (fp), Lars Lindén (kd)
+            och Jörgen Johansson (c).
+          </p>
+          <p>
+            2003/04 FiU19 Redogörelse för ärendet Ärendet och dess beredning
+            Riksbanken föreslår att riksdagen ska anta Riksbankens förslag
+            till lag om ändring i lagen (1988:1385) om Sveriges riksbank.
+            Riksbankens förslag återges i bilaga 1 och lagförslaget i bilaga
+            2. Riksbanken föreslår bl.a. ändringar i 7 kap. 7 § lagen om Sveriges
+            riksbank. Regeringen föreslår andra ändringar i samma paragraf
+            i proposition 2003/04:99 Följdändringar med anledning av nya regler
+            för bank- och finansieringsrörelse samt inlåningsverksamhet. Dessa
+            förslag bör samordnas och behandlas därför i utskottets betänkande
+            2003/04:FiU27 Följdändringar med anledning av nya regler för bank-
+            och finansieringsrörelse. Bakgrund Riksdagen har enligt regeringsformen
+            möjlighet att delegera föreskriftsrätt till Riksbanken, utöver
+            det penningpolitiska området, även beträffande bankens uppgift
+            att främja ett säkert och effektivt betalningsväsende. Behovet
+            av att utfärda föreskrifter inom betalningsväsendets område har
+            ökat under senare tid som en följd av förändringar inom såväl
+            betalningssystemområdet som området för sedlar och mynt. Riksbanken
+            remitterade i juni 2003 ett förslag om ändring i riksbankslagen
+            till bl.a. Svea hovrätt, Justitiekanslern, Finansinspektionen,
+            Svenska Bankföreningen, Näringslivets nämnd för regelgranskning
+            och Stockholmsbörsen AB. Därutöver har yttrande inhämtats från
+            Europeiska centralbanken.
+          </p>
+          <p>
+            Utskottets överväganden Föreskriftsrätt Utskottets förslag i
+            korthet Utskottet tillstyrker att riksbankslagen ändras så att
+            Riksbanken får rätt att meddela föreskrifter om verksamhet med
+            anknytning till Riksbankens betalningssystem eller kontantförsörjningsuppdrag.
+            Förslaget Riksbanken föreslår att riksbankslagen ändras så att
+            Riksbanken ges den föreskriftsrätt som riksdagen fått möjlighet
+            att delegera till banken enligt 8 kap. 14 § regeringsformen såvitt
+            avser bankens ansvarsområde att främja ett säkert och effektivt
+            betalningsväsende. Riksbanken föreslår att föreskriftsrätten endast
+            får omfatta föreskrifter som avser verksamhet med anknytning till
+            Riksbankens betalningssystem eller kontantförsörjningsuppdrag.
+            Riksbankens arbete med betalningssystemet syftar till att verka
+            för minskade systemrisker, dvs. risken för att ekonomiska eller
+            tekniska problem hos en aktör sprider sig och hotar det finansiella
+            systemets stabilitet. Övervakning av systemen sker på övergripande
+            nivå. Riksbanken tillhandahåller sedan länge en möjlighet för
+            banker och vissa andra aktörer att avveckla betalningsförpliktelser
+            sinsemellan. Den verksamheten bedrivs inom ramen för RIX (Riksbankens
+            system för stora betalningar). På området för värdepappersavveckling
+            förekommer redan i dag en fördjupad samverkan mellan Riksbankens
+            betalningssystem RIX och VPC:s system för avveckling av värdepappersaffärer.
+            Riksbanken anför att de förväntar sig att utvecklingen av betalningsväsendet
+            kommer att innebära en ökad integration mellan de olika avvecklingssystemen.
+            Förändrade krav kommer att ställas på den reglering som gäller
+            beträffande Riksbankens förhållande till de olika systemaktörerna.
+            Riksbanken bedömer att offentligrättsliga föreskrifter utfärdade
+            av Riksbanken i vissa fall kan komma att behövas för denna reglering,
+            som är ett led i bankens uppdrag att främja betalningsväsendets
+            säkerhet och effektivitet. Utskottets ställningstagande 1 kap.
+            2 § riksbankslagen bör ändras på så sätt att hänvisningen till
+            9 kap. 12 § regeringsformen ändras till 9 kap. 13 § samma lag.
+            Paragrafen har tidigare ändrats genom SFS 2003:840. Utskottet
+            tillstyrker förslaget i övrigt i denna del. Vite m.m. Utskottets
+            förslag i korthet Utskottet tillstyrker förslaget att Riksbanken
+            får utfärda föreskrifter som innebär en skyldighet att utföra
+            en handling, t.ex. upprätthållandet av säkerhets- och kvalitetskrav.
+            Förslaget Riksbanken föreslår att den får utfärda föreskrifter
+            som innebär en skyldighet att utföra en handling, t.ex. upprätthållandet
+            av säkerhets- och kvalitetskrav. Riksbanken anser att det även
+            ska vara möjligt att kunna meddela förbudsföreläggande, t.ex.
+            någon form av sanktionsbestämmelse. Enligt riksbankslagen kan
+            de föreskrifter som i dag utfärdas på statistikområdet förenas
+            med vitesföreläggande. Riksbanken föreslår också vissa redaktionella
+            ändringar i riksbankslagen som bl.a. innebär att några bestämmelser
+            förs samman med andra bestämmelser. Utskottets ställningstagande
+            Utskottet delar Riksbankens uppfattning att banken bör få möjlighet
+            att utfärda föreskrifter som innebär t.ex. en skyldighet att utföra
+            en handling. Förslaget innebär att Riksbanken får möjlighet att
+            meddela vite. Utskottet tillstyrker också Riksbankens förslag
+            om vissa redaktionella ändringar i riksbankslagen. Lagförslaget
+            i övrigt Förslaget Riksbanken föreslår bl.a. ändringar i 7 kap.
+            7 § lagen om Sveriges riksbank. Regeringen föreslår andra ändringar
+            i samma paragraf i proposition 2003/04:99 Följdändringar med anledning
+            av nya regler för bank- och finansieringsrörelse samt inlåningsverksamhet.
+            Samtliga ändringar föreslås träda i kraft den 1 juli 2004. Utskottets
+            ställningstagande Utskottet anser att nämnda paragraf i nu aktuellt
+            ärende av författningstekniska skäl bör sammanföras med de ändringar
+            i samma lagrum som föreslås i proposition 2003/04:99. Detta innebär
+            att lagförslaget i denna del utgår ur detta ärende för att i stället
+            behandlas av utskottet i betänkande 2003/04:FiU27 Följdändringar
+            med anledning av nya regler för bank- och finansieringsrörelse.
+            Utskottet tillstyrker förslaget i övrigt. Bilaga 1 Förteckning
+            över behandlade förslag Framställning 2003/04:RB3:Förslag till
+            ändring i lagen (1988:1385) om Sveriges riksbank Riksbanken hemställer
+            med hänvisning till det ovan anförda att riksdagen antar Riksbankens
+            förslag till ändring i lagen (1988:1385) om Sveriges riksbank
+            enligt vad som sägs i bilaga 1.
+          </p>
+          <p>
+            Bilaga 2 Riksbankens lagförslag Förslag till ändring i lagen
+            (1988:1385) om Sveriges riksbank Riksbanken har följande förslag
+            till lagtext. Härigenom föreskrivs i fråga om lagen (1988:1385)
+            om Sveriges riksbank dels att 1 kap. 2 §, 6 kap. 9 §, 7 kap. 7
+            § och 11 kap. 3 § skall ha följande lydelse, dels att det i 11
+            kap. skall införas en ny bestämmelse, 11 kap. 2 a §, av följande
+            lydelse. -----------------------------------------------------
+            Nuvarande lydelse Föreslagen lydelse -----------------------------------------------------
+            1 kap. 2 § -----------------------------------------------------
+            Riksbanken har enligt 9 Riksbanken har enligt 9 kap. 12 § regeringsformen
+            kap. 12 § regeringsformen ansvaret för ansvaret för penningpolitiken.
+            penningpolitiken. Riksbanken får inom detta ansvarsområde utfärda
+            föreskrifter. -----------------------------------------------------
+            Målet för Riksbankens verksamhet skall vara att upprätthålla ett
+            fast penningvärde. -----------------------------------------------------
+            Riksbanken skall också Riksbanken skall också främja ett säkert
+            och främja ett säkert och effektivt effektivt betalningsväsende.
+            betalningsväsende. -----------------------------------------------------
+            . Riksbanken får meddela före-skrifter inom ramen för sitt ansvar
+            för penningpolitiken. Riksbanken får även meddela föreskrifter
+            såvitt avser verksamhet med anknytning till Riksbankens betalningssystem
+            eller kontantförsörjningsuppdrag. -----------------------------------------------------
+            6 kap. 9 § -----------------------------------------------------
+            Efter anmodan av Riksbanken skall ett finansinstitut eller annat
+            företag som står under tillsyn av Finansinspektionen till Riksbanken
+            lämna de uppgifter som Riksbanken anser nödvändiga för att 1.
+            följa utvecklingen på valuta- och kreditmarknaderna, 2. övervaka
+            betalningssystemets stabilitet. Den som för egen eller annans
+            räkning har utfört transaktioner med utländsk motpart eller hållit
+            tillgångar och skulder med utlandsanknytning är skyldig att till
+            Riksbanken lämna de uppgifter som behövs som underlag för Riksbankens
+            betalningsbalansstatistik och för statistik över utlandsställningen.
+            ----------------------------------------------------- Riksbanken
+            får utfärda Riksbanken får utfärda närmare föreskrifter om närmare
+            föreskrifter om uppgiftsskyldigheten uppgiftsskyldigheten enligt
+            första och andra enligt första och andra stycket. Om någon inte
+            stycket. fullgör föreskriven skyldighet får Riksbanken förelägga
+            honom vite. -----------------------------------------------------
+            7 kap. 7 § -----------------------------------------------------
+            Riksbanken får med eller Riksbanken får med eller utan räntegottgörelse
+            ta utan räntegottgörelse ta emot insättningar i emot insättningar
+            i valuta eller guld från valuta eller guld från, andra stater,
+            och göra sådana mellanstatliga organ samt insättningar hos, svenska
+            svenska och utländska banker, utländska banker. Riksbanken får
+            bankföretag, göra sådana insättningar centralbanker, Banken för
+            hos svenska och utländska internationell banker. betalningsutjämning
+            (BIS) och Internationella återuppbyggnads- och utvecklingsbanken
+            (IBRD). Riksbanken får även ta emot sådana insättningar från andra
+            stater och mellanstatliga organ. -----------------------------------------------------
+            Riksbanken får även ingå avtal om skyldigheter och rättigheter
+            som anknyter till de insättningar som anges i första stycket.
+            ----------------------------------------------------- 11 kap.
+            2 a § ----------------------------------------------------- Riksbanken
+            får meddela föreläggande eller förbud som behövs för att föreskrifter
+            som meddelats enligt 1 kap. 2 § eller 6 kap. 9 § skall efterlevas.
+            I beslut om föreläggande eller förbud får Riksbanken utsätta vite.
+            ----------------------------------------------------- 3 § -----------------------------------------------------
+            Den som inte fullgör sin Den som inte fullgör sin skyldighet enligt
+            6 kap. skyldighet enligt 6 kap. 9 § att lämna uppgifter 9 § att
+            lämna uppgifter eller visa upp handlingar eller visa upp handlingar
+            eller som lämnar oriktig eller som lämnar oriktig uppgift när
+            skyldighe-ten uppgift när skyldigheten fullgörs skall dömas till
+            fullgörs skall dömas till böter, om gärningen inte böter, om gärningen
+            inte är belagd med straff i är belagd med straff i brottsbalken.
+            Om ett vite brottsbalken. Om ett vite har före-lagts med stöd
+            har förelagts med stöd av av 6 kap. 9 § tredje 11 kap. 2 a §,
+            får dock stycket, får dock inte inte dömas till straff dömas till
+            straff för för gärning som omfattas gärning som omfattas av av
+            föreläggandet. föreläggandet. -----------------------------------------------------
+            I ringa fall skall inte dömas till ansvar. -----------------------------------------------------
+            ____________ Denna lag träder i kraft den 1 juli 2004. Bilaga
+            3 Utskottets lagförslag Utskottets förslag till lag om ändring
+            i lagen (1988:1385) om Sveriges riksbank Härigenom föreskrivs
+            att 1 kap. 2 § lagen (1988:1385) om Sveriges riksbank skall ha
+            följande lydelse. -----------------------------------------------------
+            Föreslagen lydelse Utskottets förslag -----------------------------------------------------
+            1 kap. 2 §1[1]1 -----------------------------------------------------
+            Riksbanken har enligt 9 Riksbanken har enligt 9 kap. 12 § regeringsformen
+            kap. 13 § regeringsformen ansvaret för ansvaret för penningpolitiken.
+            penningpolitiken. Riksbanken får inom detta ansvarsområde utfärda
+            föreskrifter. -----------------------------------------------------
+            Målet för Riksbankens verksamhet skall vara att upprätthålla ett
+            fast penningvärde. -----------------------------------------------------
+            Riksbanken skall också främja ett säkert och effektivt betalningsväsende.
+            ----------------------------------------------------- . Riksbanken
+            får meddela före-skrifter inom ramen för sitt ansvar för penningpolitiken.
+            Riksbanken får även meddela föreskrifter såvitt avser verksamhet
+            med anknytning till Riksbankens betalningssystem eller kontantförsörjningsuppdrag.
+            ----------------------------------------------------- **FOOTNOTES**
+            [1]:1 Senaste lydelse 2003:840.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

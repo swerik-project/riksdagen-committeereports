@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_SKU_0002">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen beslutade att sänka skatten på vin med 6 kronor och 40 öre per liter (inklusive moms). Skatten sänks därmed med 18,8 procent på vin som har en alkoholhalt på högst 15 volymprocent. Sänkningen gäller även andra jästa drycker än öl (t.ex. cider). Bakgrunden är att EG-kommissionen har krävt att Sverige ändrar beskattningen så att den inte diskriminerar vin i förhållande till öl. Lagändringarna träder i kraft den 1 december 2001.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Sänkt skatt på vin (SkU2)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0921</idno>
+              <title>2001-10-31</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">21</biblScope>
+              <note type="display-reference">2001-10-31</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP0921</idno>
+              <title>2001-10-31</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">21</biblScope>
+              <note type="display-reference">2001-10-31</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K5</idno>
+              <title>2001/02:5</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">5</biblScope>
+              <note type="display-reference">2001/02:5</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1994:1564</idno>
+              <note type="display-reference">2001:822</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1994:1551</idno>
+              <note type="display-reference">2001:823</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1994:1565</idno>
+              <note type="display-reference">2001:824</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GO03144</idno>
+              <title>Skatten på vin</title>
+              <biblScope unit="riksdag-session">2000/01</biblScope>
+              <biblScope unit="document-number">144</biblScope>
+              <note type="display-reference">proposition 2000/01:144 Skatten på vin</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Sk1</idno>
+              <title>med anledning av prop. 2000/01:144 Skatten på vin</title>
+              <title type="sub">av Carl Fredrik Graf m.fl. (M)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Sk1</biblScope>
+              <note type="display-reference">motion 2001/02:Sk1 med anledning av prop. 2000/01:144 Skatten på vin</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Sk2</idno>
+              <title>med anledning av prop. 2000/01:144 Skatten på vin</title>
+              <title type="sub">av Margareta Cederfelt (M)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Sk2</biblScope>
+              <note type="display-reference">motion 2001/02:Sk2 med anledning av prop. 2000/01:144 Skatten på vin</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GP02Sk3</idno>
+              <title>med anledning av prop. 2000/01:144 Skatten på vin</title>
+              <title type="sub">av Lars Gustafsson m.fl. (KD)</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">Sk3</biblScope>
+              <note type="display-reference">motion 2001/02:Sk3 med anledning av prop. 2000/01:144 Skatten på vin</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2001-10-23">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2001-10-22">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2001-10-19">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2001-10-18">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2001-10-18">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2001-10-16">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2001-10-16">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="YTT" subtype="beredning" n="2" when="2001-10-04">
+            <label>Yttranden inkomna</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="YTT" subtype="beredning" n="2" when="2001-10-04">
+            <label>Yttranden inkomna</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2001-10-31">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2001-10-31">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2001-10-31">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2001-10-31">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2001-10-31">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2001-10-30">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2001-10-26">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2001-10-26">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Skatteutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:SKU2
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Skatten på vin
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I betänkandet behandlas proposition 2000/01:144
+            om skatten på vin samt tre motioner som väckts med anledning av
+            propositionen. Propositionen innehåller förslag om en mindre sänkning
+            av skatten på vin och andra jästa drycker än vin eller öl, t.ex.
+            cider, från och med den 1 december 2001. I propositionen redovisar
+            regeringen också sin avsikt att föreslå ytterligare 100 miljoner
+            kronor till genomförandet av den nationella handlingsplanen för
+            att förebygga alkoholskador. Utskottet tillstyrker propositionen
+            och avstyrker motionerna. Reservationer har avgivits dels av m
+            angående omfattningen av skattesänkningen, dels av kd angående
+            ytterligare åtgärder.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Skatten på vin Riksdagen
+            antar regeringens i bilaga 2 till detta betänkande återgivna förslag
+            till 1. lag om ändring i lagen (1994:1564) om alkoholskatt, 2.
+            lag om ändring i lagen (1994:1565) om beskattning av viss privatin-försel,
+            3. lag om ändring i lagen (1994:1551) om frihet från skatt vid
+            import, m.m. Därmed bifaller riksdagen proposition 2000/01:144
+            och avslår motioner-na 2001/02:Sk1 yrkandena 1-3 och 2001/02:Sk2.
+            Reservation 1 (m) 2. Ytterligare åtgärder Riksdagen avslår motion
+            2001/02:Sk3 yrkandena 1-5. Reservation 2 (kd) Stockholm den 18
+            oktober 2001 På skatteutskottets vägnar Arne Kjörnsberg Följande
+            ledamöter har deltagit i beslutet: Arne Kjörnsberg (s), Carl Fredrik
+            Graf (m), Lisbeth Staaf-Igelström (s), Per Rosengren (v), Kenneth
+            Lantz (kd), Carl Erik Hedlund (m), Ulla Wester (s), Lena Sandlin-Hedman
+            (s), Sven Brus (kd), Catharina Hagen (m), Rolf Kenneryd (c), Lennart
+            Kollmats (fp), Per-Olof Svensson (s), Lennart Axelsson (s), Claes
+            Stockhaus (v) och Stefan Hagfeldt (m).
+          </p>
+          <p>
+            2001/02 SkU2 (prop. 2000/01:144) Redogörelse för ärendet Ärendet
+            och dess beredning Kommissionen överlämnade den 28 februari 2000,
+            i enlighet med artikel 226 i EG-fördraget, en formell underättelse
+            till Sverige angående de svenska punktskatterna på öl och vin.
+            Enligt kommissionens uppfattning överträder Sverige, genom sitt
+            sätt att beskatta öl lägre än vin, förbudet för medlems- staterna
+            i artikel 90 att indirekt genom beskattning missgynna varor från
+            andra medlemsstater. Regeringen har i svar till kommissionen hävdat
+            bl.a. att en beskattning som relaterar till alkoholhalten i drycken,
+            med hänsyn tagen till gällande minimiskattekrav, inte kan anses
+            innebära någon överträdelse av artikel 90. I svaret medgavs dock
+            att det sedan ölskattesänkningen den 1 januari 1997 föreligger
+            viss skillnad mellan beskattningen av öl och vin, även räknat
+            per volymprocent. Regeringen har i svaret förklarat sig beredd
+            att överväga en sänkning av skatten på vin så att skatten per
+            volymprocent på vin i den mest sålda kategorin överensstämmer
+            med skatten per volymprocent på starköl. Den 12 juni 2001 beslutade
+            kommissionen att sända ett motiverat yttrande till Sverige i detta
+            ärende (andra steget i det formella överträdelseförfarandet enligt
+            artikel 226 i EG-fördraget). Enligt yttrandet kan kommissionen
+            komma att överlämna ärendet till EG-domstolen om en tillfredsställande
+            ändring av de svenska skattebestämmelserna inte har gjorts inom
+            två månader efter mottagandet av yttrandet. Regeringens förslag
+            om en sänkning av skatten på vin syftar till att undvika en domstolsprocess.
+            Alkoholinspektionen, Folkhälsoinstitutet, Socialstyrelsen, Riksskatteverket,
+            Tullverket och Systembolaget AB har lämnat synpunkter över förslaget
+            till regeringen men inte haft något att invända mot att skatten
+            på vin sänks. Regeringens förslag till riksdagsbeslut och de motioner
+            som har väckts i ärendet framgår av bilaga 1 till betänkandet.
+            De lagändringar som regeringen föreslår redovisas - med någon
+            rättelse - i bilaga 2. Socialutskottet har avgivit yttrande i
+            ärendet (yttr. 2001/02:SoU3y) som fogas som bilaga 3 till betänkandet.
+            Propositionens huvudsakliga innehåll I propositionen föreslås
+            att skatten på vin samt andra jästa drycker än vin eller öl sänks
+            med 18,8 procent från och med den 1 december 2001.
+          </p>
+          <p>
+            Utskottets överväganden Skatten på vin Utskottets förslag i korthet
+            Utskottet föreslår att riksdagen antar regeringens förslag till
+            ändring i alkoholskattelagen och övriga följdändringar i andra
+            författningar. Härigenom sänks alkoholskatten på vin samt andra
+            jästa drycker än vin eller öl med 18,8 procent från och med den
+            1 december 2001. Liksom socialutskottet betonar utskottet vikten
+            av att kraftfulla insatser görs inom ramen för den nationella
+            handlingsplanen för att förebygga alkoholskador, att ytterligare
+            resurser tillförs detta arbete samt att effekterna av skattesänkningen
+            ur ett folkhälsoperspektiv följs upp av Statens folkhälsoinstitut.
+            Propositionen I propositionen föreslås en sänkning av skatten
+            på vin och andra jästa drycker än vin eller öl (t.ex. cider) med
+            18,8 procent från och med den 1 december 2001. Förslaget innebär
+            bl.a. att alkoholskatten på viner med normal alkohol-styrka -
+            över 8,5 volymprocent men inte över 15 volymprocent - sänks från
+            27,20 kr per liter till 22,08 kr per liter. Bakgrunden är att
+            EG-kommissionen har krävt att Sverige ändrar beskatt-ningen så
+            att den inte diskriminerar vin i förhållande till öl, vilket den
+            enligt kommissionens uppfattning gör för närvarande. Regeringen
+            har medgivit att det sedan den 1 januari 1997 föreligger en viss
+            skillnad mellan beskattningen av öl och beskattningen av vin.
+            Den föreslagna sänkningen innebär att skatten per volymprocent
+            på vin i den mest sålda kategorin bättre överensstämmer med skatten
+            per volymprocent på starköl. Enligt regeringens uppfattning framstår
+            en sådan mindre sänkning av skatten på vin som acceptabel vid
+            en samlad alkoholpolitisk bedömning. Folkhälsoinstitutet som följer
+            utvecklingen av alkoholkonsumtionen och alkoholskadorna i Sverige
+            skall enligt propositionen även beakta de eventuella konsekvenserna
+            ur ett folkhälsoperspektiv av den nu föreslagna skatteändringen.
+            Av propositionen framgår vidare att regeringen avser att föreslå
+            ett tillskott till den nationella handlingsplanen för att förebygga
+            alkoholskador under åren 2001-2003 på ytterligare 100 miljoner
+            kronor. Härigenom ökar totalsumman från 450 miljoner kronor till
+            550 miljoner kronor. Budgetförsvagningen till följd av skattesänkningen
+            beräknas uppgå till 0,57 miljarder kronor år 2002 och därefter
+            0,47 miljarder kronor per år. Regeringen föreslår ingen särskild
+            finansiering. Motioner I motion Sk1 (yrkandena 1-3) av Carl Fredrik
+            Graf m.fl. (m) yrkas att alkoholskatten på viner med normal alkoholstyrka
+            minskas till 8,50 kr per liter, att alkoholskatten på övriga viner
+            sänks i motsvarande mån samt att alkoholskatten på öl sänks från
+            nuvarande 1,47 kr för varje volymprocent alkohol per liter till
+            85 öre för varje volymprocent alkohol per liter samt att nödvändiga
+            följdändringar görs i övriga berörda författningar. Motionärerna
+            syftar till att undvika omfattande problem när Sveriges införselkvoter
+            helt har anpassats till de övriga unionsmedlemmarnas. Även i motion
+            Sk2 av Margareta Cederfelt (m) pekas på behovet av att gå vidare
+            med sänkningar av alkoholskatterna till europeisk nivå. Motionären
+            föreslår att alkoholskatterna i första hand sänks till dansk nivå
+            och att konsumtion, import, skatteintäkter, arbetstillfällen inom
+            bryggerinäringen och försäljning på Systembolaget skall utvärderas
+            efter ett år. Socialutskottets yttrande I sitt yttrande till skatteutskottet
+            2001/02:SoU3y - yttrandet är fogat som bilaga 3 till detta betänkande
+            - ställer sig socialutskottet bakom förslagen i propositionen
+            och anför att den föreslagna sänkningen av vinskatten kan hindra
+            att andra inköpsmönster permanentas och att en ökad illegal handel
+            av vin etableras. Socialutskottet utgår vidare från att kraftfulla
+            insatser kommer att göras inom ramen för den nationella handlingsplanen
+            för att förebygga alkoholskador, bl.a. särskilda stödinsatser
+            för riskgrupper och individer med riskbeteende, vård- och behandlingsinsatser
+            samt opinionsbildning och information. Socialutskottet ser mycket
+            positivt på att ytterligare 100 miljoner kronor kommer att tillföras
+            genomförandet av planen för åren 2001-2003, något som socialutskottet
+            avser att återkomma till i samband med budgetbe-handlingen senare
+            i höst. Slutligen betonar socialutskottet vikten av att Statens
+            folkhälsoinstitut beaktar de eventuella effekterna av skattesänk-ningen
+            ur ett folkhälsoperspektiv inom ramen för institutets uppdrag
+            att följa utvecklingen av alkoholkonsumtion och alkoholskador.
+            Utskottets ställningstagande Av propositionen framgår att EG-kommissionen
+            anser att Sverige genom sitt sätt att beskatta öl lägre än vin
+            indirekt genom beskattningen missgynnar varor från andra medlemsländer
+            samt att kommissionen kan komma att inom kort överlämna ärendet
+            till EG- domstolen för prövning. Utskottet delar regeringens uppfattning
+            att man bör eftersträva att undvika en domstols-process angående
+            denna fråga. På grund härav och mot bakgrund av bl.a. också de
+            ändrade införselbestämmelserna finner utskottet att det är motiverat
+            att nu företa en smärre nedjustering av skatten på vin som innebär
+            en viss utjämning av skatten på öl och skatten på vin. Den sänkning
+            av skatten från och med den 1 december 2001 med 18,8 procent som
+            regeringen föreslår finner utskottet, vid en samlad alkohol-politisk
+            bedömning, väl avvägd. De skattesänkningsförslag som läggs fram
+            i motionerna Sk1 och Sk2 är däremot enligt utskottets uppfattning
+            alltför långtgående. Liksom socialutskottet - vars yttrande i
+            sammanfattning redovisas ovan - vill utskottet betona vikten av
+            att kraftfulla insatser görs inom ramen för den nationella handlingsplanen
+            för att förebygga alkoholskador, att ytterligare resurser tillförs
+            detta arbete samt att effekterna av skattesänkningen följs upp
+            ur ett folkhälsoperspektiv av Statens folkhälsoinstitut. Det anförda
+            innebär att utskottet tillstyrker propositionen och avstyrker
+            motionerna 2001/02:Sk1 och 2001/02:Sk2. Ytterligare åtgärder Motionen
+            I motion Sk3 (yrkandena 1-5) av Lars Gustafsson m.fl. (kd) begärs
+            att riksdagen gör diverse uttalanden både om den förda alkoholpolitiken
+            och om behovet av ytterligare åtgärder. Motionärerna efterlyser
+            bl.a. en långsiktig strategi och målsättning för alkoholpolitiken
+            och att målet att sänka alkoholkonsumtionen med 25 % inte överges.
+            Vidare förespråkas att alkoholpolitiken även i fortsättningen
+            inriktas på attitydförändringar, begränsad tillgänglighet, försäljningsmonopol
+            och en aktiv prispolitik. Motionärerna pekar också på behovet
+            av långsiktig analys och uppföljning innan skattesänkningar genomförs.
+            Regeringen bör slutligen, anser motionärerna, i större utsträckning
+            föra fram folkhälsoargumentet i EU-sammanhang. Utskottets ställningstagande
+            Socialutskottet har i sitt ovan redovisade yttrande SoU3y anfört
+            att motion Sk3 får anses vara i allt väsentligt tillgodosedd med
+            vad som anförts. Utskottet instämmer häri och avstyrker därför
+            motionen.
+          </p>
+          <p>
+            Reservationer Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer. I rubriken anges inom parentes
+            vilken punkt i utskottets förslag till riksdagsbeslut som behandlas
+            i avsnittet. 1. Skatten på vin (punkt 1) - m av Carl Fredrik Graf
+            (m), Carl Erik Hedlund (m), Catharina Hagen (m) och Stefan Hagfeldt
+            (m). Förslag till riksdagsbeslut Vi anser att utskottets förslag
+            under punkt 1 borde ha följande lydelse: 1. Riksdagen antar regeringens
+            i bilaga 2 till detta betänkande återgivna förslag till 1. lag
+            om ändring i lagen (1994:1564) om alkoholskatt med dels den ändringen
+            att i 2 § beloppet 1,47 kronor i den gällande lydelsen ändras
+            till 0,85 kronor, dels de ändringarna såvitt avser 3 och 4 §§
+            i regeringens förslag att beloppet 7,58 kronor ändras till 2,90
+            kronor, beloppet 11,20 kronor till 4,28 kronor, beloppet 15,41
+            kronor till 5,89 kronor och beloppet 22,08 kronor till 8,50 kronor,
+            2. lag om ändring i lagen (1994:1565) om beskattning av viss privatinförsel
+            med de ändringarna såvitt avser 1 § att beloppet 22 kronor/liter
+            i regeringens förslag ändras till 9 kronor/liter och beloppet
+            8 kronor/liter i den gällande lydelsen ändras till 4 kronor/liter,
+            3. lag om ändring i lagen (1994:1551) om frihet från skatt vid
+            import, m.m. med de ändringarna såvitt avser 4 kap. 3 § att beloppet
+            31 kronor/liter i regeringens förslag ändras till 12 kronor/liter
+            och att beloppet 14 kronor/liter i den gällande lydelsen ändras
+            till 6 kronor/liter. Därmed bifaller riksdagen motion 2001/02:Sk1
+            yrkandena 1-3 samt proposition 2000/01:144 delvis och motion 2001/02:Sk2
+            delvis. Ställningstagande Som företrädarna för Moderata samlingspartiet
+            i socialutskottet framhållit föreligger det numera helt nya förutsättningar
+            för alkoholpolitiken till följd av förändringarna i samhället.
+            Bland annat tvingas man dessvärre konstatera att en omfattande
+            kriminell alkoholhantering har kunnat växa upp, bl.a. som en följd
+            av de höga skatterna på alkohol och den begränsade tillgängligheten.
+            Liksom moderaterna i socialutskottet anser vi att den växande
+            svarta marknaden och den tilltagande förekomsten av smuggelsprit
+            och hembränt utgör ett synnerligen allvarligt hot mot både folkhälsan
+            och den allmänna laglydnaden, inte minst hos ungdomen, som bäst
+            bekämpas genom att styra över konsumtionen till den reguljära
+            handeln, dvs. genom väl avvägda skattesänkningar på de legalt
+            sålda produkterna. Därtill kommer att redan de nuvarande möjligheterna
+            att fullt lagligt föra in billiga alkoholvaror från t.ex. Danmark
+            och Tyskland - och dessa möjligheter kommer ju att utökas ytterligare
+            inom en snar framtid - gör högskattepolitiken på detta område
+            alltmer illusorisk och meningslös. Dessutom försätts våra inhemska
+            bryggerier i ett alltmer prekärt konkurrensläge. Regeringens skattesänkningsförslag
+            beträffande vin är enligt vår mening alltför begränsat för att
+            på något märkbart sätt kunna rå på det nuvarande konsumtionsmönstrets
+            avarter. Vi bedömer att skatten på såväl vin som öl behöver sänkas
+            rejält för att uppnå några märkbara positiva effekter. Vi ansluter
+            oss således till den uppfattning som förs fram i de moderata motionerna
+            Sk1 och Sk2 och förordar de skattenivåer som föreslås i den förstnämnda
+            motionen, dvs. i fråga om normalt vin 8,50 kronor per liter och
+            i fråga om skattepliktigt öl 0,85 öre per liter för varje volymprocent
+            alkohol. Vi delar dessutom motionärernas bedömning att dessa sänkningar
+            är statsfinansiellt neutrala. Riksdagen bör fatta beslut i enlighet
+            med det anförda. 2. Ytterligare åtgärder (punkt 2) - kd av Kenneth
+            Lantz (kd) och Sven Brus (kd). Förslag till riksdagsbeslut Vi
+            anser att utskottets förslag under punkt 2 borde ha följande lydelse:
+            2. Riksdagen tillkännager för regeringen som sin mening vad som
+            anförs i reservation 2 om ytterligare åtgärder. Därmed bifaller
+            riksdagen motion 2001/2002:Sk3 yrkandena 1-5. Ställningstagande
+            Vi håller med kd-ledamöterna i socialutskottet i deras kritik
+            av regeringen för dess bristande förmåga att ta ett helhetsgrepp
+            om alkoholpolitiken och formulera en långsiktig strategi och målsättning
+            på detta område samt för dess ostrukturerade anpassningspolitik
+            gentemot EG-kommissionen, vilken lett till ett alkoholpolitiskt
+            förfall. Enligt en färsk forskningsrapport av Centrum för socialvetenskaplig
+            alkohol- och drogforskning vid Stockholms universitet (SoRAD)
+            har den totala alkoholkonsumtionen i Sverige ökat med 13 % mellan
+            året 1996 och tolvmånadersperioden 2000/2001 (juli 2000-juni 2001).
+            Det framgår vidare av rapporten att det är både alkoholförsäljningen
+            i Sverige och resenärers införsel av alkohol från utlandet som
+            har ökat. SoRAD poängterar att konsumtionen av både starköl och
+            vin har ökat med över 40 procent sedan 1996 - sprit- och folkölskonsumtionen
+            har däremot minskat - och att ökningen har accelererat under det
+            senaste året. Under den senaste tolv- månadersperioden uppgår
+            ökningen till ungefär 7 %, enligt SoRAD. SoRAD redovisar slutligen
+            också att Systembolagets försäljning under de tre sommarmånaderna
+            i år har ökat med 10 procent jämfört med sommaren år 2000 och
+            att det framför allt är försäljningen av starköl och vin som har
+            ökat. Enligt SoRAD:s frågeundersökningar har även resenärers införsel
+            av alkohol ökat med ungefär lika mycket. Med hänsyn till att riksdagen
+            inte fattar beslut i detta ärende förrän i slutet av oktober är
+            det enligt vår mening anmärkningsvärt att regeringen valt att
+            avlämna sin proposition till riksdagen redan strax före sommarledigheten
+            och överlämna åt riksdagen att följa upp den i detta sammanhang
+            mycket viktiga utvecklingen av alkoholkonsumtionen under sommaren.
+            Mot bakgrund av de fakta som nyss redovisats - och som regeringen
+            hade bort ta reda på innan propositionen avlämnades - förefaller
+            det som om regeringen är på väg att tappa kontrollen över utvecklingen.
+            Det är inte lätt att se vad regeringen egentligen har för ambitioner
+            på detta område. Vi efterlyser, i likhet med kd-motionärerna bakom
+            motion Sk3, en långsiktig strategi och målsättning för alkoholpolitiken,
+            som bl.a. bör slå fast att målet att sänka alkoholkonsumtionen
+            med 25 % inte skall överges. Det bör också slås fast att alkoholpolitiken
+            även i fortsättningen skall inriktas på attitydförändringar, begränsad
+            tillgänglighet, försäljningsmonopol och en aktiv prispolitik.
+            Mot bakgrund av avsaknaden av konsekvensbeskrivning i propositionen
+            vill vi också framhålla att det finns ett behov av långsiktig
+            analys och uppföljning innan skattesänkningar genomförs. I likhet
+            med motionärerna och kd- ledamöterna i socialutskottet anser vi
+            slutligen också att regeringen i större utsträckning bör föra
+            fram folkhälsoargumentet i EU-sammanhang. Vad nu anförts bör enligt
+            vår uppfattning riksdagen som sin mening ge regeringen till känna.
+            Det betyder att vi tillstyrker samtliga yrkanden i motion Sk3.
+            Bilaga 1 Förteckning över behandlade förslag
+          </p>
+          <p>
+            Propositionen Regeringen (Finansdepartementet) föreslår i proposition
+            2000/01:144 att riksdagen antar de i bilaga 2 till detta betänkande
+            återgivna framlagda förslagen till 1. lag om ändring i lagen (1994:1564)
+            om alkoholskatt, 2. lag om ändring i lagen (1994:1565) om beskattning
+            av viss privatin-försel, 3. lag om ändring i lagen (1994:1551)
+            om frihet från skatt vid import, m.m.
+          </p>
+          <p>
+            Följdmotioner 2001/02:Sk1 av Carl Fredrik Graf m.fl. (m): 1.
+            Riksdagen beslutar att skatten på vin med en alkoholhalt mellan
+            8,5 och 15,0 volymprocent skall vara åtta kronor och femtio öre
+            per liter, från den 1 december 2001. För vin med annan alkoholhalt
+            beräknas skatten utifrån detta. 2. Riksdagen beslutar att skatten
+            på öl med en alkoholhalt överstigande 2,8 volymprocent skall tas
+            ut per liter med åttiofem öre för varje volymprocent, från den
+            1 december 2001. 3. Riksdagen beslutar om motsvarande ändringar
+            i lagen (1994:1365) om befattning av viss privatinförsel och i
+            lagen (1994:1551) om frihet från skatt vid import, m.m. 2001/02:Sk2
+            av Margareta Cederfelt (m): Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om att alkoholskatterna sänks
+            till dansk nivå i ett första skede samt att effekterna av skattesänkningen
+            utvärderas efter ett år. 2001/02:Sk3 av Lars Gustafsson m.fl.
+            (kd): 1. Riksdagen tillkännager för regeringen som sin mening
+            vad i motionen anförs om avsaknaden av en långsiktig alkoholpolitisk
+            strategi och mål- sättning. 2. Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om att inte överge WHO-målet
+            om att minska alkoholkonsumtionen med 25 %. 3. Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om de grunder
+            den svenska alkoholpolitiken bör vila på. 4. Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om en långsiktig
+            uppföljning av de alkoholpolitiska effekterna av skattesänkningen.
+            5. Riksdagen tillkännager för regeringen som sin mening vad i
+            motionen anförs om att Sverige skall framföra folkhälsoargumentet
+            i EU-samman-hang. bilaga 2 Regeringens lagförslag bilaga 3 Socialutskottets
+            yttrande 2001/02:SoU3y Skatten på vin Till skatteutskottet Socialutskottet
+            har den 27 september 2001 beslutat avge yttrande till skatte-utskottet
+            över regeringens proposition 2000/01:144 Skatten på vin jämte
+            motion 2001/02:Sk3 (kd). Socialutskottet Propositionen m.m. I
+            propositionen föreslår regeringen att skatten på vin med en alkoholhalt
+            mellan 2,25 och 15 volymprocent sänks med 18,8 % fr.o.m. den 1
+            december 2001. Förslaget innebär exempelvis att skatten på vin
+            med en alkoholhalt över 8,5 men inte över 15 volymprocent sänks
+            från 27,20 kr per liter till 22,08 kr per liter. Skatten på andra
+            jästa drycker än vin eller öl (t.ex. cider) föreslås sänkas på
+            samma sätt som skatten på vin, eftersom denna grupp av produkter
+            enligt gällande EG-direktiv på alkoholskatteområdet skall beskattas
+            på samma sätt som vin. Samtidigt görs en motsvarande justering
+            av de skattebelopp som tas ut för de aktuella produkterna vid
+            privat införsel från annat EU-land respektive import från tredje
+            land. Den 1 januari 1997 sänktes den svenska ölskatten på grund
+            av problem med den betydande gränshandeln med danskt starköl,
+            vilken enligt regeringens bedömning gjorde det nödvändigt att
+            vidta motverkande åtgärder. Skattesänkningen medförde att öl kom
+            att beskattas lägre än vin. EU-kommissionen överlämnade den 28
+            februari 2000, i enlighet med artikel 226 i EG-fördraget, en formell
+            underrättelse till Sverige angående de svenska punktskatterna
+            på öl och vin. Enligt kommissionens uppfattning överträdde Sverige,
+            genom sitt sätt att beskatta öl lägre än vin, förbudet för medlemsstaterna
+            i artikel 90 att indirekt genom beskattning missgynna varor från
+            andra medlemsstater. Regeringen hävdade i svar till kommissionen
+            bl.a. att en beskattning som relaterar till alkoholhalten i drycken,
+            med hänsyn tagen till gällande minimi- skattekrav, inte kan anses
+            innebära någon överträdelse av artikel 90. I svaret medgavs dock
+            att det sedan ölskattesänkningen den 1 januari 1997 föreligger
+            en viss skillnad mellan beskattningen av öl och vin, även räknat
+            per volymprocent. Av alkoholpolitiska skäl har beskattningen av
+            alkoholdrycker i Sverige under lång tid varit starkt relaterad
+            till alkoholstyrkan i drycken. En alkoholdryck med högre alkoholinnehåll
+            har beskattats mer än en dryck med lägre alkoholinnehåll. När
+            Sverige blev medlem i EU var skatten per volymprocent på öl med
+            en alkoholhalt över 3,5 volymprocent och skatten per volymprocent
+            på vin med en alkoholhalt på 11 volymprocent i det närmaste densamma.
+            Så hade förhållandet varit även innan medlemskapet. Ölskatte-sänkningen
+            1997 ändrade denna relation. Regeringen fann att skäl förelåg
+            att återställa den tidigare ordningen. I svaret till kommissionen
+            förklarade sig regeringen därför vara beredd att överväga en sänkning
+            av skatten på vin så att skatten per volymprocent på vin i den
+            mest sålda kategorin överens-stämmer med skatten per volymprocent
+            på starköl. Den 12 juni 2001 beslutade kommissionen att sända
+            ett motiverat yttrande till Sverige i ärendet. Om en tillfredsställande
+            ändring av de svenska skatte- bestämmelserna inte hade gjorts
+            inom två månader efter mottagandet av det motiverade yttrandet,
+            kunde kommissionen överlämna ärendet till EG-dom-stolen. För att
+            undvika en domstolsprocess föreslår regeringen ovannämnda skattesänkningar.
+            I propositionen anför regeringen att Systembolagets detaljhandelsmonopol
+            är ett viktigt alkoholpolitiskt instrument för att Sverige även
+            fortsättningsvis skall kunna ha en kontrollerad och ansvarsfull
+            försäljning av alkohol. En sänkning av skatten på vin kan motverka
+            att andra inköpsmönster permanen- tas och att en ökad illegal
+            handel med vin etableras, anförs det. I en kommande situation
+            då det råder fri införsel av alkoholdrycker kommer det att bli
+            viktigare än någonsin att Systembolagets monopol finns kvar. Vid
+            en samlad alkoholpolitisk bedömning framstår därför enligt regeringen
+            en mindre sänkning av skatten på vin som acceptabel. Enligt propositionen
+            har Alkoholinspektionen anfört att det i förslaget borde redovisas
+            de alkoholpolitiska effekterna av en sänkning av vinskatten samt
+            anges vilka försäljningsprognoser för vin som ligger bakom de
+            ekono-miska beräkningarna. Folkhälsoinstitutet har fått i uppdrag
+            att följa utvecklingen av alkoholkonsumtion och alkoholskador.
+            Enligt regeringen bör institutet inom ramen för sitt uppdrag även
+            beakta eventuella konsekvenser ur ett folkhälsoperspektiv av den
+            föreslagna skatteändringen. I budgetpropositionen för år 2002
+            (prop. 2001/02:1, utg.omr. 9, avsnitt 5.8.8) föreslår regeringen
+            att ytterligare resurser tillförs arbetet mot alkoholens skadeverkningar.
+            Resurserna avsätts inom ramen för arbetet med att förverkliga
+            den befintliga nationella handlingsplanen för att förebygga alkoholskador
+            (prop. 2000/01:20, bet. 2000/01:SoU8, rskr. 2000/01:144). För
+            genomförandet av handlingsplanen har hittills avsatts 450 miljoner
+            kronor under tre år. Regeringen föreslår i budgetpropositionen
+            att ytterligare 100 miljoner kronor avsätts för stödjande insatser
+            för barn till missbrukare och barn i familjer där våld och övergrepp
+            mellan vuxna förekommer. Av dessa medel utbetalas 50 miljoner
+            kronor för 2001 och 25 miljoner kronor för 2002 respektive 2003.
+            Totalsumman blir därmed 550 miljoner kronor. I tilläggsbudgeten
+            för år 2001 (avsnitt 9.3.9) föreslår regeringen att anslaget 14:8
+            Alkohol- och narkotikapolitiska åtgärder ökas med 50 miljoner
+            kronor. Bakgrund och tidigare behandling Riksdagen godkände våren
+            2001 regeringens förslag till en nationell handlingsplan för att
+            förebygga alkoholskador. Bakgrunden till handlings-planen var
+            att nivåerna för privat införsel av vin och starköl till Sverige
+            från andra EU-länder hade ökat och beräknades att successivt komma
+            att öka ytterligare fram till år 2004 då samma regler för införsel
+            skall gälla i Sverige som i övriga EU-länder. Handlingsplanen,
+            som skall gälla åren 2001-2005, syftar till att lägga fast grundvalarna
+            för en alkoholpolitik som leder till minskad alkoholkonsumtion
+            och begränsade alkoholskador efter de förändrade förutsättningar
+            som nu föreligger. Socialutskottet konstaterade (bet. 2000/01:SoU8
+            s. 16) bl.a. att EU-medlemskapet förändrat det som tidigare utgjorde
+            viktiga delar av alkoholpolitiken och att den anpassning som Sverige
+            måste göra inte är oproblematisk. Möjligheten att använda det
+            s.k. prisinstrumentet för att påverka tillgången på alkohol försvagas.
+            Höjda införselkvoter kommer, om åtgärder inte vidtas, att medföra
+            att gränshandeln med alkohol successivt kommer att öka, liksom
+            troligen också den illegala handeln och försäljningen av alkohol.
+            Enligt utskottet fanns det anledning att hysa oro för att alkoholskadorna
+            kommer att bli fler genom att totalkonsumtionen sannolikt kommer
+            att öka under de närmaste åren. Utskottet ansåg att de negativa
+            effekterna av anpassningen till EU:s regelsystem kraftfullt måste
+            motverkas och ställde sig bakom förslaget till handlingsplan.
+            Socialutskottet vidhöll att den svenska alkoholpolitikens ambitionsnivå
+            måste vara fortsatt hög. Det övergripande målet för den svenska
+            alkohol- politiken bör ligga fast, nämligen att politiken även
+            fortsättningsvis skall syfta till att minska alkoholens medicinska
+            och sociala skadeverkningar. Utskottet delade regeringens bedömning
+            att målet bör nås genom åtgärder mot skadligt dryckesbeteende
+            och genom att sänka den totala alkoholkonsumtionen. Utskottet
+            ansåg att insatser för barn och ungdom är särskilt viktiga. Utskottet
+            konstaterade att möjligheterna att begränsa alkoholens tillgäng-lighet
+            genom nationella åtgärder har minskat de senaste åren och att
+            en förskjutning måste ske mot såväl lokala som internationella
+            insatser för att minska alkoholskadorna. Handlingsplanen ger kommunerna
+            en viktigare roll vad gäller att utveckla och samordna den lokala
+            alkoholpreventionen. Utskottet såg positivt på att det lokala
+            ansvaret i det alkoholförebyggande arbetet ökar och förstärks.
+            Utskottet ansåg att förstärkta åtgärder behövs när det gäller
+            särskilda stödinsatser för riskgrupper och individer med riskbeteende,
+            vård- och behandlingsinsatser, opinionsbildning och informa- tion,
+            begränsning av tillgängligheten till och marknadsföringen av alkohol-drycker,
+            kompetensutveckling, uppföljning av konsumtions- och skade-utvecklingen
+            samt alkoholforskning. Utskottet ställde sig även bakom bedömningen
+            att det internationella arbetet på alkoholområdet, främst inom
+            EU och WHO, bör utvecklas och förstärkas. Utskottet framhöll särskilt
+            vikten av Sveriges medverkan i utarbetandet av en ny EU-strategi
+            på alkoholområdet och påpekade att det inom EU nu finns ett större
+            intresse för samarbete för att begränsa alkoholens skadeverkningar.
+            Sverige har därför möjlighet att med andra medlemsländer utforma
+            en effektiv social och ansvarsfull alkoholpolitik som gagnar folkhälsan
+            inom unionen, anfördes det. Sammanfattningsvis godkände utskottet
+            huvudinriktningen för alkohol-politiken, nämligen att intensifiera
+            det samordnade lokala arbetet i landets kommuner och att ytterligare
+            förstärka arbetet på europeisk och internationell nivå. I betänkande
+            2000/01:SoU19 rörande vissa ändringar i alkohollagen vidhöll utskottet
+            vad det anfört i betänkandet 2000/01:SoU8 om inriktningen på den
+            svenska alkoholpolitiken (s. 13). Därutöver pekade utskottet på
+            att regeringen särskilt lyft fram kampen mot den illegala alkoholhanteringen
+            och att åtgärder vidtas bl.a. när det gäller alkoholsmuggling.
+            Vidare framhöll utskottet bl.a. att kommittén för att genomföra
+            alkoholhandlingsplanen ålagts att utföra en omfattande alkoholförebyggande
+            verksamhet. Motionen I motion Sk3 av Lars Gustafsson m.fl. (kd)
+            begärs ett tillkännagivande till regeringen om vad i motionen
+            anförs om avsaknaden av en långsiktig alkoholpolitisk strategi
+            och målsättning (yrkande 1). Enligt motionärerna visar propositionen
+            tydligt att regeringen återigen inte förmår att ta ett helhetsgrepp
+            avseende alkoholpolitiken. Förslaget är ett i raden av stora alkoholpolitiska
+            förändringar som har skett inom en relativt kort period och utan
+            någon synbart långsiktig strategi eller målsättning. Motionärerna
+            begär vidare ett tillkännagivande om att inte överge WHO-målet
+            om att minska alkoholkonsumtionen med 25 % (yrkande 2). Målet
+            får inte överges bara för att det inte uppnåtts till år 2000,
+            utan arbetet måste enligt motionärerna fortgå. Sverige måste även
+            i framtiden föra en restriktiv alkoholpolitik för att kunna sänka
+            den totala alkoholkonsumtionen. Inriktningen bör vara dels att
+            få storkonsumenter att minska sitt drickande, dels att förhindra
+            att nya grupper hamnar i missbruk. Motionärerna anser det även
+            angeläget att begränsa ungdomars umgänge med alkohol. I motionen
+            yrkas även ett tillkännagivande om grunderna som den svenska alkoholpolitiken
+            bör vila på (yrkande 3), nämligen attitydförändringar, begränsad
+            tillgänglighet, försäljningsmonopol och en aktiv prispolitik.
+            Vidare begärs att regeringen skall ges till känna vad i motionen
+            anförs om en långsiktig uppföljning av de alkoholpolitiska effekterna
+            av skattesänkningen (yrkande 4). Motionärerna instämmer med Alkoholinspektionen
+            om att regeringen i förslaget borde ha redovisat de alkoholpolitiska
+            effekterna liksom vilka försäljningsprognoser för vin som ligger
+            bakom de ekonomiska beräkningarna. Enligt motionärerna är det
+            helt uppenbart att den isolerade effekten av en prissänkning på
+            alkoholdrycker är att konsumtionen ökar. Motionärerna anser att
+            regeringen borde ha beräknat eventuella konsekvenser ur ett folkhälsoperspektiv
+            innan förslaget om skatte- sänkningen lades fram. Slutligen begär
+            motionärerna ett tillkännagivande om att Sverige i EU-sammanhang
+            i större utsträckning skall framföra folkhälsoargumentet (yrkande
+            5). Socialutskottets ställningstagande Socialutskottet ställer
+            sig, utifrån sin utgångspunkt, bakom förslagen i propositionen.
+            Såsom anförs i propositionen kan den föreslagna sänkningen av
+            vinskatten hindra att andra inköpsmönster permanentas och att
+            en ökad illegal handel med vin etableras. Internationaliseringen
+            och det svenska EU-inträdet har ändrat förutsätt-ningarna för
+            att bedriva en traditionell svensk alkoholpolitik. De före-byggande
+            insatserna blir av avgörande betydelse när det gäller att motverka
+            alkoholmissbrukets utbredning. Utskottet vill återigen framhålla
+            vikten av en fortsatt hög ambitionsnivå inom den svenska alkoholpolitiken.
+            Syftet bör även framöver vara att minska alkoholens medicinska
+            och sociala skadeverkningar genom åtgärder mot skadligt dryckesbeteende
+            och genom att sänka den totala alkoholkon-sumtionen. En viktig
+            del i detta arbete är de åtgärder som redan pågår inom ramen för
+            den nationella handlingsplanen för att förebygga alkoholskador.
+            Utskottet utgår från att kraftfulla insatser kommer att göras
+            på området, bl.a. särskilda stödinsatser för riskgrupper och individer
+            med riskbeteende, vård- och behandlingsinsatser samt opinionsbildning
+            och information. Utskottet ser mycket positivt på att ytterligare
+            100 miljoner kronor föreslås tillföras för åren 2001-2003 för
+            genomförandet av planen. Utskottet återkommer till detta i samband
+            med budgetbehandlingen senare i höst. Socialutskottet vill slutligen
+            betona att det är angeläget att Statens folkhälsoinstitut, inom
+            ramen för sitt uppdrag att följa utvecklingen av alkoholkonsumtion
+            och alkoholskador, beaktar de eventuella effekter som skattesänkningen
+            får ur ett folkhälsoperspektiv. Motion Sk3 (kd) får anses vara
+            i allt väsentligt tillgodosedd med vad som anförts och bör därför
+            avstyrkas. Stockholm den 2 oktober 2001 På socialutskottets vägnar
+            Ingrid Burman Följande ledamöter har deltagit i beslutet: Ingrid
+            Burman (v), Chris Heister (m), Susanne Eberstein (s), Margareta
+            Israelsson (s), Rinaldo Karlsson (s), Chatrine Pålsson (kd), Leif
+            Carlson (m), Conny Öhman (s), Hans Hjortzberg- Nordlund (m), Lars
+            U Granberg (s), Elisebeht Markström (s), Rolf Olsson (v), Lars
+            Gustafsson (kd), Cristina Husmark Pehrsson (m), Kenneth Johansson
+            (c), Kerstin Heinemann (fp) och Gunnar Goude (mp). Avvikande mening
+            Inriktningen av alkoholpolitiken m.m. Chatrine Pålsson och Lars
+            Gustafsson (båda kd) anför: Enligt vår mening visar förslagen
+            i propositionen tydligt att regeringen återigen inte förmått att
+            ta ett helhetsgrepp avseende alkoholpolitiken. Förslaget är ett
+            i raden av stora alkoholpolitiska förändringar som har skett inom
+            en relativt kort period och utan någon synbart långsiktig strategi
+            eller målsättning. Genom denna ostrukturerade anpassningspolitik
+            på alkohol-området riskerar regeringen att förlora greppet om
+            den svenska alkohol-politiken i dess helhet. Vidare vill vi framhålla
+            att Sverige i större utsträckning måste framföra folkhälsoargumentet
+            i EU-sammanhang. Detta är angeläget för att inte de viktiga alkoholpolitiska
+            grundpelarna skall gå förlorade. Vad här anförts med anledning
+            av motion Sk3 (kd) yrkandena 1 och 5 bör ges regeringen till känna.
+            Särskilt yttrande Inriktningen av alkoholpolitiken m.m. Chris
+            Heister, Leif Carlson, Hans Hjortzberg- Nordlund och Cristina
+            Husmark Pehrsson (alla m) anför: Vi har länge hävdat att det föreligger
+            nya förutsättningar för alkoholpolitiken till följd av förändringarna
+            i samhället. Inte minst är det nödvändigt att respektera dessa
+            nya förutsättningar i kampen mot den kriminella alkohol-hantering
+            som har kunnat växa upp, närd av den gamla alkoholpolitiken med
+            dess höga skatter på alkohol och begränsade tillgänglighet. Enligt
+            vår mening ligger det verkliga hotet mot folkhälsan i att alltfler
+            köper smuggelsprit och hembränt. Den växande svarta marknaden
+            gör att exempelvis ålderskontrollen på Systembolaget och på restaurangerna
+            blir meningslös. De höga alkohol- skatterna hindrar inte heller
+            den som köper svartsprit utan ökar bara lönsamheten för alla parter
+            på den svarta marknaden och uppmuntrar därigenom till ytterligare
+            olagliga affärer. Vi anser därför att det finns alkohol-politiska
+            skäl att ytterligare sänka skatten, som också framhålls i motion
+            2001/02:Sk1 (m).
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

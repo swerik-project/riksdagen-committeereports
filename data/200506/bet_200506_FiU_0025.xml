@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200506_FiU_0025">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Riksdagen har godkänt Riksrevisionens årsredovisning för 2005. Statsbudgetens anslag för Riksrevisionen och Riksrevisionens internationella uppdrag har inte utnyttjats fullt ut varför riksdagen anser att ett sparande på över 3 % för dessa anslag ska dras in. Riksrevisionen är en myndighet under riksdagen som ska granska de statliga myndigheterna.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Riksrevisionens årsredovisning för 2005 (FiU25)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Bifall till utskottsinitiativ FiU2. Redogörelsen läggs till handlingarna. Avslag på motionen.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GT09125</idno>
+              <title>2006-05-17</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">125</biblScope>
+              <note type="display-reference">2006-05-17</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GT09124</idno>
+              <title>2006-05-16</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">124</biblScope>
+              <note type="display-reference">2006-05-16</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GT0K269</idno>
+              <title>2005/06:269</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">269</biblScope>
+              <note type="display-reference">2005/06:269</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GT0K270</idno>
+              <title>2005/06:270</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">270</biblScope>
+              <note type="display-reference">2005/06:270</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GT0K271</idno>
+              <title>2005/06:271</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">271</biblScope>
+              <note type="display-reference">2005/06:271</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="redogorelse">
+              <idno type="riksdagen">GT04RRS10</idno>
+              <title>Riksrevisionens årsredovisning för 2005</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">RRS10</biblScope>
+              <note type="display-reference">redogorelse 2005/06:RRS10 Riksrevisionens årsredovisning för 2005</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GT02Kr35</idno>
+              <title>med anledning av prop. 2005/06:112 Viktigare än någonsin! Radio och TV i allmänhetens tjänst 2007-2012</title>
+              <title type="sub">av Dan Kihlström m.fl. (KD)</title>
+              <biblScope unit="riksdag-session">2005/06</biblScope>
+              <biblScope unit="document-number">Kr35</biblScope>
+              <note type="display-reference">motion 2005/06:Kr35 med anledning av prop. 2005/06:112 Viktigare än någonsin! Radio och TV i allmänhetens tjänst 2007-2012</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2006-05-12">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2006-05-12">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2006-05-08">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2006-05-08">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2006-05-08">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-05-04">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2006-05-04">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-04-25">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-04-25">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-04-20">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2006-03-23">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2006-05-17">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2006-05-17">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2006-05-17">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-05-16">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2006-05-16">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-05-15">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2006-05-15">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-05-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2006-05-12">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets betänkande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2005/06:FiU25
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Riksrevisionens årsredovisning för 2005 (redog. RRS10)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDABJN2D" rend="AvsnittsRubrik">
+            Sammanfattning
+          </p>
+          <p>
+            Riksrevisionens årsredovisning för 2005 har överlämnats till
+            riksdagen i form av en redogörelse (redog. RRS10). Utskottet föreslår
+            efter genomförd revision att riksdagen lägger Riksrevisionens
+            årsredovisning till handlingarna. Utskottet föreslår också att
+            anslagssparande över 3 % av den totala anslagsnivån dras in för
+            ramanslagen
+            <seg rend="grad2">
+              90:1 Riksrevisionen och 8:6 Riksrevisionen: Internationella uppdrag
+            </seg>
+            .
+          </p>
+          <p>
+            Vidare avstyrker utskottet ett motionsyrkande från Kristdemokraterna
+            om revision av programbolagen.
+          </p>
+          <p>
+            I betänkandet finns en reservation (kd).
+          </p>
+          <p xml:id="IDAYJN2D" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  1.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Riksrevisionens årsredovisning för 2005
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger Riksrevisionens årsredovisning för 2005 (redog.
+                  2005/06:RRS10) till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  2.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Riksrevisionens anslagssparande
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen beslutar att det anslagssparande på ramanslagen 90:1
+                  Riksrevisionen och 8:6 Riksrevisionen: Internationella uppdrag,
+                  som vid slutet av budgetåret 2005 översteg 3 % av anslagsbeloppet,
+                  ska föras bort som indragning av anslagsbelopp.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  3.
+                </p>
+              </cell>
+              <cell>
+                <p rend="forslagspunkt">
+                  Revision av programbolagen
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen avslår motion
+                </p>
+                <p rend="stallningstagandeforslagspunkt">
+                  2005/06:Kr35 av Dan Kihlström m.fl. (kd) yrkande 6.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation (kd)
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 4 maj 2006
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Arne Kjörnsberg
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Arne Kjörnsberg (s),
+            Mikael Odenberg (m), Carin Lundberg (s), Sonia Karlsson (s), Kjell
+            Nordström (s), Mats Odell (kd), Agneta Ringman (s), Bo Bernhardsson
+            (s), Christer Nylander (fp), Roger Tiefensee (c), Hans Hoff (s),
+            Cecilia Widegren (m), Yvonne Ruwaida (mp), Tommy Ternemar (s),
+            Tomas Högström (m), Gunnar Nordmark (fp) och Siv Holma (v).
+          </p>
+          <p xml:id="IDANRN2D" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p>
+            Enligt lagen (2002:1023) med instruktion för Riksrevisionen ska
+            myndigheten senast den 22 februari varje år lämna årsredovisning
+            för det senaste budgetåret till riksdagen. Enligt samma lag beslutar
+            Riksrevisionens styrelse om årsredovisning. Styrelsen har överlämnat
+            årsredovisningen för 2005 till riksdagen i form av en redogörelse
+            (redog. 2005/06:RRS10).
+          </p>
+          <p>
+            Styrelsen har även överlämnat en skrivelse med förslag till hantering
+            av Riksrevisionens anslagssparande (dnr 060-2718-05/06). Riksdagsförvaltningen
+            har yttrat sig med anledning av styrelsens beslut i fråga om anslagssparandet
+            (dnr 250-2692-05/06).
+          </p>
+          <p>
+            Vidare har utrikesutskottet lämnat ett yttrande i form av ett
+            protokollsutdrag med anledning av anslagssparandet på ramanslag
+            8:6 Riksrevisionen: Internationella uppdrag.
+          </p>
+          <p>
+            Ingen motion har väckts med anledning av redogörelsen. I betänkandet
+            behandlas dock ett motionsyrkande från Kristdemokraterna om revision
+            av programbolagen.
+          </p>
+          <p>
+            Finansutskottet ansvarar för att revision görs av Riksrevisionen.
+            För den uppgiften har utskottet anlitat Lindebergs Grant Thornton.
+            Revisionsberättelsen och revisionspromemorian finns tillgängliga
+            hos finansutskottet (dnr 060-2632-05/06).
+          </p>
+          <p xml:id="IDAASN2D" rend="AvsnittsRubrik">
+            Utskottets överväganden
+          </p>
+          <p xml:id="IDAESN2D" rend="rubrik2">
+            Riksrevisionens årsredovisning för 2005
+          </p>
+          <div rend="ruta_">
+            <p xml:id="IDALSN2D" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <p rend="textiruta_">
+              Utskottet föreslår efter avslutad revision att riksdagen lägger
+              Riksrevisionens årsredovisning för 2005 till handlingarna
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDATSN2D" rend="r3">
+              Redogörelsen
+            </p>
+            <p>
+              Årsredovisningen fastställdes av styrelsen vid ett sammanträde
+              den 15 februari 2006.
+            </p>
+            <p>
+              Riksrevisionen har två huvuduppgifter: att årligen granska myndigheternas
+              årsredovisning (årlig revision) och att granska om staten med
+              hänsyn till allmänna samhällsintressen får ett effektivt utbyte
+              av sina insatser (effektivitetsrevision). Riksrevisionen ska även
+              bedriva internationell verksamhet. Verksamheten finansieras i
+              huvudsak med anslag. En mindre del av den internationella verksamheten
+              finansieras med avgifter.
+            </p>
+            <p xml:id="IDA2SN2D" rend="r4">
+              Verksamhetsgren: Årlig revision
+            </p>
+            <p>
+              Riksrevisionen har enligt lagen (2002:1022) om revision av statlig
+              verksamhet m.m. utfört årlig revision av 257 revisionsobjekt under
+              2005. Därutöver genomförde Riksrevisionen, i enlighet med annan
+              lagstiftning, årlig revision av ett 60-tal bolag och stiftelser,
+              ett 25-tal övriga organisationer samt 4 nordiska institutioner
+              med säte i Sverige.
+            </p>
+            <p>
+              Granskningen har genomförts enligt god revisionssed, och revisionsberättelser
+              för samtliga revisionsobjekt har lämnats inom utsatt tid. Den
+              samlade bedömningen av den årliga revisionen av myndigheterna
+              var att den finansiella redovisningen i stort fungerar väl inom
+              statsförvaltningen. Av totalt 278 revisionsberättelser lämnades
+              12 med invändning, vilket är färre än föregående år.
+            </p>
+            <p xml:id="IDAFTN2D" rend="r4">
+              Verksamhetsgren: Effektivitetsrevision
+            </p>
+            <p>
+              Effektivitetsrevisionen ska enligt lagen (2002:1022) om revision
+              av statlig verksamhet m.m. främst ta sikte på förhållanden med
+              anknytning till statens budget, genomförandet och resultatet av
+              statlig verksamhet samt åtaganden i övrigt. Effektivitetsrevisionen
+              granskar hela verkställighetskedjan inom statlig förvaltning.
+            </p>
+            <p>
+              Under 2005 genomfördes 31 effektivitetsgranskningar. Det innebar
+              att målet, som var satt till 30 granskningar, nåddes.
+            </p>
+            <p xml:id="IDAOTN2D" rend="r4">
+              Ny modell för kvalitetssäkring inom effektivitetsrevision
+            </p>
+            <p>
+              Finansutskottet begärde i samband med sin behandling av Riksrevisionens
+              årsredovisning för 2004 en redogörelse för arbetet med kvalitetssäkring
+              av effektivitetsrevisionen (bet. 2004/05:FiU31 s. 7).
+            </p>
+            <p>
+              Riksrevisionen införde den 1 januari 2005 en gemensam och enhetlig
+              modell för kvalitetssäkring av effektivitetsrevisionens granskning.
+              Kvalitetssäkring utförs löpande under granskningen i syfte att
+              ge en kontinuerlig återkoppling av utfört arbete. Respektive avdelningschef
+              ansvarar för kvalitetssäkringen, med stöd av ett kvalitetssäkringsråd
+              (med personer som inte tillhör projektet eller den ansvariga avdelningen).
+              Kvalitetssäkring sker vid fem tillfällen under respektive granskning.
+            </p>
+            <p>
+              Syftet med modellen är dels att fånga upp och åtgärda eventuella
+              brister under granskningens gång, dels att bidra till verksamhetens
+              utveckling. Generella erfarenheter från kvalitetssäkringen redovisas
+              två gånger om året. Förutom de åtgärder som vidtas i de enskilda
+              granskningarna med anledning av kvalitetssäkringen ska även en
+              vägledning för effektivitetsrevision utarbetas.
+            </p>
+            <p xml:id="IDA0TN2D" rend="r4">
+              Indikatorer på vilka effekter granskningarna leder till
+            </p>
+            <p>
+              Enligt Riksrevisionen är det svårt att entydigt härleda och isolera
+              effekterna av en viss granskning. Två indikatorer i sammanhanget
+              är dock hur granskningarna tas emot och behandlas av riksdagen
+              samt vilka åtgärder som regeringen redovisar.
+            </p>
+            <p>
+              Fram t.o.m. utgången av 2005 har riksdagen slutbehandlat totalt
+              19 framställningar från Riksrevisionens styrelse. Av dessa ledde
+              5 till bifall eller delvis bifall.
+            </p>
+            <p>
+              I budgetpropositionen för 2006 omnämns samtliga rapporter från
+              effektivitetsrevisionen som publicerats sedan föregående års budgetproposition.
+              I de flesta fall kommenteras också de förslag som lämnas i rapporterna.
+              Någon uppföljning av rekommendationer som getts i tidigare års
+              granskningsrapporter görs dock inte.
+            </p>
+            <p xml:id="IDAGUN2D" rend="r4">
+              Verksamhetsgren: Internationell verksamhet
+            </p>
+            <p>
+              Enligt Riksrevisionens instruktion får myndigheten inom sitt
+              verksamhetsområde utföra uppdrag och tillhandahålla tjänster på
+              det internationella området. Riksdagen har tilldelat Riksrevisionen
+              ett anslag för internationellt utvecklingssamarbete. Anslaget
+              uppgick 2005 till 46 miljoner kronor, varav knappt 32 miljoner
+              kronor utnyttjades.
+            </p>
+            <p>
+              Riksrevisionen är Sveriges Supreme Audit Institution (SAI) och
+              företräder Sverige internationellt inom området statlig revision.
+            </p>
+            <p xml:id="IDAPUN2D" rend="r3">
+              Externrevisionen
+            </p>
+            <p>
+              Enligt lag (2002:1023) med instruktion för Riksrevisionen svarar
+              finansutskottet för att det görs en revision av myndigheten. För
+              detta anlitar utskottet revisionsfirman Lindebergs Grant Thornton.
+              Revisionsberättelse samt revisionspromemoria inkom till finansutskottet
+              den 15 mars 2006. I revisionsberättelsen konstateras att årsredovisningen
+              har upprättats i enlighet med förordningen om myndigheters årsredovisning
+              m.m., anslagsdirektiv och övriga beslut för myndigheten. Årsredovisningen
+              bedöms vara i allt väsentligt rättvisande.
+            </p>
+            <p>
+              Av revisionspromemorian framgår att arbetet med att upprätta
+              och kvalitetssäkra bokslut och årsredovisning fungerat bra när
+              det gäller den finansiella delen av årsredovisningen. Dock kan
+              de informativa delarna av årsredovisningen förbättras vad avser
+              de krav som ställs i anslagsdirektivet. Enligt externrevisorerna
+              kan analysen av hur uppsatta mål har uppfyllts utvecklas och göras
+              tydligare.
+            </p>
+            <p>
+              Vidare påpekas att rutinerna för fördelning av overheadkostnader
+              har förbättrats väsentligt under året i samband med att en ny
+              ekonomistyrningsmodell införts.
+            </p>
+            <p>
+              Externrevisorn har även synpunkter på det höga anslagssparandet,
+              vilka redovisas nedan i avsnittet "Riksrevisionens anslagssparande".
+            </p>
+            <p xml:id="IDA4UN2D" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Utskottet konstaterar att den anlitade revisorn bedömer att Riksrevisionens
+              årsredovisning i allt väsentligt är rättvisande. Revisionsberättelsen
+              är således ren.
+            </p>
+            <p xml:id="IDAEVN2D" rend="r4">
+              Nya modellen för kvalitetssäkring
+            </p>
+            <p>
+              I enlighet med vad utskottet tidigare efterfrågat presenterar
+              Riksrevisionen i årsredovisningen sin nyligen införda modell för
+              kvalitetssäkring. Utskottet anser det värdefullt att en sådan
+              modell nu införts. Konstruktionen med ett kvalitetssäkringsråd
+              med personer som inte tillhör projektet bör kunna bidra till att
+              avstämningarna under arbetets gång görs på ett objektivt sätt.
+            </p>
+            <p xml:id="IDAKVN2D" rend="r4">
+              Effekterna av Riksrevisionens granskningar
+            </p>
+            <p>
+              Utskottet har tidigare påpekat vikten av att effekterna av Riksrevisionens
+              granskningar närmare analyseras (bet. 2005/06:FiU2). Har staten
+              fått ett mer effektivt utbyte av sina insatser tack vare Riksrevisionens
+              verksamhet? Riksrevisionen anger i årsredovisningen att relevanta
+              indikatorer på effekter kan vara hur granskningarna tas emot och
+              behandlas av riksdagen samt vilka åtgärder regeringen redovisar
+              med anledning av rapporterna.
+            </p>
+            <p>
+              Beträffande förstnämnda indikator är utskottet tveksamt till
+              om riksdagsbehandlingen av styrelsens framställningar säger något
+              om effekterna. Tvärtom kan en sådan indikator bli missvisande.
+              Att exempelvis riksdagen lägger en granskningsrapport till handlingarna
+              eller avslår densamma kan ibland bero på att regeringen redan
+              vidtagit relevanta åtgärder, dvs. att granskningen fått avsedd
+              effekt och att några ytterligare åtgärder från riksdagens sida
+              inte är nödvändiga. Skälet till avslaget kan också vara mer riksdagsinternt
+              t.ex. att frågan nyligen har varit föremål för riksdagsbehandling.
+            </p>
+            <p>
+              Den andra indikatorn - regeringens åtgärder med anledning av
+              rapporterna - är enligt utskottet mer intressant. Här anser dock
+              utskottet att redogörelsen borde vara mer djupgående, och även
+              omfatta Riksrevisionens egen utvärdering av vilka effekter deras
+              granskningar fått. En lämplig ordning skulle kunna vara att Riksrevisionen
+              avvaktar med att försöka bedöma resultatet av sin granskning till
+              dess att regeringen redovisat vilka åtgärder man vidtagit med
+              anledning av granskningen. Granskningsrapporterna ska ju lämnas
+              till regeringen oavsett om de går via riksdagen eller inte. Regeringen
+              redovisar i budgetpropositionen vilka åtgärder man avser att vidta
+              eller har vidtagit med anledning av de olika granskningarna. Finansutskottet
+              kommenterar i sitt betänkande med anledning av riksrevisionens
+              årliga rapport (senast i bet. 2005/06:FiU15) de åtgärder regeringen
+              redovisat. En naturlig ordning vore enligt utskottets mening att
+              riksrevisorerna därefter, i årsredovisningen eller i annat sammanhang,
+              bedömde vilka effekter deras granskning lett till.
+            </p>
+            <p>
+              Utskottet noterar att även externrevisorn efterfrågar en tydligare
+              och mer kvalitativ återrapportering till riksdagen i fråga om
+              i vilken utsträckning uppställda mål nåtts.
+            </p>
+            <p xml:id="IDAZVN2D" rend="r4">
+              Riksrevisionens OH-kostnader
+            </p>
+            <p>
+              Utskottet anser att det är tillfredsställande att, som externrevisorn
+              konstaterar, rutinerna för fördelning av overheadkostnader (OH-kostnader)
+              har förbättrats i och med en ny ekonomistyrningsmodell.
+            </p>
+            <p>
+              Utskottet noterar vidare att nivån på Riksrevisionens gemensamma
+              OH-kostnader var drygt 33 % av de totala kostnaderna (enligt en
+              sammanställning från Riksrevisionens ekonomienhet). Detta kan
+              jämföras med ESV:s undersökning av myndigheternas OH-kostnader
+              (Nyckeltal för OH-kostnader 2005:3), där genomsnittet för staten
+              hamnade på ca 25 %. Skillnaden i förhållande till genomsnittet
+              förklaras framför allt av Riksrevisionens högre kostnader för
+              IT.
+            </p>
+            <p>
+              Utskottet föreslår att riksdagen med det anförda lägger redogörelsen
+              till handlingarna.
+            </p>
+            <p xml:id="IDAIWN2D" rend="rubrik2">
+              Riksrevisionens anslagssparande
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDAPWN2D" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <p rend="textiruta_">
+              Utskottet föreslår att anslagssparande över 3 % av det totala
+              anslaget 2005 dras in för ramanslagen
+              <seg rend="grad2">
+                90:1Riksrevisionen och 8:6 Riksrevisionen: Internationella uppdrag
+              </seg>
+              .
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDABXN2D" rend="r3">
+              Redogörelsen
+            </p>
+            <p>
+              Av tabell 1 framgår att det utgående totala anslagssparandet
+              för 2005 var ca 34,6 miljoner kronor.
+            </p>
+          </div>
+          <div rend="tabellrubrikavsnitt_">
+            <p rend="tabellrubrik grad1">
+              Tabell 1. Anslagssparande 2005
+            </p>
+            <p rend="tabellunderrubrik grad2">
+              1000-tal kronor
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p>
+              <graphic n="Bild" url="Shape{57A81313-9D11-4468-A76F-83C2489173C4}.emf"/>
+            </p>
+            <p>
+              Särskilt högt är anslagssparandet för den internationella verksamheten.
+              Av 46 miljoner kronor i anslag utnyttjades knappt 32 miljoner
+              kronor. Det omställningsarbete som är följden av övergången 2004
+              från biståndsinsatser finansierade av Sida till en verksamhet
+              som bedrivs med eget anslag har fortsatt under 2005. Arbetet med
+              att skapa stabila rutiner för verksamheten har enligt Riksrevisionen
+              bidragit till att verksamhetsvolymen under 2005 inte svarat mot
+              anvisat anslag.
+            </p>
+            <p>
+              Riksrevisionens styrelse anger i redogörelsen att man ska återkomma
+              till frågan om hanteringen av Riksrevisionens anslagssparande.
+              Styrelsen beslutade vid sammanträdet den 15 mars att föreslå riksdagen
+              att anslagssparande över 3 % på Riksrevisionens båda anslag dras
+              in.
+            </p>
+            <p xml:id="IDAFYN2D" rend="r3">
+              Externrevisionen
+            </p>
+            <p>
+              Externrevisorerna konstaterar att Riksrevisionen i förra årets
+              årsredovisning uppgav att anslagssparandet för 2004 till stor
+              del berodde på att myndigheten var under uppbyggnad och att en
+              verksamhetsnivå i överensstämmelse med anslagstilldelningen skulles
+              uppnås 2005. Så har inte blivit fallet.
+            </p>
+            <p>
+              Externrevisorerna efterlyser en kommentar och analys av hur det
+              höga anslagssparandet påverkat myndighetens förmåga att nå uppställda
+              mål. För den internationella verksamheten är anslagssparandet
+              hela 31 % av anslagsramen, vilket kan indikera att tilldelat anslag
+              är överdimensionerat.
+            </p>
+            <p xml:id="IDAOYN2D" rend="r3">
+              Utrikesutskottets yttrande
+            </p>
+            <p>
+              Utrikesutskottet har lämnat ett yttrande i form av ett protokollsutdrag
+              om anslagssparandet på anslag 8:6 Riksrevisionen: Internationella
+              uppdrag. Utrikesutskottet tillstyrker den föreslagna indragningen
+              av anslagssparande utöver 3 % av anslagsnivån.
+            </p>
+            <p xml:id="IDAUYN2D" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Riksrevisionens styrelse anger i redogörelsen att man ska återkomma
+              till frågan om hanteringen av Riksrevisionens anslagssparande.
+              Styrelsen beslutade vid sammanträdet den 15 mars att föreslå riksdagen
+              att anslagssparande över 3 % på Riksrevisionens båda anslag dras
+              in.
+            </p>
+            <p>
+              Riksdagsförvaltningen har yttrat sig över styrelsens beslut i
+              denna fråga och hade inget att erinra mot förslaget.
+            </p>
+            <p>
+              Utskottet noterar också att utrikesutskottet i sitt yttrande
+              förordar att anslagssparande över 3 % på anslag 8:6 Riksrevisionen:
+              Internationella uppdrag dras in. Finansutskottet anser att motsvarande
+              indragning bör göras även på anslag 90:1 Riksrevisionen. Det betyder
+              sammantaget att av det totala utgående anslagssparandet på 34
+              575 tkr (se tabell 1) får Riksrevisionen behålla 9 724 tkr. Resterande
+              belopp, dvs. 24 851 tkr, dras in. Fördelat per anslag blir indragningarna
+              för anslag 90:1 Riksrevisionen 10 950 tkr och för anslag 8:6 Riksrevisionen:
+              Internationella uppdrag 13 901 tkr.
+            </p>
+            <p>
+              Vidare kan utskottet konstatera att Riksrevisionens anslagssparande
+              för 2005 var marginellt lägre än året dessförinnan. Samtidigt
+              uppgavs i fjolårets årsredovisning att anslagssparandet till stor
+              del berodde på att myndigheten var under uppbyggnad, men att en
+              verksamhetsnivå i överensstämmelse med anslagstilldelningen skulle
+              uppnås 2005. Så har alltså inte blivit fallet. När det gäller
+              den internationella verksamheten är anslagssparandet särskilt
+              högt, drygt 30 % av anslagsramen. I sistnämnda fall anser utskottet
+              att frågan om anslagets storlek bör omprövas i samband med höstens
+              anslagsberedning.
+            </p>
+            <p xml:id="IDAEZN2D" rend="rubrik2">
+              Revision av programbolagen
+            </p>
+          </div>
+          <div rend="ruta_">
+            <p xml:id="IDALZN2D" rend="rubrikiruta_">
+              Utskottets förslag i korthet
+            </p>
+            <p rend="textiruta_">
+              Utskottet avstyrker en motion från Kristdemokraterna som handlar
+              om programbolagens självständighet och revision. Utskottet anser
+              att den revision Riksrevisionen svarar för är en viktig del av
+              riksdagens kontrollmakt.
+            </p>
+            <p rend="textiruta_">
+              Jämför reservation (kd).
+            </p>
+          </div>
+          <div type="html-continuation">
+            <p xml:id="IDAUZN2D" rend="r3">
+              Motionen
+            </p>
+            <p>
+              I
+              <seg rend="grad2">
+                motion Kr35
+              </seg>
+              yrkande 6 av Dan Kihlström m.fl. (kd) behandlas ägandet och revisionen
+              av de statliga programbolagen (Sveriges Radio AB, Utbildningsradion
+              AB och Sveriges Television AB). Enligt motionärerna har programbolagen
+              genom att ägas av en särskild stiftelse en friare ställning jämfört
+              med andra statliga bolag. Dock har det under senare tid fattats
+              beslut och lagts förslag som kan rubba tilltron till att programbolagen
+              bedriver sin verksamhet på ett självständigt sätt och i allmänhetens
+              tjänst. Riksrevisionen har beslutat att utse revisorer i programbolagen,
+              något som stiftelsen menar är felaktigt då man anser att programbolagen
+              inte omfattas av lagen (2002:1022) om revision av statlig verksamhet
+              m.m. Programbolagen bör därför inte ingå i det revisionsuppdrag
+              som Riksrevisionen har utan behandlas som privata aktiebolag.
+            </p>
+            <p>
+              Motionärerna anser också att det är tveksamt om den effektivitetsrevision
+              som Riksrevisionen utför är förenlig med det oberoende som programbolagen
+              ska ha.
+            </p>
+            <p>
+              Vidare betonar motionärerna att avkastningen på förvaltningsstiftelsens
+              kapital varierar med börsutveckling och ränteläge. Detta i förening
+              med ökade kostnader för revision och uppföljning innebär att förvaltningsstiftelsen
+              på sikt behöver ett kapitaltillskott.
+            </p>
+            <p xml:id="IDAE0N2D" rend="r3">
+              Utskottets ställningstagande
+            </p>
+            <p>
+              Med anledning av vad som framförs i motionen vill utskottet först
+              klarlägga att syftet med att Riksrevisionen utser revisor i programbolagen
+              naturligtvis inte är att minska tilltron till bolagens självständighet
+              utan snarare tvärtom. Riksrevisionen är en del av riksdagens kontrollmakt.
+              Riksdagens kontroll ska bidra till att regeringen och myndigheterna
+              följer lagarna, arbetar effektivt och att medborgarna känner förtroende
+              för den offentliga makten.
+            </p>
+            <p>
+              Grunden till att Riksrevisionen granskar programbolagen finns
+              i lagen (2002:1022) om revision av statlig verksamhet m.m. Enligt
+              denna får Riksrevisionen granska den verksamhet som bedrivs av
+              staten i form av aktiebolag, om verksamheten är reglerad i lag
+              eller någon annan författning eller om staten som ägare eller
+              genom tillskott av statliga anslagsmedel eller genom avtal eller
+              på något annat sätt har ett bestämmande inflytande över verksamheten.
+              Utskottet anser att staten har ett bestämmande inflytande över
+              programbolagen genom den omfattande reglering som sker av verksamheten
+              t.ex. i bolagsordning, anslagsvillkor och beslut om årliga anslag.
+              Därmed får Riksrevisionen granska verksamheten samt förorda revisorer
+              enligt 9 kap. 8 § aktiebolagslagen (2005:551).
+            </p>
+            <p>
+              Motionärerna tar även upp frågan om kostnaderna för revisionen.
+              I det sammanhanget kan utskottet konstatera att kostnaden för
+              den revision som bedrivs av de av Riksrevisionen förordade revisorerna
+              uppgick till 600 000 kr för räkenskapsåret 2005. Detta ska ställas
+              i relation till programbolagens redovisade omsättning samma år
+              på 6,7 miljarder kronor. Det är inte heller fråga om någon "dubbel"
+              revision. Den i respektive programföretag av Riksrevisionen förordnade
+              revisorn arbetar tillsammans med den bolagsstämmovalde revisorn
+              och den av regeringen utsedde revisorn. Man arbetar utifrån en
+              revisionsplan där en arbetsfördelning görs i syfte att få en kostnadseffektiv
+              revision där de olika revisorernas kompetens på bästa sätt tillvaratas.
+            </p>
+            <p>
+              Utskottet avstyrker motion Kr35 (kd) yrkande 6.
+            </p>
+            <p xml:id="IDAW0N2D" rend="AvsnittsRubrik">
+              Reservation
+            </p>
+            <p>
+              Utskottets förslag till riksdagsbeslut och ställningstaganden
+              har föranlett följande reservation. I rubriken anges vilken punkt
+              i utskottets förslag till riksdagsbeslut som behandlas i avsnittet.
+            </p>
+            <table>
+              <row>
+                <cell xml:id="IDA30N2D">
+                  <p rend="reservation">
+                    Revision av programbolagen, punkt 3 (kd)
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell>
+                  <p rend="reservanter">
+                    av Mats Odell (kd).
+                  </p>
+                </cell>
+              </row>
+            </table>
+            <p xml:id="IDA41N2D" rend="r4">
+              Förslag till riksdagsbeslut
+            </p>
+            <p>
+              Jag anser att förslaget till riksdagsbeslut under punkt 3 borde
+              ha följande lydelse:
+            </p>
+            <p rend="stallningstagandereservation_">
+              Riksdagen tillkännager för regeringen som sin mening vad som
+              anförs i reservationen om revision av programbolagen. Därmed bifaller
+              riksdagen motion
+            </p>
+            <p rend="stallningstagandereservation_">
+              2005/06:Kr35 av Dan Kihlström m.fl. (kd) yrkande 6.
+            </p>
+            <p xml:id="IDAG2N2D" rend="r4">
+              Ställningstagande
+            </p>
+            <p>
+              Kristdemokraterna anser att public service, eller radio och tv
+              i allmänhetens tjänst som det också kallas, har en mycket viktig
+              uppgift att fylla. Genom att överlämna ägandet till en särskild
+              förvaltningsstiftelse har riksdagen visat viljan och värdet i
+              att programbolagen är självständiga och ägarmässigt så långt borta
+              från staten som möjligt.
+            </p>
+            <p>
+              Jag anser att det är fel att Riksrevisionen ska utse revisorer
+              i programbolagen, då programbolagen enligt min mening inte omfattas
+              av lagen (2002:1022) om revision av statlig verksamhet m.m. Sveriges
+              Radio AB, Utbildningsradion AB och Sveriges Television AB bör
+              därför inte ingå i det revisionsuppdrag som Riksrevisionen har
+              utan behandlas som ett privat aktiebolag. Det är vidare tveksamt
+              om den effektivitetsrevision som Riksrevisionen utför är förenlig
+              med det oberoende som programbolagen ska ha.
+            </p>
+            <p>
+              Jag tillstyrker därmed motion Kr35 (kd) yrkande 6.
+            </p>
+            <p rend="Bilaga">
+              Bilaga
+            </p>
+            <p xml:id="IDAT2N2D" rend="BilageRubrik">
+              Förteckning över behandlade förslag
+            </p>
+            <p xml:id="IDAW2N2D" rend="rubrik2">
+              Redogörelsen
+            </p>
+            <p type="html-endastettyrkande">
+              Redogörelse 2005/06:RRS10 Riksrevisionens årsredovisning för
+              2005.
+            </p>
+            <p xml:id="IDA02N2D" rend="rubrik2">
+              Motion väckt med anledning av prop. 2005/06:112
+            </p>
+            <p rend="behandlatdokument_">
+              2005/06:Kr35 av Dan Kihlström m.fl. (kd):
+            </p>
+            <table>
+              <row>
+                <cell>
+                  <p>
+                    6.
+                  </p>
+                </cell>
+                <cell>
+                  <p>
+                    Riksdagen tillkännager för regeringen som sin mening vad i motionen
+                    anförs om det självständiga ägandet och revisionen.
+                  </p>
+                </cell>
+              </row>
+            </table>
+          </div>
+          <div type="html-yttrandebilaga">
+            <p xml:id="IDAL4N2D" rend="BilageRubrik">
+              Utrikesutskottets protokollsutdrag 2005/06:30.6
+            </p>
+            <p>
+              <graphic n="Bild" url="shape{55A1F4D4-47A4-4CC7-B148-B20A8018A3D3}.tif"/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

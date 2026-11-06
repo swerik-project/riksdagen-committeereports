@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200910_FiU_0040">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Finansutskottet har granskat EU-kommissionens meddelande om förstärkt samordning av den ekonomiska politiken. EU-kommissionen menar att den globala ekonomiska krisen har inneburit att samordningen av den ekonomiska politiken i EU har visat på svagheter och att dessa bör rättas till. Den dåliga efterlevnaden av regler och principer har inneburit ett särskilt tryck på den monetära unionens funktion. I meddelandet tar kommissionen därför upp ett antal förslag. Finansutskottet delar uppfattningen att den ekonomiska krisen har visat hur viktigt det är att ha stabila finanspolitiska ramverk på både nationell nivå och på EU-nivå. Utskottets betonar dock sin uppfattning att det inte är aktuellt att EU ska granska en budgetproposition innan den läggs fram till riksdagen. Utskottet betonar att det är riksdagen som fattar beslutet om både utgifter och inkomster. Utskottet anser också att det inte är helt tydligt i meddelandet vilka åtgärder som är avsedda för länder inom den monetära unionen i förhållande till övriga länder inom EU. Finansutskottet anser också att det är viktigt att kvaliteten i statistiken kring de offentliga finanserna ökar. Riksdagen avslutade ärendet. Därefter skickades utlåtandet till Regeringskansliet och för kännedom till EU-kommissionen.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">EU:s förslag om förstärkt samordning av den ekonomiska politiken (FiU40)</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Utlåtandet läggs till handlingarna.</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GX09143</idno>
+              <title>2010-06-23</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">143</biblScope>
+              <note type="display-reference">2010-06-23</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GX09143</idno>
+              <title>2010-06-23</title>
+              <biblScope unit="riksdag-session">2009/10</biblScope>
+              <biblScope unit="document-number">143</biblScope>
+              <note type="display-reference">2010-06-23</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2010-06-21">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2010-06-21">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2010-06-18">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-06-18">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2010-06-18">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-06-17">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2010-06-17">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2010-06-17">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-06-15">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-06-15">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2010-06-08">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2010-06-23">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2010-06-23">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-06-23">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2010-06-23">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-06-22">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2010-06-22">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-06-21">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2010-06-21">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="betankande_">
+          <table>
+            <row>
+              <cell>
+                <p rend="HuvudRubrik_">
+                  Finansutskottets utlåtande
+                </p>
+                <p rend="HuvudRubrikRad2_">
+                  2009/10:FiU40
+                </p>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>
+                <p rend="DokumentRubrik_">
+                  Utlåtande om förstärkt samordning av den ekonomiska politiken
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+            <row>
+              <cell cols="2"/>
+            </row>
+          </table>
+          <p xml:id="IDACJ2Z" rend="rubrik1_sammanfattning_">
+            Sammanfattning
+          </p>
+          <p>
+            Utskottet behandlar i detta utlåtande kommissionens meddelande
+            Förstärkt samordning av den ekonomiska politiken (KOM(2010) 250).
+          </p>
+          <p>
+            Utskottet framhåller att den ekonomiska krisen har visat på vikten
+            av stabila finanspolitiska ramverk både på nationell nivå och
+            på EU-nivå. Det är således angeläget att stabilitets- och tillväxtpakten
+            respekteras. Det ska vara ordning och reda i offentliga finanser.
+          </p>
+          <p>
+            När det gäller förslaget om europeisk termin vill utskottet framhålla
+            att det enligt utskottets uppfattning inte är aktuellt att budgetpropositionen
+            förhandsgranskas inom EU innan den läggs fram i riksdagen. Det
+            är riksdagen som beslutar om budgeten, både utgifter och inkomster,
+            och förslaget till statsbudget ska således först presenteras för
+            riksdagen.
+          </p>
+          <p>
+            Det framgår inte alltid av kommissionens meddelande vilka åtgärder
+            som är avsedda endast för länder med euron som valuta. Utskottet
+            vill framhålla att Europeiska unionen är ett samarbete mellan
+            27 jämbördiga stater. Även om det kan finnas skäl för euroländerna
+            att inom sig ha mer detaljerade regler, måste hela unionens intresse
+            beaktas också när euroländerna har sina överläggningar.
+          </p>
+          <p>
+            Det är angeläget att kvaliteten i statistiken kring de offentliga
+            finanserna ökar. Utskottet har haft en särskild överläggning med
+            finansministern om kommissionens förslag i frågan. Utskottet framhöll
+            att frågan om statistiksekretess måste få en lösning och förutsätter
+            att så blir fallet.
+          </p>
+          <p>
+            De svenska erfarenheterna visar på värdet av ett stabilt finanspolitiskt
+            ramverk. Genom de förändringar som genomfördes från mitten av
+            1990-talet har de olika leden i den svenska budgetprocessen stramats
+            upp. Den stramare budgetprocessen har bidragit till stadga i den
+            ekonomiska politiken.
+          </p>
+          <p>
+            Utskottet föreslår att riksdagen lägger utlåtandet till handlingarna.
+            I utlåtandet finns 1 reservation (v).
+          </p>
+          <p xml:id="IDA1J2Z" rend="AvsnittsRubrik">
+            Utskottets förslag till riksdagsbeslut
+          </p>
+          <table>
+            <row>
+              <cell>
+                <p rend="forslagspunkt">
+                  Förstärkt samordning av den ekonomiska politiken
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="stallningstagandeforslagspunkt">
+                  Riksdagen lägger utlåtandet till handlingarna.
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p rend="reservationsreferens_">
+            Reservation (v) motiveringen
+          </p>
+          <p rend="justeringsdatum">
+            Stockholm den 17 juni 2010
+          </p>
+          <p>
+            På finansutskottets vägnar
+          </p>
+          <p rend="ordforanden_">
+            Stefan Attefall
+          </p>
+          <p rend="deltagare_">
+            Följande ledamöter har deltagit i beslutet: Stefan Attefall (kd),
+            Thomas Östros (s), Bertil Kjellberg (m), Sonia Karlsson (s), Roger
+            Tiefensee (c), Monica Green (s), Nina Lundström (fp), Hans Hoff
+            (s), Peder Wachtmeister (m), Göran Pettersson (m), Ulla Andersson
+            (v), Tommy Ternemar (s), Ann-Charlotte Hammar Johnsson (m), Christina
+            Zedell (s), Isabella Jernbeck (m), Mikael Oscarsson (kd) och Mats
+            Pertoft (mp).
+          </p>
+          <p xml:id="IDADN2Z" rend="AvsnittsRubrik">
+            Redogörelse för ärendet
+          </p>
+          <p xml:id="IDAGN2Z" rend="rubrik2">
+            Ärendet och dess beredning
+          </p>
+          <p>
+            Kommissionen presenterade den 12 maj meddelandet Förstärkt samordning
+            av den ekonomiska politiken (KOM(2010) 250). Kammaren har hänvisat
+            dokumentet till finansutskottet för granskning.
+          </p>
+          <p>
+            Finansminister Anders Borg informerade utskottet i frågor om
+            offentliga finanser i Europeiska unionen vid utskottets sammanträde
+            den 6 maj. Utskottet höll vid samma sammanträde en överläggning
+            med finansministern om statistikens kvalitet i EU.
+          </p>
+          <p>
+            Den 15 juni höll utskottet en intern utfrågning med statssekreterare
+            Susanne Ackum om förstärkt samordning av den ekonomiska politiken.
+          </p>
+          <p xml:id="IDATN2Z" rend="AvsnittsRubrik">
+            Utskottets granskning
+          </p>
+          <p xml:id="IDAWN2Z" rend="r3">
+            Meddelandet
+          </p>
+          <p xml:id="IDAZN2Z" rend="r4">
+            Inledning
+          </p>
+          <p>
+            De offentliga finanserna i flera euroländer har satts under tryck.
+            Vid ett extra möte i Ekofin söndagen den 9 maj 2010 nåddes en
+            politisk uppgörelse om en europeisk finansiell stabiliseringsmekanism.
+            Mekanismen består av två delar.
+          </p>
+          <p>
+            För det första ges kommissionen möjlighet att, på basis av artikel
+            122 i fördraget, låna upp som mest 60 miljarder euro att användas
+            som lån till en medlemsstat som är föremål för, eller är i allvarlig
+            fara till följd av, en allvarlig ekonomisk eller finansiell störning
+            orsakad av exceptionella händelser bortom dess egen kontroll.
+            Intentionen är att instrumentet främst ska användas för euroländer.
+          </p>
+          <p>
+            För det andra upprättas ett s.k.
+            <seg rend="grad2">
+              Special Purpose Vehicle
+            </seg>
+            (SPV) för att kanalisera lån till euroländer i händelse av att
+            de 60 miljarder euro som nämns ovan inte räcker. Totalt ska SPV
+            omfatta 440 miljarder euro. Medlemskap i SPV är öppet för samtliga
+            medlemsstater. Internationella valutafonden kommer att delta med
+            ytterligare åtminstone hälften av den summa som EU kommit fram
+            till.
+          </p>
+          <p>
+            Kommissionen erinrar i meddelandet om Ekofins beslut den 9 maj
+            och anser att lärdomar bör dras och åtgärder vidtas för att stärka
+            EU:s system för ekonomisk styrning i framtiden. Den globala ekonomiska
+            krisen har inneburit ett ifrågasättande av de gällande mekanismerna
+            för samordningen av den ekonomiska politiken i Europeiska unionen
+            och visat på svagheter. Den tidigare dåliga efterlevnaden av underliggande
+            regler och principer har inneburit att den ekonomiska och monetära
+            unionens funktion har kommit under särskilt tryck.
+          </p>
+          <p>
+            De flesta förslagen rör hela EU, men för euroområdet finns mer
+            långtgående förslag.
+          </p>
+          <p xml:id="IDAPO2Z" rend="r4">
+            Förstärkt efterlevnad av stabilitets- och tillväxtpakten och
+            fördjupad finanspolitisk samordning
+          </p>
+          <p>
+            I meddelandet betonas att det finns anledning att fullt ut använda
+            de övervakningsinstrument som är tillgängliga i fördraget. Utarbetandet
+            och bedömningen av stabilitets- och konvergensprogrammen utgör
+            kärnan i det förebyggande arbetet inom paktens ram. Det bör införas
+            nationella finanspolitiska ramverk som på ett bättre sätt avspeglar
+            prioriteringarna i EU:s övervakning av de offentliga finanserna.
+          </p>
+          <p>
+            För att säkerställa bättre efterlevnad av stabilitets- och tillväxtpaktens
+            regler bör användningen av EU-budgeten uppmärksammas bättre. En
+            bredare användning av EU-budgetmedel som incitament till regelefterlevnad
+            bör beaktas när beslut om nästkommande budgetram utarbetas. Målet
+            bör vara att upprätta rättvisa och effektiva incitament som är
+            tidsmässigt välanpassade för att följa stabilitets- och tillväxtpaktens
+            regler. Sammanhållningspolitiken bör få en tydligare roll när
+            det gäller att stödja medlemsstaternas åtgärder för att komma
+            till rätta med strukturella svagheter och konkurrenskraftsproblem.
+          </p>
+          <p>
+            Det är nödvändigt att komma till rätta med den höga offentliga
+            skuldsättningen och säkerställa långsiktigt hållbara offentliga
+            finanser. Skuldkriteriet bör ges en mer framskjuten plats och
+            samspelet mellan skuld och underskott bör beaktas bättre.
+          </p>
+          <p>
+            Det krävs bättre incitament och sanktioner för att se till att
+            stabilitets- och tillväxtpaktens regler efterlevs. En möjlighet
+            är räntebärande depositioner i händelse av olämplig finanspolitik.
+          </p>
+          <p xml:id="IDA4O2Z" rend="r4">
+            En bredare övervakning av den makroekonomiska utvecklingen och
+            konkurrenskraftsutvecklingen inom euroområdet
+          </p>
+          <p>
+            Kommissionen anser att övervakningen av den makroekonomiska utvecklingen
+            i euroområdet behöver förstärkas och breddas. Man bör utveckla
+            en ram för en förstärkt och utvidgad makroekonomisk övervakning
+            för medlemsstaterna i euroområdet med utgångspunkt i Europa 2020-strategin.
+            Övervakningen kommer att inkludera en resultattavla som kommer
+            att visa på behovet av åtgärder. En resultattavla, som för varje
+            land ska avspegla såväl hur utrikesställningen som ekonomin i
+            stort utvecklas, bör definieras och regelbundet följas upp. Den
+            skulle kunna innehålla relevanta indikatorer och bl.a. avspegla
+            hur bytesbalansen, utlandsställningen (nettoställningen gentemot
+            omvärlden), produktiviteten, enhetsarbetskostnaderna, sysselsättningen
+            och de reala effektiva växelkurserna liksom den offentliga skulden,
+            kreditgivningen i den privata sektorn och tillgångspriserna utvecklas.
+          </p>
+          <p xml:id="IDAEP2Z" rend="r4">
+            Integrerad samordning av den ekonomiska politiken för EU en europeisk
+            termin
+          </p>
+          <p>
+            Kommissionen erinrar om att den inom ramen för Europa 2020-initivativet
+            har föreslagit att bedömningen av finans- och strukturpolitiken
+            i EU:s medlemsstater ska synkroniseras. Ett sätt att upptäcka
+            oförenligheter och framväxande obalanser är genom ett system för
+            tidig kollegial granskning av nationella budgetar. Framläggandet
+            av och diskussionerna om stabilitets- och konvergensprogrammen
+            och de nationella reformprogrammen bör tidsmässigt sammanföras
+            för att bedöma den övergripande ekonomiska situationen och bättre
+            anpassa valet av tidpunkt till nationella budgetcykler. Kommissionen
+            erinrar vidare om sitt förslag om att stärka Eurostats mandat
+            att revidera nationell statistik och anser att det är viktigt
+            att detta förslag sätts i kraft utan dröjsmål.
+          </p>
+          <p>
+            För euroområdet bör en övergripande, horisontell bedömning av
+            den finanspolitiska inriktningen göras. Särskild uppmärksamhet
+            bör ägnas den sammanlagda inriktningen av finanspolitiken i situationer
+            med allvarliga ekonomiska spänningar, när betydande ekonomisk-politiska
+            åtgärder i enskilda medlemsstater kan antas ge stora externa effekter.
+            I händelse av uppenbara brister i budgetplanerna för det påföljande
+            året skulle en revidering av planerna kunna rekommenderas. Eurogruppen
+            bör ha en avgörande roll i detta nya system för förstärkt samordning.
+          </p>
+          <p>
+            Kommissionen föreslår en europeisk termin som bör inbegripa övervakningscykeln
+            för budget- och strukturpolitiken. Europeiska rådet ska tidigt
+            under året, med stöd av analyser från kommissionen, kartlägga
+            EU:s och euroområdets främsta ekonomiska utmaningar och ge strategisk
+            vägledning för den ekonomiska politiken. Medlemsstaterna ska beakta
+            slutsatserna av denna diskussion när de utarbetar sina stabilitets-
+            och konvergensprogram och nationella reformprogram. Stabilitets-
+            och konvergensprogrammen och de nationella reformprogrammen ska
+            offentliggöras samtidigt. Medlemsstaterna ska också uppmanas att,
+            med fullt beaktande av nationella bestämmelser och förfaranden,
+            involvera sina nationella parlament innan de lägger fram stabilitets-
+            och konvergensprogrammen och de nationella reformprogrammen för
+            multilateral övervakning på EU-nivå. Rådet ska, på grundval av
+            kommissionens bedömning, därefter ge sin bedömning och vägledning
+            vid en tidpunkt då viktiga budgetbeslut på nationell nivå fortfarande
+            är i förberedelsestadiet. Europaparlamentet bör på ett lämpligt
+            sätt medverka.
+          </p>
+          <p xml:id="IDAQP2Z" rend="r4">
+            Skapandet av ett stabilt krishanteringsramverk för medlemsstaterna
+            i euroområdet
+          </p>
+          <p>
+            Kommissionen anför att den grekiska krisen visade att det krävs
+            ett stabilt ramverk för krishantering för euroområdets medlemsstater.
+            Tydliga och trovärdiga förfaranden för att bevilja finansiellt
+            stöd till medlemsstater i euroområdet som befinner sig i ett allvarligt
+            finansiellt nödläge är nödvändiga för att på medellång och lång
+            sikt bevara den finansiella stabiliteten i euroområdet. Finansiellt
+            stöd bör ges i form av lån. De villkor som ställs skulle i normalfallet
+            inbegripa en lämplig kombination av finanspolitisk konsolidering
+            och förbättrad styrning av de offentliga finanserna inklusive
+            skattepolitiken, stabilisering av den finansiella sektorn i den
+            utsträckning som ett nödläge i den finansiella sektorn är kärnan
+            till problemen i de offentliga finanserna samt bredare ingrepp
+            i den ekonomiska politiken för att återställa makroekonomisk stabilitet
+            och en långsiktigt hållbar betalningsbalanssituation.
+          </p>
+          <p>
+            Kommissionen anser att Ekofinrådets beslut den 9 maj om upprätta
+            en tillfällig europeisk stabiliseringsmekanism med råge uppfyller
+            de grundläggande principerna för en permanent stabil krislösningsmekanism.
+            Kommissionen anser därför att högsta prioritet nu måste vara att
+            se till att denna mekanism är helt operationell.
+          </p>
+          <p xml:id="IDAZP2Z" rend="r4">
+            Kommande steg
+          </p>
+          <p>
+            Kommissionen vill ha medlemsstaternas, Europaparlamentets och
+            andra intressenters synpunkter på de idéer som presenteras i meddelandet
+            och som kommissionen anser är genomgripande och nödvändiga. Kommissionen
+            kommer att utveckla förslagen och under de närmaste månaderna
+            lägga fram lagstiftningsförslag. Den första europeiska terminen
+            bör starta i början av 2011.
+          </p>
+          <p xml:id="IDACQ2Z" rend="r3">
+            Kompletterande uppgifter om arbetet inom EU
+          </p>
+          <p xml:id="IDAFQ2Z" rend="r4">
+            Diskussion vid Ekofin i maj och juni
+          </p>
+          <p>
+            Kommissionen presenterade sitt meddelande vid Ekofins möte den
+            18 maj. Meddelandet fick i stort sett ett positivt välkomnande.
+            Många medlemsstater uttryckte emellertid stor tveksamhet inför
+            att låta kommissionen granska nationella budgetar innan dessa
+            lämnats till parlamenten.
+          </p>
+          <p>
+            Vid Ekofins möte den 8 juni kom man fram till att kommissionen
+            ska presentera förslag till mötet i Ekofin den 13 juli om fyra
+            områden: 1) tidig granskning av budgetar (europeisk termin), 2)
+            förbättrade sanktionsmöjligheter, 3) ökat fokus på skuldkvoten
+            samt 4) övervakning av konkurrenskraftsutveckligen.
+          </p>
+          <p xml:id="IDAOQ2Z" rend="r4">
+            van Rompuy-gruppen
+          </p>
+          <p>
+            van Rompuy-gruppen leds av Europeiska rådets ordförande Herman
+            van Rompuy och består av representanter från alla 27 medlemsstater,
+            i de flesta fall finansministrarna. Från svensk sida deltar finansminister
+            Anders Borg. Gruppen har fått i uppdrag av stats- och regeringscheferna
+            att utveckla ett ramverk för krishantering på EU-nivå och se över
+            hur budgetdisciplinen kan stärkas i EU. Gruppen ska avrapportera
+            sitt arbete till Europeiska rådet i oktober.
+          </p>
+          <p xml:id="IDAUQ2Z" rend="r4">
+            Gonzalez reflektionsgrupp
+          </p>
+          <p>
+            En reflektionsgrupp under ledning av Spaniens förre premiärminister
+            Felipe Gonzalez presenterade i maj 2010 sin rapport Project Europe
+            2030 Challenges and Opportunities. Gruppen tillsattes av Europeiska
+            rådet i december 2007 och dess rapport kommer att behandlas på
+            Europeiska rådets möte i juni. I rapporten anförs att EU kan spela
+            en viktig roll i världen, men bara om man inom EU arbetar gemensamt.
+            Det är nödvändigt att stärka den ekonomiska styrningen om man
+            ska kunna undvika asymmetriska chocker. Krisens ursprung hade
+            inte mycket att göra med stabilitets- och tillväxtpakten, men
+            pakten har inte varit tillräcklig för att garantera ekonomisk
+            konvergens under krisen. EU måste finna lösningar på de existerande
+            obalanserna mellan medlemsstaterna genom att granska och korrigera
+            nedgångar i konkurrenskraften, vilka syns i underskott i betalningsbalansen
+            och bytesbalansen.
+          </p>
+          <p xml:id="IDA0Q2Z" rend="r4">
+            Montis rapport om den inre marknaden
+          </p>
+          <p>
+            I maj 2010 presenterade också den förre kommissionären för den
+            inre marknaden, Mario Monti, sin rapport A New Strategy for the
+            Single Market at the Service of Europes Economy and Society. Rapporten
+            beställdes av kommissionens ordförande José Manuel Barroso. I
+            rapporten finns ett antal förslag som syftar till att stärka den
+            inre marknaden. Enligt rapporten manifesteras svagheterna i den
+            monetära unionen genom de finansiella marknadernas reaktion på
+            obalanser i offentliga finanser. Men en av de underliggande orsakerna
+            är bristande konkurrenskraft i den reala ekonomin. Det ställer
+            krav som innebär att den ekonomiska delen av den ekonomiska och
+            monetära unionen måste stärkas om EMU och euron ska vara solida
+            och leverera de förväntade ekonomiska fördelarna.
+          </p>
+          <p xml:id="IDAAR2Z" rend="r3">
+            Regeringens uppfattning
+          </p>
+          <p>
+            Regeringen har lämnat in ett bidrag till van Rompuys arbetsgrupp.
+            <hi rend="superscript">
+              1 [
+              <seg type="html-hanvisning">
+                <seg rend="grad2">
+                  The Swedish Governments contribution to the work of the Task
+                  Force chaired by Mr. van Rompuy
+                </seg>
+                . Finansdepartementet, Stockholm, den 3 juni 2010.
+              </seg>
+              ]
+            </hi>
+            I bidraget framhålls att den senare tidens händelser har visat
+            att EU:s medlemsstater är mycket beroende av varandra. Marknadsaktörerna
+            har omprövat sina bedömningar av vilka risker som finns med stora
+            offentliga skulder, vilket har lett till att de potentiella kostnaderna
+            för bristande budgetdisciplin har ökat. På kort sikt måste därför
+            konsolideringsplaner förstärkas och stödjas av snabba beslut av
+            nationella parlament. Vidare måste ändringar i de finanspolitiska
+            ramverken introduceras, både på nationell nivå och på EU-nivå.
+          </p>
+          <p>
+            Regeringen framhåller tre punkter. För det första måste det finnas
+            starka nationella finanspolitiska ramverk. Erfarenheten visar
+            att det finns mycket utrymme för förbättringar i många medlemsstater.
+            En uppförandekod för finanspolitiska ramverk kan överenskommas
+            på EU-nivå. För det andra ska ett ökat fokus inom stabilitets-
+            och tillväxtpakten läggas på skuldkvoten. Det torde vara nödvändigt
+            att komma överens om i vilken takt skulden ska minska så att den
+            reduceras till en hållbar nivå. För det tredje krävs bättre incitament
+            för att bedriva en ansvarsfull finanspolitik. Detta bör innefatta
+            en ökad användning av sanktioner som bör vara regelbaserade och
+            introduceras i ett tidigare stadium av processen än i dag.
+          </p>
+          <p xml:id="IDASR2Z" rend="rubrik2">
+            Utskottets ställningstagande
+          </p>
+          <p xml:id="IDAVR2Z" rend="r3">
+            Inledning
+          </p>
+          <p>
+            Utskottet vill framhålla att den ekonomiska krisen har visat
+            på vikten av stabila finanspolitiska ramverk både på nationell
+            nivå och på EU-nivå. Det är således angeläget att stabilitets-
+            och tillväxtpakten respekteras. Det ska vara ordning och reda
+            i offentliga finanser. Varje land har rätt att själv välja utgifts-
+            och inkomstnivå, men det är inte upp till varje land att välja
+            så olika utgifts- och inkomstnivå att andra länder drabbas av
+            instabilitet.
+          </p>
+          <p>
+            I den nuvarande situationen är det angeläget med både akuta åtgärder
+            och åtgärder på lång sikt. På kort sikt måste de länder som har
+            stora underskott fatta konkreta beslut som visar att länderna
+            kommer att få situationen under kontroll. På längre sikt måste
+            de finanspolitiska ramverken förebygga att stora underskott och
+            skulder byggs upp. Detta är särskilt angeläget för euroländerna,
+            men även för övriga EU-medlemmar.
+          </p>
+          <p>
+            De svenska erfarenheterna visar på värdet av ett stabilt finanspolitiskt
+            ramverk. Genom de förändringar som genomfördes från mitten av
+            1990-talet har de olika leden i den svenska budgetprocessen stramats
+            upp. Den stramare budgetprocessen har bidragit till stadga i den
+            ekonomiska politiken. Utskottet återkommer till det svenska finanspolitiska
+            ramverket nedan.
+          </p>
+          <p xml:id="IDABS2Z" rend="r3">
+            Starka ramverk på EU-nivå, men nationella parlament beslutar
+          </p>
+          <p>
+            När det gäller förslaget om en europeisk termin vill utskottet
+            framhålla att det enligt utskottets uppfattning inte är aktuellt
+            att budgetpropositionen förhandsgranskas inom EU innan den föreläggs
+            riksdagen. Det är riksdagen som beslutar om statsbudgeten, både
+            utgifter och inkomster, och förslaget till statsbudget ska således
+            först presenteras för riksdagen. Om förslaget ska förhandsgranskas
+            skulle det kunna tolkas som att finansmakten inte ligger hos riksdagen.
+            Det skulle också finnas en risk för en ökad oklarhet där olika
+            dokument med diffus status granskas i olika skeden.
+          </p>
+          <p>
+            Det kan vidare nämnas att regeringen i april varje år presenterar
+            en ekonomisk vårproposition med riktlinjer för den ekonomiska
+            politiken och budgetpolitiken. Propositionen innehåller förslag
+            om riktlinjer för budgetarbetet för kommande år. Det är enligt
+            utskottet inte heller aktuellt att denna proposition skulle förhandsgranskas.
+          </p>
+          <p>
+            Det nu anförda utesluter dock inte att regeringens bedömningar
+            i t.ex. vårpropositionen av tillväxt, inflation och beräknat saldo
+            för den offentliga sektorns finansiella sparande redovisas inom
+            EU efter det att propositionen förelagts riksdagen.
+          </p>
+          <p>
+            Utskottet vill också framhålla att det finns skäl för att länder
+            som begär lån eller stöd från andra medlemsländer och från EU
+            tydligt redovisar den nationella politikens tänkta inriktning.
+            Det kan också gälla länder som inte uppfyller de krav som gemensamt
+            har satts upp.
+          </p>
+          <p>
+            Det framgår inte alltid av kommissionens meddelande vilka åtgärder
+            som är avsedda endast för länder med euron som valuta. Utskottet
+            vill framhålla att Europeiska unionen är ett samarbete mellan
+            27 jämbördiga stater. Även om det kan finnas skäl för euroländerna
+            att inom sig ha mer detaljerade regler, måste hela unionens intresse
+            beaktas också när euroländerna har sina överläggningar.
+          </p>
+          <p>
+            Frågan om sanktioner för de länder som bryter mot stabilitets-
+            och tillväxtpakten har aktualiserats. Utskottet kan konstatera
+            att erfarenheten visar att det finns skäl för att sanktionerna
+            i större utsträckning än i dag ska vara regelstyrda och introduceras
+            tidigare i processen. Det bör också övervägas om man kan ha en
+            snabbare process för länder som återkommande bryter mot reglerna.
+            Också icke-pekuniära sanktioner bör övervägas. Utskottet vill
+            erinra om att det också är viktigt att man i tillämpningen inte
+            gör skillnad på små och stora stater. Det åligger alla länder
+            att följa de gemensamma reglerna, och följs inte reglerna ska
+            sanktionerna vara desamma.
+          </p>
+          <p>
+            Vidare har frågan om skuldnivån tagits upp. Utskottet delar uppfattningen
+            att den offentliga skuldens nivå bör få ökad uppmärksamhet och
+            att denna bör ges mer vikt inom stabilitets- och tillväxtpakten.
+            Det är viktigt att skuldnivåerna minskar i tillfredsställande
+            takt, och regelverket torde också i denna del kunna implementeras
+            bättre och utvecklas.
+          </p>
+          <p>
+            Det är också angeläget att kvaliteten i statistiken kring de
+            offentliga finanserna ökar. Utskottet hade den 6 maj 2010 en särskild
+            överläggning med finansministern om kommissionens förslag i frågan.
+            Utskottet framhöll att frågan om statistiksekretess måste få en
+            lösning och förutsätter att så blir fallet.
+          </p>
+          <p>
+            Utskottet vill erinra om sina tidigare uttalanden i samband med
+            diskussionen om EU 2020 (bet. 2009/10:FiU29). En hög offentlig
+            skuldnivå kan inte fortsätta i det oändliga, framhöll utskottet.
+            Insatserna för att nå målen i EU 2020 måste bygga på en trovärdig
+            exitstrategi från de akuta åtgärder som vidtagits med anledning
+            av den ekonomiska krisen. Utskottet framhöll vikten av att respekten
+            för stabilitets- och tillväxtpakten upprätthålls. Det långsiktiga
+            ansvaret för statsfinanserna är av central betydelse, både för
+            att bevara trovärdigheten och för att förhindra stora och drastiska
+            nedskärningar i välfärdssystemen. Samtidigt som den akuta ekonomiska
+            krisen måste hanteras är det således av stor vikt att de offentliga
+            finanserna är långsiktigt hållbara. EU:s medlemsstater måste agera
+            så att de skyndsamt kan återvända till ett läge där de håller
+            sig inom de gränser som gemensamt satts upp i stabilitets- och
+            tillväxtpakten. Utskottet vidhåller sin uppfattning.
+          </p>
+          <p>
+            Det finns också skäl att påminna om utskottets tidigare ställningstagande
+            rörande EU:s budgetöversyn (bet. 2007/08:FiU14). Utskottet ansåg
+            att följande principer skulle vara styrande för budgeten: subsidiaritet,
+            europeiskt mervärde, proportionalitet, sund ekonomisk förvaltning
+            och restriktivitet. Det behövs genomgripande omprioriteringar
+            av EU-budgetens utgifter. Förändringar av utgifternas sammansättning
+            ska göras utan att de samlade utgifterna ökar. Utskottet vill
+            i det nu aktuella sammanhanget betona att det i ett läge när krav
+            ställs på att de nationella budgetarna ska vara strama är än viktigare
+            med kravet på att EU-budgeten ska vara restriktiv.
+          </p>
+          <p>
+            När det gäller besluten vid Ekofin den 9 maj anser utskottet
+            att det är positivt att stödinstrumenten skapas. Det första instrumentet
+            liknar i allt väsentligt det existerande instrument som finns
+            för att tillhandahålla lån till icke-euroländer som hamnar i betalningsbalansproblem.
+            Någon sådan möjlighet har inte funnits för euroländerna, och det
+            är rimligt att detta nu görs. När det gäller ett s.k.
+            <seg rend="grad2">
+              Special Purpose Vehicle
+            </seg>
+            (SPV) kan utskottet konstatera att regeringen inte avser att
+            föreslå riksdagen att Sverige ska gå med i detta. Huruvida Sverige
+            ska delta i enskilda stödprogram får avgöras från fall till fall.
+            Viktiga villkor för att delta i ett sådant program är att Sverige
+            fullt ut kan delta i utformningen och beslutsfattandet i programmet.
+            Programmet måste vidare utformas med en tydlig konditionalitet
+            och i samverkan med IMF. Det är riksdagen som för svenskt vidkommande
+            beslutar om varje enskilt svenskt deltagande i ett stödprogram.
+          </p>
+          <p xml:id="IDAJT2Z" rend="r3">
+            Starka nationella finanspolitiska ramverk
+          </p>
+          <p>
+            Den svenska budgetprocessen reformerades i mitten av 1990-talet.
+            Bakgrunden var att de offentliga finanserna snabbt hade försämrats,
+            med stort budgetunderskott och stor statsskuld som följd.
+          </p>
+          <p>
+            En viktig del av det reformerade ramverket rör riksdagens beslutsprocess.
+            Riksdagen beslutar i ett första steg om fördelningen av statsbudgetens
+            utgifter på 27 olika utgiftsområden och en beräkning av inkomsterna
+            på statsbudgeten. Detta görs genom
+            <seg rend="grad2">
+              ett
+            </seg>
+            beslut. Genom att både utgifter och inkomster beslutas är det
+            redan i detta skede klart hur stort budgetens saldo kommer att
+            bli. Det är finansutskottet som bereder regeringens och oppositionspartiernas
+            förslag och som presenterar ett s.k. rambetänkande för kammaren.
+            De 14 övriga utskotten yttrar sig till finansutskottet över budgetpropositionen
+            och motionerna.
+          </p>
+          <p>
+            I ett andra steg behandlas anslagsfrågorna för de olika utgiftsområdena
+            i de 15 utskotten. De ramar för utgiftsområdena som beslutats
+            i det första steget får inte överskridas. Det betyder att det
+            i detta skede bara är möjligt att föreslå ett ökat anslag inom
+            ett utgiftsområde om detta samtidigt åtföljs av ett förslag om
+            minskning av ett annat anslag inom samma utgiftsområde.
+          </p>
+          <p>
+            Riksdagens beslutsprocess innebär att riksdagen har ett samlat
+            grepp om hela budgeten. I stället för beslut som var för sig kan
+            synas lämpliga men som sammantagna leder till oönskade konsekvenser
+            har riksdagen en tydlig överblick över både utgifter och inkomster.
+          </p>
+          <p>
+            En annan aspekt av det finanspolitiska ramverket är utgiftstaket
+            för staten. Riksdagen beslutar om taket efter förslag i budgetpropositionen.
+            Taket sätts i nominella termer och beslutas tre år i förväg. Om
+            taket riskerar att överskridas under löpande budgetår, ska regeringen
+            vidta åtgärder eller föreslå riksdagen åtgärder för att undvika
+            ett överskridande.
+          </p>
+          <p>
+            Vidare finns ett överskottsmål för den offentliga sektorns finansiella
+            sparande. Riksdagen har fastställt målet till att det finansiella
+            sparandet (för den offentliga sektorn som helhet) ska uppgå till
+            i genomsnitt 1 % av BNP över en konjunkturcykel.
+          </p>
+          <p>
+            För den kommunala sektorn finns ett särskilt balanskrav. Balanskravet
+            anger att varje kommun och landsting ska budgetera för ett resultat
+            i balans. Om en kommun eller ett landsting i efterhand uppvisar
+            ett underskott ska avvikelsen, om inte synnerliga skäl föreligger,
+            återställas inom tre år. Det kommunala balanskravet är ett minimikrav.
+            Kommunerna och landstingen ska även, enligt kommunallagen, följa
+            principen om god ekonomisk hushållning, med vilket menas att de
+            i sina budgetar också ska beakta ökade framtida kostnader i form
+            av exempelvis stora pensionsåtaganden.
+          </p>
+          <p>
+            Ett viktigt inslag är också att den statliga budgetprocessen
+            gjorts mer transparent. Huvudregeln är att alla poster bruttoredovisas.
+            I detta sammanhang finns det skäl att påpeka bruttoredovisningen
+            också inbegriper avgiften till EU och bidrag från EU. Detta bidrar
+            till att budgeten ger en rättvisande bild. Dessutom tillämpas
+            den s.k. fullständighetsprincipen som innebär att alla de poster
+            som påverkar det statliga lånebehovet ska tas upp på statsbudgeten.
+            Detta ger sammantaget en tydligare redovisning av statens åtaganden
+            och en bättre förståelse av statsbudgeten.
+          </p>
+          <p>
+            Vidare ska det framhållas att de offentliga finansernas utveckling
+            och tillämpningen av finanspolitiken följs upp av externa bedömare.
+            I Sverige görs detta av exempelvis Finanspolitiska rådet, Ekonomistyrningsverket,
+            Konjunkturinstitutet och Riksrevisionen.
+          </p>
+          <p>
+            Sammantaget ger det svenska finanspolitiska ramverket stadga
+            åt den ekonomiska politiken. Den statliga budgetprocessen kännetecknas
+            av ett tydligt medelfristigt uppifrån-och-ned-perspektiv. Ramverket
+            är således flerårigt. Olika angelägna ändamål ställs mot varandra
+            på ett transparent sätt.
+          </p>
+          <p>
+            Utskottet vill erinra om att hur väl ett ramverk än är utformat
+            är ramverket i sig inte tillräckligt. De som har att tillämpa
+            ramverket måste vara beredda att följa det och ta konsekvenserna
+            när beslut ska fattas.
+          </p>
+          <p xml:id="IDARU2Z" rend="r3">
+            Avslutning
+          </p>
+          <p>
+            Kommissionen tar upp viktiga frågor i meddelandet. Som framgått
+            vill utskottet betona vikten av ordning och reda i de offentliga
+            finanserna samt värdet av stabila finanspolitiska ramverk både
+            på EU-nivå och på nationell nivå. Det svenska finanspolitiska
+            ramverket fungerar väl och kan tjäna som inspirationskälla för
+            andra länder.
+          </p>
+          <p>
+            Utskottet föreslår att riksdagen lägger utlåtandet till handlingarna.
+          </p>
+          <p xml:id="IDA1U2Z" rend="AvsnittsRubrik">
+            Reservation
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservation.
+          </p>
+          <table>
+            <row>
+              <cell xml:id="IDACV2Z">
+                <p rend="reservation">
+                  Förstärkt samordning av den ekonomiska politiken motiveringen
+                  (v)
+                </p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="reservanter">
+                  av Ulla Andersson (v).
+                </p>
+              </cell>
+            </row>
+          </table>
+          <p xml:id="IDADW2Z" rend="r4">
+            Ställningstagande
+          </p>
+          <p>
+            Kommissionen anger svaga offentliga finanser i valutaunionens
+            medlemsländer som en huvudförklaring till den senaste tidens ekonomiska
+            turbulens i vissa av valutaunionens medlemsländer. Utifrån den
+            analysen lägger kommissionen fram förslag som syftar till att
+            stärka de budgetrestriktioner som stabilitets- och tillväxtpakten
+            stipulerar och förslag som avser att stärka samordningen av den
+            ekonomiska politiken i EU i allmänhet och bland valutaunionens
+            länder i synnerhet. Vänsterpartiet delar inte kommissionens analys
+            av orsakerna till den senaste tidens ekonomiska turbulens. Vi
+            menar att de stora underskotten i vissa av valutaunionens länder
+            snarare är en följd av bristerna i valutaunionens konstruktion
+            än orsak till de ekonomiska problemen. Utan möjligheten till självständig
+            valutapolitik har flera sydeuropeiska länder fått se sin konkurrenskraft
+            urholkad till följd av skillnader i produktivitetstillväxt bland
+            valutaunionens länder. Detta har resulterat i stora underskott
+            i bytesbalanserna och i de offentliga finanserna. Stramare budgetrestriktioner
+            kommer inte att stärka de sydeuropeiska ländernas konkurrenskraft.
+            Snarare tvärtom; de åtstramningar som följer på ett striktare
+            ramverk hotar den ekonomiska återhämtningen och riskerar att leda
+            till permanent högre arbetslöshetsnivåer.
+          </p>
+          <p>
+            Utskottsmajoritetens utlåtande framhåller det svenska budgetpolitiska
+            ramverk som växte fram efter 1990-talskrisen som ett framgångsrikt
+            exempel när det gäller att uppnå ekonomisk stabilitet och starka
+            offentliga finanser. Denna historieskrivning haltar dock betänkligt
+            eftersom i princip hela den budgetkonsolidering som följde på
+            1990-talskrisen beslutades före införandet av de nuvarande budgetpolitiska
+            ramverken. Utskottsmajoriteten glömmer också att påpeka att såväl
+            den ekonomiska återhämtningen som den budgetmässiga konsolideringen
+            under 90-talet hade tagit betydligt längre tid och varit förenad
+            med avsevärt högre kostnader om inte Sverige hade haft möjligheten
+            att överge den fasta växelkurspolitiken och låta kronan deprecieras,
+            vilket är ett verktyg som valutaunionens länder saknar. Vänsterpartiet
+            kan vidare konstatera att det nuvarande ramverket inte har förhindrat
+            att arbetslösheten i finanskrisens spår har ökat mer i Sverige
+            än för EU i dess helhet.
+          </p>
+          <p>
+            Även om kommissionen förefaller se de svaga offentliga finanserna
+            som huvudorsak till den senaste tidens finansiella turbulens är
+            man inte helt blind för de ekonomiska spänningar som skillnaderna
+            i konkurrenskraft och bytesbalanssaldon skapar. För att minska
+            dessa skillnader lanserar kommissionen, utöver förslagen om skärpt
+            tillämpning av stabilitets- och tillväxtpaktens bestämmelser,
+            en rad förslag som syftar till att stärka samordningen av finanspolitiken
+            bland framför allt valutaunionens länder, men även inom EU i stort.
+            Kommissionen föreslår bl.a. att en resultattavla för euroländerna
+            införs. Denna ska innefatta en redovisning av en rad olika makroekonomiska
+            förhållanden som enhetsarbetskraftskostnader, produktivitetstillväxt,
+            reala effektiva växelkurser, utlandsställning m.m. Utvecklingen
+            av dessa makroekonomiska förhållanden ska sedan granskas och utgöra
+            grund för policyrekommendationer från bl.a. kommissionen. Då kommissionen,
+            besynnerligt nog, endast tycks betrakta underskott (och inte överskott)
+            i bytesbalanserna som ett problem är det svårt att komma till
+            någon annan slutsats än att kommissionens lösning på de makroekonomiska
+            spänningarna inom valutaunionen stavas lönesänkningar och avreglerad
+            arbetsmarknad i underskottsländerna. Vänsterpartiet delar inte
+            denna analys, utan menar att ökad inhemsk efterfrågan i överskottsländerna
+            borde vara ett centralt inslag i en politik för ökad ekonomisk
+            stabilitet i EU.
+          </p>
+          <p>
+            Kommissionen föreslår också att de nationella budgeterna i EU:s
+            medlemsländer ska bli föremål för bedömning och granskning innan
+            de har behandlats av de nationella parlamenten. Detta innebär
+            ett avsteg från nationell bestämmanderätt över finanspolitiken
+            som Vänsterpartiet kraftigt tar avstånd ifrån. Vi konstaterar
+            med tillfredsställelse att utskottsmajoriteten förefaller dela
+            denna ståndpunkt.
+          </p>
+          <p xml:id="IDASW2Z" rend="Bilaga">
+            Bilaga
+          </p>
+          <p xml:id="IDAVW2Z" rend="BilageRubrik">
+            Förteckning över behandlade förslag
+          </p>
+          <p rend="grad2">
+            Kommissionens meddelande KOM(2010) 250 Förstärkt samordning av
+            den ekonomiska politiken
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200102_FÖU_0013">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notis" n="Beslut i korthet">Reglerna för beredskapslagring av olja och kol ändras fr.o.m. den 1 januari 2003. Tillsynsmyndigheten får större möjligheter att tillåt att den som är skyldig att hålla lager gör det genom ett uppdrag till någon annan. Uppdrag att hålla lagringsbränslen ska generellt kunna lämnas till andra lagringsskyldiga eller till företag som bedriver oljelagringsverksamhet. En förutsättning är dock att även lagerhållaren fått tillsynsmyndighetens särskilda godkännande. Den som driver oljeraffinaderi ska kunna få tillstånd att fullgöra lagringsuppdrag genom att lagra råolja och halvfabrikat i stället för lagringsbränslen. Beredskapslagring av gasol upphör den 1 juli 2002.</note>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Beredskapslagring av olja och kol (FöU13)</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09117</idno>
+              <title>2002-05-31</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">117</biblScope>
+              <note type="display-reference">2002-05-31</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GP09116</idno>
+              <title>2002-05-30</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">116</biblScope>
+              <note type="display-reference">2002-05-30</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GP0K285</idno>
+              <title>2001/02:285</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">285</biblScope>
+              <note type="display-reference">2001/02:285</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="ändringsförfattning">
+            <bibl type="grundförfattning">
+              <idno type="riksdagen">1984:1049</idno>
+              <note type="display-reference">2002:573</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="prop">
+              <idno type="riksdagen">GP03169</idno>
+              <title>Ändringar i lagen om beredskapslagring av olja och kol</title>
+              <biblScope unit="riksdag-session">2001/02</biblScope>
+              <biblScope unit="document-number">169</biblScope>
+              <note type="display-reference">proposition 2001/02:169 Ändringar i lagen om beredskapslagring av olja och kol</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="TRY" subtype="beredning" n="60" when="2002-05-17">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2002-05-17">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-05-16">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2002-05-16">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-23">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2002-04-23">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2002-05-31">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2002-05-31">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2002-05-31">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-05-30">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2002-05-30">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2002-05-29">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-05-28">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2002-05-28">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Försvarsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2001/02:FÖU13
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Beredskapslagring av olja och kol
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I betänkandet behandlas regeringens förslag om
+            vissa ändringar i lagen (1984:1049) om beredskapslagring av olja
+            och kol. Lagändringarna innebär att möjligheten för tillsynsmyndigheten
+            att medge att lagringsskyldighet fullgörs genom uppdrag åt annan
+            vidgas, uppdrag att hålla lagringsbränslen skall generellt kunna
+            lämnas till andra lagringsskyldiga eller till företag som bedriver
+            oljelagringsverksamhet. En förutsättning är dock att även lagerhållaren
+            fått tillsynsmyndighetens särskilda godkännande. Den som driver
+            oljeraffinaderi skall kunna få tillstånd att fullgöra lagringsuppdrag
+            genom att lagra råolja och halvfabrikat i stället för lagringsbränslen.
+            Vidare föreslås att beredskapslagring av gasol skall upphöra.
+            Lagändringen avseende gasollagring föreslås träda i kraft den
+            1 juli 2002 och övriga lagändringar den 1 januari 2003. Utskottet
+            bedömmer att de förändringar regeringen föreslagit ger förutsättningar
+            för en önskvärd effektivisering av beredskapslagringen av olja
+            och kol med en bibehållen energiberedskap. Vad gäller gasollagringens
+            upphörande kan utskottet konstatera att den inhemska tillgängligheten
+            på och leveranssäkerheten av gasol får anses vara fullt tillfredsställande,
+            varför ett upphörande av lagringsskyldigheten inte torde leda
+            till någon försämring av energiberedskapen. Regeringens förslag
+            bör därför bifallas av riksdagen.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut Ändringar i lagen om beredskapslagring
+            av olja och kol Riksdagen antar regeringens förslag till lag om
+            ändring i lagen (1984:1049) om beredskapslagring av olja och kol.
+            Stockholm den 16 maj 2002 På försvarsutskottets vägnar Henrik
+            Landerholm Följande ledamöter har deltagit i beslutet: Henrik
+            Landerholm (m), Tone Tingsgård (s), Christer Skoog (s), Karin
+            Wegestål (s), Stig Sandström (v), Åke Carnerö (kd), Olle Lindström
+            (m), Ola Rask (s), Rolf Gunnarsson (m), Håkan Juholt (s), Berndt
+            Sköldestig (s), Berit Jóhannesson (v), Margareta Viklund (kd),
+            Anna Lilliehöök (m), Lars Ångström (mp), Erik Arthur Egervärn
+            (c) och Runar Patriksson (fp).
+          </p>
+          <p>
+            2001/02 FöU13 Redogörelse för ärendet Ärendet och dess beredning
+            Regeringen gav i regleringsbrevet för 1999 Statens energimyndighet
+            i uppdrag att se över regelverket när det gäller oljeberedskapen
+            och att lämna förslag till eventuella ändringar i detta. Översynen
+            skulle särskilt beakta de senaste årens utveckling på området
+            inom EU och Internationella energiorganet IEA. Uppdraget redovisades
+            den 14 november 2000 (dnr N2000/9195/ ESB). Översynen publicerades
+            även i myndighetens rapportserie (ER 23:2000). Energimyndigheten
+            lämnade flera förslag till förändringar av olje-beredskapen. I
+            propositionen behandlas endast de förslag som berör lagringen.
+            De förslag som Energimyndigheten lämnat förutsätter ändringar
+            i lagen (1984:1049) om beredskapslagring av olja och kol. Energimyndighetens
+            förslag, i de delar som rör lagringen, har remissbehandlats. Regeringen
+            beslutade den 21 februari 2002 att inhämta Lagrådets yttrande.
+            Lagrådet lämnade förslaget utan erinran. Propositionens huvudsakliga
+            innehåll I proposition 2001/02:169 föreslås vissa ändringar i
+            lagen (1984:1049) om beredskapslagring av olja och kol. Enligt
+            förslaget utvidgas möjligheten för tillsynsmyndigheten att medge
+            att lagringsskyldighet fullgörs genom uppdrag åt annan att ombesörja
+            lagringen. Uppdrag att hålla lagringsbränslen kan generellt lämnas
+            till andra lagringsskyldiga eller till företag som bedriver oljelagringsverksamhet.
+            En förutsättning är dock att även lagerhållaren fått tillsynsmyndighetens
+            särskilda godkännande. Den som driver oljeraffinaderi kan få tillstånd
+            att fullgöra lagringsuppdrag genom att lagra råolja och halvfabrikat
+            i stället för lagringsbränslen. Vidare föreslås att beredskapslagring
+            av gasol skall upphöra. Lagändringen avseende gasollagring föreslås
+            träda i kraft den 1 juli 2002 och övriga lagändringar den 1 januari
+            2003.
+          </p>
+          <p>
+            Utskottets överväganden Bakgrund Nuvarande reglering av beredskapslagring
+            av olja och kol I beredskapsåtgärderna ingår lagring av olja och
+            kol i syfte att trygga tillgången på dessa varor inom landet för
+            energiförsörjningen under krig och andra allvarliga kriser. Beredskapslagringen
+            av olja är av principiellt två slag, lagring för fredstida oljekriser
+            och krigslagring. Kol beredskapslagras endast för krigssituationer.
+            Lagringen regleras av lagen (1984:1049) om beredskapslagring av
+            olja och kol. Lagen, som fortsättningsvis benämns LBOK, bygger
+            i huvudsak på lagstiftning från 1957. Till LBOK ansluter förordningen
+            (1995:971) om beredskapslagring av olja och kol och även den årliga
+            förordning som bestämmer lagringsnivåerna (den senaste SFS 2001:168).
+            Tillsynsmyndighet enligt LBOK är Statens energimyndighet. De senaste
+            större förändringarna i fråga om beredskapslagringen av olja och
+            kol företogs våren 1995. Då beslutade riksdagen (prop. 1994/95:176,
+            bet. 1994/95:NU25, rskr. 1994/95:393) om ett antal författningsändringar
+            i och med att nya riktlinjer för lagringen godkändes, baserade
+            på de kraftigt förändrade planeringsförutsättningar som följde
+            på 1992 års försvarsbeslut. Dessutom gjordes även en allmän förenkling
+            och modernisering av regelverket, inkluderande en anpassning till
+            gällande EU- bestämmelser. Regeringen gavs även ökade möjligheter
+            att delegera beslut till myndighet. För el- och värmeproducerande
+            anläggningar gjordes lagringskraven beroende av individuell prövning.
+            Lagringen bygger på att staten med stöd av LBOK ålägger enskilda
+            säljare eller förbrukare att hålla vissa kvantiteter i lager.
+            Lagren är i fysisk mening normalt integrerade med de lagringsskyldiga
+            företagens kommersiella lager. Beredskapslagren får tas i anspråk
+            av den lagringsskyldige efter beslut av regeringen vid en allvarlig
+            försörjningskris. Den totala omfattningen av denna tvångslagring
+            bestäms årligen av regeringen med utgångspunkt i hela landets
+            behov av beredskapslager, därefter fastställer tillsynsmyndigheten
+            åläggandena för varje lagringsskyldig. Volymerna baseras på försäljning
+            och förbrukning av ett antal i LBOK angivna lagringsbränslen under
+            det närmast föregående året. För el- och värmeproducerande anläggningar
+            bestäms dock lagringsskyldigheten vad beträffar krigslager efter
+            prövning av behoven för varje särskild anläggning. Lagringsåren
+            löper fr.o.m. den 1 juli t.o.m. den 30 juni. Under lagringsåret
+            2001/02 är sammanlagt ca 100 företag lagringsskyldiga. Lagringen
+            för oljekriser (tidigare fredskrislagring) tar sikte på svåra
+            störningar i oljeförsörjningen som uppstår utan samband med krig
+            eller säkerhetspolitiska kriser i vår nära omvärld. Lagringen
+            sker sedan 1975 enligt internationella åtaganden som Sverige gjort
+            i avtalet om ett internationellt energiprogram (IEP) och nu även
+            enligt EU:s regelverk på området. Under 1990-talet har inga stora
+            förändringar gjorts beträffande lagringen för oljekriser, dock
+            har en koncentration till färre lagringsskyldiga skett. Beredskapslagren
+            av olja motsvarar i dag 90 dagars normal konsumtion och hålls
+            helt av näringslivet. De lagringsskyldiga företagen svarar för
+            finansieringen. Krigslagringen tar sikte på det civila försvarets
+            behov vid höjd beredskap. Som en följd bl.a. av försvarsbeslutet
+            1992 och det faktum att krigslagren blivit allt mindre i förhållande
+            till näringslivets beredskapslager för oljekriser beslöt riksdagen
+            1994 (prop. 1993/94:141, bet. 1993/94:NU19, rskr. 1993/94:311)
+            att den statliga krigslagringen för det civila försvaret skulle
+            avvecklas successivt och i stället åläggas oljehandeln och vissa
+            storförbrukare med stöd av LBOK. Regeringen har i proposition
+            2001/02:10 (s. 179) aviserat att näringslivet tills vidare inte
+            kommer att åläggas att hålla permanenta krigslager. Lagringskraven
+            för krigssituationer anpassas därmed till den aktuella planeringsinriktningen
+            för totalförsvaret i enlighet med av riksdagen godkända riktlinjer.
+            Lagringsbehovet avses omprövas löpande utifrån en förstärkt omvärldsbevakning.
+            Vissa rapporteringsrutiner kommer att bibehållas som ett led i
+            grundberedskapen även under den tid själva lagringen är suspenderad.
+            Om situationen så kräver skall krigslagring återigen åläggas företagen
+            enligt reglerna i LBOK. EG:s regler angående oljeberedskap De
+            EG-regler som berör oljeberedskap är oljelagringsdirektivet och
+            oljeberedskapsdirektivet. Oljelagringsdirektivet (rådets direktiv
+            68/414/EEG av den 20 december 1968) reglerar skyldigheten för
+            medlemsstater i EEG att inneha minimilager av råolja och/eller
+            petroleumprodukter (EGT L 308, 23.12.1968, s. 14, svensk specialutgåva
+            område 12, volym 1, s. 28, Celex 31968L0414), ändrat genom rådets
+            direktiv 98/93/EG av den 14 december 1998 (EGT L 358, 31.12.1998,
+            s. 100, Celex 31998L0093). Direktivet innehåller detaljerade regler
+            om bl.a. lagringsbränslen, lagringsmängder, omräkningstal mellan
+            produkter och råolja, rapportering, tillsyn och utlandslagring.
+            Vidare krävs att medlemsländerna antar bestämmelser och vidtar
+            åtgärder som säkerställer kontrollen och övervakningen av lagren.
+            Straff för överträdelser av bestämmelserna skall enligt direktivet
+            vara effektiva, proportionerliga och avskräckande. Direktivet
+            har implementerats genom LBOK med tillhörande förordningar. Oljeberedskapsdirektivet
+            (rådets direktiv 73/238/EEG av den 24 juli 1973) innehåller krav
+            på att medlemsländerna skall vidta åtgärder för att ge behöriga
+            myndigheter rätt till lageruttag, fördelning till förbrukare,
+            prisreglering, ransonering etc., för att dämpa verkningarna av
+            svårigheter vid försörjningen med råolja eller petroleumprodukter
+            (EGT L 228, 16.8.1973, s. 1, svensk specialutgåva område 12, volym
+            1, s. 61, Celex 31973L0238). Kommissionen har även bildat en kommitté
+            för oljeberedskapsfrågor, i vilken samtliga medlemsländer deltar.
+            Direktivet är sedan några år under omarbetning. Direktivet har
+            genomförts i Sverige genom bland annat oljekrislagen, ransoneringslagen
+            och prisregleringslagen. Regeringen Lagring genom uppdrag åt annan
+            Uppdrag åt annan att ombesörja lagring Regeringen föreslår att
+            tillsynsmyndigheten får medge att en lagringsskyldig uppdrar åt
+            den som fått särskilt medgivande att ombesörja lagring för hans
+            räkning samt att ett medgivande får tidsbegränsas och skall förenas
+            med de villkor som behövs från beredskaps- och kontrollsynpunkt.
+            I propositionen anger regeringen som skäl för sitt förslag att
+            kravet på att den lagringsskyldige skall äga sitt beredskapslager
+            har medfört begränsningar för en rationell och kostnadseffektiv
+            lagerhantering. Reglerna har också uppfattats som konkurrenssnedvridande
+            då möjligheten att låta annan hålla lagren inte gällt lika för
+            alla lagringsskyldiga. I dag är ett hundratal företag lagringsskyldiga
+            och vart och ett av dessa måste ständigt äga minst ett lager motsvarande
+            90 dagars förbrukning. Det innebär i praktiken att de lagringsskyldiga
+            vid varje tidpunkt sammantaget håller ett beredskapslager som
+            överstiger det totala beredskapsbehovet för landet, detta "överlager"
+            innebär en kostnad för i första hand företagen och slutligen för
+            oljekonsumenterna. Regeringen gör bedömningen att en anpassning
+            avseende kravet på ägande till de samarbetsmönster som råder inom
+            branschen inte behöver innebära någon försvagning från beredskapssynpunkt,
+            förutsatt att en effektiv tillsyn kan upprätthållas. Tillsynsmyndigheten
+            bör få möjlighet att efter ansökan av lagringsskyldig ge denne
+            ett medgivande att få uppdra åt någon annan att sköta lagringen
+            för hans räkning. Ett sådant medgivande bör kunna ges generellt,
+            och myndigheten behöver därmed inte pröva varje enskilt lagringsuppdrag.
+            Om lagringsskyldigheten skall uppfyllas genom avtal med annan
+            är det viktigt att den lagringsskyldige vid en krissituation verkligen
+            får tillgång till det bränsle det andra företaget lagrar för hans
+            räkning. I första hand är detta en fråga företagen emellan, men
+            det torde också ankomma på tillsynsmyndigheten att i samband med
+            tillståndsgivningen formulera krav och ställa villkor i detta
+            syfte. Tillsynsmyndigheten bör ha rätt att tidsbegränsa de generella
+            medgivandena och ställa villkor som behövs utifrån beredskaps-
+            och kontrollsynpunkt. I ett inledningsskede ter det sig naturligt
+            att medgivandena begränsas till att gälla högst ett lagringsår
+            åt gången. Ett medgivande från tillsynsmyndigheten att låta annan
+            ombesörja lagringen för kortare eller längre tid innebär inget
+            avsteg från principen att lagringen sker på den lagringsskyldiges
+            ansvar, exempelvis skall lagringsavgift kunna tas ut av den lagringsskyldige
+            med stöd av LBOK även i de fall då den lagerhållare man avtalat
+            med inte uppfyller sina åtaganden. Det kan förväntas att det nya
+            systemet gradvis kommer att leda till en viss ytterligare centralisering
+            av lagerhållningen, vilket i sin tur skulle kunna leda till ökad
+            sårbarhet. Ett par remissinstanser har särskilt påpekat detta
+            och framhållit vikten av att en strategi finns för hur en tillräcklig
+            geografisk spridning av lagren skall säkerställas. Det ingår enligt
+            regeringens uppfattning i tillsynsmyndighetens åligganden att
+            noga följa utvecklingen härvidlag och att vidta lämpliga åtgärder
+            för det fall att en ökad centralisering skulle visa sig få negativa
+            konsekvenser från beredskapssynpunkt. Lagring för annans räkning
+            Regeringen föreslår att tillsynsmyndigheten får medge att en lagringsskyldig
+            inom landet ombesörjer lagring av lagringsbränsle för en annan
+            lagringsskyldigs räkning. Ett sådant medgivande får även ges till
+            den som utan att vara lagringsskyldig bedriver oljelagringsverksamhet.
+            För den som inom landet driver oljeraffinaderi får medgivandet
+            innefatta att lagringen sker i form av råolja, andra råvaror för
+            tillverkningen eller halvfabrikat. Ett medgivande får tidsbegränsas
+            och skall förenas med de villkor som behövs från beredskaps- och
+            kontrollsynpunkt. I propositionen anger regeringen som skäl för
+            sitt förslag att det i det nuvarande systemet inte funnits behov
+            av att i lagen särskilt reglera vad som gäller för den som håller
+            lager åt andra, då uppdrag åt andra att hålla lager enligt nu
+            gällande regler endast får vara tillfälliga och dessutom är förbehållna
+            en begränsad krets av lagringsskyldiga. Den utökade möjlighet
+            att uppdra åt annan att ombesörja lagring som föreslås innebär
+            att det enligt regeringens uppfattning inte längre räcker med
+            att säkerställa att de lagringsskyldiga uppfyller sina skyldigheter.
+            En prövning bör därutöver ske av lämpligheten hos den som för
+            annans räkning skall tillhandahålla beredskapslager. Liksom när
+            det gäller medgivande att uppdra lagringen åt annan bör tillsynsmyndigheten
+            individuellt pröva vilka företag som skall kunna åta sig sådana
+            uppdrag. Tillstånd bör lämnas endast till företag som uppfyller
+            rimliga krav på resurser och stabilitet. Tillsynsmyndigheten bör
+            vidare ha rätt att tidsbegränsa medgivanden och ställa de villkor
+            som behövs från beredskaps- och kontrollsynpunkt. De företag som
+            vill åta sig att vara lagerhållare åt annan bör få ansöka om detta
+            hos tillsynsmyndigheten, i första hand torde det bli aktuellt
+            att ge andra lagringsskyldiga sådant tillstånd då dessa företag
+            redan ingår i beredskaps- systemet och är väl kända av tillsynsmyndigheten
+            och kan förväntas fungera väl i krissituationer av olika slag.
+            Det är också hos dessa företag de lagringsbränslen och den lagringskapacitet
+            torde finnas tillgängliga som är grundförutsättningen för att
+            kunna åta sig uppdrag som lagerhållare åt andra. Det finns dock
+            även andra företag som är verksamma i försörjningskedjan avseende
+            bränsle och drivmedel och som ägnar sig åt lagring utan att själva
+            vara lagringsskyldiga enligt LBOK. Möjligheten att åta sig beredskapslagring
+            åt annan bör bl.a. av konkurrensskäl finnas även för dessa företag.
+            Detta öppnar också möjligheten för flera lagringsskyldiga att
+            bilda gemensamma lagringsföretag, som efter prövning kan få tillsynsmyndighetens
+            medgivande att hålla beredskapslager. Beredskapslagring genom
+            icke lagringsskyldiga bör vara begränsad till olja och olika slags
+            oljeprodukter. För kolbränslen, som endast tvångslagras för drift
+            av el- och värmeproducerande anläggningar i krigssituationer,
+            är den beredskapsmässiga utgångspunkten väsentligt annorlunda
+            och lagringskraven bör uppfyllas inom kretsen av lagringsskyldiga.
+            Tillsynsmyndigheten kommer dock genom den föreslagna lagändringen
+            att kunna pröva ansökningar från dessa företag om att få lagra
+            åt varandra. För företag som driver oljeraffinaderier i Sverige
+            har tillsynsmyndigheten möjlighet att medge att deras lagringsskyldighet
+            fullgörs genom lagring av råolja, andra råvaror för tillverkningen
+            eller halvfabrikat. Övervägande skäl talar för att motsvarande
+            bör gälla ifall dessa företag åtar sig beredskapslagring åt annan.
+            Det ankommer på tillsynsmyndigheten att vid tillståndsgivningen
+            beakta hur de omräkningstal för råolja och halvfabrikat i förhållande
+            till lagringsbränslen som anges i EU:s oljelagringsdirektiv skall
+            säkerställas. Tillsyn Regeringen föreslår att den som efter tillsynsmyndighetens
+            medgivande ombesörjer lagring åt annan skall lämna myndigheten
+            de uppgifter som behövs för tillsynen av att lagen och med stöd
+            av lagen meddelade föreskrifter efterlevs. Tillsynsmyndigheten
+            får också vid vite meddela även den som fått medgivande att ombesörja
+            lagring åt annan föreläggande som behövs för att uppgiftsskyldigheten
+            skall fullgöras och att myndigheten skall kunna utföra undersökningar
+            av lager och granskning av bokföring m.m. Tillsynsmyndigheten
+            får återkalla ett medgivande om den som fått medgivandet i något
+            väsentligt avseende inte iakttar villkor som ställts av myndigheten
+            eller det annars finns synnerliga skäl. Tillsynsmyndighetens beslut
+            att återkalla ett sådant medgivande får överklagas hos allmän
+            förvaltningsdomstol. I propositionen anger regeringen som skäl
+            för sitt förslag att det enligt 30 och 31 §§ föreligger en långtgående
+            skyldighet för lagringsskyldiga, och de som bedriver viss verksamhet
+            med lagringspliktiga bränslen, att lämna uppgifter till tillsynsmyndigheten.
+            För att inte syftet med lagen skall frångås bör tillsynsmyndigheten
+            enligt regeringen ha samma möjlighet att utöva tillsyn över de
+            företag som genom avtal åtagit sig att hålla beredskapslager åt
+            annan som när det gäller lagringsskyldiga som själva håller lagren.
+            Detta kan lämpligen åstadkommas genom att 30 och 31 §§ görs tillämpliga
+            på den förstnämnda kretsen företag och att därigenom även vitesföreläggande
+            enligt 33 § andra stycket som behövs för att denna uppgiftsskyldighet
+            skall fullgöras får meddelas dessa företag. Tillsynsmyndigheten
+            har vidare, enligt 32 §, stora befogenheter när det gäller möjligheterna
+            att undersöka lager som hålls av den som är uppgiftsskyldig enligt
+            lagen samt att granska dennes bokföring och övriga handlingar
+            som hör till verksamheten. Genom att 30 och 31 §§ görs tillämpliga
+            på den krets av företag som avses i föreslagna 23 §, och som inte
+            själva är lagringsskyldiga, kommer även dessa - såsom uppgiftsskyldiga
+            enligt LBOK - att bli underkastade tillsynsmyndighetens undersöknings-
+            och granskningsmöjligheter enligt lagen. Tillsynsmyndigheten får
+            därigenom möjlighet att enligt 33 § vitesförelägga även denna
+            kategori företag om de inte uppfyller sina åligganden enligt bestämmelserna
+            i 32 §. De lagringsföretag som avses i den föreslagna 23 § kommer
+            också att omfattas av ansvarsbestämmelsen i 35 §. Om ett medgivande
+            enligt 22 § återkallas får den lagringsskyldige inte längre låta
+            annan sköta lagringen utan han måste själv hålla lagret enligt
+            huvudregeln. Därmed kommer också, i förekommande fall, de övriga
+            sanktionsbestämmelser som LBOK anvisar att kunna tillämpas. För
+            den som har fått medgivande enligt den föreslagna 23 §, dvs. möjlighet
+            att lagra åt annan, innebär ett beslut om återkallande att det
+            inte längre blir möjligt att åta sig uppdrag som hållare av beredskapslager.
+            Beredskapslagring av gasol upphör Regeringen föreslår att skyldigheten
+            att beredskapslagra gasol upphör. I propositionen anger regeringen
+            som skäl för sitt förslag att det enligt Energimyndigheten och
+            övriga remissinstanser inte föreligger någon oro för en bristsituation
+            på gasol under en oljekris. Marknaden i Nordvästeuropa är dessutom
+            i hög grad lokal, och det råder balans mellan produktion och konsumtion
+            av gasol. Den inhemska produktionen av gasol sker i Sverige vid
+            raffinering av råolja vid samtliga tre raffinaderier. Leveranssäkerheten
+            och tillgängligheten på gasol anses vara mycket god. Gasol som
+            bränsle är hos många användare direkt konverterbar till andra
+            bränslen. Eftersom det inom EU endast är Sverige som föreskriver
+            beredskapslagring av gasol uppfattas detta som en viss snedvridning
+            av konkurrensläget. Lagringskostnaden för gasol är också avsevärt
+            mycket högre än för andra bränslen. Sammantaget gör regeringen
+            bedömningen att tvångslagringen av gasol kan upphöra utan att
+            det leder till någon avgörande försämring av energiberedskapen
+            och föreslår därför att näringslivet inte längre skall tvingas
+            att lagra gasol, vare sig för fredstida oljekriser eller för krigssituationer.
+            Ikraftträdande Regeringen föreslår att lagändringarna avseende
+            gasollagring träder i kraft den 1 juli 2002, övriga ändringar
+            föreslås träda i kraft den 1 januari 2003. I propositionen anger
+            regeringen som skäl för sitt förslag att då det för avvecklingen
+            av gasollagringen inte krävs några längre förberedelser, och skyldigheten
+            att hålla beredskapslager fastställs per lagringsår som räknas
+            fr.o.m. den 1 juli t.o.m. den 30 juni, bör lagändringarna i denna
+            del träda i kraft den 1 juli 2002. Därmed upphör tvångslagringen
+            av gasol fr.o.m. lagringsåret 2002/03. Regeringen bedömer vidare
+            att Energimyndigheten bör kunna ha ett fungerande system den 1
+            januari 2003 för att kunna behandla ansökningar från företag som
+            vill begagna sig av de möjligheter som nyordningen erbjuder. Därför
+            föreslås att de författningsändringar som hör samman med lagringsskyldigs
+            uppdrag till annan träder i kraft först den 1 januari 2003. Utskottets
+            ställningstagande Utskottets förslag i korthet Utskottet tillstyrker
+            regeringens lagförslag. Genom att utöka möjligheterna för lagringsskyldiga
+            att uppdra åt annan att ombesörja lagring ser utskottet att möjligheterna
+            för en mer rationell och kostnadseffektiv lagerhantering öppnas.
+            Vidare anser utskottet att tillsynsmyndigheten, genom de lagändringar
+            som här behandlats, ges goda förutsättningar att kunna upprätthålla
+            tillsynen av beredskapslagringen. Utskottet bedömmer sålunda att
+            de förändringar regeringen föreslagit ger förutsättningar för
+            en önskvärd effektivisering av beredskapslagringen av olja och
+            kol med en bibehållen energiberedskap. Vad gäller gasollagringens
+            upphörande kan utskottet konstatera att den inhemska tillgängligheten
+            på och leveranssäkerheten av gasol får anses vara fullt tillfredsställande,
+            varför ett upphörande av lagringsskyldigheten inte torde leda
+            till någon försämring av energiberedskapen. Utskottet ser även
+            att ett upphörande av gasollagringsskyldigheten innebär en anpassning
+            till gällande EU-reglering, vilket i sin tur skulle rätta till
+            den snedvridning som i viss mån förekommit i konkurrensläget,
+            då det inom EU i dag endast är Sverige som föreskriver beredskapslagring
+            av gasol. Lagändringen avseende gasollagring föreslås träda i
+            kraft den 1 juli 2002 och övriga lagändringar den 1 januari 2003.
+            Utskottet gör ingen annan bedömning än regeringen vad gäller tidpunkterna
+            för ikraftträdande. Regeringens förslag bör därför bifallas av
+            riksdagen. Bilaga 1 Förteckning över behandlade förslag Proposition
+            2001/02:169 Regeringen föreslår att riksdagen antar regeringens
+            förslag till lag om ändring i lagen (1984:1049) om beredskapslagring
+            av olja och kol.
+          </p>
+          <p>
+            Bilaga 2 Regeringens lagförslag Förslag till lag om ändring i
+            lagen (1984:1049) om beredskapslagring av olja och kol Härigenom
+            föreskrivs i fråga om lagen (1984:1049) om beredskapslagring av
+            olja och kol dels att 5-7, 11, 12, 18 a, 22-24, 27, 30, 31, 33
+            och 37 §§ samt rubriken närmast före 22 § skall ha följande lydelse,
+            dels att i lagen skall införas en ny paragraf, 33 a §, av följande
+            lydelse. Nuvarande lydelse 5 § Beredskapslagringen skall omfatta
+            följande bränslen (lagringsbränslen). KN-nr Varuslag 1. 2701 Kolbränslen
+            2702 2704 2. 2710 00 27 Motorbensin 2710 00 29 2710 00 32 2710
+            00 34 2710 00 36 3. 2710 00 51 Flygfotogen och annan 2710 00 55
+            fotogen 4. 2710 00 69 Dieselbrännolja och eldningsolja 1 5. 2710
+            00 74 - Övriga eldningsoljor 2710 00 78 6. 2711 12 11 - Gasol
+            2711 12 98 2711 13 10 - 2711 13 98 Föreslagen lydelse 5 §[1] Beredskapslagringen
+            skall omfatta följande bränslen (lagringsbränslen). KN-nr Varuslag
+            1. 2701 Kolbränslen 2702 2704 2. 2710 00 27 Motorbensin 2710 00
+            29 2710 00 32 2710 00 34 2710 00 36 3. 2710 00 51 Flygfotogen
+            och annan 2710 00 55 fotogen 4. 2710 00 69 Dieselbrännolja och
+            eldningsolja 1 5. 2710 00 74 - Övriga eldningsoljor 2710 00 78
+            ----------------------------------------------------- Nuvarande
+            lydelse Föreslagen lydelse -----------------------------------------------------
+            6 §[2] Denna lag tillämpas inte på 1. kol annat än såvitt avser
+            lagringsskyldighet för värmeverk och kraftvärmeverk enligt 18
+            a §, 2. bränsle som utvinns inom landet eller som framställs ur
+            råvara som har utvunnits inom landet, 3. bränsle som säljs för
+            utförsel, -----------------------------------------------------
+            4. bränsle som 4. bränsle som förbrukas för drift av förbrukas
+            för drift av fartyg i utrikes trafik fartyg i utrikes trafik eller
+            som införs i landet eller som införs i landet på annat transportmedel
+            på annat transportmedel för detta transportmedels för detta transportmedels
+            drift, drift. -----------------------------------------------------
+            5. gasol som används som råvara i petrokemisk industri. -----------------------------------------------------
+            Att lagringsskyldigheten i vissa fall kan avse annat än lagringsbränsle
+            framgår av 14 och 19-21 §§. **FOOTNOTES** [1]: Senaste lydelse
+            1995:921. [2]: Ändringen innebär att punkt 5 upphävs. 7 §[3] Skyldig
+            att hålla beredskapslager av annat lagringsbränsle än kol under
+            ett lagringsår är den som 1. till landet infört annat lagringsbränsle
+            än kol och under basåret sålt eller förbrukat sådant bränsle,
+            2. drivit oljeraffinaderi inom landet och under basåret sålt annat
+            lagringsbränsle än kol, -----------------------------------------------------
+            3. av lagringsskyldig 3. av lagringsskyldig som avses i 1 eller
+            2 som avses i 1 eller 2 köpt samt under basåret köpt samt under
+            basåret sålt sålt minst 50 000 kubikmeter andra a) minst 2 500
+            ton lagringsbränslen än kol. gasol eller b) minst 50 000 kubikmeter
+            andra lagringsbränslen än kol. -----------------------------------------------------
+            11 §[4] Lagringsskyldigheten skall fullgöras med bränslen inom
+            de varuslag som de lagringsskyldiga sålt eller förbrukat. Lagringsskyldigheten
+            skall fullgöras med varor som den lagringsskyldige äger. Den får
+            inte fullgöras med varor som transiteras. -----------------------------------------------------
+            Om undantag från denna Om undantag från denna paragraf finns paragraf
+            finns bestämmelser i 14, 22 och bestämmelser i 14 och 22 23 §§.
+            §§. ----------------------------------------------------- 12 §[5]
+            Lagringsbränslen skall förvaras inom landet i lageranläggningar,
+            som de lagringsskyldiga förfogar över, på ett från beredskaps-
+            och kontrollsynpunkt tillfredsställande sätt. -----------------------------------------------------
+            Om undantag från denna Om undantag från denna paragraf finns paragraf
+            finns bestämmelser i 14 §. bestämmelser i 14 och 22 §§. -----------------------------------------------------
+            18 a §[6] Den som vid basårets utgång innehar ett värmeverk får
+            av regeringen eller den myndighet som regeringen bestämmer åläggas
+            att under lagringsåret hålla i lager sådant bränsle som behövs
+            för att driva verket, om vid anläggningen under basåret förbrukats
+            1. minst 5 000 kubikmeter eldningsolja eller dieselbrännolja,
+            ----------------------------------------------------- 2. minst
+            4 000 ton 2. minst 8 000 ton kol, gasol, 3. minst 5 miljoner 3.
+            minst 8 000 ton kol, kubikmeter naturgas eller 4. minst 5 miljoner
+            4. bränsle som anges i kubikmeter naturgas eller 1-3 mot- svarande
+            minst 5 000 5. bränsle som anges i kubik- 1-4 motsvarande minst
+            5 meter olja. 000 kubikmeter olja. -----------------------------------------------------
+            Vid beräkning av Vid beräkning av förbrukningen av bränslen förbrukningen
+            av bränslen enligt första stycket 5 enligt första stycket 4 skall
+            1 kubikmeter olja skall 1 kubikmeter olja anses motsvara 0,8 ton
+            anses motsvara 1,6 ton gasol, 1,6 ton kol eller kol eller 1 000
+            1 000 kubikmeter kubikmeter naturgas. naturgas. -----------------------------------------------------
+            Den som vid basårets utgång innehar ett kraftvärmeverk med en
+            installerad elektrisk effekt av minst 5 megawatt får av regeringen
+            eller den myndighet som regeringen bestämmer åläggas att under
+            lagringsåret hålla i lager sådant bränsle som behövs för att driva
+            verket. -----------------------------------------------------
+            Lagringsskyldigheten Lagringsskyldigheten enligt första och tredje
+            enligt första och tredje stycket skall avse olja, stycket skall
+            avse olja gasol eller kolbränslen. eller kolbränslen. Lagringsmängden
+            bestäms Lagringsmängden bestäms av regeringen eller den av regeringen
+            eller den myndighet som regeringen myndighet som regeringen bestämmer
+            med bestämmer med utgångspunkt i utgångspunkt i värmeverkets eller
+            värmeverkets eller kraftvärmeverkets eget kraftvärmeverkets eget
+            beredskapsbehov. beredskapsbehov. -----------------------------------------------------
+            ----------------------------------------------------- Lagring
+            ombesörjd av Lagring ombesörjd av annan lagringsskyldig annan
+            ----------------------------------------------------- 22 §[7]
+            ----------------------------------------------------- Tillsynsmyndigheten
+            får Tillsynsmyndigheten får medge att en medge att en lagringsskyldig,
+            som till lagringsskyldig uppdrar landet inför åt den som fått
+            lagringsbränsle och som medgivande enligt 23 § säljer oljeprodukter,
+            att ombesörja lagring för eller en lagringsskyldig, hans räkning.
+            som driver oljeraffinaderi inom Ett medgivande får landet och
+            som säljer tidsbegränsas och skall oljeprodukter, utan förenas
+            med de villkor tillstånd i varje som behövs från särskilt fall
+            uppdrar åt beredskaps- och en annan sådan kontrollsynpunkt. lagringsskyldig
+            att tillfälligt ombesörja lagring av oljeprodukter för hans räkning.
+            ----------------------------------------------------- 23 § -----------------------------------------------------
+            Om särskilda skäl Tillsynsmyndigheten får föreligger, får medge
+            att en tillsynsmyndigheten för lagringsskyldig inom visst fall
+            medge att en landet ombesörjer lagring lagringsskyldig uppdrar
+            av lagringsbränsle för en åt en annan annan lagringsskyldigs lagringsskyldig
+            att helt räkning. Sådant eller delvis ombesörja medgivande får
+            ges även lagring för hans räkning. till den som utan att vara
+            lagringsskyldig bedriver oljelagringsverksamhet. För den som inom
+            landet driver oljeraffinaderi får medgivandet innefatta att lagringen
+            sker i form av råolja, andra råvaror för tillverkningen eller
+            halvfabrikat. Ett medgivande får tidsbegränsas och skall förenas
+            med de villkor som behövs från beredskaps- och kontrollsynpunkt.
+            ----------------------------------------------------- 24 §[8]
+            ----------------------------------------------------- Regeringen
+            eller den Regeringen eller den myndighet som regeringen myndighet
+            som regeringen bestämmer får medge bestämmer får medge befrielse
+            helt eller befrielse helt eller delvis från delvis från lagringsskyldigheten
+            i lagringsskyldigheten i visst fall, om den till visst fall, om
+            den till vilken lagringspliktigt vilken lagringspliktigt bränsle
+            sålts under ett bränsle sålts under ett basår själv blivit basår
+            själv blivit lagringsskyldig för lagringsskyldig för motsvarande
+            kvantitet motsvarande kvantitet bränsle under bränsle under lagringsåret,
+            eller lagringsåret, eller annars synnerliga skäl annars synnerliga
+            skäl föranleder att föranleder att skyldigheten inte behöver skyldigheten
+            inte behöver fullgöras vare sig genom fullgöras vare sig genom
+            egen lagring eller genom egen lagring eller genom lagring hos
+            någon annan lagring som uppdras åt enligt 23 §. någon annan enligt
+            22 §. ----------------------------------------------------- Ett
+            medgivande får förenas med villkor. 27 § Den som inte håller fastställt
+            beredskapslager skall till staten erlägga särskild avgift (lagringsavgift).
+            ----------------------------------------------------- Lagringsavgift
+            skall Lagringsavgift skall erläggas även av den som erläggas även
+            av den som utan medgivande enligt 22 utan medgivande enligt 22
+            eller 23 § uppdrar åt § uppdrar åt någon annan någon annan att
+            ombesörja att ombesörja lagring lagring eller som eller som förvarar
+            förvarar lagrade varor i lagrade varor i strid mot strid mot föreskrifter
+            föreskrifter som har som har meddelats med meddelats med stöd
+            av 13 stöd av 13 §. §. -----------------------------------------------------
+            30 § ----------------------------------------------------- Den
+            som är Den som är lagringsskyldig skall lagringsskyldig, och den
+            lämna tillsynsmyndigheten som ombesörjer lagring de uppgifter
+            som behövs med stöd av medgivande för tillsynen av att enligt
+            23 §, skall lämna lagen och med stöd av tillsynsmyndigheten de
+            lagen meddelade uppgifter som behövs för föreskrifter efterlevs.
+            tillsynen av att lagen och med stöd av lagen meddelade föreskrifter
+            efterlevs. -----------------------------------------------------
+            Regeringen får meddela föreskrifter om fullgörandet av uppgifts-skyldigheten.
+            31 § ----------------------------------------------------- Den
+            som har importerat, Den som har till landet sålt eller förbrukat
+            infört, sålt eller lagringsbränsle eller förbrukat lagringsbränsle
+            annan lagringspliktig eller annan vara skall, även i annat lagringspliktig
+            vara, och fall än som avses i 30 §, den som ombesörjer på begäran
+            lämna lagring med stöd av tillsynsmyndigheten de medgivande enligt
+            23 §, uppgifter om importen, skall, även i annat fall försäljningen,
+            än som avses i 30 §, på förbrukningen och lagret begäran lämna
+            som behövs för tillsynen tillsynsmyndigheten de av att lagen och
+            med stöd uppgifter om införseln, av lagen meddelade försälj-ningen,
+            föreskrifter efterlevs. förbrukningen och lagret som behövs för
+            tillsynen av att lagen och med stöd av lagen meddelade föreskrifter
+            efterlevs. -----------------------------------------------------
+            33 § Underlåter en lagringsskyldig att 1. hålla beredskapslager
+            av den omfattning eller på det sätt som åligger honom enligt denna
+            lag eller föreskrifter som har meddelats med stöd av lagen, 2.
+            iaktta villkor som avses i 14 eller 24 § eller 3. lämna deklaration
+            enligt 16 § eller redovisning enligt 21 §, får tillsynsmyndigheten
+            förelägga honom vid vite att fullgöra sina åligganden. -----------------------------------------------------
+            Tillsynsmyndigheten får Tillsynsmyndigheten får också vid vite
+            meddela också vid vite meddela en föreläggande som behövs lagringsskyldig,
+            och den för att som ombesörjer lagring uppgiftsskyldigheten med
+            stöd av medgivande enligt 30 eller 31 § enligt 23 §, föreläggande
+            skall fullgöras eller för som behövs för att att undersökning
+            eller uppgiftsskyldigheten granskning enligt 32 § enligt 30 eller
+            31 § skall kunna utföras. skall fullgöras eller för att undersökning
+            eller granskning enligt 32 § skall kunna utföras. -----------------------------------------------------
+            Vitesföreläggande skall delges. Ett utdömt vite får inte förvandlas
+            till fängelse. 33 a § -----------------------------------------------------
+            Tillsynsmyndigheten får återkalla ett medgivande som lämnats enligt
+            22 eller 23 § om den som fått medgivandet i något väsentligt avseende
+            inte iakttar villkor som ställts av myndigheten eller det annars
+            finns synnerliga skäl. -----------------------------------------------------
+            37 §[9] -----------------------------------------------------
+            Tillsynsmyndighetens Tillsynsmyndighetens beslut i frågor som
+            avses beslut i frågor som avses i 17, 29 och 33 §§ får i 17, 29,
+            33 och 33 överklagas hos allmän a §§ får överklagas hos förvaltningsdomstol.
+            allmän förvaltningsdomstol. -----------------------------------------------------
+            Prövningstillstånd krävs vid överklagande till kammarrätten. I
+            övrigt överklagas tillsynsmyndighetens beslut till regeringen.
+            Denna lag träder i kraft den 1 juli 2002 såvitt avser 5-7 och
+            18 a §§ samt i övrigt den 1 januari 2003. **FOOTNOTES** [3]: Senaste
+            lydelse 1995:921. [4]: Senaste lydelse 1995:921. [5]: Senaste
+            lydelse 1995:921. [6]: Senaste lydelse 1995:921. [7]: Senaste
+            lydelse 1995:921. [8]: Senaste lydelse 1995:921. [9]: Senaste
+            lydelse 1995:921.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

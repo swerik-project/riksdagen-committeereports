@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="bet_200405_KU_0002">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <authority>SWERIK PROJECT</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="notisrubrik" n="Rubrik - Beslut i korthet">Rättsinformationssystemet</note>
+          <note type="beslutssammanfattningusk" n="Utskottets förslag till beslut">Skrivelsen läggs till handlingarna. Avslag på revisorernas förslag. Avslag på motionerna</note>
+          <note type="rdbeslut" n="Riksdagens beslut">Kammaren biföll utskottets förslag</note>
+          <relatedItem type="protokollbeslut">
+            <bibl type="prot">
+              <idno type="riksdagen">GS0926</idno>
+              <title>2004-11-10</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">26</biblScope>
+              <note type="display-reference">2004-11-10</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="protokolldebatt">
+            <bibl type="prot">
+              <idno type="riksdagen">GS0926</idno>
+              <title>2004-11-10</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">26</biblScope>
+              <note type="display-reference">2004-11-10</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GS0K30</idno>
+              <title>2004/05:30</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">30</biblScope>
+              <note type="display-reference">2004/05:30</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="rskr">
+            <bibl type="rskr">
+              <idno type="riksdagen">GS0K31</idno>
+              <title>2004/05:31</title>
+              <biblScope unit="riksdag-session">2004/05</biblScope>
+              <biblScope unit="document-number">31</biblScope>
+              <note type="display-reference">2004/05:31</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="frsrdg">
+              <idno type="riksdagen">GQ04RR20</idno>
+              <title>Riksdagens revisorers förslag angående Ordning på rätten</title>
+              <biblScope unit="riksdag-session">2002/03</biblScope>
+              <biblScope unit="document-number">RR20</biblScope>
+              <note type="display-reference">forslag 2002/03:RR20 Riksdagens revisorers förslag angående Ordning på rätten</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="skr">
+              <idno type="riksdagen">GR03168</idno>
+              <title>Den fortsatta utvecklingen av rättsinformationssystemet</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">168</biblScope>
+              <note type="display-reference">regeringsskrivelse 2003/04:168 Den fortsatta utvecklingen av rättsinformationssystemet</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GR02K334</idno>
+              <title>Rättsinformation</title>
+              <title type="sub">av Ragnwi Marcelind (KD)</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">K334</biblScope>
+              <note type="display-reference">motion 2003/04:K334 Rättsinformation</note>
+            </bibl>
+          </relatedItem>
+          <relatedItem type="behandlar">
+            <bibl type="mot">
+              <idno type="riksdagen">GR02K396</idno>
+              <title>Publicering av kommunala författningar</title>
+              <title type="sub">av Ingvar Svensson m.fl. (KD)</title>
+              <biblScope unit="riksdag-session">2003/04</biblScope>
+              <biblScope unit="document-number">K396</biblScope>
+              <note type="display-reference">motion 2003/04:K396 Publicering av kommunala författningar</note>
+            </bibl>
+          </relatedItem>
+        </bibl>
+        <listEvent>
+          <event type="DEL" subtype="beredning" n="90" when="2004-11-08">
+            <label>Dela i huset</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UPP" subtype="beredning" n="80" when="2004-11-08">
+            <label>Upplaga tas emot</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TROWE" subtype="beredning" n="70" when="2004-11-02">
+            <label>Trycklov till Gotab och webb</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2004-11-02">
+            <label>Trycklov</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="RES" subtype="beredning" n="50" when="2004-11-02">
+            <label>Godkännande av reservationer</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="TRY" subtype="beredning" n="60" when="2004-11-02">
+            <label>Trycklov</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2004-10-28">
+            <label>Justering</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="JUS" subtype="beredning" n="40" when="2004-10-28">
+            <label>Justering</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2004-10-21">
+            <label>Under beredning</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2004-10-21">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2004-10-19">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="UBE" subtype="beredning" n="30" when="2004-10-12">
+            <label>Under beredning</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="RSKR" subtype="avgorande" n="6" when="2004-11-10">
+            <label>Utfärdande av riksdagsskrivelse</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="AVG" subtype="avgorande" n="5" when="2004-11-10">
+            <label>Avgörande</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BES" subtype="avgorande" n="4" when="2004-11-10">
+            <label>Beslut</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2004-11-10">
+            <label>Behandling</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="BEH" subtype="avgorande" n="3" when="2004-11-10">
+            <label>Behandling</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2004-11-09">
+            <label>Bordläggning 2</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B2" subtype="avgorande" n="2" when="2004-11-09">
+            <label>Bordläggning 2</label>
+            <desc>Status: planerat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2004-11-08">
+            <label>Bordläggning 1</label>
+            <desc>Status: inträffat</desc>
+          </event>
+          <event type="B1" subtype="avgorande" n="1" when="2004-11-08">
+            <label>Bordläggning 1</label>
+            <desc>Status: planerat</desc>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson/>
+      </particDesc>
+      <correspDesc/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="cBody">
+        <div rend="sidhuvud_publikation">
+          <p>
+            Konstitutionsutskottets betänkande
+          </p>
+        </div>
+        <div rend="sidhuvud_beteckning">
+          <p>
+            2004/05:KU2
+          </p>
+        </div>
+        <div type="section" subtype="h1">
+          <head>
+            Rättsinformationssystemet
+          </head>
+          <milestone rend="sidhuvud_linje" unit="horizontal-rule"/>
+          <p>
+            Sammanfattning I detta betänkande behandlas Riksdagens revisorers
+            förslag Ordning på rätten (förslag 2002/03:RR20) och regeringens
+            skrivelse Den fortsatta utvecklingen av rättsinformationssystemet
+            (skr. 2003/04:168) samt två motioner från den allmänna motionstiden
+            2003. Utskottet avstyrker Riksdagens revisorers förslag och motionsyrkandena
+            samt föreslår att regeringens skrivelse läggs till handlingarna.
+            En reservation (kd) och ett särskilt yttrande (v, mp) rörande
+            förteckning och publicering av kommunala författningar har avgetts.
+          </p>
+          <p>
+            Utskottets förslag till riksdagsbeslut 1. Rättsinformationssystemet
+            Riksdagen lägger skrivelse 2003/04:168 till handlingarna. 2. Märkning,
+            strukturering, sökning, m.m. Riksdagen avslår förslag 2002/03:RR20
+            punkt 1 och motion 2003/04:K334 yrkandena 1 och 2. 3. Grunden
+            för regeringens normgivning Riksdagen avslår förslag 2002/03:RR20
+            punkt 2 och motion 2003/04:K334 yrkande 3. 4. Rättsinformationssystemet
+            och kommunala föreskrifter Riksdagen avslår förslag 2002/03:RR20
+            punkt 3. 5. Förteckning och publicering av kommunala författningar
+            Riksdagen avslår motion 2003/04:K396. Reservation (kd) 6. EG-rätten
+            Riksdagen avslår förslag 2002/03:RR20 punkt 4. Stockholm den 28
+            oktober 2004 På konstitutionsutskottets vägnar Göran Lennmarker
+            Följande ledamöter har deltagit i beslutet: Göran Lennmarker (m),
+            Göran Magnusson (s), Barbro Hietala Nordlund (s), Helena Bargholtz
+            (fp), Ingvar Svensson (kd), Mats Einarsson (v), Inger Jarl Beck
+            (s), Henrik S Järrel (m), Anders Bengtsson (s), Tobias Krantz
+            (fp), Kerstin Lundgren (c), Helene Petersson (s), Nils Fredrik
+            Aurelius (m), Billy Gustafsson (s), Gustav Fridolin (mp) och Karin
+            Åström (s).
+          </p>
+          <p>
+            Redogörelse för ärendet Ärendet och dess beredning I syfte att
+            tillförsäkra den offentliga förvaltningen och enskilda tillgång
+            till grundläggande rättsinformation i elektronisk form skall det
+            enligt rättsinformationsförordningen (1999:175) finnas ett offentligt
+            rättsinformationssystem. I rättsinformationssystemet finns lagar
+            och andra föreskrifter samt annan rättsinformation tillgängliga
+            i elektronisk form. I juni 2003 lade Riksdagens revisorer fram
+            ett förslag till riksdagen kallat Ordning på rätten (förslag 2002/03:RR20).
+            Förslaget gäller införande av ett märkningssystem för rättsinformationssystemet
+            så att det går att följa regelverket från lag via förordning till
+            tillämpningsföreskrifter, utformning av ett system för att ange
+            vilken eller vilka lagar regeringen grundar sina förordningar
+            på, utformning av en ordning för hur kommunala författningar inom
+            olika lagstiftningsområden skall ingå i rättsinformationssystemet
+            samt ett system för hur EG-rätten skall kopplas till rättsinformationssystemet.
+            Vid den allmänna motionstiden 2003 väcktes två motioner som tog
+            upp vissa av de frågor som behandlades i Riksdagens revisorers
+            förslag. I slutet på maj 2004 överlämnade regeringen skrivelsen
+            Den fortsatta utvecklingen av rättsinformationssystemet (skr.
+            2003/04:168). Ingen motion väcktes med anledning av den skrivelsen.
+            Förslagets och skrivelsens huvudsakliga innehåll Riksdagens revisorers
+            förslag Riksdagens revisorer anser att det behövs en bättre överblick
+            och kontroll över hela den lagstiftning som gäller inom olika
+            områden. Rättsinformationssystemet behöver utvecklas så att det
+            blir tillförlitligt och överskådligt. Revisorerna föreslår att
+            rättsinformationssystemet förses med ett märkningssystem så att
+            det går att följa regelverket från lag via förordning till tillämpningsföreskrifter
+            (yrkande 1). Revisorerna anser vidare att det skulle vara en stor
+            fördel för utvecklingen av rättsinformation om regeringen angav
+            vilken eller vilka lagar som regeringen grundar sina bemyndiganden
+            på (yrkande 2). Revisorerna anser också att det är väsentligt
+            att medborgarna kan orientera sig inom olika lagstiftningsområden
+            och att rättsinformationssystemet därför bör göras så komplett
+            som möjligt också när det gäller kommunala författningar. Även
+            för kommunerna torde det enligt revisorerna vara väsentligt att
+            på ett överskådligt sätt kunna följa vad som gäller inom olika
+            områden samt vilka möjligheter och skyldigheter kommunen har.
+            Revisorernas granskning hade visat att det behövs någon form av
+            styrning för att kommunala författningar skall kunna länkas till
+            rättsinformationssystemet. Revisorerna föreslår att regeringen
+            utformar en ordning för hur kommunala författningar inom olika
+            lagstiftningsområden skall kunna ingå i rättsinformationssystemet
+            (yrkande 3). Revisorernas sista förslag gäller behovet av kopplingar
+            mellan EG-regler inom området och rättsinformationssystemet. Regeringen
+            bör enligt revisorerna lägga fram ett förslag i detta avseende
+            (yrkande 4). Regeringens skrivelse Regeringen konstaterar i skrivelsen
+            om den fortsatta utvecklingen av rättsinformationssystemet att
+            rättsinformationssystemet i allt väsentligt nu fungerar i enlighet
+            med de intentioner regeringen gett uttryck för i rättsinformationsförordningen.
+            Regeringen anser vidare att de överväganden och bedömningar som
+            gjordes i skrivelsen Ett nytt offentligt rättsinformationssystem
+            (skr. 1998/99:17) om systemets utveckling och innehåll alltjämt
+            bör vara vägledande för det fortsatta arbetet. Regeringen redovisar
+            i den nu aktuella skrivelsen sin syn på några frågeställningar
+            som föranletts av senare års utveckling på rättsinformationsområdet.
+            Regeringen redovisar också sin syn på de förslag som Riksdagens
+            revisorer lagt fram. Regeringen anser att det statliga ansvaret
+            för rättsinformationen i framtiden främst bör vara inriktat på
+            att tillgodose enskilda personers och den offentliga förvaltningens
+            behov av att på ett enkelt, lättillgängligt och överskådligt sätt
+            ha tillgång till och kunna söka information på det rättsliga området.
+            Rättsinformationssystemet bör innehålla samma slags information
+            som det gör i dag. En viktig uppgift för framtiden är att överväga
+            hur informationen i systemet bör förädlas. Särskilda insatser
+            bör göras för att kommunernas författningar skall kunna bli tillgängliga
+            via systemet. Ytterligare en viktig uppgift är att information
+            och sökfunktioner presenteras på ett lättillgängligt, överskådligt
+            och enhetligt sätt. En annan viktig åtgärd är att anpassa rättsinformationssystemet
+            till användare med särskilda behov. Liksom i dag bör varje organ
+            som producerar rättsinformation ta ansvar för den egna informationen
+            och även ansvara för att den sprids elektroniskt. I systemet bör
+            det finnas exakta kopior av den kungjorda versionen av samtliga
+            författningar. Systemet bör i övrigt återge de tryckta förlagorna
+            såväl till innehåll som, så långt det är möjligt, till formen.
+            Utvecklingen av rättsinformationssystemet bör i framtiden vara
+            låst till gemensamma standarder för märkning och strukturering
+            som omfattar hela systemet. Informationen i systemet bör också
+            kunna grupperas och presenteras på flera olika sätt. Det bör finnas
+            länkar mellan olika informationskällor. Det bör fastställas kriterier
+            för i vilka situationer länkning skall ske. Det bedöms vidare
+            att det bör utredas om det är möjligt och lämpligt att elektroniskt
+            publicera och kungöra författningar i Sverige. Författningstekniken
+            bör förändras så att det av nya förordningar normalt framgår vilket
+            eller vilka bemyndiganden som har utnyttjats.
+          </p>
+          <p>
+            Utskottets överväganden Rättsinformationssystemet Utskottets
+            förslag i korthet Utskottet, som ser med tillfredställelse att
+            regeringen avser att utreda frågan om elektroniskt kungörande
+            av författningar, föreslår att riksdagen lägger regeringens skrivelse
+            till handlingarna. Gällande regler, m.m. Enligt 1 § rättsinformationsförordningen
+            skall det i syfte att tillförsäkra den offentliga förvaltningen
+            och enskilda tillgång till grundläggande rättsinformation i elektronisk
+            form finnas ett offentligt rättsinformationssystem. Rättsinformationssystemet
+            skall föras med hjälp av informationsteknik och finnas tillgängligt
+            genom ett allmänt nätverk. Innehållet i systemet skall vara tillgängligt
+            på ett enhetligt sätt. Rättsinformationssystemet skall enligt
+            3 § innehålla Svensk författningssamling som den kungörs, referensregister
+            över författningar i Svensk författningssamling, och grundförfattningarna
+            i Svensk författningssamling i deras lydelse med införda ändringar.
+            En bestämmelse i Svensk författningssamling som upphävs skall
+            sparas elektroniskt på ett sådant sätt att det blir möjligt att
+            få fram grundförfattningarna i deras lydelse med införda ändringar
+            vid tidigare tidpunkter. Rättsinformationssystemet skall enligt
+            4 § innehålla de gällande förordningar som kungörs i andra författningssamlingar
+            än Svensk författningssamling. Systemet skall innehålla sådana
+            gällande föreskrifter som är beslutade av myndigheter under regeringen
+            och som skall kungöras enligt lagen (1976:633) om kungörande av
+            lagar och andra författningar. När föreskrifter som har beslutats
+            av myndigheter under regeringen återges elektroniskt skall de
+            uppfylla de krav som anges i kungörandelagen och i författningssamlingsförordningen
+            (1976:725). När det gäller förarbeten skall rättsinformationssystemet
+            enligt 4 § innehålla ett referensregister över de statliga kommittéerna
+            med uppgift om regeringsbeslut, ledamöter, arbetsplaner och kommittédirektiv,
+            och förordningsmotiv, utredningsbetänkanden som publiceras i Statens
+            offentliga utredningar (SOU) och i departementsserien (Ds) samt
+            regeringens propositioner. Enligt 6 § rättsinformationsförordningen
+            skall systemet vidare innehålla uppgifter om vägledande avgöranden
+            från Högsta domstolen, Regeringsrätten, hovrätterna, kammarrätterna,
+            Miljööverdomstolen, Arbetsdomstolen, Marknadsdomstolen och Patentbesvärsrätten.
+            Rättsinformationssystemet skall enligt 7 § också innehålla uppgifter
+            om sådana vägledande avgöranden i förvaltningsärenden från centrala
+            statliga myndigheter under regeringen som är av betydelse för
+            allmänheten och som inte kan överklagas. Rättsinformationssystemet
+            skall enligt 8 § vidare innehålla överenskommelser som skall publiceras
+            i Sveriges internationella överenskommelser (SÖ). Rättsinformationssystemet
+            får dessutom enligt 9 § innehålla annan rättslig information som
+            samordningsmyndigheten och det offentliga organ som förfogar över
+            materialet kommer överens om. Samordningsmyndigheten får dessutom
+            ensam besluta att information av ett visst slag får ingå i systemet.
+            Statskontoret skall enligt 15 § vara samordningsmyndighet för
+            rättsinformationssystemet. Lagrummet, www.lagrummet.se, är den
+            gemensamma portalen för rättsinformationssystemet. I stort sett
+            all information som anges i rättsinformationsförordningen finns
+            tillgänglig via Lagrummet. Utöver lagar, förordningar och förarbeten
+            m.m. finns föreskrifter från ett 60-tal myndigheter tillgängliga.
+            Endast ett fåtal myndighetsföreskrifter saknas. Även länsstyrelsernas
+            författningssamlingar finns tillgängliga. Däremot saknas kommunala
+            föreskrifter. I systemet ingår svensk rättspraxis från ett 20-tal
+            olika överdomstolar och myndigheter. Portalen Lagrummet innehåller
+            i sig inte någon rättsinformation utan den ger användaren möjlighet
+            att gå vidare till de myndigheters databaser där informationen
+            finns tillgänglig. Det görs ca 7 000 besök i portalen per vecka.
+            Regeringens skrivelse, m.m. Regeringens bedömning är att det statliga
+            ansvaret för rättsinformationen främst bör vara inriktat mot att
+            tillgodose enskilda personers och den offentliga förvaltningens
+            behov av att på ett enkelt lättillgängligt och överskådligt sätt
+            ha tillgång till och kunna söka information på det rättsliga området.
+            Informationen i rättsinformationssystemet skall presenteras och
+            hållas tillgängligt på ett sådant sätt att den breda allmänheten
+            förstår systemet och dess innehåll och själva kan söka sig fram
+            till den information som efterfrågas. Av statskontorets årsredovisning
+            för 2003 framgår att en förstudie avseende rättsinformationssystemets
+            långsiktiga utveckling har tagits fram. Förstudien sammanfattar
+            tidigare insatser och lyfter fram väsentliga kvarvarande frågeställningar
+            inför en vidareutveckling av systemet. Förstudien redovisar en
+            översiktlig och funktionsbaserad (teknikneutral) utvecklingsplan
+            som sträcker sig över ett flertal år och som omfattar ett stort
+            antal myndigheters framtida produktion av rättsinformation. En
+            kravspecifikation har tagits fram som en inledande del av Statskontorets
+            vidareutveckling av verksamheten. Ett av målen är att även den
+            redaktionella förvaltningen av portalen ska bli mer effektiv.
+            Regeringen följer enligt skrivelsen det utvecklingsarbete som
+            bedrivs genom Statskontoret, liksom utvecklingen i övrigt inom
+            rättsinformationsområdet. Regeringen avser att initiera ett arbete
+            med att uppfylla rättsinformationsförordningens krav på att förordningsmotiv
+            skall ingå i systemet. Regeringen anser också att det trots vissa
+            problem även i fortsättningen bör vara en målsättning att utveckla
+            databaserna så att även tidigare lydelser av författningarna går
+            att få fram i konsoliderad form. Uppgifter om senaste uppdatering
+            av databaser bör tillföras samtliga databaser. I det fortsatta
+            utvecklingsarbetet bör enligt skrivelsen övervägas och bedömas
+            bl.a. frågor om informativa texter i systemet och därmed sammanhängande
+            frågor som bl.a. gäller det skadeståndsrättsliga ansvaret och
+            tids- och kostnadsaspekter. En annan åtgärd som prioriteras i
+            framtiden är en anpassning till användare med särskilda behov.
+            Regeringen anser att frågan om elektroniskt kungörande av författningar
+            bör utredas. En utgångspunkt för rättsinformationssystemet måste
+            enligt regeringen vara att en officiell version i elektronisk
+            form måste uppfylla samma krav på exakthet, både när det gäller
+            innehåll och form, som den tryckta versionen av författningarna
+            gör i dag. Om det skall finnas officiella versioner både i pappersform
+            och elektronisk form måste versionerna vara exakta kopior av varandra.
+            En utredning om möjligheterna till elektronisk publicering av
+            officiella versioner av författningar bör enligt regeringen syfta
+            till att ta reda på hur stora säkerhetsproblemen är och hur problemen
+            skall lösas. Det bör också undersökas om, och i så fall på vilket
+            sätt, förvaltningsmyndigheternas föreskrifter skulle kunna omfattas
+            av en reform. En annan fråga som bör undersökas är om författningarna
+            också skall kungöras elektroniskt. Utskottets ställningstagande
+            Regeringens redovisning av rättsinformationssystemet visar att
+            det bedrivs ett aktivt arbete med att utveckla systemet i riktning
+            mot bl.a. ökad överskådlighet, tillgänglighet och enhetlighet.
+            Utskottet ser med tillfredsställelse att regeringen avser att
+            utreda frågan om elektroniskt kungörande av författningar och
+            att säkerhetsaspekterna därvid kommer att genomlysas. Utskottet
+            föreslår att riksdagen lägger regeringens skrivelse 2003/04:l68
+            till handlingarna. Märkning, strukturering, sökning, m.m. Utskottets
+            förslag i korthet Med hänvisning till det utvecklingsarbete i
+            fråga om rättsinformationssystemet som presenteras i regeringens
+            skrivelse avstyrker utskottet Riksdagens revisorers förslag om
+            ett märkningssystem samt ett motionsförslag om införande av möjlighet
+            att se vad som gäller inom ett område, vare sig bestämmelserna
+            finns i lag, förordning, myndighetsförekrift eller i kommunal
+            författning och ett motionsyrkande om behovet av att fastställa
+            kvalitetskrav. Riksdagens revisorers förslag Riksdagens revisorer
+            anser att rättsinformationssystemet behöver utvecklas så att det
+            blir tillförlitligt och överskådligt. De föreslår ett tillkännagivande
+            till regeringen om att det skall införas ett system med märkning
+            av föreskrifter så att det går att följa regelverket från lag
+            via förordning till föreskrifter. Märkningssystemet skulle innebära
+            att lagtexten försågs med länkar, som kopplar samman lagar, förordningar
+            och tillämpningsföreskrifter (yrkande 1). Regeringens skrivelse
+            I regeringens skrivelse framhålls att den framtida utvecklingen
+            för rättsinformationssystemet bör var låst till gemensamma standarder
+            för märkning och strukturering som omfattar hela systemet. Informationen
+            i rättsinformationssystemet bör enligt regeringen kunna grupperas
+            och presenteras på olika sätt. Möjligheten att länka mellan olika
+            informationskällor bör enligt regeringen utvecklas. Om informationen
+            är märkt och strukturerad på ett enhetligt sätt i hela rättsinformationssystemet
+            finns det större möjligheter att utveckla söksystem som är effektiva
+            och som träffar all den information som finns i systemet. Regeringen
+            framhåller att det naturligtvis fortfarande är ett starkt önskemål
+            med ett system som gör det möjligt att söka i hela systemet från
+            den gemensamma ingångssidan. Frågan är emellertid om det är realistiskt
+            i ett decentraliserat system där varje organ som producerar rättsinformation
+            också ansvarar för den egna informationen. Mycket talar enligt
+            skrivelsen för att ett mycket utvecklat söksystem som omfattar
+            alla databaser kräver en standardiserad märkning med ett avancerat
+            märkningsspråk i all den information som ingår i systemet. Regeringskansliet
+            beslutade år 2000 att all information som skall ingå i rättsinformationssystemet
+            i projektets andra del skulle märkas upp i märkningsspråket XML.
+            Under projektets gång visade det sig emellertid att svårigheterna
+            med en gemensam märkningsstandard var stora. En svårighet låg
+            i att det visade sig krävas mycket mer arbete än som hade förutsatts
+            med att analysera informationen och att skapa dokumenttypsdefinitioner.
+            Även själva märkningen upplevdes som krånglig och omständlig.
+            Den slutsats som kunde dras av projektet var att de verktyg som
+            utnyttjades var alltför svåra att använda för att kunna tas i
+            bruk på handläggarnivå. Projektet resulterade bl.a. av den anledningen
+            inte i någon ny gemensam standard för märkning av informationen.
+            De flesta länder i Europa tycks ha haft motsvarande problem när
+            det gäller att ta fram avancerade märkningsstandarder för sina
+            rättsinformationssystem. I länder där sådana standarder har tagits
+            fram har mycket stora resurser lagts ned. Problemet har främst
+            sin grund i att informationen finns i ett flertal olika databaser,
+            men också ur ett annat perspektiv uppkommer problem med förslaget.
+            Det kräver nämligen ett omfattande arbete med att identifiera
+            vilka författningar som hör ihop. I det arbetet ligger inte enbart
+            att leta upp författningarna i fråga, utan även att göra en bedömning
+            av om det finns ett tillräckligt samband för att en länk skall
+            vara meningsfull. I skrivelsen framhålls att medan vissa användare
+            kan vara intresserade av det formella sambandet mellan olika författningar,
+            vilket Riksdagens revisorer tycks efterlysa, kan andra användare
+            vara mer intresserade av det sakliga sambandet mellan olika rättsregler.
+            Oavsett vad man efterlyser i det enskilda fallet är det enligt
+            regeringen viktigt för de icke-professionella användarna att förstå
+            varför författningarna hör ihop och därmed kunna skilja på de
+            olika situationerna samtidigt som möjligheterna att söka i informationen
+            inte i praktiken begränsas av en ostrukturerad länkningsmetodik.
+            Innan ett praktiskt arbete med att skapa länkar mellan olika författningar
+            påbörjas krävs därför att det fastställs vilka kriterier som skall
+            avgöra i vilka situationer länkning skall ske. Remissinstanserna
+            har överlag instämt i den bedömningen. Det är enligt regeringen
+            rimligt att Statskontoret och Regeringskansliet gemensamt fastställer
+            kriterier för i vilka situationer länkning kan ske. Enligt 16
+            § första stycket rättsinformationsförordningen är det samordningsmyndigheten
+            som samordnar frågor om standardisering i rättsinformationssystemet.
+            Den i den tidigare skrivelsen om rättsinformationen uppställda
+            målsättningen att informationen skall grupperas och presenteras
+            på flera olika sätt är enligt regeringen fortfarande aktuell,
+            men i den nu aktuella skrivelsen nämns också att det sannolikt
+            är svårt att gruppera informationen så att material från flera
+            olika databaser omfattas. En ämnesvis gruppering blir därför i
+            huvudsak begränsad till den information som finns i en databas.
+            Regeringen är medveten om att grupperingen får genomföras på sikt
+            och efter varje myndighets förutsättningar. Regeringen uttalade
+            i den tidigare skrivelsen att det i ett fullt utbyggt system borde
+            vara möjligt att länka direkt mellan olika informationskällor.
+            Länkar skulle kunna läggas mellan olika dokument i lagstiftningskedjan,
+            exempelvis mellan ett utredningsbetänkande, en proposition, ett
+            utskottsbetänkande och den aktuella lagen. Länkar skulle också
+            kunna läggas mellan författningar som hänvisar till varandra,
+            exempelvis mellan en lag och den förordning där det finns detaljerade
+            bestämmelser i ämnet. Det skulle också vara möjligt att gå ytterligare
+            ett steg och från förordningen länka till myndighetsföreskrifter
+            som närmare reglerar frågan. Det bör enligt regeringen vara en
+            målsättning även för framtiden att förse dokumenten med ett länksystem
+            i syfte att underlätta att söka i informationen. Regeringen poängterar
+            dock att länkar, eller annan förädling, inte får förekomma i de
+            delar av rättsinformationssystemet där det finns strikta krav
+            på exakthet. Regeringen tar fasta på de i stort sett samstämmiga
+            synpunkterna från remissinstanserna och anser därför att den framtida
+            utvecklingen av rättsinformationssystemet bör vara låst till gemensamma
+            standarder för märkning och strukturering, vilka omfattar hela
+            systemet. I princip är det den myndighet som producerar informationen
+            som har ansvaret för informationen, vilket innebär en skyldighet
+            att se till att informationen görs elektroniskt tillgänglig och
+            sprids. Informationsansvaret innebär vidare ansvar för säkerheten
+            i det egna informationssystemet och skyldighet att se till att
+            informationen är aktuell, tillförlitlig och i övrigt uppfyller
+            kraven enligt förordningen. Det är regeringens uppfattning att
+            informationsproducenterna alltjämt skall ha ansvaret för att informationen
+            görs elektroniskt tillgänglig, sprids, är aktuell m.m. En sak
+            som dock bör övervägas ytterligare är enligt regeringen var och
+            hur informationen skall vara lokaliserad. Det finns enligt regeringen
+            inte tillräckliga skäl att nu frångå den tidigare ståndpunkten
+            att varje organ som ger ut rättsinformation också skall ansvara
+            för att den sprids elektroniskt, dvs. att rättsinformationssystemet
+            skall vara decentraliserat, men det kan finnas anledning att fördjupa
+            diskussionen och åter bedöma frågan i ett senare skede om någon
+            ändamålsenlig lösning inte kan uppnås. Motionen I motion 2003/04:K334
+            av Ragnwi Marcelind (kd) begärs tillkännagivanden till regeringen
+            om dels behovet av ett förenklat rättsinformationssystem som möjliggör
+            att det går att se vad som gäller inom ett område, vare sig bestämmelserna
+            finns i lag, förordning, myndighetsskrift eller i kommunal författning
+            (yrkande 1), dels om behovet av att fastställa kvalitetskrav (yrkande
+            2). Rättsinformationen är i dag enligt motionen inte uppbyggd
+            så att det går att se vad som gäller inom område. Det saknas enligt
+            motionen beslut om hur systemet skall drivas vidare eller vilka
+            kvalitetskrav som skall vara uppfyllda. Ansvarsförhållandena är
+            enligt motionen också oklara. Utskottets ställningstagande Av
+            regeringens skrivelse framgår att rättsinformationssystemet är
+            föremål för ett planerings- och utvecklingsarbete som innebär
+            bl.a. att informationen i systemet skall kunna grupperas och presenteras
+            på olika sätt, att det skall finnas gemensamma standarder för
+            märkning, strukturering och sökning, vilka omfattar hela systemet
+            och att det skall finnas länkar enligt fastställda kriterier mellan
+            olika informationskällor. Ett tillkännagivande till regeringen
+            om införandet av ett märkningssysten som gör det möjligt att följa
+            regelverket från lag via förordning till tillämpningsföreskrifter
+            är därför enligt utskottets mening inte nödvändigt. Riksdagens
+            revisorers förslag 2002/03:RR20 yrkande 1 samt motion 2003/03:K334
+            yrkande 1 (kd) avstyrks följaktligen. I den förra regeringsskrivelsen
+            om rättsinformationen (skr. 1998/99:17) lämnades en omfattande
+            och detaljerad beskrivning av de krav som borde ställas på rättsinformationssystemet.
+            Krav på kvalitet var svåra att ange i generella termer för alla
+            informationstyper. Ett allmänt krav var dock att informationen
+            var korrekt och uppdaterad. Regeringen har i den nu aktuella skrivelsen
+            ställt sig bakom de grundläggande kvalitetskrav som Stiftelsen
+            för rättsinformation har utarbetat för förädlingsformer, krav
+            som gäller upplysning om vem som tillhandahåller produkten, överblickbarhet,
+            uppgift om senaste uppdatering, uppgift om regler för kopiering
+            och skydd för användarens identitet m.m. Regeringen anser att
+            kraven, i den mån de inte redan är tillgodosedda, bör uppfyllas.
+            Mot denna bakgrund anser utskottet inte att ett tillkännagivande
+            till regeringen om kvalitetskrav är nödvändigt. Motion 2003/04:K334
+            yrkande 2 (kd) avstyrks. Grunden för regeringens normgivning Utskottets
+            förslag i korthet Med hänvisning till att regeringen i skrivelsen
+            aviserar en förändring av lagstiftningstekniken så att det av
+            förordningar eller fotnoter normalt framgår vilka bemyndiganden
+            som utnyttjats avstyrker utskottet Riksdagens revisorers förslag
+            i detta avseende och ett motionsyrkande (kd) om tydliggörande
+            av bemyndigandekedjorna. Riksdagens revisorers förslag I revisorernas
+            rapport framhålls att det för närvarande inte anges i rättsinformationssystemet
+            vilken eller vilka lagar regeringen grundar sina förordningar
+            på. Revisorerna anser att om regeringen klargjorde vilket eller
+            vilka bemyndiganden som använts skulle lagstiftningen bli betydligt
+            mer överskådlig. Enligt revisorerna är behovet av att regeringen
+            klargör vilket eller vilka bemyndiganden en förordning stöds på
+            särskilt stort i vissa sammanhang. Det gäller t.ex. då särskilda
+            rättsverkningar knyts till beslut meddelade med stöd av vissa
+            särskilt uppräknade bemyndiganderegler såsom är fallet i miljöbalken.
+            Revisorerna föreslår att regeringen utformar ett system för att
+            ange vilken eller vilka lagar regeringen grundar sina förordningar
+            på (yrkande 2). Regeringens skrivelse Regeringen gör bedömningen
+            att lagstiftningstekniken bör förändras så att det normalt framgår
+            av förordningar eller av fotnoter till förordningar vilket eller
+            vilka bemyndiganden som har utnyttjats. Något absolut krav på
+            detta bör dock enligt regeringen inte ställas upp. Regeringen
+            pekar på att revisorernas förslag innebär att det formella sambandet
+            mellan olika författningar skulle kunna utläsas av själva författningen.
+            Detta skulle också skapa större möjligheter att länka mellan författningar
+            på olika nivåer, eftersom man därigenom i den praktiska länkningshanteringen
+            åtminstone delvis kan undvara att göra bedömningar av vilka författningar
+            som hör samman. I stället bör man kunna utgå från att det angivna
+            bemyndigandet eller den angivna grunden stämmer. Regeringens normgivningsmakt
+            bygger dels på bemyndiganden från riksdagen, dels på en egen normgivningskompetens.
+            Den senare består i den s.k. restkompetensen och i möjligheten
+            att utfärda verkställighetsföreskrifter. Till skillnad från myndigheterna
+            finns det för regeringen inte någon skyldighet att i förordningarna
+            ange det bemyndigande eller den grund i övrigt som finns för normgivningen.
+            En rutin som innebär att föreskrifter hänvisar till bakomliggande
+            bemyndiganden har enligt regeringen flera fördelar. En uppenbar
+            fördel är att den som söker information i en viss fråga kan följa
+            de bemyndiganden som har lämnats i en författning och på så sätt
+            få en överblick över vilka föreskrifter som behandlar frågan.
+            En annan vinst kan vara att riksdagen på ett enkelt sätt kan kontrollera
+            hur normgivningsbemyndiganden till regeringen och myndigheter
+            har utnyttjats och vilka föreskrifter som blivit följden. Vid
+            en första anblick kan det också förefalla vara en enkel åtgärd
+            att ändra författningstekniken så att den rättsliga grunden för
+            regeringens normgivning framgår av varje förordning. Frågan rymmer
+            enligt regeringen emellertid ett flertal komplikationer. För det
+            första kan flera olika bemyndiganden ligga till grund för bestämmelserna
+            i en och samma förordning. Dessa bemyndiganden behöver inte finnas
+            i en och samma lag. Den rättsliga grunden för vissa bestämmelser
+            i en förordning kan alltså finnas i en lag medan bemyndiganden
+            för andra bestämmelser finns i en helt annan lag och ytterligare
+            andra bemyndiganden finns i en tredje lag osv. Den omständigheten
+            kan leda till att hänvisningar till bemyndiganden i vissa fall
+            skulle bli komplicerade. För det andra kan den rättsliga grunden
+            för en specifik bestämmelse härledas till flera olika bemyndiganden
+            som skulle kunna åberopas vid sidan av varandra (se exempelvis
+            Miljöbalkens sanktionssystem och hänsynsregler (SOU2004:37 s.
+            114 f.). Det finns också lagar, t.ex. förvaltningslagen (1986:223),
+            där riksdagen har beslutat föreskrifter inom områden som i princip
+            tillhör regeringens egen normgivningskompetens. Det är inte ovanligt
+            att lagar av detta slag anger att regeringen kan besluta föreskrifter
+            inom det aktuella området eller att föreskrifter, som regeringen
+            beslutar och som avviker från lagen, skall ha företräde (se t.ex.
+            3 § förvaltningslagen). Om det är fråga om sådana fall då riksdagen
+            har lämnat en del av regeringens restkompetens orörd och "bemyndigandet"
+            bara erinrar om detta förhållande (s.k. kvasibemyndigande), eller
+            om det rör sig om fall då riksdagen har övertagit hela området
+            och verkligen ger regeringen ett bemyndigande inom delar av det,
+            är inte alltid enkelt att avgöra. I det förra fallet utnyttjar
+            regeringen sin restkompetens och i det senare bemyndigandet. Eftersom
+            gränsen mellan vad som kan betraktas som verkställighetsföreskrifter
+            och vad som är restkompetens i många avseenden är diffus kan det
+            vidare i ett visst fall vara uppenbart att regeringen i och för
+            sig har rätt att meddela föreskrifterna, medan det inte är möjligt
+            att med säkerhet säga att den ena eller andra kompetensen utnyttjas.
+            För det fjärde krävs inte alltid att ett bemyndigande som riksdagen
+            lämnar till regeringen skall ges i lagform vilket kan skapa problem.
+            Regeringen understryker dock att det i de flesta fall naturligtvis
+            går att ange vilken rättslig grund som utnyttjas för en normgivning.
+            Men komplikationerna gör det omöjligt att införa ett absolut krav
+            på detta. Naturligtvis måste målsättningen vara att även i svårutredda
+            fall ange vilket bemyndigande eller vilken grund i övrigt som
+            har utnyttjats Reglerna för utformningen av bl.a. förordningar
+            finns i Regeringskansliets riktlinjer för författningsskrivning.
+            En särskild fråga som måste uppmärksammas när riktlinjerna för
+            författningsskrivning ses över är om upplysningar om bemyndiganden
+            bör lämnas av regeringen i ingressen eller på något annat ställe
+            i själva förordningen eller om upplysningarna bör lämnas av SFS-utgivaren
+            i noter till förordningarna på samma sätt som dagens hänvisningar
+            till bakomliggande EG-direktiv enligt 18 a och 18 b §§ författningssamlingsförordningen.
+            Motionen I motion 2003/04:K334 av Ragnwi Marcelind (kd) begärs
+            tillkännagivanden till regeringen om behovet av att tydliggöra
+            ansvarsförhållandena inom bemyndigandekedjorna (yrkande 3). Det
+            går i dag enligt motionen inte att - utan ingående kunskaper -
+            följa bemyndigandekedjorna och se hur riksdagens bemyndiganden
+            att meddela fortsatt normgivning utnyttjas av regeringen och myndigheterna.
+            Utskottets ställningstagande Utskottet vill understryka värdet
+            av att grunden för normgivningen redovisas. Av regeringens skrivelse
+            framgår att regeringen avser att förändra lagstiftningstekniken
+            så att det normalt framgår av förordningar eller av fotnoter till
+            förordningar vilket eller vilka bemyndiganden som har utnyttjats.
+            Även om ett absolut krav på detta inte kan ställas upp är regeringens
+            målsättning att även i svårutredda fall ange vilket bemyndigande
+            eller vilken grund i övrigt som har utnyttjats. Regeringen avser
+            således att grunden för regeringens normgivning skall anges så
+            långt det låter sig göra. Enligt utskottets mening får Riksdagens
+            revisorers förslag om ett system för att ange vilken eller vilka
+            lagar regeringen grundar sina förordningar på därigenom i allt
+            väsentligt anses tillgodosett, liksom motionsyrkandet om tydliggörande
+            av ansvarsförhållanden inom bemyndigandekedjorna. Riksdagens revisorers
+            förslag 2002/03:RR20 i denna del (yrkande 2) och motion 2003/04:K334
+            yrkande 3 (kd) avstyrks. Förteckning och publicering av kommunala
+            författningar Utskottets förslag i korthet Riksdagens revisorers
+            förslag om en central styrning i syfte att åstadkomma länkning
+            av kommunala författningar till rättsinformationssystemet avstyrks
+            med hänvisning till att regeringen angett att det bör göras särskilda
+            insatser på området. Utskottet understryker behovet av en sådan
+            publicering. Utskottet, som vidhåller tidigare ställningstagande
+            och inte är berett att förorda att kommunerna skall åläggas att
+            förteckna och publicera sina författningar, avstyrker en motion
+            (kd) om detta. Jämför reservation (kd) och särskilt yttrande (v,
+            mp). Riksdagens revisorers förslag Riksdagens revisorer anser
+            att kommunerna skall förteckna sina författningar och hålla dem
+            tillgängliga för medborgarna. Även om revisorerna har förståelse
+            för Svenska Kommunförbundets och Landstingsförbundets syn att
+            de närmare formerna för detta bör bestämmas av de enskilda kommunerna
+            anser de att det är väsentligt att medborgarna kan orientera sig
+            inom olika lagstiftningsområden. Rättsinformationssystemet bör
+            därför enligt revisorerna göras så komplett som möjligt med kommunala
+            författningar inom olika lagstiftningsområden. Dessutom gäller
+            enligt revisorerna att det även för kommunerna torde vara väsentligt
+            att på ett överskådligt sätt kunna följa vad som gäller inom olika
+            områden. Revisorerna anser att någon form av central styrning
+            krävs för att kommunala författningar skall kunna länkas till
+            rättsinformationssystemet och föreslår ett tillkännagivande till
+            regeringen om att regeringen skall utforma en ordning för hur
+            kommunala författningar inom olika lagstiftningsområden skall
+            kunna ingå i rättsinformationssystemet (yrkande 3). Regeringens
+            skrivelse Enligt de övergripande målsättningar för rättsinformationssystemet
+            som regeringen redovisar i skrivelsen bör särskilda insatser göras
+            för att kommunernas författningar skall kunna bli tillgängliga
+            via rättsinformationssystemet. Enligt 9 § rättsinformationsförordningen
+            får kommunala föreskrifter ingå i systemet, men ingen kommun har
+            ännu anslutit sig. Regeringen delar riksdagens revisorers uppfattning
+            om det angelägna i att rättsinformationssystemet blir så komplett
+            som möjligt med föreskrifter inom alla rättsområden och på alla
+            nivåer. Det är enligt regeringen betydelsefullt om de kommunala
+            föreskrifterna skulle kunna föras in i systemet. Ett införande
+            av en skyldighet för kommunerna att förteckna och publicera sina
+            författningar i författningssamlingar är emellertid enligt regeringen
+            förhållandevis ingripande och rör en mängd frågor som inte primärt
+            tar sikte på rättsinformationssystemets uppbyggnad. En annan väg
+            för att föra in kommunala föreskrifter i rättsinformationssystemet
+            skulle enligt regeringen vara att riksdagen beslutar föreskriva
+            att dessa skulle bli ett obligatoriskt innehåll i systemet. Denna
+            lösning skulle i praktiken motsvara en skyldighet för kommunerna
+            att förteckna och publicera sina författningar. Det kräver dock
+            omfattande samordningsinsatser samtidigt som det för kommunerna
+            kan vara tekniskt komplicerat att genomföra en ordning som innebär
+            en skyldighet att se till att länkning går att genomföra. Även
+            kostnadsaspekter talar enligt regeringen emot att kommunerna åläggs
+            skyldighet att ansluta sig till rättsinformationssystemet. Kommunernas
+            anslutning till rättsinformationssystemet bör enligt regeringen
+            i första hand ske på frivillig väg. Regeringen anger att Statskontoret
+            i egenskap av samordningsmyndighet för rättsinformationssystemet
+            i detta syfte bör rikta insatser mot de kommuner som vill delta
+            i systemet. Motionen Ingvar Svensson m.fl. (kd) begär i motion
+            2003/04:K396 ett regeringsförslag om lagstiftning om skyldighet
+            för kommunerna att förteckna och publicera sina författningar.
+            Motionärerna pekar på att det för närvarande inte finns särskilda
+            generella regler för hur de kommunala författningarna skall utformas
+            och kungöras. Normbesluten behandlas som andra kommunala beslut.
+            De antecknas i protokoll och anslås på anslagstavla. I kommunerna
+            tänker man enligt motionen inte i termer av normgivning och skiljer
+            ofta inte mellan normgivning och myndighetsutövning mot enskild.
+            Enligt motionärerna skulle ett införande av samma regler för kommuner
+            som för statliga myndigheter i fråga om författningarnas utformning
+            och kungörande skapa klara handläggningsrutiner och lägga grund
+            för en enhetlig, stringent och lagenlig maktutövning. Ett införande
+            av lagregler för en kommunal författningssamling skulle enligt
+            motionen medföra en avsevärt ökad rättssäkerhet i kommunernas
+            utövande av normgivningsmakten. Dessutom skulle det göra det möjligt
+            för allmänheten att ta reda på om författningarna är lagliga eller
+            ej. Enhetligt utformade och en för varje kommun upprättad författningssamling
+            skulle vara till hjälp för kommunernas egna handläggare, för politiker
+            och för allmänhetens insyns- och kontrollmöjligheter. Motionärerna
+            pekar på att skälen till att kommunernas normgivning inte omfattas
+            av reglerna om utformning och kungörande av författningar är att
+            kommuner och landsting hävdat sin självbestämmanderätt. I promemorian
+            Kommunala författningssamlingar (Ds 1995:7) föreslogs i stort
+            sett samma regler för kommunala författningssamlingar som gäller
+            för de statliga myndigheterna. Nästan alla remissinstanser stödde
+            förslaget men kommunförbundet och landstingsförbundet motsatte
+            sig förslaget med hänvisning till den kommunala självbestämmanderätten.
+            Utvecklingen av informationssamhället och medborgarnas ökade krav
+            på och intresse för att kunna granska de rättsliga grunderna för
+            olika beslut är enligt motionen faktorer som förstärker behovet
+            av att ställa krav på kommunerna att upprätta kommunala författningssamlingar.
+            Riksdagen bör begära förslag till en sådan lagstiftning av regeringen.
+            Tidigare riksdagsbehandling Konstitutionsutskottet konstaterade
+            hösten 1992 (bet. 1992/93:KU1) att kommunerna, trots utfärdade
+            riktlinjer, publicerat författningar endast i mycket begränsad
+            omfattning. Utskottet föreslog ett tillkännagivande om att regeringen
+            borde låta frågan om publicering av kommunernas och landstingens
+            författningar bli föremål för överväganden i något lämpligt sammanhang.
+            Riksdagen följde utskottet (rskr. 1992/93:5). I ett interpellationssvar
+            (ip. 1996/97:233) som lämnades i riksdagen år 1997 anförde dåvarande
+            inrikesminister Jörgen Andersson bl.a. att det i det då ansträngda
+            ekonomiska läget inte fanns tillräckligt starka skäl att vidta
+            åtgärder i fråga om kommunala författningssamlingar. Ett krav
+            på kommunala författningssamlingar skulle enligt inrikesministern
+            nämligen innebära ett nytt åliggande för kommunerna som staten
+            på grund av finansieringsprincipen måste kompensera kommunerna
+            för. Regeringen hade valt att ge andra angelägna kommunala åtaganden
+            och åligganden en högre prioritet. Det arbete som pågick inom
+            Regeringskansliet med ett moderniserat rättsdatasystem skulle
+            dock enligt inrikesministern kunna vara ett led i att få de kommunala
+            författningarna mer överblickbara och lättillgängliga. Utskottet
+            behandlade frågan om kommunala författningssamlingar våren 2000
+            i betänkande 1999/2000:KU13. Utskottet konstaterade att regeringen
+            inom ramen för arbetet med ett nytt rättsinformationssystem vidtagit
+            åtgärder som var ägnade att underlätta för och stimulera kommuner
+            och landsting att tillhandahålla sina författningar i elektronisk
+            form. Utskottet ansåg att den ordning som bygger på kommunernas
+            frivilliga medverkan var bra och att de formella krav som ställdes
+            på de dokument som skulle ingå i systemet var välgrundade. Det
+            var utskottets förhoppning att samtliga kommuner och landsting
+            efter hand skulle komma att ansluta sig till rättsinformationssystemet.
+            Senast behandlades frågan av konstitutionsutskottet våren 2003
+            (bet. 2003/04:24). Utskottet vidhöll sin tidigare ståndpunkt avseende
+            kommunala författningssamlingar, dvs. att den ordning som bygger
+            på kommunernas frivilliga medverkan är till fyllest. Utskottets
+            ställningstagande Rättsinformationssystemets syfte är att tillförsäkra
+            den offentliga förvaltningen och enskilda tillgång till grundläggande
+            rättsinformation i elektronisk form. För att systemet skall vara
+            komplett och fullvärdigt fordras självfallet att föreskrifter
+            på samtliga nivåer i samhället ingår i systemet. Utskottet anser
+            att det är en klar brist att ett så angeläget område som de kommunala
+            föreskrifterna inte ingår i systemet. Regeringen hänvisar till
+            att kommunernas anslutning till rättsinformationssystemet i första
+            hand bör ske på frivillig väg och att det bör riktas insatser
+            mot de kommuner som vill delta i systemet. Utskottet vill understryka
+            vikten av att insatserna för att förmå kommunerna att frivilligt
+            medverka i systemet är effektiva. Utskottet, som avser att följa
+            effekterna av de aviserade insatserna, är inte nu berett att ställa
+            sig bakom Riksdagens revisorers förslag om ett tillkännagivande
+            till regeringen om en centralstyrd ordning för hur kommunala författningar
+            skall kunna ingå i rättsinformationssystemet. Riksdagens revisorers
+            förslag 2002/03:RR20 yrkande 3 avstyrks därför. Utskottet är med
+            hänsyn till den kommunala självstyrelsen och även med hänsyn till
+            kostnadsaspekterna inte berett att nu förorda en skyldighet för
+            kommunerna att förteckna och publicera sina föreskrifter. Motion
+            2003/04:K396 (kd) avstyrks därför. EG-rätten Utskottets förslag
+            i korthet Med hänvisning till det arbete som pågår inom EU och
+            som syftar till att åstadkomma kopplingar mellan EU:s rättsdatabaser
+            och nationella databaser och med hänsyn till att regeringen i
+            skrivelsen redovisat en beredskap för att inleda ett svenskt arbete
+            avstyrker utskottet Riksdagens revisorers förslag om att regeringen
+            skall utarbeta ett förslag till hur EG-rätten skall kopplas till
+            rättsdatasystemet. Riksdagens revisorers förslag Riksdagens revisorer
+            anser att det behövs kopplingar mellan EG-regler inom ett område
+            och rättsinformationssystemet. Sådana kopplingar skulle även underlätta
+            riksdagens uppföljning av lagstiftning och minska behovet av särskild
+            återrapportering om hur EG-rätten genomförts i svensk lagstiftning.
+            Revisorerna föreslår ett tillkännagivande till regeringen om att
+            regeringen skall utarbeta ett förslag till hur EG-rätten skall
+            kopplas till rättsinformationssystemet (yrkande 4). Regeringens
+            skrivelse Enligt 18 a § författningssamlingsförordningen (1976:725)
+            gäller att om en ny eller ändrad författning helt eller delvis
+            genomför EG-direktiv, skall en hänvisning till direktivet göras
+            i den författningssamling där författningen kungörs. Det går i
+            praktiken till så att hänvisningen tas in i en ingressnot till
+            författningen. Dessa noter skall alltså finnas i de delar av rättsinformationssystemet
+            som visar författningarna i den form de kungörs. Noterna tar inte
+            sikte på enskilda bestämmelser i författningen och inte heller
+            på enskilda artiklar i ett EG-direktiv. Det skulle enligt regeringen
+            vara en mycket bra åtgärd att utarbeta en ordning för att koppla
+            enskilda artiklar i exempelvis ett EG-direktiv till de svenska
+            bestämmelser vari artikeln genomförs. Inom ramen för utvecklingen
+            av EU:s rättsdatabaser, det s.k. EULEX 3-projektet pågår ett motsvarande
+            arbete. Detta projekt har som slutmål att det skall gå att söka
+            från unionens rättsdatabaser, och i de nationella databaserna
+            hitta var en viss bestämmelse i ett direktiv har genomförts. EU:s
+            arbete med en koppling mellan de nationella databaserna och EU:s
+            databaser förefaller vara en avsevärt svårare uppgift än vad som
+            förutsetts. Arbetet fortsätter dock och det finns en avsikt att
+            involvera det svenska rättsinformationssystemet i projektet. Regeringen
+            har uppfattningen att det inte kan anses motiverat med ett sådant
+            eventuellt dubbelarbete som ett svenskt initiativ skulle leda
+            till. Skulle resultatet av EU:s arbete inte visa sig lyckosamt
+            bör dock enligt regeringen ett svenskt arbete inledas. Utskottets
+            ställningstagande Av regeringens skrivelse framgår att det pågår
+            ett arbete inom EU med syftet att söka åstadkomma kopplingar mellan
+            EU:s databaser och de nationella databaserna. Som regeringen framhållit
+            bör detta arbete avvaktas samtidigt som det bör finnas en beredskap
+            att inleda ett svenskt arbete om EU-arbetet misslyckas. Enligt
+            utskottets mening är ett tillkännagivande till regeringen om behovet
+            av ett svenskt förslag mot denna bakgrund inte nödvändigt. Riksdagens
+            revisorers skrivelse 2002/03:20 yrkande 4 avstyrks följaktligen.
+          </p>
+          <p>
+            Reservation Utskottets förslag till riksdagsbeslut och ställningstaganden
+            har föranlett följande reservationer. I rubriken anges vilken
+            punkt i utskottets förslag till riksdagsbeslut som behandlas i
+            avsnittet. Förteckning och publicering av kommunala författningar,
+            punkt 5 (kd) av Ingvar Svensson (kd). Förslag till riksdagsbeslut
+            Jag anser att förslaget till riksdagsbeslut under punkt 5 borde
+            ha följande lydelse: Riksdagen bifaller motion 2003/04:K396. Ställningstagande
+            Det finns för närvarande inga särskilda, generella regler för
+            hur de kommunala författningarna skall utformas och kungöras.
+            Normbesluten behandlas som alla andra beslut i en kommun. De antecknas
+            i protokoll, protokollet justeras och ett anslag sätts upp på
+            anslagstavla med uppgifter om beslutet. För vissa normbeslut finns
+            speciella kungöranderegler, men i stort behandlas dock normbesluten
+            som andra fullmäktige- och nämndbeslut i en kommun. När man vill
+            ta del av en kommunal författning får man således söka i beslutsprotokollen.
+            Vanligen finns protokollen i pappersform, sorterade i kronologisk
+            ordning, i ett kommunarkiv. Det är vanligt att blanda ihop normbeslut
+            med myndighetsutövning gentemot enskild. Detta leder till att
+            handläggningen ibland blir felaktig eftersom det är olika regler
+            för olika typer av myndighetsutövning. Ett införande av samma
+            regler för kommuner som för statliga myndigheter i fråga om författningarnas
+            utformning och kungörande skulle skapa klarhet i handläggningsrutiner
+            och lägga en grund för en enhetlig, stringent och lagenlig maktutövning.
+            Enhetligt utformade och en för varje kommun upprättad författningssamling
+            skulle vara till stor hjälp från flera synpunkter. De är till
+            hjälp för kommunens egna handläggare. De är till hjälp för politiker.
+            De är till hjälp för allmänheten för att skapa insyn och kontroll.
+            Lagstadgade kommunala författningssamlingar bör ses som ett viktigt
+            och klargörande inslag i etikdebatten. Utvecklingen av informationssamhället
+            och medborgarnas ökade krav på och intresse för att kunna granska
+            de rättsliga grunderna för olika beslut är faktorer som förstärker
+            behovet av lagstiftning om skyldighet för kommunerna att ha kommunala
+            författningssamlingar. Riksdagen bör med bifall till motion K396
+            begära förslag till en sådan lagstiftning av regeringen. Särskilt
+            yttrande Utskottets beredning av ärendet har föranlett följande
+            särskilt yttrande. I rubriken anges inom parentes vilken punkt
+            i utskottets förslag till riksdagsbeslut som behandlas. Förteckning
+            och publicering av kommunala författningar, punkt 5 (v, mp) Mats
+            Einarsson (v) och Gustav Fridolin (mp) anför: Enligt vår mening
+            talar mycket för en lagstiftning om skyldighet för kommunerna
+            att förteckna och publicera sina författningar. Den nuvarande
+            situationen är otillfredsställande. Om inte en förbättring synes
+            kunna åstadkommas på annat sätt förutsätter jag att regeringen
+            på eget initiativ bereder ett sådant förslag och därvid beaktar
+            finansieringsprincipen. Något tillkännagivande av riksdagen till
+            regeringen är dock enligt min mening inte påkallat nu.
+          </p>
+          <p>
+            Bilaga Förteckning över behandlade förslag Skrivelse 2003/04:168
+            Regeringens skrivelse 2003/04:168 Den fortsatta utvecklingen av
+            rättsinformationssystemet. Förslag 2002/03:RR20 Förslag 2002/03:RR20
+            Riksdagens revisorers förslag angående Ordning på rätten: 1. Riksdagen
+            tillkännager för regeringen som sin mening vad Riksdagens revisorer
+            anför i avsnitt 2.2 om rättsinformationssystemet. 2. Riksdagen
+            tillkännager för regeringen som sin mening vad Riksdagens revisorer
+            anför i avsnitt 2.3 om att regeringen bör ange den rättsliga grunden
+            för sina författningar. 3. Riksdagen tillkännager för regeringen
+            som sin mening vad Riksdagens revisorer anför i avsnitt 2.4 om
+            kommunala författningar i rättsinformationssystemet. 4. Riksdagen
+            tillkännager för regeringen som sin mening vad Riksdagens revisorer
+            anfört i avsnitt 2.5 om att regeringen bör utarbeta förslag till
+            hur EG-rätten skall kopplas till rättsinformationssystemet. Motioner
+            från allmänna motionstiden hösten 2003 2003/04:K334 av Ragnwi
+            Marcelind (kd): 1. Riksdagen tillkännager för regeringen som sin
+            mening vad i motionen anförs om behovet av ett förenklat rättsinformationssystem
+            som möjliggör att det går att se vad som gäller inom ett område,
+            vare sig bestämmelserna finns i lag, förordning, myndighetsskrift
+            eller i kommunal författning. 2. Riksdagen tillkännager för regeringen
+            som sin mening vad i motionen anförs om behovet av att fastställa
+            vilka kvalitetskrav som skall vara uppfyllda. 3. Riksdagen tillkännager
+            för regeringen som sin mening vad i motionen anförs om behovet
+            av att tydliggöra ansvarsförhållandena inom bemyndigandekedjorna.
+            2003/04:K396 av Ingvar Svensson m.fl. (kd): Riksdagen begär att
+            regeringen lägger fram förslag till lagstiftning med skyldighet
+            för kommunerna att förteckna och publicera sina författningar.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
